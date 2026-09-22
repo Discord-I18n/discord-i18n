@@ -300,6 +300,9 @@
   "+7MDbQ": [
     "Schakel meldingen in"
   ],
+  "+7NlgO": [
+    "Meer informatie"
+  ],
   "+7XY31": [
     "Ontgrendel met boosten"
   ],
@@ -9923,6 +9926,37 @@
   "21vmYl": [
     "Vriend is verwijderd."
   ],
+  "221iML": [
+    "Je zit in de leeftijdsgroep voor tieners (13-17), dus je hebt extra bescherming en ",
+    [
+      8,
+      "$link",
+      [
+        "content en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " voor volwassenen zijn niet beschikbaar. Klopt je leeftijdsgroep niet? Dan kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Kanaalstatus wissen"
   ],
@@ -15264,6 +15298,9 @@
   ],
   "417A+c": [
     "Verzilveren"
+  ],
+  "41MDhK": [
+    "Je zit in de leeftijdsgroep van tieners"
   ],
   "41NIIh": [
     "Waarom verander je van e-mailadres?"
@@ -26292,6 +26329,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Leeftijdsgroepen bepalen of je toegang kunt krijgen tot content en instellingen die voor volwassenen zijn bedoeld. Je zit in de volwassen leeftijdsgroep, dus er verandert niets voor jou. ",
+    [
+      8,
+      "$link",
+      [
+        "Lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Kanaalmachtigingen maken"
   ],
@@ -34523,6 +34576,9 @@
   ],
   "BozOXu": [
     "Je hebt de mogelijkheid je externe account aan Discord te koppelen voor extra functies en toegang tot deze server."
+  ],
+  "Bp/1dq": [
+    "Meer informatie vind je in onze blog"
   ],
   "Bp2/ni": [
     "Als je vertrekt, blokkeer of negeer je deze gebruiker(s) nog steeds."
@@ -45137,6 +45193,23 @@
   "GZxoUb": [
     "Posts sorteren"
   ],
+  "Ga2z/E": [
+    "Je account valt in de leeftijdsgroep tieners, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde. ",
+    [
+      8,
+      "$link",
+      [
+        "Als dit niet klopt, bevestig dan dat je volwassen bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recensies"
   ],
@@ -45338,6 +45411,9 @@
   ],
   "GdNkvG": [
     "Verlanglijstacties"
+  ],
+  "GdTVPF": [
+    "We hebben extra bescherming gestart voor tieners"
   ],
   "GdVA11": [
     "Demolished"
@@ -46900,6 +46976,22 @@
   ],
   "HGCLZX": [
     "Plaats je favoriete stickers, waar je ook aan het chatten bent."
+  ],
+  "HGJo1F": [
+    "Sommige instellingen kunnen alleen worden gewijzigd als je in de volwassen leeftijdsgroep zit. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Wil je een geanimeerde avatar?"
@@ -66294,6 +66386,22 @@
   "PMsq/b": [
     "Vriendschapsverzoek sturen"
   ],
+  "PMznGO": [
+    "Leeftijdsgroepen bepalen of je toegang kunt krijgen tot content en instellingen die voor volwassenen zijn bedoeld. Je zit in de volwassen leeftijdsgroep (18+), dus er verandert niets voor jou. ",
+    [
+      8,
+      "$link",
+      [
+        "Lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Plaats geen leeftijdsgebonden of ongepaste content. Hieronder vallen teksten, beelden of links die naaktheid, seks, grof geweld of andere visueel verontrustende content bevatten."
   ],
@@ -82115,6 +82223,37 @@
   "W0+LsV": [
     "24 uur"
   ],
+  "W0/7DD": [
+    "Je leeftijdsgroep is nog niet bevestigd, dus ",
+    [
+      8,
+      "$link",
+      [
+        "sommige content en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " die bedoeld zijn voor volwassenen zijn pas beschikbaar als je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigt dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Hiermee wordt de mogelijkheid om in te loggen met een authenticatiecode via sms verwijderd. Weet je zeker dat je deze functie wilt verwijderen?"
   ],
@@ -92261,6 +92400,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Als dit niet klopt, bevestig dan dat je volwassen bent"
+  ],
   "ZzdgUm": [
     "Kan kanaal niet privé maken"
   ],
@@ -99177,6 +99319,9 @@
   ],
   "cHzQ2O": [
     "Bezwaar maken tegen quarantaine"
+  ],
+  "cI+bc/": [
+    "Leeftijd bevestigen"
   ],
   "cIGvZI": [
     "Goedgekeurde betalingen worden overgemaakt binnen 15 dagen na het einde van de kalendermaand waarin de inkomsten zijn vergaard. Meer informatie over de goedkeuring van betalingen vind je in onze Monetisatievoorwaarden"
@@ -107761,6 +107906,14 @@
   "ez/N/R": [
     "Kan zien wie er in de server is en of er wijzigingen zijn op het gebied van hun rollen, bijnamen en machtigingen."
   ],
+  "ezJA0R": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten. Je hebt een tieneraccount. Klopt dat niet? Bevestig dan dat je een volwassene bent."
+  ],
   "ezLpY6": [
     "Verlaat het podium"
   ],
@@ -108117,6 +108270,9 @@
   ],
   "f7aVGn": [
     "Gameprofiel"
+  ],
+  "f7c7qE": [
+    "Je account valt in de leeftijdsgroep tieners, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde."
   ],
   "f7g0DK": [
     "Terug naar woonkamer"
@@ -112425,6 +112581,23 @@
   "gi2swM": [
     "Bericht ook verstuurd naar het hoofdkanaal"
   ],
+  "gi4ulu": [
+    "Je zit in de volwassen leeftijdsgroep (18+) en je hebt dus toegang tot ",
+    [
+      8,
+      "$link",
+      [
+        "leeftijdsgebonden content, ruimtes en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Je verzendt berichten te snel!"
   ],
@@ -113485,6 +113658,14 @@
   ],
   "h48QWG": [
     "Posts"
+  ],
+  "h4HbnI": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten. Bevestig dat je een volwassene bent voor toegang tot leeftijdsgebonden content, ruimtes en instellingen."
   ],
   "h4WIYV": [
     "Gebruik ",
@@ -116821,6 +117002,14 @@
   ],
   "iJA/TE": [
     "Toegevoegd aan Favorieten"
+  ],
+  "iK0n30": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten."
   ],
   "iKAdpR": [
     "Upgrade om al het aangepaste lekkers te krijgen."
@@ -120541,6 +120730,9 @@
   "jjUTL+": [
     "Studentenhub"
   ],
+  "jjpcno": [
+    "Bekijken in instellingen"
+  ],
   "jkg8Zu": [
     "Spraakkanalen zijn bedoeld om lekker te hangen. Dus kom er vooral bij als je zin hebt in een gesprek. Vrienden kunnen je zien en meedoen. Alsof je telepathisch hallo zegt."
   ],
@@ -120921,6 +121113,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Je leeftijdsgroep is nog niet bevestigd, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde."
   ],
   "jsudFd": [
     "Ingevouwen"
@@ -123459,6 +123654,22 @@
   ],
   "l+S46U": [
     "Geanimeerd"
+  ],
+  "l+jt8J": [
+    "Je zit in de leeftijdsgroep voor tieners, dus berichtverzoeken kunnen niet worden uitgeschakeld. Als dit niet klopt, kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Verander je stem om een heel ander geluid te laten horen en nog meer lol te hebben tijdens oproepen!"
@@ -126534,6 +126745,9 @@
   ],
   "m8xsti": [
     "Alfabetisch"
+  ],
+  "m95jW8": [
+    "Je leeftijdsgroep is onbevestigd"
   ],
   "m9O1gd": [
     "Reageren"
@@ -139749,6 +139963,22 @@
   "qSctqV": [
     "Wat worden ze snel groot :') en dat was nooit gelukt zonder abonnees als jij. Bedankt dat je zo geweldig bent en hou ons in de gaten voor meer Nitro-goodies dit jaar."
   ],
+  "qSkhZH": [
+    "Leeftijdsgroepen bepalen of je toegang hebt tot content en instellingen voor volwassenen. Voor de rest werkt Discord hetzelfde. Bekijk je leeftijdsgroep hieronder en ",
+    [
+      8,
+      "$link",
+      [
+        "lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -140125,6 +140355,22 @@
   ],
   "qaYzPA": [
     "Evenement eindigen"
+  ],
+  "qbBkFI": [
+    "Je zit in de leeftijdsgroep tieners, dus sommige instellingen kunnen niet worden gewijzigd. Als dit niet klopt, kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Abonnement annuleren"
@@ -148281,6 +148527,9 @@
   "t58lNN": [
     "Aan server deelnemen met een uitnodigingslink"
   ],
+  "t5QjmQ": [
+    "Je zit in de volwassen leeftijdsgroep"
+  ],
   "t5VZ88": [
     "Gekopieerd"
   ],
@@ -148595,6 +148844,22 @@
   ],
   "tGYbvd": [
     "Geplande evenementen"
+  ],
+  "tGsCdS": [
+    "Berichtverzoeken kunnen alleen worden uitgeschakeld als je in de volwassen leeftijdsgroep zit. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Je hebt geen toegang tot deze hangplek"
@@ -154138,6 +154403,22 @@
   ],
   "vGs4hr": [
     "Bestand uploaden"
+  ],
+  "vGxRDB": [
+    "Leeftijdsgroepen bepalen of je toegang hebt tot content en instellingen voor volwassenen. Voor de rest werkt Discord hetzelfde. Bekijk je leeftijdsgroep hieronder en ",
+    [
+      8,
+      "$link",
+      [
+        "lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Categorie"
@@ -161939,6 +162220,23 @@
   ],
   "xunxCo": [
     "Als je een kanaal toevoegt aan een abonnementsniveau, hebben serverleden die geen serverabonnee zijn er geen toegang meer toe."
+  ],
+  "xuvWqy": [
+    "Je leeftijdsgroep is nog niet bevestigd, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie vind je in onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Welkom! Je hoort hier thuis"

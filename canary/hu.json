@@ -306,6 +306,9 @@
   "+7MDbQ": [
     "Értesítések bekapcsolása"
   ],
+  "+7NlgO": [
+    "További tájékoztatás"
+  ],
   "+7XY31": [
     "Feloldás gyorsítással"
   ],
@@ -9111,6 +9114,36 @@
   "21vmYl": [
     "A barát el lett távolítva."
   ],
+  "221iML": [
+    "A tizenéves (13–17) korcsoportba tartozol, ezért további védelmi mechanizmusok vannak érvényben nálad, és nem érhetők el számodra felnőtteknek szóló ",
+    [
+      8,
+      "$link",
+      [
+        "tartalmak és beállítások"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    ". Ha helytelen a korcsoportod, ",
+    [
+      8,
+      "$link",
+      [
+        "megerősítheted, hogy felnőtt vagy"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Csatornaállapot eltávolítása"
   ],
@@ -13908,6 +13941,9 @@
   ],
   "417A+c": [
     "Beváltás"
+  ],
+  "41MDhK": [
+    "A tizenéves korcsoportba tartozol"
   ],
   "41NIIh": [
     "Miért módosítod az e-mail-címedet?"
@@ -24004,6 +24040,22 @@
     ],
     " leírással"
   ],
+  "8TWztV": [
+    "Korcsoportok alapján döntjük el, hogy hozzáférhetsz-e felnőtteknek szóló tartalmakhoz és beállításokhoz. Te a felnőtt korcsoportba tartozol, ezért semmi sem változik. ",
+    [
+      8,
+      "$link",
+      [
+        "További tájékoztatásért lásd a blogbejegyzésünket"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Csatorna jogosultságok létrehozása"
   ],
@@ -31570,6 +31622,9 @@
   ],
   "BozOXu": [
     "Tetszés szerint hozzákapcsolhatod a külső fiókodat a Discordhoz további funkciókért és hozzáférésért a szerveren belül."
+  ],
+  "Bp/1dq": [
+    "További tájékoztatásért lásd a blogbejegyzésünket"
   ],
   "Bp2/ni": [
     "Akkor is le lesz tiltva vagy mellőzve lesz, ha távozol."
@@ -41339,6 +41394,23 @@
   "GZxoUb": [
     "Bejegyzések rendezése"
   ],
+  "Ga2z/E": [
+    "A fiókod a tizenéves korcsoportba tartozik, ezért a felnőtteknek szóló tartalmak és beállítások nem érhetők el. A Discord más tekintetben ugyanúgy működik. ",
+    [
+      8,
+      "$link",
+      [
+        "Ha tévedtünk, erősítsd meg, hogy felnőtt vagy"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Vélemények"
   ],
@@ -41522,6 +41594,9 @@
   ],
   "GdNkvG": [
     "Kívánságlista-műveletek"
+  ],
+  "GdTVPF": [
+    "További védelmi beállításokat vezettünk be tizenévesek számára"
   ],
   "GdVA11": [
     "Megsemmisítve"
@@ -60773,6 +60848,22 @@
   "PMsq/b": [
     "Barátkérelem küldése"
   ],
+  "PMznGO": [
+    "Korcsoportok alapján döntjük el, hogy hozzáférhetsz-e felnőtteknek szóló tartalmakhoz és beállításokhoz. Te a felnőtt (18+) korcsoportba tartozol, ezért semmi sem változik. ",
+    [
+      8,
+      "$link",
+      [
+        "További tájékoztatásért lásd a blogbejegyzésünket"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Nincs korhatáros vagy obszcén tartalom. Ebbe a körbe tartozik a meztelenséget, szexet vagy durva erőszakot leíró vagy ábrázoló szöveg, kép vagy hivatkozás, illetve más, nyugalom megzavarására alkalmas tartalom."
   ],
@@ -75385,6 +75476,36 @@
   "W0+LsV": [
     "24 óra"
   ],
+  "W0/7DD": [
+    "Még nincs megerősítve a korcsoportod, ezért bizonyos, felnőtteknek szóló ",
+    [
+      8,
+      "$link",
+      [
+        "tartalmak és beállítások"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " nem érhetők el, amíg ",
+    [
+      8,
+      "$link",
+      [
+        "meg nem erősíted, hogy felnőtt vagy"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Ezzel eltávolítod annak lehetőségét, hogy beléphess a fiókodba SMS-ben kapott biztonsági kódokkal. Biztos eltávolítod ezt a lehetőséget?"
   ],
@@ -84737,6 +84858,9 @@
   "ZzAR2Y": [
     "Bemutatkozás"
   ],
+  "ZzcLhc": [
+    "Ha tévedtünk, erősítsd meg, hogy felnőtt vagy"
+  ],
   "ZzdgUm": [
     "Nem lehet priváttá tenni a csatornát"
   ],
@@ -91181,6 +91305,9 @@
   ],
   "cHzQ2O": [
     "Karantén megfellebbezése"
+  ],
+  "cI+bc/": [
+    "Életkor megerősítése"
   ],
   "cIGvZI": [
     "A feltételeknek megfelelő kifizetéseket legkésőbb annak a naptári hónapnak a vége után 15 nappal folyósítjuk, amikor a bevételszerzés történt. A kifizetési jogosultságról a bevételszerzési feltételekben olvashatsz bővebben."
@@ -99450,6 +99577,9 @@
   "f7aVGn": [
     "Játékprofil"
   ],
+  "f7c7qE": [
+    "A fiókod a tizenéves korcsoportba tartozik, ezért a felnőtteknek szóló tartalmak és beállítások nem érhetők el. A Discord más tekintetben ugyanúgy működik."
+  ],
   "f7g0DK": [
     "Vissza a nappaliba"
   ],
@@ -103562,6 +103692,22 @@
   ],
   "gi2swM": [
     "Üzenet elküldve a fő csatornára is"
+  ],
+  "gi4ulu": [
+    "A felnőtt (18+) korcsoportba tartozol, és ",
+    [
+      8,
+      "$link",
+      [
+        "korhatáros tartalmakhoz, helyekhez és beállításokhoz férsz hozzá"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "Túl gyorsan küldöd az üzeneteket!"
@@ -111023,6 +111169,9 @@
   "jjUTL+": [
     "Diákcsomópont"
   ],
+  "jjpcno": [
+    "Megtekintés a Beállítások menüpontban"
+  ],
   "jkg8Zu": [
     "A hangcsatornák célja a lazulás. Csak ugorj be, ha készen állsz a beszélgetésre. A barátaid láthatnak és csatlakozhatnak hozzád. Ez olyan, mintha telepátiával köszönnél."
   ],
@@ -111362,6 +111511,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Még nincs megerősítve a korcsoportod, ezért bizonyos, felnőtteknek szóló tartalmak és beállítások nem érhetők el. A Discord más tekintetben ugyanúgy működik."
   ],
   "jsudFd": [
     "Becsukva"
@@ -116598,6 +116750,9 @@
   ],
   "m8xsti": [
     "Betűrend"
+  ],
+  "m95jW8": [
+    "Nincs megerősítve a korcsoportod"
   ],
   "m9O1gd": [
     "Reagálás"
@@ -128965,6 +129120,22 @@
   "qSctqV": [
     "Olyan gyorsan felnőnek! :’) Nélkületek, előfizetők nélkül nem ment volna. Figyeljétek az idei további menő Nitro-cuccokat, és köszönjük, hogy ilyen fantasztikusak vagytok."
   ],
+  "qSkhZH": [
+    "Korcsoportok alapján döntjük el, hogy hozzáférhetsz-e felnőtteknek szóló tartalmakhoz és beállításokhoz. A Discord más tekintetben a megszokott módon működik. Alább megtekintheted a korcsoportodat, vagy ",
+    [
+      8,
+      "$link",
+      [
+        "részletesebben tájékozódhatsz a blogbejegyzésünkből"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Magányos vándor"
   ],
@@ -136729,6 +136900,9 @@
   "t58lNN": [
     "Csatlakozz egy szerverhez meghívó linkkel"
   ],
+  "t5QjmQ": [
+    "A felnőtt korcsoportba tartozol"
+  ],
   "t5VZ88": [
     "Kimásolva"
   ],
@@ -142276,6 +142450,22 @@
   ],
   "vGs4hr": [
     "Fájl feltöltése"
+  ],
+  "vGxRDB": [
+    "Korcsoportok alapján döntjük el, hogy hozzáférhetsz-e felnőtteknek szóló tartalmakhoz és beállításokhoz. A Discord más tekintetben a megszokott módon működik. Alább megtekintheted a korcsoportodat, vagy ",
+    [
+      8,
+      "$link",
+      [
+        "részletesebben tájékozódhatsz a blogbejegyzésünkből"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategória"
@@ -149548,6 +149738,23 @@
   ],
   "xunxCo": [
     "Ha csatornát adsz hozzá egy előfizetési szinthez, azzal eltávolítod azoknak a szervertagoknak a hozzáférését, akik nem tartoznak a szerver előfizetői közé."
+  ],
+  "xuvWqy": [
+    "Még nincs megerősítve a korcsoportod, ezért bizonyos, felnőtteknek szóló tartalmak és beállítások nem érhetők el. A Discord más tekintetben ugyanúgy működik. ",
+    [
+      8,
+      "$link",
+      [
+        "További tájékoztatásért lásd a blogbejegyzésünket"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Üdvözlünk! Itt a helyed"

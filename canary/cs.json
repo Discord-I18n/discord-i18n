@@ -305,6 +305,9 @@
   "+7MDbQ": [
     "Zapnout oznámení"
   ],
+  "+7NlgO": [
+    "Zjistit více"
+  ],
   "+7XY31": [
     "Odemknout vylepšováním"
   ],
@@ -10089,6 +10092,37 @@
   "21vmYl": [
     "Přítel odebrán."
   ],
+  "221iML": [
+    "Patříš do věkové skupiny teenagerů (13–17 let), takže ",
+    [
+      8,
+      "$link",
+      [
+        "obsah a nastavení"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " určené pro dospělé nemáš k dispozici. Pokud zjištěná věková skupina není správná, můžeš zkusit ",
+    [
+      8,
+      "$link",
+      [
+        "potvrdit, že patříš mezi dospěláky"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Vymazat stav kanálu"
   ],
@@ -15518,6 +15552,9 @@
   ],
   "417A+c": [
     "Uplatnit"
+  ],
+  "41MDhK": [
+    "Jsi ve věkové skupině teenagerů"
   ],
   "41NIIh": [
     "Proč měníš svou e-mailovou adresu?"
@@ -26818,6 +26855,23 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Věkové skupiny rozhodují o tom, zda máš přístup k obsahu a nastavením určeným pro dospělé. Patříš do věkové skupiny dospělých, takže se pro tebe nic nemění. ",
+    [
+      8,
+      "$link",
+      [
+        "Zjisti více na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "8TnAMP": [
     "Vytvořit oprávnění pro kanál"
   ],
@@ -35249,6 +35303,9 @@
   ],
   "BozOXu": [
     "Jestli chceš, propoj svůj externí účet s Discordem a získej další funkce a přístup na tomto serveru."
+  ],
+  "Bp/1dq": [
+    "Další informace najdeš na našem blogu"
   ],
   "Bp2/ni": [
     "Pokud odejdeš, bude nadále zablokován/a nebo ignorován/a."
@@ -46025,6 +46082,23 @@
   "GZxoUb": [
     "Seřadit příspěvky"
   ],
+  "Ga2z/E": [
+    "Tvůj účet patří do věkové skupiny teenagerů, takže obsah a nastavení určené pro dospělé nejsou k dispozici. Jinak Discord funguje pořád stejně. ",
+    [
+      8,
+      "$link",
+      [
+        "Pokud jsme se spletli, potvrď, že patříš mezi dospěláky"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recenze"
   ],
@@ -46241,6 +46315,9 @@
   ],
   "GdNkvG": [
     "Akce seznamu přání"
+  ],
+  "GdTVPF": [
+    "Spustili jsme další ochrany pro teenagery"
   ],
   "GdVA11": [
     "Zbořeno"
@@ -67555,6 +67632,23 @@
   "PMsq/b": [
     "Odeslat žádost o přátelství"
   ],
+  "PMznGO": [
+    "Věkové skupiny rozhodují o tom, zda máš přístup k obsahu a nastavením určeným pro dospělé. Patříš do věkové skupiny dospělých (18+), takže se pro tebe nic nemění. ",
+    [
+      8,
+      "$link",
+      [
+        "Zjisti více na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "PNIDDJ": [
     "Netolerujeme žádný obscénní obsah ani obsah s věkovým omezením. Tímto obsahem se rozumí texty, obrázky, odkazy směřující na nahotu, sex, násilí nebo jiný znepokojivý grafický obsah."
   ],
@@ -83750,6 +83844,37 @@
   "W0+LsV": [
     "24 hodin"
   ],
+  "W0/7DD": [
+    "Tvoje věková skupina ještě nebyla potvrzena, takže ",
+    [
+      8,
+      "$link",
+      [
+        "některý obsah a nastavení"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " určené pro dospělé nejsou k dispozici, dokud se ti nepodaří ",
+    [
+      8,
+      "$link",
+      [
+        "potvrdit, že patříš mezi dospěláky"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Tímto odebereš možnost přihlášení pomocí ověřovacího kódu přes SMS. Opravdu chceš tuto možnost odebrat?"
   ],
@@ -94214,6 +94339,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Pokud jsme se spletli, potvrď, že patříš mezi dospěláky"
+  ],
   "ZzdgUm": [
     "Kanál nelze nastavit jak soukromý"
   ],
@@ -101811,6 +101939,9 @@
   ],
   "cHzQ2O": [
     "Odvolat se proti karanténě"
+  ],
+  "cI+bc/": [
+    "Potvrdit věk"
   ],
   "cIGvZI": [
     "Vyplacení, na která máš nárok, budou uhrazena do 15 dnů od konce kalendářního měsíce, ve kterém byl zaznamenán zisk. Další informace a nároku na vyplacení najdeš v našich podmínkách monetizace."
@@ -111638,6 +111769,9 @@
   "f7aVGn": [
     "Profil hry"
   ],
+  "f7c7qE": [
+    "Tvůj účet patří do věkové skupiny teenagerů, takže obsah a nastavení určené pro dospělé nejsou k dispozici. Jinak Discord funguje pořád stejně."
+  ],
   "f7g0DK": [
     "Zpět do obýváku"
   ],
@@ -116329,6 +116463,23 @@
   ],
   "gi2swM": [
     "Zpráva byla odeslána také do hlavního kanálu"
+  ],
+  "gi4ulu": [
+    "Patříš do věkové skupiny dospělých (18+) a máš přístup k ",
+    [
+      8,
+      "$link",
+      [
+        "obsahu, místům a nastavením s věkovým omezením"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "gi6XHp": [
     "Posíláš zprávy příliš rychle!"
@@ -125045,6 +125196,9 @@
   "jjUTL+": [
     "Studentské centrum"
   ],
+  "jjpcno": [
+    "Zobrazit v nastavení"
+  ],
   "jkg8Zu": [
     "V hlasových kanálech spolu můžete trávit volný čas. Když si chceš povídat, prostě do nějakého naskoč. Přátelé tě uvidí a budou se moci přidat. Je to jako telepatický pozdrav."
   ],
@@ -125453,6 +125607,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Tvoje věková skupina ještě nebyla potvrzena, takže obsah a nastavení určené pro dospělé nejsou k dispozici. Jinak Discord funguje pořád stejně."
   ],
   "jsudFd": [
     "Méně"
@@ -131364,6 +131521,9 @@
   ],
   "m8xsti": [
     "Abecedně"
+  ],
+  "m95jW8": [
+    "Tvoje věková skupina není potvrzena"
   ],
   "m9O1gd": [
     "Reagovat"
@@ -145942,6 +146102,23 @@
   "qSctqV": [
     "Ten čas tak letí… :') Ale bez předplatitelů, jako jsi ty, by Nitro nikdy tak krásně nevyrostlo. Děkujeme za tvou úžasnou podporu! Letos se můžeš v rámci Nitra těšit na další várku skvělých odměn."
   ],
+  "qSkhZH": [
+    "Věkové skupiny rozhodují o tom, zda máš přístup k obsahu a nastavením určeným pro dospělé. Jinak Discord funguje pořád stejně. Svou věkovou skupinu můžeš vidět níže nebo ",
+    [
+      8,
+      "$link",
+      [
+        "zjistit více na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -155465,6 +155642,9 @@
   "t58lNN": [
     "Připojit k serveru pomocí zvacího odkazu"
   ],
+  "t5QjmQ": [
+    "Jsi ve věkové skupině dospělých"
+  ],
   "t5VZ88": [
     "Zkopírováno"
   ],
@@ -161782,6 +161962,23 @@
   ],
   "vGs4hr": [
     "Nahrát soubor"
+  ],
+  "vGxRDB": [
+    "Věkové skupiny rozhodují o tom, zda máš přístup k obsahu a nastavením určeným pro dospělé. Jinak Discord funguje pořád stejně. Svou věkovou skupinu můžeš vidět níže nebo ",
+    [
+      8,
+      "$link",
+      [
+        "zjistit více na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "vHCZwr": [
     "Kategorie"
@@ -170293,6 +170490,23 @@
   ],
   "xunxCo": [
     "Když přidáš kanál do některé z úrovní předplatného, členové serveru, kteří nemají předplatné, k tomuto kanálu nebudou mít přístup."
+  ],
+  "xuvWqy": [
+    "Tvoje věková skupina ještě nebyla potvrzena, takže obsah a nastavení určené pro dospělé nejsou k dispozici. Jinak Discord funguje pořád stejně. ",
+    [
+      8,
+      "$link",
+      [
+        "Další informace najdeš na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Vítej! Jsi mezi svými"

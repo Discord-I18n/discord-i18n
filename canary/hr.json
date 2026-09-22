@@ -305,6 +305,9 @@
   "+7MDbQ": [
     "Uključi obavijesti"
   ],
+  "+7NlgO": [
+    "Saznaj više"
+  ],
   "+7XY31": [
     "Otključaj s Boostom"
   ],
@@ -10259,6 +10262,36 @@
   "21vmYl": [
     "Prijatelj je uklonjen."
   ],
+  "221iML": [
+    "U tinejdžerskoj si dobnoj skupini (13 – 17), stoga imaš dodatnu zaštitu, a ",
+    [
+      8,
+      "$link",
+      [
+        "sadržaj i postavke"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " namijenjeni odraslima nisu ti dostupni. Ako tvoja dobna skupina nije točna, možeš ",
+    [
+      8,
+      "$link",
+      [
+        "potvrditi da si odrasla osoba"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Obriši status kanala"
   ],
@@ -15748,6 +15781,9 @@
   ],
   "417A+c": [
     "Iskoristi"
+  ],
+  "41MDhK": [
+    "U tinejdžerskoj si dobnoj skupini"
   ],
   "41NIIh": [
     "Zašto mijenjaš svoju e-poštu?"
@@ -27042,6 +27078,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Dobne skupine određuju možeš li pristupiti sadržaju i postavkama namijenjenima odraslima. U odrasloj si dobnoj skupini pa se za tebe ništa ne mijenja. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Stvori dozvole kanala"
   ],
@@ -35561,6 +35613,9 @@
   ],
   "BozOXu": [
     "Poveži svoj vanjski račun s Discordom za dodatne značajke i pristup na ovom serveru."
+  ],
+  "Bp/1dq": [
+    "Doznaj više u objavi na našem blogu"
   ],
   "Bp2/ni": [
     "Ako napustiš, ta će osoba ostati blokirana ili ignorirana."
@@ -46366,6 +46421,23 @@
   "GZxoUb": [
     "Razvrstaj postove"
   ],
+  "Ga2z/E": [
+    "Tvoj račun pripada tinejdžerskoj dobnoj skupini pa sadržaj i postavke namijenjeni odraslima nisu dostupni. Inače Discord radi isto. ",
+    [
+      8,
+      "$link",
+      [
+        "Ako smo pogriješili, potvrdi da si odrasla osoba"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recenzija"
   ],
@@ -46569,6 +46641,9 @@
   ],
   "GdNkvG": [
     "Radnje s popisom želja"
+  ],
+  "GdTVPF": [
+    "Pokrenuli smo dodatne zaštite za tinejdžere"
   ],
   "GdVA11": [
     "Uništeno"
@@ -67969,6 +68044,22 @@
   "PMsq/b": [
     "Pošalji zahtjev za prijateljstvom"
   ],
+  "PMznGO": [
+    "Dobne skupine određuju možeš li pristupiti sadržaju i postavkama namijenjenima odraslima. U odrasloj si dobnoj skupini (18+) pa se za tebe ništa ne mijenja. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Nikakav sadržaj koji ima dobno ograničenje ili prost sadržaj. To se odnosi i na tekstove, slike ili poveznice/linkove na kojima se nalaze seksualni sadržaji, golotinja, grubi nasilni sadržaji ili druge vrste slikovito uznemirujućih sadržaja."
   ],
@@ -84158,6 +84249,36 @@
   "W0+LsV": [
     "24 sata"
   ],
+  "W0/7DD": [
+    "Tvoja dobna skupina još nije potvrđena pa ",
+    [
+      8,
+      "$link",
+      [
+        "neki sadržaj i postavke"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " namijenjeni odraslima nisu dostupni dok ",
+    [
+      8,
+      "$link",
+      [
+        "ne potvrdiš da si odrasla osoba"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Ovo uklanja mogućnost prijave autentikacijskim kodom putem SMS-a.  Jesi li siguran/na da želiš to ukloniti?"
   ],
@@ -94506,6 +94627,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Ako smo pogriješili, potvrdi da si odrasla osoba"
+  ],
   "ZzdgUm": [
     "Nije moguće izraditi privatni kanal"
   ],
@@ -101402,6 +101526,9 @@
   ],
   "cHzQ2O": [
     "Žali se na karantenu"
+  ],
+  "cI+bc/": [
+    "Potvrdi dob"
   ],
   "cIGvZI": [
     "Isplate koje udovolje uvjetima bit će provedene u roku od 15 dana od kraja kalendarskog mjeseca tijekom kojeg je ostvaren prihod. Za više informacija o ispunjavanju uvjeta za isplatu pogledaj naše Uvjete monetizacije"
@@ -110196,6 +110323,9 @@
   "f7aVGn": [
     "Profil igre"
   ],
+  "f7c7qE": [
+    "Tvoj račun pripada tinejdžerskoj dobnoj skupini pa sadržaj i postavke namijenjeni odraslima nisu dostupni. Inače Discord radi isto."
+  ],
   "f7g0DK": [
     "Natrag u dnevni boravak"
   ],
@@ -114448,6 +114578,22 @@
   ],
   "gi2swM": [
     "Poruka je poslana i na glavni kanal"
+  ],
+  "gi4ulu": [
+    "U odrasloj si dobnoj skupini (18+) i imaš pristup ",
+    [
+      8,
+      "$link",
+      [
+        "sadržaju s dobnim ograničenjem, prostorima i postavkama"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "Prebrzo šalješ poruke!"
@@ -122651,6 +122797,9 @@
   "jjUTL+": [
     "Učenički Hub"
   ],
+  "jjpcno": [
+    "Prikaži u postavkama"
+  ],
   "jkg8Zu": [
     "Glasovni kanali služe za druženje. Kad ti se priča, samo uskoči. Prijatelji će te moći vidjeti i pridružiti ti se. To je kao da ih pozdravljaš telepatski."
   ],
@@ -123037,6 +123186,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Tvoja dobna skupina još nije potvrđena pa neki sadržaj i postavke namijenjeni odraslima nisu dostupni. Inače Discord radi isto."
   ],
   "jsudFd": [
     "Skupljeno"
@@ -128656,6 +128808,9 @@
   ],
   "m8xsti": [
     "Abecedno"
+  ],
+  "m95jW8": [
+    "Tvoja dobna skupina nije potvrđena"
   ],
   "m9O1gd": [
     "Reagiraj"
@@ -141762,6 +141917,22 @@
   "qSctqV": [
     "Gle' ga :') kako je već veliki... a nikada ne bi izrastao u tako lijepog momčića da nema tako sjajne pretplatnike. Budi na oprezu jer moglo bi se dogoditi da ove godine bude Nitro suvenira, a i hvala ti na tvojoj superposebnosti."
   ],
+  "qSkhZH": [
+    "Dobne skupine određuju možeš li pristupiti sadržaju i postavkama namijenjenima odraslima. Discord funkcionira na isti način. U nastavku pogledaj svoju dobnu skupinu i ",
+    [
+      8,
+      "$link",
+      [
+        "doznaj više na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Usamljena lutalica"
   ],
@@ -150298,6 +150469,9 @@
   "t58lNN": [
     "Pridruži se serveru linkom pozivnice"
   ],
+  "t5QjmQ": [
+    "U odrasloj si dobnoj skupini"
+  ],
   "t5VZ88": [
     "Kopirano"
   ],
@@ -156122,6 +156296,22 @@
   ],
   "vGs4hr": [
     "Prenesi datoteku"
+  ],
+  "vGxRDB": [
+    "Dobne skupine određuju možeš li pristupiti sadržaju i postavkama namijenjenima odraslima. Discord funkcionira na isti način. U nastavku pogledaj svoju dobnu skupinu i ",
+    [
+      8,
+      "$link",
+      [
+        "doznaj više na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategorija"
@@ -163943,6 +164133,23 @@
   ],
   "xunxCo": [
     "Dodavanjem kanala nekom modelu pretplate uklonit će se pristup članovima servera koji nisu i pretplatnici tog servera."
+  ],
+  "xuvWqy": [
+    "Tvoja dobna skupina još nije potvrđena pa neki sadržaj i postavke namijenjeni odraslima nisu dostupni. Inače Discord radi isto. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više na našem blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Dobrodošlica! Ovdje pripadaš"

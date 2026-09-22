@@ -294,6 +294,9 @@
   "+7MDbQ": [
     "Activer les notifications"
   ],
+  "+7NlgO": [
+    "En savoir plus"
+  ],
   "+7XY31": [
     "Débloquer avec le boost"
   ],
@@ -9952,6 +9955,37 @@
   "21vmYl": [
     "Ami retiré."
   ],
+  "221iML": [
+    "Tu fais partie du groupe d'âge des adolescents (13-17), tu bénéficies donc de protections supplémentaires et le ",
+    [
+      8,
+      "$link",
+      [
+        "contenu et les paramètres"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinés aux adultes ne sont donc pas disponibles. Si ton groupe d'âge n'est pas le bon, tu peux ",
+    [
+      8,
+      "$link",
+      [
+        "confirmer que tu es adulte"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Effacer le statut du salon"
   ],
@@ -15219,6 +15253,9 @@
   ],
   "417A+c": [
     "Utiliser"
+  ],
+  "41MDhK": [
+    "Tu fais partie du groupe d'âge des adolescents"
   ],
   "41NIIh": [
     "Pourquoi changes-tu d'adresse e-mail ?"
@@ -26302,6 +26339,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Les groupes d'âge déterminent si tu peux accéder au contenu et aux paramètres destinés aux adultes. Tu fais partie du groupe d'âge des adultes, donc rien ne change pour toi. ",
+    [
+      8,
+      "$link",
+      [
+        "En savoir plus sur notre blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Création de permissions de salon"
   ],
@@ -34655,6 +34708,9 @@
   ],
   "BozOXu": [
     "Optionnel : Lie ton compte externe à Discord pour profiter de plus de fonctionnalités et accéder à ce serveur."
+  ],
+  "Bp/1dq": [
+    "Pour en savoir plus, consulte notre article de blog"
   ],
   "Bp2/ni": [
     "Si tu pars, ils seront toujours bloqués ou ignorés."
@@ -45223,6 +45279,23 @@
   "GZxoUb": [
     "Trier les posts"
   ],
+  "Ga2z/E": [
+    "Ton compte appartient au groupe d'âge des adolescents, et certains contenus et paramètres destinés aux adultes ne sont donc pas disponibles. À part ça, Discord fonctionne normalement. ",
+    [
+      8,
+      "$link",
+      [
+        "Si nous avons fait une erreur, confirme que tu es un(e) adulte"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Évaluations"
   ],
@@ -45423,6 +45496,9 @@
   ],
   "GdNkvG": [
     "Actions de liste de souhaits"
+  ],
+  "GdTVPF": [
+    "Nous avons lancé des protections supplémentaires pour les adolescents"
   ],
   "GdVA11": [
     "Démoli"
@@ -46968,6 +47044,22 @@
   ],
   "HGCLZX": [
     "Pose tes autocollants favoris partout où tu discutes."
+  ],
+  "HGJo1F": [
+    "Certains paramètres ne peuvent être modifiés que si tu appartiens au groupe d'âge des adultes. ",
+    [
+      8,
+      "$link",
+      [
+        "En savoir plus"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Tu veux posséder un avatar animé ?"
@@ -66389,6 +66481,22 @@
   "PMsq/b": [
     "Envoyer une demande d'ami"
   ],
+  "PMznGO": [
+    "Les groupes d'âge déterminent si tu peux accéder au contenu et aux paramètres destinés aux adultes. Tu fais partie du groupe d'âge des adultes (18+), donc rien ne change pour toi. ",
+    [
+      8,
+      "$link",
+      [
+        "En savoir plus sur notre blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Pas de contenu obscène ou soumis à une limite d'âge, qu'il s'agisse de texte, d'images ou de liens mettant en scène de la nudité, du sexe, de l'hyperviolence ou tout autre contenu explicite perturbant."
   ],
@@ -82272,6 +82380,37 @@
   "W0+LsV": [
     "24 heures"
   ],
+  "W0/7DD": [
+    "Ton groupe d'âge n'a pas encore été confirmé. ",
+    [
+      8,
+      "$link",
+      [
+        "Certains contenus et paramètres"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinés aux adultes ne sont pas disponibles tant que tu n'as pas ",
+    [
+      8,
+      "$link",
+      [
+        "confirmé que tu es adulte"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Cette action supprimera la possibilité de te connecter avec un code d'authentification par SMS. Veux-tu vraiment continuer ?"
   ],
@@ -92506,6 +92645,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Si nous avons fait une erreur, confirme que tu es un(e) adulte"
+  ],
   "ZzdgUm": [
     "Impossible de rendre le salon privé"
   ],
@@ -99512,6 +99654,9 @@
   ],
   "cHzQ2O": [
     "Faire appel de la quarantaine"
+  ],
+  "cI+bc/": [
+    "Confirmer l'âge"
   ],
   "cIGvZI": [
     "Les versements éligibles seront effectués dans les 15 jours suivant la fin du mois calendaire durant lequel les revenus ont été générés. Pour plus d'informations sur l'éligibilité aux versements, merci de consulter nos Conditions de monétisation des utilisateurs"
@@ -108063,6 +108208,14 @@
   "ez/N/R": [
     "Peut voir qui est sur le serveur et les modifications de rôle, de pseudo et de permissions."
   ],
+  "ezJA0R": [
+    "Ce salon est réservé aux adultes (18+) par les admins de ",
+    [
+      1,
+      "guildName"
+    ],
+    " et peut contenir du contenu sensible. Ton compte appartient au groupe d'âge des adolescents. Si ton groupe d'âge n'est pas correct, confirme que tu es adulte."
+  ],
   "ezLpY6": [
     "Cesser la prise de parole"
   ],
@@ -108425,6 +108578,9 @@
   ],
   "f7aVGn": [
     "Profil du jeu"
+  ],
+  "f7c7qE": [
+    "Ton compte appartient au groupe d'âge des adolescents, et certains contenus et paramètres destinés aux adultes ne sont donc pas disponibles. À part ça, Discord fonctionne normalement."
   ],
   "f7g0DK": [
     "Retour à la Salle commune"
@@ -112751,6 +112907,23 @@
   "gi2swM": [
     "Message également envoyé dans le salon principal"
   ],
+  "gi4ulu": [
+    "Tu fais partie du groupe d'âge des adultes (18+) et tu as accès ",
+    [
+      8,
+      "$link",
+      [
+        "au contenu, aux espaces et aux paramètres soumis à une limite d'âge"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Tu envoies des messages trop rapidement !"
   ],
@@ -113813,6 +113986,14 @@
   ],
   "h48QWG": [
     "Posts"
+  ],
+  "h4HbnI": [
+    "Ce salon est réservé aux adultes (18+) par les admins de ",
+    [
+      1,
+      "guildName"
+    ],
+    " et peut contenir du contenu sensible. Confirme que tu es adulte pour accéder au contenu, aux espaces et aux paramètres soumis à une limite d'âge."
   ],
   "h4WIYV": [
     "Utilise ",
@@ -117169,6 +117350,14 @@
   ],
   "iJA/TE": [
     "Dans les favoris"
+  ],
+  "iK0n30": [
+    "Ce salon est réservé aux adultes (18+) par les admins de ",
+    [
+      1,
+      "guildName"
+    ],
+    " et peut contenir du contenu sensible."
   ],
   "iKAdpR": [
     "Passe au niveau supérieur pour accéder à toutes les fonctionnalités de personnalisation."
@@ -120886,6 +121075,9 @@
   "jjUTL+": [
     "Pôle étudiant"
   ],
+  "jjpcno": [
+    "Voir dans les paramètres"
+  ],
   "jkg8Zu": [
     "Les salons vocaux sont faits pour passer du bon temps avec tes amis. Quand tu veux discuter, rejoins un salon et tes amis pourront te voir et se joindre à toi. C'est comme utiliser la télépathie pour dire bonjour."
   ],
@@ -121265,6 +121457,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Ton groupe d'âge n'a pas encore été confirmé, et certains contenus et paramètres destinés aux adultes ne sont donc pas disponibles. À part ça, Discord fonctionne normalement."
   ],
   "jsudFd": [
     "Plié"
@@ -123824,6 +124019,22 @@
   ],
   "l+S46U": [
     "Animé"
+  ],
+  "l+jt8J": [
+    "Tu fais partie du groupe d'âge des adolescents, et les demandes de message ne peuvent donc pas être désactivées. Si cela ne te semble pas correct, tu peux ",
+    [
+      8,
+      "$link",
+      [
+        "confirmer que tu es adulte"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Transforme ta voix pour t'exprimer et t'amuser encore plus pendant les appels !"
@@ -126930,6 +127141,9 @@
   ],
   "m8xsti": [
     "Alphabétique"
+  ],
+  "m95jW8": [
+    "Ton groupe d'âge n'est pas confirmé"
   ],
   "m9O1gd": [
     "Réagir"
@@ -140282,6 +140496,22 @@
   "qSctqV": [
     "Ils grandissent si vite :') et nous n'aurions pas pu y arriver sans des abonnés tels que toi. Attends-toi à plus de goodies Nitro cette année, et merci d'être aussi formidable."
   ],
+  "qSkhZH": [
+    "Les groupes d'âge déterminent si tu peux accéder au contenu et aux paramètres destinés aux adultes. À part ça, Discord fonctionne normalement. Consulte ton groupe d'âge ci-dessous et ",
+    [
+      8,
+      "$link",
+      [
+        "pour en savoir plus, consulte blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -140657,6 +140887,22 @@
   ],
   "qaYzPA": [
     "Terminer l'événement"
+  ],
+  "qbBkFI": [
+    "Tu fais partie du groupe d'âge des adolescents, et certains paramètres ne peuvent donc pas être modifiés. Si cela ne te semble pas correct, tu peux ",
+    [
+      8,
+      "$link",
+      [
+        "confirmer que tu es adulte"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Résilier l'abonnement"
@@ -148819,6 +149065,9 @@
   "t58lNN": [
     "Rejoindre un serveur avec un lien d'invitation"
   ],
+  "t5QjmQ": [
+    "Tu fais partie du groupe d'âge des adultes"
+  ],
   "t5VZ88": [
     "Copié"
   ],
@@ -149132,6 +149381,22 @@
   ],
   "tGYbvd": [
     "Événements programmés"
+  ],
+  "tGsCdS": [
+    "Tu ne peux désactiver les demandes de message que si tu fais partie du groupe d'âge des adultes. ",
+    [
+      8,
+      "$link",
+      [
+        "En savoir plus"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Tu ne peux pas accéder à ce tête-à-tête"
@@ -154643,6 +154908,22 @@
   ],
   "vGs4hr": [
     "Uploader un fichier"
+  ],
+  "vGxRDB": [
+    "Les groupes d'âge déterminent si tu peux accéder au contenu et aux paramètres destinés aux adultes. À part ça, Discord fonctionne normalement. Consulte ton groupe d'âge ci-dessous et ",
+    [
+      8,
+      "$link",
+      [
+        "pour en savoir plus, consulte blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Catégorie"
@@ -162545,6 +162826,23 @@
   ],
   "xunxCo": [
     "Ajouter un salon à un niveau d'abonnement empêchera les membres du serveur qui ne sont pas abonnés au serveur d'y accéder."
+  ],
+  "xuvWqy": [
+    "Ton groupe d'âge n'a pas encore été confirmé, et certains contenus et paramètres destinés aux adultes ne sont donc pas disponibles. À part ça, Discord fonctionne normalement. ",
+    [
+      8,
+      "$link",
+      [
+        "Pour en savoir plus, consulte blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Bienvenue ! Tu as ta place ici"

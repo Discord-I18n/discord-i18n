@@ -297,6 +297,9 @@
   "+7MDbQ": [
     "Włącz powiadomienia"
   ],
+  "+7NlgO": [
+    "Dowiedz się więcej"
+  ],
   "+7XY31": [
     "Odblokuj dzięki wzmocnieniom"
   ],
@@ -10247,6 +10250,37 @@
   "21vmYl": [
     "Znajomy został usunięty."
   ],
+  "221iML": [
+    "Należysz do grupy wiekowej nastolatków (13–17 lat), więc masz dodatkową ochronę, a ",
+    [
+      8,
+      "$link",
+      [
+        "treści i ustawienia"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " przeznaczone dla dorosłych są niedostępne. Jeśli grupa wiekowa jest nieprawidłowa, możesz ",
+    [
+      8,
+      "$link",
+      [
+        "potwierdzić, że jesteś osobą dorosłą"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Wyczyść status kanału"
   ],
@@ -15731,6 +15765,9 @@
   ],
   "417A+c": [
     "Zrealizuj"
+  ],
+  "41MDhK": [
+    "Należysz do grupy wiekowej nastolatków"
   ],
   "41NIIh": [
     "Dlaczego zmieniasz adres e-mail?"
@@ -27049,6 +27086,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Grupy wiekowe decydują o tym, czy masz dostęp do treści i ustawień przeznaczonych dla dorosłych. Należysz do grupy wiekowej dorosłych, więc nic się dla Ciebie nie zmienia. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej na naszym blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Tworzenie uprawnień kanału"
   ],
@@ -35551,6 +35604,9 @@
   ],
   "BozOXu": [
     "Połącz opcjonalnie swoje zewnętrzne konto z Discordem, aby uzyskać dodatkowe funkcje i dostęp na tym serwerze"
+  ],
+  "Bp/1dq": [
+    "Dowiedz się więcej na naszym blogu"
   ],
   "Bp2/ni": [
     "Jeśli wyjdziesz, użytkownik nadal będzie zablokowany lub zignorowany."
@@ -46369,6 +46425,23 @@
   "GZxoUb": [
     "Sortuj posty"
   ],
+  "Ga2z/E": [
+    "Twoje konto należy do grupy wiekowej nastolatków, więc treści i ustawienia przeznaczone dla dorosłych są niedostępne. Poza tym nic się nie zmienia. ",
+    [
+      8,
+      "$link",
+      [
+        "Jeśli to pomyłka, potwierdź, że jesteś osobą dorosłą"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recenzje"
   ],
@@ -46570,6 +46643,9 @@
   ],
   "GdNkvG": [
     "Działania dotyczące listy życzeń"
+  ],
+  "GdTVPF": [
+    "Wprowadziliśmy dodatkowe zabezpieczenia dla nastolatków"
   ],
   "GdVA11": [
     "Zdemolowany"
@@ -48193,6 +48269,22 @@
   ],
   "HGCLZX": [
     "Używaj ulubionych naklejek w każdej rozmowie."
+  ],
+  "HGJo1F": [
+    "Niektóre ustawienia można zmienić tylko w przypadku przynależności do grupy wiekowej dorosłych. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Chcesz mieć animowany awatar?"
@@ -68132,6 +68224,22 @@
   "PMsq/b": [
     "Wyślij zaproszenie do znajomych"
   ],
+  "PMznGO": [
+    "Grupy wiekowe decydują o tym, czy masz dostęp do treści i ustawień przeznaczonych dla dorosłych. Należysz do grupy wiekowej dorosłych (18+), więc nic się dla Ciebie nie zmienia. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej na naszym blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Zakaz treści objętych ograniczeniami wiekowymi lub obraźliwych. Obejmuje to wiadomości tekstowe, obrazy i linki zawierające nagość, seks, dotkliwą przemoc i inne poważnie niepokojące treści."
   ],
@@ -84386,6 +84494,37 @@
   "W0+LsV": [
     "24 godz."
   ],
+  "W0/7DD": [
+    "Twoja grupa wiekowa nie została jeszcze potwierdzona, więc ",
+    [
+      8,
+      "$link",
+      [
+        "niektóre treści i ustawienia"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " przeznaczone dla dorosłych pozostaną niedostępne, dopóki nie ",
+    [
+      8,
+      "$link",
+      [
+        "potwierdzisz, że jesteś osobą dorosłą"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Usunie to możliwość logowania za pomocą kodu uwierzytelniającego z SMS. Czy na pewno chcesz to usunąć?"
   ],
@@ -94838,6 +94977,9 @@
   "ZzAR2Y": [
     "Dane o użytkowniku"
   ],
+  "ZzcLhc": [
+    "Jeśli się pomyliliśmy, potwierdź, że jesteś osobą dorosłą"
+  ],
   "ZzdgUm": [
     "Nie można uczynić kanału prywatnym"
   ],
@@ -101910,6 +102052,9 @@
   ],
   "cHzQ2O": [
     "Odwołaj się od decyzji o kwarantannie"
+  ],
+  "cI+bc/": [
+    "Potwierdź wiek"
   ],
   "cIGvZI": [
     "Kwalifikujące się płatności zostaną wypłacone w ciągu 15 dni od końca miesiąca kalendarzowego, w którym uzyskano przychód. Aby uzyskać więcej informacji na temat wypłat, zapoznaj się z naszymi Warunkami monetyzacji."
@@ -110610,6 +110755,14 @@
   "ez/N/R": [
     "Widzi członków serwera oraz zmiany w ich rolach, pseudonimach i uprawnieniach."
   ],
+  "ezJA0R": [
+    "Administratorzy serwera ",
+    [
+      1,
+      "guildName"
+    ],
+    " udostępnili ten kanał wyłącznie dorosłym (18+). Może on zawierać wrażliwe treści. Twoje konto należy do grupy wiekowej nastolatków. Jeśli grupa wiekowa jest nieprawidłowa, potwierdź, że jesteś osobą dorosłą."
+  ],
   "ezLpY6": [
     "Opuść podium"
   ],
@@ -110965,6 +111118,9 @@
   ],
   "f7aVGn": [
     "Profil gry"
+  ],
+  "f7c7qE": [
+    "Twoje konto należy do grupy wiekowej nastolatków, więc treści i ustawienia przeznaczone dla dorosłych są niedostępne. Poza tym nic się nie zmienia."
   ],
   "f7g0DK": [
     "Wróć do salonu"
@@ -115358,6 +115514,23 @@
   "gi2swM": [
     "Wiadomość wysłana również na kanał główny"
   ],
+  "gi4ulu": [
+    "Należysz do grupy wiekowej dorosłych (18+) i masz dostęp do ",
+    [
+      8,
+      "$link",
+      [
+        "treści, przestrzeni i ustawień ograniczonych wiekowo"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Wysyłasz wiadomości zbyt szybko!"
   ],
@@ -116462,6 +116635,14 @@
   ],
   "h48QWG": [
     "Posty"
+  ],
+  "h4HbnI": [
+    "Administratorzy serwera ",
+    [
+      1,
+      "guildName"
+    ],
+    " udostępnili ten kanał wyłącznie dorosłym (18+). Może on zawierać wrażliwe treści. Potwierdź, że jesteś osobą dorosłą, aby uzyskać dostęp do treści, przestrzeni i ustawień ograniczonych wiekowo."
   ],
   "h4WIYV": [
     "Użyj opcji ",
@@ -119914,6 +120095,14 @@
   ],
   "iJA/TE": [
     "Dodano do ulubionych"
+  ],
+  "iK0n30": [
+    "Administratorzy serwera ",
+    [
+      1,
+      "guildName"
+    ],
+    " udostępnili ten kanał wyłącznie dorosłym (18+). Może on zawierać wrażliwe treści."
   ],
   "iKAdpR": [
     "Ulepsz plan, aby zyskać dostęp do wszystkich opcji personalizacji."
@@ -123715,6 +123904,9 @@
   "jjUTL+": [
     "Centrum szkolne"
   ],
+  "jjpcno": [
+    "Wyświetl ustawienia"
+  ],
   "jkg8Zu": [
     "Kanały głosowe służą do spotkań. Gdy możesz już rozmawiać, po prostu się przyłącz. Twoi znajomi mogą Cię zobaczyć i też dołączyć. To jak używanie telepatii, żeby się przywitać."
   ],
@@ -124104,6 +124296,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Twoja grupa wiekowa nie została jeszcze potwierdzona. Niektóre treści i ustawienia przeznaczone dla dorosłych są niedostępne. Poza tym nic się nie zmienia."
   ],
   "jsudFd": [
     "Zwinięto"
@@ -126658,6 +126853,22 @@
   ],
   "l+S46U": [
     "Animowany"
+  ],
+  "l+jt8J": [
+    "Należysz do grupy wiekowej nastolatków, więc nie można wyłączyć żądań dotyczących wiadomości. Jeśli to pomyłka, możesz ",
+    [
+      8,
+      "$link",
+      [
+        "potwierdzić, że jesteś osobą dorosłą"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Zmień głos, aby wyrazić siebie i jeszcze lepiej się bawić podczas rozmów głosowych!"
@@ -129816,6 +130027,9 @@
   ],
   "m8xsti": [
     "Alfabetycznie"
+  ],
+  "m95jW8": [
+    "Twoja grupa wiekowa nie została potwierdzona"
   ],
   "m9O1gd": [
     "Zareaguj"
@@ -143424,6 +143638,22 @@
   "qSctqV": [
     "Jak one szybko rosną :') Nie dotarlibyśmy tak daleko bez subskrybentów takich jak Wy. Wypatrujcie więcej dobroci Nitro w tym roku i dziękujemy – jesteście wspaniali."
   ],
+  "qSkhZH": [
+    "Grupy wiekowe decydują o tym, czy masz dostęp do treści i ustawień przeznaczonych dla dorosłych. Poza tym Discord działa tak samo. Sprawdź swoją grupę wiekową poniżej i ",
+    [
+      8,
+      "$link",
+      [
+        "dowiedz się więcej na naszym blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Samotny wędrowiec"
   ],
@@ -143806,6 +144036,22 @@
   ],
   "qaYzPA": [
     "Zakończ wydarzenie"
+  ],
+  "qbBkFI": [
+    "Należysz do grupy wiekowej nastolatków, więc niektórych ustawień nie można zmienić. Jeśli to pomyłka, możesz ",
+    [
+      8,
+      "$link",
+      [
+        "potwierdzić, że jesteś osobą dorosłą"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Anuluj subskrypcję"
@@ -152299,6 +152545,9 @@
   "t58lNN": [
     "Dołącz do serwera poprzez link z zaproszeniem błyskawicznym"
   ],
+  "t5QjmQ": [
+    "Należysz do grupy wiekowej dorosłych"
+  ],
   "t5VZ88": [
     "Skopiowano"
   ],
@@ -152617,6 +152866,22 @@
   ],
   "tGYbvd": [
     "Zaplanowane wydarzenia"
+  ],
+  "tGsCdS": [
+    "Żądania dotyczące wiadomości można wyłączyć tylko w przypadku przynależności do grupy wiekowej dorosłych. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Nie możesz uzyskać dostępu do tego spotkania"
@@ -158197,6 +158462,22 @@
   ],
   "vGs4hr": [
     "Prześlij plik"
+  ],
+  "vGxRDB": [
+    "Grupy wiekowe decydują o tym, czy masz dostęp do treści i ustawień przeznaczonych dla dorosłych. Poza tym Discord działa tak samo. Sprawdź swoją grupę wiekową poniżej i ",
+    [
+      8,
+      "$link",
+      [
+        "dowiedz się więcej na naszym blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategoria"
@@ -166352,6 +166633,23 @@
   ],
   "xunxCo": [
     "Dodanie kanału do poziomu subskrypcji spowoduje usunięcie dostępu dla członków serwera, którzy nie są subskrybentami serwera."
+  ],
+  "xuvWqy": [
+    "Twoja grupa wiekowa nie została jeszcze potwierdzona. Niektóre treści i ustawienia przeznaczone dla dorosłych są niedostępne. Poza tym nic się nie zmienia. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej na naszym blogu"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Witaj! Czuj się tu jak u siebie"
