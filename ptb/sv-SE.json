@@ -2947,6 +2947,9 @@
   "/8psS7": [
     "Aktivitetskontrollerna var förvirrande"
   ],
+  "/8znyU": [
+    "Skicka en gåva till för att samla allihop"
+  ],
   "/91tbr": [
     "Meddela alla användare med denna roll och behörighet att visa kanalen."
   ],
@@ -16202,9 +16205,6 @@
       "cardinal"
     ],
     " har indexerats hittills. Vi håller fortfarande på att indexera äldre meddelanden."
-  ],
-  "4Y84j2": [
-    "Testa temats accentfärg"
   ],
   "4YLtzC": [
     "Tog bort kanal från Aktiv nu"
@@ -29598,7 +29598,7 @@
     "Förra veckan"
   ],
   "9x7Jdd": [
-    "har blockerat en vardagsrumsanteckning för ",
+    "har blockerat en vardagsrumsanteckning i ",
     [
       8,
       "channelHook",
@@ -42816,7 +42816,7 @@
     "Vänförfrågan skickad"
   ],
   "Fn6Odn": [
-    "Schemalagd"
+    "Schemalagda"
   ],
   "FnFI3m": [
     "Idag kl. 09.00"
@@ -60321,7 +60321,7 @@
     "Ditt märke försvinner i morgon! Behåll det medan du kan."
   ],
   "NBm6jz": [
-    "Placerar anteckning bredvid ",
+    "Placerar anteckning intill ",
     [
       1,
       "targetLabel"
@@ -74120,7 +74120,7 @@
     ]
   ],
   "SsUZo/": [
-    "Valda ",
+    "Valt ",
     [
       1,
       "name"
@@ -84114,6 +84114,9 @@
   ],
   "Wv7HLS": [
     "Nya grejer, för just dig"
+  ],
+  "WvAqZA": [
+    "Du fick en gratis dekoration"
   ],
   "Wvc/I+": [
     "God morgon,"
@@ -98653,6 +98656,26 @@
   "cM8bbx": [
     "Skaffa Basic"
   ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du har samlat in den exklusiva belöningen"
+        ],
+        "other": [
+          "Du har samlat in alla ",
+          [
+            7
+          ],
+          " exklusiva belöningar"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "cMgegQ": [
     "Ramar är profilkanter som fullbordar din look. Nitro-medlemmar får tidig tillgång. Hitta dina i Butiken."
   ],
@@ -109119,7 +109142,7 @@
     " (gruppmeddelande)"
   ],
   "fxxYiB": [
-    "Meddelande #allmänt"
+    "Meddela #allmänt"
   ],
   "fyA115": [
     "Vänförfrågningar"
@@ -116794,6 +116817,9 @@
   "ivpkNe": [
     "Nej tack"
   ],
+  "ivpn6G": [
+    "Välj en gratis dekoration att behålla"
+  ],
   "iw0hFi": [
     [
       8,
@@ -120103,9 +120129,6 @@
   ],
   "kMYVwv": [
     "Hämta din belöning"
-  ],
-  "kMdneQ": [
-    "Kanalens standardinställningar för aviseringar"
   ],
   "kMgj+e": [
     "Sök servrar"
@@ -130499,9 +130522,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Utforska butiken"
-  ],
   "o7DqF3": [
     "Gren"
   ],
@@ -132718,6 +132738,9 @@
   ],
   "ozumaN": [
     "Diskriminator"
+  ],
+  "ozurym": [
+    "Dela inbäddning"
   ],
   "ozv9NT": [
     "Visa alla"
@@ -137834,7 +137857,7 @@
     ]
   ],
   "quJD0Y": [
-    "Öppnar recensioner i App Store."
+    "Öppnar recensioner i appbutiken."
   ],
   "question": [
     "?",
@@ -143557,9 +143580,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Testa temats primärfärg"
-  ],
   "sm4HCL": [
     "Något gick fel! Försök igen"
   ],
@@ -144157,7 +144177,7 @@
     "En hemmabas för ditt gäng att hänga på, dela klipp och snacka strategier."
   ],
   "srla2+": [
-    "har flaggat en vardagsrumsanteckning för ",
+    "har flaggat en vardagsrumsanteckning i ",
     [
       8,
       "channelHook",
@@ -152132,7 +152152,7 @@
     "Dela automatiskt min aktivitet med"
   ],
   "vpzyht": [
-    "Pausa förhandsgranskning när Discord inte är fokuserat"
+    "Pausa förhandsgranskningen när Discord inte är i det aktiva fönstret"
   ],
   "vqb+H1": [
     "Se nivåer och förmåner"
@@ -155823,7 +155843,7 @@
     "Dessa grejer är nu en del av din samling och redo att användas!"
   ],
   "x03WqE": [
-    "Avmarkerade ",
+    "Avmarkerat ",
     [
       1,
       "name"
@@ -161906,6 +161926,9 @@
   ],
   "zV0/FC": [
     "Ogiltig meddelandetyp"
+  ],
+  "zVGHbw": [
+    "Få en gratis dekoration"
   ],
   "zVJxqj": [
     "Måste ha minst ",

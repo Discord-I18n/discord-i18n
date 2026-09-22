@@ -2744,6 +2744,9 @@
   "/8psS7": [
     "A tevékenység irányítása nem volt egyértelmű"
   ],
+  "/8znyU": [
+    "Küldj újabb ajándékot, ha mindet össze szeretnéd gyűjteni"
+  ],
   "/91tbr": [
     "Értesít mindenkit ezzel a ranggal, akinek jogosultsága van megtekinteni ezt a csatornát."
   ],
@@ -14898,9 +14901,6 @@
       "cardinal"
     ],
     " került eddig indexelésre. A régebbi üzenetek indexelése most is folyamatban van."
-  ],
-  "4Y84j2": [
-    "Elsődleges kiemelési témaszín kiválasztása"
   ],
   "4YLtzC": [
     "Csatorna eltávolítva a most aktívak közül"
@@ -77533,6 +77533,9 @@
   "Wv7HLS": [
     "Új szerzemények, csak neked"
   ],
+  "WvAqZA": [
+    "Ingyenes dekorációt szereztél"
+  ],
   "Wvc/I+": [
     "Jó reggelt!"
   ],
@@ -91334,6 +91337,26 @@
   ],
   "cM8bbx": [
     "Basic beszerzése"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Begyűjtötted az exkluzív jutalmat"
+        ],
+        "other": [
+          "Mind a(z) ",
+          [
+            7
+          ],
+          " exkluzív jutalmat begyűjtötted"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "A keretek olyan profilszegélyek, amelyek teljessé teszik a megjelenésedet. A Nitro-tagok korai hozzáférést kapnak. Te is rátalálhatsz a sajátodra az Áruházban."
@@ -109272,6 +109295,9 @@
   "ivpkNe": [
     "Kösz, nem"
   ],
+  "ivpn6G": [
+    "Ingyenes, megőrizhető dekorációt választhatsz"
+  ],
   "iw0hFi": [
     [
       8,
@@ -112296,9 +112322,6 @@
   ],
   "kMYVwv": [
     "Váltsd be a jutalmadat"
-  ],
-  "kMdneQ": [
-    "A csatorna egyéni értesítési beállításai"
   ],
   "kMgj+e": [
     "Szerverek keresése"
@@ -122587,9 +122610,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Áruház felfedezése"
-  ],
   "o7DqF3": [
     "Ág"
   ],
@@ -124733,6 +124753,9 @@
   ],
   "ozumaN": [
     "Megkülönböztető"
+  ],
+  "ozurym": [
+    "Beágyazás megosztása"
   ],
   "ozv9NT": [
     "Az összes megjelenítése"
@@ -135172,9 +135195,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Elsődleges témaszín kiválasztása"
   ],
   "sm4HCL": [
     "Hiba történt! Próbáld újra"
@@ -152938,6 +152958,9 @@
   ],
   "zV0/FC": [
     "Érvénytelen üzenettípus"
+  ],
+  "zVGHbw": [
+    "Ingyenes dekorációt kaphatsz"
   ],
   "zVJxqj": [
     "Rendelkezned kell legalább ",

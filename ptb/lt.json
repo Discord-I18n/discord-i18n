@@ -3058,6 +3058,9 @@
   "/8psS7": [
     "Veiklos valdikliai buvo painūs"
   ],
+  "/8znyU": [
+    "Išsiųsk dar vieną dovaną, kad gautum visus"
+  ],
   "/91tbr": [
     "Pranešti apie šią rolę naudotojams, kurie turi leidimą peržiūrėti šį kanalą"
   ],
@@ -16543,9 +16546,6 @@
       "cardinal"
     ],
     ". Mes vis dar indeksuojame senesnius pranešimus."
-  ],
-  "4Y84j2": [
-    "Išbandyk akcentų temos spalvą"
   ],
   "4YLtzC": [
     "Pašalino kanalą iš dabar aktyvių"
@@ -38339,7 +38339,7 @@
     ]
   ],
   "DIyQIF": [
-    "Automatinis gijų pridėjimas"
+    "Automatiškai pridėti gijas"
   ],
   "DJ+bGu": [
     "Tavo vaidmuo ir piktograma"
@@ -43764,7 +43764,7 @@
     "Užklausa draugauti išsiųsta"
   ],
   "Fn6Odn": [
-    "Numatyta"
+    "Suplanuotos"
   ],
   "FnFI3m": [
     "Šiandien 9.00"
@@ -85773,6 +85773,9 @@
   "Wv7HLS": [
     "Šviežiena – specialiai tau"
   ],
+  "WvAqZA": [
+    "Pelnei nemokamą papuošimą"
+  ],
   "Wvc/I+": [
     "Labas rytas,"
   ],
@@ -100640,6 +100643,26 @@
   "cM8bbx": [
     "Gauti Basic"
   ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gavai išskirtinį apdovanojimą"
+        ],
+        "other": [
+          "Gavai visus išskirtinius apdovanojimus (",
+          [
+            7
+          ],
+          ")"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "cMgegQ": [
     "Rėmeliai – tai profilio apvadai, pagerinantys jo išvaizdą. Nitro nariai gauna išankstinę prieigą. Rask savo rėmelį Parduotuvėje."
   ],
@@ -107000,7 +107023,7 @@
     "Pridėti mediją"
   ],
   "eIHfGZ": [
-    "dar ",
+    "Dar ",
     [
       6,
       "overflow_count",
@@ -111586,7 +111609,7 @@
     " (grupinė žinutė)"
   ],
   "fxxYiB": [
-    "Žinutė #general"
+    "Išsiųsti #general"
   ],
   "fyA115": [
     "Prašymai draugauti"
@@ -119399,6 +119422,9 @@
   "ivpkNe": [
     "Ačiū, nereikia"
   ],
+  "ivpn6G": [
+    "Griebk ir pasilik nemokamą papuošimą"
+  ],
   "iw0hFi": [
     [
       8,
@@ -122740,9 +122766,6 @@
   ],
   "kMYVwv": [
     "Atsiimk savo apdovanojimą"
-  ],
-  "kMdneQ": [
-    "Tinkinami kanalo pranešimų nustatymai"
   ],
   "kMgj+e": [
     "Ieškoti serverių"
@@ -133368,9 +133391,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Pasižvalgyk Parduotuvėje"
-  ],
   "o7DqF3": [
     "Šaka"
   ],
@@ -135556,6 +135576,9 @@
   ],
   "ozumaN": [
     "Diskriminatorius"
+  ],
+  "ozurym": [
+    "Bendrinti intarpą"
   ],
   "ozv9NT": [
     "Rodyti visus"
@@ -141073,7 +141096,7 @@
     ]
   ],
   "quJD0Y": [
-    "Atidaromi App Store atsiliepimai."
+    "Atidaromi programėlių parduotuvės atsiliepimai."
   ],
   "question": [
     "klausimas",
@@ -146999,9 +147022,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Išbandyk pagrindinę temos spalvą"
   ],
   "sm4HCL": [
     "Kažkas nepavyko! Pabandyk dar kartą"
@@ -159109,7 +159129,7 @@
       1,
       "webBuildOverride"
     ],
-    ", versija ",
+    ", versija: ",
     [
       1,
       "builtAt"
@@ -165793,6 +165813,9 @@
   ],
   "zV0/FC": [
     "Netinkamas žinutės tipas"
+  ],
+  "zVGHbw": [
+    "Gauk nemokamą papuošimą"
   ],
   "zVJxqj": [
     "Privalo turėti bent ",

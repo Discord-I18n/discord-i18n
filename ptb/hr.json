@@ -3112,6 +3112,9 @@
   "/8psS7": [
     "Kontrole unutar aktivnosti bile su konfuzne"
   ],
+  "/8znyU": [
+    "Pošalji još jedan dar da ih sve sakupiš"
+  ],
   "/91tbr": [
     "Obavijesti članove s ovom ulogom koji imaju dozvolu pregleda ovog kanala."
   ],
@@ -16906,9 +16909,6 @@
     ],
     " za sad. Još uvijek indeksiramo starije poruke."
   ],
-  "4Y84j2": [
-    "Isprobaj boju teme naglaska"
-  ],
   "4YLtzC": [
     "Kanal uklonjen iz Trenutačno aktivan"
   ],
@@ -17152,7 +17152,7 @@
     "Nagrade možeš koristiti sve dok je tvoja trenutačna pretplata aktivna. Otkazivanje uklanja sve nagrade."
   ],
   "4cFeIa": [
-    "Udarac u biljaru"
+    "Pool Shot"
   ],
   "4cGHIl": [
     "[",
@@ -54194,7 +54194,7 @@
     "Trenutačno ne možemo pronaći tvoje prijatelje. Možda su na marendi. Pokušaj ponovno kasnije!"
   ],
   "JjrRc2": [
-    "Gol kornjače"
+    "Turtle Goal"
   ],
   "JkAjB7": [
     [
@@ -86578,6 +86578,9 @@
   "Wv7HLS": [
     "Svježi dropovi, samo za tebe"
   ],
+  "WvAqZA": [
+    "Zaradio/la si besplatan ukras"
+  ],
   "Wvc/I+": [
     "Dobro jutro,"
   ],
@@ -101580,6 +101583,33 @@
   ],
   "cM8bbx": [
     "Uzmi Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Prikupio/la si ekskluzivnu nagradu"
+        ],
+        "few": [
+          "Prikupio/la si sve ",
+          [
+            7
+          ],
+          " ekskluzivne nagrade"
+        ],
+        "other": [
+          "Prikupio/la si svih ",
+          [
+            7
+          ],
+          " ekskluzivnih nagrada"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Okviri su rubovi profila koji upotpunjuju izgled. Članovi Nitra imaju mogućnost ranog pristupa. Pronađi svoj u Trgovini."
@@ -120636,6 +120666,9 @@
   "ivpkNe": [
     "Ne, hvala"
   ],
+  "ivpn6G": [
+    "Odaberi besplatni ukras koji ćeš zadržati"
+  ],
   "iw0hFi": [
     [
       8,
@@ -124065,9 +124098,6 @@
   ],
   "kMYVwv": [
     "Prikupi svoju nagradu"
-  ],
-  "kMdneQ": [
-    "Postavke prilagođenih obavijesti kanala"
   ],
   "kMgj+e": [
     "Pretraži servere"
@@ -134596,31 +134626,15 @@
     "Pridružit ćeš se na Xboxu."
   ],
   "o18gVZ": [
-    "Prikupi ",
     [
       6,
       "count",
       {
         "one": [
-          "svoju ",
-          [
-            7
-          ],
-          " nagradu"
-        ],
-        "few": [
-          "svoje ",
-          [
-            7
-          ],
-          " nagrade"
+          "Uzmi svoju nagradu"
         ],
         "other": [
-          "svojih ",
-          [
-            7
-          ],
-          " nagrada"
+          "Uzmi svoje nagrade"
         ]
       },
       0,
@@ -134938,9 +134952,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "o6s7yg": [
-    "Istraži trgovinu"
   ],
   "o7DqF3": [
     "Odvojak"
@@ -137202,6 +137213,9 @@
   ],
   "ozumaN": [
     "Discriminator"
+  ],
+  "ozurym": [
+    "Podijeli ugrađeni sadržaj"
   ],
   "ozv9NT": [
     "Prikaži sve"
@@ -140803,19 +140817,19 @@
       "count",
       {
         "one": [
-          "skriveni badge"
+          "badge skriven"
         ],
         "few": [
           [
             7
           ],
-          " skrivena badgea"
+          " badgea skriveno"
         ],
         "other": [
           [
             7
           ],
-          " skrivenih badgeva"
+          " badgeva skriveno"
         ]
       },
       0,
@@ -148724,9 +148738,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Isprobaj primarnu boju teme"
   ],
   "sm4HCL": [
     "Nešto je pošlo krivo! Pokušaj ponovno kasnije"
@@ -161078,7 +161089,7 @@
     "Rubinski"
   ],
   "wve4kg": [
-    "Korisničke postavke (prekoračenje builda: ",
+    "Korisničke postavke (izričita zamjena builda: ",
     [
       1,
       "webBuildOverride"
@@ -167751,6 +167762,9 @@
   ],
   "zV0/FC": [
     "Nevažeća vrsta poruke"
+  ],
+  "zVGHbw": [
+    "Zgrabi besplatan ukras"
   ],
   "zVJxqj": [
     "Obavezno je imati najmanje ",

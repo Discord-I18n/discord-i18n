@@ -2992,6 +2992,9 @@
   "/8psS7": [
     "Steuerung der Aktivität war irreführend"
   ],
+  "/8znyU": [
+    "Sende ein weiteres Geschenk, um alle zu sammeln"
+  ],
   "/91tbr": [
     "Benachrichtige Benutzer mit dieser Rolle und der Berechtigung, diesen Kanal zu sehen."
   ],
@@ -16447,9 +16450,6 @@
     ],
     " bisher indexiert. Wir indexieren immer noch alte Nachrichten."
   ],
-  "4Y84j2": [
-    "Schema-Akzentfarbe ausprobieren"
-  ],
   "4YLtzC": [
     "Kanal aus Jetzt aktiv entfernt"
   ],
@@ -16686,7 +16686,7 @@
     "Belohnungen gehören dir, solange dein aktuelles Abonnement aktiv bleibt. Bei Kündigung werden alle Belohnungen entfernt."
   ],
   "4cFeIa": [
-    "Pool-Schuss"
+    "Pool Shot"
   ],
   "4cGHIl": [
     "[",
@@ -60959,7 +60959,7 @@
     "Dein Abzeichen verschwindet morgen! Behalte es, solange du kannst."
   ],
   "NBm6jz": [
-    "Platziert Notiz neben ",
+    "Notiz wird neben folgendem Element platziert: ",
     [
       1,
       "targetLabel"
@@ -84835,6 +84835,9 @@
   "Wv7HLS": [
     "Coole Neuheiten, nur für dich"
   ],
+  "WvAqZA": [
+    "Du hast eine kostenlose Dekoration verdient"
+  ],
   "Wvc/I+": [
     "Guten Morgen,"
   ],
@@ -99824,6 +99827,26 @@
   ],
   "cM8bbx": [
     "Hol dir Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du hast die exklusive Belohnung gesammelt"
+        ],
+        "other": [
+          "Du hast alle ",
+          [
+            7
+          ],
+          " exklusiven Belohnungen gesammelt"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Rahmen vervollständigen deinen Look mit einem Rand um dein Profil. Nitro-Mitglieder erhalten Early Access. Hol dir einen passenden im Shop."
@@ -118927,6 +118950,9 @@
   "ivpkNe": [
     "Nein danke"
   ],
+  "ivpn6G": [
+    "Wähle eine kostenlose Dekoration zum Behalten"
+  ],
   "iw0hFi": [
     [
       8,
@@ -122304,9 +122330,6 @@
   ],
   "kMYVwv": [
     "Hol dir deine Belohnung"
-  ],
-  "kMdneQ": [
-    "Die benutzerdefinierten Benachrichtigungseinstellungen des Kanals"
   ],
   "kMgj+e": [
     "Server suchen"
@@ -133222,9 +133245,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Shop erkunden"
-  ],
   "o7DqF3": [
     "Bereich"
   ],
@@ -135532,6 +135552,9 @@
   ],
   "ozumaN": [
     "Tag-Nummer"
+  ],
+  "ozurym": [
+    "Einbettung teilen"
   ],
   "ozv9NT": [
     "Alle anzeigen"
@@ -147077,9 +147100,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Schema-Primärfarbe ausprobieren"
   ],
   "sm4HCL": [
     "Etwas ist schiefgelaufen! Bitte versuche es erneut."
@@ -159522,7 +159542,7 @@
       1,
       "webBuildOverride"
     ],
-    ", erstellt am ",
+    ", erstellt: ",
     [
       1,
       "builtAt"
@@ -165990,6 +166010,9 @@
   ],
   "zV0/FC": [
     "Ungültiger Nachrichtentyp"
+  ],
+  "zVGHbw": [
+    "Erhalte eine kostenlose Dekoration"
   ],
   "zVJxqj": [
     "Muss mindestens ",

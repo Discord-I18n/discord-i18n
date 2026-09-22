@@ -1483,7 +1483,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie de la ",
+    " cererea de prietenie de la ",
     [
       1,
       "name"
@@ -3018,6 +3018,9 @@
   ],
   "/8psS7": [
     "Controalele activității nu au fost clare"
+  ],
+  "/8znyU": [
+    "Trimite încă un cadou pentru a le colecționa pe toate"
   ],
   "/91tbr": [
     "Anunță utilizatorii cu acest rol care au permisiunea să vadă acest canal."
@@ -16405,9 +16408,6 @@
     ],
     " până acum. Încă indexăm mesaje mai vechi."
   ],
-  "4Y84j2": [
-    "Încearcă drept culoarea temei de accent"
-  ],
   "4YLtzC": [
     "Canal eliminat din Activitate acum"
   ],
@@ -21457,7 +21457,7 @@
       1,
       "action"
     ],
-    " opțiuni pentru ",
+    " opțiunile pentru ",
     [
       1,
       "name"
@@ -34253,7 +34253,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie către ",
+    " cererea de prietenie către ",
     [
       1,
       "name"
@@ -37897,7 +37897,7 @@
     ]
   ],
   "DIyQIF": [
-    "Adaugă automat fire"
+    "Adaugă automat firele la care mă alătur"
   ],
   "DJ+bGu": [
     "Rolul tău și pictograma ta"
@@ -84679,6 +84679,9 @@
   "Wv7HLS": [
     "Drop-uri nou-nouțe, doar pentru tine"
   ],
+  "WvAqZA": [
+    "Ai obținut o decorațiune gratuită"
+  ],
   "Wvc/I+": [
     "Bună dimineața,"
   ],
@@ -99892,6 +99895,26 @@
   ],
   "cM8bbx": [
     "Ia-ți Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ai colecționat recompensa exclusivă"
+        ],
+        "other": [
+          "Ai colecționat toate cele ",
+          [
+            7
+          ],
+          " recompense exclusive"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Ramele sunt chenare care îți înconjoară profilul și îți completează aspectul. Membrii Nitro au parte de acces timpuriu. Ia-ți și tu rama perfectă din Magazin."
@@ -119628,6 +119651,9 @@
   "ivpkNe": [
     "Nu, mulțumesc"
   ],
+  "ivpn6G": [
+    "Alege o decorațiune gratuită pe care s-o păstrezi"
+  ],
   "iw0hFi": [
     [
       8,
@@ -123001,9 +123027,6 @@
   "kMYVwv": [
     "Primește-ți recompensa"
   ],
-  "kMdneQ": [
-    "Setările de notificare personalizate pentru canal"
-  ],
   "kMgj+e": [
     "Caută servere"
   ],
@@ -123245,7 +123268,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie de la ",
+    " cererea de prietenie de la ",
     [
       1,
       "name"
@@ -134124,9 +134147,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Explorează Magazinul"
-  ],
   "o7DqF3": [
     "Ramificație"
   ],
@@ -136452,6 +136472,9 @@
   ],
   "ozumaN": [
     "Discriminator"
+  ],
+  "ozurym": [
+    "Partajează încorporarea"
   ],
   "ozv9NT": [
     "Afișează toate"
@@ -148326,9 +148349,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Încearcă drept culoarea temei principale"
-  ],
   "sm4HCL": [
     "Ceva nu a mers bine! Încearcă din nou"
   ],
@@ -153118,7 +153138,7 @@
       1,
       "action"
     ],
-    " sugestie de prietenie pentru ",
+    " sugestia de prietenie pentru ",
     [
       1,
       "name"
@@ -157674,7 +157694,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie către ",
+    " cererea de prietenie către ",
     [
       1,
       "name"
@@ -161299,7 +161319,7 @@
       1,
       "webBuildOverride"
     ],
-    ", din ",
+    ", build cu data de ",
     [
       1,
       "builtAt"
@@ -167888,6 +167908,9 @@
   ],
   "zV0/FC": [
     "Tip mesaj nevalid"
+  ],
+  "zVGHbw": [
+    "Obține o decorațiune gratuită"
   ],
   "zVJxqj": [
     "Trebuie să aibă cel puțin ",

@@ -2993,6 +2993,9 @@
   "/8psS7": [
     "Les commandes de l'activité n'étaient pas claires"
   ],
+  "/8znyU": [
+    "Envoie un autre cadeau pour tous les collectionner"
+  ],
   "/91tbr": [
     "Notifier tous les utilisateurs ayant ce rôle et qui ont la permission de voir ce salon."
   ],
@@ -16343,9 +16346,6 @@
       "cardinal"
     ],
     " jusqu'ici. Nous sommes toujours en train d'indexer les anciens messages."
-  ],
-  "4Y84j2": [
-    "Essaie la couleur d'accentuation du thème"
   ],
   "4YLtzC": [
     "Salon supprimé de la page En ligne"
@@ -33936,7 +33936,7 @@
       1,
       "multiplier"
     ],
-    "x plus d'Orbs sur tout"
+    "x plus d'Orbs avec toutes les activités"
   ],
   "BaI6L4": [
     "Demande à ton tuteur ou ta tutrice de rétablir l'accès dans les contrôles parentaux de la boutique de l'application (Apple ou Google Play)."
@@ -43207,7 +43207,7 @@
     "Demande d'ami envoyée"
   ],
   "Fn6Odn": [
-    "Prévu"
+    "Programmés"
   ],
   "FnFI3m": [
     "Aujourd'hui à 9 h 00"
@@ -84630,6 +84630,9 @@
   "Wv7HLS": [
     "Nos nouveaux arrivages n'attendent que toi"
   ],
+  "WvAqZA": [
+    "Tu as obtenu une décoration gratuite"
+  ],
   "Wvc/I+": [
     "Bonjour,"
   ],
@@ -99692,6 +99695,26 @@
   ],
   "cM8bbx": [
     "Obtenir Nitro Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Tu as récupéré la récompense exclusive"
+        ],
+        "other": [
+          "Tu as récupéré les ",
+          [
+            7
+          ],
+          " récompenses exclusives"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Les cadres sont des bordures de profil qui complètent ton look. Les membres Nitro bénéficient d'un accès anticipé. Trouve le tien dans la Boutique."
@@ -118916,6 +118939,9 @@
   "ivpkNe": [
     "Non merci"
   ],
+  "ivpn6G": [
+    "Choisis une décoration gratuite à garder"
+  ],
   "iw0hFi": [
     [
       8,
@@ -122293,9 +122319,6 @@
   ],
   "kMYVwv": [
     "Récupère ta récompense"
-  ],
-  "kMdneQ": [
-    "Les paramètres de notification personnalisés du salon"
   ],
   "kMgj+e": [
     "Rechercher des serveurs"
@@ -133242,9 +133265,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Explorer la Boutique"
-  ],
   "o7DqF3": [
     "Section"
   ],
@@ -135569,6 +135589,9 @@
   ],
   "ozumaN": [
     "Discriminateur"
+  ],
+  "ozurym": [
+    "Partager l'intégration"
   ],
   "ozv9NT": [
     "Tout afficher"
@@ -147153,9 +147176,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Essaie la couleur principale du thème"
   ],
   "sm4HCL": [
     "Une erreur s'est produite ! Merci de réessayer plus tard."
@@ -166303,6 +166323,9 @@
   ],
   "zV0/FC": [
     "Type de message invalide"
+  ],
+  "zVGHbw": [
+    "Obtiens une décoration gratuite"
   ],
   "zVJxqj": [
     "Doit posséder au moins ",

@@ -2965,6 +2965,9 @@
   "/8psS7": [
     "Det var forvirrende kontroller i aktiviteten"
   ],
+  "/8znyU": [
+    "Gi enda en gave for å få alle"
+  ],
   "/91tbr": [
     "Varsle brukere med denne rollen som har tillatelse til å se denne kanalen."
   ],
@@ -16281,9 +16284,6 @@
       "cardinal"
     ],
     " indeksert til nå. Vi indekserer fremdeles eldre meldinger."
-  ],
-  "4Y84j2": [
-    "Prøv aksent-temafarge"
   ],
   "4YLtzC": [
     "Fjernet kanalen fra Aktiv nå"
@@ -33612,7 +33612,7 @@
       1,
       "multiplier"
     ],
-    "x på alt"
+    "x for alt"
   ],
   "BaI6L4": [
     "Be en foresatt om å gi deg tilgang igjen i appbutikkens foreldrekontroll (Apple eller Google Play)."
@@ -84055,6 +84055,9 @@
   "Wv7HLS": [
     "Nye slipp, bare til deg"
   ],
+  "WvAqZA": [
+    "Du fikk en gratis dekorasjon"
+  ],
   "Wvc/I+": [
     "God morgen"
   ],
@@ -98743,6 +98746,26 @@
   "cM8bbx": [
     "Skaff deg Basic"
   ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du fikk en eksklusiv premie"
+        ],
+        "other": [
+          "Du fikk de ",
+          [
+            7
+          ],
+          " eksklusive premiene"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "cMgegQ": [
     "Rammer er kronen på verket på profilen din. Nitro-medlemmer får tidlig tilgang. Finn deg en ramme i butikken."
   ],
@@ -104908,13 +104931,13 @@
           [
             7
           ],
-          " ekstra merke"
+          " merke til"
         ],
         "other": [
           [
             7
           ],
-          " ekstra merker"
+          " merker til"
         ]
       },
       0,
@@ -109462,7 +109485,7 @@
     " (gruppemelding)"
   ],
   "fxxYiB": [
-    "Melding #generelt"
+    "Send melding #generelt"
   ],
   "fyA115": [
     "Venneforespørsler"
@@ -117203,6 +117226,9 @@
   "ivpkNe": [
     "Nei takk"
   ],
+  "ivpn6G": [
+    "Velg en gratis dekorasjon du får til odel og eie"
+  ],
   "iw0hFi": [
     [
       8,
@@ -120505,9 +120531,6 @@
   ],
   "kMYVwv": [
     "Hent premien din"
-  ],
-  "kMdneQ": [
-    "Egendefinerte varslingsinnstillinger for kanalen"
   ],
   "kMgj+e": [
     "Søk etter servere"
@@ -131078,9 +131101,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Utforsk butikken"
-  ],
   "o7DqF3": [
     "Gren"
   ],
@@ -133292,6 +133312,9 @@
   ],
   "ozumaN": [
     "Diskriminator"
+  ],
+  "ozurym": [
+    "Del innebygd element"
   ],
   "ozv9NT": [
     "Vis alle"
@@ -144422,9 +144445,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Prøv primær-temafarge"
-  ],
   "sm4HCL": [
     "Det oppsto en feil. Prøv igjen"
   ],
@@ -145038,7 +145058,7 @@
     "En base der du og squaden kan samles, dele klipp og snakke strategi."
   ],
   "srla2+": [
-    "har flagget et stuenotat for ",
+    "rehar flagget et stuenotat for ",
     [
       8,
       "channelHook",
@@ -154314,7 +154334,7 @@
     "."
   ],
   "wK1svU": [
-    "Innholdsvurdering"
+    "Aldersgrense"
   ],
   "wK78Qv": [
     "Du valgte å ignorere denne meldingsforespørselen. Vil du blokkere denne brukeren for å unngå flere meldinger?"
@@ -159337,7 +159357,7 @@
     "Kodene matcher!"
   ],
   "xyO7AD": [
-    "Trykk på Enter for å legge notater her. Trykk på Esc for å avbryte."
+    "Trykk på Enter for å legge notatet her. Trykk på Esc for å avbryte."
   ],
   "xyYt8A": [
     "Sorter og vis"
@@ -162908,6 +162928,9 @@
   ],
   "zV0/FC": [
     "Ugyldig meldingstype"
+  ],
+  "zVGHbw": [
+    "Få en gratis dekorasjon"
   ],
   "zVJxqj": [
     "Må ha minst ",

@@ -1481,7 +1481,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia da ",
+    " richiesta di amicizia da ",
     [
       1,
       "name"
@@ -2986,6 +2986,9 @@
   ],
   "/8psS7": [
     "I controlli dell'attività non erano chiari"
+  ],
+  "/8znyU": [
+    "Invia un altro regalo per collezionarle tutte"
   ],
   "/91tbr": [
     "Invia una notifica a tutti gli utenti che hanno questo ruolo e i permessi per vedere il canale."
@@ -16470,9 +16473,6 @@
     ],
     ". L'indicizzazione dei vecchi messaggi è ancora in corso."
   ],
-  "4Y84j2": [
-    "Prova il colore secondario del tema"
-  ],
   "4YLtzC": [
     "Canale rimosso da Attivi ora"
   ],
@@ -28495,7 +28495,6 @@
     "Scarica un'app di verifica"
   ],
   "9EQix0": [
-    "Limite di membri: ",
     [
       1,
       "numMembers"
@@ -28504,7 +28503,8 @@
     [
       1,
       "maxMemberLimit"
-    ]
+    ],
+    " membri"
   ],
   "9ESaO7": [
     "Modifica il profilo specifico del server"
@@ -34315,7 +34315,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia a ",
+    " richiesta di amicizia a ",
     [
       1,
       "name"
@@ -37950,7 +37950,7 @@
     ]
   ],
   "DIyQIF": [
-    "Thread aggiunti automaticamente"
+    "Aggiungi automaticamente thread"
   ],
   "DJ+bGu": [
     "Il tuo ruolo e la tua icona"
@@ -52475,7 +52475,7 @@
     "Inglese, Regno Unito"
   ],
   "JR+Zws": [
-    "Limite ",
+    "Limite: ",
     [
       2,
       "maxCredits"
@@ -61062,7 +61062,7 @@
     "Domani dovrai dire addio al badge! Mantienilo finché puoi."
   ],
   "NBm6jz": [
-    "Posizionamento della nota accanto a ",
+    "Stai posizionando la nota accanto a ",
     [
       1,
       "targetLabel"
@@ -62935,7 +62935,7 @@
     "Il gioco attuale è in esecuzione come amministratore. Riavvia Discord come amministratore per attivare l'associazione tasti dell'overlay."
   ],
   "Nt0tz7": [
-    "L'orario programmato è troppo lontano"
+    "Il momento di invio è troppo lontano"
   ],
   "NtauHv": [
     "defi"
@@ -73146,7 +73146,7 @@
     ]
   ],
   "SBcdAN": [
-    "Modifica l'orario programmato"
+    "Modifica momento di invio"
   ],
   "SBd+Bs": [
     "< 1H RESTANTE"
@@ -84892,6 +84892,9 @@
   ],
   "Wv7HLS": [
     "Nuovi drop tutti per te"
+  ],
+  "WvAqZA": [
+    "Hai ottenuto una decorazione gratis"
   ],
   "Wvc/I+": [
     "Buongiorno,"
@@ -100136,6 +100139,26 @@
   "cM8bbx": [
     "Ottieni Basic"
   ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Hai ottenuto la ricompensa esclusiva"
+        ],
+        "other": [
+          "Hai ottenuto tutte e ",
+          [
+            7
+          ],
+          " le ricompense esclusive"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "cMgegQ": [
     "Le cornici sono bordi del profilo che completano il tuo look. I membri Nitro ottengono l'accesso anticipato. Trova le cornici nel negozio."
   ],
@@ -106615,7 +106638,7 @@
     "!"
   ],
   "eD6Yq0": [
-    "Mostra sul tuo profilo."
+    "Mostralo sul tuo profilo."
   ],
   "eDBuF8": [
     [
@@ -111867,7 +111890,7 @@
     " (messaggio di gruppo)"
   ],
   "fxxYiB": [
-    "Messaggio #generale"
+    "Scrivi messaggio in #generale"
   ],
   "fyA115": [
     "Richieste di amicizia"
@@ -119988,6 +120011,9 @@
   "ivpkNe": [
     "No, grazie"
   ],
+  "ivpn6G": [
+    "Scegli una decorazione gratis da tenere"
+  ],
   "iw0hFi": [
     [
       8,
@@ -123371,9 +123397,6 @@
   "kMYVwv": [
     "Riscatta la tua ricompensa"
   ],
-  "kMdneQ": [
-    "Le impostazioni personalizzate delle notifiche del canale"
-  ],
   "kMgj+e": [
     "Cerca server"
   ],
@@ -123615,7 +123638,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia da ",
+    " richiesta di amicizia da ",
     [
       1,
       "name"
@@ -134658,9 +134681,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Esplora il negozio"
-  ],
   "o7DqF3": [
     "Sezione"
   ],
@@ -137015,6 +137035,9 @@
   ],
   "ozumaN": [
     "Suffisso"
+  ],
+  "ozurym": [
+    "Condividi incorporamento"
   ],
   "ozv9NT": [
     "Mostra tutti"
@@ -148964,9 +148987,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Prova il colore primario del tema"
-  ],
   "sm4HCL": [
     "Qualcosa è andato storto. Riprova."
   ],
@@ -158273,7 +158293,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia a ",
+    " richiesta di amicizia a ",
     [
       1,
       "name"
@@ -158810,7 +158830,7 @@
     "Puoi cambiarlo in qualsiasi momento."
   ],
   "w/fgvh": [
-    "L'orario programmato è troppo vicino"
+    "Il momento di invio è troppo vicino"
   ],
   "w/mIMw": [
     "Attiva il tag del server"
@@ -168455,6 +168475,9 @@
   ],
   "zV0/FC": [
     "Tipo di messaggio non valido"
+  ],
+  "zVGHbw": [
+    "Ottieni una decorazione gratis"
   ],
   "zVJxqj": [
     "Deve avere almeno ",

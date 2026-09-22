@@ -3079,6 +3079,9 @@
   "/8psS7": [
     "Sterowanie w aktywności było skomplikowane"
   ],
+  "/8znyU": [
+    "Wyślij kolejny prezent, aby odebrać je wszystkie"
+  ],
   "/91tbr": [
     "Powiadom użytkowników z tą rolą, którzy mają uprawnienia do wyświetlania tego kanału."
   ],
@@ -16882,9 +16885,6 @@
       "cardinal"
     ],
     " do tej pory. Wciąż indeksujemy starsze wiadomości."
-  ],
-  "4Y84j2": [
-    "Wypróbuj kolor akcentu motywu"
   ],
   "4YLtzC": [
     "Usunięto kanał z sekcji Aktywni teraz"
@@ -62376,7 +62376,7 @@
     "Twoja odznaka wygasa jutro! Zachowaj ją, póki możesz."
   ],
   "NBm6jz": [
-    "Umieszczanie notatki obok ",
+    "Umieszczanie notatki obok przedmiotu: ",
     [
       1,
       "targetLabel"
@@ -86822,6 +86822,9 @@
   "Wv7HLS": [
     "Nowe dropy specjalnie dla Ciebie"
   ],
+  "WvAqZA": [
+    "Zdobyto darmową dekorację"
+  ],
   "Wvc/I+": [
     "Dzień dobry,"
   ],
@@ -102089,6 +102092,40 @@
   ],
   "cM8bbx": [
     "Kup Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Odebrano ekskluzywną nagrodę"
+        ],
+        "few": [
+          "Odebrano wszystkie ",
+          [
+            7
+          ],
+          " ekskluzywne nagrody"
+        ],
+        "many": [
+          "Odebrano wszystkich ",
+          [
+            7
+          ],
+          " ekskluzywnych nagród"
+        ],
+        "other": [
+          "Odebrano wszystkich ",
+          [
+            7
+          ],
+          " ekskluzywnych nagród"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Ramki to obramowania profilu, które uzupełniają Twój wygląd. Członkowie Nitro otrzymują wczesny dostęp. Znajdź ramki dla siebie w sklepie."
@@ -121699,6 +121736,9 @@
   "ivpkNe": [
     "Nie, dzięki"
   ],
+  "ivpn6G": [
+    "Wybierz bezpłatną dekorację, którą chcesz zatrzymać"
+  ],
   "iw0hFi": [
     [
       8,
@@ -125094,9 +125134,6 @@
   ],
   "kMYVwv": [
     "Odbierz swoją nagrodę"
-  ],
-  "kMdneQ": [
-    "Niestandardowe ustawienia powiadomień kanału"
   ],
   "kMgj+e": [
     "Przeszukaj serwery"
@@ -136301,9 +136338,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Poznaj sklep"
-  ],
   "o7DqF3": [
     "Dział"
   ],
@@ -138640,6 +138674,9 @@
   ],
   "ozumaN": [
     "Numer rozróżniający „discriminator”"
+  ],
+  "ozurym": [
+    "Udostępnij osadzenie"
   ],
   "ozv9NT": [
     "Pokaż wszystkie"
@@ -150627,9 +150664,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Wypróbuj główny kolor motywu"
   ],
   "sm4HCL": [
     "Coś poszło nie tak! Spróbuj ponownie później"
@@ -170129,6 +170163,9 @@
   ],
   "zV0/FC": [
     "Nieprawidłowy typ wiadomości"
+  ],
+  "zVGHbw": [
+    "Zgarnij darmową dekorację"
   ],
   "zVJxqj": [
     "Musi mieć co najmniej tyle gier: ",

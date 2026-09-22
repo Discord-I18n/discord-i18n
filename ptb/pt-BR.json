@@ -3011,6 +3011,9 @@
   "/8psS7": [
     "Os controles da atividade eram confusos"
   ],
+  "/8znyU": [
+    "Envie outro presente para coletar tudo"
+  ],
   "/91tbr": [
     "Notificar usuários com este cargo que têm permissão para ver este canal."
   ],
@@ -16513,9 +16516,6 @@
       "cardinal"
     ],
     " até o momento. Ainda estamos indexando as mensagens mais antigas."
-  ],
-  "4Y84j2": [
-    "Experimente cores de realce do tema"
   ],
   "4YLtzC": [
     "Removeu canal do Ativo agora"
@@ -30115,7 +30115,7 @@
     "Última semana"
   ],
   "9x7Jdd": [
-    "bloqueou uma anotação da Sala de Estar para ",
+    "bloqueou uma nota da Sala de Estar para ",
     [
       8,
       "channelHook",
@@ -52682,7 +52682,7 @@
     "Inglês, Reino Unido"
   ],
   "JR+Zws": [
-    "Limite ",
+    "Limite: ",
     [
       2,
       "maxCredits"
@@ -85199,6 +85199,9 @@
   "Wv7HLS": [
     "Novos drops, só pra você!"
   ],
+  "WvAqZA": [
+    "Você ganhou uma decoração grátis"
+  ],
   "Wvc/I+": [
     "Bom dia,"
   ],
@@ -100280,6 +100283,26 @@
   "cM8bbx": [
     "Obtenha o Basic"
   ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Você coletou a recompensa exclusiva"
+        ],
+        "other": [
+          "Você coletou todas as ",
+          [
+            7
+          ],
+          " recompensas exclusivas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "cMgegQ": [
     "Molduras são bordas de perfil que dão o toque final ao seu look. Membros Nitro têm acesso antecipado. Encontre a sua na Loja."
   ],
@@ -106724,16 +106747,18 @@
       "overflow_count",
       {
         "one": [
+          "mais ",
           [
             7
           ],
-          " mais insígnia"
+          " insígnia"
         ],
         "other": [
+          "mais ",
           [
             7
           ],
-          " mais insígnias"
+          " insígnias"
         ]
       },
       0,
@@ -119408,6 +119433,9 @@
   "ivpkNe": [
     "Não, valeu"
   ],
+  "ivpn6G": [
+    "Escolha uma decoração grátis para você"
+  ],
   "iw0hFi": [
     [
       8,
@@ -122804,9 +122832,6 @@
   ],
   "kMYVwv": [
     "Resgate sua recompensa"
-  ],
-  "kMdneQ": [
-    "As configurações personalizadas de notificação do canal"
   ],
   "kMgj+e": [
     "Buscar servidores"
@@ -133700,9 +133725,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Explorar a loja"
-  ],
   "o7DqF3": [
     "Ramo"
   ],
@@ -135991,6 +136013,9 @@
   ],
   "ozumaN": [
     "Discriminador"
+  ],
+  "ozurym": [
+    "Compartilhar anexo"
   ],
   "ozv9NT": [
     "Mostrar tudo"
@@ -147529,9 +147554,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Experimente cores primárias do tema"
-  ],
   "sm4HCL": [
     "Algo deu errado! Tente novamente mais tarde"
   ],
@@ -148224,7 +148246,7 @@
     "Uma base para seu time se reunir, compartilhar clipes e discutir estratégias."
   ],
   "srla2+": [
-    "sinalizou uma anotação da Sala de estar para ",
+    "sinalizou uma nota da Sala de estar para ",
     [
       8,
       "channelHook",
@@ -156491,7 +156513,7 @@
     "Compartilhar automaticamente minha atividade com"
   ],
   "vpzyht": [
-    "Pausar prévia quando o Discord não estiver em Foco"
+    "Pausar prévia quando o Discord não estiver em primeiro plano"
   ],
   "vqb+H1": [
     "Veja os níveis e as vantagens"
@@ -166558,6 +166580,9 @@
   ],
   "zV0/FC": [
     "Tipo de mensagem inválida"
+  ],
+  "zVGHbw": [
+    "Ganhe uma decoração grátis"
   ],
   "zVJxqj": [
     "Deve ter pelo menos ",
