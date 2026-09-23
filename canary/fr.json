@@ -26840,7 +26840,7 @@
     " % de la droite"
   ],
   "8e4LiB": [
-    "Toutes les évaluations"
+    "Tout"
   ],
   "8eBJ73": [
     "Les participants dont la vidéo est désactivée sont actuellement cachés. Veux-tu les afficher ?"
@@ -28771,7 +28771,7 @@
     "Afficher tous les messages non lus"
   ],
   "9OFjSe": [
-    "Jusqu'au ",
+    "Expiration : ",
     [
       1,
       "dateString"
@@ -28780,7 +28780,8 @@
     [
       1,
       "timeString"
-    ]
+    ],
+    "\n"
   ],
   "9Oq93m": [
     "Membres"
@@ -59185,7 +59186,7 @@
     "Pourcentage de nouveaux membres qui sont retournés sur le serveur dans la semaine après l’avoir rejoint."
   ],
   "MQGNsN": [
-    "Évaluations récentes"
+    "Récent"
   ],
   "MQcRX/": [
     "Programmation d'un message pour le ",
@@ -67544,6 +67545,9 @@
   ],
   "PlAffn": [
     "ce salon"
+  ],
+  "Pla5Vk": [
+    "Articles éligibles"
   ],
   "Plcu02": [
     "Tu peux envoyer ce message en tant que fichier."
@@ -94107,7 +94111,7 @@
     "Code incorrect"
   ],
   "aWb+V4": [
-    "Évaluations en anglais"
+    "Anglais"
   ],
   "aWsjtD": [
     "* Modifications non synchronisées. Mets à jour les salons, rôles et permissions dans ton modèle en le synchronisant."
@@ -97879,7 +97883,7 @@
     ]
   ],
   "bhtYLk": [
-    "Retour à ",
+    "Retour aux ",
     [
       1,
       "productNamePlural"
@@ -124385,7 +124389,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "l+lSLp": [
     "Transforme ta voix pour t'exprimer et t'amuser encore plus pendant les appels !"
@@ -134087,12 +134092,12 @@
     "Upload des Cloud Saves en cours"
   ],
   "oCKH5M": [
-    "Aucune ",
+    "Pas de ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
-    " disponible, reviens plus tard."
+    " disponibles, reviens plus tard."
   ],
   "oCONqN": [
     "Autorise tout le monde dans un salon vocal partagé à rejoindre ta partie sans avoir à envoyer de demande. Cette fonctionnalité fonctionne uniquement hors serveurs de communauté."
@@ -140912,7 +140917,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "qSq0tD": [
     "Lone Wanderer"
@@ -141304,7 +141310,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "qbDPGM": [
     "Résilier l'abonnement"
@@ -143031,7 +143038,7 @@
     ]
   ],
   "rManeQ": [
-    "Groupe d'âge"
+    "Groupe de l'application"
   ],
   "rMulDT": [
     "Il ne sera pas visible pour les membres du serveur tant que tu ne l'auras pas publié."
@@ -155331,7 +155338,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "vHCZwr": [
     "Catégorie"
@@ -155425,6 +155433,9 @@
   ],
   "vJqrIg": [
     "Changer de style"
+  ],
+  "vKA/P1": [
+    "Déverrouiller l'offre"
   ],
   "vKBV4A": [
     "Style du pseudonyme"
@@ -163651,6 +163662,9 @@
   ],
   "y3LQCG": [
     "Favoris"
+  ],
+  "y3TqzT": [
+    "Autres options"
   ],
   "y3ZnnU": [
     "Jeux récupérés"

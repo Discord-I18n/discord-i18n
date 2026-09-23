@@ -3354,7 +3354,7 @@
       8,
       "hook",
       [
-        "Viskas gerai!"
+        "Viskas gerai"
       ]
     ]
   ],
@@ -3518,6 +3518,9 @@
   ],
   "/NEGrO": [
     "„Klausk manęs bet ko“ (AMA)"
+  ],
+  "/NKLK5": [
+    "Naršyti visus valdiklius"
   ],
   "/NNQKx": [
     "Surask draugą, kuris jau yra Discord, ir pradėk pokalbį."
@@ -6523,6 +6526,9 @@
   "0X5Zbq": [
     "Transliacija buvo juoda"
   ],
+  "0XMNl5": [
+    "Panašu, kad tavo žaidimo parduotuvė dar nesukonfigūruota"
+  ],
   "0XtAW0": [
     "Rūšiuok klipus"
   ],
@@ -7692,6 +7698,9 @@
   ],
   "0uo/LD": [
     "Naujovinti į 3 lygį"
+  ],
+  "0usxBd": [
+    "Gali ieškoti draugų pagal rodomą vardą arba naudotojo vardą."
   ],
   "0uxA2V": [
     "Papasakokite savo transliacijos patirtį."
@@ -9008,6 +9017,9 @@
     ],
     ", jei nori perkelti ar pakeisti dydį"
   ],
+  "1XGw3F": [
+    "AŽ laidojamos gyvos? Pabandyk jas prisegti!"
+  ],
   "1XZRY4": [
     "Bandyk dar kartą vėliau"
   ],
@@ -9307,6 +9319,22 @@
   ],
   "1fRDnT": [
     "Tęsti vaizdo transliaciją"
+  ],
+  "1fYyf4": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Tavo apdovanojimas paruoštas"
+        ],
+        "other": [
+          "Tavo apdovanojimai paruošti"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "1g9A/f": [
     "Bendruomenė"
@@ -10136,7 +10164,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "22CYiZ": [
     "Pašalinti kanalo būseną"
@@ -10462,6 +10491,9 @@
       "price"
     ],
     "."
+  ],
+  "2CKnsF": [
+    "Podėliai"
   ],
   "2COskX": [
     "Žaidimai"
@@ -10877,6 +10909,14 @@
   ],
   "2MCxfd": [
     "Tau jau priklauso vienas ar daugiau paketo komponentų."
+  ],
+  "2MEL67": [
+    "Patikrink vėliau – bus papildomos ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    ", per kurias gausi daugiau Orbs apdovanojimų."
   ],
   "2MK5Zz": [
     "Prie šio serverio prisijungiau per klaidą"
@@ -11826,6 +11866,9 @@
   ],
   "2m+Sqk": [
     "Dar nepasiruošęs"
+  ],
+  "2m/g2c": [
+    "Tavo pažanga"
   ],
   "2mIlKQ": [
     "Išmesti"
@@ -17705,6 +17748,9 @@
   "4z5PU1": [
     "Stebėti atnaujinimus"
   ],
+  "4z6ldH": [
+    "Atšaukti įkėlimą"
+  ],
   "4z9fN+": [
     "Išjungta"
   ],
@@ -18040,6 +18086,9 @@
   ],
   "54n19R": [
     "Siųsti žinutę, kai kas nors įsigyja serverio produktą ar serverio prenumeratą"
+  ],
+  "54qByS": [
+    "Pranešimas apie užpuolimą pateiktas"
   ],
   "54ycKJ": [
     "Bendrinti su"
@@ -19438,6 +19487,13 @@
   ],
   "5f3HIC": [
     "Šį kanalą gali peržiūrėti visi nariai, nes administratoriaus leidimas suteiktas naudojant komandą @everyone. Tai gali pakeisti serverio nustatymuose, vaidmenų skiltyje."
+  ],
+  "5f7PYN": [
+    "Paskubėk: gauk išskirtinį Helovyno elementą. Galioja iki ",
+    [
+      1,
+      "endDate"
+    ]
   ],
   "5fCazz": [
     "Svarbios naujienos, pvz., nauji kanalai ir paminėjimai, paslėptuose kanaluose bus rodomi viršuje."
@@ -21773,7 +21829,7 @@
     "SISTEMA"
   ],
   "6XuC8e": [
-    "Kitas kampas"
+    "Kita perspektyva"
   ],
   "6Y0JlN": [
     "Tai nuoroda į serverį arba kanalą, prie kurio neturi prieigos."
@@ -22080,6 +22136,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "6dVPSI": [
+    "Pridėk pastabą (pasirinktinai)"
   ],
   "6dtcuZ": [
     "Brauk skirtuką, kad aktyvintum LaunchPad"
@@ -23799,6 +23858,9 @@
       ]
     ],
     "] pateiktas"
+  ],
+  "7KOunu": [
+    "Ar čia barška tavo kaulai ar tiesiog taip garsiai veikia tavo klaviatūra?"
   ],
   "7KP/fI": [
     "Stiprinti šį serverį"
@@ -26275,6 +26337,12 @@
   "8IYUWd": [
     "Programuotojams"
   ],
+  "8IYt7j": [
+    [
+      1,
+      "productNamePlural"
+    ]
+  ],
   "8IfYqa": [
     "Pirmą Kartą Discord"
   ],
@@ -27257,7 +27325,7 @@
     " % nuo dešinės"
   ],
   "8e4LiB": [
-    "Visi atsiliepimai"
+    "Visi"
   ],
   "8eBJ73": [
     "Dalyviai, kurie negali naudoti vaizdo funkcijos, šiuo metu slepiami. Norite, kad jie būtų rodomi?"
@@ -29853,6 +29921,9 @@
   "9kH25q": [
     "Įjungti pranešimus"
   ],
+  "9kPRi0": [
+    "Peržiūrėti visus ženklelius"
+  ],
   "9kRJS8": [
     "Super reakcijos"
   ],
@@ -31244,7 +31315,7 @@
     "Programėlių katalogas"
   ],
   "AL/SoZ": [
-    "ŪūūŪŪŪūūŪ šiurpaus tau Helovyno."
+    "Ar tu šmėkla ar tiesiog nematomas (-a)?"
   ],
   "AL0JPD": [
     "Pasirink atsakymą"
@@ -31551,6 +31622,9 @@
         ]
       ]
     ]
+  ],
+  "AVZpFH": [
+    "Atmesti veiksmus su podėliu"
   ],
   "AVazqJ": [
     "Ar tikrai nori išeiti iš šio serverio?"
@@ -34853,6 +34927,9 @@
   "Bhs0s6": [
     "Pasinaudok ypatingomis nuolaidomis bet kuriai Parduotuvės prekei (ar net visoms!)."
   ],
+  "Bhun8A": [
+    "Tavęs laukia katilas"
+  ],
   "BiSnZ9": [
     "Klaidos pranešimas (Nukopijuok ir įklijuok mane)"
   ],
@@ -37465,6 +37542,9 @@
   "CocrMM": [
     "Šį leidimą turintys nariai gali naudoti komandas @everyone arba @here, kad pakibintų visus narius. Jie taip pat gali naudoti @mention visiems vaidmenims, net jei vaidmens leidimas „Leisti bet kam minėti šį vaidmenį“ išjungtas."
   ],
+  "CoudPr": [
+    "Pagal katalogą"
+  ],
   "CpEUP/": [
     "Visi serveriai"
   ],
@@ -37743,6 +37823,9 @@
   ],
   "CzEJXV": [
     "Pritaikyk Discord savo poreikiams"
+  ],
+  "CzRXoC": [
+    "Apžvalga"
   ],
   "CzTKom": [
     [
@@ -38429,6 +38512,9 @@
   ],
   "DGC0Y3": [
     "Dalykis 100 MB vaizdo įrašais ir nuotraukomis"
+  ],
+  "DGQvlY": [
+    "Programos palaikymas"
   ],
   "DGZg+k": [
     "Leisk žmonėms tavęs ieškoti, jei jie turi tavo telefono numerį ir (arba) el. pašto adresą. Tai bet kada galima pakeisti nustatymuose."
@@ -43158,6 +43244,23 @@
   "FP+a42": [
     "Žinutės serverių kanaluose"
   ],
+  "FPTCM+": [
+    "Iš viso akcijos elementų surinkta: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ],
+    "; liko dienų: ",
+    [
+      1,
+      "numDays"
+    ]
+  ],
   "FPViWL": [
     "Pirkimai iš viso – ",
     [
@@ -43457,6 +43560,9 @@
   ],
   "FYKGsL": [
     "Rodyti išsamius duomenis profilyje"
+  ],
+  "FYb5rH": [
+    "Atsiimant kažkas nepavyko. Pabandyk dar kartą."
   ],
   "FYi3ry": [
     "Prisijungt prie skambučio per PlayStation"
@@ -44871,6 +44977,18 @@
   "G9fGlP": [
     "Pridėti į mėgstamiausius"
   ],
+  "G9koyR": [
+    "Helovyno akcija: surinkta ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ]
+  ],
   "G9s+EM": [
     "Įkelti žinutę kaip failą"
   ],
@@ -45434,7 +45552,7 @@
     "Išjungta"
   ],
   "GNHAfw": [
-    "Misija"
+    "Misijos rezervas"
   ],
   "GNHD4i": [
     "Taip gali būti, nes čia esi neseniai arba įjungei privatumo nustatymus, kurie riboja suasmeninimą. ",
@@ -47842,6 +47960,22 @@
   ],
   "HGCLZX": [
     "Siųsk mėgstamus lipdukus bet kuriame pokalbyje."
+  ],
+  "HGJo1F": [
+    "Kai kuriuos nustatymus galima keisti tik būnant suaugusiųjų amžiaus grupėje. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Nori animuoto pseudoportreto?"
@@ -50606,6 +50740,27 @@
     [
       1,
       "name"
+    ]
+  ],
+  "IPj7dL": [
+    "Patikrink vėliau – bus naujos ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    "! ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau."
+      ],
+      [
+        [
+          1,
+          "onClickLearnMore"
+        ]
+      ]
     ]
   ],
   "IPzNKE": [
@@ -53420,6 +53575,13 @@
   "JZDGJ8": [
     "Išjungti išlaidų ribą"
   ],
+  "JZGcX2": [
+    [
+      1,
+      "productName"
+    ],
+    ": apžvalga"
+  ],
   "JZJQL2": [
     "Ši parinktis būtina. Nurodyk reikšmę."
   ],
@@ -53549,12 +53711,12 @@
     "@everyone gali prašyti leisti kalbėti"
   ],
   "JcZ36i": [
-    "Blokavimas pagal numatytuosius nustatymus IP.\nNaudotojas gali apeiti draudimą IP naudojant tarpinį serverį.\nUžblokavimo apėjimą galima sustabdyti įjungiant telefono patvirtinimą ",
+    "Pagal numatytuosius nustatymus užblokuojama paskyra ir IP.\nNaudotojas gali apeiti IP užblokavimą naudodamas tarpinį serverį.\nUžblokavimą apeiti bus sunkiau ",
     [
       8,
       "$link",
       [
-        "Moderation"
+        "saugos sąrankoje"
       ],
       [
         [
@@ -53563,7 +53725,7 @@
         ]
       ]
     ],
-    "."
+    " įjungus telefono patvirtinimą."
   ],
   "JdIQ/Y": [
     "Daugiau neklausti"
@@ -55014,6 +55176,9 @@
   "KPB2iw": [
     "Šis pokytis paveiks"
   ],
+  "KPCFC9": [
+    "Peržiūrėti kūrėjų dokumentaciją"
+  ],
   "KPNxZJ": [
     "Oficiali trečiųjų šalių atributika"
   ],
@@ -56361,6 +56526,9 @@
   "Ku+86R": [
     "Pašalinti šį klausimą"
   ],
+  "KuAL0o": [
+    "Laikas patikrinti, kas verda katile"
+  ],
   "KuUltE": [
     [
       1,
@@ -57050,6 +57218,13 @@
   "LCutYV": [
     "Daug nesenų žinučių"
   ],
+  "LD7HFF": [
+    [
+      1,
+      "collectibleTitle"
+    ],
+    " pridėtas prie tavo kolekcijos. Neblogai prisivirei!"
+  ],
   "LD9vsr": [
     "Pridėti serverį"
   ],
@@ -57567,6 +57742,18 @@
   ],
   "LRPgbt": [
     "Taktinis"
+  ],
+  "LRh/OJ": [
+    [
+      1,
+      "username"
+    ],
+    " praeitą savaitę laimėjo ",
+    [
+      1,
+      "statName"
+    ],
+    "!"
   ],
   "LRlhb1": [
     "Reikia nurodyti pašto indeksą"
@@ -59998,7 +60185,7 @@
     "Naujų narių, kurie grįžta į serverį praėjus savaitei po prisijungimo, procentas."
   ],
   "MQGNsN": [
-    "Pastarieji atsiliepimai"
+    "Pastarasis"
   ],
   "MQcRX/": [
     "Planuojama išsiųsti ",
@@ -60810,6 +60997,9 @@
   ],
   "Mjc8Hc": [
     "Sąskaitos turėtojo vardas"
+  ],
+  "Mjs8KR": [
+    "Suasmenink šiurpius garsus savo paskyroje"
   ],
   "Mk5nzZ": [
     "Atsirado naujų ženklelių ir ",
@@ -61849,6 +62039,9 @@
   "N86XcP": [
     "Pašalinti"
   ],
+  "N8M39C": [
+    "Peržiūrėti Server Hub"
+  ],
   "N8ZRNb": [
     "Gauk daugiau emoji galių!"
   ],
@@ -62046,6 +62239,9 @@
   ],
   "NECb4t": [
     "Kombinacijos daugiklis (x7)"
+  ],
+  "NENZhS": [
+    "Reguliuoti nustatymus"
   ],
   "NEXim3": [
     "Kad galėtų kalbėti arba siųsti AŽ, nariai privalo sutikti su taisyklėmis"
@@ -63059,6 +63255,9 @@
   "NZax1u": [
     "Taip, papildomiems pranašumams naudojami stiprinimai skirti tik šiems stiprinimams ir nėra priskaičiuojami vertinant serverio lygį. Panašiai ir jūsų serverio lygiui skirti stiprinimai negali būti naudojami papildomiems pranašumams. Viskam reikia atskirų stiprinimų, taigi, jei nori patobulintų vaidmenų stilių, tau reikės 3 stiprinimų, skirtų tik šiam pranašumui, ir bet kokių kitų pageidaujamų stiprinimų, kad išlaikytum esamą serverio lygį."
   ],
+  "NZbasC": [
+    "Reikia pagalbos ruošiant parduotuvės sąsają?"
+  ],
   "NZe65e": [
     "Pasiekiama Nitro prenumeratoriams. Įsigyk Nitro – įsigyk rėmelių. Išsiskirk iš pilkos masės."
   ],
@@ -63080,6 +63279,19 @@
   ],
   "NaQLEx": [
     "Netinkama nuoroda"
+  ],
+  "NaUZWO": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " buvo pašalintas iš serverių atradimo sąrašo, nes serveris nebeatitinka visų reikalavimų. Daugiau informacijos žr. Serverio nustatymuose kompiuteryje."
   ],
   "NaZyYC": [
     "Pranešimai"
@@ -64104,6 +64316,9 @@
       "orbAmount"
     ],
     " Orbs pristatyta"
+  ],
+  "O20zQi": [
+    "Iš viso įvertinta"
   ],
   "O2Ak86": [
     "Tinkink savo serverius"
@@ -68448,6 +68663,9 @@
   ],
   "PlAffn": [
     "šis kanalas"
+  ],
+  "Pla5Vk": [
+    "Akcijos elementai"
   ],
   "Plcu02": [
     "Tačiau gali įkelti žinutę kaip failą."
@@ -73138,6 +73356,9 @@
       "cardinal"
     ]
   ],
+  "RjPllj": [
+    "Peržiūrėti daugiau misijų"
+  ],
   "RjceQU": [
     "Neribotas žaidėjų skaičius"
   ],
@@ -75752,6 +75973,14 @@
   "So2Wuh": [
     "Prietema"
   ],
+  "So4gmj": [
+    "Reitingų lentelės nugalėtojas (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
+  ],
   "SoON3V": [
     "Prieš ",
     [
@@ -77751,6 +77980,9 @@
     ],
     " peržiūra"
   ],
+  "Tc8sxG": [
+    "Peržiūrėk kūrėjų dokumentaciją, kad žinotum, kaip užbaigti žaidimo parduotuvės konfigūravimą."
+  ],
   "TcA3+W": [
     "Prisijungta vardu ",
     [
@@ -78078,7 +78310,7 @@
     "Dovanų čekio peržiūra"
   ],
   "TlJKIQ": [
-    "Ar tu šmėkla, ar tiesiog nematomas (-a)?"
+    "Parduotuvėje rasi Lottie – Discord raganą ir eliksyrų maišytoją."
   ],
   "TlVwqn": [
     "Čia buvo ",
@@ -78849,6 +79081,9 @@
   "U/uodt": [
     "Privalai atlikti šiam serveriui privalomus patvirtinimo veiksmus."
   ],
+  "U0INks": [
+    "Praleisti šiurpius pranešimų garsus naudotojo nustatymuose."
+  ],
   "U0iMTj": [
     "Kalėdų sala"
   ],
@@ -78921,6 +79156,9 @@
   ],
   "U2N+ci": [
     "Bendruomenė"
+  ],
+  "U2f1ef": [
+    "Kiti bibliotekų failai"
   ],
   "U2hb3W": [
     "Tavo prenumeratos mokėjimo terminas praėjęs. Atnaujink ",
@@ -79659,6 +79897,14 @@
   "UNtcBV": [
     "Dabar negali naudoti šio emoji"
   ],
+  "UNvUNn": [
+    "Peržiūrėk kiekvieną ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " vaizdo įrašą per vieną sesiją ir pelnyk iki 100 Orbs. Norėdamas (-a) sužinoti, ar jau pelnei apdovanojimus, žiūrėk į viršutiniame kairiajame kampe esantį laikmatį."
+  ],
   "UOACIY": [
     "Įjungti / išjungti stalčių"
   ],
@@ -79759,6 +80005,9 @@
   "UQqFCF": [
     "Garso atkūrimas išjungtas"
   ],
+  "UQsNEK": [
+    "Laikinieji failai"
+  ],
   "UQvCf7": [
     "Atidaryti programėlę"
   ],
@@ -79856,6 +80105,9 @@
   ],
   "UTE8C/": [
     "JPEG, PNG, GIF arba WEBP. Dideli failai automatiškai sumažinami."
+  ],
+  "UTExh3": [
+    "Šio lipduko naudoti negalima."
   ],
   "UTLTx6": [
     [
@@ -81821,6 +82073,9 @@
   "VCDSLW": [
     "Slėpti persidengiančius valdiklius"
   ],
+  "VCQXvr": [
+    "Įkėlimas atšauktas"
+  ],
   "VCR6hI": [
     [
       8,
@@ -81968,6 +82223,9 @@
   "VH0dzn": [
     "Tam, kad galėtum pradėti kalbėti, turėsi patvirtinti savo amžių. Procesas užtrunka 2–5 minutes. Jei nesi tam nusiteikęs (-usi), vis tiek gali pradėti renginį."
   ],
+  "VH2HXW": [
+    "Pagal paiešką draugų nerasta."
+  ],
   "VH7zHG": [
     "Naujovinti negalima"
   ],
@@ -82008,6 +82266,14 @@
       1,
       "categoryName"
     ]
+  ],
+  "VHM37p": [
+    "Patikrink vėliau – bus papildomos ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    ", per kurias gausi daugiau Orbs apdovanojimų."
   ],
   "VHXh8a": [
     "Ištisinis užšifravimas patvirtintas visiems naudotojams, dalyvaujantiems skambutyje"
@@ -82426,6 +82692,9 @@
       "price"
     ],
     " / mėn. kiekvienam"
+  ],
+  "VT02mI": [
+    "Dar neturi ženklelių. Peržiūrėk ženklelius, kuriuos gali pelnyti."
   ],
   "VT0bQJ": [
     "Atradimo sąraše esantys serveriai turi būti bent ",
@@ -83737,7 +84006,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "W0/Duf": [
     "Tai pašalins galimybę prisijungti su SMS siunčiamu autentifikavimo kodu. Ar tikrai nori pašalinti šią galimybę?"
@@ -84339,6 +84609,9 @@
   ],
   "WGWHv/": [
     "Triukšmo slopinimas"
+  ],
+  "WGgc3y": [
+    "Daugiau misijų"
   ],
   "WH+1Yz": [
     "Deja, kol kas atradimo funkciją gali naudoti tik tie serveriai, kuriuose narių yra daugiau nei ",
@@ -88184,6 +88457,14 @@
     ],
     " senumo."
   ],
+  "XmaiRQ": [
+    "Gauta ",
+    [
+      3,
+      "date",
+      "short"
+    ]
+  ],
   "Xmh+5e": [
     "Pastaruoju metu lankyti kanalai"
   ],
@@ -88219,6 +88500,17 @@
   ],
   "XnzdTe": [
     "Gauti autentifikavimo kodą SMS žinute"
+  ],
+  "XoHiqS": [
+    [
+      1,
+      "name"
+    ],
+    " ir dar ",
+    [
+      2,
+      "count"
+    ]
   ],
   "XoTWsI": [
     "Kažkas Žaidžia"
@@ -90787,6 +91079,9 @@
   "YneDgF": [
     "Rodyti naudotojo profilį (neprieinama)"
   ],
+  "Ynmbie": [
+    "Apskaičiuojamas dydis…"
+  ],
   "YnsakI": [
     "Nitro padidina suplanuotų žinučių limitą iki ",
     [
@@ -93174,6 +93469,9 @@
   "ZdmRwW": [
     "Nuskaityk savo ID ir pasidaryk asmenukę, kad būtų patvirtinta, jog tai tu. Viskas ištrinama iškart po patvirtinimo ir nesusiejama su tavo paskyra."
   ],
+  "ZduI7f": [
+    "Kiti talpyklų failai"
+  ],
   "Ze005A": [
     "Su šiuo kanalu ",
     [
@@ -94473,6 +94771,9 @@
   "a5QL24": [
     "Leisti kontaktams mane pridėti"
   ],
+  "a60/Fx": [
+    "Garso įrenginys, į kurį nori perjungti"
+  ],
   "a6Gz9J": [
     "Ar tikrai nori panaikinti kanalą ",
     [
@@ -94703,6 +95004,9 @@
   "aE02Rz": [
     "Iš naujo nustatyti slapyvardį"
   ],
+  "aE3Wbw": [
+    "Dokumentai"
+  ],
   "aE8Q8t": [
     "Pašalino pasikartojimą"
   ],
@@ -94878,6 +95182,9 @@
   ],
   "aIbY2N": [
     "Nužudymai"
+  ],
+  "aIcsfw": [
+    "WebKit"
   ],
   "aIkGJD": [
     "Sukurk pranešimą apie klaidą su šia ekrano nuotrauka"
@@ -95352,7 +95659,7 @@
     "Neteisingas kodas"
   ],
   "aWb+V4": [
-    "Atsiliepimai anglų kalba"
+    "Anglų"
   ],
   "aWsjtD": [
     "* Yra nesinchronizuotų pakeitimų. Atnaujink šablono kanalus, vaidmenis ir leidimus sinchronizuodamas."
@@ -97954,6 +98261,19 @@
     ],
     "“"
   ],
+  "bPMe3o": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " 3 savaites iš eilės neatitiko atradimo sąrašo aktyvumo reikalavimų. Jei šis serveris jų neatitiks dar 1 savaitę, jis bus pašalintas iš atradimo sąrašo."
+  ],
   "bPP34Q": [
     "Pridėti paskyrą"
   ],
@@ -98073,6 +98393,9 @@
       ]
     ],
     "."
+  ],
+  "bTMtdN": [
+    "pvz., gal padraugaujam?"
   ],
   "bTRacj": [
     "Patobulinti vaidmenų stiliai ir serverio žymės kainuoja po 3 stiprinimus. Jei nori abiejų pranašumų, iš viso reikės 6 stiprinimų (po 3 už abu)."
@@ -98932,6 +99255,13 @@
       "legacyUsername"
     ]
   ],
+  "bhtYLk": [
+    "Atgal į ",
+    [
+      1,
+      "productNamePlural"
+    ]
+  ],
   "bhujGc": [
     [
       8,
@@ -99540,6 +99870,12 @@
     "maitinimas krūtimi",
     "priežiūra",
     "žmogus"
+  ],
+  "brh0nz": [
+    [
+      1,
+      "productName"
+    ]
   ],
   "brhYaR": [
     "Neaktyvumo skirtasis laikas"
@@ -100963,6 +101299,13 @@
   ],
   "cL/rrq": [
     "Pasirinkti katalogą"
+  ],
+  "cL/uf8": [
+    "Akcija galioja, pridedama prie draugo (-ės) pažangos; liko dienų: ",
+    [
+      1,
+      "numDays"
+    ]
   ],
   "cLQrqz": [
     "užblokavo balso kanalo būseną kanalui ",
@@ -104120,6 +104463,18 @@
   "d9+vQ8": [
     "Ačiū už atsiliepimą!"
   ],
+  "d9KbHK": [
+    "Surinkta akcijos elementų: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ]
+  ],
   "d9PsMj": [
     "Prisijungti"
   ],
@@ -104823,6 +105178,9 @@
   "dTEueK": [
     "Žymių nėra."
   ],
+  "dTHLeG": [
+    "Virė virė košę… Gauk išskirtinį Helovyno elementą, kol nedingo."
+  ],
   "dTNNgr": [
     "Kad galėtum nušokti į jo (-s) žinutę, iš pradžių turėsi panaikinti ",
     [
@@ -104839,6 +105197,17 @@
   ],
   "dTqtcN": [
     "Arba išsiųsk kvietimo nuorodą"
+  ],
+  "dUPcpR": [
+    [
+      1,
+      "name"
+    ],
+    ", pradės po ",
+    [
+      1,
+      "time"
+    ]
   ],
   "dURIzS": [
     "Visuose serveriuose dalyvauk pokalbiuose savo stiliumi – naudok animuotus ir tinkintus jaustukus. Pasiekiama tik su Nitro."
@@ -109158,6 +109527,13 @@
   "ez/N/R": [
     "Gali matyti, kas yra serveryje ir jų vaidmenų, slapyvardžių, leidimų pasikeitimus."
   ],
+  "ezJA0R": [
+    [
+      1,
+      "guildName"
+    ],
+    " administratoriai nurodė, kad šis kanalas skirtas suaugusiems (18+ m.), jame gali būti jautraus turinio. Tavo paskyra priklauso paauglių amžiaus grupei. Jei nustatėme klaidingą amžiaus grupę, patvirtink, kad esi suaugęs (-usi)."
+  ],
   "ezLpY6": [
     "Palikti scenos kanalą"
   ],
@@ -109860,6 +110236,19 @@
   ],
   "fJOECn": [
     "Sužinoti daugiau apie Discord Nitro"
+  ],
+  "fJP+Wx": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " 1 savaitę neatitiko atradimo sąrašo aktyvumo reikalavimų. Jei šis serveris jų neatitiks 4 savaites iš eilės, jis bus automatiškai pašalintas iš atradimo sąrašo."
   ],
   "fJUioH": [
     "Nepavyko įkelti tavo įrenginio išsaugoto patvirtinimo rakto"
@@ -113125,6 +113514,13 @@
   "gRqiWV": [
     "Supratau"
   ],
+  "gRxSSJ": [
+    "Tavo išskirtinis Helovyno elementas paruoštas. Atsiimk iki ",
+    [
+      1,
+      "endClaimDate"
+    ]
+  ],
   "gSS3O/": [
     "Šiuo metu svetainė neprieinama."
   ],
@@ -113328,6 +113724,9 @@
       ]
     ],
     " vakarėlio"
+  ],
+  "gYiBrD": [
+    "Išeiti iš tinklelio rodinio"
   ],
   "gZEUBl": [
     "Gotas"
@@ -113708,6 +114107,16 @@
   "ggJ9jR": [
     "Pranešimas apie ne brukalą NEBUS siunčiamas."
   ],
+  "ggLzeg": [
+    "Įkeliant iššūkius kažkas nepavyko. ",
+    [
+      8,
+      "underlineHook",
+      [
+        "Pabandyk dar kartą"
+      ]
+    ]
+  ],
   "ggcjPR": [
     [
       6,
@@ -113761,7 +114170,8 @@
           "handleOnAgeGatedContentHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "gi6XHp": [
     "Tu siunti žinutes per greitai!"
@@ -114797,6 +115207,13 @@
   ],
   "h48QWG": [
     "Įrašai"
+  ],
+  "h4HbnI": [
+    [
+      1,
+      "guildName"
+    ],
+    " administratoriai nurodė, kad šis kanalas skirtas suaugusiems (18+ m.), jame gali būti jautraus turinio. Norėdamas (-a) pasiekti pagal amžių ribojamą turinį, erdves ir nustatymus, patvirtink, kad esi suaugęs (-usi)."
   ],
   "h4WIYV": [
     "Jei nori pridėti daugiau kanalų, naudok serverio meniu esančią ",
@@ -116697,6 +117114,9 @@
     "begemotas",
     "gyvūnas"
   ],
+  "hj/3qI": [
+    "Nepavyko apskaičiuoti disko naudojimo. Pabandyk apskaičiuoti dydį iš naujo."
+  ],
   "hj2zN0": [
     "Aktyvus šiokiadieniais"
   ],
@@ -117775,6 +118195,9 @@
   "i9IRUc": [
     "Visi albumai"
   ],
+  "i9UgY+": [
+    "Cauldron Chaos"
+  ],
   "i9e/u1": [
     "Pereinančios spalvos"
   ],
@@ -117786,6 +118209,9 @@
   ],
   "iA81+a": [
     "Slėpk Discord langą iš ekrano vaizdo"
+  ],
+  "iAFGRu": [
+    "Apskaičiuoti dydį"
   ],
   "iAaAiG": [
     "Šiam serveriui reikia dar ",
@@ -118118,6 +118544,13 @@
   ],
   "iJA/TE": [
     "Įtraukta į mėgstamiausius"
+  ],
+  "iK0n30": [
+    [
+      1,
+      "guildName"
+    ],
+    " administratoriai nurodė, kad šis kanalas skirtas suaugusiems (18+ m.), jame gali būti jautraus turinio."
   ],
   "iKAdpR": [
     "Naujovink ir gauk visus įmanomus tinkinimus."
@@ -119125,6 +119558,9 @@
   "iezLLn": [
     "pvz., moderatoriai, @wumpus"
   ],
+  "ifAVZr": [
+    "Patikrink Apple paskyrą"
+  ],
   "ifCRdB": [
     "Pasiek tinkintus profilius, atnaujintus jaustukus ir kt. su Nitro."
   ],
@@ -119672,7 +120108,7 @@
     "Tavo Checkpoint"
   ],
   "irDT8W": [
-    "Pradedame jausti Helovyno „dvasią“."
+    "Mikrofono trukdžiai? Galbūt. O gal tai…"
   ],
   "iruf5E": [
     [
@@ -121821,6 +122257,23 @@
   "jiRvC7": [
     "Mokestis"
   ],
+  "jidBDk": [
+    "Surinkta akcijos elementų: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ],
+    "; liko dienų: ",
+    [
+      1,
+      "numDays"
+    ]
+  ],
   "jigsaw": [
     "dalis",
     "dėlionė",
@@ -122312,6 +122765,9 @@
   ],
   "jwrGzu": [
     "Apsauga nuo reidų"
+  ],
+  "jx0GiG": [
+    "pvz., Wumpus"
   ],
   "jxF9er": [
     "Nutildei šį pokalbį"
@@ -123161,6 +123617,19 @@
   ],
   "kJj2oG": [
     "Norėdami prisijungti, naudotojai turi pateikti paraiškas ir sulaukti patvirtinimo"
+  ],
+  "kJtgUW": [
+    "Jei bus baigtos visos ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    ", gausi +",
+    [
+      2,
+      "orbAmount"
+    ],
+    " Orbs"
   ],
   "kJwpBW": [
     "Serverio funkcijos – ribotos"
@@ -124519,6 +124988,19 @@
   "ksze+o": [
     "Ką globėjai gali valdyti"
   ],
+  "kt7tAT": [
+    "Dalinis įvertinimas: skaitymo klaidų: ",
+    [
+      1,
+      "errors"
+    ],
+    ", nepasiekiamų katalogų: ",
+    [
+      1,
+      "unavailable"
+    ],
+    ". Bendra suma gali būti mažesnė nei tikrasis dydis."
+  ],
   "kt9wxs": [
     "Planai kainuoja vos nuo ",
     [
@@ -124712,6 +125194,23 @@
   ],
   "l+S46U": [
     "Animuotas"
+  ],
+  "l+jt8J": [
+    "Esi paauglių amžiaus grupėje, todėl žinučių užklausų išjungti negalima. Jei tai klaida, gali ",
+    [
+      8,
+      "$link",
+      [
+        "patvirtinti, kad esi suaugęs (-usi)"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "l+lSLp": [
     "Pakeisk savo balsą, kad save išreikštum ir pokalbiai vyktų dar smagiau!"
@@ -126926,6 +127425,35 @@
     ],
     " val."
   ],
+  "ltaxJz": [
+    [
+      6,
+      "streakCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " laimėjimas"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " laimėjimai"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " laimėjimų"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " iš eilės"
+  ],
   "ltedOh": [
     "Kanalo leidimai Vaidmenų veiksmai"
   ],
@@ -127042,6 +127570,14 @@
       "fileUploadLimit"
     ],
     "."
+  ],
+  "lvf/y3": [
+    "Įvykdyk ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " ir pelnyk Orbs."
   ],
   "lvk1Gc": [
     "Norint atrakinti ženklelių paketus, reikalingas serverio žymės pranašumas."
@@ -127182,6 +127718,18 @@
   "lyXyD0": [
     "Nitro + stiprinimo planai"
   ],
+  "lyXyiY": [
+    "Surinkta: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ]
+  ],
   "lyhz2x": [
     "Sukurk šiek tiek chaoso su garsais, kuriuos girdės visi esantys balso kanale."
   ],
@@ -127190,6 +127738,9 @@
     "meluojantis veidas",
     "Pinokis",
     "veidas"
+  ],
+  "lykjkX": [
+    "Eiti į tinklelio rodinį"
   ],
   "lyxfbj": [
     "Transliuok HD raiška su ",
@@ -127230,6 +127781,9 @@
   ],
   "lzAoKB": [
     "Prenumeruodamas (-a) gausi tau skirtus pranašumus"
+  ],
+  "lzJM+Z": [
+    "Disko naudojimas apskaičiuotas. Rezultatai pateikti toliau."
   ],
   "lzK51o": [
     [
@@ -127708,6 +128262,9 @@
   "m85s/h": [
     "Progreso juostos veiksmai"
   ],
+  "m8BOpo": [
+    "Disko naudojimas"
+  ],
   "m8CScv": [
     "Tu jau pasirašei šiai kelionei."
   ],
@@ -128156,6 +128713,13 @@
   ],
   "mKxGpP": [
     "Pasirinkti viską"
+  ],
+  "mL6Jwf": [
+    [
+      1,
+      "productNamePlural"
+    ],
+    " įvykdyta!"
   ],
   "mLs2cz": [
     "Išvalyti po ",
@@ -129531,6 +130095,9 @@
     "maistas",
     "mėsa",
     "mėsa ant kaulo"
+  ],
+  "meauFg": [
+    "Tavo prenumerata įsigyta naudojant kitą Apple paskyrą. Jei nori atšaukti ar ką nors pakeisti, prisijunk su ta paskyra."
   ],
   "mechanic": [
     "elektrikas",
@@ -134136,6 +134703,14 @@
   "oCBh0J": [
     "Cloud Saves įkeliami"
   ],
+  "oCKH5M": [
+    "Jokios ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " neprieinamos, patikrink vėliau."
+  ],
   "oCONqN": [
     "Bet kam, esančiam bendrame balso kanale, leidžiama prisijungti prie tavo žaidimo nesiunčiant prašymo. Ši funkcija veikia tik serveriuose, kuriuose neįjungta bendruomenės funkcija."
   ],
@@ -135421,6 +135996,9 @@
     "OK",
     "ranka"
   ],
+  "okaenw": [
+    "Aptikta naujų garso įrenginių"
+  ],
   "okgGTu": [
     "Visiškai praleisk slaptažodžius. Prisijunk patogiau ir saugiau: veidu, piršto atspaudu, įrenginio PIN ar slaptažodžių tvarkymo priemone."
   ],
@@ -135975,6 +136553,47 @@
   ],
   "ow+Bj+": [
     "Surinamas"
+  ],
+  "owAd83": [
+    "Reitingų lentelės nugalėtojas (",
+    [
+      1,
+      "statName"
+    ],
+    ")\n",
+    [
+      8,
+      "$i",
+      [
+        [
+          6,
+          "streakCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " savaitę"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " savaites"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " savaičių"
+            ]
+          },
+          0,
+          "cardinal"
+        ],
+        " iš eilės"
+      ]
+    ]
   ],
   "owFNB2": [
     "Pasirink ir pradėk"
@@ -139769,6 +140388,9 @@
   "q3IRal": [
     "Ką mano tėvai matys?"
   ],
+  "q3NQDg": [
+    "Žiūrėk trumpuosius vaizdo įrašus ir pelnyk Orbs!"
+  ],
   "q3O3J8": [
     "Nebestebėti"
   ],
@@ -139983,6 +140605,17 @@
   ],
   "q8TiVt": [
     "Kokybė suprastėjo"
+  ],
+  "q8TlkE": [
+    [
+      1,
+      "name"
+    ],
+    ", baigė prieš ",
+    [
+      1,
+      "time"
+    ]
   ],
   "q8VPLo": [
     "Tavo macOS versija pasenusi. Naujovink ją, kad ir toliau galėtum gauti Discord atnaujinimus ir techninę pagalbą. ",
@@ -140703,7 +141336,7 @@
     "Dovanos nuoroda"
   ],
   "qS9MOl": [
-    "Misijos"
+    "Misijų rezervai"
   ],
   "qSHshq": [
     "Programėlės ID"
@@ -140754,7 +141387,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "qSq0tD": [
     "Lone Wanderer"
@@ -141122,6 +141756,23 @@
   ],
   "qaYzPA": [
     "Baigti renginį"
+  ],
+  "qbBkFI": [
+    "Esi paauglių amžiaus grupėje, todėl kai kurių nustatymų pakeisti negalima. Jei tai klaida, gali ",
+    [
+      8,
+      "$link",
+      [
+        "patvirtinti, kad esi suaugęs (-usi)"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "qbDPGM": [
     "Atšaukti prenumeratą"
@@ -141901,6 +142552,13 @@
   "r+l7BL": [
     "Suomių k."
   ],
+  "r+tSgg": [
+    [
+      1,
+      "productNamePlural"
+    ],
+    " jau pakeliui"
+  ],
   "r+uZYZ": [
     "Ruošiami balsai – ",
     [
@@ -142555,7 +143213,7 @@
     ]
   ],
   "rE+3z3": [
-    "Pokalbyje balsu visi mes dvasios."
+    "Šiurpusis sezonas – ne priežastis nesivaidenti draugams: atrašyk į AŽ."
   ],
   "rEAPa0": [
     "Slovakija"
@@ -142942,6 +143600,9 @@
         ]
       ]
     ]
+  ],
+  "rManeQ": [
+    "Programėlių grupė"
   ],
   "rMulDT": [
     "Kol jo nepublikuosi, serverio nariai jo nematys."
@@ -146459,6 +147120,33 @@
   "sUvCKU": [
     "Ataskaita pateikta"
   ],
+  "sUvNeI": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pasirink nemokamą papuošimą. Galėsi jį pasilikti, jei įsigysi dovaną."
+        ],
+        "few": [
+          "Pasirink ",
+          [
+            7
+          ],
+          " nemokamus papuošimus. Galėsi juos pasilikti, jei įsigysi dovaną."
+        ],
+        "other": [
+          "Pasirink ",
+          [
+            7
+          ],
+          " nemokamų papuošimų. Galėsi juos pasilikti, jei įsigysi dovaną."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "sUvyW3": [
     "Nepavyko atšaukti suplanuotos žinutės. ",
     [
@@ -148965,6 +149653,9 @@
     ],
     ", gavai dovaną!"
   ],
+  "t1T3kD": [
+    "Nukopijuok nuorodą draugauti"
+  ],
   "t1Ztrp": [
     "Temos"
   ],
@@ -149248,6 +149939,9 @@
   "tBF4+S": [
     "Sukurti Webhook"
   ],
+  "tBOSx4": [
+    "Nuoroda draugauti nukopijuota"
+  ],
   "tBPMpG": [
     "Laikyk arklius! ",
     [
@@ -149409,6 +150103,22 @@
   ],
   "tGYbvd": [
     "Suplanuoti renginiai"
+  ],
+  "tGsCdS": [
+    "Žinučių užklausas galima išjungti tik jei esi suaugusiųjų amžiaus grupėje. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Tu negali pasiekti šio bendravimo"
@@ -150590,6 +151300,9 @@
         ]
       ]
     ]
+  ],
+  "thbw2T": [
+    "Kažko privirėme… Gauk išskirtinį Helovyno elementą, kol nedingo."
   ],
   "thermometer": [
     "oras",
@@ -154857,7 +155570,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "vHCZwr": [
     "Kategorija"
@@ -154917,6 +155631,18 @@
   "vHyCgl": [
     "Kanale"
   ],
+  "vI+3Ok": [
+    "Į paketą įeina elementų (",
+    [
+      1,
+      "itemCount"
+    ],
+    "), kurie padidina akcijos pažangą. Orbs galioja nuo ",
+    [
+      1,
+      "endDate"
+    ]
+  ],
   "vI1zic": [
     "Įvesk sugeneruotą 6-skaitmenų kodą."
   ],
@@ -154938,6 +155664,9 @@
   ],
   "vJqrIg": [
     "Keisti stilių"
+  ],
+  "vKA/P1": [
+    "Gauti pasiūlymą"
   ],
   "vKBV4A": [
     "Rodomo vardo stilius"
@@ -157353,6 +158082,17 @@
   ],
   "wBceYP": [
     "šiam serveriui"
+  ],
+  "wBhFsO": [
+    [
+      1,
+      "itemDescription"
+    ],
+    ". Orbs galioja nuo ",
+    [
+      1,
+      "endDate"
+    ]
   ],
   "wBkwux": [
     "Prisijungimas prie veiklos"
@@ -162523,6 +163263,9 @@
   "xs0juG": [
     "Užverti kontekstinį meniu"
   ],
+  "xs7q1I": [
+    "Peržiūrėk praleidžiamus vaizdo įrašus ir už kiekvieną pelnyk iki 100 Orbs. Norėdamas (-a) sužinoti, ar jau pelnei apdovanojimus, žiūrėk į viršutiniame kairiajame kampe esantį laikmatį."
+  ],
   "xs9VPm": [
     "Pasiūlymas nustos galioti po ",
     [
@@ -163005,6 +163748,9 @@
   ],
   "y3LQCG": [
     "Mėgstamiausi"
+  ],
+  "y3TqzT": [
+    "Kitos parinktys"
   ],
   "y3ZnnU": [
     "Atsiimti žaidimai"
@@ -164425,7 +165171,7 @@
     "Nariams leidžiama keisti šio kanalo pavadinimą, aprašą ir teksto nustatymus. Jie taip pat gali šalinti kanalą."
   ],
   "ydMZ2o": [
-    "Smagaus Helovyno! Nepamiršk savo serverį prikelti iš numirusių."
+    "Nepamiršk savo serverį prikelti iš numirusių."
   ],
   "ydPofJ": [
     "Padovanok Nitro – gauk dovanėlę."
@@ -165795,6 +166541,13 @@
     ],
     " nustatymuose geriausiai patirčiai užtikrinti."
   ],
+  "zCbUvd": [
+    "Pradėti ",
+    [
+      1,
+      "productName"
+    ]
+  ],
   "zDAG2N": [
     "Įrašas sukurtas"
   ],
@@ -166666,6 +167419,13 @@
   "zc+LQd": [
     "Ieškok pagal kitą terminą arba rinkis iš toliau pateiktų variantų"
   ],
+  "zc1itm": [
+    [
+      1,
+      "name"
+    ],
+    ", žaidžia"
+  ],
   "zcKE8W": [
     "Xbox mobilioji programėlė įdiegta"
   ],
@@ -167278,6 +168038,9 @@
       1,
       "pendingRequestNumber"
     ]
+  ],
+  "zstmkn": [
+    "Atvaizduoti Markdown"
   ],
   "ztO+l+": [
     "Naudoti išankstinius nustatymus"
