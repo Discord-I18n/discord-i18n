@@ -2267,6 +2267,9 @@
       "giftStyle"
     ]
   ],
+  "+uwOHt": [
+    "Sidekick"
+  ],
   "+v/1Dk": [
     "Go to Shop"
   ],
@@ -2548,6 +2551,9 @@
   ],
   "//DXrW": [
     "Invite non-friends to groups"
+  ],
+  "//ZYM/": [
+    "Send a special message..."
   ],
   "//ppON": [
     "We've detected something out of the ordinary going on and we want to keep you and the community safe. To continue using Discord, ",
@@ -3286,7 +3292,7 @@
       8,
       "hook",
       [
-        "All good!"
+        "All good"
       ]
     ]
   ],
@@ -3447,6 +3453,9 @@
   ],
   "/NEGrO": [
     "AMA"
+  ],
+  "/NKLK5": [
+    "Browse All Widgets"
   ],
   "/NNQKx": [
     "Start a conversation by finding a friend who's already on Discord."
@@ -6444,6 +6453,9 @@
   "0X5Zbq": [
     "Stream was black"
   ],
+  "0XMNl5": [
+    "It looks like your Game Shop might not be set up yet"
+  ],
   "0XtAW0": [
     "Sort Clips"
   ],
@@ -7563,6 +7575,9 @@
   ],
   "0uo/LD": [
     "Upgrade to Level 3"
+  ],
+  "0usxBd": [
+    "You can search for friends using their display name or username."
   ],
   "0uxA2V": [
     "Tell us about your streaming experience."
@@ -8887,6 +8902,9 @@
     ],
     " to move or resize"
   ],
+  "1XGw3F": [
+    "DMs getting buried alive? Try pinning!"
+  ],
   "1XZRY4": [
     "Try again later"
   ],
@@ -9185,6 +9203,22 @@
   "1fRDnT": [
     "Resume Video"
   ],
+  "1fYyf4": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Your reward is ready"
+        ],
+        "other": [
+          "Your rewards are ready"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "1g9A/f": [
     "Community"
   ],
@@ -9259,6 +9293,17 @@
   ],
   "1jLVGB": [
     "Role & Member Overrides"
+  ],
+  "1jPMeG": [
+    "Only you can see your Checkpoint (unless you choose to share it). ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "Learn More"
+      ]
+    ],
+    "."
   ],
   "1k44EL": [
     "Enter a new email address and your existing password."
@@ -9991,7 +10036,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "22CYiZ": [
     "Clear Channel Status"
@@ -10087,6 +10133,9 @@
   ],
   "26C4oi": [
     "Leave Group"
+  ],
+  "26V/4h": [
+    "No Games"
   ],
   "26bB2M": [
     "Reason: ",
@@ -10311,6 +10360,9 @@
       "price"
     ],
     "."
+  ],
+  "2CKnsF": [
+    "Caches"
   ],
   "2COskX": [
     "Gaming"
@@ -10740,6 +10792,14 @@
   ],
   "2MCxfd": [
     "You already own one or more bundle items."
+  ],
+  "2MEL67": [
+    "Check back as more ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " are dropped to you for more Orb rewards."
   ],
   "2MK5Zz": [
     "I didn't mean to join this server"
@@ -11700,6 +11760,9 @@
   ],
   "2m+Sqk": [
     "I'm not ready yet"
+  ],
+  "2m/g2c": [
+    "Your progress"
   ],
   "2mIlKQ": [
     "Prune"
@@ -12665,6 +12728,22 @@
   ],
   "36OZeQ": [
     "Set default channels to disabled"
+  ],
+  "36PZwu": [
+    "You were in the ",
+    [
+      8,
+      "percentHook",
+      [
+        "Top ",
+        [
+          2,
+          "percent"
+        ],
+        "%"
+      ]
+    ],
+    " of Discord voice chatters worldwide!"
   ],
   "36gY4e": [
     "Get Game"
@@ -14875,6 +14954,9 @@
   "3s47iN": [
     "You don’t meet certain Discord monetisation requirements."
   ],
+  "3sARW7": [
+    "Favourite Emoji"
+  ],
   "3sWbf3": [
     "Please check your email to verify your account and keep your current username."
   ],
@@ -16162,6 +16244,9 @@
   ],
   "4Qw3NO": [
     "Enables you to capture clips while you’re streaming by using the clipping keybind."
+  ],
+  "4R3VzK": [
+    "Our gift to you"
   ],
   "4R9qxa": [
     "Now you can join Discord voice chats, stream and more – directly from your Xbox."
@@ -17523,6 +17608,9 @@
   "4xSkEB": [
     "Sound Permissions"
   ],
+  "4xZpq4": [
+    "When it came to friends, you definitely had your favourites"
+  ],
   "4xbM6Z": [
     "Listening to ",
     [
@@ -17578,6 +17666,9 @@
   ],
   "4z5PU1": [
     "Follow Updates"
+  ],
+  "4z6ldH": [
+    "Cancel upload"
   ],
   "4z9fN+": [
     "Off"
@@ -17928,6 +18019,9 @@
   ],
   "54n19R": [
     "Send a message when someone purchases a Server Product or Server Subscription"
+  ],
+  "54qByS": [
+    "Raid report submitted"
   ],
   "54ycKJ": [
     "Share in"
@@ -19017,6 +19111,9 @@
   "5XnRQ+": [
     "Duration"
   ],
+  "5XqqXc": [
+    "I’d sit in voice muted with you any day"
+  ],
   "5XvsdZ": [
     "Get exclusive Avatar Decorations and special member pricing in the Shop with Nitro."
   ],
@@ -19262,6 +19359,14 @@
   ],
   "5f3HIC": [
     "All members can view this channel because @everyone has administrator permissions. You can change this in Roles via Server Settings."
+  ],
+  "5f7PYN": [
+    "Hurry to unlock an exclusive Halloween item. Ends on ",
+    [
+      1,
+      "endDate"
+    ],
+    "."
   ],
   "5fCazz": [
     "Important updates like new channels and mentions in hidden channels will appear at the top."
@@ -21601,7 +21706,7 @@
     "SYSTEM"
   ],
   "6XuC8e": [
-    "Alternate angle"
+    "Alternate point of view"
   ],
   "6Y0JlN": [
     "This link is to a server or channel you don't have access to."
@@ -21889,6 +21994,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "6dVPSI": [
+    "Add a note (optional)"
   ],
   "6dtcuZ": [
     "Swipe the tab to activate LaunchPad"
@@ -23196,6 +23304,9 @@
   "76OoX8": [
     "No Server Boost"
   ],
+  "76Qd/E": [
+    "Most used emoji"
+  ],
   "76qj8a": [
     "Butterfly badge"
   ],
@@ -23566,6 +23677,9 @@
       ]
     ],
     "]"
+  ],
+  "7KOunu": [
+    "Are your bones rattling or is your keyboard really just that loud?"
   ],
   "7KP/fI": [
     "Boost this server"
@@ -25981,6 +26095,12 @@
   "8IYUWd": [
     "Developers"
   ],
+  "8IYt7j": [
+    [
+      1,
+      "productNamePlural"
+    ]
+  ],
   "8IfYqa": [
     "First on Discord"
   ],
@@ -26677,6 +26797,9 @@
     ],
     " channel"
   ],
+  "8XPMJj": [
+    "Top Server"
+  ],
   "8XT6Nf": [
     "Gift duration"
   ],
@@ -26906,7 +27029,7 @@
     "% from right"
   ],
   "8e4LiB": [
-    "All Reviews"
+    "All"
   ],
   "8eBJ73": [
     "Participants without video are currently hidden. Would you like to show them?"
@@ -27274,6 +27397,9 @@
   ],
   "8mfCqY": [
     "The server has limited who can see this profile."
+  ],
+  "8mqr6Q": [
+    "You’ve reached a Checkpoint"
   ],
   "8msQQO": [
     "Something off?"
@@ -28173,6 +28299,9 @@
   ],
   "94QqkS": [
     "Sent an image in a spoiler channel"
+  ],
+  "94azAy": [
+    "Looks great!"
   ],
   "94dBOV": [
     "Role colour: ",
@@ -29533,6 +29662,9 @@
   "9kH25q": [
     "Enable notifications"
   ],
+  "9kPRi0": [
+    "View All Badges"
+  ],
   "9kRJS8": [
     "Super Reactions"
   ],
@@ -29910,6 +30042,9 @@
   ],
   "9rx5GO": [
     "Remove Avatar Decoration"
+  ],
+  "9s8yXv": [
+    "every time I hear a ping, I always hope it’s from you"
   ],
   "9sGJkt": [
     "All Voice Activity"
@@ -30949,7 +31084,7 @@
     "App Directory"
   ],
   "AL/SoZ": [
-    "OooOOOooO have a very spoopy Halloween season."
+    "Are you a ghost or are you just Invisible?"
   ],
   "AL0JPD": [
     "Choose an Answer"
@@ -31250,6 +31385,9 @@
         ]
       ]
     ]
+  ],
+  "AVZpFH": [
+    "Dismiss Cache Actions"
   ],
   "AVazqJ": [
     "Are you sure you want to leave this server?"
@@ -33346,6 +33484,9 @@
     ],
     " are currently waiting"
   ],
+  "BHbwK1": [
+    "You went a full year without using emojis. Honestly, impressive."
+  ],
   "BHeke+": [
     [
       8,
@@ -34505,6 +34646,9 @@
   ],
   "Bhs0s6": [
     "Enjoy sweet discounts on any – or every! – item in the Shop."
+  ],
+  "Bhun8A": [
+    "The cauldron is calling"
   ],
   "BiSnZ9": [
     "Error Message (Copy and paste me)"
@@ -36806,6 +36950,9 @@
       "cardinal"
     ]
   ],
+  "CdU/PF": [
+    "Checkpoint"
+  ],
   "CdgX+y": [
     "We've made some cool changes to Discord (and probably a bug fix or two). Update to continue."
   ],
@@ -37125,6 +37272,9 @@
   "CocrMM": [
     "Members with this permission can use @everyone or @here to ping all members. They can also @mention all roles, even if the role's 'Allow anyone to mention this role' permission is disabled."
   ],
+  "CoudPr": [
+    "By directory"
+  ],
   "CpEUP/": [
     "All Servers"
   ],
@@ -37397,6 +37547,9 @@
   ],
   "CzEJXV": [
     "Make Discord yours"
+  ],
+  "CzRXoC": [
+    "Recap"
   ],
   "CzTKom": [
     [
@@ -38038,6 +38191,9 @@
   ],
   "DGC0Y3": [
     "Share 100 MB videos and photos"
+  ],
+  "DGQvlY": [
+    "Application Support"
   ],
   "DGZg+k": [
     "Allow someone to search for you if they have your phone number and/or email. This can be changed at any time in settings."
@@ -41824,6 +41980,9 @@
   "F0b4Z8": [
     "Play MW4 early"
   ],
+  "F0fkrh": [
+    "Servers"
+  ],
   "F0hdak": [
     [
       2,
@@ -42740,6 +42899,24 @@
   "FP+a42": [
     "Messages in server channels"
   ],
+  "FPTCM+": [
+    "Promo complete ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected – ",
+    [
+      1,
+      "numDays"
+    ],
+    " days left"
+  ],
   "FPViWL": [
     "Total Purchases – ",
     [
@@ -43040,6 +43217,9 @@
   "FYKGsL": [
     "Display details on profile"
   ],
+  "FYb5rH": [
+    "Something went wrong claiming this. Please try again."
+  ],
   "FYi3ry": [
     "Join Call on PlayStation"
   ],
@@ -43325,6 +43505,9 @@
   ],
   "FiWl/T": [
     "Open context menu"
+  ],
+  "FiYi7u": [
+    "Time in voice"
   ],
   "Fizu9y": [
     "Restart Discord for some improvements!"
@@ -44378,6 +44561,19 @@
   "G9fGlP": [
     "Add to Favourites"
   ],
+  "G9koyR": [
+    "Halloween Promo: ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected"
+  ],
   "G9s+EM": [
     "Upload your message as a file"
   ],
@@ -44943,11 +45139,25 @@
   "GMtG6p": [
     "Delete Tier"
   ],
+  "GN0uv6": [
+    "Unmute Sounds"
+  ],
   "GNDqtf": [
     "Off"
   ],
   "GNHAfw": [
-    "Quest"
+    "Quest Reserve"
+  ],
+  "GNHD4i": [
+    "This happens if you’re new here or have privacy settings enabled that limit personalisation. ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "Learn More"
+      ]
+    ],
+    "."
   ],
   "GNeL2r": [
     "No one's here yet"
@@ -46130,6 +46340,13 @@
   "GoV0uR": [
     "An event topic is required."
   ],
+  "Gobn4e": [
+    [
+      2,
+      "count"
+    ],
+    " minutes"
+  ],
   "GofftW": [
     "Search languages"
   ],
@@ -47267,6 +47484,22 @@
   ],
   "HGCLZX": [
     "Drop your favourite stickers wherever you’re chatting."
+  ],
+  "HGJo1F": [
+    "Some settings can only be changed if you’re in the adult age group. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Want an animated avatar?"
@@ -49993,6 +50226,27 @@
     [
       1,
       "name"
+    ]
+  ],
+  "IPj7dL": [
+    "Check back later for new ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    "! ",
+    [
+      8,
+      "$link",
+      [
+        "Learn More."
+      ],
+      [
+        [
+          1,
+          "onClickLearnMore"
+        ]
+      ]
     ]
   ],
   "IPzNKE": [
@@ -52823,6 +53077,13 @@
   "JZDGJ8": [
     "Disable spending cap"
   ],
+  "JZGcX2": [
+    [
+      1,
+      "productName"
+    ],
+    " recap"
+  ],
   "JZJQL2": [
     "This option is required. Specify a value."
   ],
@@ -52957,7 +53218,7 @@
       8,
       "$link",
       [
-        "Moderation"
+        "Safety Setup"
       ],
       [
         [
@@ -53502,6 +53763,9 @@
   ],
   "Jw7Vbf": [
     "View Poll"
+  ],
+  "JwFMdL": [
+    "Total Emojis used"
   ],
   "JwIJMV": [
     "Refreshing messages..."
@@ -54389,6 +54653,9 @@
   ],
   "KPB2iw": [
     "This change affects"
+  ],
+  "KPCFC9": [
+    "View developer documentation"
   ],
   "KPNxZJ": [
     "Official Third-Party Merch"
@@ -55719,6 +55986,9 @@
   "Ku+86R": [
     "Delete this question"
   ],
+  "KuAL0o": [
+    "Time to check the cauldron"
+  ],
   "KuUltE": [
     [
       1,
@@ -56394,6 +56664,13 @@
   "LCutYV": [
     "Many recent messages"
   ],
+  "LD7HFF": [
+    [
+      1,
+      "collectibleTitle"
+    ],
+    " has been added to your collection. Keep brewing!"
+  ],
   "LD9vsr": [
     "Add a Server"
   ],
@@ -56908,6 +57185,18 @@
   ],
   "LRPgbt": [
     "Tactical"
+  ],
+  "LRh/OJ": [
+    [
+      1,
+      "username"
+    ],
+    " won ",
+    [
+      1,
+      "statName"
+    ],
+    " last week!"
   ],
   "LRlhb1": [
     "Postcode is required"
@@ -58302,6 +58591,9 @@
     ],
     " all year round. Enjoy, friend!"
   ],
+  "M/LvW0": [
+    "Look back at your 2025 on Discord"
+  ],
   "M/gBcA": [
     "Are you building a Community?"
   ],
@@ -59308,7 +59600,7 @@
     "Percentage of new members that still came back to the server the week after joining."
   ],
   "MQGNsN": [
-    "Recent Reviews"
+    "Recent"
   ],
   "MQcRX/": [
     "Scheduling message for ",
@@ -60087,6 +60379,9 @@
   "Mjc8Hc": [
     "Account holder name"
   ],
+  "Mjs8KR": [
+    "Personalise your spooky sounds"
+  ],
   "Mk5nzZ": [
     "New badges just dropped, and ",
     [
@@ -60565,6 +60860,13 @@
   "MubYG8": [
     "Go to Account Settings"
   ],
+  "MugpMu": [
+    [
+      2,
+      "numSessions"
+    ],
+    " sessions"
+  ],
   "Muw4wm": [
     "Copy Author ID"
   ],
@@ -60644,6 +60946,9 @@
   ],
   "MyJpJT": [
     "Request Pending"
+  ],
+  "MyO0sh": [
+    "The strong silent type."
   ],
   "MylOvg": [
     "View all levels"
@@ -61107,6 +61412,9 @@
   "N86XcP": [
     "Remove"
   ],
+  "N8M39C": [
+    "View Server Hub"
+  ],
   "N8ZRNb": [
     "Get upgraded emoji power!"
   ],
@@ -61298,6 +61606,9 @@
   ],
   "NECb4t": [
     "Combo multiplier (x7)"
+  ],
+  "NENZhS": [
+    "Adjust Settings"
   ],
   "NEXim3": [
     "Members must accept rules before they can talk or DM"
@@ -62324,6 +62635,9 @@
   "NZax1u": [
     "Yes, Boosts used for additional perks are dedicated specifically to those perks and don't count toward your server's level progression. Similarly, Boosts allocated to your server level can't be used for additional perks. You'll need separate Boosts for each - so if you want Enhanced Role Styles, you need 3 Boosts just for that perk, plus whatever Boosts you want to maintain your current server level."
   ],
+  "NZbasC": [
+    "Need a hand getting your storefront ready?"
+  ],
   "NZe65e": [
     "Available now for Nitro subscribers. Get Nitro. Get Frames. Never look mid again."
   ],
@@ -62345,6 +62659,19 @@
   ],
   "NaQLEx": [
     "Invalid Link"
+  ],
+  "NaUZWO": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " has been removed from Server Discovery because it no longer passes all the requirements. Check Server Settings on desktop for more details."
   ],
   "NaZyYC": [
     "Notifications"
@@ -63374,6 +63701,9 @@
     ],
     " Orbs, delivered"
   ],
+  "O20zQi": [
+    "Total measured"
+  ],
   "O2Ak86": [
     "Customise your servers"
   ],
@@ -63715,6 +64045,9 @@
   "OBCR+p": [
     "View More"
   ],
+  "OBeYX/": [
+    "0 minutes in voice"
+  ],
   "OBr7Cw": [
     "Channel Options"
   ],
@@ -63900,6 +64233,9 @@
   ],
   "OH6ADf": [
     "Sharing"
+  ],
+  "OHIb1L": [
+    "Reward"
   ],
   "OHLdjq": [
     [
@@ -65879,6 +66215,9 @@
   "OzOM/q": [
     "Invite to Activity"
   ],
+  "OzY5Ns": [
+    "Squad"
+  ],
   "OzajIo": [
     "Boost this Server"
   ],
@@ -66098,6 +66437,9 @@
   ],
   "P3yCXJ": [
     "Save changes?"
+  ],
+  "P4hgY/": [
+    "we are kind of a big deal"
   ],
   "P4vj0h": [
     "Hides most Discord windows from most screen capture software."
@@ -66775,6 +67117,9 @@
         ]
       ]
     ]
+  ],
+  "PLcLdx": [
+    "you’ve heard all my hot takes and stuck around anyway"
   ],
   "PLk3Na": [
     "Wanna make hangouts more fun?"
@@ -67746,6 +68091,9 @@
   "PlAffn": [
     "this channel"
   ],
+  "Pla5Vk": [
+    "Eligible items"
+  ],
   "Plcu02": [
     "You can upload your message as a file instead."
   ],
@@ -68265,6 +68613,9 @@
   ],
   "Q03WWV": [
     "Action Required"
+  ],
+  "Q0EMOP": [
+    "The places on Discord that you called home in 2025."
   ],
   "Q0JJjv": [
     "Before searching, we need to index this DM. Give us a mo'."
@@ -69039,9 +69390,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "QMw8Fd": [
-    "Discord suspects your microphone hardware mute switch might be on. Just reminding you..."
   ],
   "QN7HXV": [
     "Playing on Xbox?"
@@ -69843,6 +70191,9 @@
   ],
   "QkQ1WT": [
     "Close Now"
+  ],
+  "QkdNzt": [
+    "0 Quests Completed"
   ],
   "Ql/e9Y": [
     "Server Discovery"
@@ -71912,6 +72263,9 @@
   "RbHSyG": [
     "Quarantine Mode"
   ],
+  "RbT4Zq": [
+    "Most Played Game"
+  ],
   "RbW/9g": [
     "Holy See (Vatican City State)"
   ],
@@ -72288,6 +72642,9 @@
       "cardinal"
     ]
   ],
+  "RjPllj": [
+    "Explore more Quests"
+  ],
   "RjceQU": [
     "Unlimited Players"
   ],
@@ -72359,6 +72716,9 @@
       "percentageOff"
     ],
     "% off"
+  ],
+  "RmVTph": [
+    "Minutes in Voice"
   ],
   "RmamAI": [
     "Accept this gift?"
@@ -74852,6 +75212,14 @@
   "So2Wuh": [
     "Dusk"
   ],
+  "So4gmj": [
+    "Leaderboard Winner (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
+  ],
   "SoON3V": [
     [
       2,
@@ -75676,6 +76044,9 @@
       1,
       "guildName"
     ]
+  ],
+  "T7cl+Y": [
+    "Share"
   ],
   "T7dhBL": [
     "Sound uploaded"
@@ -76795,6 +77166,9 @@
       "guildName"
     ]
   ],
+  "Tc8sxG": [
+    "Check out the developer documentation to finish setting up your Game Shop."
+  ],
   "TcA3+W": [
     "Signed in as ",
     [
@@ -77148,7 +77522,7 @@
     "Gift card preview"
   ],
   "TlJKIQ": [
-    "Are you a ghost or are you just invisible?"
+    "You can find Lottie, Discord’s resident witch and potion brewista, in the Shop."
   ],
   "TlVwqn": [
     [
@@ -77887,6 +78261,9 @@
   "U/uodt": [
     "You must complete the verification steps required by this server."
   ],
+  "U0INks": [
+    "Skip the haunted notification sounds in User Settings."
+  ],
   "U0iMTj": [
     "Christmas Island"
   ],
@@ -77958,6 +78335,9 @@
   ],
   "U2N+ci": [
     "Community"
+  ],
+  "U2f1ef": [
+    "Other Library files"
   ],
   "U2hb3W": [
     "Your subscription is past due. Please ",
@@ -78670,6 +79050,14 @@
   "UNtcBV": [
     "You can't use this emoji right now"
   ],
+  "UNvUNn": [
+    "Watch video ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " in a single session to earn up to 100 Orbs each. Look at the top-left timer to learn when you’ve earned the rewards!"
+  ],
   "UOACIY": [
     "Toggle drawer"
   ],
@@ -78704,6 +79092,9 @@
   ],
   "UPLpRV": [
     "View Settings"
+  ],
+  "UPMwV8": [
+    "Most played game"
   ],
   "UPOlxO": [
     "Orbs coming your way!"
@@ -78766,6 +79157,9 @@
   ],
   "UQqFCF": [
     "Playback is Off"
+  ],
+  "UQsNEK": [
+    "Temporary files"
   ],
   "UQvCf7": [
     "Open App"
@@ -78864,6 +79258,9 @@
   ],
   "UTE8C/": [
     "JPEG, PNG, GIF or WEBP. Large files are automatically resized."
+  ],
+  "UTExh3": [
+    "This sticker cannot be used."
   ],
   "UTLTx6": [
     [
@@ -79116,11 +79513,28 @@
   "UXxPGB": [
     "Output"
   ],
+  "UYTBoT": [
+    "Start earning Orbs, in-game items, profile decorations and more with Discord Quests. ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "Learn More"
+      ]
+    ],
+    "."
+  ],
   "UYW0dz": [
     "Don't switch"
   ],
+  "UYcJ48": [
+    "Checkpoint"
+  ],
   "UYe11k": [
     "Purchase a Discord gift card at a participating retailer, then visit discord.com/redeem and log in to your Discord account. Gently scratch off the foil cover on the back of the card to reveal your code or find the code in your email for digital gift cards. Follow the on-screen prompts and your gift card balance will move from the card into your account balance."
+  ],
+  "UYjWa5": [
+    "Rewatch your Checkpoint at any time until 15 January."
   ],
   "UYq7+O": [
     "Clear permissions"
@@ -79169,6 +79583,23 @@
   ],
   "UZbHV6": [
     "Close & Lock Post"
+  ],
+  "UZbUtl": [
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          "Minute"
+        ],
+        "other": [
+          "Minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " in voice"
   ],
   "UaGc2V": [
     "Make some noise with Soundboard!"
@@ -80786,6 +81217,9 @@
   "VCDSLW": [
     "Hide overlay widgets"
   ],
+  "VCQXvr": [
+    "Upload cancelled"
+  ],
   "VCR6hI": [
     [
       8,
@@ -80933,6 +81367,9 @@
   "VH0dzn": [
     "You’ll need to confirm your age before speaking. It takes 2–5 minutes. If you’re not ready, you can still start the event."
   ],
+  "VH2HXW": [
+    "No friends match that search."
+  ],
   "VH7zHG": [
     "Can’t upgrade"
   ],
@@ -80973,6 +81410,14 @@
       1,
       "categoryName"
     ]
+  ],
+  "VHM37p": [
+    "Check back as more ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " are dropped to you for more Orb rewards."
   ],
   "VHXh8a": [
     "End-to-end encryption verified for all users in call"
@@ -81386,6 +81831,9 @@
     ],
     "/Month each"
   ],
+  "VT02mI": [
+    "You don’t have any badges! Check out badges that you can earn."
+  ],
   "VT0bQJ": [
     "Servers in Discovery have to be at least ",
     [
@@ -81651,6 +82099,19 @@
   ],
   "VawZVx": [
     "Sounds Good"
+  ],
+  "VaydtR": [
+    [
+      8,
+      "monthHook",
+      [
+        [
+          1,
+          "month"
+        ]
+      ]
+    ],
+    " was your chattiest month on Discord!"
   ],
   "VbSyAx": [
     "Do not filter"
@@ -82703,7 +83164,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "W0/Duf": [
     "This removes the ability to log in with an authentication code through SMS. Are you sure you want to remove this?"
@@ -83307,6 +83769,9 @@
   ],
   "WGWHv/": [
     "Noise Suppression"
+  ],
+  "WGgc3y": [
+    "More Quests"
   ],
   "WH+1Yz": [
     "Unfortunately, Discovery is limited to only servers with more than ",
@@ -87151,6 +87616,14 @@
     ],
     " old."
   ],
+  "XmaiRQ": [
+    "Unlocked ",
+    [
+      3,
+      "date",
+      "short"
+    ]
+  ],
   "Xmh+5e": [
     "Recent Channels"
   ],
@@ -87186,6 +87659,18 @@
   ],
   "XnzdTe": [
     "Receive auth code by SMS"
+  ],
+  "XoHiqS": [
+    [
+      1,
+      "name"
+    ],
+    " and ",
+    [
+      2,
+      "count"
+    ],
+    " more"
   ],
   "XoTWsI": [
     "Somebody Playin'"
@@ -87466,6 +87951,23 @@
   ],
   "XtjRuJ": [
     "Members with this permission can create new roles and edit/delete roles lower than this one."
+  ],
+  "Xu0QsX": [
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          "Hour"
+        ],
+        "other": [
+          "Hours"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " in voice"
   ],
   "Xu3wE3": [
     "Emoji"
@@ -89691,6 +90193,9 @@
   "YneDgF": [
     "Show User Profile (Unavailable)"
   ],
+  "Ynmbie": [
+    "Calculating Size…"
+  ],
   "YnsakI": [
     "Nitro raises your scheduled message limit to ",
     [
@@ -91529,6 +92034,9 @@
   "ZQ37tH": [
     "Members are automatically assigned to this role. It cannot be manually assigned to or removed from members."
   ],
+  "ZQakPR": [
+    "Your Discord"
+  ],
   "ZQfxS8": [
     "We get our game information from IGDB, a community-powered games database. Any out-of-date information can be fixed there."
   ],
@@ -92034,6 +92542,20 @@
   "ZcyFYa": [
     "Exited Nitro preview"
   ],
+  "Zd+Ej+": [
+    "You messaged the most in ",
+    [
+      8,
+      "monthHook",
+      [
+        [
+          1,
+          "month"
+        ],
+        "!"
+      ]
+    ]
+  ],
   "Zd0CO1": [
     "List view"
   ],
@@ -92052,6 +92574,9 @@
   ],
   "ZdmRwW": [
     "Scan your ID and take a selfie to confirm it's you. Both are deleted right after confirmation and never linked to your account."
+  ],
+  "ZduI7f": [
+    "Other container files"
   ],
   "Ze005A": [
     "There ",
@@ -92743,6 +93268,9 @@
     ],
     "? This action cannot be undone."
   ],
+  "ZuvPfg": [
+    "Here are a few of your favourites:"
+  ],
   "ZuzwPz": [
     "Allows members to be more easily heard in voice channels. When activated, the volume of others without this permission will be automatically lowered. Priority Speaker is activated by using the ",
     [
@@ -93305,6 +93833,9 @@
   "a5QL24": [
     "Allow contacts to add me"
   ],
+  "a60/Fx": [
+    "Audio device to switch to"
+  ],
   "a6Gz9J": [
     "Are you sure you want to delete ",
     [
@@ -93535,6 +94066,9 @@
   "aE02Rz": [
     "Reset Nickname"
   ],
+  "aE3Wbw": [
+    "Documents"
+  ],
   "aE8Q8t": [
     "Removed the recurrence"
   ],
@@ -93707,6 +94241,9 @@
   ],
   "aIbY2N": [
     "Kills"
+  ],
+  "aIcsfw": [
+    "WebKit"
   ],
   "aIkGJD": [
     "Create bug report from screenshot"
@@ -94191,7 +94728,7 @@
     "Incorrect Code"
   ],
   "aWb+V4": [
-    "English Reviews"
+    "English"
   ],
   "aWsjtD": [
     "* You have unsynced changes. Update the channels, roles and permissions in your template by syncing."
@@ -96495,6 +97032,19 @@
     ],
     "’"
   ],
+  "bPMe3o": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " has failed Discovery activity requirements for 3 weeks in a row. If this server fails for 1 more week, it will be removed from Discovery."
+  ],
   "bPP34Q": [
     "Add Account"
   ],
@@ -96608,6 +97158,9 @@
       ]
     ],
     "."
+  ],
+  "bTMtdN": [
+    "e.g. let’s be friends yipee!"
   ],
   "bTRacj": [
     "Enhanced Role Styles and Server Tags each cost 3 Boosts. If you want both perks, you'll need 6 Boosts total (3 for each perk)."
@@ -97043,6 +97596,9 @@
     ],
     " to participate in this quest."
   ],
+  "beRTy6": [
+    "Emojis sent"
+  ],
   "bejNWN": [
     "To join this group again, ask a friend to add you"
   ],
@@ -97208,6 +97764,13 @@
     [
       1,
       "legacyUsername"
+    ]
+  ],
+  "bhtYLk": [
+    "Back to ",
+    [
+      1,
+      "productNamePlural"
     ]
   ],
   "bhujGc": [
@@ -97506,6 +98069,12 @@
   ],
   "brXPUX": [
     "You got a Triple Kill!"
+  ],
+  "brh0nz": [
+    [
+      1,
+      "productName"
+    ]
   ],
   "brhYaR": [
     "Inactive Time-out"
@@ -98741,6 +99310,14 @@
   ],
   "cL/rrq": [
     "Select a directory"
+  ],
+  "cL/uf8": [
+    "Promo eligible, adds to your friend’s progress – ",
+    [
+      1,
+      "numDays"
+    ],
+    " days left"
   ],
   "cLQrqz": [
     "has blocked a voice channel status for ",
@@ -100220,6 +100797,9 @@
   "cuMfH0": [
     "Allows members to read previous messages sent in this channel. If this permission is disabled, members only see messages sent when they are online."
   ],
+  "cuQ8hW": [
+    "Most active server"
+  ],
   "cugISa": [
     "Please contact our ",
     [
@@ -100603,6 +101183,9 @@
   "d5Gu9A": [
     "You can always change this later!"
   ],
+  "d5HUsD": [
+    "But one person was always your go-to..."
+  ],
   "d5YwK5": [
     "Look at my beautiful decoration"
   ],
@@ -100815,6 +101398,19 @@
   ],
   "d9+vQ8": [
     "Thanks for the feedback!"
+  ],
+  "d9KbHK": [
+    "Promo eligible ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected"
   ],
   "d9PsMj": [
     "Join"
@@ -101474,6 +102070,9 @@
   "dTEueK": [
     "You have no Bookmarks!"
   ],
+  "dTHLeG": [
+    "Something spooky is brewing. Unlock your exclusive Halloween item before it’s gone."
+  ],
   "dTNNgr": [
     "You’ll need to unblock ",
     [
@@ -101490,6 +102089,17 @@
   ],
   "dTqtcN": [
     "Or send an invite link"
+  ],
+  "dUPcpR": [
+    [
+      1,
+      "name"
+    ],
+    ", starts in ",
+    [
+      1,
+      "time"
+    ]
   ],
   "dURIzS": [
     "Add your own flair to any conversation with animated and custom emojis across all servers. Only with Nitro."
@@ -101521,6 +102131,9 @@
       "email"
     ],
     " once they accept or deny the request."
+  ],
+  "dW6EBf": [
+    "Your favourite"
   ],
   "dW9Kov": [
     "Favourites limit reached"
@@ -104770,6 +105383,9 @@
       "applicationName"
     ]
   ],
+  "eoLmk1": [
+    "No Servers"
+  ],
   "eoNNsH": [
     "Guidelines"
   ],
@@ -105293,6 +105909,14 @@
   ],
   "ez/N/R": [
     "Can see who's in the server and their role, nickname and permission changes."
+  ],
+  "ezJA0R": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "’s admins and may contain sensitive content. Your account is in the teen age group. If your age group isn’t correct, confirm that you’re an adult."
   ],
   "ezLpY6": [
     "Leave the Stage"
@@ -106005,6 +106629,19 @@
   ],
   "fJOECn": [
     "Learn more about Discord Nitro"
+  ],
+  "fJP+Wx": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " has failed Discovery activity requirements for 1 week. If this server fails for 4 weeks in a row, it will be automatically removed from Discovery."
   ],
   "fJUioH": [
     "Failed to load your device’s saved verification key"
@@ -107093,6 +107730,9 @@
   "fmyaWJ": [
     "This channel doesn't have any\npinned messages... yet."
   ],
+  "fn+gnp": [
+    "No Reactions"
+  ],
   "fnO3hK": [
     [
       6,
@@ -107114,6 +107754,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "fnOOv7": [
+    "same time, same place, next year?"
   ],
   "fnZRmW": [
     "Transfer ",
@@ -107553,6 +108196,9 @@
   "fzMz2s": [
     "PlayStation"
   ],
+  "fzS0tb": [
+    "Take a look back at your 2025"
+  ],
   "g+02d5": [
     "You’ve been busy!"
   ],
@@ -107709,6 +108355,13 @@
   ],
   "g3qPRn": [
     "Movie Room"
+  ],
+  "g476ZL": [
+    "Music by: ",
+    [
+      1,
+      "name"
+    ]
   ],
   "g4t9aw": [
     "Your Orbs balance is now ",
@@ -108620,6 +109273,14 @@
   "gRqiWV": [
     "Got it"
   ],
+  "gRxSSJ": [
+    "Your exclusive Halloween item is ready. Claim by ",
+    [
+      1,
+      "endClaimDate"
+    ],
+    "."
+  ],
   "gSS3O/": [
     "Living Room is unavailable right now."
   ],
@@ -108824,6 +109485,9 @@
     ],
     " party"
   ],
+  "gYiBrD": [
+    "Exit grid view"
+  ],
   "gZEUBl": [
     "Goth"
   ],
@@ -109015,6 +109679,36 @@
   "gcyH1J": [
     "Experience"
   ],
+  "gd+Olh": [
+    "This year you earned ",
+    [
+      8,
+      "orbsHook",
+      [
+        [
+          6,
+          "numOrbs",
+          {
+            "one": [
+              [
+                7
+              ],
+              " Orb"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " Orbs"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " to spend in the Discord Shop."
+  ],
   "gd/Yqs": [
     "Thanks for your feedback!"
   ],
@@ -109157,6 +109851,16 @@
   "ggJ9jR": [
     "A non-spam report will NOT be sent."
   ],
+  "ggLzeg": [
+    "Something went wrong loading Challenges. ",
+    [
+      8,
+      "underlineHook",
+      [
+        "Try again"
+      ]
+    ]
+  ],
   "ggcjPR": [
     [
       6,
@@ -109202,7 +109906,8 @@
           "handleOnAgeGatedContentHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "gi6XHp": [
     "You're sending messages too quickly!"
@@ -109385,6 +110090,9 @@
   ],
   "gofCRW": [
     "Use server dock navigation"
+  ],
+  "goiR2u": [
+    "Checkpoint 2025"
   ],
   "gp+Ytz": [
     "Potential spam"
@@ -109691,6 +110399,35 @@
   ],
   "gzjxQi": [
     "You don't have permission to change your nickname in this server."
+  ],
+  "gzlOml": [
+    "You played ",
+    [
+      8,
+      "gamesHook",
+      [
+        [
+          1,
+          "numGames"
+        ]
+      ]
+    ],
+    " ",
+    [
+      6,
+      "numGames",
+      {
+        "one": [
+          "game"
+        ],
+        "other": [
+          "games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " this year. These were your favourites:"
   ],
   "gzrysL": [
     [
@@ -110059,6 +110796,14 @@
   "h48QWG": [
     "Posts"
   ],
+  "h4HbnI": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "’s admins and may contain sensitive content. Confirm that you’re an adult to access age-restricted content, spaces and settings."
+  ],
   "h4WIYV": [
     "Use ",
     [
@@ -110361,6 +111106,9 @@
   ],
   "hDPEu1": [
     "Please change any regexes that have errors and try again."
+  ],
+  "hDXaQ/": [
+    "just to be clear, YOU are the sidekick"
   ],
   "hDhbb3": [
     "Chat"
@@ -111634,6 +112382,9 @@
   "hipdxe": [
     "in 2h"
   ],
+  "hj/3qI": [
+    "Unable to calculate disk usage. Try Calculate Size again."
+  ],
   "hj2zN0": [
     "Active weekdays"
   ],
@@ -112446,6 +113197,13 @@
   "i5lFSU": [
     "Players"
   ],
+  "i5nVyC": [
+    [
+      2,
+      "count"
+    ],
+    " hours"
+  ],
   "i62APf": [
     "Ban ",
     [
@@ -112539,6 +113297,9 @@
   "i9IRUc": [
     "All Albums"
   ],
+  "i9UgY+": [
+    "Cauldron Chaos"
+  ],
   "i9e/u1": [
     "Gradient"
   ],
@@ -112550,6 +113311,9 @@
   ],
   "iA81+a": [
     "Hide Discord Window from Screen Capture"
+  ],
+  "iAFGRu": [
+    "Calculate Size"
   ],
   "iAaAiG": [
     "This server needs ",
@@ -112876,6 +113640,14 @@
   ],
   "iJA/TE": [
     "Favourited"
+  ],
+  "iK0n30": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "’s admins and may contain sensitive content."
   ],
   "iKAdpR": [
     "Upgrade to get all the customisation thangs."
@@ -113851,6 +114623,9 @@
   "iezLLn": [
     "e.g. Moderators, @wumpus"
   ],
+  "ifAVZr": [
+    "Check your Apple Account"
+  ],
   "ifCRdB": [
     "Access custom profiles, emoji upgrades and more with Nitro."
   ],
@@ -114328,8 +115103,11 @@
   "iqwXvc": [
     "Time out members"
   ],
+  "ir6nEQ": [
+    "Your Checkpoint"
+  ],
   "irDT8W": [
-    "We’re getting into the ‘spirit’ of Halloween."
+    "Static on the mic? Could be interference. Could be something else…"
   ],
   "iruf5E": [
     [
@@ -114598,6 +115376,22 @@
   ],
   "ixdjPB": [
     "Sunset Ave"
+  ],
+  "ixvOza": [
+    "You were in the ",
+    [
+      8,
+      "percentHook",
+      [
+        "Top ",
+        [
+          2,
+          "percent"
+        ],
+        "%"
+      ]
+    ],
+    " for messages sent on Discord!"
   ],
   "iy47pM": [
     "Upload files up to ",
@@ -116353,6 +117147,24 @@
   "jiRvC7": [
     "Tax"
   ],
+  "jidBDk": [
+    "Promo eligible ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected – ",
+    [
+      1,
+      "numDays"
+    ],
+    " days left"
+  ],
   "jizr82": [
     "I'll just look around for now"
   ],
@@ -116816,6 +117628,9 @@
   ],
   "jwrGzu": [
     "Raid Protection"
+  ],
+  "jx0GiG": [
+    "e.g. wumpus"
   ],
   "jxF9er": [
     "You have muted this conversation"
@@ -117675,6 +118490,19 @@
   ],
   "kJj2oG": [
     "People must submit an application and be approved to join"
+  ],
+  "kJtgUW": [
+    "Finish all ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " for +",
+    [
+      2,
+      "orbAmount"
+    ],
+    " Orbs to unlock"
   ],
   "kJwpBW": [
     "This server’s features are limited"
@@ -118554,6 +119382,9 @@
     ],
     ":"
   ],
+  "kimsIr": [
+    "Checkpoint Unavailable"
+  ],
   "kiqvHd": [
     "Certified Device Detected"
   ],
@@ -118912,6 +119743,19 @@
   "ksze+o": [
     "What guardians can manage"
   ],
+  "kt7tAT": [
+    "Partial measurement: ",
+    [
+      1,
+      "errors"
+    ],
+    " read errors, ",
+    [
+      1,
+      "unavailable"
+    ],
+    " directories unavailable. Totals may be lower than actual usage."
+  ],
   "kt9wxs": [
     "Plans start at only ",
     [
@@ -119090,6 +119934,23 @@
   ],
   "l+S46U": [
     "Animated"
+  ],
+  "l+jt8J": [
+    "You’re in the teen age group, so Message Requests can’t be turned off. If this doesn’t seem right, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm that you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "l+lSLp": [
     "Transform your voice to express yourself and have even more fun during calls!"
@@ -120361,6 +121222,9 @@
   "lXPbJb": [
     "Product Type"
   ],
+  "lXT6ns": [
+    "Time in Voice"
+  ],
   "lXhhWS": [
     "Will You Still Need Me?"
   ],
@@ -120955,6 +121819,13 @@
       "cardinal"
     ]
   ],
+  "ltaxJz": [
+    [
+      2,
+      "streakCount"
+    ],
+    " wins in a row"
+  ],
   "ltedOh": [
     "Channel Permissions Role Actions"
   ],
@@ -121058,6 +121929,14 @@
       "fileUploadLimit"
     ],
     " total."
+  ],
+  "lvf/y3": [
+    "Earn Orbs by completing ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    "."
   ],
   "lvk1Gc": [
     "The Server Tag perk is required to unlock Badge Packs."
@@ -121198,8 +122077,23 @@
   "lyXyD0": [
     "Nitro + Boost Plans"
   ],
+  "lyXyiY": [
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected"
+  ],
   "lyhz2x": [
     "Bring on the chaos with sounds everyone in voice can hear."
+  ],
+  "lykjkX": [
+    "Enter grid view"
   ],
   "lyxfbj": [
     "Stream in HD resolution with ",
@@ -121240,6 +122134,9 @@
   ],
   "lzAoKB": [
     "By subscribing, you will unlock benefits for yourself"
+  ],
+  "lzJM+Z": [
+    "Disk usage calculated. Results are shown below."
   ],
   "lzK51o": [
     [
@@ -121449,6 +122346,9 @@
   ],
   "m1+IBn": [
     "We've beamed the info to your Discord app. You can close this browser tab or continue with the web version."
+  ],
+  "m163cv": [
+    "voice chats are cosiest when you’re in them too"
   ],
   "m1KuWd": [
     "Time Limit"
@@ -121700,6 +122600,9 @@
   "m85s/h": [
     "Progress Bar Actions"
   ],
+  "m8BOpo": [
+    "Disk Usage"
+  ],
   "m8CScv": [
     "You're already along for this ride."
   ],
@@ -121780,6 +122683,9 @@
       ]
     ],
     " them"
+  ],
+  "mAroeJ": [
+    "Your favourite"
   ],
   "mAtJTC": [
     [
@@ -121899,6 +122805,9 @@
   ],
   "mDcKND": [
     "Cancel"
+  ],
+  "mDxM7m": [
+    "Claim Now"
   ],
   "mE2e8A": [
     "Added to Favourites"
@@ -122020,6 +122929,9 @@
     ],
     "’?"
   ],
+  "mIG7/G": [
+    "Loading Your Checkpoint"
+  ],
   "mIL6Jb": [
     "Follow the steps to complete your account connection."
   ],
@@ -122139,6 +123051,13 @@
   ],
   "mKxGpP": [
     "Select All"
+  ],
+  "mL6Jwf": [
+    [
+      1,
+      "productNamePlural"
+    ],
+    " completed!"
   ],
   "mLs2cz": [
     "Clear in ",
@@ -122926,6 +123845,9 @@
       "username"
     ],
     " has minimised their application... sit tight!"
+  ],
+  "meauFg": [
+    "Your subscription was purchased with a different Apple Account. Sign in with that one to cancel or make changes."
   ],
   "mee4qd": [
     "Please enter no more than ",
@@ -124917,6 +125839,23 @@
       "seatLabel"
     ]
   ],
+  "nPTMHj": [
+    [
+      6,
+      "numMessages",
+      {
+        "one": [
+          "Message"
+        ],
+        "other": [
+          "Messages"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " sent this year"
+  ],
   "nPThNb": [
     "Check for Launches"
   ],
@@ -126844,6 +127783,14 @@
   "oCBh0J": [
     "Uploading Cloud Saves"
   ],
+  "oCKH5M": [
+    "No ",
+    [
+      1,
+      "productNamePlural"
+    ],
+    " available. Check back later."
+  ],
   "oCONqN": [
     "Allow anyone in a shared voice channel to join your game without sending a request. This feature only works in non-Community-enabled servers."
   ],
@@ -127169,6 +128116,14 @@
   ],
   "oLN4kx": [
     "Gift Inventory"
+  ],
+  "oLTb46": [
+    "Top ",
+    [
+      2,
+      "percent"
+    ],
+    "% played worldwide!"
   ],
   "oLqpDX": [
     "Once you publish your first tier, you’ll be able to access detailed subscriber analytics that let you know what’s going on and how you might be able to improve."
@@ -127722,6 +128677,9 @@
       "cardinal"
     ]
   ],
+  "od48B0": [
+    "Show off Your 2025 Checkpoint"
+  ],
   "odDw+z": [
     "Profile editing controls"
   ],
@@ -128094,6 +129052,9 @@
   ],
   "okSwq9": [
     "Privacy Policy"
+  ],
+  "okaenw": [
+    "New audio devices detected"
   ],
   "okgGTu": [
     "Skip passwords entirely. Sign in with your face, fingerprint, device PIN or password manager for the ultimate convenience and security."
@@ -128520,6 +129481,41 @@
   ],
   "ow+Bj+": [
     "Suriname"
+  ],
+  "owAd83": [
+    "Leaderboard Winner (",
+    [
+      1,
+      "statName"
+    ],
+    ")\n",
+    [
+      8,
+      "$i",
+      [
+        [
+          6,
+          "streakCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " week"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " weeks"
+            ]
+          },
+          0,
+          "cardinal"
+        ],
+        " in a row"
+      ]
+    ]
   ],
   "owFNB2": [
     "Select to start"
@@ -129526,6 +130522,30 @@
   "pJ+P+h": [
     "Roblox"
   ],
+  "pJ4fx0": [
+    "This year you earned ",
+    [
+      6,
+      "numOrbs",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Orb"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Orbs"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " to spend in the Discord Shop."
+  ],
   "pJ4hJE": [
     "Finish setting up Server Subscription tiers to start earning!"
   ],
@@ -129988,9 +131008,6 @@
   "pZ/fYa": [
     "Media Channel (Age-Restricted)"
   ],
-  "pZ0vr4": [
-    "Hardware Mute Reminder"
-  ],
   "pZT2Zh": [
     "Allows members to add new emoji reactions to a message in these channels. If this permission is disabled, members can still react using any existing reactions on a message."
   ],
@@ -130253,6 +131270,9 @@
   ],
   "pj0XBN": [
     "Get Nitro"
+  ],
+  "pjF33X": [
+    "Mute Sounds"
   ],
   "pjG+T3": [
     "Only server administrators are allowed to do this"
@@ -131091,6 +132111,9 @@
   "q3IRal": [
     "What can my parent see?"
   ],
+  "q3NQDg": [
+    "Earn Orbs by watching short videos!"
+  ],
   "q3O3J8": [
     "Stop Watching"
   ],
@@ -131296,6 +132319,18 @@
   ],
   "q8TiVt": [
     "Experiencing reduced quality"
+  ],
+  "q8TlkE": [
+    [
+      1,
+      "name"
+    ],
+    ", ended ",
+    [
+      1,
+      "time"
+    ],
+    " ago"
   ],
   "q8VPLo": [
     "Your version of macOS is out of date. Update it to continue receiving Discord updates and technical support. ",
@@ -131993,7 +133028,7 @@
     "Gift Link"
   ],
   "qS9MOl": [
-    "Quests"
+    "Quest Reserves"
   ],
   "qSHshq": [
     "Application ID"
@@ -132422,6 +133457,23 @@
   ],
   "qaYzPA": [
     "End Event"
+  ],
+  "qbBkFI": [
+    "You’re in the teen age group, so some settings can’t be changed. If this doesn’t seem right, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm that you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "qbDPGM": [
     "Cancel subscription"
@@ -132938,6 +133990,9 @@
   "qrsiYO": [
     "Block messages with suspicious links from being posted."
   ],
+  "qsFkSO": [
+    "Quests Completed"
+  ],
   "qsI+EH": [
     "Continue in browser"
   ],
@@ -133207,6 +134262,13 @@
   ],
   "r+l7BL": [
     "Finnish"
+  ],
+  "r+tSgg": [
+    [
+      1,
+      "productNamePlural"
+    ],
+    " incoming"
   ],
   "r+uZYZ": [
     "Preparing Voices – ",
@@ -133593,6 +134655,9 @@
     ],
     " promotional content"
   ],
+  "r8GEbK": [
+    "Open Checkpoint"
+  ],
   "r90Wgo": [
     "These servers could do with a Boost"
   ],
@@ -133825,7 +134890,7 @@
     ]
   ],
   "rE+3z3": [
-    "In voice chat, everyone’s a spirit."
+    "Spooky season’s no excuse to ghost your friends. DM them back."
   ],
   "rEAPa0": [
     "Slovakia"
@@ -134205,6 +135270,9 @@
         ]
       ]
     ]
+  ],
+  "rManeQ": [
+    "App group"
   ],
   "rMulDT": [
     "It will not be visible to server members until you publish it."
@@ -136596,6 +137664,9 @@
   "sEAnVH": [
     "Unlock with Nitro"
   ],
+  "sEPtGY": [
+    "The Discord friends you spent the most time with this year."
+  ],
   "sEkgBk": [
     [
       8,
@@ -137284,6 +138355,26 @@
   ],
   "sUvCKU": [
     "Report Submitted"
+  ],
+  "sUvNeI": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pick a free decoration. Yours to keep with a gift purchase."
+        ],
+        "other": [
+          "Pick ",
+          [
+            7
+          ],
+          " free decorations. Yours to keep with this gift purchase."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "sUvyW3": [
     "Failed to cancel scheduled message. ",
@@ -138674,6 +139765,9 @@
     ],
     ", you have a gift!"
   ],
+  "t1T3kD": [
+    "Copy friend link"
+  ],
   "t1Ztrp": [
     "Themes"
   ],
@@ -138947,6 +140041,9 @@
   "tBF4+S": [
     "Create Webhook"
   ],
+  "tBOSx4": [
+    "Friend link copied"
+  ],
   "tBPMpG": [
     "Woah there! The owner of ",
     [
@@ -139102,6 +140199,22 @@
   ],
   "tGYbvd": [
     "Scheduled Events"
+  ],
+  "tGsCdS": [
+    "Message Requests can only be turned off if you’re in the adult age group. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "You cannot access this hang-out"
@@ -139673,9 +140786,6 @@
   "tVK6S9": [
     "Publish Landing Page"
   ],
-  "tVbzoZ": [
-    "Show a reminder when Discord thinks your microphone is hardware-muted."
-  ],
   "tWEtJl": [
     "Select Language"
   ],
@@ -140176,6 +141286,9 @@
         ]
       ]
     ]
+  ],
+  "thbw2T": [
+    "Something’s brewing. Unlock your exclusive Halloween item before it’s gone."
   ],
   "thm88D": [
     "Your message could not be sent to the following ",
@@ -143993,6 +145106,19 @@
   "vHyCgl": [
     "In Channel"
   ],
+  "vI+3Ok": [
+    "Bundle includes ",
+    [
+      1,
+      "itemCount"
+    ],
+    " items that count towards promo progress. Orbs eligible starting on ",
+    [
+      1,
+      "endDate"
+    ],
+    "."
+  ],
   "vI1zic": [
     "Enter the 6-digit verification code generated."
   ],
@@ -144015,6 +145141,9 @@
   "vJqrIg": [
     "Change Style"
   ],
+  "vKA/P1": [
+    "Unlock Offer"
+  ],
   "vKBV4A": [
     "Display name style"
   ],
@@ -144029,6 +145158,9 @@
   ],
   "vKZT5t": [
     "Toggle full screen"
+  ],
+  "vKovUV": [
+    "Our gift to you"
   ],
   "vL6g4F": [
     "OpenSL ES is a fancy audio API that may improve your call experience. ",
@@ -145296,6 +146428,9 @@
   "vmzMZC": [
     "Discord Staff Pick"
   ],
+  "vnG9Sx": [
+    "No Emoji"
+  ],
   "vnP31W": [
     "This was a Quest but..."
   ],
@@ -146364,6 +147499,18 @@
   "wBceYP": [
     "this server"
   ],
+  "wBhFsO": [
+    [
+      1,
+      "itemDescription"
+    ],
+    ". Orbs eligible starting on ",
+    [
+      1,
+      "endDate"
+    ],
+    "."
+  ],
   "wBkwux": [
     "Activity Joining"
   ],
@@ -147071,6 +148218,9 @@
   "wWIufs": [
     "Forgot your password?"
   ],
+  "wWKySP": [
+    "Messages sent"
+  ],
   "wWi0DL": [
     "Move item down in list"
   ],
@@ -147615,6 +148765,9 @@
   ],
   "wnifjC": [
     "User subscription"
+  ],
+  "wnuxp5": [
+    "You’ve reached a Checkpoint!"
   ],
   "wo3D3T": [
     "Snag sweet discounts on any – or every! – item in the Shop. Only with Nitro."
@@ -148245,6 +149398,19 @@
   ],
   "wywPjW": [
     "Administrative"
+  ],
+  "wz2JuF": [
+    "Your Discord sidekick is:\n",
+    [
+      8,
+      "userHook",
+      [
+        [
+          1,
+          "user"
+        ]
+      ]
+    ]
   ],
   "wzZHKl": [
     "iykyk"
@@ -149344,6 +150510,9 @@
   ],
   "xKXcSu": [
     "Add to Favourites"
+  ],
+  "xLI+Hj": [
+    "You can still enjoy a reward to celebrate the year:"
   ],
   "xLNQnl": [
     "Clear Attachments"
@@ -150731,6 +151900,9 @@
   "xs0juG": [
     "Dismiss context menu"
   ],
+  "xs7q1I": [
+    "Watch skippable videos to earn up to 100 Orbs each. Look at the top-left timer to learn when you’ve earned the rewards!"
+  ],
   "xs9VPm": [
     "Offer ends in ",
     [
@@ -151187,6 +152359,9 @@
   "y3LQCG": [
     "Favourites"
   ],
+  "y3TqzT": [
+    "Other options"
+  ],
   "y3ZnnU": [
     "Claimed Games"
   ],
@@ -151202,6 +152377,9 @@
   ],
   "y4HOMj": [
     "Help support Discord to be your cosy home on the internet"
+  ],
+  "y4M1na": [
+    "Summary"
   ],
   "y4MncF": [
     "Allows members to talk in voice channels. If this permission is disabled, members are default muted until somebody with the 'Mute Members' permission unmutes them."
@@ -152576,7 +153754,7 @@
     "Allows members to change this channel's name, description and text settings. They can also delete the channel."
   ],
   "ydMZ2o": [
-    "Happy Halloween! Make sure to bring your server back from the dead."
+    "Make sure to bring your server back from the dead."
   ],
   "ydPofJ": [
     "Gift Nitro. Get a Sweet Reward."
@@ -153875,6 +155053,13 @@
     ],
     " in your settings for the best experience."
   ],
+  "zCbUvd": [
+    "Start ",
+    [
+      1,
+      "productName"
+    ]
+  ],
   "zDAG2N": [
     "Post created"
   ],
@@ -154713,8 +155898,18 @@
   "zc+LQd": [
     "Try searching for another term or select one below"
   ],
+  "zc1itm": [
+    [
+      1,
+      "name"
+    ],
+    ", playing"
+  ],
   "zcKE8W": [
     "Xbox Mobile App Installed"
+  ],
+  "zcbFu1": [
+    "Emojis Used"
   ],
   "zcgtzf": [
     "Your ",
@@ -155300,6 +156495,9 @@
       1,
       "pendingRequestNumber"
     ]
+  ],
+  "zstmkn": [
+    "Render Markdown"
   ],
   "ztO+l+": [
     "Use Presets"

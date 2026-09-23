@@ -2247,6 +2247,9 @@
       "giftStyle"
     ]
   ],
+  "+uwOHt": [
+    "Acolyte"
+  ],
   "+v/1Dk": [
     "Aller à la Boutique"
   ],
@@ -2544,6 +2547,9 @@
   ],
   "//DXrW": [
     "Inviter des personnes qui ne font pas partie des amis dans les groupes"
+  ],
+  "//ZYM/": [
+    "Envoyer un message spécial…"
   ],
   "//ppON": [
     "Nous avons détecté que quelque chose d’inhabituel se produisait, et nous voulons garantir ta sécurité et celle de la communauté. Afin de continuer à utiliser Discord, ",
@@ -9252,6 +9258,17 @@
   "1jLVGB": [
     "Dérogations de rôles et membres"
   ],
+  "1jPMeG": [
+    "Il n'y a que toi qui puisses voir ton Checkpoint (à moins que tu ne le partages). ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "En savoir plus"
+      ]
+    ],
+    "."
+  ],
   "1k44EL": [
     "Saisis une nouvelle adresse e-mail et ton mot de passe."
   ],
@@ -10080,6 +10097,9 @@
   ],
   "26C4oi": [
     "Quitter le groupe"
+  ],
+  "26V/4h": [
+    "Aucun jeu"
   ],
   "26bB2M": [
     "Raison : ",
@@ -12605,6 +12625,22 @@
   "36OZeQ": [
     "A défini les salons par défaut sur « Désactivé »"
   ],
+  "36PZwu": [
+    "Tu faisais partie du ",
+    [
+      8,
+      "percentHook",
+      [
+        "Top ",
+        [
+          2,
+          "percent"
+        ],
+        " %"
+      ]
+    ],
+    " des personnes les plus actives sur les chats vocaux de Discord dans le monde entier !"
+  ],
   "36gY4e": [
     "Obtenir le jeu"
   ],
@@ -14780,6 +14816,9 @@
   "3s47iN": [
     "Tu ne satisfais pas à certaines exigences de monétisation sur Discord."
   ],
+  "3sARW7": [
+    "Ajouter l'émoji aux favoris"
+  ],
   "3sWbf3": [
     "Merci de vérifier ton e-mail pour confirmer ton compte et conserver ton nom d'utilisateur actuel."
   ],
@@ -16066,6 +16105,9 @@
   ],
   "4Qw3NO": [
     "Te permet de capturer des extraits lorsque tu streames en utilisant le raccourci clavier de capture de clips."
+  ],
+  "4R3VzK": [
+    "Un cadeau de notre part"
   ],
   "4R9qxa": [
     "Tu peux maintenant rejoindre les chats vocaux de Discord, streamer et plus encore – directement depuis ta Xbox."
@@ -17382,6 +17424,9 @@
   ],
   "4xSkEB": [
     "Permissions audio"
+  ],
+  "4xZpq4": [
+    "Parmi tes amitiés, tu avais tes préférences"
   ],
   "4xbM6Z": [
     "Écoute ",
@@ -18855,6 +18900,9 @@
   ],
   "5XnRQ+": [
     "Durée"
+  ],
+  "5XqqXc": [
+    "je resterais en sourdine avec toi sans hésiter"
   ],
   "5XvsdZ": [
     "Obtiens des décorations d'avatar exclusives et des tarifs de membre spéciaux dans la Boutique avec Nitro."
@@ -23059,6 +23107,9 @@
   "76OoX8": [
     "Pas de boost de serveur"
   ],
+  "76Qd/E": [
+    "Émoji le plus utilisé"
+  ],
   "76qj8a": [
     "Badge papillon"
   ],
@@ -26540,6 +26591,9 @@
       ]
     ]
   ],
+  "8XPMJj": [
+    "Top serveur"
+  ],
   "8XT6Nf": [
     "Durée du cadeau"
   ],
@@ -26786,7 +26840,7 @@
     " % de la droite"
   ],
   "8e4LiB": [
-    "Toutes les évaluations"
+    "Tout"
   ],
   "8eBJ73": [
     "Les participants dont la vidéo est désactivée sont actuellement cachés. Veux-tu les afficher ?"
@@ -27155,6 +27209,9 @@
   ],
   "8mfCqY": [
     "Le serveur a limité l'accès à ce profil."
+  ],
+  "8mqr6Q": [
+    "Tu as atteint un Checkpoint"
   ],
   "8msQQO": [
     "Il y a quelque chose d'étrange ?"
@@ -28054,6 +28111,9 @@
   "94QqkS": [
     "A envoyé une image dans un salon de spoiler"
   ],
+  "94azAy": [
+    "Super !"
+  ],
   "94dBOV": [
     "Couleur du rôle : ",
     [
@@ -28711,7 +28771,7 @@
     "Afficher tous les messages non lus"
   ],
   "9OFjSe": [
-    "Jusqu'au ",
+    "Expiration : ",
     [
       1,
       "dateString"
@@ -28720,7 +28780,8 @@
     [
       1,
       "timeString"
-    ]
+    ],
+    "\n"
   ],
   "9Oq93m": [
     "Membres"
@@ -29780,6 +29841,9 @@
   ],
   "9rx5GO": [
     "Supprimer la décoration d'avatar"
+  ],
+  "9s8yXv": [
+    "chaque fois que j'entends une notif, j'espère que c'est de toi"
   ],
   "9sGJkt": [
     "Toute l'activité vocale"
@@ -33192,6 +33256,9 @@
       "second"
     ],
     " attendent."
+  ],
+  "BHbwK1": [
+    "Tu as passé toute une année sans utiliser d'émoji. Franchement, impressionnant."
   ],
   "BHeke+": [
     [
@@ -36636,6 +36703,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "CdU/PF": [
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Nous avons des changements aux petits oignons à apporter à Discord (et probablement une correction de bug ou deux). Lance la mise à jour pour continuer."
@@ -41616,6 +41686,9 @@
   "F0b4Z8": [
     "Joue à MW4 en accès anticipé"
   ],
+  "F0fkrh": [
+    "Serveurs"
+  ],
   "F0hdak": [
     "Tu as encore ",
     [
@@ -43139,6 +43212,9 @@
   ],
   "FiWl/T": [
     "Ouvre le menu contextuel"
+  ],
+  "FiYi7u": [
+    "Temps en vocal"
   ],
   "Fizu9y": [
     "Redémarre Discord pour de nouvelles améliorations !"
@@ -44754,11 +44830,25 @@
   "GMtG6p": [
     "Supprimer le niveau"
   ],
+  "GN0uv6": [
+    "Rétablir les sons"
+  ],
   "GNDqtf": [
     "Désactivée"
   ],
   "GNHAfw": [
     "Réserve de quête"
+  ],
+  "GNHD4i": [
+    "Cela arrive si tu es ici depuis peu ou si tu as activé des paramètres de confidentialité qui limitent la personnalisation. ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "En savoir plus"
+      ]
+    ],
+    "."
   ],
   "GNeL2r": [
     "Il n'y a personne pour le moment"
@@ -45922,6 +46012,13 @@
   ],
   "GoV0uR": [
     "Un sujet d'événement est requis"
+  ],
+  "Gobn4e": [
+    [
+      2,
+      "count"
+    ],
+    " minutes"
   ],
   "GofftW": [
     "Langages de recherche"
@@ -53291,6 +53388,9 @@
   "Jw7Vbf": [
     "Voir le sondage"
   ],
+  "JwFMdL": [
+    "Total d'émojis utilisés"
+  ],
   "JwIJMV": [
     "Actualisation des messages…"
   ],
@@ -58076,6 +58176,9 @@
     ],
     " toute l'année. Profites-en bien !"
   ],
+  "M/LvW0": [
+    "Rétrospective de ton année 2025 sur Discord"
+  ],
   "M/gBcA": [
     "Tu crées une communauté ?"
   ],
@@ -59083,7 +59186,7 @@
     "Pourcentage de nouveaux membres qui sont retournés sur le serveur dans la semaine après l’avoir rejoint."
   ],
   "MQGNsN": [
-    "Évaluations récentes"
+    "Récent"
   ],
   "MQcRX/": [
     "Programmation d'un message pour le ",
@@ -60333,6 +60436,13 @@
   "MubYG8": [
     "Aller dans les Paramètres du compte"
   ],
+  "MugpMu": [
+    [
+      2,
+      "numSessions"
+    ],
+    " sessions"
+  ],
   "Muw4wm": [
     "Copier l'ID de l'auteur"
   ],
@@ -60412,6 +60522,9 @@
   ],
   "MyJpJT": [
     "Demande en attente"
+  ],
+  "MyO0sh": [
+    "Tu n'es pas du genre bavard."
   ],
   "MylOvg": [
     "Afficher tous les niveaux"
@@ -63460,6 +63573,9 @@
   "OBCR+p": [
     "Voir plus"
   ],
+  "OBeYX/": [
+    "0 minute en vocal"
+  ],
   "OBr7Cw": [
     "Options du salon"
   ],
@@ -63645,6 +63761,9 @@
   ],
   "OH6ADf": [
     "Partage"
+  ],
+  "OHIb1L": [
+    "Récompense"
   ],
   "OHLdjq": [
     [
@@ -65612,6 +65731,9 @@
   "OzOM/q": [
     "Inviter à rejoindre l'activité"
   ],
+  "OzY5Ns": [
+    "Escouade"
+  ],
   "OzajIo": [
     "Booster ce serveur"
   ],
@@ -65799,6 +65921,9 @@
   ],
   "P3yCXJ": [
     "Enregistrer les modifications ?"
+  ],
+  "P4hgY/": [
+    "nous deux, on est pas n'importe qui"
   ],
   "P4vj0h": [
     "Masque la majorité des fenêtres Discord pour la plupart des logiciels de capture d'écran."
@@ -66447,6 +66572,9 @@
       ]
     ],
     "."
+  ],
+  "PLcLdx": [
+    "tu as entendu mes pires opinions et tu es toujours là"
   ],
   "PLk3Na": [
     "Tu veux augmenter le fun entre amis ?"
@@ -67418,6 +67546,9 @@
   "PlAffn": [
     "ce salon"
   ],
+  "Pla5Vk": [
+    "Articles éligibles"
+  ],
   "Plcu02": [
     "Tu peux envoyer ce message en tant que fichier."
   ],
@@ -67950,6 +68081,9 @@
   ],
   "Q03WWV": [
     "Action requise"
+  ],
+  "Q0EMOP": [
+    "Les endroits sur Discord que tu as beaucoup fréquentés en 2025."
   ],
   "Q0JJjv": [
     "Avant la recherche, nous avons besoin d'indexer cette conversation. Laisse nous un peu de temps, tu veux bien ?"
@@ -68716,9 +68850,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "QMw8Fd": [
-    "Discord pense que ton micro est peut-être éteint. On dit ça, on dit rien…"
   ],
   "QN7HXV": [
     "Jouer sur Xbox ?"
@@ -69518,6 +69649,9 @@
   ],
   "QkQ1WT": [
     "Fermer maintenant"
+  ],
+  "QkdNzt": [
+    "0 quête terminée"
   ],
   "Ql/e9Y": [
     "Découverte de serveurs"
@@ -71582,6 +71716,9 @@
   "RbHSyG": [
     "Mode quarantaine"
   ],
+  "RbT4Zq": [
+    "Jeu le plus joué"
+  ],
   "RbW/9g": [
     "Saint-Siège (État de la Cité du Vatican)"
   ],
@@ -72033,6 +72170,9 @@
       "percentageOff"
     ],
     " %"
+  ],
+  "RmVTph": [
+    "Minutes en vocal"
   ],
   "RmamAI": [
     "Accepter ce cadeau ?"
@@ -75325,6 +75465,9 @@
       "guildName"
     ]
   ],
+  "T7cl+Y": [
+    "Partager"
+  ],
   "T7dhBL": [
     "Son uploadé"
   ],
@@ -78378,6 +78521,9 @@
   "UPLpRV": [
     "Voir les paramètres"
   ],
+  "UPMwV8": [
+    "Jeu le plus joué"
+  ],
   "UPOlxO": [
     "Des Orbs arrivent !"
   ],
@@ -78795,11 +78941,28 @@
   "UXxPGB": [
     "Sortie"
   ],
+  "UYTBoT": [
+    "Commence à gagner des Orbs, des objets en jeu, des décorations de profil et bien plus avec les quêtes Discord. ",
+    [
+      8,
+      "learnMoreHook",
+      [
+        "En savoir plus"
+      ]
+    ],
+    "."
+  ],
   "UYW0dz": [
     "Ne pas changer"
   ],
+  "UYcJ48": [
+    "Check Point"
+  ],
   "UYe11k": [
     "Achète une carte-cadeau Discord chez une enseigne participante, puis rends-toi sur discord.com/redeem et connecte-toi à ton compte Discord. Gratte doucement la pellicule argentée au dos de la carte pour révéler ton code, ou retrouve le code dans ton e-mail pour les cartes-cadeaux numériques. Suis les indications à l'écran et le solde de ta carte passera de la carte au solde de ton compte."
+  ],
+  "UYjWa5": [
+    "Revois ton Checkpoint à tout moment jusqu'au 15 janvier."
   ],
   "UYq7+O": [
     "Supprimer les permissions"
@@ -78848,6 +79011,23 @@
   ],
   "UZbHV6": [
     "Fermer et verrouiller le post"
+  ],
+  "UZbUtl": [
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          "minute"
+        ],
+        "other": [
+          "minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en vocal"
   ],
   "UaGc2V": [
     "Fais du bruit avec le Soundboard !"
@@ -81356,6 +81536,19 @@
   ],
   "VawZVx": [
     "Ça me va"
+  ],
+  "VaydtR": [
+    [
+      8,
+      "monthHook",
+      [
+        [
+          1,
+          "month"
+        ]
+      ]
+    ],
+    " a été ton mois le plus bavard sur Discord !"
   ],
   "VbSyAx": [
     "Ne pas filtrer"
@@ -87159,6 +87352,23 @@
   "XtjRuJ": [
     "Les membres ayant cette permission peuvent créer de nouveaux rôles et modifier/effacer les rôles moins élevés que celui-ci."
   ],
+  "Xu0QsX": [
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          "heure"
+        ],
+        "other": [
+          "heures"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en vocal"
+  ],
   "Xu3wE3": [
     "Émoji"
   ],
@@ -91208,6 +91418,9 @@
   "ZQ37tH": [
     "Les membres se voient assigner ce rôle automatiquement. Il ne peut pas être assigné manuellement ou être retiré aux membres."
   ],
+  "ZQakPR": [
+    "Ton Discord"
+  ],
   "ZQfxS8": [
     "Nous recevons nos informations relatives aux jeux d'IGDB, une base de données de jeux gérée par la communauté. Toute information obsolète peut y être corrigée."
   ],
@@ -91712,6 +91925,20 @@
   ],
   "ZcyFYa": [
     "Sortie de l'aperçu de l'abonnement Nitro"
+  ],
+  "Zd+Ej+": [
+    "Tu as envoyé le plus de messages en ",
+    [
+      8,
+      "monthHook",
+      [
+        [
+          1,
+          "month"
+        ],
+        " !"
+      ]
+    ]
   ],
   "Zd0CO1": [
     "Affichage en liste"
@@ -92419,6 +92646,9 @@
       ]
     ],
     " ? Cette action est irréversible."
+  ],
+  "ZuvPfg": [
+    "Voici quelques-uns de tes favoris :"
   ],
   "ZuzwPz": [
     "Permet aux membres d'être entendus plus facilement dans les salons vocaux. Lorsque ce mode est activé, le volume des autres utilisateurs n'ayant pas cette permission sera automatiquement baissé. La voix prioritaire est activée en utilisant le raccourci ",
@@ -93881,7 +94111,7 @@
     "Code incorrect"
   ],
   "aWb+V4": [
-    "Évaluations en anglais"
+    "Anglais"
   ],
   "aWsjtD": [
     "* Modifications non synchronisées. Mets à jour les salons, rôles et permissions dans ton modèle en le synchronisant."
@@ -97366,6 +97596,9 @@
     ],
     " pour participer à cette quête."
   ],
+  "beRTy6": [
+    "Émojis envoyés"
+  ],
   "beach": [
     "parasol",
     "plage",
@@ -97650,7 +97883,7 @@
     ]
   ],
   "bhtYLk": [
-    "Retour à ",
+    "Retour aux ",
     [
       1,
       "productNamePlural"
@@ -102403,6 +102636,9 @@
   "cuMfH0": [
     "Permet aux membres de lire les messages précédemment envoyés dans ce salon. Si cette permission est désactivée, les membres ne verront que les messages envoyés alors qu'ils étaient en ligne."
   ],
+  "cuQ8hW": [
+    "Serveur le plus actif"
+  ],
   "cucumber": [
     "concombre",
     "cornichon",
@@ -102873,6 +103109,9 @@
   ],
   "d5Gu9A": [
     "Tu pourras toujours changer ça plus tard !"
+  ],
+  "d5HUsD": [
+    "Mais une personne a toujours été incontournable…"
   ],
   "d5YwK5": [
     "Regarde ma magnifique décoration"
@@ -103817,6 +104056,9 @@
       "email"
     ],
     " lorsque votre demande sera acceptée ou refusée."
+  ],
+  "dW6EBf": [
+    "Ton favori"
   ],
   "dW9Kov": [
     "Limite de favoris atteinte"
@@ -107628,6 +107870,9 @@
       "applicationName"
     ]
   ],
+  "eoLmk1": [
+    "Aucun serveur"
+  ],
   "eoNNsH": [
     "Charte d'utilisation"
   ],
@@ -110578,6 +110823,9 @@
   "fmyaWJ": [
     "Ce salon n'a pas encore de\nmessage épinglé... pour l'instant."
   ],
+  "fn+gnp": [
+    "Aucune réaction"
+  ],
   "fnO3hK": [
     [
       6,
@@ -110599,6 +110847,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "fnOOv7": [
+    "même heure, même endroit, l'an prochain ?"
   ],
   "fnZRmW": [
     "Transfère ",
@@ -111219,6 +111470,9 @@
   "fzMz2s": [
     "PlayStation"
   ],
+  "fzS0tb": [
+    "Rétrospective de ton année 2025"
+  ],
   "g+02d5": [
     "Tu n'as pas chômé !"
   ],
@@ -111375,6 +111629,13 @@
   ],
   "g3qPRn": [
     "Salle de cinéma"
+  ],
+  "g476ZL": [
+    "Musique de : ",
+    [
+      1,
+      "name"
+    ]
   ],
   "g4t9aw": [
     "Ton solde d'Orbs est maintenant de ",
@@ -112687,6 +112948,36 @@
   "gcyH1J": [
     "Expérience"
   ],
+  "gd+Olh": [
+    "Cette année, tu as gagné ",
+    [
+      8,
+      "orbsHook",
+      [
+        [
+          6,
+          "numOrbs",
+          {
+            "one": [
+              [
+                7
+              ],
+              " Orb"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " Orbs"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " à dépenser dans la Boutique Discord."
+  ],
   "gd/Yqs": [
     "Merci pour tes commentaires !"
   ],
@@ -113184,6 +113475,9 @@
     "protection des yeux",
     "soudage"
   ],
+  "goiR2u": [
+    "Checkpoint 2025"
+  ],
   "golf": [
     "drapeau de golf",
     "golf",
@@ -113650,6 +113944,35 @@
   ],
   "gzjxQi": [
     "Tu n'as pas la permission de changer ton pseudo sur ce serveur."
+  ],
+  "gzlOml": [
+    "Tu as joué à ",
+    [
+      8,
+      "gamesHook",
+      [
+        [
+          1,
+          "numGames"
+        ]
+      ]
+    ],
+    " ",
+    [
+      6,
+      "numGames",
+      {
+        "one": [
+          "jeu"
+        ],
+        "other": [
+          "jeux"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " cette année. Voici tes favoris :"
   ],
   "gzrysL": [
     [
@@ -114299,6 +114622,9 @@
   ],
   "hDPEu1": [
     "Merci de modifier les regex qui comportent des erreurs et de réessayer."
+  ],
+  "hDXaQ/": [
+    "c'est pas moi ton acolyte, c'est TOI l'acolyte"
   ],
   "hDhbb3": [
     "Discuter"
@@ -116930,6 +117256,13 @@
   "i5lFSU": [
     "Joueurs"
   ],
+  "i5nVyC": [
+    [
+      2,
+      "count"
+    ],
+    " heures"
+  ],
   "i62APf": [
     "Bannir ",
     [
@@ -118918,6 +119251,9 @@
   "iqwXvc": [
     "Exclure temporairement des membres"
   ],
+  "ir6nEQ": [
+    "Ton Checkpoint"
+  ],
   "irDT8W": [
     "Des parasites dans le micro ? Ça pourrait être une interférence. Ou autre chose…"
   ],
@@ -119195,6 +119531,22 @@
   ],
   "ixdjPB": [
     "Avenue du coucher de soleil"
+  ],
+  "ixvOza": [
+    "Tu faisais partie du ",
+    [
+      8,
+      "percentHook",
+      [
+        "Top ",
+        [
+          2,
+          "percent"
+        ],
+        " %"
+      ]
+    ],
+    " pour les messages envoyés sur Discord !"
   ],
   "iy47pM": [
     "Uploade jusqu'à ",
@@ -123353,6 +123705,9 @@
     "kimono",
     "vêtements"
   ],
+  "kimsIr": [
+    "Checkpoint indisponible"
+  ],
   "kiqvHd": [
     "Appareil certifié détecté"
   ],
@@ -124034,7 +124389,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "l+lSLp": [
     "Transforme ta voix pour t'exprimer et t'amuser encore plus pendant les appels !"
@@ -125303,6 +125659,9 @@
   ],
   "lXPbJb": [
     "Type de produit"
+  ],
+  "lXT6ns": [
+    "Temps en vocal"
   ],
   "lXhhWS": [
     "Auras-tu encore besoin de moi ?"
@@ -126867,6 +127226,9 @@
   "m1+IBn": [
     "L'information a été transmise à ton application Discord. Tu peux désormais fermer cet onglet ou continuer d'utiliser la version web de Discord."
   ],
+  "m163cv": [
+    "le chat vocal, c'est toujours mieux quand tu es dedans"
+  ],
   "m1KuWd": [
     "Limite de temps"
   ],
@@ -127201,6 +127563,9 @@
       ]
     ]
   ],
+  "mAroeJ": [
+    "Ton favori"
+  ],
   "mAtJTC": [
     [
       8,
@@ -127319,6 +127684,9 @@
   ],
   "mDcKND": [
     "Annuler"
+  ],
+  "mDxM7m": [
+    "Récupérer maintenant"
   ],
   "mE2e8A": [
     "Ajouté aux favoris"
@@ -127439,6 +127807,9 @@
       "keyName"
     ],
     " » ?"
+  ],
+  "mIG7/G": [
+    "Chargement de ton Checkpoint"
   ],
   "mIL6Jb": [
     "Suis ces étapes pour terminer de connecter ton compte."
@@ -131508,6 +131879,23 @@
       "seatLabel"
     ]
   ],
+  "nPTMHj": [
+    [
+      6,
+      "numMessages",
+      {
+        "one": [
+          "message envoyé"
+        ],
+        "other": [
+          "messages envoyés"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " cette année"
+  ],
   "nPThNb": [
     "Vérifie les jeux lancés"
   ],
@@ -133704,12 +134092,12 @@
     "Upload des Cloud Saves en cours"
   ],
   "oCKH5M": [
-    "Aucune ",
+    "Pas de ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
-    " disponible, reviens plus tard."
+    " disponibles, reviens plus tard."
   ],
   "oCONqN": [
     "Autorise tout le monde dans un salon vocal partagé à rejoindre ta partie sans avoir à envoyer de demande. Cette fonctionnalité fonctionne uniquement hors serveurs de communauté."
@@ -134036,6 +134424,14 @@
   ],
   "oLN4kx": [
     "Inventaire des cadeaux"
+  ],
+  "oLTb46": [
+    "Top ",
+    [
+      2,
+      "percent"
+    ],
+    " % joué dans le monde !"
   ],
   "oLqpDX": [
     "Une fois que tu publieras ton premier niveau, tu pourras accéder à des analyses détaillées sur tes abonnés, qui te permettent de savoir ce qui se passe et comment tu pourrais t'améliorer."
@@ -134617,6 +135013,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "od48B0": [
+    "Affiche ton checkpoint 2025"
   ],
   "odDw+z": [
     "Commandes de modification de profil"
@@ -136697,6 +137096,14 @@
   "pJ+P+h": [
     "Roblox"
   ],
+  "pJ4fx0": [
+    "Cette année, tu as gagné ",
+    [
+      2,
+      "numOrbs"
+    ],
+    " Orbs à dépenser dans la Boutique Discord."
+  ],
   "pJ4hJE": [
     "Termine la configuration des niveaux d'abonnement du serveur pour commencer à gagner de l'argent !"
   ],
@@ -137156,9 +137563,6 @@
   ],
   "pZ/fYa": [
     "Salon de médias (soumis à une limite d'âge)"
-  ],
-  "pZ0vr4": [
-    "Rappel de matériel en sourdine"
   ],
   "pZT2Zh": [
     "Permet aux membres d'ajouter de nouvelles réactions émojis à un message dans ces salons. Si cette permission est désactivée, les membres peuvent toujours réagir en utilisant les réactions existantes."
@@ -138334,6 +138738,9 @@
   ],
   "pj0XBN": [
     "Obtenir Nitro"
+  ],
+  "pjF33X": [
+    "Couper les sons"
   ],
   "pjG+T3": [
     "Seuls les administrateurs du serveur sont autorisés à faire ceci"
@@ -140510,7 +140917,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "qSq0tD": [
     "Lone Wanderer"
@@ -140902,7 +141310,8 @@
           "handleOnConfirmAgeHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "qbDPGM": [
     "Résilier l'abonnement"
@@ -141402,6 +141811,9 @@
   ],
   "qrsiYO": [
     "Bloque les messages qui contiennent des liens suspects."
+  ],
+  "qsFkSO": [
+    "Quêtes terminées"
   ],
   "qsI+EH": [
     "Continuer dans le navigateur web"
@@ -142039,6 +142451,9 @@
       "gameTitle"
     ]
   ],
+  "r8GEbK": [
+    "Ouvrir Checkpoint"
+  ],
   "r90Wgo": [
     "Ces serveurs pourraient bénéficier d'un boost"
   ],
@@ -142623,7 +143038,7 @@
     ]
   ],
   "rManeQ": [
-    "Groupe d'âge"
+    "Groupe de l'application"
   ],
   "rMulDT": [
     "Il ne sera pas visible pour les membres du serveur tant que tu ne l'auras pas publié."
@@ -145489,6 +145904,9 @@
   ],
   "sEAnVH": [
     "Déverrouiller avec Nitro"
+  ],
+  "sEPtGY": [
+    "Les amis et amies Discord avec qui tu as passé le plus de temps cette année."
   ],
   "sEkgBk": [
     [
@@ -149967,9 +150385,6 @@
   ],
   "tVK6S9": [
     "Publier la page de destination"
-  ],
-  "tVbzoZ": [
-    "Affiche un rappel lorsque Discord pense que ton micro est éteint."
   ],
   "tWEtJl": [
     "Sélectionner une langue"
@@ -154923,7 +155338,8 @@
           "handleOnBlogHook"
         ]
       ]
-    ]
+    ],
+    "."
   ],
   "vHCZwr": [
     "Catégorie"
@@ -155018,6 +155434,9 @@
   "vJqrIg": [
     "Changer de style"
   ],
+  "vKA/P1": [
+    "Déverrouiller l'offre"
+  ],
   "vKBV4A": [
     "Style du pseudonyme"
   ],
@@ -155032,6 +155451,9 @@
   ],
   "vKZT5t": [
     "Activer/Désactiver le plein écran"
+  ],
+  "vKovUV": [
+    "Un cadeau de notre part"
   ],
   "vL6g4F": [
     "OpenSL ES est une superbe API qui permet d'améliorer la qualité de tes appels. ",
@@ -156364,6 +156786,9 @@
   ],
   "vmzMZC": [
     "Recommandé par l'équipe Discord"
+  ],
+  "vnG9Sx": [
+    "Aucun émoji"
   ],
   "vnP31W": [
     "C'était une quête, mais..."
@@ -158179,6 +158604,9 @@
   "wWIufs": [
     "Tu as oublié ton mot de passe ?"
   ],
+  "wWKySP": [
+    "Messages envoyés"
+  ],
   "wWi0DL": [
     "Déplacer l'élément vers le bas de la liste"
   ],
@@ -159041,6 +159469,9 @@
   ],
   "wnifjC": [
     "Abonnement de l'utilisateur"
+  ],
+  "wnuxp5": [
+    "Tu as atteint un Checkpoint !"
   ],
   "wo3D3T": [
     "Profite de belles réductions sur n'importe quel article de la Boutique (ou tous !). Uniquement avec Nitro."
@@ -160256,6 +160687,19 @@
   "wywPjW": [
     "Administration"
   ],
+  "wz2JuF": [
+    "Ton acolyte Discord est :\n",
+    [
+      8,
+      "userHook",
+      [
+        [
+          1,
+          "user"
+        ]
+      ]
+    ]
+  ],
   "wzZHKl": [
     "si tu sais, tu sais"
   ],
@@ -161363,6 +161807,9 @@
   ],
   "xKXcSu": [
     "Ajouter aux favoris"
+  ],
+  "xLI+Hj": [
+    "Tu peux quand même profiter d'une récompense pour célébrer l'année :"
   ],
   "xLNQnl": [
     "Supprimer les pièces jointes"
@@ -163216,6 +163663,9 @@
   "y3LQCG": [
     "Favoris"
   ],
+  "y3TqzT": [
+    "Autres options"
+  ],
   "y3ZnnU": [
     "Jeux récupérés"
   ],
@@ -163231,6 +163681,9 @@
   ],
   "y4HOMj": [
     "Aider Discord à être ton petit nid douillet sur Internet"
+  ],
+  "y4M1na": [
+    "Résumé"
   ],
   "y4MncF": [
     "Permet aux membres de parler dans les salons vocaux. Si cette permission est désactivée, les membres sont muets par défaut à moins qu'un membre disposant de la permission « Rendre les membres muets » ne leur rende la voix."
@@ -166861,6 +167314,9 @@
   ],
   "zcKE8W": [
     "Application mobile Xbox installée"
+  ],
+  "zcbFu1": [
+    "Émoji utilisé"
   ],
   "zcgtzf": [
     "Ton abonnement ",
