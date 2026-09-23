@@ -311,6 +311,9 @@
   "+7MDbQ": [
     "Įjungti pranešimus"
   ],
+  "+7NlgO": [
+    "Sužinoti daugiau"
+  ],
   "+7XY31": [
     "Gauk naudodamas (-a) stiprinimus"
   ],
@@ -3057,6 +3060,9 @@
   ],
   "/8psS7": [
     "Veiklos valdikliai buvo painūs"
+  ],
+  "/8znyU": [
+    "Išsiųsk dar vieną dovaną, kad gautum visus"
   ],
   "/91tbr": [
     "Pranešti apie šią rolę naudotojams, kurie turi leidimą peržiūrėti šį kanalą"
@@ -10085,6 +10091,36 @@
   "21vmYl": [
     "Draugas buvo pašalintas."
   ],
+  "221iML": [
+    "Esi paauglių amžiaus grupėje (13–17 m.), todėl esi papildomai apsaugotas ir tau nepasiekiamas suaugusiesiems skirtas ",
+    [
+      8,
+      "$link",
+      [
+        "turinys ir nustatymai"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    ". Jei nustatėme klaidingą amžiaus grupę, gali ",
+    [
+      8,
+      "$link",
+      [
+        "patvirtinti, kad esi suaugęs (-usi)"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Pašalinti kanalo būseną"
   ],
@@ -15419,6 +15455,9 @@
   "417A+c": [
     "Panaudok"
   ],
+  "41MDhK": [
+    "Esi paauglių amžiaus grupėje"
+  ],
   "41NIIh": [
     "Kodėl keiti savo el. paštą?"
   ],
@@ -16543,9 +16582,6 @@
       "cardinal"
     ],
     ". Mes vis dar indeksuojame senesnius pranešimus."
-  ],
-  "4Y84j2": [
-    "Išbandyk akcentų temos spalvą"
   ],
   "4YLtzC": [
     "Pašalino kanalą iš dabar aktyvių"
@@ -26707,6 +26743,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Nuo amžiaus grupės priklauso, ar galėsi pasiekti turinį ir nustatymus, skirtus suaugusiems. Esi suaugusiųjų amžiaus grupėje, todėl tau niekas nesikeičia. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinok daugiau mūsų tinklaraštyje"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Sukūrė Kanalo Leidimus"
   ],
@@ -35085,6 +35137,9 @@
   "BozOXu": [
     "Jei nori, susiek savo išorinę paskyrą su Discord, kad turėtum daugiau funkcijų ir prieigą šiame serveryje."
   ],
+  "Bp/1dq": [
+    "Sužinok daugiau mūsų tinklaraštyje"
+  ],
   "Bp2/ni": [
     "Jei išeisi, šie žmonės toliau bus blokuojami arba ignoruojami."
   ],
@@ -38339,7 +38394,7 @@
     ]
   ],
   "DIyQIF": [
-    "Automatinis gijų pridėjimas"
+    "Automatiškai pridėti gijas"
   ],
   "DJ+bGu": [
     "Tavo vaidmuo ir piktograma"
@@ -43764,7 +43819,7 @@
     "Užklausa draugauti išsiųsta"
   ],
   "Fn6Odn": [
-    "Numatyta"
+    "Suplanuotos"
   ],
   "FnFI3m": [
     "Šiandien 9.00"
@@ -45879,6 +45934,23 @@
   "GZxoUb": [
     "Rūšiuoti įrašus"
   ],
+  "Ga2z/E": [
+    "Tavo paskyra priklauso paauglių amžiaus grupei, todėl turinys ir nustatymai, skirti suaugusiems, tau neprieinami. Visas kitas Discord veiks kaip įprasta. ",
+    [
+      8,
+      "$link",
+      [
+        "Jei mes suklydome, patvirtink, kad esi suaugęs"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Atsiliepimai"
   ],
@@ -46080,6 +46152,9 @@
   ],
   "GdNkvG": [
     "Pageidavimo sąrašo veiksmai"
+  ],
+  "GdTVPF": [
+    "Įjungėme papildomą apsaugą paaugliams"
   ],
   "GdVA11": [
     "Sunaikintas"
@@ -67315,6 +67390,22 @@
   "PMsq/b": [
     "Siųsti prašymą draugauti"
   ],
+  "PMznGO": [
+    "Nuo amžiaus grupės priklauso, ar galėsi pasiekti turinį ir nustatymus, skirtus suaugusiems. Esi suaugusiųjų amžiaus grupėje (18+ m.), todėl tau niekas nesikeičia. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinok daugiau mūsų tinklaraštyje"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Jokio pagal amžių ribojamo ar užgaulaus turinio. Tai taikoma tekstui, vaizdams, nuorodoms, susijusioms su nuogybėmis, seksu, žiauraus smurto arba kitu sukrečiančiu turiniu."
   ],
@@ -83430,6 +83521,36 @@
   "W0+LsV": [
     "24 val."
   ],
+  "W0/7DD": [
+    "Tavo amžiaus grupė dar nepatvirtinta, todėl ",
+    [
+      8,
+      "$link",
+      [
+        "tam tikras turinys ir nustatymai"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    ", skirti suaugusiems, tau neprieinami, kol nepatvirtinsi, kad ",
+    [
+      8,
+      "$link",
+      [
+        "esi suaugęs (-usi)"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Tai pašalins galimybę prisijungti su SMS siunčiamu autentifikavimo kodu. Ar tikrai nori pašalinti šią galimybę?"
   ],
@@ -85772,6 +85893,9 @@
   ],
   "Wv7HLS": [
     "Šviežiena – specialiai tau"
+  ],
+  "WvAqZA": [
+    "Pelnei nemokamą papuošimą"
   ],
   "Wvc/I+": [
     "Labas rytas,"
@@ -93779,6 +93903,9 @@
   "ZzAR2Y": [
     "Aprašas"
   ],
+  "ZzcLhc": [
+    "Jei suklydome, patvirtink, kad esi suaugęs"
+  ],
   "ZzdgUm": [
     "Kanalo negalima paversti privačiu"
   ],
@@ -100463,6 +100590,9 @@
   "cHzQ2O": [
     "Skųsti karantino įvedimą"
   ],
+  "cI+bc/": [
+    "Patvirtinti amžių"
+  ],
   "cIGvZI": [
     "Taisykles atitinkančios išmokos bus išmokamos per 15 dienų nuo kalendorinio mėnesio, per kurį buvo uždirbtos pajamos, pabaigos. Daugiau informacijos apie tinkamumą gauti išmokas rasi mūsų naudotojų monetizavimo sąlygose"
   ],
@@ -100639,6 +100769,26 @@
   ],
   "cM8bbx": [
     "Gauti Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gavai išskirtinį apdovanojimą"
+        ],
+        "other": [
+          "Gavai visus išskirtinius apdovanojimus (",
+          [
+            7
+          ],
+          ")"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Rėmeliai – tai profilio apvadai, pagerinantys jo išvaizdą. Nitro nariai gauna išankstinę prieigą. Rask savo rėmelį Parduotuvėje."
@@ -107000,7 +107150,7 @@
     "Pridėti mediją"
   ],
   "eIHfGZ": [
-    "dar ",
+    "Dar ",
     [
       6,
       "overflow_count",
@@ -109131,6 +109281,9 @@
   ],
   "f7aVGn": [
     "Žaidimo profilis"
+  ],
+  "f7c7qE": [
+    "Tavo paskyra priklauso paauglių amžiaus grupei, todėl turinys ir nustatymai, skirti suaugusiems, tau neprieinami. Visas kitas Discord veiks kaip įprasta."
   ],
   "f7g0DK": [
     "Atgal į svetainę"
@@ -111586,7 +111739,7 @@
     " (grupinė žinutė)"
   ],
   "fxxYiB": [
-    "Žinutė #general"
+    "Išsiųsti #general"
   ],
   "fyA115": [
     "Prašymai draugauti"
@@ -113322,6 +113475,22 @@
   ],
   "gi2swM": [
     "Žinutė taip pat išsiųsta į pagrindinį kanalą"
+  ],
+  "gi4ulu": [
+    "Esi suaugusiųjų amžiaus grupėje (18+ m.) ir turi prieigą prie ",
+    [
+      8,
+      "$link",
+      [
+        "pagal amžių ribojamo turinio, erdvių ir nustatymų"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "Tu siunti žinutes per greitai!"
@@ -119399,6 +119568,9 @@
   "ivpkNe": [
     "Ačiū, nereikia"
   ],
+  "ivpn6G": [
+    "Griebk ir pasilik nemokamą papuošimą"
+  ],
   "iw0hFi": [
     [
       8,
@@ -121341,6 +121513,9 @@
   "jjUTL+": [
     "Student Hub"
   ],
+  "jjpcno": [
+    "Peržiūrėti nustatymuose"
+  ],
   "jkg8Zu": [
     "Balso kanalai skirti bendravimui su kitais. Kai norėsi kalbėti, tiesiog užeik. Tavo draugai tave matys ir galės prisijungti. Tai tarsi telepatinis būdas pasisveikinti."
   ],
@@ -121701,6 +121876,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Tavo amžiaus grupė dar nepatvirtinta, todėl tam tikras turinys ir nustatymai, skirti suaugusiems, tau neprieinami. Visas kitas Discord veiks kaip įprasta."
   ],
   "jsudFd": [
     "Suskleista"
@@ -122740,9 +122918,6 @@
   ],
   "kMYVwv": [
     "Atsiimk savo apdovanojimą"
-  ],
-  "kMdneQ": [
-    "Tinkinami kanalo pranešimų nustatymai"
   ],
   "kMgj+e": [
     "Ieškoti serverių"
@@ -127214,6 +127389,9 @@
   ],
   "m8xsti": [
     "Abėcėlės tvarka"
+  ],
+  "m95jW8": [
+    "Tavo amžiaus grupė nepatvirtinta"
   ],
   "m9O1gd": [
     "Reaguoti"
@@ -133368,9 +133546,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Pasižvalgyk Parduotuvėje"
-  ],
   "o7DqF3": [
     "Šaka"
   ],
@@ -135556,6 +135731,9 @@
   ],
   "ozumaN": [
     "Diskriminatorius"
+  ],
+  "ozurym": [
+    "Bendrinti intarpą"
   ],
   "ozv9NT": [
     "Rodyti visus"
@@ -140177,6 +140355,22 @@
   "qSctqV": [
     "Jie užauga taip greitai :‘) ir be tokių prenumeratorių kaip tu mums tikrai nebūtų pavykę to pasiekti. Šiemet lauk dar daugiau Nitro gėrybių – ir ačiū, kad esate nuostabūs."
   ],
+  "qSkhZH": [
+    "Nuo amžiaus grupės priklauso, ar galėsi pasiekti turinį ir nustatymus, skirtus suaugusiems. Visas kitas Discord veiks kaip įprasta. Peržiūrėk savo amžiaus grupę toliau ir ",
+    [
+      8,
+      "$link",
+      [
+        "sužinok daugiau mūsų tinklaraštyje"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -141073,7 +141267,7 @@
     ]
   ],
   "quJD0Y": [
-    "Atidaromi App Store atsiliepimai."
+    "Atidaromi programėlių parduotuvės atsiliepimai."
   ],
   "question": [
     "klausimas",
@@ -147000,9 +147194,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Išbandyk pagrindinę temos spalvą"
-  ],
   "sm4HCL": [
     "Kažkas nepavyko! Pabandyk dar kartą"
   ],
@@ -148504,6 +148695,9 @@
   ],
   "t58lNN": [
     "Prisijunk prie serverio su pakvietimo nuoroda"
+  ],
+  "t5QjmQ": [
+    "Esi suaugusiųjų amžiaus grupėje"
   ],
   "t5VZ88": [
     "Nukopijuota"
@@ -154258,6 +154452,22 @@
   "vGs4hr": [
     "Įkelti failą"
   ],
+  "vGxRDB": [
+    "Nuo amžiaus grupės priklauso, ar galėsi pasiekti turinį ir nustatymus, skirtus suaugusiems. Visas kitas Discord veiks kaip įprasta. Peržiūrėk savo amžiaus grupę toliau ir ",
+    [
+      8,
+      "$link",
+      [
+        "sužinok daugiau mūsų tinklaraštyje"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Kategorija"
   ],
@@ -159109,7 +159319,7 @@
       1,
       "webBuildOverride"
     ],
-    ", versija ",
+    ", versija: ",
     [
       1,
       "builtAt"
@@ -161960,6 +162170,23 @@
   ],
   "xunxCo": [
     "Jei pridėsi kanalą į prenumeratos lygį, šis kanalas taps neprieinamas tiems serverio nariams, kurie nėra serverio prenumeratoriai."
+  ],
+  "xuvWqy": [
+    "Tavo amžiaus grupė dar nepatvirtinta, todėl tam tikras turinys ir nustatymai, skirti suaugusiems, tau neprieinami. Visas kitas Discord veiks kaip įprasta. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinok daugiau mūsų tinklaraštyje"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Sveiki! Jūs priklausote čia"
@@ -165793,6 +166020,9 @@
   ],
   "zV0/FC": [
     "Netinkamas žinutės tipas"
+  ],
+  "zVGHbw": [
+    "Gauk nemokamą papuošimą"
   ],
   "zVJxqj": [
     "Privalo turėti bent ",

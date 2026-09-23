@@ -292,6 +292,9 @@
   "+7MDbQ": [
     "Bật thông báo"
   ],
+  "+7NlgO": [
+    "Tìm hiểu thêm"
+  ],
   "+7XY31": [
     "Mở khóa với Nâng Cấp"
   ],
@@ -2746,6 +2749,9 @@
   ],
   "/8psS7": [
     "Kiểm soát hoạt động đã gặp khó khăn"
+  ],
+  "/8znyU": [
+    "Gửi một món quà khác để thu thập tất cả"
   ],
   "/91tbr": [
     "Nhắc nhở người dùng có vai trò được quyền xem kênh này."
@@ -9078,6 +9084,37 @@
   "21vmYl": [
     "Bạn bè đã bị xóa."
   ],
+  "221iML": [
+    "Bạn thuộc nhóm tuổi thanh thiếu niên (13-17) nên có thêm các biện pháp bảo vệ, đồng thời ",
+    [
+      8,
+      "$link",
+      [
+        "nội dung và cài đặt"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " dành cho người lớn sẽ không khả dụng. Nếu nhóm tuổi của bạn không đúng, bạn có thể ",
+    [
+      8,
+      "$link",
+      [
+        "xác nhận bạn là người lớn"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Xóa trạng thái kênh"
   ],
@@ -13884,6 +13921,9 @@
   "417A+c": [
     "Lấy lại"
   ],
+  "41MDhK": [
+    "Bạn thuộc nhóm tuổi thanh thiếu niên"
+  ],
   "41NIIh": [
     "Tại sao bạn thay đổi email của mình?"
   ],
@@ -14873,9 +14913,6 @@
       "cardinal"
     ],
     " đã lập chỉ mục cho đến nay. Chúng tôi vẫn đang lập chỉ mục cho các tin nhắn cũ hơn."
-  ],
-  "4Y84j2": [
-    "Thử màu chủ đề nhấn"
   ],
   "4YLtzC": [
     "Đã gỡ bỏ kênh khỏi mục Đang hoạt động"
@@ -23941,6 +23978,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Nhóm tuổi sẽ quyết định liệu bạn có thể truy cập nội dung và cài đặt dành cho người lớn hay không. Bạn thuộc nhóm tuổi người lớn, nên sẽ không có gì thay đổi với bạn. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm trên blog của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Tạo Quyền Cho Kênh"
   ],
@@ -31530,6 +31583,9 @@
   ],
   "BozOXu": [
     "Liên kết tài khoản bên ngoài của bạn với Discord (không bắt buộc) để nhận các tính năng bổ sung và quyền truy cập trong máy chủ này."
+  ],
+  "Bp/1dq": [
+    "Hãy tìm hiểu thêm trên blog của chúng tôi"
   ],
   "Bp2/ni": [
     "Nếu bạn rời đi, họ vẫn sẽ bị chặn hoặc bỏ qua."
@@ -41362,6 +41418,23 @@
   "GZxoUb": [
     "Sắp xếp bài đăng"
   ],
+  "Ga2z/E": [
+    "Tài khoản của bạn thuộc nhóm tuổi thanh thiếu niên, nên nội dung và cài đặt dành cho người lớn sẽ không khả dụng. Ngoài ra, Discord vẫn hoạt động như bình thường. ",
+    [
+      8,
+      "$link",
+      [
+        "Nếu chúng tôi nhầm, hãy xác nhận bạn là người lớn"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Xem lại"
   ],
@@ -41546,6 +41619,9 @@
   ],
   "GdNkvG": [
     "Hành Động Danh Sách Mong Muốn"
+  ],
+  "GdTVPF": [
+    "Chúng tôi đã khởi chạy các biện pháp bảo vệ bổ sung cho thanh thiếu niên"
   ],
   "GdVA11": [
     "Bị phá hủy"
@@ -42990,6 +43066,22 @@
   ],
   "HGCLZX": [
     "Thả sticker ưa thích của bạn ở bất cứ đâu khi đang trò chuyện."
+  ],
+  "HGJo1F": [
+    "Một số cài đặt chỉ có thể thay đổi nếu bạn thuộc nhóm tuổi người lớn. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Muốn có hình đại diện hoạt hình không?"
@@ -48342,7 +48434,7 @@
     "Chúng tôi không thể tìm thấy bạn bè của bạn bây giờ. Có lẽ họ đang nghỉ giải lao. Thử lại sau nhé!"
   ],
   "JjrRc2": [
-    "Mục tiêu rùa"
+    "Rùa ghi bàn"
   ],
   "JkAjB7": [
     [
@@ -60814,6 +60906,22 @@
   ],
   "PMsq/b": [
     "Gửi Yêu Cầu Kết Bạn"
+  ],
+  "PMznGO": [
+    "Nhóm tuổi sẽ quyết định liệu bạn có thể truy cập nội dung và cài đặt dành cho người lớn hay không. Bạn thuộc nhóm tuổi người lớn (18+), nên sẽ không có gì thay đổi với bạn. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm trên blog của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "PNIDDJ": [
     "Không có giới hạn độ tuổi hoặc nội dung phản cảm. Bao gồm văn bản, hình ảnh hoặc liên kết có chứa nội dung khoả thân, tình dục, bạo lực mạnh hoặc các nội dung minh hoạ phản cảm khác."
@@ -75398,6 +75506,37 @@
   "W0+LsV": [
     "24 giờ"
   ],
+  "W0/7DD": [
+    "Nhóm tuổi của bạn chưa được xác nhận, nên ",
+    [
+      8,
+      "$link",
+      [
+        "một số nội dung và cài đặt"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " dành cho người lớn sẽ không khả dụng cho đến khi bạn ",
+    [
+      8,
+      "$link",
+      [
+        "xác nhận bạn là người lớn"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Thao tác này sẽ tắt khả năng đăng nhập bằng mã xác thực thông qua tin nhắn. Bạn có chắc là bạn muốn xóa không?"
   ],
@@ -77532,6 +77671,9 @@
   ],
   "Wv7HLS": [
     "Hàng mới về, chỉ dành cho bạn"
+  ],
+  "WvAqZA": [
+    "Bạn đã kiếm được một món trang trí miễn phí"
   ],
   "Wvc/I+": [
     "Chào Buổi Sáng,"
@@ -84723,6 +84865,9 @@
   "ZzAR2Y": [
     "Tiểu sử"
   ],
+  "ZzcLhc": [
+    "Nếu chúng tôi nhầm, hãy xác nhận bạn là người lớn"
+  ],
   "ZzdgUm": [
     "Không Thể Đặt Thành Kênh Riêng Tư"
   ],
@@ -91023,6 +91168,9 @@
   "cHzQ2O": [
     "Kháng cáo cách ly"
   ],
+  "cI+bc/": [
+    "Xác Nhận Tuổi"
+  ],
   "cIGvZI": [
     "Các khoản tất toán đủ điều kiện sẽ được thanh toán trong vòng 15 ngày kể từ ngày kết thúc tháng dương lịch của doanh thu đã kiếm được. Để biết thêm thông tin về điều kiện thanh toán, vui lòng xem Điều Khoản Kiếm Tiền của chúng tôi"
   ],
@@ -91189,6 +91337,14 @@
   ],
   "cM8bbx": [
     "Tải Basic"
+  ],
+  "cMHedL": [
+    "Bạn đã thu thập toàn bộ ",
+    [
+      2,
+      "count"
+    ],
+    " phần thưởng độc quyền"
   ],
   "cMgegQ": [
     "Khung là các đường viền hồ sơ giúp hoàn thiện giao diện hình ảnh của bạn. Thành viên Nitro có quyền truy cập sớm. Tìm khung phù hợp với bạn trong Cửa Hàng."
@@ -98543,6 +98699,14 @@
   "ez/N/R": [
     "Có thể xem những người đang ở trong máy chủ và các thay đổi về vai trò, biệt danh và quyền của họ."
   ],
+  "ezJA0R": [
+    "Kênh này được quản trị viên của ",
+    [
+      1,
+      "guildName"
+    ],
+    " giới hạn cho người lớn (18+) và có thể chứa nội dung nhạy cảm. Tài khoản của bạn thuộc nhóm tuổi thanh thiếu niên. Nếu nhóm tuổi của bạn không đúng, hãy xác nhận rằng bạn là người lớn."
+  ],
   "ezLpY6": [
     "Rời khỏi Sân khấu"
   ],
@@ -98878,6 +99042,9 @@
   ],
   "f7aVGn": [
     "Hồ Sơ Trò Chơi"
+  ],
+  "f7c7qE": [
+    "Tài khoản của bạn thuộc nhóm tuổi thanh thiếu niên, nên nội dung và cài đặt dành cho người lớn sẽ không khả dụng. Ngoài ra, Discord vẫn hoạt động như bình thường."
   ],
   "f7g0DK": [
     "Trở lại Phòng khách"
@@ -101160,7 +101327,7 @@
     " (tin nhắn nhóm)"
   ],
   "fxxYiB": [
-    "Tin nhắn #chung"
+    "Nhắn tin #chung"
   ],
   "fyA115": [
     "Yêu cầu kết bạn"
@@ -102768,6 +102935,23 @@
   "gi2swM": [
     "Tin nhắn cũng được gửi đến kênh chính"
   ],
+  "gi4ulu": [
+    "Bạn thuộc nhóm tuổi người lớn (18+) và có quyền truy cập vào ",
+    [
+      8,
+      "$link",
+      [
+        "các nội dung, không gian và cài đặt bị giới hạn độ tuổi"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Bạn gửi tin nhắn quá nhanh!"
   ],
@@ -103739,6 +103923,14 @@
   ],
   "h48QWG": [
     "Bài đăng"
+  ],
+  "h4HbnI": [
+    "Kênh này được quản trị viên của ",
+    [
+      1,
+      "guildName"
+    ],
+    " giới hạn cho người lớn (18+) và có thể chứa nội dung nhạy cảm. Xác nhận bạn là người lớn để truy cập các nội dung, không gian và cài đặt bị giới hạn độ tuổi."
   ],
   "h4WIYV": [
     "Sử dụng ",
@@ -106754,6 +106946,14 @@
   "iJA/TE": [
     "Ưa thích"
   ],
+  "iK0n30": [
+    "Kênh này được quản trị viên của ",
+    [
+      1,
+      "guildName"
+    ],
+    " giới hạn cho người lớn (18+) và có thể chứa nội dung nhạy cảm."
+  ],
   "iKAdpR": [
     "Nâng cấp để nhận được tất cả tính năng tùy chỉnh."
   ],
@@ -108330,6 +108530,9 @@
   ],
   "ivpkNe": [
     "Không, cảm ơn"
+  ],
+  "ivpn6G": [
+    "Chọn một món trang trí miễn phí để giữ lại"
   ],
   "iw0hFi": [
     [
@@ -110066,6 +110269,9 @@
   "jjUTL+": [
     "Student Hub"
   ],
+  "jjpcno": [
+    "Xem trong Cài đặt"
+  ],
   "jkg8Zu": [
     "Kênh thoại là để tán gẫu. Khi bạn đã sẵn sàng trò chuyện, chỉ cần nhảy vào tham gia. Bạn bè có thể thấy và tham gia cùng bạn. Giống như sử dụng thần giao cách cảm để chào hỏi vậy."
   ],
@@ -110403,6 +110609,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Nhóm tuổi của bạn chưa được xác nhận, nên một số nội dung và cài đặt dành cho người lớn sẽ không khả dụng. Ngoài ra, Discord vẫn hoạt động như bình thường."
   ],
   "jsudFd": [
     "Thu gọn"
@@ -111382,9 +111591,6 @@
   ],
   "kMYVwv": [
     "Thu Thập Phần Thưởng Của Bạn"
-  ],
-  "kMdneQ": [
-    "Cài đặt thông báo tùy chỉnh kênh"
   ],
   "kMgj+e": [
     "Tìm kiếm máy chủ"
@@ -112710,6 +112916,22 @@
   ],
   "l+S46U": [
     "Chuyển động"
+  ],
+  "l+jt8J": [
+    "Bạn thuộc nhóm tuổi thanh thiếu niên, nên không thể tắt Yêu cầu tin nhắn. Nếu điều này có vẻ không đúng, bạn có thể ",
+    [
+      8,
+      "$link",
+      [
+        "xác nhận bạn là người lớn"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Biến đổi giọng nói của bạn để thể hiện bản thân và tăng niềm vui trong các cuộc gọi!"
@@ -115605,6 +115827,9 @@
   ],
   "m8xsti": [
     "Bảng chữ cái"
+  ],
+  "m95jW8": [
+    "Nhóm tuổi của bạn chưa được xác nhận"
   ],
   "m9O1gd": [
     "Tương tác"
@@ -121349,9 +121574,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Khám phá Cửa Hàng"
-  ],
   "o7DqF3": [
     "Nhánh"
   ],
@@ -123470,6 +123692,9 @@
   ],
   "ozumaN": [
     "Bộ phân biệt"
+  ],
+  "ozurym": [
+    "Chia Sẻ Nội Dung Nhúng"
   ],
   "ozv9NT": [
     "Hiển thị tất cả"
@@ -127588,6 +127813,22 @@
   "qSctqV": [
     "Nó phát triển nhanh quá :') và chúng tôi không thể có ngày hôm nay nếu thiếu những người đăng ký như bạn. Hãy đón chờ nhiều tính năng mới của Nitro torng năm nay và cảm ơn vì sự tuyệt vời của bạn."
   ],
+  "qSkhZH": [
+    "Nhóm tuổi sẽ quyết định liệu bạn có thể truy cập nội dung và cài đặt dành cho người lớn hay không. Ngoài ra, mọi thứ trên Discord vẫn y nguyên. Xem nhóm tuổi của bạn bên dưới và ",
+    [
+      8,
+      "$link",
+      [
+        "tìm hiểu thêm trên blog của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lữ Khách Cô Độc"
   ],
@@ -127916,6 +128157,22 @@
   ],
   "qaYzPA": [
     "Kết Thúc Sự Kiện"
+  ],
+  "qbBkFI": [
+    "Bạn thuộc nhóm tuổi thanh thiếu niên, nên không thể thay đổi một số cài đặt. Nếu điều này có vẻ không đúng, bạn có thể ",
+    [
+      8,
+      "$link",
+      [
+        "xác nhận bạn là người lớn"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Hủy gói đăng ký"
@@ -133653,9 +133910,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Thử màu chủ đề chính"
-  ],
   "sm4HCL": [
     "Đã có lỗi! Vui lòng thử lại"
   ],
@@ -135027,6 +135281,9 @@
   "t58lNN": [
     "Tham gia máy chủ bằng Link Mời"
   ],
+  "t5QjmQ": [
+    "Bạn thuộc nhóm tuổi người lớn"
+  ],
   "t5VZ88": [
     "Đã sao chép"
   ],
@@ -135342,6 +135599,22 @@
   ],
   "tGYbvd": [
     "Sự Kiện Đã Lên Lịch"
+  ],
+  "tGsCdS": [
+    "Bạn chỉ có thể tắt Yêu cầu tin nhắn nếu thuộc nhóm tuổi người lớn. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Bạn không thể truy cập vào buổi giao lưu này"
@@ -140394,6 +140667,22 @@
   ],
   "vGs4hr": [
     "Tải Lên Tệp"
+  ],
+  "vGxRDB": [
+    "Nhóm tuổi sẽ quyết định liệu bạn có thể truy cập nội dung và cài đặt dành cho người lớn hay không. Ngoài ra, mọi thứ trên Discord vẫn y nguyên. Xem nhóm tuổi của bạn bên dưới và ",
+    [
+      8,
+      "$link",
+      [
+        "tìm hiểu thêm trên blog của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Danh Mục"
@@ -147450,6 +147739,23 @@
   "xunxCo": [
     "Thêm kênh vào một bậc trong gói đăng ký sẽ loại bỏ quyền truy cập của các thành viên máy chủ không đăng ký."
   ],
+  "xuvWqy": [
+    "Nhóm tuổi của bạn vẫn chưa được xác nhận, nên một số nội dung và cài đặt dành cho người lớn sẽ không khả dụng. Ngoài ra, Discord vẫn hoạt động như bình thường. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm trên blog của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "xv5g7B": [
     "Chào mừng! Nơi này dành cho bạn"
   ],
@@ -150920,6 +151226,9 @@
   ],
   "zV0/FC": [
     "Loại Tin Nhắn Không Hợp Lệ"
+  ],
+  "zVGHbw": [
+    "Nhận một món trang trí miễn phí"
   ],
   "zVJxqj": [
     "Phải có ít nhất ",

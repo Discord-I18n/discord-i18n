@@ -289,6 +289,9 @@
   "+7MDbQ": [
     "Sätt på aviseringar"
   ],
+  "+7NlgO": [
+    "Läs mer"
+  ],
   "+7XY31": [
     "Lås upp med boost"
   ],
@@ -9840,6 +9843,37 @@
   "21vmYl": [
     "Din vän har tagits bort."
   ],
+  "221iML": [
+    "Du tillhör åldersgruppen tonåringar (13–17), så du har extra skydd och ",
+    [
+      8,
+      "$link",
+      [
+        "innehåll och inställningar"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " för vuxna är inte tillgängliga. Om din åldersgrupp inte stämmer kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekräfta att du är vuxen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Rensa kanalstatus"
   ],
@@ -15103,6 +15137,9 @@
   ],
   "417A+c": [
     "Lös in"
+  ],
+  "41MDhK": [
+    "Du tillhör åldersgruppen tonåringar"
   ],
   "41NIIh": [
     "Varför ändrar du din e-postadress?"
@@ -26013,6 +26050,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Åldersgrupper avgör om du kan få åtkomst till innehåll och inställningar för vuxna. Du tillhör åldersgruppen vuxna, så inget förändras för dig. ",
+    [
+      8,
+      "$link",
+      [
+        "Läs mer på vår blogg"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Skapa kanalbehörigheter"
   ],
@@ -34252,6 +34305,9 @@
   ],
   "BozOXu": [
     "Länka frivilligt ditt externa konto med Discord för fler funktioner och åtkomst på den här servern."
+  ],
+  "Bp/1dq": [
+    "Läs mer i vår blogg"
   ],
   "Bp2/ni": [
     "Om du lämnar kommer de fortfarande att blockeras eller ignoreras."
@@ -44831,6 +44887,23 @@
   "GZxoUb": [
     "Sortera poster"
   ],
+  "Ga2z/E": [
+    "Ditt konto är i åldersgruppen tonåring, så innehåll och inställningar för vuxna är inte tillgängliga. I övrigt fungerar Discord på samma sätt. ",
+    [
+      8,
+      "$link",
+      [
+        "Om vi har fel, bekräfta att du är vuxen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recensioner"
   ],
@@ -45015,6 +45088,9 @@
   ],
   "GdNkvG": [
     "Önskelisteåtgärder"
+  ],
+  "GdTVPF": [
+    "Vi har infört ytterligare skyddsåtgärder för tonåringar"
   ],
   "GdVA11": [
     "Demolerad"
@@ -46574,6 +46650,22 @@
   ],
   "HGCLZX": [
     "Släpp dina favoritdekaler var du än chattar."
+  ],
+  "HGJo1F": [
+    "Vissa inställningar kan bara ändras om du tillhör åldersgruppen vuxna. ",
+    [
+      8,
+      "$link",
+      [
+        "Läs mer"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Vill du ha en animerad avatar?"
@@ -65894,6 +65986,22 @@
   "PMsq/b": [
     "Skicka vänförfrågan"
   ],
+  "PMznGO": [
+    "Åldersgrupper avgör om du kan få åtkomst till innehåll och inställningar för vuxna. Du tillhör åldersgruppen vuxna (18+), så inget förändras för dig. ",
+    [
+      8,
+      "$link",
+      [
+        "Läs mer på vår blogg"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Inget åldersbegränsat eller obscent innehåll. Detta inkluderar text, bilder eller länkar med nakenhet, sex, rått våld eller annat grafiskt stötande innehåll."
   ],
@@ -81750,6 +81858,37 @@
   "W0+LsV": [
     "24 timmar"
   ],
+  "W0/7DD": [
+    "Din åldersgrupp har inte bekräftats än, så ",
+    [
+      8,
+      "$link",
+      [
+        "visst innehåll och vissa inställningar"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " för vuxna är inte tillgängliga förrän du ",
+    [
+      8,
+      "$link",
+      [
+        "bekräftar att du är vuxen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Detta tar bort möjligheten att logga in med en autentiseringskod via sms. Är du säker på att du vill ta bort det här?"
   ],
@@ -91869,6 +92008,9 @@
   "ZzAR2Y": [
     "Biografi"
   ],
+  "ZzcLhc": [
+    "Om vi har fel, bekräfta att du är vuxen"
+  ],
   "ZzdgUm": [
     "Det går inte att göra kanalen privat"
   ],
@@ -98475,6 +98617,9 @@
   ],
   "cHzQ2O": [
     "Överklaga karantän"
+  ],
+  "cI+bc/": [
+    "Bekräfta ålder"
   ],
   "cIGvZI": [
     "Godkända utbetalningar betalas inom 15 dagar från sista dagen på den månad under vilken inkomsterna intjänades. Mer information om berättigande till utbetalningar hittar du i våra villkor för intäktsgenerering"
@@ -106395,6 +106540,14 @@
   "ez/N/R": [
     "Kan se vem som är i servern och deras roll-, smeknamns- och behörighetsändringar."
   ],
+  "ezJA0R": [
+    "Den här kanalen har begränsats till vuxna (18+) av ",
+    [
+      1,
+      "guildName"
+    ],
+    "s administratörer och kan innehålla känsligt innehåll. Ditt konto tillhör åldersgruppen tonåringar. Om din åldersgrupp inte stämmer, bekräfta att du är vuxen."
+  ],
   "ezLpY6": [
     "Lämna podium"
   ],
@@ -106751,6 +106904,9 @@
   ],
   "f7aVGn": [
     "Spelprofil"
+  ],
+  "f7c7qE": [
+    "Ditt konto är i åldersgruppen tonåring, så innehåll och inställningar för vuxna är inte tillgängliga. I övrigt fungerar Discord på samma sätt."
   ],
   "f7g0DK": [
     "Tillbaka till vardagsrummet"
@@ -110841,6 +110997,23 @@
   "gi2swM": [
     "Meddelandet skickades även till huvudkanalen"
   ],
+  "gi4ulu": [
+    "Du tillhör åldersgruppen vuxna (18+) och har åtkomst till ",
+    [
+      8,
+      "$link",
+      [
+        "åldersbegränsat innehåll, åldersbegränsade utrymmen och inställningar"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Du skickar meddelanden för snabbt!"
   ],
@@ -111868,6 +112041,14 @@
   ],
   "h48QWG": [
     "Poster"
+  ],
+  "h4HbnI": [
+    "Den här kanalen har begränsats till vuxna (18+) av ",
+    [
+      1,
+      "guildName"
+    ],
+    "s administratörer och kan innehålla känsligt innehåll. Bekräfta att du är vuxen för att få åtkomst till åldersbegränsat innehåll, åldersbegränsade utrymmen och inställningar."
   ],
   "h4WIYV": [
     "Använd ",
@@ -115093,6 +115274,14 @@
   ],
   "iJA/TE": [
     "Favoritmarkerat"
+  ],
+  "iK0n30": [
+    "Den här kanalen har begränsats till vuxna (18+) av ",
+    [
+      1,
+      "guildName"
+    ],
+    "s administratörer och kan innehålla känsligt innehåll."
   ],
   "iKAdpR": [
     "Uppgradera för att få alla anpassningsprylar."
@@ -118707,6 +118896,9 @@
   "jjUTL+": [
     "Studenthubb"
   ],
+  "jjpcno": [
+    "Visa i Inställningar"
+  ],
   "jkg8Zu": [
     "Du använder röstkanaler när du vill umgås. Hoppa in när du är redo att prata bara. Dina vänner ser när du är där och kan hänga med. Det är som att använda telepati för att säga hej."
   ],
@@ -119076,6 +119268,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Din åldersgrupp har inte bekräftats än, så visst innehåll och vissa inställningar för vuxna är inte tillgängliga. I övrigt fungerar Discord på samma sätt."
   ],
   "jsudFd": [
     "Minimerad"
@@ -121586,6 +121781,22 @@
   ],
   "l+S46U": [
     "Animerade"
+  ],
+  "l+jt8J": [
+    "Du tillhör åldersgruppen tonåringar, så Meddelandeförfrågningar kan inte stängas av. Om det här inte stämmer kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekräfta att du är vuxen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Förvandla din röst för att uttrycka dig och ha ännu roligare under samtal!"
@@ -124554,6 +124765,9 @@
   ],
   "m8xsti": [
     "Alfabetisk ordning"
+  ],
+  "m95jW8": [
+    "Din åldersgrupp är inte bekräftad"
   ],
   "m9O1gd": [
     "Reagera"
@@ -136937,6 +137151,22 @@
   "qSctqV": [
     "De växer upp så fort :') Vi hade aldrig klarat det utan prenumeranter som du. Håll utkik efter fler godsaker från Nitro i år. Tack för att du är helt grym."
   ],
+  "qSkhZH": [
+    "Åldersgrupper avgör om du kan få åtkomst till innehåll och inställningar för vuxna. I övrigt fungerar Discord på samma sätt. Se din åldersgrupp nedan och ",
+    [
+      8,
+      "$link",
+      [
+        "läs mer på vår blogg"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -137313,6 +137543,22 @@
   ],
   "qaYzPA": [
     "Avsluta event"
+  ],
+  "qbBkFI": [
+    "Du tillhör åldersgruppen tonåringar, så vissa inställningar kan inte ändras. Om det här inte stämmer kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekräfta att du är vuxen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Avbryt prenumerationen"
@@ -144995,6 +145241,9 @@
   "t58lNN": [
     "Gå med i en server med en inbjudningslänk"
   ],
+  "t5QjmQ": [
+    "Du tillhör åldersgruppen vuxna"
+  ],
   "t5VZ88": [
     "Kopierad"
   ],
@@ -145308,6 +145557,22 @@
   ],
   "tGYbvd": [
     "Schemalagda event"
+  ],
+  "tGsCdS": [
+    "Meddelandeförfrågningar kan bara stängas av om du tillhör åldersgruppen vuxna. ",
+    [
+      8,
+      "$link",
+      [
+        "Läs mer"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Du har inte åtkomst till träffen"
@@ -150661,6 +150926,22 @@
   ],
   "vGs4hr": [
     "Ladda upp fil"
+  ],
+  "vGxRDB": [
+    "Åldersgrupper avgör om du kan få åtkomst till innehåll och inställningar för vuxna. I övrigt fungerar Discord på samma sätt. Se din åldersgrupp nedan och ",
+    [
+      8,
+      "$link",
+      [
+        "läs mer på vår blogg"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategori"
@@ -158207,6 +158488,23 @@
   ],
   "xunxCo": [
     "Om du lägger till en kanal till en prenumerationsnivå tar du bort åtkomsten för servermedlemmar som inte är serverprenumeranter."
+  ],
+  "xuvWqy": [
+    "Din åldersgrupp har inte bekräftats än, så visst innehåll och vissa inställningar för vuxna är inte tillgängliga. I övrigt fungerar Discord på samma sätt. ",
+    [
+      8,
+      "$link",
+      [
+        "Läs mer på vår blogg"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Välkommen! Du hör hemma här"

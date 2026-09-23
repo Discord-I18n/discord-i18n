@@ -281,6 +281,9 @@
   "+7MDbQ": [
     "Turn on Notifications"
   ],
+  "+7NlgO": [
+    "Learn More"
+  ],
   "+7XY31": [
     "Unlock with Boosting"
   ],
@@ -9960,6 +9963,36 @@
   "21vmYl": [
     "Friend has been removed."
   ],
+  "221iML": [
+    "You’re in the teen age group (13–17), so you have additional protections, and ",
+    [
+      8,
+      "$link",
+      [
+        "content and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " meant for adults aren’t available. If your age group isn’t correct, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm that you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Clear Channel Status"
   ],
@@ -15317,6 +15350,9 @@
   ],
   "417A+c": [
     "Redeem"
+  ],
+  "41MDhK": [
+    "You are in the teen age group"
   ],
   "41NIIh": [
     "Why are you changing your email?"
@@ -26439,6 +26475,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Age groups determine whether you can access content and settings meant for adults. You’re in the adult age group, so nothing changes for you. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Create Channel Permissions"
   ],
@@ -34793,6 +34845,9 @@
   ],
   "BozOXu": [
     "Optionally, link your external account with Discord for additional features and access in this server."
+  ],
+  "Bp/1dq": [
+    "Learn more on our blog"
   ],
   "Bp2/ni": [
     "If you leave, they will still be blocked or ignored."
@@ -45415,6 +45470,23 @@
   "GZxoUb": [
     "Sort Posts"
   ],
+  "Ga2z/E": [
+    "Your account is in the teen age group, so content and settings meant for adults aren’t available. Otherwise, Discord works the same. ",
+    [
+      8,
+      "$link",
+      [
+        "If we’ve got it wrong, confirm that you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Reviews"
   ],
@@ -45615,6 +45687,9 @@
   ],
   "GdNkvG": [
     "Wishlist Actions"
+  ],
+  "GdTVPF": [
+    "We’ve Launched Additional Protections for Teens"
   ],
   "GdVA11": [
     "Demolished"
@@ -66734,6 +66809,22 @@
   "PMsq/b": [
     "Send Friend Request"
   ],
+  "PMznGO": [
+    "Age groups determine whether you can access content and settings meant for adults. You’re in the adult age group (18+), so nothing changes for you. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "No age-restricted or obscene content. This includes text, images or links featuring nudity, sex, hard violence or other disturbing graphic content."
   ],
@@ -82584,6 +82675,36 @@
   "W0+LsV": [
     "24 hours"
   ],
+  "W0/7DD": [
+    "Your age group hasn’t been confirmed yet, so ",
+    [
+      8,
+      "$link",
+      [
+        "some content and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " meant for adults aren’t available until you ",
+    [
+      8,
+      "$link",
+      [
+        "confirm that you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "This removes the ability to log in with an authentication code through SMS. Are you sure you want to remove this?"
   ],
@@ -92847,6 +92968,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "If we’ve got it wrong, confirm that you’re an adult"
+  ],
   "ZzdgUm": [
     "Cannot Make Channel Private"
   ],
@@ -98476,6 +98600,9 @@
   ],
   "cHzQ2O": [
     "Appeal Quarantine"
+  ],
+  "cI+bc/": [
+    "Confirm Age"
   ],
   "cIGvZI": [
     "Eligible pay-outs will be paid within 15 days of the end of the calendar month during which revenue was earned. For more information on pay-out eligibility, please see our Monetisation Terms"
@@ -105524,6 +105651,9 @@
   "f7aVGn": [
     "Game Profile"
   ],
+  "f7c7qE": [
+    "Your account is in the teen age group, so content and settings meant for adults aren’t available. Otherwise, Discord works the same."
+  ],
   "f7g0DK": [
     "Back to Living Room"
   ],
@@ -109057,6 +109187,22 @@
   ],
   "gi2swM": [
     "Message also sent to main channel"
+  ],
+  "gi4ulu": [
+    "You’re in the adult age group (18+) and have access to ",
+    [
+      8,
+      "$link",
+      [
+        "age-restricted content, spaces and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "You're sending messages too quickly!"
@@ -116222,6 +116368,9 @@
   "jjUTL+": [
     "Student Hub"
   ],
+  "jjpcno": [
+    "View in Settings"
+  ],
   "jkg8Zu": [
     "Voice channels are for hanging out. When you're ready to talk, just hop in. Friends will be able to see and join you. It's like using telepathy to say hi."
   ],
@@ -116568,6 +116717,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Your age group hasn’t been confirmed yet, so some content and settings meant for adults aren’t available. Otherwise, Discord works the same."
   ],
   "jsudFd": [
     "Collapsed"
@@ -121569,6 +121721,9 @@
   ],
   "m8xsti": [
     "Alphabetical"
+  ],
+  "m95jW8": [
+    "Your age group is unconfirmed"
   ],
   "m9O1gd": [
     "React"
@@ -131875,6 +132030,22 @@
   "qSctqV": [
     "They grow up so fast :') and we couldn't have done it without subscribers like you. Watch out for more Nitro goodies this year, and thanks for being awesome."
   ],
+  "qSkhZH": [
+    "Age groups determine whether you can access content and settings meant for adults. Otherwise, Discord works the same. See your age group below and ",
+    [
+      8,
+      "$link",
+      [
+        "learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -138618,6 +138789,9 @@
   "t58lNN": [
     "Join a Server with an Invite Link"
   ],
+  "t5QjmQ": [
+    "You are in the adult age group"
+  ],
   "t5VZ88": [
     "Copied"
   ],
@@ -143744,6 +143918,22 @@
   ],
   "vGs4hr": [
     "Upload File"
+  ],
+  "vGxRDB": [
+    "Age groups determine whether you can access content and settings meant for adults. Otherwise, Discord works the same. See your age group below and ",
+    [
+      8,
+      "$link",
+      [
+        "learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Category"
@@ -150607,6 +150797,23 @@
   ],
   "xunxCo": [
     "Adding a channel to a subscription tier will remove access to server members who are not server subscribers."
+  ],
+  "xuvWqy": [
+    "Your age group hasn’t been confirmed yet, so some content and settings meant for adults aren’t available. Otherwise, Discord works the same. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Welcome! You belong here"

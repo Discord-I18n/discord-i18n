@@ -310,6 +310,9 @@
   "+7MDbQ": [
     "Turn on Notifications"
   ],
+  "+7NlgO": [
+    "Learn More"
+  ],
   "+7XY31": [
     "Unlock with Boosting"
   ],
@@ -749,6 +752,9 @@
   ],
   "+HM0x2": [
     "Couldn't leave those Group DMs. Please try again."
+  ],
+  "+HMF8k": [
+    "Nitroween"
   ],
   "+HS9+m": [
     "Tags will be displayed in the order you select them"
@@ -2364,6 +2370,13 @@
   "+urf75": [
     "Enhance your Discord experience!"
   ],
+  "+utqaz": [
+    "Gift Background Option: ",
+    [
+      1,
+      "giftStyle"
+    ]
+  ],
   "+v/1Dk": [
     "Go to Shop"
   ],
@@ -3112,6 +3125,9 @@
   ],
   "/8psS7": [
     "Activity controls were confusing"
+  ],
+  "/8znyU": [
+    "Send another gift to collect them all"
   ],
   "/91tbr": [
     "Notify users with this role who have permission to view this channel."
@@ -3998,6 +4014,9 @@
   "/Whuzi": [
     "While using a Discord Certified microphone certain voice processing features are no longer handled by Discord itself,\nbut rather by the microphone."
   ],
+  "/WsW/1": [
+    "Try out profile theme"
+  ],
   "/X1ny6": [
     "Browse the Shop and heart the items you love to add them here."
   ],
@@ -4621,6 +4640,24 @@
   ],
   "/nALeY": [
     "Other Feedback"
+  ],
+  "/nFLZv": [
+    "Promo eligible: ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected - ",
+    [
+      1,
+      "numDays"
+    ],
+    " days left"
   ],
   "/nJOlj": [
     "Activity was lagging or freezing"
@@ -5374,10 +5411,19 @@
     ],
     " Orbs in ",
     [
-      1,
-      "days"
-    ],
-    " days"
+      6,
+      "days",
+      {
+        "one": [
+          "day"
+        ],
+        "other": [
+          "days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Upload ",
@@ -7499,6 +7545,28 @@
   ],
   "0n7R2X": [
     "Disable Monetization"
+  ],
+  "0nFw35": [
+    [
+      6,
+      "durationCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month of Nitro"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months of Nitro"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "0nTvEw": [
     "This will clear ",
@@ -9668,6 +9736,22 @@
   "1fRDnT": [
     "Resume Video"
   ],
+  "1fYyf4": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Your reward is ready"
+        ],
+        "other": [
+          "Your rewards are ready"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "1g9A/f": [
     "Community"
   ],
@@ -10472,6 +10556,37 @@
   ],
   "21vmYl": [
     "Friend has been removed."
+  ],
+  "221iML": [
+    "You’re in the teen age group (13-17), so you have additional protections and ",
+    [
+      8,
+      "$link",
+      [
+        "content and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " meant for adults aren’t available. If your age group isn’t correct, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "22CYiZ": [
     "Clear Channel Status"
@@ -15245,6 +15360,22 @@
   "3iccet": [
     "Sticker Slots"
   ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "You earned a free decoration"
+        ],
+        "other": [
+          "You earned free decorations"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "3ilveh": [
     "Never mind"
   ],
@@ -15267,6 +15398,23 @@
   ],
   "3jG0Bo": [
     "Allows members to view this channel by default. Disabling this for @everyone will make this channel private."
+  ],
+  "3jY5i3": [
+    "If you like YouTube, you'll love Premium. Take 20% off your next 6 months, whether you're new to YouTube Premium or already in. ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "3jaCac": [
     "All downloadables"
@@ -16080,6 +16228,9 @@
   ],
   "417A+c": [
     "Redeem"
+  ],
+  "41MDhK": [
+    "You are in the teen age group"
   ],
   "41NIIh": [
     "Why are you changing your email?"
@@ -17286,9 +17437,6 @@
     ],
     " indexed so far. We’re still indexing older messages."
   ],
-  "4Y84j2": [
-    "Try out accent theme color"
-  ],
   "4YLtzC": [
     "Removed channel from Active Now"
   ],
@@ -17659,6 +17807,9 @@
   ],
   "4fnE/J": [
     "We could not validate your login link. Please try again."
+  ],
+  "4fvi9I": [
+    "Your friends, at a glance."
   ],
   "4fw/T2": [
     "You just Boosted the server ",
@@ -22869,6 +23020,9 @@
   "6d44F5": [
     "You can only use certain payment methods for this purchase."
   ],
+  "6dCq/u": [
+    "Cup"
+  ],
   "6dGmCD": [
     "Start Time"
   ],
@@ -25325,6 +25479,22 @@
     ],
     "."
   ],
+  "7Zw7AB": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "Gift ready for delivery"
+        ],
+        "other": [
+          "Gifts ready for delivery"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "7aNIkW": [
     "React with custom emoji from any server and unlock exclusive animations ",
     [
@@ -26170,6 +26340,9 @@
   "7rOU6j": [
     "Sync with computer"
   ],
+  "7raRgL": [
+    "Redeem Orbs"
+  ],
   "7rkg+/": [
     "Stop Watching — ",
     [
@@ -26471,6 +26644,9 @@
   ],
   "7yM5iL": [
     "You must wait two months before you can reapply."
+  ],
+  "7yaXr8": [
+    "Snag a free decoration"
   ],
   "7ymzsL": [
     "Confirm age group"
@@ -27748,6 +27924,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Age groups determine if you can access content and settings meant for adults. You’re in the adult age group, so nothing changes for you. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Create Channel Permissions"
   ],
@@ -27936,6 +28128,19 @@
   ],
   "8XT6Nf": [
     "Gift duration"
+  ],
+  "8XhAe3": [
+    "Promo eligible: ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected"
   ],
   "8Xm6uL": [
     [
@@ -32406,6 +32611,9 @@
   "AIszv8": [
     "off-topic"
   ],
+  "AJ4iir": [
+    "Cake"
+  ],
   "AJfv3T": [
     "Briefly describe what your server is about. New members will see this when they try to join."
   ],
@@ -33723,6 +33931,28 @@
       "cardinal"
     ]
   ],
+  "Aq6Jxd": [
+    [
+      6,
+      "durationCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " year of Nitro"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " years of Nitro"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "AqGrEI": [
     "Preview emoji, mentions, and markdown syntax as you type"
   ],
@@ -33957,6 +34187,28 @@
   ],
   "Ax89/c": [
     "Please save before publishing"
+  ],
+  "AxON/M": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Gift"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Gifts"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "AxRAWt": [
     "Expression picker format"
@@ -34574,6 +34826,9 @@
   ],
   "B9QnBp": [
     "You can't remove your vote unless you're a member."
+  ],
+  "B9XqQk": [
+    "Box"
   ],
   "B9eJyW": [
     "Apply Now"
@@ -35683,12 +35938,12 @@
     " ago"
   ],
   "Ba/7wO": [
-    "Nitro members earn ",
+    "Subscribe to grow your stash with monthly Orbs and ",
     [
       1,
       "multiplier"
     ],
-    "x on everything"
+    "x rewards."
   ],
   "BaI6L4": [
     "Ask the guardian to restore access in the app store’s parental controls (Apple or Google Play)."
@@ -35836,6 +36091,9 @@
   ],
   "Bd6dOf": [
     "Permanently close your account."
+  ],
+  "BdIVB+": [
+    "Level up your YouTube with Premium"
   ],
   "BdQTfR": [
     [
@@ -36419,6 +36677,9 @@
   ],
   "BozOXu": [
     "Optionally link your external account with Discord for additional features and access in this server."
+  ],
+  "Bp/1dq": [
+    "Learn more on our blog"
   ],
   "Bp2/ni": [
     "If you leave, they will still be blocked or ignored."
@@ -39143,6 +39404,28 @@
     [
       1,
       "username"
+    ]
+  ],
+  "D/HToK": [
+    [
+      6,
+      "hours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " hour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " hours"
+        ]
+      },
+      0,
+      "cardinal"
     ]
   ],
   "D/PHq5": [
@@ -41979,7 +42262,7 @@
     "Select Platform"
   ],
   "EN+0gW": [
-    "Edit Banner"
+    "Edit Banner Image"
   ],
   "ENSuN3": [
     "You've been invited to play"
@@ -46104,12 +46387,12 @@
     "You must complete a few more steps before you can start talking in this server."
   ],
   "G5k+lZ": [
-    "Turn Quest wins into mega wins with a ",
+    "Turn your wins into mega wins with ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplier on Orb Rewards."
+    "x rewards when you subscribe to Nitro. Cancel anytime."
   ],
   "G5zCGV": [
     "Unlock ",
@@ -47565,6 +47848,23 @@
   "GZxoUb": [
     "Sort Posts"
   ],
+  "Ga2z/E": [
+    "Your account is in the teen age group, so content and settings meant for adults aren't available. Otherwise, Discord works the same. ",
+    [
+      8,
+      "$link",
+      [
+        "If we got it wrong, confirm you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "Ga75bO": [
     [
       8,
@@ -47806,6 +48106,9 @@
   ],
   "GdNkvG": [
     "Wishlist Actions"
+  ],
+  "GdTVPF": [
+    "We’ve Launched Additional Protections for Teens"
   ],
   "GdVA11": [
     "Demolished"
@@ -48389,6 +48692,9 @@
   "GqvDkk": [
     "You haven't made any transactions yet."
   ],
+  "Gr02vu": [
+    "Send more gifts"
+  ],
   "GrEzlX": [
     "Your account doesn’t meet the requirements to join right now. Learn more about eligibility below."
   ],
@@ -48699,6 +49005,9 @@
   "GzMFnb": [
     "This will send a connection request to your teen, like magic!"
   ],
+  "GzPel1": [
+    "Box"
+  ],
   "Gzc/a8": [
     "Remove access to channel."
   ],
@@ -48967,6 +49276,9 @@
   "H3mPDT": [
     "Release Date"
   ],
+  "H3pTAa": [
+    "Select quantity"
+  ],
   "H3vhqU": [
     "Buy Nameplate"
   ],
@@ -49214,7 +49526,7 @@
     "Your game server is ready! Manage it anytime from ‘Game Servers’ tab in Shop."
   ],
   "HACucK": [
-    "You have enough Orbs to get something in the Shop!"
+    "You've got enough to grab something in the Shop."
   ],
   "HADQ6n": [
     [
@@ -49441,6 +49753,22 @@
   ],
   "HGCLZX": [
     "Drop your favorite stickers wherever you're chatting."
+  ],
+  "HGJo1F": [
+    "Some settings can only be changed if you’re in the adult age group. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Want an animated avatar?"
@@ -50203,6 +50531,9 @@
   "HZPBOd": [
     "Enter Discord Auth Code"
   ],
+  "HZPns7": [
+    "Show Server Hub Settings"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -50483,6 +50814,22 @@
   ],
   "Hgdhwb": [
     "Are you sure you want to exit? You have unsaved changes to this product that may be lost if you leave now."
+  ],
+  "Hgo1xT": [
+    "New Nitro Reward! Get 20% off your next 6 months of YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
   ],
   "HhfrYS": [
     "Play for ",
@@ -51265,7 +51612,7 @@
     " on us"
   ],
   "I1h8uD": [
-    "Discover your Autoclips"
+    "Discover your Auto Clips"
   ],
   "I1nKfO": [
     "Tell us how you feel about safety on Discord."
@@ -53023,6 +53370,22 @@
   ],
   "Igv+LS": [
     "See emoji details"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    " font, ",
+    [
+      1,
+      "effectName"
+    ],
+    " effect, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -55537,6 +55900,9 @@
   "JhDw5o": [
     "Return to Login"
   ],
+  "JhE8nA": [
+    "Nitro saves you up to 20% on all Shop purchases. Subscribe to unlock your discount, custom profiles, and more."
+  ],
   "JhNpgy": [
     "Custom Colors"
   ],
@@ -56037,6 +56403,9 @@
   "JzaP4h": [
     "DM Spam Filter"
   ],
+  "JzbSEY": [
+    "Mentions + Unreads"
+  ],
   "Jzd+z/": [
     "Choose a name for your new key"
   ],
@@ -56104,6 +56473,9 @@
   ],
   "K1BAQ6": [
     "Send an Invite"
+  ],
+  "K1URjQ": [
+    "Manage settings for your Server Hub."
   ],
   "K1gWXn": [
     "Is your mic extra fancy and silencing itself? In that case you can turn off the red warning by clicking the\nteeny tiny small text below."
@@ -56528,6 +56900,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Reorder your favorite sounds!"
   ],
   "KG/ynf": [
     "Whoops"
@@ -61104,6 +61479,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "M6cPwB": [
+    "Snowglobe"
   ],
   "M6fZXZ": [
     "Timor Leste"
@@ -65799,12 +66177,12 @@
     ". If you think it’s extra cool, keep it even longer while on Nitro."
   ],
   "NpUfej": [
-    "Now your Quest wins become mega wins with a ",
+    "Now your Quest wins become mega wins with ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplier on Orb Rewards."
+    "x rewards when you subscribe to Nitro. Cancel anytime"
   ],
   "NpchGq": [
     "Interests"
@@ -66678,6 +67056,9 @@
       "name"
     ],
     " - no longer available"
+  ],
+  "OBskVU": [
+    "Server Hub Settings"
   ],
   "OBuzJr": [
     "The top score for wins gets to wear the crown."
@@ -67618,6 +67999,9 @@
   ],
   "OZYPMR": [
     "A shared board your whole channel draws on together, live."
+  ],
+  "OZj923": [
+    "Keep up with what they're up to and have fun together."
   ],
   "OZvPXt": [
     "Withheld: this tool has no disclosure rule yet"
@@ -68991,6 +69375,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Drag and drop your favorite sounds in any order you like."
+  ],
   "P/KFXz": [
     "Just so you know, people you've blocked or ignored are in this Stage."
   ],
@@ -69141,6 +69528,9 @@
   ],
   "P5dSl0": [
     "Shadow color"
+  ],
+  "P5keo3": [
+    "Chest"
   ],
   "P5sLUo": [
     "Take 20% off your next 6 months, whether you're new to YouTube Premium or already in. ",
@@ -69841,6 +70231,22 @@
   ],
   "PMsq/b": [
     "Send Friend Request"
+  ],
+  "PMznGO": [
+    "Age groups determine if you can access content and settings meant for adults. You’re in the adult age group (18+), so nothing changes for you. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "PNIDDJ": [
     "No age-restricted or obscene content. This includes text, images, or links featuring nudity, sex, hard violence, or other graphically disturbing content."
@@ -73181,6 +73587,9 @@
   ],
   "QogKbP": [
     "Using rude, vulgar, or offensive language"
+  ],
+  "QojGXK": [
+    "With a gift purchase"
   ],
   "QouJki": [
     "An exclusive crystal badge next to your name"
@@ -80124,6 +80533,30 @@
     ],
     " from ignored accounts"
   ],
+  "TWtV8E": [
+    [
+      8,
+      "defaultPriceHook",
+      [
+        [
+          1,
+          "defaultPrice"
+        ]
+      ]
+    ],
+    " ",
+    [
+      8,
+      "premiumPriceHook",
+      [
+        [
+          1,
+          "premiumPrice"
+        ]
+      ]
+    ],
+    " with Nitro"
+  ],
   "TWuDTt": [
     "Add more Favorites"
   ],
@@ -82811,6 +83244,9 @@
   ],
   "UWhXbK": [
     "Not Staff"
+  ],
+  "UWycjR": [
+    "Select duration"
   ],
   "UXWUtm": [
     "You broke the rules for ",
@@ -86558,6 +86994,37 @@
   "W0+LsV": [
     "24 hours"
   ],
+  "W0/7DD": [
+    "Your age group hasn’t been confirmed yet, so ",
+    [
+      8,
+      "$link",
+      [
+        "some content and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " meant for adults aren’t available until you ",
+    [
+      8,
+      "$link",
+      [
+        "confirm you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "This removes the ability to log in with an authentication code through SMS. Are you sure you want to remove this?"
   ],
@@ -88799,6 +89266,9 @@
     ],
     " of inactivity."
   ],
+  "WnnzG7": [
+    "Select number of gifts"
+  ],
   "Wnojv1": [
     "Helps detect image-based media that may contain sexually explicit or suggestive material involving adults."
   ],
@@ -89032,6 +89502,9 @@
   ],
   "Wv7HLS": [
     "Fresh drops, just for you"
+  ],
+  "WvAqZA": [
+    "You earned a free decoration"
   ],
   "Wvc/I+": [
     "Good Morning,"
@@ -90743,6 +91216,9 @@
   "XcGEcs": [
     "Overlay is not supported for this game."
   ],
+  "XcOMLu": [
+    "Save on your new look"
+  ],
   "XcPHfw": [
     "Finish"
   ],
@@ -90821,6 +91297,9 @@
         ]
       ]
     ]
+  ],
+  "XeLTZl": [
+    "Your reward is ready"
   ],
   "XeYKWJ": [
     "With the description ",
@@ -91191,6 +91670,18 @@
   ],
   "XnzdTe": [
     "Receive auth code from SMS"
+  ],
+  "XoHiqS": [
+    [
+      1,
+      "name"
+    ],
+    " and ",
+    [
+      2,
+      "count"
+    ],
+    " more"
   ],
   "XoTWsI": [
     "Somebody Playin'"
@@ -93223,6 +93714,9 @@
   ],
   "YZookV": [
     "Default Channels & Pre-join Questions"
+  ],
+  "YZqqTX": [
+    "Send messages from Whiteboard"
   ],
   "YaW9wI": [
     "Boost your server to Level ",
@@ -96618,6 +97112,9 @@
     ],
     "?"
   ],
+  "ZolTTE": [
+    "Gift Recipients"
+  ],
   "Zos+eZ": [
     "Just waiting here until you ",
     [
@@ -96702,7 +97199,7 @@
     "Click to reveal spoiler"
   ],
   "ZqCAos": [
-    "Earn Orbs faster"
+    "Unlock more Orbs"
   ],
   "ZqK0uI": [
     "Popup Window"
@@ -96948,6 +97445,52 @@
   "ZveC7e": [
     "Select a role"
   ],
+  "ZvgWUV": [
+    "If you skip sending ",
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "the gift"
+        ],
+        "other": [
+          "the gifts"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " now, you can always send ",
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "it"
+        ],
+        "other": [
+          "them"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " later from your ",
+    [
+      8,
+      "$link",
+      [
+        "Gift Inventory"
+      ],
+      [
+        [
+          1,
+          "onInventoryClick"
+        ]
+      ]
+    ]
+  ],
   "Zvx+yV": [
     "Reveal email address"
   ],
@@ -97103,6 +97646,9 @@
   ],
   "ZzAR2Y": [
     "Bio"
+  ],
+  "ZzcLhc": [
+    "If we got it wrong, confirm you’re an adult"
   ],
   "ZzcwNk": [
     "Empties Favorites and restores its first-run state."
@@ -99971,6 +100517,9 @@
   "auGQLV": [
     "I’ll update it now"
   ],
+  "aubYGR": [
+    "Holiday Cake"
+  ],
   "auckXz": [
     "This is a ",
     [
@@ -100881,6 +101430,9 @@
   "bGHzxb": [
     "Duration"
   ],
+  "bGKjmg": [
+    "Got It!"
+  ],
   "bGN1ow": [
     "None"
   ],
@@ -100929,6 +101481,9 @@
   ],
   "bHpUca": [
     "Quick check: You don't have any current gaming activity. Is this accurate?"
+  ],
+  "bHuJLa": [
+    "Holiday Coffee"
   ],
   "bI7n9i": [
     "Tomorrow at ",
@@ -102182,6 +102737,13 @@
   ],
   "bgL68y": [
     "You are now friends. Say hi!"
+  ],
+  "bgQf2H": [
+    [
+      2,
+      "minutes"
+    ],
+    " min"
   ],
   "bgU5r0": [
     "Shows a notice every time the overlay opens to let you know that the overlay is now active."
@@ -104279,6 +104841,9 @@
   "cHzQ2O": [
     "Appeal Quarantine"
   ],
+  "cI+bc/": [
+    "Confirm Age"
+  ],
   "cI7t94": [
     "This one is too big to bring along; ",
     [
@@ -104472,6 +105037,26 @@
   ],
   "cM8bbx": [
     "Get Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "You’ve collected the exclusive reward"
+        ],
+        "other": [
+          "You’ve collected all ",
+          [
+            7
+          ],
+          " exclusive rewards"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Frames are profile borders that complete your look. Nitro members get early access. Find yours in the Shop."
@@ -104691,6 +105276,28 @@
   ],
   "cSb7U0": [
     "Disable Family Center"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Clip selected"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Clips selected"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Double tap to view profile"
@@ -112092,7 +112699,7 @@
     "Canadian Dollar"
   ],
   "efLpNC": [
-    "Your highlights and best moments"
+    "highlights and best moments"
   ],
   "efLzgX": [
     "The duration or amount of new members that can join before this invite expires."
@@ -113079,6 +113686,14 @@
   "ez/N/R": [
     "Can see who's in the server and their roles, nicknames, and permission changes."
   ],
+  "ezJA0R": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "'s admins and may contain sensitive content. Your account is in the teen age group. If your age group isn't correct, confirm you're an adult."
+  ],
   "ezLpY6": [
     "Leave the Stage"
   ],
@@ -113438,6 +114053,9 @@
   ],
   "f7aVGn": [
     "Game Profile"
+  ],
+  "f7c7qE": [
+    "Your account is in the teen age group, so content and settings meant for adults aren't available. Otherwise, Discord works the same."
   ],
   "f7g0DK": [
     "Back to Living Room"
@@ -116000,6 +116618,34 @@
     ],
     " at any time."
   ],
+  "fvtrHn": [
+    [
+      6,
+      "hours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " hour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " hours"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " ",
+    [
+      2,
+      "minutes"
+    ],
+    " min"
+  ],
   "fvxLKl": [
     "Co-development"
   ],
@@ -117786,6 +118432,32 @@
   "ge/d+Y": [
     "music-production"
   ],
+  "geFoof": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "You’re so generous! Send this gift to a friend to give them ",
+          [
+            1,
+            "skuName"
+          ],
+          ". We hope they enjoy!"
+        ],
+        "other": [
+          "You’re so generous! Send these gifts to friends to give them ",
+          [
+            1,
+            "skuName"
+          ],
+          ". We hope they enjoy!"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "geKm7t": [
     "Submit"
   ],
@@ -117981,6 +118653,23 @@
   ],
   "gi2swM": [
     "Message also sent to main channel"
+  ],
+  "gi4ulu": [
+    "You’re in the adult age group (18+) and have access to ",
+    [
+      8,
+      "$link",
+      [
+        "age-restricted content, spaces, and settings"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "gi6XHp": [
     "You're sending messages too quickly!"
@@ -119106,6 +119795,14 @@
   ],
   "h48QWG": [
     "Posts"
+  ],
+  "h4HbnI": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "'s admins and may contain sensitive content. Confirm you're an adult to access age-restricted content, spaces, and settings."
   ],
   "h4WIYV": [
     "Use ",
@@ -122610,6 +123307,14 @@
   "iJA/TE": [
     "Favorited"
   ],
+  "iK0n30": [
+    "This channel is limited to adults (18+) by ",
+    [
+      1,
+      "guildName"
+    ],
+    "'s admins and may contain sensitive content."
+  ],
   "iKAdpR": [
     "Upgrade to get all the customization thangs."
   ],
@@ -123086,6 +123791,9 @@
   "iVfA9i": [
     "far right"
   ],
+  "iVqj8B": [
+    "Clips Home"
+  ],
   "iVzBOh": [
     "Copy Link"
   ],
@@ -123503,6 +124211,26 @@
   "ibxdrl": [
     "Search for people in your servers to start a message, or add friends to see them here."
   ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gift Nitro, pick a free decoration to keep."
+        ],
+        "other": [
+          "Gift Nitro, pick ",
+          [
+            7
+          ],
+          " free decorations to keep."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "icWQKn": [
     "Get Nitro credits and Shop favorites without spending a dime."
   ],
@@ -123890,7 +124618,7 @@
     "Make your name stand out in servers and chats."
   ],
   "ikNKf1": [
-    "Autoclips"
+    "Auto Clips"
   ],
   "ikpHeS": [
     "Competing on ",
@@ -124426,6 +125154,9 @@
   ],
   "ivpkNe": [
     "No, thanks"
+  ],
+  "ivpn6G": [
+    "Pick a free decoration to keep"
   ],
   "ivvYHP": [
     "Controlling…"
@@ -126376,6 +127107,9 @@
   "jhJzez": [
     "Report App"
   ],
+  "jhNRIe": [
+    "Custom Quantity"
+  ],
   "jhPprR": [
     "With channel ",
     [
@@ -126501,6 +127235,9 @@
   ],
   "jjUTL+": [
     "Student Hub"
+  ],
+  "jjpcno": [
+    "View in Settings"
   ],
   "jkg8Zu": [
     "Voice channels are for hanging out. When you’re ready to talk, just hop in. Friends will be able to see and join you. It’s like using telepathy to say hi."
@@ -126888,6 +127625,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Your age group hasn’t been confirmed yet, so some content and settings meant for adults aren't available. Otherwise, Discord works the same."
   ],
   "jsudFd": [
     "Collapsed"
@@ -128004,9 +128744,6 @@
   ],
   "kMYVwv": [
     "Collect Your Reward"
-  ],
-  "kMdneQ": [
-    "The channel custom notification settings"
   ],
   "kMgj+e": [
     "Search servers"
@@ -129584,6 +130321,22 @@
   "l+S46U": [
     "Animated"
   ],
+  "l+jt8J": [
+    "You’re in the teen age group, so Message Requests can’t be turned off. If this doesn’t seem right, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "l+lSLp": [
     "Transform your voice to express yourself and have even more fun during calls!"
   ],
@@ -129722,6 +130475,9 @@
       ]
     ],
     "."
+  ],
+  "l34lLs": [
+    "Share all"
   ],
   "l3K4B/": [
     "Mentions User"
@@ -131318,6 +132074,9 @@
   "lg3Ckc": [
     "You can use Streamer Mode to hide personal details while streaming."
   ],
+  "lgDNyX": [
+    "Show Server Hub tab in channel list"
+  ],
   "lgHr73": [
     "Chat, stream, and chill"
   ],
@@ -132816,6 +133575,9 @@
   ],
   "m8xsti": [
     "Alphabetical"
+  ],
+  "m95jW8": [
+    "Your age group is unconfirmed"
   ],
   "m9O1gd": [
     "React"
@@ -139477,9 +140239,6 @@
     ],
     "'s recent activity"
   ],
-  "o6s7yg": [
-    "Explore Shop"
-  ],
   "o7DqF3": [
     "Branch"
   ],
@@ -139542,7 +140301,7 @@
     "! With Nitro you get to keep it. Enjoy!"
   ],
   "o9PQEi": [
-    "Turn Quest wins into mega wins with a ",
+    "Turn your wins into mega wins with a ",
     [
       2,
       "bonusOrbMultiplier"
@@ -141761,6 +142520,9 @@
     ],
     " days and the gift has not been redeemed."
   ],
+  "owluOg": [
+    "Your gifts are on the way!"
+  ],
   "owvC9U": [
     "You're all set!"
   ],
@@ -142037,6 +142799,23 @@
   ],
   "p0UgNQ": [
     "There’s no one in this post."
+  ],
+  "p0mYoH": [
+    "One or more of your gifts didn’t go through automatically. Send them to friends from your ",
+    [
+      8,
+      "$link",
+      [
+        "Gift Inventory"
+      ],
+      [
+        [
+          1,
+          "onInventoryClick"
+        ]
+      ]
+    ],
+    "."
   ],
   "p0oZmy": [
     "Sent a GIF"
@@ -146688,6 +147467,22 @@
   "qSctqV": [
     "They grow up so fast :') and we couldn't have done it without subscribers like you. Watch out for more Nitro goodies this year, and thanks for being awesome."
   ],
+  "qSkhZH": [
+    "Age groups determine if you can access content and settings meant for adults. Otherwise, Discord works the same. See your age group below and ",
+    [
+      8,
+      "$link",
+      [
+        "learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -146715,6 +147510,9 @@
   ],
   "qTCYun": [
     "Do you want to also apply this change to all your existing servers?"
+  ],
+  "qTXpj/": [
+    "Skip"
   ],
   "qTZMm2": [
     "An internal server error has occurred."
@@ -147067,6 +147865,22 @@
   ],
   "qbAREO": [
     "Create"
+  ],
+  "qbBkFI": [
+    "You’re in the teen age group, so some settings can’t be changed. If this doesn’t seem right, you can ",
+    [
+      8,
+      "$link",
+      [
+        "confirm you’re an adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Cancel subscription"
@@ -147537,6 +148351,9 @@
   ],
   "qpWnyC": [
     "Go to settings"
+  ],
+  "qpw1d9": [
+    "You can only share 10 clips at a time."
   ],
   "qpwaNY": [
     "Release Date"
@@ -150781,6 +151598,14 @@
     ],
     "."
   ],
+  "rr3AQS": [
+    "Save ",
+    [
+      2,
+      "percent"
+    ],
+    "%"
+  ],
   "rrI4Tk": [
     "Device"
   ],
@@ -152596,6 +153421,26 @@
   "sUvCKU": [
     "Report Submitted"
   ],
+  "sUvNeI": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pick a free decoration. Yours to keep with a gift purchase."
+        ],
+        "other": [
+          "Pick ",
+          [
+            7
+          ],
+          " free decorations. Yours to keep with this gift purchase."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "sUvyW3": [
     "Failed to cancel scheduled message. ",
     [
@@ -153831,9 +154676,6 @@
       "maxCount"
     ],
     ")"
-  ],
-  "sm2nAq": [
-    "Try out primary theme color"
   ],
   "sm4HCL": [
     "Something went wrong! Please try again"
@@ -155506,6 +156348,9 @@
   "t58lNN": [
     "Join a Server with an Invite Link"
   ],
+  "t5QjmQ": [
+    "You are in the adult age group"
+  ],
   "t5VZ88": [
     "Copied"
   ],
@@ -155834,6 +156679,22 @@
   ],
   "tGYbvd": [
     "Scheduled Events"
+  ],
+  "tGsCdS": [
+    "Message Requests can only be turned off if you’re in the adult age group. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "You cannot access this hangout"
@@ -161298,6 +162159,9 @@
   "v8MLqz": [
     "Sharing is not available in that channel"
   ],
+  "v8QrJf": [
+    "Your Orbs are ready to redeem"
+  ],
   "v8UpgE": [
     "Visit Game Shop"
   ],
@@ -161531,6 +162395,22 @@
   "vGs4hr": [
     "Upload File"
   ],
+  "vGxRDB": [
+    "Age groups determine if you can access content and settings meant for adults. Otherwise, Discord works the same. See your age group below and ",
+    [
+      8,
+      "$link",
+      [
+        "learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Category"
   ],
@@ -161626,6 +162506,9 @@
   ],
   "vJqrIg": [
     "Change Style"
+  ],
+  "vKA/P1": [
+    "Unlock Offer"
   ],
   "vKBV4A": [
     "Display name style"
@@ -162388,6 +163271,9 @@
   "vd0D81": [
     "Quantity"
   ],
+  "vd1fu/": [
+    "Holiday Box"
+  ],
   "vdSOpz": [
     "You must verify your account before you can speak in this server."
   ],
@@ -162887,6 +163773,9 @@
         "Kick"
       ]
     ]
+  ],
+  "vjxYqU": [
+    "Holiday Chest"
   ],
   "vjxhWo": [
     "Pausing — ",
@@ -163951,6 +164840,9 @@
   "w8+YDM": [
     "No commands available here"
   ],
+  "w84vET": [
+    "Coffee"
+  ],
   "w8CXUl": [
     "Code valid on a SteelSeries purchase of $20 or more. Expires ",
     [
@@ -164742,6 +165634,9 @@
   "wSnI/0": [
     "This is what others see when they view your profile."
   ],
+  "wTKEyX": [
+    "Continue"
+  ],
   "wTaN+K": [
     "Customize"
   ],
@@ -165427,6 +166322,45 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wiBqTu": [
+    "You’re so generous! ",
+    [
+      6,
+      "otherCount",
+      {
+        "=0": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " a gift."
+        ],
+        "one": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " and 1 other a gift."
+        ],
+        "other": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " and ",
+          [
+            7
+          ],
+          " others a gift."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "wiIevd": [
     "Close Thread"
@@ -169038,6 +169972,9 @@
   "xdCLeM": [
     "Hide Details"
   ],
+  "xdDO7f": [
+    "Type your friends’ names"
+  ],
   "xdGS1o": [
     "Apple Pay"
   ],
@@ -169717,7 +170654,7 @@
     "."
   ],
   "xrOIkz": [
-    "Autoclips"
+    "Auto clips"
   ],
   "xrYNBI": [
     "Are you sure you want to end the Stage for everyone?"
@@ -169797,6 +170734,23 @@
   ],
   "xunxCo": [
     "Adding a channel to a subscription tier will remove access to server members who are not server subscribers."
+  ],
+  "xuvWqy": [
+    "Your age group hasn’t been confirmed yet, so some content and settings meant for adults aren't available. Otherwise, Discord works the same. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more on our blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Welcome! You belong here"
@@ -173688,6 +174642,9 @@
   ],
   "zV0/FC": [
     "Invalid Message Type"
+  ],
+  "zVGHbw": [
+    "Get a free decoration"
   ],
   "zVJxqj": [
     "Must have at least ",

@@ -293,6 +293,9 @@
   "+7MDbQ": [
     "Slå på varsler"
   ],
+  "+7NlgO": [
+    "Finn ut mer"
+  ],
   "+7XY31": [
     "Lås opp med boosting"
   ],
@@ -9871,6 +9874,36 @@
   "21vmYl": [
     "Vennen er fjernet."
   ],
+  "221iML": [
+    "Du har en ungdomskonto (13–17), som har ekstra beskyttelse. Det betyr at du ikke har tilgang til ",
+    [
+      8,
+      "$link",
+      [
+        "innhold og innstillinger"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " beregnet på voksne. Hvis aldersgruppen din ikke er riktig, kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekrefte at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Fjern kanal-status"
   ],
@@ -15177,6 +15210,9 @@
   ],
   "417A+c": [
     "Løs inn"
+  ],
+  "41MDhK": [
+    "Du har ungdomskonto"
   ],
   "41NIIh": [
     "Hvorfor bytter du e-postadresse?"
@@ -26090,6 +26126,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Du har en voksenkonto, så alt blir som før for deg. ",
+    [
+      8,
+      "$link",
+      [
+        "Mer info på bloggen"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Opprett kanaltillatelser"
   ],
@@ -34307,6 +34359,9 @@
   ],
   "BozOXu": [
     "Du kan velge å knytte den eksterne kontoen til Discord for å få flere muligheter og større tilganger i serveren."
+  ],
+  "Bp/1dq": [
+    "Les mer på bloggen vår"
   ],
   "Bp2/ni": [
     "Vedkommende blokkeres eller ignoreres også etter at du går ut."
@@ -44833,6 +44888,23 @@
   "GZxoUb": [
     "Sorter innlegg"
   ],
+  "Ga2z/E": [
+    "Kontoen din er i aldersgruppen tenåring, så innhold og innstillinger for voksne er ikke tilgjengelige. Bortsett fra det fungerer Discord likt. ",
+    [
+      8,
+      "$link",
+      [
+        "Hvis vi har gjort en feil, må du bekrefte at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Vurderinger"
   ],
@@ -44998,6 +45070,9 @@
   ],
   "GdNkvG": [
     "Handlinger for ønskeliste"
+  ],
+  "GdTVPF": [
+    "Vi har innført ytterligere beskyttelse for tenåringer"
   ],
   "GdVA11": [
     "Ødelagt"
@@ -65884,6 +65959,22 @@
   "PMsq/b": [
     "Send venneforespørsel"
   ],
+  "PMznGO": [
+    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Du har en voksenkonto (18+), så alt blir som før for deg. ",
+    [
+      8,
+      "$link",
+      [
+        "Mer info på bloggen"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Ikke innhold med aldersgrense eller obskønt innhold. Dette inkluderer tekst, bilder og lenker med nakenhet, sex, grov vold og annet opprivende innhold."
   ],
@@ -81704,6 +81795,36 @@
   "W0+LsV": [
     "24 timer"
   ],
+  "W0/7DD": [
+    "Aldersgruppen din er ikke bekreftet, så ",
+    [
+      8,
+      "$link",
+      [
+        "noe innhold og enkelte innstillinger for voksne"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " kommer til å være utilgjengelig frem til du har ",
+    [
+      8,
+      "$link",
+      [
+        "bekreftet at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Dette fjerner muligheten for å logge på med en autentiseringskode via SMS. Er du sikker på at du vil fjerne dette?"
   ],
@@ -91859,6 +91980,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Hvis vi har gjort en feil, må du bekrefte at du er voksen"
+  ],
   "ZzdgUm": [
     "Kanalen kan ikke gjøres privat"
   ],
@@ -98573,6 +98697,9 @@
   ],
   "cHzQ2O": [
     "Klag på karantene"
+  ],
+  "cI+bc/": [
+    "Bekreft alder"
   ],
   "cIGvZI": [
     "Kvalifiserte utbetalinger gjøres innen 15 dager etter siste dag i måneden inntektene ble generert i. For mer informasjon om kvalifisering av utbetalinger, se vilkårene våre for inntektsgenerering."
@@ -107047,6 +107174,9 @@
   "f7aVGn": [
     "Spillprofil"
   ],
+  "f7c7qE": [
+    "Kontoen din er i aldersgruppen tenåring, så innhold og innstillinger for voksne er ikke tilgjengelige. Bortsett fra det fungerer Discord likt."
+  ],
   "f7g0DK": [
     "Tilbake til stuen"
   ],
@@ -111198,6 +111328,22 @@
   ],
   "gi2swM": [
     "Melding også sendt i hovedkanalen"
+  ],
+  "gi4ulu": [
+    "Du har en voksenkonto (18+) og har tilgang til ",
+    [
+      8,
+      "$link",
+      [
+        "innhold, områder og innstillinger med aldersgrense"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "Du sender meldinger for fort!"
@@ -119117,6 +119263,9 @@
   "jjUTL+": [
     "Skolehub"
   ],
+  "jjpcno": [
+    "Vis i innstillingene"
+  ],
   "jkg8Zu": [
     "På talekanaler kan du være sammen med andre. Når du vil si noe, er det bare å hoppe inn. Venner kan se deg og bli med. Det er som å si hei gjennom telepati."
   ],
@@ -119493,6 +119642,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Aldersgruppen din er ikke bekreftet, så noe innhold og enkelte innstillinger for voksne er ikke tilgjengelige. Bortsett fra det fungerer Discord likt."
   ],
   "jsudFd": [
     "Skjult"
@@ -124939,6 +125091,9 @@
   ],
   "m8xsti": [
     "Alfabetisk"
+  ],
+  "m95jW8": [
+    "Aldersgruppen din er ikke bekreftet"
   ],
   "m9O1gd": [
     "Reager"
@@ -137743,6 +137898,22 @@
   "qSctqV": [
     "De blir store så fort :’) Og vi kunne ikke ha klart det uten abonnenter som deg. Det kommer flere Nitro-godbiter i året som kommer. Takk for at du er helt rå."
   ],
+  "qSkhZH": [
+    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
+    [
+      8,
+      "$link",
+      [
+        "mer info på bloggen"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -145885,6 +146056,9 @@
   "t58lNN": [
     "Koble til en server med en invitasjonslenke"
   ],
+  "t5QjmQ": [
+    "Du har voksenkonto"
+  ],
   "t5VZ88": [
     "Kopiert"
   ],
@@ -151554,6 +151728,22 @@
   ],
   "vGs4hr": [
     "Last opp fil"
+  ],
+  "vGxRDB": [
+    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
+    [
+      8,
+      "$link",
+      [
+        "mer info på bloggen"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategori"
@@ -159203,6 +159393,23 @@
   ],
   "xunxCo": [
     "Å legge til en kanal til abonnementsnivået vil fjerne tilgangen for servermedlemmer som ikke er serverabonnenter."
+  ],
+  "xuvWqy": [
+    "Aldersgruppen din er ikke bekreftet, så noe innhold og enkelte innstillinger for voksne er ikke tilgjengelige. Bortsett fra det fungerer Discord likt. ",
+    [
+      8,
+      "$link",
+      [
+        "Du får mer info på bloggen"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Velkommen! Her hører du hjemme"

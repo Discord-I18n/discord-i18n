@@ -307,6 +307,9 @@
   "+7MDbQ": [
     "Activează notificările"
   ],
+  "+7NlgO": [
+    "Află mai multe"
+  ],
   "+7XY31": [
     "Deblochează prin stimulare"
   ],
@@ -1483,7 +1486,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie de la ",
+    " cererea de prietenie de la ",
     [
       1,
       "name"
@@ -3018,6 +3021,9 @@
   ],
   "/8psS7": [
     "Controalele activității nu au fost clare"
+  ],
+  "/8znyU": [
+    "Trimite încă un cadou pentru a le colecționa pe toate"
   ],
   "/91tbr": [
     "Anunță utilizatorii cu acest rol care au permisiunea să vadă acest canal."
@@ -9951,6 +9957,36 @@
   "21vmYl": [
     "Prietenul a fost șters."
   ],
+  "221iML": [
+    "Faci parte din grupa de vârstă a adolescenților (13-17), deci ai protecții suplimentare, iar ",
+    [
+      8,
+      "$link",
+      [
+        "conținutul și setările"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinate adulților nu sunt disponibile. Dacă grupa ta de vârstă nu este corectă, poți ",
+    [
+      8,
+      "$link",
+      [
+        "să-ți confirmi statutul de adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Șterge statusul canalului"
   ],
@@ -15282,6 +15318,9 @@
   "417A+c": [
     "Valorifică"
   ],
+  "41MDhK": [
+    "Faci parte din grupa de vârstă a adolescenților"
+  ],
   "41NIIh": [
     "De ce îți schimbi adresa de e-mail?"
   ],
@@ -16404,9 +16443,6 @@
       "cardinal"
     ],
     " până acum. Încă indexăm mesaje mai vechi."
-  ],
-  "4Y84j2": [
-    "Încearcă drept culoarea temei de accent"
   ],
   "4YLtzC": [
     "Canal eliminat din Activitate acum"
@@ -21457,7 +21493,7 @@
       1,
       "action"
     ],
-    " opțiuni pentru ",
+    " opțiunile pentru ",
     [
       1,
       "name"
@@ -26359,6 +26395,22 @@
     [
       1,
       "alt"
+    ]
+  ],
+  "8TWztV": [
+    "Grupurile de vârstă stabilesc dacă poți accesa conținut și setări destinate adulților. Faci parte din grupa de vârstă a adulților, deci nu se schimbă nimic pentru tine. ",
+    [
+      8,
+      "$link",
+      [
+        "Află mai multe pe blogul nostru"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
     ]
   ],
   "8TnAMP": [
@@ -34253,7 +34305,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie către ",
+    " cererea de prietenie către ",
     [
       1,
       "name"
@@ -34673,6 +34725,9 @@
   ],
   "BozOXu": [
     "Opțional, asociază-ți contul extern cu Discord pentru funcții suplimentare și acces la acest server."
+  ],
+  "Bp/1dq": [
+    "Află mai multe de pe blogul nostru"
   ],
   "Bp2/ni": [
     "Dacă pleci, va rămâne în continuare blocat sau ignorat."
@@ -37897,7 +37952,7 @@
     ]
   ],
   "DIyQIF": [
-    "Adaugă automat fire"
+    "Adaugă automat firele la care mă alătur"
   ],
   "DJ+bGu": [
     "Rolul tău și pictograma ta"
@@ -45296,6 +45351,23 @@
   "GZxoUb": [
     "Sortează postările"
   ],
+  "Ga2z/E": [
+    "Contul tău face parte din grupa de vârstă a adolescenților, motiv pentru care conținutul și setările destinate adulților nu sunt disponibile. În rest, Discord funcționează la fel. ",
+    [
+      8,
+      "$link",
+      [
+        "Dacă am greșit, confirmă că ai peste 18 ani"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recenzii"
   ],
@@ -45495,6 +45567,9 @@
   ],
   "GdNkvG": [
     "Acțiuni listă de dorințe"
+  ],
+  "GdTVPF": [
+    "Am lansat protecții suplimentare pentru adolescenți"
   ],
   "GdVA11": [
     "Demolat"
@@ -66528,6 +66603,22 @@
   "PMsq/b": [
     "Trimite o cerere de prietenie"
   ],
+  "PMznGO": [
+    "Grupurile de vârstă stabilesc dacă poți accesa conținut și setări destinate adulților. Faci parte din grupa de vârstă a adulților (18+), deci nu se schimbă nimic pentru tine. ",
+    [
+      8,
+      "$link",
+      [
+        "Află mai multe pe blogul nostru"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Nu este permis conținutul obscen sau restricționat în funcție de vârstă. Aici se încadrează textele, imaginile sau linkurile care conțin nuditate, sex, violență sau orice alt conținut explicit deranjant."
   ],
@@ -82287,6 +82378,36 @@
   "W0+LsV": [
     "24 de ore"
   ],
+  "W0/7DD": [
+    "Grupa ta de vârstă nu a fost încă confirmată, deci ",
+    [
+      8,
+      "$link",
+      [
+        "o parte din conținut și din setări"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinate adulților nu sunt disponibile până nu ",
+    [
+      8,
+      "$link",
+      [
+        "îți confirmi statutul de adult"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Nu te vei mai putea conecta prin intermediul unui cod de autentificare primit prin SMS. Sigur vrei să dezactivezi opțiunea?"
   ],
@@ -84678,6 +84799,9 @@
   ],
   "Wv7HLS": [
     "Drop-uri nou-nouțe, doar pentru tine"
+  ],
+  "WvAqZA": [
+    "Ai obținut o decorațiune gratuită"
   ],
   "Wvc/I+": [
     "Bună dimineața,"
@@ -92521,6 +92645,9 @@
   "ZzAR2Y": [
     "Profil"
   ],
+  "ZzcLhc": [
+    "Dacă am greșit, confirmă că ești adult"
+  ],
   "ZzdgUm": [
     "Canalul nu poate deveni privat"
   ],
@@ -99719,6 +99846,9 @@
   "cHzQ2O": [
     "Contestă carantina"
   ],
+  "cI+bc/": [
+    "Confirmă vârsta"
+  ],
   "cIGvZI": [
     "Plățile eligibile vor fi făcute în decurs de 15 zile de la sfârșitul lunii calendaristice în care a fost câștigat venitul. Pentru mai multe informații despre eligibilitatea pentru plată, vezi Condițiile noastre de monetizare"
   ],
@@ -99892,6 +100022,26 @@
   ],
   "cM8bbx": [
     "Ia-ți Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ai colecționat recompensa exclusivă"
+        ],
+        "other": [
+          "Ai colecționat toate cele ",
+          [
+            7
+          ],
+          " recompense exclusive"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Ramele sunt chenare care îți înconjoară profilul și îți completează aspectul. Membrii Nitro au parte de acces timpuriu. Ia-ți și tu rama perfectă din Magazin."
@@ -108909,6 +109059,9 @@
   "f7aVGn": [
     "Profilul jocului"
   ],
+  "f7c7qE": [
+    "Contul tău face parte din grupa de vârstă a adolescenților, motiv pentru care conținutul și setările destinate adulților nu sunt disponibile. În rest, Discord funcționează la fel."
+  ],
   "f7g0DK": [
     "Înapoi în living"
   ],
@@ -113258,6 +113411,22 @@
   ],
   "gi2swM": [
     "Mesaj trimis și în canalul principal"
+  ],
+  "gi4ulu": [
+    "Faci parte din grupa de vârstă a adulților (18+) și ai acces la ",
+    [
+      8,
+      "$link",
+      [
+        "conținut, spații și setări restricționate în funcție de vârstă"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "gi6XHp": [
     "Trimiți mesaje prea repede!"
@@ -119628,6 +119797,9 @@
   "ivpkNe": [
     "Nu, mulțumesc"
   ],
+  "ivpn6G": [
+    "Alege o decorațiune gratuită pe care s-o păstrezi"
+  ],
   "iw0hFi": [
     [
       8,
@@ -121570,6 +121742,9 @@
   "jjUTL+": [
     "Hub studențesc"
   ],
+  "jjpcno": [
+    "Vezi în setări"
+  ],
   "jkg8Zu": [
     "Canalele de voce sunt perfecte când vrei să stai de vorbă. Alătură-te când ai chef de o discuție, iar prietenii vor putea să te vadă și să ți se alăture. E ca și cum i-ai saluta telepatic."
   ],
@@ -121958,6 +122133,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Grupa ta de vârstă nu a fost confirmată încă, motiv pentru care nu ai acces la o parte din conținutul și din setările destinate adulților. În rest, Discord funcționează la fel."
   ],
   "jsudFd": [
     "Meniu restrâns"
@@ -123001,9 +123179,6 @@
   "kMYVwv": [
     "Primește-ți recompensa"
   ],
-  "kMdneQ": [
-    "Setările de notificare personalizate pentru canal"
-  ],
   "kMgj+e": [
     "Caută servere"
   ],
@@ -123245,7 +123420,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie de la ",
+    " cererea de prietenie de la ",
     [
       1,
       "name"
@@ -127636,6 +127811,9 @@
   ],
   "m8xsti": [
     "Alfabetic"
+  ],
+  "m95jW8": [
+    "Grupa ta de vârstă este neconfirmată"
   ],
   "m9O1gd": [
     "Reacționează"
@@ -134124,9 +134302,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Explorează Magazinul"
-  ],
   "o7DqF3": [
     "Ramificație"
   ],
@@ -136452,6 +136627,9 @@
   ],
   "ozumaN": [
     "Discriminator"
+  ],
+  "ozurym": [
+    "Partajează încorporarea"
   ],
   "ozv9NT": [
     "Afișează toate"
@@ -141208,6 +141386,22 @@
   ],
   "qSctqV": [
     "Ce repede a crescut :') Nu am fi putut face asta fără abonați ca tine. Vom lansa multe surprize Nitro în cursul anului, drept mulțumire că ești tare."
+  ],
+  "qSkhZH": [
+    "Grupurile de vârstă stabilesc dacă poți accesa conținut și setări destinate adulților. În rest, Discord funcționează la fel. Vezi grupa ta de vârstă mai jos și ",
+    [
+      8,
+      "$link",
+      [
+        "află mai multe pe blogul nostru"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "qSq0tD": [
     "Lone Wanderer"
@@ -148326,9 +148520,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Încearcă drept culoarea temei principale"
-  ],
   "sm4HCL": [
     "Ceva nu a mers bine! Încearcă din nou"
   ],
@@ -150128,6 +150319,9 @@
   ],
   "t58lNN": [
     "Alătură-te unui server cu un link de invitație"
+  ],
+  "t5QjmQ": [
+    "Faci parte din grupa de vârstă a adulților"
   ],
   "t5VZ88": [
     "Copiat"
@@ -153118,7 +153312,7 @@
       1,
       "action"
     ],
-    " sugestie de prietenie pentru ",
+    " sugestia de prietenie pentru ",
     [
       1,
       "name"
@@ -156120,6 +156314,22 @@
   "vGs4hr": [
     "Încarcă un fișier"
   ],
+  "vGxRDB": [
+    "Grupurile de vârstă stabilesc dacă poți accesa conținut și setări destinate adulților. În rest, Discord funcționează la fel. Vezi grupa ta de vârstă mai jos și ",
+    [
+      8,
+      "$link",
+      [
+        "află mai multe pe blogul nostru"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Categorie"
   ],
@@ -157674,7 +157884,7 @@
       1,
       "action"
     ],
-    " cerere de prietenie către ",
+    " cererea de prietenie către ",
     [
       1,
       "name"
@@ -161299,7 +161509,7 @@
       1,
       "webBuildOverride"
     ],
-    ", din ",
+    ", build cu data de ",
     [
       1,
       "builtAt"
@@ -164113,6 +164323,23 @@
   ],
   "xunxCo": [
     "Adăugarea unui canal la un nivel de abonament va elimina accesul la acel canal pentru membrii serverului care nu au abonament."
+  ],
+  "xuvWqy": [
+    "Grupa ta de vârstă nu a fost confirmată încă, motiv pentru care nu ai acces la o parte din conținutul și din setările destinate adulților. În rest, Discord funcționează la fel. ",
+    [
+      8,
+      "$link",
+      [
+        "Află mai multe de pe blogul nostru"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Bine ai venit! Acesta este locul în care aparții cu adevărat"
@@ -167888,6 +168115,9 @@
   ],
   "zV0/FC": [
     "Tip mesaj nevalid"
+  ],
+  "zVGHbw": [
+    "Obține o decorațiune gratuită"
   ],
   "zVJxqj": [
     "Trebuie să aibă cel puțin ",

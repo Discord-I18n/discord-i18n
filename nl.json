@@ -300,6 +300,9 @@
   "+7MDbQ": [
     "Schakel meldingen in"
   ],
+  "+7NlgO": [
+    "Meer informatie"
+  ],
   "+7XY31": [
     "Ontgrendel met boosten"
   ],
@@ -2985,6 +2988,9 @@
   ],
   "/8psS7": [
     "Besturing van de activiteit was verwarrend"
+  ],
+  "/8znyU": [
+    "Stuur nog een cadeau om ze allemaal te verzamelen"
   ],
   "/91tbr": [
     "Stuur bericht aan alle gebruikers met deze rol die toestemming hebben om dit kanaal te bekijken."
@@ -9920,6 +9926,37 @@
   "21vmYl": [
     "Vriend is verwijderd."
   ],
+  "221iML": [
+    "Je zit in de leeftijdsgroep voor tieners (13-17), dus je hebt extra bescherming en ",
+    [
+      8,
+      "$link",
+      [
+        "content en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " voor volwassenen zijn niet beschikbaar. Klopt je leeftijdsgroep niet? Dan kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Kanaalstatus wissen"
   ],
@@ -15262,6 +15299,9 @@
   "417A+c": [
     "Verzilveren"
   ],
+  "41MDhK": [
+    "Je zit in de leeftijdsgroep van tieners"
+  ],
   "41NIIh": [
     "Waarom verander je van e-mailadres?"
   ],
@@ -16389,9 +16429,6 @@
     ],
     " geïndexeerd tot nu toe. We indexeren nog steeds oudere berichten."
   ],
-  "4Y84j2": [
-    "Themakleuren voor accenten uitproberen"
-  ],
   "4YLtzC": [
     "Kanaal verwijderd uit 'Nu actief'"
   ],
@@ -16628,7 +16665,7 @@
     "Je kunt beloningen gebruiken zolang je huidige abonnement actief blijft. Als je opzegt, verdwijnen alle beloningen."
   ],
   "4cFeIa": [
-    "Poolschot"
+    "Pool Shot"
   ],
   "4cGHIl": [
     "[",
@@ -26292,6 +26329,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Leeftijdsgroepen bepalen of je toegang kunt krijgen tot content en instellingen die voor volwassenen zijn bedoeld. Je zit in de volwassen leeftijdsgroep, dus er verandert niets voor jou. ",
+    [
+      8,
+      "$link",
+      [
+        "Lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Kanaalmachtigingen maken"
   ],
@@ -28931,7 +28984,7 @@
     "Andere"
   ],
   "9bEWZJ": [
-    "Ratings"
+    "Beoordelingen"
   ],
   "9bYj+G": [
     "Stream gestopt"
@@ -33813,12 +33866,12 @@
     " geleden"
   ],
   "Ba/7wO": [
-    "Nitro-leden verdienen ",
+    "Nitro-leden verdienen overal ",
     [
       1,
       "multiplier"
     ],
-    "x op alles"
+    "x Orbs mee"
   ],
   "BaI6L4": [
     "Vraag de ouder/verzorger/voogd om de toegang te herstellen via de instellingen voor ouderlijk toezicht van de App Store (Apple of Google Play)."
@@ -34523,6 +34576,9 @@
   ],
   "BozOXu": [
     "Je hebt de mogelijkheid je externe account aan Discord te koppelen voor extra functies en toegang tot deze server."
+  ],
+  "Bp/1dq": [
+    "Meer informatie vind je in onze blog"
   ],
   "Bp2/ni": [
     "Als je vertrekt, blokkeer of negeer je deze gebruiker(s) nog steeds."
@@ -36614,7 +36670,7 @@
     "Bepaal de snelheid waarmee tekst wordt voorgelezen bij het gebruik van 'Bericht voorlezen' of andere tekst-naar-spraak-functies."
   ],
   "Ci7gvp": [
-    "Meer opties, badge ",
+    "Meer opties, ",
     [
       1,
       "position"
@@ -36623,7 +36679,8 @@
     [
       1,
       "badgeName"
-    ]
+    ],
+    " badge"
   ],
   "Cia+A8": [
     "App openen"
@@ -39845,7 +39902,7 @@
     "Laat maar zien"
   ],
   "ELmvIk": [
-    "Schot op doel"
+    "Shot on Goal"
   ],
   "EM/Ieo": [
     "Hm, dat werkte niet. Controleer of het hoofdlettergebruik, de spelling, de spaties en de cijfers kloppen."
@@ -45136,6 +45193,23 @@
   "GZxoUb": [
     "Posts sorteren"
   ],
+  "Ga2z/E": [
+    "Je account valt in de leeftijdsgroep tieners, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde. ",
+    [
+      8,
+      "$link",
+      [
+        "Als dit niet klopt, bevestig dan dat je volwassen bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recensies"
   ],
@@ -45338,8 +45412,11 @@
   "GdNkvG": [
     "Verlanglijstacties"
   ],
+  "GdTVPF": [
+    "We hebben extra bescherming gestart voor tieners"
+  ],
   "GdVA11": [
-    "Gesloopt"
+    "Demolished"
   ],
   "Gde9Ve": [
     "Maak een server voor je hackathon"
@@ -46441,7 +46518,7 @@
     "Releasedatum"
   ],
   "H3pTAa": [
-    "Selecteer hoeveelheid"
+    "Selecteer de hoeveelheid"
   ],
   "H3vhqU": [
     "Naambordje kopen"
@@ -46899,6 +46976,22 @@
   ],
   "HGCLZX": [
     "Plaats je favoriete stickers, waar je ook aan het chatten bent."
+  ],
+  "HGJo1F": [
+    "Sommige instellingen kunnen alleen worden gewijzigd als je in de volwassen leeftijdsgroep zit. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Wil je een geanimeerde avatar?"
@@ -49428,7 +49521,7 @@
     "Probeer Soundboard uit op mobiel!"
   ],
   "IJqCEW": [
-    "Sloop"
+    "Demolition"
   ],
   "IJyOUf": [
     "Sleep en plaats of klik om bestand te uploaden"
@@ -63748,7 +63841,7 @@
     "Meta Quest"
   ],
   "OPgONO": [
-    "Episch redding"
+    "Epic Save"
   ],
   "OPsckI": [
     "Peiling aangemaakt!"
@@ -66293,6 +66386,22 @@
   "PMsq/b": [
     "Vriendschapsverzoek sturen"
   ],
+  "PMznGO": [
+    "Leeftijdsgroepen bepalen of je toegang kunt krijgen tot content en instellingen die voor volwassenen zijn bedoeld. Je zit in de volwassen leeftijdsgroep (18+), dus er verandert niets voor jou. ",
+    [
+      8,
+      "$link",
+      [
+        "Lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Plaats geen leeftijdsgebonden of ongepaste content. Hieronder vallen teksten, beelden of links die naaktheid, seks, grof geweld of andere visueel verontrustende content bevatten."
   ],
@@ -68588,7 +68697,7 @@
     "Start"
   ],
   "QOC6N4": [
-    "Omdraaien resetten"
+    "Flip Reset"
   ],
   "QOQlWa": [
     "Er ging iets fout bij het scannen."
@@ -78521,7 +78630,7 @@
     "Geen medewerker"
   ],
   "UWycjR": [
-    "Selecteer duur"
+    "Selecteer de duur"
   ],
   "UXWUtm": [
     "Je hebt de regels overtreden met betrekking tot ",
@@ -82114,6 +82223,37 @@
   "W0+LsV": [
     "24 uur"
   ],
+  "W0/7DD": [
+    "Je leeftijdsgroep is nog niet bevestigd, dus ",
+    [
+      8,
+      "$link",
+      [
+        "sommige content en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " die bedoeld zijn voor volwassenen zijn pas beschikbaar als je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigt dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Hiermee wordt de mogelijkheid om in te loggen met een authenticatiecode via sms verwijderd. Weet je zeker dat je deze functie wilt verwijderen?"
   ],
@@ -84446,6 +84586,9 @@
   ],
   "Wv7HLS": [
     "Nieuwe spulletjes, speciaal voor jou"
+  ],
+  "WvAqZA": [
+    "Je hebt een gratis versiering verdiend"
   ],
   "Wvc/I+": [
     "Goedemorgen,"
@@ -92257,6 +92400,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Als dit niet klopt, bevestig dan dat je volwassen bent"
+  ],
   "ZzdgUm": [
     "Kan kanaal niet privé maken"
   ],
@@ -99174,6 +99320,9 @@
   "cHzQ2O": [
     "Bezwaar maken tegen quarantaine"
   ],
+  "cI+bc/": [
+    "Leeftijd bevestigen"
+  ],
   "cIGvZI": [
     "Goedgekeurde betalingen worden overgemaakt binnen 15 dagen na het einde van de kalendermaand waarin de inkomsten zijn vergaard. Meer informatie over de goedkeuring van betalingen vind je in onze Monetisatievoorwaarden"
   ],
@@ -99354,6 +99503,26 @@
   ],
   "cM8bbx": [
     "Koop Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Je hebt de exclusieve beloning verzameld"
+        ],
+        "other": [
+          "Je hebt alle ",
+          [
+            7
+          ],
+          " exclusieve beloningen verzameld"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Lijsten zijn randen voor je profiel die je look helemaal afmaken. Als Nitro-lid krijg je eerder toegang. Zoek er een uit in de winkel."
@@ -107737,6 +107906,14 @@
   "ez/N/R": [
     "Kan zien wie er in de server is en of er wijzigingen zijn op het gebied van hun rollen, bijnamen en machtigingen."
   ],
+  "ezJA0R": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten. Je hebt een tieneraccount. Klopt dat niet? Bevestig dan dat je een volwassene bent."
+  ],
   "ezLpY6": [
     "Verlaat het podium"
   ],
@@ -108093,6 +108270,9 @@
   ],
   "f7aVGn": [
     "Gameprofiel"
+  ],
+  "f7c7qE": [
+    "Je account valt in de leeftijdsgroep tieners, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde."
   ],
   "f7g0DK": [
     "Terug naar woonkamer"
@@ -110648,7 +110828,7 @@
     " (groepsbericht)"
   ],
   "fxxYiB": [
-    "Bericht #general"
+    "Bericht sturen #general"
   ],
   "fyA115": [
     "Vriendschapsverzoeken"
@@ -112401,6 +112581,23 @@
   "gi2swM": [
     "Bericht ook verstuurd naar het hoofdkanaal"
   ],
+  "gi4ulu": [
+    "Je zit in de volwassen leeftijdsgroep (18+) en je hebt dus toegang tot ",
+    [
+      8,
+      "$link",
+      [
+        "leeftijdsgebonden content, ruimtes en instellingen"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Je verzendt berichten te snel!"
   ],
@@ -113461,6 +113658,14 @@
   ],
   "h48QWG": [
     "Posts"
+  ],
+  "h4HbnI": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten. Bevestig dat je een volwassene bent voor toegang tot leeftijdsgebonden content, ruimtes en instellingen."
   ],
   "h4WIYV": [
     "Gebruik ",
@@ -116798,6 +117003,14 @@
   "iJA/TE": [
     "Toegevoegd aan Favorieten"
   ],
+  "iK0n30": [
+    "Dit kanaal is door de beheerders van ",
+    [
+      1,
+      "guildName"
+    ],
+    " beperkt tot volwassenen (18+) en hij kan gevoelige content bevatten."
+  ],
   "iKAdpR": [
     "Upgrade om al het aangepaste lekkers te krijgen."
   ],
@@ -118578,6 +118791,9 @@
   ],
   "ivpkNe": [
     "Nee, bedankt"
+  ],
+  "ivpn6G": [
+    "Kies een gratis versiering die voor altijd van jou blijft"
   ],
   "iw0hFi": [
     [
@@ -120514,6 +120730,9 @@
   "jjUTL+": [
     "Studentenhub"
   ],
+  "jjpcno": [
+    "Bekijken in instellingen"
+  ],
   "jkg8Zu": [
     "Spraakkanalen zijn bedoeld om lekker te hangen. Dus kom er vooral bij als je zin hebt in een gesprek. Vrienden kunnen je zien en meedoen. Alsof je telepathisch hallo zegt."
   ],
@@ -120894,6 +121113,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Je leeftijdsgroep is nog niet bevestigd, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde."
   ],
   "jsudFd": [
     "Ingevouwen"
@@ -121940,9 +122162,6 @@
   ],
   "kMYVwv": [
     "Claim je beloning"
-  ],
-  "kMdneQ": [
-    "Aangepaste meldingsinstellingen van het kanaal"
   ],
   "kMgj+e": [
     "Servers zoeken"
@@ -123435,6 +123654,22 @@
   ],
   "l+S46U": [
     "Geanimeerd"
+  ],
+  "l+jt8J": [
+    "Je zit in de leeftijdsgroep voor tieners, dus berichtverzoeken kunnen niet worden uitgeschakeld. Als dit niet klopt, kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Verander je stem om een heel ander geluid te laten horen en nog meer lol te hebben tijdens oproepen!"
@@ -126510,6 +126745,9 @@
   ],
   "m8xsti": [
     "Alfabetisch"
+  ],
+  "m95jW8": [
+    "Je leeftijdsgroep is onbevestigd"
   ],
   "m9O1gd": [
     "Reageren"
@@ -132839,9 +133077,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Verken de winkel"
-  ],
   "o7DqF3": [
     "Tak"
   ],
@@ -135146,6 +135381,9 @@
   ],
   "ozumaN": [
     "Identificatiecijfers"
+  ],
+  "ozurym": [
+    "Insluiting delen"
   ],
   "ozv9NT": [
     "Alles tonen"
@@ -139725,6 +139963,22 @@
   "qSctqV": [
     "Wat worden ze snel groot :') en dat was nooit gelukt zonder abonnees als jij. Bedankt dat je zo geweldig bent en hou ons in de gaten voor meer Nitro-goodies dit jaar."
   ],
+  "qSkhZH": [
+    "Leeftijdsgroepen bepalen of je toegang hebt tot content en instellingen voor volwassenen. Voor de rest werkt Discord hetzelfde. Bekijk je leeftijdsgroep hieronder en ",
+    [
+      8,
+      "$link",
+      [
+        "lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -140101,6 +140355,22 @@
   ],
   "qaYzPA": [
     "Evenement eindigen"
+  ],
+  "qbBkFI": [
+    "Je zit in de leeftijdsgroep tieners, dus sommige instellingen kunnen niet worden gewijzigd. Als dit niet klopt, kun je ",
+    [
+      8,
+      "$link",
+      [
+        "bevestigen dat je een volwassene bent"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Abonnement annuleren"
@@ -140645,7 +140915,7 @@
     ]
   ],
   "quJD0Y": [
-    "Opent reviews in de App Store."
+    "Opent reviews in de appstore."
   ],
   "question": [
     "?",
@@ -146630,9 +146900,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Primaire-themakleuren uitproberen"
-  ],
   "sm4HCL": [
     "Er is iets fout gegaan. Probeer het nog eens"
   ],
@@ -148260,6 +148527,9 @@
   "t58lNN": [
     "Aan server deelnemen met een uitnodigingslink"
   ],
+  "t5QjmQ": [
+    "Je zit in de volwassen leeftijdsgroep"
+  ],
   "t5VZ88": [
     "Gekopieerd"
   ],
@@ -148574,6 +148844,22 @@
   ],
   "tGYbvd": [
     "Geplande evenementen"
+  ],
+  "tGsCdS": [
+    "Berichtverzoeken kunnen alleen worden uitgeschakeld als je in de volwassen leeftijdsgroep zit. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Je hebt geen toegang tot deze hangplek"
@@ -154118,6 +154404,22 @@
   "vGs4hr": [
     "Bestand uploaden"
   ],
+  "vGxRDB": [
+    "Leeftijdsgroepen bepalen of je toegang hebt tot content en instellingen voor volwassenen. Voor de rest werkt Discord hetzelfde. Bekijk je leeftijdsgroep hieronder en ",
+    [
+      8,
+      "$link",
+      [
+        "lees er meer over op onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Categorie"
   ],
@@ -156967,7 +157269,7 @@
     "."
   ],
   "wK1svU": [
-    "Content Rating"
+    "Geschikt voor"
   ],
   "wK78Qv": [
     "Je hebt ervoor gekozen om dit berichtverzoek te negeren. Wil je deze gebruiker blokkeren om toekomstige berichten te voorkomen?"
@@ -159139,7 +159441,7 @@
       1,
       "webBuildOverride"
     ],
-    ", built ",
+    ", gemaakt ",
     [
       1,
       "builtAt"
@@ -161918,6 +162220,23 @@
   ],
   "xunxCo": [
     "Als je een kanaal toevoegt aan een abonnementsniveau, hebben serverleden die geen serverabonnee zijn er geen toegang meer toe."
+  ],
+  "xuvWqy": [
+    "Je leeftijdsgroep is nog niet bevestigd, daarom zijn sommige content en instellingen voor volwassenen niet beschikbaar. Verder werkt Discord precies hetzelfde. ",
+    [
+      8,
+      "$link",
+      [
+        "Meer informatie vind je in onze blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Welkom! Je hoort hier thuis"
@@ -165686,6 +166005,9 @@
   ],
   "zV0/FC": [
     "Ongeldig type bericht"
+  ],
+  "zVGHbw": [
+    "Pak een gratis versiering"
   ],
   "zVJxqj": [
     "Moet minstens ",

@@ -300,6 +300,9 @@
   "+7MDbQ": [
     "Attiva le notifiche"
   ],
+  "+7NlgO": [
+    "Scopri di più"
+  ],
   "+7XY31": [
     "Sblocca con potenziamento"
   ],
@@ -1481,7 +1484,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia da ",
+    " richiesta di amicizia da ",
     [
       1,
       "name"
@@ -2986,6 +2989,9 @@
   ],
   "/8psS7": [
     "I controlli dell'attività non erano chiari"
+  ],
+  "/8znyU": [
+    "Invia un altro regalo per collezionarle tutte"
   ],
   "/91tbr": [
     "Invia una notifica a tutti gli utenti che hanno questo ruolo e i permessi per vedere il canale."
@@ -9989,6 +9995,37 @@
   "21vmYl": [
     "Amicizia rimossa."
   ],
+  "221iML": [
+    "Fai parte del gruppo di età degli adolescenti (13-17), perciò sono attive protezioni ulteriori e non puoi accedere a ",
+    [
+      8,
+      "$link",
+      [
+        "impostazioni e contenuti"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinati agli adulti. Se il tuo gruppo di età non è corretto, puoi ",
+    [
+      8,
+      "$link",
+      [
+        "confermare di essere un adulto"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Cancella stato del canale"
   ],
@@ -15359,6 +15396,9 @@
   "417A+c": [
     "Riscatta"
   ],
+  "41MDhK": [
+    "Sei nel gruppo di età degli adolescenti"
+  ],
   "41NIIh": [
     "Perché stai cambiando la tua e-mail?"
   ],
@@ -16469,9 +16509,6 @@
       "cardinal"
     ],
     ". L'indicizzazione dei vecchi messaggi è ancora in corso."
-  ],
-  "4Y84j2": [
-    "Prova il colore secondario del tema"
   ],
   "4YLtzC": [
     "Canale rimosso da Attivi ora"
@@ -26400,6 +26437,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "I gruppi di età determinano se puoi accedere a impostazioni e contenuti destinati agli adulti. Fai parte del gruppo di età degli adulti, quindi per te non cambia nulla. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più sul nostro blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Creare permessi canale"
   ],
@@ -28495,7 +28548,6 @@
     "Scarica un'app di verifica"
   ],
   "9EQix0": [
-    "Limite di membri: ",
     [
       1,
       "numMembers"
@@ -28504,7 +28556,8 @@
     [
       1,
       "maxMemberLimit"
-    ]
+    ],
+    " membri"
   ],
   "9ESaO7": [
     "Modifica il profilo specifico del server"
@@ -34315,7 +34368,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia a ",
+    " richiesta di amicizia a ",
     [
       1,
       "name"
@@ -34736,6 +34789,9 @@
   ],
   "BozOXu": [
     "Potresti collegare il tuo account esterno con Discord per funzionalità aggiuntive e potere accedere a questo server."
+  ],
+  "Bp/1dq": [
+    "Scopri di più nel nostro blog"
   ],
   "Bp2/ni": [
     "Anche se abbandoni, blocca o ignora resteranno attivi."
@@ -37950,7 +38006,7 @@
     ]
   ],
   "DIyQIF": [
-    "Thread aggiunti automaticamente"
+    "Aggiungi automaticamente thread"
   ],
   "DJ+bGu": [
     "Il tuo ruolo e la tua icona"
@@ -45343,6 +45399,23 @@
   "GZxoUb": [
     "Ordina post"
   ],
+  "Ga2z/E": [
+    "Il tuo account è stato associato al gruppo d'età degli adolescenti, quindi le impostazioni e i contenuti destinati agli adulti non sono disponibili. ",
+    [
+      8,
+      "$link",
+      [
+        "Se si tratta di un errore, conferma di essere maggiorenne"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Recensioni"
   ],
@@ -45543,6 +45616,9 @@
   ],
   "GdNkvG": [
     "Azioni lista dei desideri"
+  ],
+  "GdTVPF": [
+    "Abbiamo introdotto ulteriori protezioni per gli adolescenti"
   ],
   "GdVA11": [
     "Demolito"
@@ -47117,6 +47193,22 @@
   ],
   "HGCLZX": [
     "Lascia i tuoi adesivi preferiti ovunque stai chattando."
+  ],
+  "HGJo1F": [
+    "Alcune impostazioni sono modificabili solo se fai parte del gruppo di età degli adulti. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Vuoi un avatar animato?"
@@ -52475,7 +52567,7 @@
     "Inglese, Regno Unito"
   ],
   "JR+Zws": [
-    "Limite ",
+    "Limite: ",
     [
       2,
       "maxCredits"
@@ -61062,7 +61154,7 @@
     "Domani dovrai dire addio al badge! Mantienilo finché puoi."
   ],
   "NBm6jz": [
-    "Posizionamento della nota accanto a ",
+    "Stai posizionando la nota accanto a ",
     [
       1,
       "targetLabel"
@@ -62935,7 +63027,7 @@
     "Il gioco attuale è in esecuzione come amministratore. Riavvia Discord come amministratore per attivare l'associazione tasti dell'overlay."
   ],
   "Nt0tz7": [
-    "L'orario programmato è troppo lontano"
+    "Il momento di invio è troppo lontano"
   ],
   "NtauHv": [
     "defi"
@@ -66645,6 +66737,22 @@
   ],
   "PMsq/b": [
     "Invia richiesta di amicizia"
+  ],
+  "PMznGO": [
+    "I gruppi di età determinano se puoi accedere a impostazioni e contenuti destinati agli adulti. Fai parte del gruppo di età degli adulti (18+), quindi per te non cambia nulla. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più sul nostro blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "PNIDDJ": [
     "Niente contenuti osceni o soggetti a limiti di età. Ciò include testi, immagini o link contenenti nudità, sesso, violenza brutale o altri contenuti esplicitamente scioccanti."
@@ -73146,7 +73254,7 @@
     ]
   ],
   "SBcdAN": [
-    "Modifica l'orario programmato"
+    "Modifica momento di invio"
   ],
   "SBd+Bs": [
     "< 1H RESTANTE"
@@ -82506,6 +82614,37 @@
   "W0+LsV": [
     "24 ore"
   ],
+  "W0/7DD": [
+    "Il tuo gruppo di età deve essere ancora confermato, quindi certi ",
+    [
+      8,
+      "$link",
+      [
+        "contenuti e impostazioni"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " destinati agli adulti non saranno disponibili fino a quando non ",
+    [
+      8,
+      "$link",
+      [
+        "confermerai di essere un adulto"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "In questo modo non avrai la possibilità di accedere con un codice di verifica tramite SMS. Vuoi davvero rimuovere questa opzione?"
   ],
@@ -84892,6 +85031,9 @@
   ],
   "Wv7HLS": [
     "Nuovi drop tutti per te"
+  ],
+  "WvAqZA": [
+    "Hai ottenuto una decorazione gratis"
   ],
   "Wvc/I+": [
     "Buongiorno,"
@@ -92733,6 +92875,9 @@
   "ZzAR2Y": [
     "Profilo"
   ],
+  "ZzcLhc": [
+    "Se si tratta di un errore, conferma di essere maggiorenne"
+  ],
   "ZzdgUm": [
     "Impossibile rendere privato il canale"
   ],
@@ -99952,6 +100097,9 @@
   "cHzQ2O": [
     "Contesta quarantena"
   ],
+  "cI+bc/": [
+    "Conferma età"
+  ],
   "cIGvZI": [
     "I pagamenti idonei saranno versati entro 15 giorni dalla fine del mese solare nel quale è stato ottenuto il ricavo. Per ulteriori informazioni sull'idoneità dei pagamenti, leggi i nostri Termini di monetizzazione"
   ],
@@ -100135,6 +100283,26 @@
   ],
   "cM8bbx": [
     "Ottieni Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Hai ottenuto la ricompensa esclusiva"
+        ],
+        "other": [
+          "Hai ottenuto tutte e ",
+          [
+            7
+          ],
+          " le ricompense esclusive"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Le cornici sono bordi del profilo che completano il tuo look. I membri Nitro ottengono l'accesso anticipato. Trova le cornici nel negozio."
@@ -106615,7 +106783,7 @@
     "!"
   ],
   "eD6Yq0": [
-    "Mostra sul tuo profilo."
+    "Mostralo sul tuo profilo."
   ],
   "eDBuF8": [
     [
@@ -108816,6 +108984,14 @@
   "ez/N/R": [
     "Può vedere chi si trova nel server e le modifiche del suo ruolo, nickname e permessi."
   ],
+  "ezJA0R": [
+    "Gli amministratori di ",
+    [
+      1,
+      "guildName"
+    ],
+    " hanno limitato questo canale agli adulti (18+) in quanto potrebbe includere contenuti sensibili. Il tuo account appartiene al gruppo di età degli adolescenti. Se si tratta di un errore, conferma di essere maggiorenne."
+  ],
   "ezLpY6": [
     "Abbandona la conferenza"
   ],
@@ -109165,6 +109341,9 @@
   ],
   "f7aVGn": [
     "Profilo del gioco"
+  ],
+  "f7c7qE": [
+    "Il tuo account è stato associato al gruppo d'età degli adolescenti, quindi le impostazioni e i contenuti destinati agli adulti non sono disponibili. A parte questo, la tua esperienza resta invariata."
   ],
   "f7g0DK": [
     "Torna al Salotto"
@@ -111867,7 +112046,7 @@
     " (messaggio di gruppo)"
   ],
   "fxxYiB": [
-    "Messaggio #generale"
+    "Scrivi messaggio in #generale"
   ],
   "fyA115": [
     "Richieste di amicizia"
@@ -113633,6 +113812,23 @@
   "gi2swM": [
     "Messaggio inviato anche nel canale principale"
   ],
+  "gi4ulu": [
+    "Fai parte del gruppo di età degli adulti (18+) e puoi accedere a ",
+    [
+      8,
+      "$link",
+      [
+        "impostazioni, spazi e contenuti soggetti a limiti di età"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Stai inviando troppi messaggi di fila!"
   ],
@@ -114753,6 +114949,14 @@
   ],
   "h48QWG": [
     "Post"
+  ],
+  "h4HbnI": [
+    "Gli amministratori di ",
+    [
+      1,
+      "guildName"
+    ],
+    " hanno limitato questo canale agli adulti (18+) in quanto potrebbe includere contenuti sensibili. Conferma di essere un adulto per accedere a spazi, impostazioni e contenuti soggetti a limiti di età."
   ],
   "h4WIYV": [
     "Usa ",
@@ -118202,6 +118406,14 @@
   "iJA/TE": [
     "Nei preferiti"
   ],
+  "iK0n30": [
+    "Gli amministratori di ",
+    [
+      1,
+      "guildName"
+    ],
+    " hanno limitato questo canale agli adulti (18+) in quanto potrebbe includere contenuti sensibili."
+  ],
   "iKAdpR": [
     "Fai l'upgrade per ottenere tutte le personalizzazioni."
   ],
@@ -119987,6 +120199,9 @@
   ],
   "ivpkNe": [
     "No, grazie"
+  ],
+  "ivpn6G": [
+    "Scegli una decorazione gratis da tenere"
   ],
   "iw0hFi": [
     [
@@ -121929,6 +122144,9 @@
   "jjUTL+": [
     "Hub studenti"
   ],
+  "jjpcno": [
+    "Visualizza in Impostazioni"
+  ],
   "jkg8Zu": [
     "I canali vocali servono a spassarsela. Quando avrai voglia di parlare, facci un salto. Gli amici saranno in grado di vederti e di unirsi a te. È come usare la telepatia per salutarsi."
   ],
@@ -122312,6 +122530,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Il tuo gruppo d'età deve essere ancora confermato, quindi certi contenuti e impostazioni destinati agli adulti non sono disponibili. A parte questo, la tua esperienza resta invariata."
   ],
   "jsudFd": [
     "Dimensioni ridotte"
@@ -123371,9 +123592,6 @@
   "kMYVwv": [
     "Riscatta la tua ricompensa"
   ],
-  "kMdneQ": [
-    "Le impostazioni personalizzate delle notifiche del canale"
-  ],
   "kMgj+e": [
     "Cerca server"
   ],
@@ -123615,7 +123833,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia da ",
+    " richiesta di amicizia da ",
     [
       1,
       "name"
@@ -124862,6 +125080,22 @@
   ],
   "l+S46U": [
     "Animati"
+  ],
+  "l+jt8J": [
+    "Fai parte del gruppo di età degli adolescenti, quindi le richieste di messaggio non possono essere disattivate. Se si tratta di un errore, puoi ",
+    [
+      8,
+      "$link",
+      [
+        "confermare di essere un adulto"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Trasforma la tua voce per esprimerti e divertirti ancora di più durante le chiamate!"
@@ -128018,6 +128252,9 @@
   ],
   "m8xsti": [
     "Alfabetico"
+  ],
+  "m95jW8": [
+    "Il tuo gruppo di età non è confermato"
   ],
   "m9O1gd": [
     "Reagisci"
@@ -134658,9 +134895,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Esplora il negozio"
-  ],
   "o7DqF3": [
     "Sezione"
   ],
@@ -137015,6 +137249,9 @@
   ],
   "ozumaN": [
     "Suffisso"
+  ],
+  "ozurym": [
+    "Condividi incorporamento"
   ],
   "ozv9NT": [
     "Mostra tutti"
@@ -141783,6 +142020,22 @@
   "qSctqV": [
     "Crescono così in fretta :') e non ce l'avremmo mai fatta senza abbonati come te. Non perderti le altre sorprese Nitro di quest'anno. Grazie per la tua miticità."
   ],
+  "qSkhZH": [
+    "I gruppi di età determinano se puoi accedere a impostazioni e contenuti destinati agli adulti. A parte questo, la tua esperienza resta invariata. Fai parte del gruppo di età degli adulti, quindi per te non cambia nulla. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più sul nostro blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -142159,6 +142412,22 @@
   ],
   "qaYzPA": [
     "Termina evento"
+  ],
+  "qbBkFI": [
+    "Fai parte del gruppo di età degli adolescenti, quindi alcune impostazioni non sono modificabili. Se si tratta di un errore, puoi ",
+    [
+      8,
+      "$link",
+      [
+        "confermare di essere un adulto"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Cancella abbonamento"
@@ -148964,9 +149233,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Prova il colore primario del tema"
-  ],
   "sm4HCL": [
     "Qualcosa è andato storto. Riprova."
   ],
@@ -150697,6 +150963,9 @@
   "t58lNN": [
     "Entra in un server con un link d'invito"
   ],
+  "t5QjmQ": [
+    "Sei nel gruppo di età degli adulti"
+  ],
   "t5VZ88": [
     "Copiato"
   ],
@@ -150995,6 +151264,22 @@
   ],
   "tGYbvd": [
     "Eventi programmati"
+  ],
+  "tGsCdS": [
+    "Puoi disattivare le richieste di messaggio solo se fai parte del gruppo di età degli adulti. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Non hai accesso a questo ritrovo"
@@ -156687,6 +156972,22 @@
   "vGs4hr": [
     "Carica un file"
   ],
+  "vGxRDB": [
+    "I gruppi di età determinano se puoi accedere a impostazioni e contenuti destinati agli adulti. A parte questo, la tua esperienza resta invariata. Fai parte del gruppo di età degli adulti, quindi per te non cambia nulla. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più sul nostro blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Categoria"
   ],
@@ -158273,7 +158574,7 @@
       1,
       "action"
     ],
-    " una richiesta di amicizia a ",
+    " richiesta di amicizia a ",
     [
       1,
       "name"
@@ -158810,7 +159111,7 @@
     "Puoi cambiarlo in qualsiasi momento."
   ],
   "w/fgvh": [
-    "L'orario programmato è troppo vicino"
+    "Il momento di invio è troppo vicino"
   ],
   "w/mIMw": [
     "Attiva il tag del server"
@@ -164690,6 +164991,23 @@
   "xunxCo": [
     "Se aggiungi un canale a un livello di abbonamento rimuoverai l'accesso ai membri del server che non sono abbonati."
   ],
+  "xuvWqy": [
+    "Il tuo gruppo d'età deve essere ancora confermato, quindi certi contenuti e impostazioni destinati agli adulti non sono disponibili. A parte questo, la tua esperienza resta invariata. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più nel nostro blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "xv5g7B": [
     "Accomodati! Sei di casa qui"
   ],
@@ -168455,6 +168773,9 @@
   ],
   "zV0/FC": [
     "Tipo di messaggio non valido"
+  ],
+  "zVGHbw": [
+    "Ottieni una decorazione gratis"
   ],
   "zVJxqj": [
     "Deve avere almeno ",

@@ -296,6 +296,9 @@
   "+7MDbQ": [
     "Ota ilmoitukset käyttöön"
   ],
+  "+7NlgO": [
+    "Lue lisää"
+  ],
   "+7XY31": [
     "Avaa nostatuksella"
   ],
@@ -9797,6 +9800,36 @@
   "21vmYl": [
     "Kaveri on poistettu."
   ],
+  "221iML": [
+    "Kuulut teinien ikäryhmään (13–17-v.), joten tiettyjä lisäsuojauksia sovelletaan eivätkä aikuisille tarkoitetut ",
+    [
+      8,
+      "$link",
+      [
+        "sisällöt ja asetukset"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " ole käytettävissä. Jos ikäryhmäsi ei pidä paikkaansa, voit ",
+    [
+      8,
+      "$link",
+      [
+        "vahvistaa olevasi aikuinen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "22CYiZ": [
     "Tyhjennä kanavan tila"
   ],
@@ -15028,6 +15061,9 @@
   ],
   "417A+c": [
     "Lunasta"
+  ],
+  "41MDhK": [
+    "Kuulut teinien ikäryhmään"
   ],
   "41NIIh": [
     "Miksi olet vaihtamassa sähköpostiasi?"
@@ -25882,6 +25918,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Aikuisille tarkoitetut sisällöt ja asetukset ovat käytettävissä ikäryhmän mukaan. Kuulut aikuisten ikäryhmään, joten mikään ei muutu kohdallasi. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää blogistamme"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Kanavan oikeuksien luonti"
   ],
@@ -34104,6 +34156,9 @@
   ],
   "BozOXu": [
     "Voit valinnaisesti linkittää ulkoisen tilisi Discordiin, niin saat käyttöösi lisäominaisuuksia ja pääsyn tälle palvelimelle."
+  ],
+  "Bp/1dq": [
+    "Lue lisää blogista"
   ],
   "Bp2/ni": [
     "Jos poistut, käyttäjä pysyy edelleen estettynä tai ohitettuna."
@@ -44587,6 +44642,23 @@
   "GZxoUb": [
     "Lajittele viestit"
   ],
+  "Ga2z/E": [
+    "Tilisi kuuluu teinien ikäryhmään, joten aikuisille tarkoitetut sisällöt ja asetukset eivät ole käytettävissä. Discordin käyttökokemuksesi pysyy muilta osin samana. ",
+    [
+      8,
+      "$link",
+      [
+        "Jos olemme tehneet virheen, vahvista olevasi aikuinen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Arvostelut"
   ],
@@ -44785,6 +44857,9 @@
   ],
   "GdNkvG": [
     "Toivelistatoiminnot"
+  ],
+  "GdTVPF": [
+    "Olemme ottaneet käyttöön lisäsuojauksia teineille"
   ],
   "GdVA11": [
     "Tuhoutuminen"
@@ -65488,6 +65563,22 @@
   "PMsq/b": [
     "Lähetä kaveripyyntö"
   ],
+  "PMznGO": [
+    "Aikuisille tarkoitetut sisällöt ja asetukset ovat käytettävissä ikäryhmän mukaan. Kuulut aikuisten ikäryhmään (väh. 18-v.), joten mikään ei muutu kohdallasi. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää blogistamme"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Älä julkaise ikärajoitettua tai sopimatonta sisältöä. Sillä tarkoitetaan tekstiä, kuvia tai linkkejä aineistoon, jossa kuvataan alastomuutta, seksiä, raakaa väkivaltaa tai muuta häiritsevää sisältöä."
   ],
@@ -81153,6 +81244,36 @@
   "W0+LsV": [
     "24 tuntia"
   ],
+  "W0/7DD": [
+    "Ikäryhmääsi ei vielä ole vahvistettu, joten ",
+    [
+      8,
+      "$link",
+      [
+        "osa aikuisille tarkoitetuista sisällöistä ja asetuksista"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " ei ole käytettävissä, ennen kuin ",
+    [
+      8,
+      "$link",
+      [
+        "olet vahvistanut olevasi aikuinen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
+  ],
   "W0/Duf": [
     "Tämä poistaa kyvyn kirjautua tekstiviestitse lähetetyllä todennuskoodilla. Haluatko varmasti poistaa tämän käytöstä?"
   ],
@@ -91126,6 +91247,9 @@
   "ZzAR2Y": [
     "Biografia"
   ],
+  "ZzcLhc": [
+    "Jos tässä on tapahtunut virhe, vahvista olevasi aikuinen"
+  ],
   "ZzdgUm": [
     "Kanavasta ei voi tehdä yksityistä"
   ],
@@ -97739,6 +97863,9 @@
   ],
   "cHzQ2O": [
     "Hae karanteenin kumoamista"
+  ],
+  "cI+bc/": [
+    "Vahvista ikä"
   ],
   "cIGvZI": [
     "Kelvolliset maksut maksetaan 15 päivän kuluessa sen kalenterikuukauden päättymisestä, jolloin ne on ansaittu. Lisätietoja maksujen kelpoisuudesta on rahallistamisehdoissa"
@@ -106276,6 +106403,9 @@
   "f7aVGn": [
     "Pelin profiili"
   ],
+  "f7c7qE": [
+    "Tilisi kuuluu teinien ikäryhmään, joten aikuisille tarkoitetut sisällöt ja asetukset eivät ole käytettävissä. Discordin käyttökokemuksesi pysyy muilta osin samana."
+  ],
   "f7g0DK": [
     "Takaisin olohuoneeseen"
   ],
@@ -110429,6 +110559,23 @@
   ],
   "gi2swM": [
     "Viesti lähetetty myös pääkanavalle"
+  ],
+  "gi4ulu": [
+    "Kuulut aikuisten ikäryhmään (väh. 18-v.), joten ",
+    [
+      8,
+      "$link",
+      [
+        "ikärajoitettu sisällöt, tilat ja asetukset"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " ovat käytettävissäsi"
   ],
   "gi6XHp": [
     "Lähetät viestejä liian nopeasti!"
@@ -118276,6 +118423,9 @@
   "jjUTL+": [
     "Oppilaskeskus"
   ],
+  "jjpcno": [
+    "Näytä asetuksissa"
+  ],
   "jkg8Zu": [
     "Puhekanavat on tarkoitettu yhteiseksi hengailupaikaksi. Kun olet juttutuulella, hyppää vain kanavalle. Kaverisi näkevät, että olet puhekanavalla, ja voivat liittyä mukaan."
   ],
@@ -118645,6 +118795,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Ikäryhmääsi ei ole vielä vahvistettu, joten osa aikuisille tarkoitetuista sisällöistä ja asetuksista eivät ole käytettävissä. Discordin käyttökokemuksesi pysyy muilta osin samana."
   ],
   "jsudFd": [
     "Pienennetty"
@@ -124080,6 +124233,9 @@
   ],
   "m8xsti": [
     "Aakkosjärjestys"
+  ],
+  "m95jW8": [
+    "Ikäryhmääsi ei ole vahvistettu"
   ],
   "m9O1gd": [
     "Reagoi"
@@ -136634,6 +136790,22 @@
   "qSctqV": [
     "Kovin äkkiä ne kasvavat, mutta ilman kaltaisiasi tilaajia se ei olisi onnistunut :') Tänä vuonna luvassa on lisää Nitro-aiheista kivaa. Kiitos mahtavuudestasi!"
   ],
+  "qSkhZH": [
+    "Aikuisille tarkoitetut sisällöt ja asetukset ovat käytettävissä ikäryhmän mukaan. Muilta osin Discord toimii kaikille samalla tavalla. Katso ikäryhmäsi alta ja ",
+    [
+      8,
+      "$link",
+      [
+        "lue lisää blogistamme"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Yksinäinen vaeltelija"
   ],
@@ -144685,6 +144857,9 @@
   "t58lNN": [
     "Liity palvelimelle kutsulinkillä"
   ],
+  "t5QjmQ": [
+    "Kuulut aikuisten ikäryhmään"
+  ],
   "t5VZ88": [
     "Kopioitu"
   ],
@@ -150377,6 +150552,22 @@
   ],
   "vGs4hr": [
     "Lataa tiedosto palvelimelle"
+  ],
+  "vGxRDB": [
+    "Aikuisille tarkoitetut sisällöt ja asetukset ovat käytettävissä ikäryhmän mukaan. Muilta osin Discord toimii kaikille samalla tavalla. Katso ikäryhmäsi alta ja ",
+    [
+      8,
+      "$link",
+      [
+        "lue lisää blogistamme"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Luokka"
@@ -157938,6 +158129,23 @@
   ],
   "xunxCo": [
     "Kanavan lisääminen tilauksen tasolle poistaa kyseisen kanavan käyttöoikeuden niiltä palvelimen jäseniltä, jotka eivät ole tilaajia."
+  ],
+  "xuvWqy": [
+    "Ikäryhmääsi ei ole vielä vahvistettu, joten osa aikuisille tarkoitetuista sisällöistä ja asetuksista eivät ole käytettävissä. Discordin käyttökokemuksesi pysyy muilta osin samana. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää blogistamme"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
   ],
   "xv5g7B": [
     "Tervetuloa! Kuulut tänne"

@@ -292,6 +292,9 @@
   "+7MDbQ": [
     "Bildirimleri Aç"
   ],
+  "+7NlgO": [
+    "Daha Fazla Bilgi Edin"
+  ],
   "+7XY31": [
     "Takviye ile aç"
   ],
@@ -2724,6 +2727,9 @@
   ],
   "/8psS7": [
     "Etkinlik kontrolleri kafa karıştırıcıydı"
+  ],
+  "/8znyU": [
+    "Hepsini toplamak için bir hediye daha gönder"
   ],
   "/91tbr": [
     "Bu kanalı görüntüleyebilen kullanıcıları haberdar et."
@@ -9075,6 +9081,37 @@
   "21vmYl": [
     "Arkadaş kaldırıldı."
   ],
+  "221iML": [
+    "Çocuk yaş grubundasın (13-17), bu nedenle ek korumalara sahipsin ve yetişkinlere yönelik ",
+    [
+      8,
+      "$link",
+      [
+        "içerik ve ayarları"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " kullanamazsın. Yaş grubun doğru değilse ",
+    [
+      8,
+      "$link",
+      [
+        "yetişkin olduğunu doğrulayabilirsin"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Kanal Durumunu Temizle"
   ],
@@ -13879,6 +13916,9 @@
   "417A+c": [
     "Al"
   ],
+  "41MDhK": [
+    "Çocuk yaş grubundasın"
+  ],
   "41NIIh": [
     "E-postanı neden değiştiriyorsun?"
   ],
@@ -14859,9 +14899,6 @@
       "count"
     ],
     " sonuç dizinlendi. Hala eski mesajları dizinliyoruz."
-  ],
-  "4Y84j2": [
-    "Vurgu tema rengini dene"
   ],
   "4YLtzC": [
     "Kanal, Şimdi Aktiften kaldırıldı"
@@ -24006,6 +24043,22 @@
     ],
     " açıklamasıyla genişletilmiş görseli görüntüle"
   ],
+  "8TWztV": [
+    "Yaş grupları, yetişkinlere yönelik içeriklere ve ayarlara erişip erişemeyeceğini belirler. Yetişkin yaş grubundasın, bu yüzden senin için hiçbir şey değişmiyor. ",
+    [
+      8,
+      "$link",
+      [
+        "Blogumuzda Daha Fazla Bilgi Edin"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Kanal İzinleri Oluştur"
   ],
@@ -31589,6 +31642,9 @@
   ],
   "BozOXu": [
     "Bu sunucuya erişmek ve ek özellikler için harici hesabını Discord'la bağlayabilirsin."
+  ],
+  "Bp/1dq": [
+    "Daha fazla bilgi için blogumuza göz at"
   ],
   "Bp2/ni": [
     "Ayrılırsan, onlar hâlâ engellenmiş ya da yok sayılmış olacak."
@@ -41384,6 +41440,23 @@
   "GZxoUb": [
     "Gönderileri Sırala"
   ],
+  "Ga2z/E": [
+    "Hesabın çocuk yaş grubunda, bu yüzden yetişkinlere yönelik içerik ve ayarları kullanamazsın. Bunun dışında Discord aynı şekilde çalışır. ",
+    [
+      8,
+      "$link",
+      [
+        "Hata yaptığımızı düşünüyorsan yetişkin olduğunu doğrulayabilirsin"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "İncelemeler"
   ],
@@ -41584,6 +41657,9 @@
   ],
   "GdNkvG": [
     "İstek Listesi Eylemleri"
+  ],
+  "GdTVPF": [
+    "Çocuklar için Ek Koruma Önlemleri Aldık"
   ],
   "GdVA11": [
     "Yıkıldı"
@@ -43042,6 +43118,22 @@
   ],
   "HGCLZX": [
     "Sohbet ederken favori çıkartmalarını kullan."
+  ],
+  "HGJo1F": [
+    "Bazı ayarlar yalnızca yetişkin yaş grubundaysan değiştirilebilir. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha Fazla Bilgi Edin"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Hareketli bir avatar ister misin?"
@@ -48436,7 +48528,7 @@
     " görüntülü konuşuyor"
   ],
   "JkKNss": [
-    "Otomatik Pix"
+    "Pix Automático"
   ],
   "Jkx0sf": [
     "Daha ucuza bir oyun sunucusu edin"
@@ -60948,6 +61040,22 @@
   ],
   "PMsq/b": [
     "Arkadaşlık İsteği Gönder"
+  ],
+  "PMznGO": [
+    "Yaş grupları, yetişkinlere yönelik içerik ve ayarlara erişip erişemeyeceğini belirler. Yetişkin yaş grubundasın (18+), bu yüzden senin için hiçbir şey değişmiyor. ",
+    [
+      8,
+      "$link",
+      [
+        "Blogumuzda Daha Fazla Bilgi Edin"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "PNIDDJ": [
     "Yaş sınırlı veya müstehcen içerikler yasaktır. Buna metinler, görseller veya çıplaklık, cinsellik, yüksek şiddet ya da diğer rahatsız edici içeriklere sahip bağlantılar dahildir."
@@ -75591,6 +75699,37 @@
   "W0+LsV": [
     "24 saat"
   ],
+  "W0/7DD": [
+    "Yaş grubun henüz doğrulanmadı, bu yüzden yetişkin olduğunu ",
+    [
+      8,
+      "$link",
+      [
+        "doğrulayana"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    " kadar yetişkinlere yönelik ",
+    [
+      8,
+      "$link",
+      [
+        "bazı içerikler ve ayarlar"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " kullanılamaz."
+  ],
   "W0/Duf": [
     "Bu işlem SMS yolu ile doğrulama kodu alarak giriş yapabilme imkânını kaldıracak. Bunu kaldırmak istediğine emin misin?"
   ],
@@ -77730,6 +77869,9 @@
   ],
   "Wv7HLS": [
     "Sadece senin için yeni gelenler"
+  ],
+  "WvAqZA": [
+    "Ücretsiz bir dekorasyon kazandın"
   ],
   "Wvc/I+": [
     "Günaydın,"
@@ -84950,6 +85092,9 @@
   "ZzAR2Y": [
     "Biyografi"
   ],
+  "ZzcLhc": [
+    "Yanlış anlaşılma olduğunu düşünüyorsan yetişkin olduğunu doğrula"
+  ],
   "ZzdgUm": [
     "Kanal, özel hâle getirilemiyor"
   ],
@@ -91447,6 +91592,9 @@
   "cHzQ2O": [
     "Karantinaya İtiraz Et"
   ],
+  "cI+bc/": [
+    "Yaşını onayla"
+  ],
   "cIGvZI": [
     "Uygun ödemeler, gelirin kazanıldığı takvim ayının sonundan itibaren 15 gün içinde ödenecektir. Ödeme uygunluğu hakkında daha fazla bilgi edinmek için lütfen Parasallaştırma Koşulları'na bak"
   ],
@@ -91610,6 +91758,13 @@
   ],
   "cM8bbx": [
     "Basic abonesi ol"
+  ],
+  "cMHedL": [
+    [
+      2,
+      "count"
+    ],
+    " özel ödülü topladın"
   ],
   "cMgegQ": [
     "Çerçeveler, görünümünü tamamlayan profil kenarlıklarıdır. Nitro üyeleri erken erişimden yararlanıyor. Sen de kendininkini Mağaza'da bul."
@@ -99221,6 +99376,14 @@
   "ez/N/R": [
     "Sunucudakileri ve sunucudakilerin rol, takma ad ve izin değişikliklerini görebilir."
   ],
+  "ezJA0R": [
+    "Bu kanal, ",
+    [
+      1,
+      "guildName"
+    ],
+    " yöneticileri tarafından yetişkinlerle (18+) sınırlandırılmıştır ve hassas içerik içerebilir. Senin hesabın ise çocuk yaş grubunda. Yaş grubun doğru değilse yetişkin olduğunu doğrula."
+  ],
   "ezLpY6": [
     "Sahneden Ayrıl"
   ],
@@ -99572,6 +99735,9 @@
   ],
   "f7aVGn": [
     "Oyun Profili"
+  ],
+  "f7c7qE": [
+    "Hesabın çocuk yaş grubunda, bu yüzden yetişkinlere yönelik içerik ve ayarları kullanamazsın. Bunun dışında Discord aynı şekilde çalışır."
   ],
   "f7g0DK": [
     "Oturma Odasına Geri Dön"
@@ -103652,6 +103818,23 @@
   "gi2swM": [
     "Mesaj ana kanala da gönderildi"
   ],
+  "gi4ulu": [
+    "Yetişkin yaş grubundasın (18+) ve ",
+    [
+      8,
+      "$link",
+      [
+        "yaş sınırlı içeriklere, alanlara ve ayarlara"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " erişimin var."
+  ],
   "gi6XHp": [
     "Mesajları fazla hızlı gönderiyorsun!"
   ],
@@ -104636,6 +104819,14 @@
   ],
   "h48QWG": [
     "Gönderiler"
+  ],
+  "h4HbnI": [
+    "Bu kanal, ",
+    [
+      1,
+      "guildName"
+    ],
+    " yöneticileri tarafından yetişkinlerle (18+) sınırlandırılmıştır ve hassas içerik içerebilir. Yaş sınırlı içeriklere, alanlara ve ayarlara erişmek için yetişkin olduğunu doğrula."
   ],
   "h4WIYV": [
     "Daha fazla kanal eklemek için Sunucu Menüsü'nün içindeki ",
@@ -107801,6 +107992,14 @@
   "iJA/TE": [
     "Favorilere eklendi"
   ],
+  "iK0n30": [
+    "Bu kanal, ",
+    [
+      1,
+      "guildName"
+    ],
+    " yöneticileri tarafından yetişkinlerle (18+) sınırlandırılmıştır ve hassas içerik içerebilir."
+  ],
   "iKAdpR": [
     "Tüm özelleştirme öğelerini almak için yükselt."
   ],
@@ -109399,6 +109598,9 @@
   ],
   "ivpkNe": [
     "Hayır, teşekkürler"
+  ],
+  "ivpn6G": [
+    "Senin olacak ücretsiz bir dekorasyon seç"
   ],
   "iw0hFi": [
     [
@@ -111178,6 +111380,9 @@
   "jjUTL+": [
     "Öğrenci Merkezi"
   ],
+  "jjpcno": [
+    "Ayarlarda Görüntüle"
+  ],
   "jkg8Zu": [
     "Ses kanalları sohbet etmek içindir. Konuşmak istediğinde girmen yeterli. Arkadaşların seni görüp katılabilir. Telepati yoluyla selam vermek gibi."
   ],
@@ -111525,6 +111730,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Yaş grubun henüz doğrulanmadı, bu nedenle yetişkinlere yönelik bazı içerik ve ayarlar kullanılamıyor. Bunun dışında Discord aynı şekilde çalışır."
   ],
   "jsudFd": [
     "Daraltıldı"
@@ -112505,9 +112713,6 @@
   ],
   "kMYVwv": [
     "Ödülünü Al"
-  ],
-  "kMdneQ": [
-    "Kanalın özel bildirim ayarları"
   ],
   "kMgj+e": [
     "Sunucuları ara"
@@ -113867,6 +114072,22 @@
   ],
   "l+S46U": [
     "Hareketli"
+  ],
+  "l+jt8J": [
+    "Çocuk yaş grubundasın, bu yüzden Mesaj İstekleri kapatılamaz. Bir hata olduğunu düşünüyorsan ",
+    [
+      8,
+      "$link",
+      [
+        "yetişkin olduğunu doğrulayabilirsin"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Sesini değiştirerek kendini ifade et ve aramalar sırasında daha fazla eğlen!"
@@ -116838,6 +117059,9 @@
   ],
   "m8xsti": [
     "Alfabetik"
+  ],
+  "m95jW8": [
+    "Yaş grubun doğrulanmadı"
   ],
   "m9O1gd": [
     "Tepki"
@@ -122845,9 +123069,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Mağaza'yı Keşfet"
-  ],
   "o7DqF3": [
     "Dal"
   ],
@@ -125014,6 +125235,9 @@
   ],
   "ozumaN": [
     "Diskriminatör"
+  ],
+  "ozurym": [
+    "Gömülü Paylaş"
   ],
   "ozv9NT": [
     "Tümünü Göster"
@@ -129332,6 +129556,22 @@
   "qSctqV": [
     "Ne çabuk büyüyorlar :') Senin gibi abonelerimiz olmadan bunu asla başaramazdık. Bu yıl daha fazla Nitro promosyonuna hazır ol. Ayrıca harika bir abone olduğun için teşekkürler."
   ],
+  "qSkhZH": [
+    "Yaş grupları, yetişkinlere yönelik içeriklere ve ayarlara erişip erişemeyeceğini belirler. Bunun dışında Discord aynı şekilde çalışır. Aşağıda yaş grubuna göz at ve ",
+    [
+      8,
+      "$link",
+      [
+        "blogumuzda daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Lone Wanderer"
   ],
@@ -129660,6 +129900,22 @@
   ],
   "qaYzPA": [
     "Etkinliği Sonlandır"
+  ],
+  "qbBkFI": [
+    "Çocuk yaş grubundasın bu yüzden bazı ayarlar değiştirilemez. Bir hata olduğunu düşünüyorsan ",
+    [
+      8,
+      "$link",
+      [
+        "yetişkin olduğunu doğrulayabilirsin"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Aboneliğini iptal et"
@@ -130171,7 +130427,7 @@
     " Karşılığında Paket Satın Al"
   ],
   "quJD0Y": [
-    "App Store'da incelemeleri açar."
+    "Uygulama mağazasında incelemeleri açar."
   ],
   "question": [
     "?",
@@ -135634,9 +135890,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Birincil tema rengini dene"
-  ],
   "sm4HCL": [
     "Bir şeyler ters gitti! Lütfen tekrar dene"
   ],
@@ -137175,6 +137428,9 @@
   "t58lNN": [
     "Davet Bağlantısıyla bir Sunucuya katıl"
   ],
+  "t5QjmQ": [
+    "Yetişkin yaş grubundasın"
+  ],
   "t5VZ88": [
     "Kopyalandı"
   ],
@@ -137474,6 +137730,22 @@
   ],
   "tGYbvd": [
     "Zamanlanan Etkinlikler"
+  ],
+  "tGsCdS": [
+    "Mesaj İstekleri yalnızca yetişkin yaş grubundaysan kapatılabilir. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha Fazla Bilgi Edin"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Bu buluşmaya erişimin yok."
@@ -142709,6 +142981,22 @@
   "vGs4hr": [
     "Dosya Yükle"
   ],
+  "vGxRDB": [
+    "Yaş grupları, yetişkinlere yönelik içeriklere ve ayarlara erişip erişemeyeceğini belirler. Bunun dışında Discord aynı şekilde çalışır. Aşağıda yaş grubuna göz at ve ",
+    [
+      8,
+      "$link",
+      [
+        "blogumuzda daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "vHCZwr": [
     "Kategori"
   ],
@@ -145370,7 +145658,7 @@
     " içinde kullanılabilir."
   ],
   "wK1svU": [
-    "İçerik Puanı"
+    "İçerik Derecelendirme"
   ],
   "wK78Qv": [
     "Bu mesaj isteğini yok saymayı seçtin. İleride tekrar mesaj almamak için bu kullanıcıyı engellemek ister misin?"
@@ -149975,6 +150263,23 @@
   "xunxCo": [
     "Bir abonelik kademesine bir kanal eklemek, sunucu abonesi olmayan sunucu üyelerinin söz konusu kanala erişimini kaldırır."
   ],
+  "xuvWqy": [
+    "Yaş grubun henüz doğrulanmadı, bu yüzden yetişkinlere yönelik bazı içerik ve ayarlar kullanılamıyor. Bunun dışında Discord aynı şekilde çalışır. ",
+    [
+      8,
+      "$link",
+      [
+        "Blogumuzda daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "xv5g7B": [
     "Hoş geldin! Buraya aitsin"
   ],
@@ -153397,6 +153702,9 @@
   ],
   "zV0/FC": [
     "Geçersiz Mesaj Türü"
+  ],
+  "zVGHbw": [
+    "Ücretsiz bir dekorasyon kazan"
   ],
   "zVJxqj": [
     "En az ",

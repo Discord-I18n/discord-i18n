@@ -294,6 +294,9 @@
   "+7MDbQ": [
     "Slå meddelelser til"
   ],
+  "+7NlgO": [
+    "Få mere at vide"
+  ],
   "+7XY31": [
     "Lås op med Boosting"
   ],
@@ -2964,6 +2967,9 @@
   ],
   "/8psS7": [
     "Aktivitetskontrollerne var forvirrende"
+  ],
+  "/8znyU": [
+    "Send endnu en gave for at samle dem alle"
   ],
   "/91tbr": [
     "Underret brugere med denne rolle, der har tilladelse til at se denne kanal."
@@ -9909,6 +9915,37 @@
   "21vmYl": [
     "Ven er blevet fjernet."
   ],
+  "221iML": [
+    "Du er i aldersgruppen Teenager (13-17), så der er yderligere beskyttelser tilknyttet din konto, og ",
+    [
+      8,
+      "$link",
+      [
+        "indhold og indstillinger"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " for voksne er ikke tilgængelige. Hvis din aldersgruppe ikke er korrekt, kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekræfte, at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "22CYiZ": [
     "Fjern kanalstatus"
   ],
@@ -15250,6 +15287,9 @@
   "417A+c": [
     "Indløs"
   ],
+  "41MDhK": [
+    "Du er i aldersgruppen Teenager"
+  ],
   "41NIIh": [
     "Hvorfor vil du ændre din e-mailadresse?"
   ],
@@ -16345,9 +16385,6 @@
       "cardinal"
     ],
     " indekseret indtil nu. Vi indekserer stadig ældre beskeder."
-  ],
-  "4Y84j2": [
-    "Prøv en tematisk accentfarve"
   ],
   "4YLtzC": [
     "Fjernede kanal fra Aktiv nu"
@@ -26243,6 +26280,22 @@
       "alt"
     ]
   ],
+  "8TWztV": [
+    "Aldersgrupper bestemmer, om du kan få adgang til indhold og indstillinger for voksne. Du er i aldersgruppen Voksen, så intet ændrer sig for dig. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide på vores blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "8TnAMP": [
     "Opret kanaltilladelser"
   ],
@@ -34478,6 +34531,9 @@
   "BozOXu": [
     "Tilknyt din eksterne konto med Discord, og få adgang til yderligere funktioner og adgang til denne server."
   ],
+  "Bp/1dq": [
+    "Få mere at vide på vores blog"
+  ],
   "Bp2/ni": [
     "Hvis du forlader, vil de stadig blive blokeret eller ignoreret."
   ],
@@ -36559,7 +36615,7 @@
     "Kontrollér hastigheden, hvormed tekst læses højt, når du bruger Oplæs besked eller andre tekst-til-tale-funktioner."
   ],
   "Ci7gvp": [
-    "Flere valgmuligheder, emblem i ",
+    "Flere valgmuligheder, emblem ",
     [
       1,
       "position"
@@ -45057,6 +45113,23 @@
   "GZxoUb": [
     "Sortér opslag"
   ],
+  "Ga2z/E": [
+    "Din konto er i aldersgruppen Teenager, så indhold og indstillinger for voksne er ikke tilgængelige – ellers fungerer Discord på samme måde. ",
+    [
+      8,
+      "$link",
+      [
+        "Hvis vi har begået en fejl, kan du bekræfte, at du er en voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "GaAQXP": [
     "Anmeldelser"
   ],
@@ -45241,6 +45314,9 @@
   ],
   "GdNkvG": [
     "Handlinger vedrørende ønskeliste"
+  ],
+  "GdTVPF": [
+    "Vi har lanceret yderligere beskyttelse for teenagere"
   ],
   "GdVA11": [
     "Nedrevet"
@@ -46802,6 +46878,22 @@
   ],
   "HGCLZX": [
     "Smid dine favorit-stickere omkring dig, uanset hvor du chatter."
+  ],
+  "HGJo1F": [
+    "Visse indstillinger kan kun ændres, hvis du er i aldersgruppen Voksen. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "HGSXTM": [
     "Vil du gerne have en animeret avatar?"
@@ -66184,6 +66276,22 @@
   "PMsq/b": [
     "Send venneanmodning"
   ],
+  "PMznGO": [
+    "Aldersgrupper bestemmer, om du kan få adgang til indhold og indstillinger for voksne. Du er i aldersgruppen Voksen (18+), så intet ændrer sig for dig. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide på vores blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "PNIDDJ": [
     "Intet aldersbegrænset eller obskønt indhold. Dette omfatter tekst, billeder eller links med nøgenhed, sex, hård vold eller andet grafisk foruroligende indhold."
   ],
@@ -82073,6 +82181,37 @@
   "W0+LsV": [
     "24 timer"
   ],
+  "W0/7DD": [
+    "Din aldersgruppe er endnu ikke bekræftet, så ",
+    [
+      8,
+      "$link",
+      [
+        "noget indhold og visse indstillinger"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    " for voksne er ikke tilgængelige, før du kan ",
+    [
+      8,
+      "$link",
+      [
+        "bekræfte, at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "W0/Duf": [
     "Dette fjerner muligheden for at logge ind med en autentificeringskode via SMS. Er du sikker på, at du vil fjerne dette?"
   ],
@@ -84440,6 +84579,9 @@
   ],
   "Wv7HLS": [
     "Friske drops, kun til dig"
+  ],
+  "WvAqZA": [
+    "Du har optjent en gratis dekoration"
   ],
   "Wvc/I+": [
     "Godmorgen"
@@ -92289,6 +92431,9 @@
   "ZzAR2Y": [
     "Bio"
   ],
+  "ZzcLhc": [
+    "Hvis vi tog fejl, skal du bekræfte, at du er voksen"
+  ],
   "ZzdgUm": [
     "Kan ikke gøre kanal privat"
   ],
@@ -99044,6 +99189,9 @@
   "cHzQ2O": [
     "Gør indsigelse mod karantæne"
   ],
+  "cI+bc/": [
+    "Bekræft alder"
+  ],
   "cIGvZI": [
     "Godkendte udbetalinger udstedes inden for 15 dage af den kalendermåned, hvori indkomsten blev tjent. For mere information om godkendelse af udbetalinger skal du læse vores vilkår for indtægtsgenerering"
   ],
@@ -99223,6 +99371,26 @@
   ],
   "cM8bbx": [
     "Få Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du har samlet den eksklusive belønning"
+        ],
+        "other": [
+          "Du har samlet alle ",
+          [
+            7
+          ],
+          " eksklusive belønninger"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Rammer er profilkanter, der fuldender dit look. Nitro-medlemmer får forhåndsadgang. Find dine i shoppen."
@@ -107151,6 +107319,14 @@
   "ez/N/R": [
     "Kan se, hvem der er på serveren og ændringer i deres roller, kaldenavne og tilladelse."
   ],
+  "ezJA0R": [
+    "Denne kanal er begrænset til voksne (18+) af administratorer for ",
+    [
+      1,
+      "guildName"
+    ],
+    " og kan indeholde følsomt indhold. Din konto er i aldersgruppen Teenager. Hvis din aldersgruppe ikke er korrekt, bedes du bekræfte, at du er voksen."
+  ],
   "ezLpY6": [
     "Forlad podiet"
   ],
@@ -107507,6 +107683,9 @@
   ],
   "f7aVGn": [
     "Spilprofil"
+  ],
+  "f7c7qE": [
+    "Din konto er i aldersgruppen Teenager, så indhold og indstillinger for voksne er ikke tilgængelige – ellers fungerer Discord på samme måde."
   ],
   "f7g0DK": [
     "Tilbage til stuen"
@@ -111702,6 +111881,23 @@
   "gi2swM": [
     "Besked også sendt til hovedkanal"
   ],
+  "gi4ulu": [
+    "Du er i aldersgruppen Voksen (18+) og har adgang til ",
+    [
+      8,
+      "$link",
+      [
+        "aldersbegrænset indhold, rum og indstillinger"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gi6XHp": [
     "Du sender meddelelser alt for hurtigt!"
   ],
@@ -112737,6 +112933,14 @@
   ],
   "h48QWG": [
     "Opslag"
+  ],
+  "h4HbnI": [
+    "Denne kanal er begrænset til voksne (18+) af administratorer for ",
+    [
+      1,
+      "guildName"
+    ],
+    " og kan indeholde følsomt indhold. Bekræft, at du er voksen for at få adgang til aldersbegrænset indhold, rum og indstillinger."
   ],
   "h4WIYV": [
     "Brug ",
@@ -116005,6 +116209,14 @@
   "iJA/TE": [
     "Føjet til favoritter"
   ],
+  "iK0n30": [
+    "Denne kanal er begrænset til voksne (18+) af administratorer for ",
+    [
+      1,
+      "guildName"
+    ],
+    " og kan indeholde følsomt indhold."
+  ],
   "iKAdpR": [
     "Opgrader for at få alle tilpasningsmulighederne."
   ],
@@ -117755,6 +117967,9 @@
   ],
   "ivpkNe": [
     "Nej tak"
+  ],
+  "ivpn6G": [
+    "Vælg en gratis dekoration at beholde"
   ],
   "iw0hFi": [
     [
@@ -119668,6 +119883,9 @@
   "jjUTL+": [
     "Elevhub"
   ],
+  "jjpcno": [
+    "Se i Indstillinger"
+  ],
   "jkg8Zu": [
     "Talekanaler er til at hænge ud på. Når du er klar til at tale, skal du bare hoppe ind. Venner vil kunne se dig og joine dig. Det er som at bruge tankeoverførsel til at sige hej."
   ],
@@ -120038,6 +120256,9 @@
         ]
       ]
     ]
+  ],
+  "jssaTD": [
+    "Din aldersgruppe er endnu ikke bekræftet, så noget indhold og visse indstillinger for voksne er ikke tilgængelige – ellers fungerer Discord på samme måde."
   ],
   "jsudFd": [
     "Sammentrukket"
@@ -121097,9 +121318,6 @@
   ],
   "kMYVwv": [
     "Få din belønning"
-  ],
-  "kMdneQ": [
-    "Kanalens brugerdefinerede meddelelsesindstillinger"
   ],
   "kMgj+e": [
     "Søg efter servere"
@@ -122546,6 +122764,22 @@
   ],
   "l+S46U": [
     "Animeret"
+  ],
+  "l+jt8J": [
+    "Du er i aldersgruppen Teenager, så beskedanmodninger kan ikke slås fra. Hvis dette ikke er korrekt, kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekræfte, at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "l+lSLp": [
     "Omdan din stemme for at udtrykke dig selv og få mere underholdning ud af opkald!"
@@ -125570,6 +125804,9 @@
   ],
   "m8xsti": [
     "Alfabetisk"
+  ],
+  "m95jW8": [
+    "Din aldersgruppe er ikke bekræftet"
   ],
   "m9O1gd": [
     "Reager"
@@ -131789,9 +132026,6 @@
       "cardinal"
     ]
   ],
-  "o6s7yg": [
-    "Udforsk Shoppen"
-  ],
   "o7DqF3": [
     "Afdeling"
   ],
@@ -134013,6 +134247,9 @@
   ],
   "ozumaN": [
     "Diskriminator"
+  ],
+  "ozurym": [
+    "Del indlejring"
   ],
   "ozv9NT": [
     "Vis alle"
@@ -138547,6 +138784,22 @@
   "qSctqV": [
     "De vokser så hurtigt op :') og vi kunne ikke have gjort det uden abonnenter som dig. Hold øje med flere Nitro-lækkerier i år, og tak fordi I er fantastiske."
   ],
+  "qSkhZH": [
+    "Aldersgrupper bestemmer, om du kan få adgang til indhold og indstillinger for voksne. Ellers fungerer Discord på samme måde. Se din aldersgruppe nedenfor, og ",
+    [
+      8,
+      "$link",
+      [
+        "få mere at vide på vores blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
+  ],
   "qSq0tD": [
     "Ensom vandrer"
   ],
@@ -138923,6 +139176,22 @@
   ],
   "qaYzPA": [
     "Afslut event"
+  ],
+  "qbBkFI": [
+    "Du er i aldersgruppen Teenager, så visse indstillinger kan ikke ændres. Hvis dette ikke er korrekt, kan du ",
+    [
+      8,
+      "$link",
+      [
+        "bekræfte, at du er voksen"
+      ],
+      [
+        [
+          1,
+          "handleOnConfirmAgeHook"
+        ]
+      ]
+    ]
   ],
   "qbDPGM": [
     "Opsig abonnement"
@@ -145278,9 +145547,6 @@
     ],
     ")"
   ],
-  "sm2nAq": [
-    "Prøv en primær temafarve"
-  ],
   "sm4HCL": [
     "Noget gik galt. Prøv igen"
   ],
@@ -146705,6 +146971,9 @@
   "t58lNN": [
     "Tilslut dig en server med et invitationslink"
   ],
+  "t5QjmQ": [
+    "Du er i den aldersgruppen Voksen"
+  ],
   "t5VZ88": [
     "Kopieret"
   ],
@@ -147003,6 +147272,22 @@
   ],
   "tGYbvd": [
     "Planlagte events"
+  ],
+  "tGsCdS": [
+    "Beskedanmodninger kan kun slås fra, hvis du er i aldersgruppen Voksen. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide"
+      ],
+      [
+        [
+          1,
+          "handleOnAgeGatedContentHook"
+        ]
+      ]
+    ]
   ],
   "tHT/Vt": [
     "Du har ikke adgang til at hænge ud her"
@@ -152365,6 +152650,22 @@
   ],
   "vGs4hr": [
     "Upload fil"
+  ],
+  "vGxRDB": [
+    "Aldersgrupper bestemmer, om du kan få adgang til indhold og indstillinger for voksne. Ellers fungerer Discord på samme måde. Se din aldersgruppe nedenfor, og ",
+    [
+      8,
+      "$link",
+      [
+        "få mere at vide på vores blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ]
   ],
   "vHCZwr": [
     "Kategori"
@@ -160088,6 +160389,23 @@
   "xunxCo": [
     "Ved at tilføje en kanal til et abonnementsniveau fjernes adgang til servermedlemmer, der ikke er serverabonnenter."
   ],
+  "xuvWqy": [
+    "Din aldersgruppe er endnu ikke bekræftet, så noget indhold og visse indstillinger for voksne er ikke tilgængelige – ellers fungerer Discord på samme måde. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide på vores blog"
+      ],
+      [
+        [
+          1,
+          "handleOnBlogHook"
+        ]
+      ]
+    ],
+    "."
+  ],
   "xv5g7B": [
     "Velkommen! Du hører til her"
   ],
@@ -163815,6 +164133,9 @@
   ],
   "zV0/FC": [
     "Ugyldig beskedtype"
+  ],
+  "zVGHbw": [
+    "Få en gratis dekoration"
   ],
   "zVJxqj": [
     "Skal have mindst ",
