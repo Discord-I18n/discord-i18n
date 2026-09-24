@@ -114,6 +114,9 @@
   "+1k/lP": [
     "Maak kennis met community-onboarding"
   ],
+  "+20A3o": [
+    "Afbeelding kon niet worden toegevoegd. Probeer het opnieuw."
+  ],
   "+2QBZX": [
     "Hmm, we konden geen winkelcadeaus laden. Probeer het later nog eens."
   ],
@@ -3817,6 +3820,9 @@
   "/Whuzi": [
     "Tijdens het gebruik van een Discord Certified-microfoon worden bepaalde functies voor spraakverwerking niet langer afgehandeld door Discord zelf,\nmaar door de microfoon."
   ],
+  "/WsW/1": [
+    "Probeer het profielthema uit"
+  ],
   "/X1ny6": [
     "Neem het winkelaanbod door en geef de items die je leuk vindt een hartje om ze hier toe te voegen."
   ],
@@ -4369,6 +4375,24 @@
   ],
   "/nALeY": [
     "Andere feedback"
+  ],
+  "/nFLZv": [
+    "In aanmerking voor promo: ",
+    [
+      1,
+      "current"
+    ],
+    " van ",
+    [
+      1,
+      "target"
+    ],
+    " verzameld - nog ",
+    [
+      1,
+      "numDays"
+    ],
+    " dagen"
   ],
   "/nJOlj": [
     "Activiteit ondervond vertraging of liep vast"
@@ -5107,10 +5131,19 @@
     ],
     " Orbs over ",
     [
-      1,
-      "days"
-    ],
-    " dagen"
+      6,
+      "days",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          "dagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Upload ",
@@ -5896,6 +5929,9 @@
   ],
   "0N1s81": [
     "Beveiligingscodes en passkeys"
+  ],
+  "0N8fCf": [
+    "Hé, gulle gever. Je hebt zoveel cadeaus verstuurd dat je een profielbadge hebt verdiend die in niveau stijgt naarmate je meer geeft."
   ],
   "0NJZAU": [
     "Gekoppeld aan ",
@@ -7474,6 +7510,9 @@
   "0sTyEb": [
     "Verzend je verzoek om deel te nemen aan deze server."
   ],
+  "0sh8CQ": [
+    "Emojisuggesties weergeven tijdens het typen"
+  ],
   "0t1aNC": [
     "Bewerk niveau-emoji"
   ],
@@ -8723,6 +8762,9 @@
   "1RD2jW": [
     "Er ging iets mis bij het openen van deze methode."
   ],
+  "1RFJ5Q": [
+    "Word lid van de community"
+  ],
   "1RH5t9": [
     "Uitgenodigd"
   ],
@@ -9772,6 +9814,9 @@
   ],
   "1zoOqj": [
     "Deel de magie van Nitro."
+  ],
+  "2+/rrF": [
+    "Krijg korting op profielitems, plus gepersonaliseerde emoji, HD-streamen en meer met Nitro."
   ],
   "2+A3dv": [
     "Cooldown! Boost kan ",
@@ -14574,6 +14619,23 @@
   "3jG0Bo": [
     "Leden kunnen standaard dit kanaal bekijken. Door dit uit te schakelen voor @everyone wordt dit een privékanaal."
   ],
+  "3jY5i3": [
+    "Hou je van YouTube? Dan is Premium echt wat voor jou. Krijg 20% korting op je volgende 6 maanden, of je nu nieuw bent bij YouTube Premium of al lid bent. ",
+    [
+      8,
+      "$link",
+      [
+        "Check de voorwaarden"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3jaCac": [
     "Alle downloadbare bestanden"
   ],
@@ -14738,6 +14800,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Versie"
   ],
   "3nWhcJ": [
     "Cadeau accepteren"
@@ -16821,6 +16886,9 @@
   ],
   "4fnE/J": [
     "Het is niet gelukt om je inloglink te valideren. Probeer het nog eens."
+  ],
+  "4fvi9I": [
+    "Je vrienden, in één oogopslag."
   ],
   "4fw/T2": [
     "Je hebt de server ",
@@ -19221,6 +19289,29 @@
   "5fWB8U": [
     "Profiel en status beheren"
   ],
+  "5fXjSj": [
+    "Uitnodiging verloopt over ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minuut"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minuten"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Uitnodiging sturen"
   ],
@@ -21052,6 +21143,9 @@
   ],
   "6MwJo/": [
     "Minder tonen"
+  ],
+  "6NbEkN": [
+    "Kies een app voordat je deze regel opslaat."
   ],
   "6Nmv4i": [
     "Onze privacyboeren zijn begonnen met het oogsten van je gegevens. Dit kan tot 30 dagen duren, maar we sturen je een e-mail als het klaar is."
@@ -22919,6 +23013,9 @@
     ],
     " toe aan de groep."
   ],
+  "7/h5vj": [
+    "Geen van de apps op deze server kan berichten al modereren."
+  ],
   "7/qtoL": [
     "Deze ",
     [
@@ -24399,6 +24496,9 @@
   "7ioAjs": [
     "Beschikbare aanbiedingen"
   ],
+  "7itT3E": [
+    "Bekijk andere servers"
+  ],
   "7j/5mg": [
     [
       6,
@@ -24882,6 +24982,9 @@
   ],
   "7rOU6j": [
     "Synchroniseren met computer"
+  ],
+  "7raRgL": [
+    "Orbs verzilveren"
   ],
   "7rkg+/": [
     "Niet meer kijken naar ",
@@ -26572,6 +26675,19 @@
   "8XT6Nf": [
     "Cadeauduur"
   ],
+  "8XhAe3": [
+    "In aanmerking voor promo: ",
+    [
+      1,
+      "current"
+    ],
+    " van ",
+    [
+      1,
+      "target"
+    ],
+    " verzameld"
+  ],
   "8Xm6uL": [
     "We slaan ",
     [
@@ -26771,6 +26887,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Je post is verwijderd"
   ],
   "8dCrV9": [
     "Oplossen"
@@ -28837,6 +28956,13 @@
   "9U0b1k": [
     "Zet je eerste Discord-server op"
   ],
+  "9U3Wb3": [
+    "Je bericht is verwijderd in ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Je verzendt berichten te snel"
   ],
@@ -30776,7 +30902,7 @@
     "Naam Locaties installeren"
   ],
   "AJsDsD": [
-    "Gemiddeld"
+    "Licht getint"
   ],
   "AKBgPy": [
     "Kom terug voor meldingen over events, streams en meer."
@@ -32998,6 +33124,9 @@
   "BEFwGd": [
     "Afbeeldingen"
   ],
+  "BEL9MJ": [
+    "Deeltoepassing"
+  ],
   "BENn/6": [
     "Enkel livepodiums"
   ],
@@ -33932,12 +34061,12 @@
     " geleden"
   ],
   "Ba/7wO": [
-    "Nitro-leden verdienen overal ",
+    "Abonneer je om je voorraad te laten groeien met maandelijkse Orbs en ",
     [
       1,
       "multiplier"
     ],
-    "x Orbs mee"
+    "x-beloningen."
   ],
   "BaI6L4": [
     "Vraag de ouder/verzorger/voogd om de toegang te herstellen via de instellingen voor ouderlijk toezicht van de App Store (Apple of Google Play)."
@@ -34085,6 +34214,9 @@
   ],
   "Bd6dOf": [
     "Hef je account permanent op."
+  ],
+  "BdIVB+": [
+    "Til je YouTube-ervaring naar een hoger niveau met Premium"
   ],
   "BdQTfR": [
     "Nog ",
@@ -34292,6 +34424,9 @@
   ],
   "BhWgyQ": [
     "Voer je wachtwoord in om backupcodes te bekijken."
+  ],
+  "BhYGtj": [
+    "Gedeeld-scherm-toepassing"
   ],
   "BhjXCp": [
     "Door de winkel bladeren"
@@ -36251,6 +36386,9 @@
   "CU+6oJ": [
     "ENTER om te zoeken"
   ],
+  "CUAKSg": [
+    "Concept — niet gepubliceerd"
+  ],
   "CUBxDB": [
     "Het kan even duren voor het DNS-record in werking treedt."
   ],
@@ -36878,6 +37016,9 @@
   ],
   "Cm4aDQ": [
     "Stream loskoppelen"
+  ],
+  "CmLD50": [
+    "Stream alsof je in de kamer bent"
   ],
   "CmSHYx": [
     "Zoek vrienden"
@@ -37843,6 +37984,9 @@
   ],
   "DH2o6R": [
     "Klik om pingen van oorspronkelijke auteur uit te schakelen."
+  ],
+  "DHLE0q": [
+    "Chat met de hele community"
   ],
   "DHWKJS": [
     "Negeer alle wijzigingen en verwijder dit niveau."
@@ -39794,6 +39938,13 @@
   ],
   "EDYbS+": [
     "O jee! Er is iets fout gegaan bij het bijwerken van dit berichtverzoek. Wacht even en probeer het dan opnieuw."
+  ],
+  "EDmwVf": [
+    "Tekstoverlay: ",
+    [
+      1,
+      "text"
+    ]
   ],
   "EE+P0H": [
     "Uitnodigen in spraakkanaal"
@@ -42339,6 +42490,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Kies een app om berichten te bekijken"
+  ],
   "FKYNC6": [
     "Nitro maandelijks"
   ],
@@ -43208,6 +43362,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "Wat is Discord?"
+  ],
   "FlcC+3": [
     "Verwijdert de applicatie van deze server"
   ],
@@ -43600,6 +43757,9 @@
   "FzgQna": [
     "Vrienden en alle servers"
   ],
+  "Fzi4HX": [
+    "Upload bestandsnamen, -groottes en tijdstempels van de app-opslag naar je foutopsporingslogboeken om het opslaggebruik te onderzoeken."
+  ],
   "FzjizJ": [
     "Pas je profiel aan"
   ],
@@ -43859,12 +44019,12 @@
     "Je moet nog een paar stappen afronden voordat je op deze server kunt praten."
   ],
   "G5k+lZ": [
-    "Maak van missieopbrengsten megaopbrengsten met een vermenigvuldiger van ",
+    "Verander je missieopbrengsten in megaopbrengsten met ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x voor Orb-beloningen."
+    "x-beloningen als je abonnee wordt van Nitro. Je kunt altijd opzeggen."
   ],
   "G6+XOT": [
     "Jouw ",
@@ -45222,6 +45382,9 @@
   ],
   "GYpoAq": [
     "Seksueel beeldmateriaal voor volwassenen"
+  ],
+  "GZWBoL": [
+    "Bespaar tot wel 20% in de winkel"
   ],
   "GZa4J0": [
     "Deze app is niet beschikbaar."
@@ -46802,6 +46965,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Opslagdiagnostiek geüpload."
+  ],
   "H9Jxp6": [
     "Voeg maximaal ",
     [
@@ -46852,7 +47018,7 @@
     "Je gameserver is klaar! Beheer hem op elk moment via het tabblad 'Gameservers' in de winkel."
   ],
   "HACucK": [
-    "Je hebt genoeg Orbs om iets uit de winkel te halen!"
+    "Je hebt genoeg om iets in de winkel te kopen."
   ],
   "HADQ6n": [
     [
@@ -47344,6 +47510,9 @@
   "HNo5cG": [
     "Afbeelding selecteren"
   ],
+  "HNqvOh": [
+    "Browsergegevens wissen"
+  ],
   "HO/lY5": [
     "App (spoiler)"
   ],
@@ -47826,6 +47995,9 @@
   "HZPBOd": [
     "Voer Discord Auth Code in"
   ],
+  "HZPns7": [
+    "Serverhubinstellingen tonen"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -48087,6 +48259,22 @@
   ],
   "Hgdhwb": [
     "Weet je zeker dat je wilt stoppen? Sommige wijzigingen aan het product zijn nog niet opgeslagen en gaan mogelijk verloren als je nu stopt."
+  ],
+  "Hgo1xT": [
+    "Nieuwe Nitro-beloning! Krijg 20% korting op je volgende 6 maanden YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Check de voorwaarden"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
   ],
   "HhfrYS": [
     "Speel ",
@@ -50465,6 +50653,14 @@
   "Ifb6XJ": [
     "Superreageren"
   ],
+  "Ifgxdy": [
+    "Uitnodiging verloopt over ",
+    [
+      2,
+      "numHours"
+    ],
+    " uur"
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -50496,6 +50692,22 @@
   ],
   "Igv+LS": [
     "Emoji-info bekijken"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    "-lettertype, ",
+    [
+      1,
+      "effectName"
+    ],
+    "-effect, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -51395,6 +51607,9 @@
   "IyUi6q": [
     "Verras iedereen die je profiel ziet in een server, een privébericht of waar dan ook."
   ],
+  "IyXIFu": [
+    "Hiermee worden de cache, cookies en websitegegevens van de in-app-browser gewist. Daardoor kun je worden uitgelogd op websites."
+  ],
   "IyYqqY": [
     "Verbonden met andere client"
   ],
@@ -52276,6 +52491,9 @@
   "JM7Y2D": [
     "Het opnemen van spraakberichten is opgehouden omdat Discord niet actief was."
   ],
+  "JMWqry": [
+    "Praat mee"
+  ],
   "JMbfnc": [
     "Ga zo door!"
   ],
@@ -52912,6 +53130,9 @@
   "JhDw5o": [
     "Terug naar inloggen"
   ],
+  "JhE8nA": [
+    "Met Nitro bespaar je tot wel 20% op alle winkelaankopen. Abonneer je om je korting, aangepaste profielen en meer te ontgrendelen."
+  ],
   "JhNpgy": [
     "Persoonlijke kleuren"
   ],
@@ -53358,6 +53579,9 @@
   "JzaP4h": [
     "Pb-spamfilter"
   ],
+  "JzbSEY": [
+    "Vermeldingen + ongelezen berichten"
+  ],
   "Jzd+z/": [
     "Kies een naam voor je nieuwe code"
   ],
@@ -53419,6 +53643,9 @@
   ],
   "K0e7M9": [
     "Nieuwe afspeelpoging"
+  ],
+  "K1URjQ": [
+    "Beheer de instellingen voor je serverhub."
   ],
   "K1gWXn": [
     "Is je microfoon extra fancy en legt hij zichzelf stilte op? In dat geval kun je de waarschuwing in het rood uitzetten door te klikken op\nde pietepeuterige tekst hieronder."
@@ -53839,6 +54066,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Zet je favoriete geluiden in een andere volgorde!"
   ],
   "KG/ynf": [
     "Oei"
@@ -55145,7 +55375,7 @@
     ]
   ],
   "KmK3q4": [
-    "Uitnodigingslink creëren"
+    "Uitnodigingslink maken"
   ],
   "KmRwcW": [
     "Doorgaan"
@@ -55675,6 +55905,9 @@
   ],
   "L/PwZf": [
     "Link gekopieerd!"
+  ],
+  "L/aQij": [
+    "Kan opslagdiagnostiek niet uploaden. Probeer het opnieuw."
   ],
   "L/hFOe": [
     "De map Foutopsporingslogboek bekijken"
@@ -56664,6 +56897,9 @@
   ],
   "LSNOYf": [
     "Er zijn geen apps of opdrachten die aan je zoekopdracht voldoen"
+  ],
+  "LSoXK5": [
+    "(Optioneel) We sturen je e-mails met Discord-updates, tips en speciale aanbiedingen. We volgen welke je opent en waar je op klikt om het interessant te maken."
   ],
   "LT5TnZ": [
     "Op"
@@ -62066,6 +62302,9 @@
   "NaZyYC": [
     "Meldingen"
   ],
+  "Nb1EQx": [
+    "Alleen jij kunt dit zien"
+  ],
   "Nb2/RE": [
     "Nieuwe thread"
   ],
@@ -62631,12 +62870,12 @@
     " mee pronken. Als je er nog geen afscheid van kunt nemen, kun je er met een Nitro-abonnement langer van genieten."
   ],
   "NpUfej": [
-    "Nu worden je missieopbrengsten megaopbrengsten met een vermenigvuldiger van ",
+    "Nu worden je missieopbrengsten in megaopbrengsten met ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x voor Orb-beloningen."
+    "x-beloningen als je abonnee wordt van Nitro. Je kunt altijd opzeggen"
   ],
   "NpchGq": [
     "Interesses"
@@ -63439,6 +63678,9 @@
   ],
   "OBr7Cw": [
     "Kanaalopties"
+  ],
+  "OBskVU": [
+    "Serverhubinstellingen"
   ],
   "OBuzJr": [
     "Degene die het meeste heeft gewonnen, mag de kroon dragen."
@@ -64349,6 +64591,9 @@
   "OZRgjw": [
     "Wat is het probleem?"
   ],
+  "OZj923": [
+    "Blijf op de hoogte van wat ze uitspoken en maak samen plezier."
+  ],
   "Oa//IE": [
     "Bevat een van de geselecteerde soorten gegevens"
   ],
@@ -65112,7 +65357,7 @@
     "Voeg persoonlijke geluiden toe voor iedereen op je server. Tromgeroffel!"
   ],
   "OqHiIt": [
-    "Word lid van server"
+    "Lid worden van server"
   ],
   "OqNY0/": [
     "Leden mogen andere leden van deze server permanent verbannen en hun berichtgeschiedenis wissen."
@@ -65695,6 +65940,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Sleep je favoriete geluiden naar de gewenste volgorde en zet ze neer."
+  ],
   "P/KFXz": [
     "Dat je het even weet: er zijn door jou geblokkeerde of genegeerde personen aanwezig in dit podiumkanaal."
   ],
@@ -65842,6 +66090,9 @@
         "Je hebt zojuist de server geboost."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Schaduwkleur"
   ],
   "P5keo3": [
     "Kist"
@@ -67939,6 +68190,9 @@
   "Q+YV/T": [
     "Schakel de pop-out van inbox in/uit"
   ],
+  "Q+dH5r": [
+    "Nieuwe look, nieuwe uitdagingen"
+  ],
   "Q+fhfv": [
     "Ruisonderdrukking aan"
   ],
@@ -68566,6 +68820,9 @@
   ],
   "QHHwRR": [
     "Geverifieerd"
+  ],
+  "QHrFo6": [
+    "Je kunt geen berichten doorsturen naar dit leeftijdsgebonden kanaal."
   ],
   "QHvDTL": [
     "Vastzetten"
@@ -69662,6 +69919,9 @@
   ],
   "Qnf32C": [
     "Deel mijn volledige profiel met"
+  ],
+  "Qno0jg": [
+    "Je hebt nog geen badges verdiend"
   ],
   "QntEEG": [
     "Pas de weergave van chatberichten aan."
@@ -71438,6 +71698,9 @@
   "RV3AXf": [
     "Er zijn geen verlopen schendingen voor je account."
   ],
+  "RVEiD0": [
+    "Hebben we een fout gemaakt?"
+  ],
   "RVHDnH": [
     "Paypal-details"
   ],
@@ -71806,6 +72069,9 @@
   ],
   "RfkLDs": [
     "Nieuwe code over:"
+  ],
+  "RgDY7v": [
+    "Servervoorbeeld"
   ],
   "RgIi2B": [
     "Peiling"
@@ -72578,6 +72844,9 @@
   ],
   "S0H8in": [
     "Reminder pauzeren"
+  ],
+  "S0ODmT": [
+    "Afbeeldingsinstellingen"
   ],
   "S0W8Z5": [
     "Verbinden"
@@ -74784,6 +75053,9 @@
   ],
   "Str6/o": [
     "Zoeken naar een specifiek bericht waarvan ik de exacte bewoording wist"
+  ],
+  "StrErG": [
+    "Je bericht is verwijderd"
   ],
   "Su1Zkt": [
     "Hé, Android-vrienden"
@@ -80000,6 +80272,9 @@
   "V+IE93": [
     "Neem Nitro om toegang te ontgrendelen tot dit naambordje!"
   ],
+  "V+Iv+U": [
+    "Selecteer een app"
+  ],
   "V+Pwy9": [
     "Noord-Korea"
   ],
@@ -80183,6 +80458,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Meldingservice-toepassing"
   ],
   "V4UDY1": [
     "Vraag je vrienden om je uit te nodigen op hun servers, waar je kunt chillen en kletsen."
@@ -81019,6 +81297,9 @@
   "VQ5Xo9": [
     "Portugees (Braziliaans)"
   ],
+  "VQKK5O": [
+    "Systeemopslagsnapshot"
+  ],
   "VQOSXq": [
     "Als je het accepteert, heb je een tegoed voor ",
     [
@@ -81123,6 +81404,9 @@
       "price"
     ],
     " elk / maand"
+  ],
+  "VSunuT": [
+    "Opslagdiagnostiek uploaden"
   ],
   "VT02mI": [
     "Je hebt geen badges! Bekijk badges die je kunt verdienen."
@@ -81589,7 +81873,7 @@
     "Ik heb de laatste tijd veel zin om te lezen, maar ik kan me er niet toe zetten om daadwerkelijk een boek te pakken. Ik mis het om helemaal op te gaan in een boek."
   ],
   "VearyN": [
-    "Small"
+    "Klein"
   ],
   "Vej1Nw": [
     [
@@ -82336,6 +82620,9 @@
   ],
   "VxBO2F": [
     "Profielupdates"
+  ],
+  "VxE3o6": [
+    "Appmoderatieregel"
   ],
   "VxN3Lo": [
     "Time-out door AutoMod"
@@ -83614,6 +83901,9 @@
   "WVbpcy": [
     "Een biografie toevoegen"
   ],
+  "WViBDk": [
+    "We houden bij of je e-mails opent en waar je op klikt om te zien wat nuttig is en om onze e-mails te verbeteren."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -84695,6 +84985,9 @@
   ],
   "Wrg9Jn": [
     "Regel uitgeschakeld"
+  ],
+  "WrleYK": [
+    "Regel inschakelen"
   ],
   "Wrvb3V": [
     "Abonnementsvoordelen"
@@ -86434,6 +86727,9 @@
   "XcGEcs": [
     "De overlay wordt niet ondersteund voor deze game."
   ],
+  "XcOMLu": [
+    "Bespaar op je nieuwe look"
+  ],
   "XcPHfw": [
     "Afronden"
   ],
@@ -87955,6 +88251,9 @@
   "YCCMkJ": [
     "Toon een bevestigingsprompt voordat je overschakelt naar een ander spraakkanaal."
   ],
+  "YCIfhC": [
+    "Discord is een gratis app waarmee je kunt chatten, streamen en chillen"
+  ],
   "YCZldK": [
     "Ontgrendel een wereld vol voordelen met Nitro"
   ],
@@ -88238,6 +88537,9 @@
   "YK+wUg": [
     "Pc"
   ],
+  "YKJw4W": [
+    "Je Orbs zijn nu makkelijker bij te houden en makkelijker te verdienen."
+  ],
   "YKVlC7": [
     "De kwaliteit van je video is momenteel laag. Dit kan het gevolg zijn van netwerkomstandigheden."
   ],
@@ -88418,6 +88720,9 @@
   ],
   "YQP5dE": [
     "Gekoppeld"
+  ],
+  "YQPbuc": [
+    "Bevestig dat je voldoet aan de minimale leeftijdsvereiste in jouw regio"
   ],
   "YQix8y": [
     "Item voltooid"
@@ -88823,6 +89128,9 @@
   ],
   "YZookV": [
     "Standaardkanalen en vragen voor deelname"
+  ],
+  "YZqqTX": [
+    "Stuur berichten vanuit Whiteboard"
   ],
   "YaW9wI": [
     "Boost je server naar niveau ",
@@ -90193,6 +90501,9 @@
   "Z3Vn/X": [
     "Wat is het meest nutteloze talent dat je bezit?"
   ],
+  "Z3uXLR": [
+    "Embed-maker"
+  ],
   "Z43V9S": [
     "Persoonlijke afbeelding verwijderen: ",
     [
@@ -90308,6 +90619,9 @@
       "rewardName"
     ],
     " te ontgrendelen!"
+  ],
+  "Z70vcv": [
+    "Switch tussen spraak- of tekstkanalen"
   ],
   "Z74GUL": [
     "Door je te abonneren ontgrendel je voordelen voor ",
@@ -92190,7 +92504,7 @@
     "Klik om spoiler te onthullen"
   ],
   "ZqCAos": [
-    "Verdien sneller Orbs"
+    "Meer Orbs ontgrendelen"
   ],
   "ZqK0uI": [
     "Pop-upvenster"
@@ -92271,6 +92585,9 @@
   ],
   "Zs9h9Z": [
     "Boost je favoriete servers"
+  ],
+  "ZsAL7q": [
+    "Vriendenlijst verbergen"
   ],
   "ZsO1Sx": [
     "Je abonnement met chatvoordelen en een boostkorting voor ",
@@ -92563,6 +92880,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Creëer een thread"
   ],
   "ZxNVMy": [
     "Probeer een andere zoekopdracht of ",
@@ -93996,7 +94316,7 @@
     "Hongaarse forint"
   ],
   "abaDI+": [
-    "Een plek voor jou en je vrienden"
+    "Maak een plek voor jou en je vrienden"
   ],
   "abacus": [
     "abacus",
@@ -94959,6 +95279,9 @@
       ]
     ],
     "."
+  ],
+  "ar2OUZ": [
+    "Afbeeldingsbestand is te groot."
   ],
   "ar3a3q": [
     "De informatie die je verstrekt, wordt alleen gebruikt om je leeftijdsgroep te bevestigen en wordt daarna verwijderd."
@@ -99535,6 +99858,9 @@
   "cHszXg": [
     "Leden toevoegen"
   ],
+  "cHxSwT": [
+    "Gedeeltelijke opslagdiagnostiek geüpload. Sommige bestanden konden niet worden weergegeven of er is een scanlimiet bereikt."
+  ],
   "cHzQ2O": [
     "Bezwaar maken tegen quarantaine"
   ],
@@ -99842,7 +100168,7 @@
     "Esc"
   ],
   "cR6336": [
-    "Geen leeftijdsverificatiemethoden beschikbaar. Dit kan een fout zijn."
+    "Geen leeftijdsverificatiemethoden beschikbaar. Probeer het later nog eens."
   ],
   "cR7lcs": [
     [
@@ -99946,6 +100272,28 @@
   ],
   "cSb7U0": [
     "Familiecentrum uitschakelen"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip geselecteerd"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clips geselecteerd"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Dubbeltik om profiel te bekijken"
@@ -100649,6 +100997,9 @@
   ],
   "cfeFEt": [
     "Betaling mislukt"
+  ],
+  "cfrfyZ": [
+    "Laat een suggestie zien als Discord een nieuw audioapparaat detecteert."
   ],
   "cfu/5d": [
     "Nitro jaarlijks"
@@ -104101,6 +104452,9 @@
   "dcK4Ch": [
     "Je kunt dit later wijzigen."
   ],
+  "dcOuei": [
+    "Check de uitdagingen"
+  ],
   "dcSDhW": [
     [
       8,
@@ -107198,7 +107552,7 @@
     "Canadese dollar"
   ],
   "efLpNC": [
-    "Jouw hoogtepunten en beste momenten"
+    "hoogtepunten en beste momenten"
   ],
   "efLzgX": [
     "De periode of het aantal toegestane nieuwe leden voordat deze uitnodiging vervalt."
@@ -107855,6 +108209,29 @@
   "euXi0Q": [
     "Je bekijkt het verzoek van iemand die deel wil nemen aan je server. Tot jij het verzoek goedkeurt, kunnen ze niet deelnemen of praten in de server."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server heeft"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servers hebben"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " aangepaste instellingen"
+  ],
   "euizJY": [
     [
       1,
@@ -107908,6 +108285,13 @@
   ],
   "eutr4P": [
     "Vertel ons wat over jezelf"
+  ],
+  "evGwDW": [
+    "Concept — ingepland om live te gaan ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Berichtverzoeken — ",
@@ -108576,6 +108960,9 @@
   ],
   "fAQ/8h": [
     "Kies een kanaal dat je graag aan nieuwe leden wilt laten zien."
+  ],
+  "fAU31r": [
+    "Voor gaming, chillen, of eh, huiswerk."
   ],
   "fAW3z4": [
     "Geen matches gevonden"
@@ -110737,6 +111124,9 @@
   "fr5bJy": [
     "Tik op de outputschakelaar om over te schakelen op console."
   ],
+  "fr7qnZ": [
+    "Selecteer producten"
+  ],
   "frCwaT": [
     "De berichten van deze persoon worden verborgen"
   ],
@@ -111646,6 +112036,9 @@
   ],
   "gEp2SG": [
     "Gameprofielen zoeken"
+  ],
+  "gF8HJo": [
+    "Audioapparaatsuggesties"
   ],
   "gF8IpD": [
     "De gebruiker die verwijderd moet worden"
@@ -113059,6 +113452,9 @@
   ],
   "gn2c6X": [
     "Account gemeld"
+  ],
+  "gn3Poi": [
+    "Creëer een uitnodigingslink die iedereen kan gebruiken om lid te worden, of nodig vrienden rechtstreeks uit."
   ],
   "gn7SZe": [
     "Check de nieuwste avatarversieringen en profieleffecten en stel je favoriete stijl samen."
@@ -115422,6 +115818,9 @@
   "hcMwDW": [
     "Na een datum"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Bliksembadge"
   ],
@@ -117204,6 +117603,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Afbeelding toevoegen"
+  ],
   "iG+nZx": [
     "Controleer of de machtigingen in je to-do- en bronkanalen juist zijn ingesteld."
   ],
@@ -117803,6 +118205,9 @@
   ],
   "iVfA9i": [
     "helemaal rechts"
+  ],
+  "iVqj8B": [
+    "Clips-startpagina"
   ],
   "iVzBOh": [
     "Kopieer link"
@@ -118585,7 +118990,7 @@
     "Zorg dat je naam opvalt in servers en chats."
   ],
   "ikNKf1": [
-    "Autoclips"
+    "Automatische knip"
   ],
   "ikpHeS": [
     "Doet mee op ",
@@ -119483,6 +119888,9 @@
     ],
     "-accounts te koppelen"
   ],
+  "j3AKJQ": [
+    "Bestand is geen ondersteunde afbeelding. Probeer een PNG, JPEG of WebP."
+  ],
   "j3KOkh": [
     "Je hebt de regels van Discord overtreden. Als dit nogmaals gebeurt, raak je mogelijk je account kwijt."
   ],
@@ -119804,6 +120212,9 @@
   ],
   "jCOdvx": [
     "Games toegevoegd"
+  ],
+  "jCQlbu": [
+    "Download de Discord-app"
   ],
   "jCV1Tz": [
     "ALT"
@@ -121888,7 +122299,7 @@
     ]
   ],
   "k5w7Jy": [
-    "Large"
+    "Groot"
   ],
   "k6NlxZ": [
     "Doe mij er dan maar twee"
@@ -122319,6 +122730,9 @@
   ],
   "kHMgaK": [
     "Je kunt nu betalingen voor servermonetisatie accepteren."
+  ],
+  "kHNeDa": [
+    "De app kiest welke actie hij per bericht onderneemt, inclusief het blokkeren van het bericht of helemaal niets doen."
   ],
   "kHalVA": [
     "Dupliceer de voordelen of kanaalmachtigingen van een bestaand niveau of een bestaande rol."
@@ -124143,6 +124557,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Deel alles"
+  ],
   "l3K4B/": [
     "Vermeldingen gebruiker"
   ],
@@ -124420,6 +124837,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Uitnodiging verloopt over ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Oudste toegevoegd"
@@ -125333,6 +125773,13 @@
   "lZejCq": [
     "Inclusief @role-vermeldingen"
   ],
+  "lZuIri": [
+    "Afbeeldingoverlay: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Instellingen voor het verzamelen van technische gegevens die Discord-ondersteuning kan analyseren, zoals foutopsporing en het opnemen van geluid"
   ],
@@ -125670,6 +126117,12 @@
   ],
   "lg3Ckc": [
     "Gebruik de Streamer-modus om persoonlijke gegevens te verbergen als je aan het streamen bent."
+  ],
+  "lgDNyX": [
+    "Serverhubtabblad tonen in de kanaallijst"
+  ],
+  "lgHr73": [
+    "Chatten, streamen en chillen"
   ],
   "lgcisd": [
     "Servers met meer dan ",
@@ -129483,6 +129936,18 @@
   ],
   "mmNkUA": [
     "Ontvang een aangepaste uitnodigingslink met boosts – geen niveau vereist! Ideaal om je server te laten groeien."
+  ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " geselecteerd"
   ],
   "mmZGEG": [
     "Verdien ",
@@ -133513,7 +133978,7 @@
     "! Met Nitro mag je deze beloning houden. Veel plezier ermee!"
   ],
   "o9PQEi": [
-    "Maak van missieopbrengsten megaopbrengsten met een vermenigvuldiger van ",
+    "Maak van je opbrengsten megaopbrengsten met een vermenigvuldiger van ",
     [
       2,
       "bonusOrbMultiplier"
@@ -137298,6 +137763,30 @@
     "streep",
     "verticaal"
   ],
+  "pb2Was": [
+    "Voeg maximaal ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clips"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " toe"
+  ],
   "pb7lpK": [
     "Badge kiezen"
   ],
@@ -138059,6 +138548,9 @@
   "piPHvY": [
     "Welkom"
   ],
+  "piRNeN": [
+    "Afbeelding kon niet worden gelezen."
+  ],
   "piW6YS": [
     "Verzenden"
   ],
@@ -138763,6 +139255,9 @@
   "pqk9U0": [
     "Meer bekijken"
   ],
+  "pqph/A": [
+    "Wanneer je even kunt, zonder oproepen of uitnodigingen."
+  ],
   "pqqixk": [
     "Aan"
   ],
@@ -139040,6 +139535,9 @@
   ],
   "put7Hw": [
     "opties"
+  ],
+  "putVLl": [
+    "Gebruik aangepaste reacties, embeds en bots."
   ],
   "put_litter_in_its_place": [
     "afval",
@@ -140411,6 +140909,9 @@
       ]
     ]
   ],
+  "qT6LjY": [
+    "Vandaag om 13.00 uur"
+  ],
   "qTCYun": [
     "Wil je deze wijziging ook toepassen op al je bestaande servers?"
   ],
@@ -141077,6 +141578,9 @@
   "qnJ9W3": [
     "Een probleem melden"
   ],
+  "qnSo/i": [
+    "Social commerce"
+  ],
   "qnYumI": [
     [
       6,
@@ -141234,6 +141738,9 @@
   ],
   "qpWnyC": [
     "Naar instellingen"
+  ],
+  "qpw1d9": [
+    "Je kunt maximaal 10 clips tegelijk delen."
   ],
   "qpwaNY": [
     "Releasedatum"
@@ -143255,6 +143762,14 @@
   ],
   "rb7dJ7": [
     "Naambordjes"
+  ],
+  "rbAtUi": [
+    "Live — gepubliceerd ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
   ],
   "rbIry3": [
     "Thread bijwerken"
@@ -145957,6 +146472,9 @@
   "sS2J0G": [
     "Er is nog niemand.\nKom er gerust bij zodra je zin hebt om te praten."
   ],
+  "sS4xGd": [
+    "Creëer een deelbare embed voor een selectie van producten uit je gamewinkel."
+  ],
   "sSAQtj": [
     "Threadeigenschappen geüpdatet"
   ],
@@ -146875,6 +147393,9 @@
       "count"
     ],
     " niet toegewezen"
+  ],
+  "sgse8P": [
+    "Vriendenlijst tonen"
   ],
   "shE8hW": [
     "Zwaai naar elkaar, deel je scherm of klets gewoon een beetje."
@@ -150843,6 +151364,9 @@
   "to6uUe": [
     "Post je scores van ritmische games!"
   ],
+  "toGFBn": [
+    "Toegangsscherm-widget-toepassing"
+  ],
   "toKjAM": [
     "jouw-link-hier"
   ],
@@ -152455,6 +152979,9 @@
         "ernstig beperkt."
       ]
     ]
+  ],
+  "uF5VXk": [
+    "Afbeelding kan niet worden toegevoegd aan een clip."
   ],
   "uFHxNd": [
     "Nieuwe groep bevestigen"
@@ -154203,6 +154730,42 @@
   "uy25Qz": [
     "Stickers van deze server zijn niet beschikbaar"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " heeft aangepaste pb-machtigingen. Selecteer hem om ze te zien of wijzigen."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servers"
+            ]
+          ],
+          " hebben aangepaste pb-machtigingen. Selecteer er een om ze te zien of wijzigen."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Titel plaatsen"
   ],
@@ -154590,6 +155153,9 @@
   ],
   "v8MLqz": [
     "Delen is niet beschikbaar in dat kanaal"
+  ],
+  "v8QrJf": [
+    "Je kunt Orbs verzilveren"
   ],
   "v8UpgE": [
     "Gamewinkel bezoeken"
@@ -157913,6 +158479,9 @@
   "wR+Fuo": [
     "Deze thread dempen"
   ],
+  "wR5R9w": [
+    "Afbeelding vervangen"
+  ],
   "wR5wOo": [
     "Profieleffect"
   ],
@@ -157962,6 +158531,9 @@
   ],
   "wS+5Wb": [
     "Uitnodigen om stream te bekijken"
+  ],
+  "wSD7jV": [
+    "Selecteer een kanaal voor veiligheidsmeldingen"
   ],
   "wSZfJR": [
     "'Ik heb je per ongeluk gerapporteerd'"
@@ -162150,6 +162722,9 @@
   "xhQsxx": [
     "Ga naar je Nitro-status"
   ],
+  "xhZ23b": [
+    "xhZ23b"
+  ],
   "xhgNd0": [
     "Server van ",
     [
@@ -162589,7 +163164,7 @@
     " door."
   ],
   "xrOIkz": [
-    "Autoclips"
+    "Automatische clips"
   ],
   "xrYNBI": [
     "Weet je zeker dat je het podium voor iedereen wilt opheffen?"
@@ -166634,6 +167209,9 @@
   "zZp618": [
     "Hier zie je op welke apparaten je momenteel bent ingelogd op je Discord-account. Je kunt op elk apparaat afzonderlijk uitloggen of overal tegelijk.\n\nAls je een apparaat ziet dat je niet herkent, log dan meteen uit op dat apparaat en verander het wachtwoord van je Discord-account meteen."
   ],
+  "zaEQz+": [
+    "Browsergegevens gewist."
+  ],
   "zany_face": [
     "gek gezicht",
     "gekke blik",
@@ -166698,6 +167276,9 @@
   ],
   "zcKE8W": [
     "Mobiele Xbox-app geïnstalleerd"
+  ],
+  "zcZtrU": [
+    "Badges aanpassen"
   ],
   "zcbFu1": [
     "Emoji gebruikt"

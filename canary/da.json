@@ -108,6 +108,9 @@
   "+1k/lP": [
     "Vi introducerer Community Onboarding"
   ],
+  "+20A3o": [
+    "Billedet kunne ikke tilføjes. Prøv igen."
+  ],
   "+2QBZX": [
     "Hmmm, vi kunne ikke indlæse Shop-gaver. Kom tilbage senere."
   ],
@@ -3793,6 +3796,9 @@
   "/Whuzi": [
     "Når du bruger en Discord-certificeret mikrofon, så håndteres visse stemmebehandlende funktioner ikke længere af Discord,\nmen snarere af mikrofonen."
   ],
+  "/WsW/1": [
+    "Prøv profiltema"
+  ],
   "/X1ny6": [
     "Gennemse shoppen, og markér varer, du elsker, med et hjerte for at tilføje dem her."
   ],
@@ -4345,6 +4351,24 @@
   ],
   "/nALeY": [
     "Anden feedback"
+  ],
+  "/nFLZv": [
+    "Berettiget kampagne: ",
+    [
+      1,
+      "current"
+    ],
+    " ud af ",
+    [
+      1,
+      "target"
+    ],
+    " indsamlet – ",
+    [
+      1,
+      "numDays"
+    ],
+    " dage tilbage"
   ],
   "/nJOlj": [
     "Aktiviteten var forsinket eller frøs"
@@ -5049,12 +5073,21 @@
       1,
       "orbAmount"
     ],
-    " Orbs i ",
+    " Orbs om ",
     [
-      1,
-      "days"
-    ],
-    " dage"
+      6,
+      "days",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          "dage"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Upload ",
@@ -5863,6 +5896,9 @@
   ],
   "0N1s81": [
     "Sikkerheds- og adgangsnøgler"
+  ],
+  "0N8fCf": [
+    "Åh hej, generøse. Du har sendt nok gaver til at optjene et profilemblem, der stiger i niveau, jo mere du giver."
   ],
   "0NJZAU": [
     "Forbundet til ",
@@ -7455,6 +7491,9 @@
   "0sTyEb": [
     "Indsend din ansøgning for at deltage i serveren."
   ],
+  "0sh8CQ": [
+    "Vis emoji-forslag, mens du skriver"
+  ],
   "0t1aNC": [
     "Redigér niveau-emoji"
   ],
@@ -8701,6 +8740,9 @@
   "1RD2jW": [
     "Noget gik galt under forsøget på at åbne denne metode."
   ],
+  "1RFJ5Q": [
+    "Deltag i community"
+  ],
   "1RH5t9": [
     "Inviteret"
   ],
@@ -9768,6 +9810,9 @@
   ],
   "1zoOqj": [
     "Del Nitros magi."
+  ],
+  "2+/rrF": [
+    "Få rabat på profilelementer samt brugerdefinerede emojier, HD-streaming og mere med Nitro."
   ],
   "2+A3dv": [
     "Nedkøling! Boost kan ikke flyttes i ",
@@ -14562,6 +14607,23 @@
   "3jG0Bo": [
     "Giver medlemmerne mulighed for at se denne kanal som standard. Deaktivering af dette for @everyone vil gøre denne kanal privat."
   ],
+  "3jY5i3": [
+    "Hvis du er glad for YouTube, vil du elske Premium. Få 20 % rabat på dine næste seks måneder, uanset om du er ny til YouTube Premium eller allerede er med. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gælder"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3jaCac": [
     "Alle produkter, der kan downloades"
   ],
@@ -14727,6 +14789,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Version"
   ],
   "3nWhcJ": [
     "Acceptér gave"
@@ -16783,6 +16848,9 @@
   ],
   "4fnE/J": [
     "Vi kunne ikke bekræfte dit log ind-link. Prøv venligst igen."
+  ],
+  "4fvi9I": [
+    "Et øjebliksbillede på dine venner."
   ],
   "4fw/T2": [
     "Du har lige boostet serveren ",
@@ -19212,6 +19280,29 @@
   "5fWB8U": [
     "Administrer profil og status"
   ],
+  "5fXjSj": [
+    "Invitationen udløber om ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minut"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutter"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Send invitation"
   ],
@@ -21025,6 +21116,9 @@
   ],
   "6MwJo/": [
     "Vis mindre"
+  ],
+  "6NbEkN": [
+    "Vælg en app, før du gemmer denne regel."
   ],
   "6Nmv4i": [
     "Vores privatlivs-hamstre er begyndt at høste dine data. Dette kan tage op til 30 dage, men vi sender dig en e-mail, når det er udført."
@@ -22887,6 +22981,9 @@
     ],
     " til gruppen."
   ],
+  "7/h5vj": [
+    "Ingen apps på denne server kan moderere beskeder endnu."
+  ],
   "7/qtoL": [
     "Denne ",
     [
@@ -24381,6 +24478,9 @@
   "7ioAjs": [
     "Tilgængelige tilbud"
   ],
+  "7itT3E": [
+    "Gennemse andre servere"
+  ],
   "7j/5mg": [
     [
       6,
@@ -24863,6 +24963,9 @@
   ],
   "7rOU6j": [
     "Synkroniser med computer"
+  ],
+  "7raRgL": [
+    "Indløs Orbs"
   ],
   "7rkg+/": [
     "Stop med at se— ",
@@ -26539,6 +26642,19 @@
   "8XT6Nf": [
     "Gaves varighed"
   ],
+  "8XhAe3": [
+    "Berettiget kampagne: ",
+    [
+      1,
+      "current"
+    ],
+    " ud af ",
+    [
+      1,
+      "target"
+    ],
+    " indsamlet"
+  ],
   "8Xm6uL": [
     [
       8,
@@ -26747,6 +26863,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Dit opslag blev fjernet"
   ],
   "8dCrV9": [
     "Løs"
@@ -28828,6 +28947,13 @@
   ],
   "9U0b1k": [
     "Opret din første Discord-server"
+  ],
+  "9U3Wb3": [
+    "Din besked blev slettet i ",
+    [
+      1,
+      "channel"
+    ]
   ],
   "9UAXh4": [
     "Du sender beskeder alt for hurtigt"
@@ -32987,6 +33113,9 @@
   "BEFwGd": [
     "Billeder"
   ],
+  "BEL9MJ": [
+    "Delingsudvidelse"
+  ],
   "BENn/6": [
     "Alle Livepodier"
   ],
@@ -33872,12 +34001,12 @@
     " siden"
   ],
   "Ba/7wO": [
-    "Nitro-medlemmer optjener ",
+    "Tegn abonnement for at øge din beholdning af månedlige Orbs og ",
     [
       1,
       "multiplier"
     ],
-    "x på alt"
+    "x-belønninger."
   ],
   "BaI6L4": [
     "Bed værgen om at gendanne adgangen i App Store's forældrenkontrol (Apple eller Google Play)."
@@ -34025,6 +34154,9 @@
   ],
   "Bd6dOf": [
     "Luk din konto permanent."
+  ],
+  "BdIVB+": [
+    "Få endnu bedre YouTube med Premium"
   ],
   "BdQTfR": [
     [
@@ -34230,6 +34362,9 @@
   ],
   "BhWgyQ": [
     "Indtast din adgangskode for at kunne se koder til sikkerhedskopiering."
+  ],
+  "BhYGtj": [
+    "Skærmdelingsudvidelse"
   ],
   "BhjXCp": [
     "Gennemse Shop"
@@ -36196,6 +36331,9 @@
   "CU+6oJ": [
     "Tryk på ENTER for at søge"
   ],
+  "CUAKSg": [
+    "Udkast – ikke udgivet"
+  ],
   "CUBxDB": [
     "Det kan tage et par minutter for DNS-posten at udbrede sig."
   ],
@@ -36822,6 +36960,9 @@
   ],
   "Cm4aDQ": [
     "Pop stream ud"
+  ],
+  "CmLD50": [
+    "Stream som om du er i rummet"
   ],
   "CmSHYx": [
     "Søg efter venner"
@@ -37788,6 +37929,9 @@
   ],
   "DH2o6R": [
     "Klik for at deaktivere pinging af den originale forfatter."
+  ],
+  "DHLE0q": [
+    "Chat med hele community'et"
   ],
   "DHWKJS": [
     "Afvis alle ændringer, og slet dette niveau."
@@ -39738,6 +39882,13 @@
   ],
   "EDYbS+": [
     "Åh nej! Der gik noget galt under opdateringen af denne beskedanmodning. Vent lidt, og prøv igen."
+  ],
+  "EDmwVf": [
+    "Tekst-overlay: ",
+    [
+      1,
+      "text"
+    ]
   ],
   "EE+P0H": [
     "Inviter til stemmechat"
@@ -42282,6 +42433,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Vælg en app for at kontrollere beskeder"
+  ],
   "FKYNC6": [
     "Nitro månedligt"
   ],
@@ -43152,6 +43306,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "Hvad er Discord?"
+  ],
   "FlcC+3": [
     "Fjerner applikationen fra denne server"
   ],
@@ -43541,6 +43698,9 @@
   "FzgQna": [
     "Venner og alle servere"
   ],
+  "Fzi4HX": [
+    "Upload filnavne, størrelser og tidsstempler fra applager til dine fejlfindelseslogfiler for at hjælpe med at undersøge lagerforbrug."
+  ],
   "FzjizJ": [
     "Tilpas din profil"
   ],
@@ -43800,12 +43960,12 @@
     "Du skal fuldføre nogle få enkelte trin, før du kan starte med at tale på denne server."
   ],
   "G5k+lZ": [
-    "Forvandl dine gevinster fra missioner til megagevinster med en multiplikator på x",
+    "Forvandl dine sejre til megasejre med ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    " på Orbs-belønninger."
+    "x belønninger, når du abonnerer på Nitro. Du kan opsige det når som helst."
   ],
   "G6+XOT": [
     "Din ",
@@ -45147,6 +45307,9 @@
   ],
   "GYpoAq": [
     "Medier med seksuelt indhold for voksne"
+  ],
+  "GZWBoL": [
+    "Spar op til 20 % i Shoppen"
   ],
   "GZa4J0": [
     "Denne app er ikke tilgængelig."
@@ -46719,6 +46882,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Lagerdiagnostik uploadet."
+  ],
   "H9Jxp6": [
     "Tilføj op til ",
     [
@@ -46753,7 +46919,7 @@
     "Din spilserver er klar! Administrer den når som helst fra fanen \"Spilservere\" i Shoppen."
   ],
   "HACucK": [
-    "Du har nok Orbs til at få noget i Shoppen."
+    "Du har nok til at få noget fra Shoppen."
   ],
   "HADQ6n": [
     [
@@ -47245,6 +47411,9 @@
   "HNo5cG": [
     "Vælg billede"
   ],
+  "HNqvOh": [
+    "Ryd browserdata"
+  ],
   "HO/lY5": [
     "App (spoiler)"
   ],
@@ -47724,6 +47893,9 @@
   "HZPBOd": [
     "Angiv Discord-autentificeringskode"
   ],
+  "HZPns7": [
+    "Vis indstillinger for server-hub"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -48001,6 +48173,22 @@
   ],
   "Hgdhwb": [
     "Er du sikker på, at du vil afslutte? Du har ændringer til produktet, der ikke er gemt. De kan gå tabt, hvis du afslutter nu."
+  ],
+  "Hgo1xT": [
+    "Ny Nitro-belønning. Få 20 % rabat på dine næste seks måneder med YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gælder"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
   ],
   "HhfrYS": [
     "Spil i ",
@@ -48771,7 +48959,7 @@
     " på vores regning"
   ],
   "I1h8uD": [
-    "Udforsk dine Autoclips"
+    "Udforsk dine autoklip"
   ],
   "I1nKfO": [
     "Fortæl os, hvad du synes om sikkerheden på Discord."
@@ -50364,6 +50552,29 @@
   "Ifb6XJ": [
     "Superreaktion"
   ],
+  "Ifgxdy": [
+    "Invitationer udløber om ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " time"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " timer"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -50395,6 +50606,22 @@
   ],
   "Igv+LS": [
     "Se emoji-detaljer"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    " skrifttype, ",
+    [
+      1,
+      "effectName"
+    ],
+    " effekt, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -51292,6 +51519,9 @@
   "IyUi6q": [
     "Få opmærksomhed på hver server, hver direkte besked, hver gang nogen ser din profil."
   ],
+  "IyXIFu": [
+    "Rydder cache, cookies og webstedsdata i appbrowseren. Dette kan logge dig ud af websteder."
+  ],
   "IyYqqY": [
     "Tilsluttet på en anden klient"
   ],
@@ -52188,6 +52418,9 @@
   "JM7Y2D": [
     "Optagelse af talebesked stoppede, fordi Discord ikke var aktiv."
   ],
+  "JMWqry": [
+    "Deltag i samtalen"
+  ],
   "JMbfnc": [
     "Fortsæt med det!"
   ],
@@ -52831,6 +53064,9 @@
   "JhDw5o": [
     "Vend tilbage til log ind"
   ],
+  "JhE8nA": [
+    "Med Nitro sparer du op til 20 % på alle køb i Shoppen. Tegn abonnement for at låse op for din rabat, brugerdefinerede profiler og meget mere."
+  ],
   "JhNpgy": [
     "Brugerdefinerede farver"
   ],
@@ -53275,6 +53511,9 @@
   "JzaP4h": [
     "Spamfilter til direkte beskeder"
   ],
+  "JzbSEY": [
+    "Omtaler + ulæste"
+  ],
   "Jzd+z/": [
     "Vælg et navn til din nye nøgle"
   ],
@@ -53336,6 +53575,9 @@
   ],
   "K0e7M9": [
     "Prøv videoen igen"
+  ],
+  "K1URjQ": [
+    "Administrer indstillinger for din server-hub."
   ],
   "K1gWXn": [
     "Er din mikrofon ekstra fancy og skruer ned for sig selv? I så fald kan du slå den røde advarsel fra ved at klikke\npå den lille bitte tekst nedenfor."
@@ -53756,6 +53998,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Omarranger dine yndlingslyde!"
   ],
   "KG/ynf": [
     "Hovsa"
@@ -55575,6 +55820,9 @@
   "L/PwZf": [
     "Link kopieret!"
   ],
+  "L/aQij": [
+    "Kunne ikke uploade lagerdiagnostik. Prøv igen."
+  ],
   "L/hFOe": [
     "Se mappe for fejlfindingslogfiler"
   ],
@@ -56564,6 +56812,9 @@
   ],
   "LSNOYf": [
     "Ingen apps eller kommandoer matcher din søgning"
+  ],
+  "LSoXK5": [
+    "(Valgfrit) Send mig e-mails med Discord-opdateringer, tips og særtilbud. Vi sporer, hvad du åbner og klikker på for at se, hvad du finder nyttigt."
   ],
   "LT5TnZ": [
     "Under"
@@ -61938,6 +62189,9 @@
   "NaZyYC": [
     "Meddelelser"
   ],
+  "Nb1EQx": [
+    "Det er kun dig, der kan se dette"
+  ],
   "Nb2/RE": [
     "Ny tråd"
   ],
@@ -62503,12 +62757,12 @@
     ". Hvis du synes, det er ekstra sejt, så behold det endnu længere, når du er på Nitro."
   ],
   "NpUfej": [
-    "Nu bliver dine gevinster fra missioner til megagevinster med en multiplikator på x",
+    "Nu bliver dine missionssejre til megasejre med ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    " på Orbs-belønninger."
+    "x belønninger, når du abonnerer på Nitro. Du kan opsige det når som helst"
   ],
   "NpchGq": [
     "Interesser"
@@ -63312,6 +63566,9 @@
   ],
   "OBr7Cw": [
     "Valgmuligheder for kanal"
+  ],
+  "OBskVU": [
+    "Indstillinger for server-hub"
   ],
   "OBuzJr": [
     "Den højeste score for sejre får lov til at bære kronen."
@@ -64235,6 +64492,9 @@
   "OZRgjw": [
     "Hvad er problemet?"
   ],
+  "OZj923": [
+    "Følg med i, hvad de laver, og hav det sjovt sammen."
+  ],
   "Oa//IE": [
     "Inkluderer en af de valgte typer data"
   ],
@@ -64995,7 +65255,7 @@
     "Føj brugerdefinerede lyde til alle på din server. Trommehvirvel, tak!"
   ],
   "OqHiIt": [
-    "Tilslut serveren"
+    "Join serveren"
   ],
   "OqNY0/": [
     "Lader medlemmer bandlyse andre medlemmer af denne server permanent og slette vedkommendes beskedhistorik."
@@ -65578,6 +65838,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Træk og slip dine yndlingslyde i den rækkefølge, du ønsker."
+  ],
   "P/KFXz": [
     "Bare så du ved det, så er personer, du har blokeret eller ignoreret, på denne scene."
   ],
@@ -65725,6 +65988,9 @@
         "Du har lige boostet serveren."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Skyggefarve"
   ],
   "P5keo3": [
     "Kiste"
@@ -67825,6 +68091,9 @@
   "Q+YV/T": [
     "Skift popout-billedet for indbakken"
   ],
+  "Q+dH5r": [
+    "Nyt look, nye udfordringer"
+  ],
   "Q+fhfv": [
     "Støjdæmpning til"
   ],
@@ -68454,6 +68723,9 @@
   "QHHwRR": [
     "Bekræftet"
   ],
+  "QHrFo6": [
+    "Du kan ikke videresende beskeder til denne aldersbegrænsede kanal."
+  ],
   "QHvDTL": [
     "Lås"
   ],
@@ -68889,7 +69161,7 @@
     "Download Discords skrivebordsapp for at anvende skærmdeling."
   ],
   "QSqW06": [
-    "Lås op for belønninger"
+    "Lås op for belønning"
   ],
   "QT+Ai7": [
     "Det ser ud til, at du ikke har fuldført missionen for denne belønning endnu!"
@@ -69549,6 +69821,9 @@
   ],
   "Qnf32C": [
     "Del min fulde profil med"
+  ],
+  "Qno0jg": [
+    "Du har endnu ikke optjent nogen emblemer"
   ],
   "QntEEG": [
     "Ændr udseendet af chatbeskeder."
@@ -71339,6 +71614,9 @@
   "RV3AXf": [
     "Din konto har ingen udløbne overtrædelser."
   ],
+  "RVEiD0": [
+    "Har vi taget fejl?"
+  ],
   "RVHDnH": [
     "PayPal-oplysninger"
   ],
@@ -71721,6 +71999,9 @@
   ],
   "RfkLDs": [
     "Ny kode i:"
+  ],
+  "RgDY7v": [
+    "Forhåndsvis server"
   ],
   "RgIi2B": [
     "Afstemning"
@@ -72509,6 +72790,9 @@
   ],
   "S0H8in": [
     "Påmindelser sat på pause"
+  ],
+  "S0ODmT": [
+    "Sikkerhedsindstillinger"
   ],
   "S0W8Z5": [
     "Forbind"
@@ -74755,6 +75039,9 @@
   ],
   "Str6/o": [
     "Jeg ledte efter en bestemt besked, som jeg kendte den præcise ordlyd af"
+  ],
+  "StrErG": [
+    "Din besked blev fjernet"
   ],
   "Su1Zkt": [
     "Hej, Android-venner"
@@ -79963,6 +80250,9 @@
   "V+IE93": [
     "Bliv medlem af Nitro for at få adgang til dette navneskilt!"
   ],
+  "V+Iv+U": [
+    "Vælg en app"
+  ],
   "V+Pwy9": [
     "Nordkorea"
   ],
@@ -80146,6 +80436,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Meddelelsestjenesteudvidelse"
   ],
   "V4UDY1": [
     "Bed dine venner om at invitere dig til deres servere, som er steder, hvor man kan hænge ud og tale sammen."
@@ -80979,6 +81272,9 @@
   "VQ5Xo9": [
     "Portugisisk, Brasiliansk"
   ],
+  "VQKK5O": [
+    "Systemlager-snapshot"
+  ],
   "VQOSXq": [
     "Når du accepterer, vil du have kredit til ",
     [
@@ -81083,6 +81379,9 @@
       "price"
     ],
     " / Hver måned"
+  ],
+  "VSunuT": [
+    "Upload lagerdiagnostik"
   ],
   "VT02mI": [
     "Du har ingen emblemer! Se de emblemer, du kan optjene."
@@ -81550,7 +81849,7 @@
     "Jeg har haft lyst til at læse flere bøger på det seneste, men jeg har ikke rigtig fundet motivationen til at begynde på nogen. Jeg savner bare følelsen af at være helt opslugt af en bog."
   ],
   "VearyN": [
-    "Small"
+    "Lille"
   ],
   "Vej1Nw": [
     [
@@ -82294,6 +82593,9 @@
   ],
   "VxBO2F": [
     "Profilopdateringer"
+  ],
+  "VxE3o6": [
+    "Regel for appmoderering"
   ],
   "VxN3Lo": [
     "AutoMod timeout"
@@ -83588,6 +83890,9 @@
   "WVbpcy": [
     "Tilføj en biografi"
   ],
+  "WViBDk": [
+    "Vi sporer, hvilke e-mails du åbner, og hvad du klikker på for at se, hvad du finder nyttigt."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -84687,6 +84992,9 @@
   ],
   "Wrg9Jn": [
     "Deaktiveret regel"
+  ],
+  "WrleYK": [
+    "Aktivér regel"
   ],
   "Wrvb3V": [
     "Abonnementsfordele"
@@ -86427,6 +86735,9 @@
   "XcGEcs": [
     "Overlay er ikke understøttet for dette spil."
   ],
+  "XcOMLu": [
+    "Spar på dit nye look"
+  ],
   "XcPHfw": [
     "Færdig"
   ],
@@ -87989,6 +88300,9 @@
   "YCCMkJ": [
     "Vis en bekræftelsesprompt, før du skifter til en anden stemmekanal."
   ],
+  "YCIfhC": [
+    "Discord er en gratis app til at chatte, streame og slappe af"
+  ],
   "YCZldK": [
     "Lås op for en verden fyldt med ekstra fordele med Nitro"
   ],
@@ -88272,6 +88586,9 @@
   "YK+wUg": [
     "PC"
   ],
+  "YKJw4W": [
+    "Nu er dine Orbs nemmere at spore og nemmere at optjene."
+  ],
   "YKVlC7": [
     "Din video vises i øjeblikket i reduceret kvalitet. Dette kan være på grund af netværksforhold."
   ],
@@ -88452,6 +88769,9 @@
   ],
   "YQP5dE": [
     "Tilsluttet"
+  ],
+  "YQPbuc": [
+    "Bekræft, at du opfylder minimumskravet til alder i dit område"
   ],
   "YQix8y": [
     "Element gennemført"
@@ -88846,6 +89166,9 @@
   ],
   "YZookV": [
     "Standardkanaler og spørgsmål før tilslutning"
+  ],
+  "YZqqTX": [
+    "Send beskeder fra Whiteboard"
   ],
   "YaW9wI": [
     "Boost din server til Level ",
@@ -90230,6 +90553,9 @@
   "Z3Vn/X": [
     "Hvad er det mest ubrugelige talent, du har?"
   ],
+  "Z3uXLR": [
+    "Indlejr builder"
+  ],
   "Z43V9S": [
     "Slet brugerdefineret billede: ",
     [
@@ -90345,6 +90671,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Hop ind og ud af stemme- eller tekstkanaler"
   ],
   "Z74GUL": [
     "Når du abonnerer, låser du op for ",
@@ -92221,7 +92550,7 @@
     "Tryk for at vise spoiler"
   ],
   "ZqCAos": [
-    "Optjen Orbs hurtigere"
+    "Lås op for flere Orbs"
   ],
   "ZqK0uI": [
     "Popup-vindue"
@@ -92302,6 +92631,9 @@
   ],
   "Zs9h9Z": [
     "Boost dine yndlingsservere"
+  ],
+  "ZsAL7q": [
+    "Skjul venneliste"
   ],
   "ZsO1Sx": [
     "Dit abonnement med chatfordele og en boost-rabat til ",
@@ -92608,6 +92940,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Opret en tråd"
   ],
   "ZxNVMy": [
     "Prøv en anden søgning, eller ",
@@ -94037,7 +94372,7 @@
     "Ungarsk forint"
   ],
   "abaDI+": [
-    "Et sted til dig og dine venner"
+    "Skab et sted til dig og dine venner"
   ],
   "abacus": [
     "kugleramme",
@@ -94939,6 +95274,9 @@
       ]
     ],
     "."
+  ],
+  "ar2OUZ": [
+    "Billedfilen er for stor."
   ],
   "ar3a3q": [
     "De oplysninger, du indsender, bruges udelukkende til at bekræfte din aldersgruppe, hvorefter de slettes."
@@ -99418,6 +99756,9 @@
   "cHszXg": [
     "Tilføj medlemmer"
   ],
+  "cHxSwT": [
+    "Delvis lagerdiagnostik uploadet. Nogle filer kunne ikke vises på listen, eller en scanningsgrænse blev nået."
+  ],
   "cHzQ2O": [
     "Gør indsigelse mod karantæne"
   ],
@@ -99724,7 +100065,7 @@
     "Esc"
   ],
   "cR6336": [
-    "Ingen aldersbekræftelsesmetoder er tilgængelige. Dette kan være en fejl."
+    "Ingen metoder til aldersbekræftelse tilgængelig. Prøv igen om lidt."
   ],
   "cR7lcs": [
     [
@@ -99827,6 +100168,13 @@
   ],
   "cSb7U0": [
     "Deaktiver Familiecenter"
+  ],
+  "cSfYIv": [
+    [
+      2,
+      "count"
+    ],
+    " klip valgt"
   ],
   "cSgdvE": [
     "Tryk to gange for at se profil"
@@ -100491,6 +100839,9 @@
   ],
   "cfeFEt": [
     "Betalingen blev ikke gennemført"
+  ],
+  "cfrfyZ": [
+    "Vis et forslag, når Discord registrerer en ny lydenhed."
   ],
   "cfu/5d": [
     "Nitro årligt"
@@ -103644,6 +103995,9 @@
   "dcK4Ch": [
     "Du kan ændre dette senere."
   ],
+  "dcOuei": [
+    "Se udfordringer"
+  ],
   "dcSDhW": [
     "Skal have en ",
     [
@@ -106652,7 +107006,7 @@
     "Canadiske dollar"
   ],
   "efLpNC": [
-    "Dine højdepunkter og bedste øjeblikke"
+    "højdepunkter og bedste øjeblikke"
   ],
   "efLzgX": [
     "Varigheden eller antallet af nye medlemmer, der kan deltage, før denne invitation udløber."
@@ -107309,6 +107663,29 @@
   "euXi0Q": [
     "Du gennemser en ansøgning fra een, som vil joine din server. De kan ikke joine eller tale på serveren, før du har godkendt dem."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server har"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servere har"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " brugerdefinerede indstillinger"
+  ],
   "euizJY": [
     [
       1,
@@ -107358,6 +107735,13 @@
   ],
   "eutr4P": [
     "Fortæl os lidt om dig"
+  ],
+  "evGwDW": [
+    "Udkast – planlagt til at gå live ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Beskedanmodninger – ",
@@ -108003,6 +108387,9 @@
   ],
   "fAQ/8h": [
     "Vælg en kanal, som du synes, nye medlemmer skal besøge."
+  ],
+  "fAU31r": [
+    "Til gaming, til at hænge ud eller måske ... lektier."
   ],
   "fAW3z4": [
     "Ingen matcher fundet"
@@ -110101,6 +110488,9 @@
   "fr5bJy": [
     "Tryk på output-omskifteren for at skifte til konsol."
   ],
+  "fr7qnZ": [
+    "Vælg produkter"
+  ],
   "frCwaT": [
     "Deres beskeder vil blive skjult"
   ],
@@ -110981,6 +111371,9 @@
   ],
   "gEp2SG": [
     "Søger i spilprofiler"
+  ],
+  "gF8HJo": [
+    "Forslag til lydenhed"
   ],
   "gF8IpD": [
     "Bruger, som skal smides ud"
@@ -112368,6 +112761,9 @@
   ],
   "gn2c6X": [
     "Konto anmeldt"
+  ],
+  "gn3Poi": [
+    "Opret et invitationslink, som alle kan bruge til at deltage, eller inviter venner direkte."
   ],
   "gn7SZe": [
     "Se de seneste avatardekorationer og profileffekter, og saml dine favoritter."
@@ -114683,6 +115079,9 @@
   "hcMwDW": [
     "Efter en dato"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Lyn-emblem"
   ],
@@ -116409,6 +116808,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Tilføj billede"
+  ],
   "iG+nZx": [
     "Tjek, om tilladelserne på dine To Do- og Resource-kanaler er indstillet korrekt."
   ],
@@ -117009,6 +117411,9 @@
   ],
   "iVfA9i": [
     "længst til højre"
+  ],
+  "iVqj8B": [
+    "Startside for Clips"
   ],
   "iVzBOh": [
     "Kopiér link"
@@ -117783,7 +118188,7 @@
     "Få dit navn til at skille sig ud på servere og i chats."
   ],
   "ikNKf1": [
-    "Autoclips"
+    "Autoklip"
   ],
   "ikpHeS": [
     "Konkurrerer i ",
@@ -118289,7 +118694,7 @@
     "Nej tak"
   ],
   "ivpn6G": [
-    "Vælg en gratis dekoration at beholde"
+    "Vælg en gratis dekoration, som du kan beholde"
   ],
   "iw0hFi": [
     [
@@ -118657,6 +119062,9 @@
     ],
     "-konti"
   ],
+  "j3AKJQ": [
+    "Filen er ikke et understøttet billedformat. Prøv formaterne PNG, JPEG eller WebP."
+  ],
   "j3KOkh": [
     "Du har overtrådt Discords regler, og du kan miste adgang til din konto, hvis du overtræder dem igen."
   ],
@@ -118978,6 +119386,9 @@
   ],
   "jCOdvx": [
     "Tilføjede spil"
+  ],
+  "jCQlbu": [
+    "Downloade Discord App"
   ],
   "jCV1Tz": [
     "ALT"
@@ -121030,7 +121441,7 @@
     ]
   ],
   "k5w7Jy": [
-    "Large"
+    "Stor"
   ],
   "k6NlxZ": [
     "Og fordobl dem"
@@ -121475,6 +121886,9 @@
   ],
   "kHMgaK": [
     "Du kan nu modtage betaling for serverindtægtsgenerering."
+  ],
+  "kHNeDa": [
+    "Appen vælger, hvilken handling der skal foretages for hver besked, herunder om beskeden skal blokeres, eller der ingenting skal ske."
   ],
   "kHalVA": [
     "Duplikér fordelene eller kanaltilladelserne fra et eksisterende niveau eller rolle."
@@ -123252,6 +123666,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Del alt"
+  ],
   "l3K4B/": [
     "Nævnte-bruger"
   ],
@@ -123529,6 +123946,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Invitationer udløber om ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dage"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Først tilføjet"
@@ -124441,6 +124881,13 @@
   "lZejCq": [
     "Inkluder @role nævnte"
   ],
+  "lZuIri": [
+    "Billede-overlay: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Indstillinger, der indsamler tekniske data, som Discord Support kan analysere, såsom fejlrettelseslogning og lydoptagelse"
   ],
@@ -124750,6 +125197,12 @@
   ],
   "lg3Ckc": [
     "Du kan anvende streamer-tilstand for at skjule personlige detaljer, mens du streamer."
+  ],
+  "lgDNyX": [
+    "Vis server hub-fanen i kanallisten"
+  ],
+  "lgHr73": [
+    "Chat, stream og slap af"
   ],
   "lgcisd": [
     "Server med ",
@@ -128559,6 +129012,18 @@
   ],
   "mmNkUA": [
     "Få et brugerdefineret invitationslink med boosts – intet niveau påkrævet! Perfekt til at få din server til at vokse."
+  ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " valgt"
   ],
   "mmZGEG": [
     "Tjen ",
@@ -132460,7 +132925,7 @@
     "! Og med Nitro kan du beholde den. God fornøjelse!"
   ],
   "o9PQEi": [
-    "Forvandl missionsejre til megasejre med en ",
+    "Forvandl dine sejre til megasejre med en ",
     [
       2,
       "bonusOrbMultiplier"
@@ -136141,6 +136606,14 @@
     "pause",
     "pauseknap"
   ],
+  "pb2Was": [
+    "Tilføj op til ",
+    [
+      2,
+      "numClips"
+    ],
+    " klip"
+  ],
   "pb7lpK": [
     "Vælg emblem"
   ],
@@ -136958,6 +137431,9 @@
   "piPHvY": [
     "Velkommen"
   ],
+  "piRNeN": [
+    "Billedet kunne ikke læses."
+  ],
   "piW6YS": [
     "Indsend"
   ],
@@ -137611,6 +138087,9 @@
   "pqk9U0": [
     "Se flere"
   ],
+  "pqph/A": [
+    "Når du er ledig – der kommer ingen opkald eller invitationer."
+  ],
   "pqqixk": [
     "Til"
   ],
@@ -137861,6 +138340,9 @@
   ],
   "put7Hw": [
     "valgmuligheder"
+  ],
+  "putVLl": [
+    "Sådan bruger du brugerdefinerede reaktioner, indlejringer og bots."
   ],
   "put_litter_in_its_place": [
     "affald",
@@ -139230,6 +139712,9 @@
       ]
     ]
   ],
+  "qT6LjY": [
+    "I dag kl. 13.00"
+  ],
   "qTCYun": [
     "Vil du også anvende denne ændring på alle dine eksisterende servere?"
   ],
@@ -139895,6 +140380,9 @@
   "qnJ9W3": [
     "Rapportér et problem"
   ],
+  "qnSo/i": [
+    "Social handel"
+  ],
   "qnYumI": [
     [
       6,
@@ -140052,6 +140540,9 @@
   ],
   "qpWnyC": [
     "Gå til Indstillinger"
+  ],
+  "qpw1d9": [
+    "Du kan kun dele 10 klip ad gangen."
   ],
   "qpwaNY": [
     "Udgivelsesdato"
@@ -142015,6 +142506,14 @@
   ],
   "rb7dJ7": [
     "Navneskilte"
+  ],
+  "rbAtUi": [
+    "Live – udgivet ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
   ],
   "rbIry3": [
     "Opdater tråd"
@@ -144693,6 +145192,9 @@
   "sS2J0G": [
     "Der er ikke nogen her endnu!\nDu kan bare hoppe ind, når du er klar til at tale."
   ],
+  "sS4xGd": [
+    "Opret en delbar indlejring for udvalgte produkter fra din Game Shop."
+  ],
   "sSAQtj": [
     "Opdaterede egenskaber for tråd"
   ],
@@ -145563,6 +146065,9 @@
       "count"
     ],
     " ikke tildelt"
+  ],
+  "sgse8P": [
+    "Vis venneliste"
   ],
   "shE8hW": [
     "Vink til andre, del din skærm eller bare start med at chatte."
@@ -149211,6 +149716,9 @@
   "to6uUe": [
     "Vis score i rytmespil!"
   ],
+  "toGFBn": [
+    "Lås udvidelse af skærm-widget"
+  ],
   "toKjAM": [
     "din-url-her"
   ],
@@ -150738,6 +151246,9 @@
         "meget begrænset."
       ]
     ]
+  ],
+  "uF5VXk": [
+    "Billedet kan ikke føjes til et klip."
   ],
   "uFHxNd": [
     "Bekræft ny gruppe"
@@ -152449,6 +152960,42 @@
   "uy25Qz": [
     "Stickere fra denne server er ikke tilgængelige"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " har brugerdefinerede DM-tilladelser. Vælg den for at se eller ændre dem."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servere"
+            ]
+          ],
+          " har brugerdefinerede DM-tilladelser. Vælg én for at se eller ændre dem."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Opslagets titel"
   ],
@@ -152835,6 +153382,9 @@
   ],
   "v8MLqz": [
     "Deling er ikke tilgængelig i den kanal"
+  ],
+  "v8QrJf": [
+    "Dine Orbs er klar til indløsning"
   ],
   "v8UpgE": [
     "Besøg Game Shop"
@@ -156127,6 +156677,9 @@
   "wR+Fuo": [
     "Gør denne tråd stum"
   ],
+  "wR5R9w": [
+    "Skift billede"
+  ],
   "wR5wOo": [
     "Profileffekt"
   ],
@@ -156176,6 +156729,9 @@
   ],
   "wS+5Wb": [
     "Inviter til at se stream"
+  ],
+  "wSD7jV": [
+    "Vælg en kanal til sikkerhedsmeddelelser"
   ],
   "wSZfJR": [
     "\"Jeg anmeldte dig ved et uheld\""
@@ -160316,6 +160872,9 @@
   "xhQsxx": [
     "Få adgang til din Nitro-status"
   ],
+  "xhZ23b": [
+    "xhZ23b"
+  ],
   "xhgNd0": [
     [
       1,
@@ -160755,7 +161314,7 @@
     "."
   ],
   "xrOIkz": [
-    "Autoclips"
+    "Autoklip"
   ],
   "xrYNBI": [
     "Er du sikker på, du vil afslutte podiet for alle?"
@@ -164759,6 +165318,9 @@
   "zZp618": [
     "Her er alle de enheder, der i øjeblikket er logget ind med din Discord-konto. Du kan logge ud af hver enkelt enhed eller af alle andre enheder.\n\nHvis du ser et opslag, du ikke kan genkende, skal du logge af den pågældende enhed og ændre adgangskoden til din Discord-konto med det samme."
   ],
+  "zaEQz+": [
+    "Browserdata ryddet."
+  ],
   "zany_face": [
     "ansigt",
     "fjoget",
@@ -164819,6 +165381,9 @@
   ],
   "zcKE8W": [
     "Xbox-mobilapp installeret"
+  ],
+  "zcZtrU": [
+    "Tilpas emblemer"
   ],
   "zcbFu1": [
     "Brugt emoji"

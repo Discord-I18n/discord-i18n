@@ -95,6 +95,9 @@
   "+1k/lP": [
     "Introducing Community Onboarding"
   ],
+  "+20A3o": [
+    "Couldn’t add that image. Please try again."
+  ],
   "+2QBZX": [
     "Hmmm, we weren’t able to load Shop Gifts. Check back later."
   ],
@@ -3825,6 +3828,9 @@
   "/Whuzi": [
     "While using a Discord Certified microphone, certain voice processing features are no longer handled by Discord itself\nbut rather by the microphone."
   ],
+  "/WsW/1": [
+    "Try out profile theme"
+  ],
   "/X1ny6": [
     "Browse the Shop and heart the items you love to add them here."
   ],
@@ -4377,6 +4383,24 @@
   ],
   "/nALeY": [
     "Other Feedback"
+  ],
+  "/nFLZv": [
+    "Promo eligible: ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected – ",
+    [
+      1,
+      "numDays"
+    ],
+    " days left"
   ],
   "/nJOlj": [
     "Activity was lagging or freezing"
@@ -5115,10 +5139,19 @@
     ],
     " Orbs in ",
     [
-      1,
-      "days"
-    ],
-    " days"
+      6,
+      "days",
+      {
+        "one": [
+          "day"
+        ],
+        "other": [
+          "days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Upload ",
@@ -5904,6 +5937,9 @@
   ],
   "0N1s81": [
     "Security Keys and Passkeys"
+  ],
+  "0N8fCf": [
+    "Oh hey, generous. You’ve sent enough gifts to earn a profile badge that levels up the more you give."
   ],
   "0NJZAU": [
     "Linked to ",
@@ -7510,6 +7546,9 @@
   "0sTyEb": [
     "Submit your application to join the server."
   ],
+  "0sh8CQ": [
+    "Show emoji suggestions as you type"
+  ],
   "0t1aNC": [
     "Edit tier emojis"
   ],
@@ -8772,6 +8811,9 @@
   "1RD2jW": [
     "Something went wrong trying to open this method."
   ],
+  "1RFJ5Q": [
+    "Join Community"
+  ],
   "1RH5t9": [
     "Invited"
   ],
@@ -9838,6 +9880,9 @@
   ],
   "1zoOqj": [
     "Share the magic of Nitro."
+  ],
+  "2+/rrF": [
+    "Get discounts on profile items, plus custom emojis, HD streaming and more with Nitro."
   ],
   "2+A3dv": [
     "Cooldown! Boost cannot be moved for ",
@@ -11281,7 +11326,7 @@
     "Remove downloadables?"
   ],
   "2X8Wod": [
-    "Don't Switch"
+    "Don’t Switch"
   ],
   "2XIdPp": [
     "This permission will soon stop granting the ability to pin messages."
@@ -14670,6 +14715,23 @@
   "3jG0Bo": [
     "Allows members to view this channel by default. Disabling this for @everyone will make this channel private."
   ],
+  "3jY5i3": [
+    "If you like YouTube, you’ll love Premium. Take 20% off your next 6 months, whether you’re new to YouTube Premium or already in. ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3jaCac": [
     "All downloadables"
   ],
@@ -14834,6 +14896,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Version"
   ],
   "3nWhcJ": [
     "Accept gift"
@@ -16930,6 +16995,9 @@
   ],
   "4fnE/J": [
     "We could not validate your login link. Please try again."
+  ],
+  "4fvi9I": [
+    "Your friends, at a glance."
   ],
   "4fw/T2": [
     "You just Boosted the server ",
@@ -19391,6 +19459,29 @@
   "5fWB8U": [
     "Manage profile and status"
   ],
+  "5fXjSj": [
+    "Invite expires in ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Send Invite"
   ],
@@ -21246,6 +21337,9 @@
   ],
   "6MwJo/": [
     "Show less"
+  ],
+  "6NbEkN": [
+    "Choose an app before saving this rule."
   ],
   "6Nmv4i": [
     "Our privacy farmers have begun harvesting your data. This can take up to 30 days, but we'll email you when it's done."
@@ -23124,6 +23218,9 @@
     ],
     " to the group."
   ],
+  "7/h5vj": [
+    "None of the apps in this server can moderate messages yet."
+  ],
   "7/qtoL": [
     "This ",
     [
@@ -24617,6 +24714,9 @@
   "7ioAjs": [
     "Available Offers"
   ],
+  "7itT3E": [
+    "Browse Other Servers"
+  ],
   "7j/5mg": [
     [
       6,
@@ -25099,6 +25199,9 @@
   ],
   "7rOU6j": [
     "Sync with computer"
+  ],
+  "7raRgL": [
+    "Redeem Orbs"
   ],
   "7rkg+/": [
     "Stop Watching – ",
@@ -26803,6 +26906,19 @@
   "8XT6Nf": [
     "Gift duration"
   ],
+  "8XhAe3": [
+    "Promo eligible: ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "target"
+    ],
+    " collected"
+  ],
   "8Xm6uL": [
     [
       8,
@@ -27006,6 +27122,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Your post was removed"
   ],
   "8dCrV9": [
     "Resolve"
@@ -29103,6 +29222,13 @@
   ],
   "9U0b1k": [
     "Create Your First Discord Server"
+  ],
+  "9U3Wb3": [
+    "Your message was deleted in ",
+    [
+      1,
+      "channel"
+    ]
   ],
   "9UAXh4": [
     "You are sending messages too quickly"
@@ -33328,6 +33454,9 @@
   "BEFwGd": [
     "Images"
   ],
+  "BEL9MJ": [
+    "Share extension"
+  ],
   "BENn/6": [
     "All Live Stages"
   ],
@@ -34265,12 +34394,12 @@
     " ago"
   ],
   "Ba/7wO": [
-    "Nitro members earn ",
+    "Subscribe to grow your stash with monthly Orbs and ",
     [
       1,
       "multiplier"
     ],
-    "x on everything"
+    "x rewards."
   ],
   "BaI6L4": [
     "Ask the guardian to restore access in the app store’s parental controls (Apple or Google Play)."
@@ -34418,6 +34547,9 @@
   ],
   "Bd6dOf": [
     "Permanently close your account."
+  ],
+  "BdIVB+": [
+    "Level up your YouTube with Premium"
   ],
   "BdQTfR": [
     [
@@ -34623,6 +34755,9 @@
   ],
   "BhWgyQ": [
     "Enter your password to view backup codes."
+  ],
+  "BhYGtj": [
+    "Screen share extension"
   ],
   "BhjXCp": [
     "Browse Shop"
@@ -36610,6 +36745,9 @@
   "CU+6oJ": [
     "'ENTER' to Search"
   ],
+  "CUAKSg": [
+    "Draft – not published"
+  ],
   "CUBxDB": [
     "It may take a few minutes for the DNS record to propagate."
   ],
@@ -37236,6 +37374,9 @@
   ],
   "Cm4aDQ": [
     "Pop Out Stream"
+  ],
+  "CmLD50": [
+    "Stream like you’re in the room"
   ],
   "CmSHYx": [
     "Search for friends"
@@ -38203,6 +38344,9 @@
   ],
   "DH2o6R": [
     "Click to disable pinging the original author."
+  ],
+  "DHLE0q": [
+    "Chat with the whole community"
   ],
   "DHWKJS": [
     "Discard all changes and delete this tier."
@@ -40152,6 +40296,13 @@
   ],
   "EDYbS+": [
     "Uh-oh! Something went wrong while updating this message request. Please wait a moment and try again."
+  ],
+  "EDmwVf": [
+    "Text overlay: ",
+    [
+      1,
+      "text"
+    ]
   ],
   "EE+P0H": [
     "Invite to Voice"
@@ -42726,6 +42877,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Choose an app to check messages"
+  ],
   "FKYNC6": [
     "Nitro Monthly"
   ],
@@ -43596,6 +43750,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "What’s Discord?"
+  ],
   "FlcC+3": [
     "Removes the application from this server"
   ],
@@ -43985,6 +44142,9 @@
   "FzgQna": [
     "Friends & All Servers"
   ],
+  "Fzi4HX": [
+    "Upload file names, sizes and timestamps from app storage to your debug logs to help investigate storage usage."
+  ],
   "FzjizJ": [
     "Customise your profile"
   ],
@@ -44245,12 +44405,12 @@
     "You must complete a few more steps before you can start talking in this server."
   ],
   "G5k+lZ": [
-    "Turn Quest wins into mega wins with a ",
+    "Turn your wins into mega wins with ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplier on Orb Rewards."
+    "x rewards when you subscribe to Nitro. Cancel at any time."
   ],
   "G6+XOT": [
     "Your ",
@@ -45620,6 +45780,9 @@
   ],
   "GYpoAq": [
     "Mature Sexual Media"
+  ],
+  "GZWBoL": [
+    "Save up to 20% in the Shop"
   ],
   "GZa4J0": [
     "This app is not available."
@@ -47213,6 +47376,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Storage diagnostics uploaded."
+  ],
   "H9Jxp6": [
     "Add up to ",
     [
@@ -47263,7 +47429,7 @@
     "Your game server is ready! Manage it anytime from ‘Game Servers’ tab in Shop."
   ],
   "HACucK": [
-    "You have enough Orbs to get something in the Shop!"
+    "You’ve got enough to grab something in the Shop."
   ],
   "HADQ6n": [
     [
@@ -47755,6 +47921,9 @@
   "HNo5cG": [
     "Select Image"
   ],
+  "HNqvOh": [
+    "Clear Browser Data"
+  ],
   "HO/lY5": [
     "App (Spoiler)"
   ],
@@ -48238,6 +48407,9 @@
   "HZPBOd": [
     "Enter Discord Auth Code"
   ],
+  "HZPns7": [
+    "Show Server Hub Settings"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -48515,6 +48687,22 @@
   ],
   "Hgdhwb": [
     "Are you sure you want to exit? You have unsaved changes to this product that may be lost if you leave now."
+  ],
+  "Hgo1xT": [
+    "New Nitro Reward! Get 20% off your next 6 months of YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
   ],
   "HhfrYS": [
     "Play for ",
@@ -49285,7 +49473,7 @@
     " on us"
   ],
   "I1h8uD": [
-    "Discover your Autoclips"
+    "Discover your Auto Clips"
   ],
   "I1nKfO": [
     "Tell us how you feel about safety on Discord."
@@ -50927,6 +51115,29 @@
   "Ifb6XJ": [
     "Super React"
   ],
+  "Ifgxdy": [
+    "Invite expires in ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " hour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " hours"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -50958,6 +51169,22 @@
   ],
   "Igv+LS": [
     "See emoji details"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    " font, ",
+    [
+      1,
+      "effectName"
+    ],
+    " effect, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -51855,6 +52082,9 @@
   "IyUi6q": [
     "Turn heads in every server, every DM, everywhere people see your profile."
   ],
+  "IyXIFu": [
+    "Clears in-app browser cache, cookies and website data. This might sign you out of websites."
+  ],
   "IyYqqY": [
     "Connected on another client"
   ],
@@ -52748,6 +52978,9 @@
   "JM7Y2D": [
     "Voice message recording stopped because Discord wasn’t active."
   ],
+  "JMWqry": [
+    "Join the Conversation"
+  ],
   "JMbfnc": [
     "Keep it up!"
   ],
@@ -53175,7 +53408,7 @@
     "Your subscription is on hold. You need to update your payment information before buying Boosts."
   ],
   "Jat8cd": [
-    "Switch output"
+    "Switch Output"
   ],
   "Jb8PYM": [
     "a character with blue skin with a large smile, wearing a pink baseball cap"
@@ -53400,6 +53633,9 @@
   ],
   "JhDw5o": [
     "Return to Login"
+  ],
+  "JhE8nA": [
+    "Nitro saves you up to 20% on all Shop purchases. Subscribe to unlock your discount, custom profiles and more."
   ],
   "JhNpgy": [
     "Custom Colours"
@@ -53851,6 +54087,9 @@
   "JzaP4h": [
     "DM Spam Filter"
   ],
+  "JzbSEY": [
+    "Mentions + Unreads"
+  ],
   "Jzd+z/": [
     "Choose a name for your new key"
   ],
@@ -53912,6 +54151,9 @@
   ],
   "K0e7M9": [
     "Retry video"
+  ],
+  "K1URjQ": [
+    "Manage settings for your Server Hub."
   ],
   "K1gWXn": [
     "Is your mic extra fancy and silencing itself? In that case you can turn off the red warning by clicking the\nteeny tiny small text below."
@@ -54333,6 +54575,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Reorder your favourite sounds!"
   ],
   "KG/ynf": [
     "Whoops"
@@ -55662,7 +55907,7 @@
     ]
   ],
   "KmK3q4": [
-    "Create invite link"
+    "Create Invite Link"
   ],
   "KmRwcW": [
     "Continue"
@@ -56204,6 +56449,9 @@
   ],
   "L/PwZf": [
     "Link Copied!"
+  ],
+  "L/aQij": [
+    "Unable to upload storage diagnostics. Try again."
   ],
   "L/hFOe": [
     "View debug logs folder"
@@ -57209,6 +57457,9 @@
   ],
   "LSNOYf": [
     "No apps or commands match your search"
+  ],
+  "LSoXK5": [
+    "(Optional) Send me emails with Discord updates, tips and special offers. We track opens and clicks to learn what’s useful."
   ],
   "LT5TnZ": [
     "During"
@@ -62676,6 +62927,9 @@
   "NaZyYC": [
     "Notifications"
   ],
+  "Nb1EQx": [
+    "Only you can see this"
+  ],
   "Nb2/RE": [
     "New Thread"
   ],
@@ -63241,12 +63495,12 @@
     ". If you think it’s extra cool, keep it even longer while on Nitro."
   ],
   "NpUfej": [
-    "Now your Quest wins become mega wins with a ",
+    "Now your Quest wins become mega wins with ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplier on Orb Rewards."
+    "x rewards when you subscribe to Nitro. Cancel at any time"
   ],
   "NpchGq": [
     "Interests"
@@ -64050,6 +64304,9 @@
   ],
   "OBr7Cw": [
     "Channel Options"
+  ],
+  "OBskVU": [
+    "Server Hub Settings"
   ],
   "OBuzJr": [
     "The top score for wins gets to wear the crown."
@@ -64972,6 +65229,9 @@
   ],
   "OZRgjw": [
     "What's the issue?"
+  ],
+  "OZj923": [
+    "Keep up with what they’re up to and have fun together."
   ],
   "Oa//IE": [
     "Includes any of the selected types of data"
@@ -66315,6 +66575,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Drag and drop your favourite sounds in any order you like."
+  ],
   "P/KFXz": [
     "Just so you know, people you’ve blocked or ignored are in this Stage."
   ],
@@ -66462,6 +66725,9 @@
         "You just Boosted the server."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Shadow colour"
   ],
   "P5keo3": [
     "Chest"
@@ -68577,6 +68843,9 @@
   "Q+YV/T": [
     "Toggle inbox pop-out"
   ],
+  "Q+dH5r": [
+    "New look, new challenges"
+  ],
   "Q+fhfv": [
     "Noise Suppression On"
   ],
@@ -69205,6 +69474,9 @@
   ],
   "QHHwRR": [
     "Verified"
+  ],
+  "QHrFo6": [
+    "You can’t forward messages to this age-restricted channel."
   ],
   "QHvDTL": [
     "Clamp"
@@ -70301,6 +70573,9 @@
   ],
   "Qnf32C": [
     "Share my full profile with"
+  ],
+  "Qno0jg": [
+    "You haven’t earned any badges yet"
   ],
   "QntEEG": [
     "Change the appearance of chat messages."
@@ -71629,7 +71904,7 @@
     " Super Reaction successfully added."
   ],
   "RJttRt": [
-    "Switch input + output"
+    "Switch Input + Output"
   ],
   "RK6NbY": [
     "This server could have its own look"
@@ -72065,6 +72340,9 @@
   "RV3AXf": [
     "Your account doesn’t have any expired violations."
   ],
+  "RVEiD0": [
+    "Did we make a mistake?"
+  ],
   "RVHDnH": [
     "PayPal Details"
   ],
@@ -72447,6 +72725,9 @@
   ],
   "RfkLDs": [
     "New code in:"
+  ],
+  "RgDY7v": [
+    "Preview Server"
   ],
   "RgIi2B": [
     "Poll"
@@ -73235,6 +73516,9 @@
   ],
   "S0H8in": [
     "Reminder Pausing"
+  ],
+  "S0ODmT": [
+    "Image settings"
   ],
   "S0W8Z5": [
     "Connect"
@@ -75504,6 +75788,9 @@
   ],
   "Str6/o": [
     "Looking for a specific message that I knew the exact wording of"
+  ],
+  "StrErG": [
+    "Your message was removed"
   ],
   "Su1Zkt": [
     "Hey, Android friends"
@@ -80707,6 +80994,9 @@
   "V+IE93": [
     "Join Nitro to unlock access to this Nameplate!"
   ],
+  "V+Iv+U": [
+    "Select an app"
+  ],
   "V+Pwy9": [
     "North Korea"
   ],
@@ -80890,6 +81180,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Notification service extension"
   ],
   "V4UDY1": [
     "Ask your friends to invite you to their servers, which are places for hanging out and talking."
@@ -81589,7 +81882,7 @@
     "Upgrade to Nitro to express yourself with custom app icons, updated often!"
   ],
   "VLKyL8": [
-    "Switch input"
+    "Switch Input"
   ],
   "VLMG1+": [
     "You recently requested a copy of your data. You can request again on ",
@@ -81726,6 +82019,9 @@
   "VQ5Xo9": [
     "Portuguese, Brazilian"
   ],
+  "VQKK5O": [
+    "System storage snapshot"
+  ],
   "VQOSXq": [
     "Once you accept you'll have credit for ",
     [
@@ -81830,6 +82126,9 @@
       "price"
     ],
     "/Month each"
+  ],
+  "VSunuT": [
+    "Upload Storage Diagnostics"
   ],
   "VT02mI": [
     "You don’t have any badges! Check out badges that you can earn."
@@ -83057,6 +83356,9 @@
   ],
   "VxBO2F": [
     "Profile Updates"
+  ],
+  "VxE3o6": [
+    "App Moderation Rule"
   ],
   "VxN3Lo": [
     "AutoMod Time-out"
@@ -84386,6 +84688,9 @@
   "WVbpcy": [
     "Add a bio"
   ],
+  "WViBDk": [
+    "We track email opens and clicks to see what’s useful and improve the emails that we send."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -85487,6 +85792,9 @@
   ],
   "Wrg9Jn": [
     "Disabled rule"
+  ],
+  "WrleYK": [
+    "Enable Rule"
   ],
   "Wrvb3V": [
     "Subscription Benefits"
@@ -87227,6 +87535,9 @@
   "XcGEcs": [
     "Overlay is not supported for this game."
   ],
+  "XcOMLu": [
+    "Save on your new look"
+  ],
   "XcPHfw": [
     "Finish"
   ],
@@ -88778,6 +89089,9 @@
   "YCCMkJ": [
     "Show a confirmation prompt before switching to a different voice channel."
   ],
+  "YCIfhC": [
+    "Discord is a free app to chat, stream and chill"
+  ],
   "YCZldK": [
     "Unlock a World of Perks with Nitro"
   ],
@@ -89061,6 +89375,9 @@
   "YK+wUg": [
     "PC"
   ],
+  "YKJw4W": [
+    "Now your Orbs are easier to track and easier to earn."
+  ],
   "YKVlC7": [
     "Your video currently has reduced quality. This may be due to network conditions."
   ],
@@ -89241,6 +89558,9 @@
   ],
   "YQP5dE": [
     "Connected"
+  ],
+  "YQPbuc": [
+    "Confirm that you meet the minimum age requirement in your region"
   ],
   "YQix8y": [
     "Item completed"
@@ -89646,6 +89966,9 @@
   ],
   "YZookV": [
     "Default Channels & Pre-join Questions"
+  ],
+  "YZqqTX": [
+    "Send messages from Whiteboard"
   ],
   "YaW9wI": [
     "Boost your server to Level ",
@@ -91046,6 +91369,9 @@
   "Z3Vn/X": [
     "What’s your most useless talent?"
   ],
+  "Z3uXLR": [
+    "Embed Builder"
+  ],
   "Z43V9S": [
     "Delete custom image: ",
     [
@@ -91161,6 +91487,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Drop in and out of voice or text channels"
   ],
   "Z74GUL": [
     "By subscribing, you will unlock ",
@@ -93054,7 +93383,7 @@
     "Click to reveal spoiler"
   ],
   "ZqCAos": [
-    "Earn Orbs faster"
+    "Unlock more Orbs"
   ],
   "ZqK0uI": [
     "Pop-up Window"
@@ -93138,6 +93467,9 @@
   ],
   "Zs9h9Z": [
     "Boost your favourite servers"
+  ],
+  "ZsAL7q": [
+    "Hide Friends List"
   ],
   "ZsO1Sx": [
     "Your chat perks and a Boost discount for ",
@@ -93444,6 +93776,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Create a thread"
   ],
   "ZxNVMy": [
     "Try another search or ",
@@ -94861,7 +95196,7 @@
     "Hungarian Forint"
   ],
   "abaDI+": [
-    "A place for you and your friends"
+    "Create a place for you and your friends"
   ],
   "abikhN": [
     "Downtime active"
@@ -95598,6 +95933,9 @@
       ]
     ],
     "."
+  ],
+  "ar2OUZ": [
+    "That image file is too large."
   ],
   "ar3a3q": [
     "The information you provide is only used to confirm your age group, then it’s deleted."
@@ -99167,6 +99505,9 @@
   "cHszXg": [
     "Add Members"
   ],
+  "cHxSwT": [
+    "Partial storage diagnostics uploaded. Some files could not be listed or a scan limit was reached."
+  ],
   "cHzQ2O": [
     "Appeal Quarantine"
   ],
@@ -99473,7 +99814,7 @@
     "Esc"
   ],
   "cR6336": [
-    "No age verification methods available. This may be an error."
+    "No age verification methods available. Please check again shortly."
   ],
   "cR7lcs": [
     [
@@ -99591,6 +99932,28 @@
   ],
   "cSb7U0": [
     "Disable Family Centre"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Clip selected"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Clips selected"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Double-tap to view profile"
@@ -100113,6 +100476,9 @@
   ],
   "cfeFEt": [
     "Payment failed"
+  ],
+  "cfrfyZ": [
+    "Show a suggestion when Discord detects a new audio device."
   ],
   "cfu/5d": [
     "Nitro Yearly"
@@ -102454,6 +102820,9 @@
   ],
   "dcK4Ch": [
     "You can change this later."
+  ],
+  "dcOuei": [
+    "See Challenges"
   ],
   "dcSDhW": [
     "Must have a ",
@@ -105152,7 +105521,7 @@
     "Canadian Dollar"
   ],
   "efLpNC": [
-    "Your highlights and best moments"
+    "highlights and best moments"
   ],
   "efLzgX": [
     "The duration or number of new members that can join before this invite expires."
@@ -105728,6 +106097,29 @@
   "euXi0Q": [
     "You are reviewing an application from someone who wants to join your server. Until you approve them, they cannot join or talk in the server."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server has"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servers have"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " custom settings"
+  ],
   "euizJY": [
     [
       1,
@@ -105758,6 +106150,13 @@
   ],
   "eutr4P": [
     "Tell us a bit about you"
+  ],
+  "evGwDW": [
+    "Draft – scheduled to go live ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Message Requests – ",
@@ -106350,6 +106749,9 @@
   ],
   "fAQ/8h": [
     "Pick a channel that you think new members should visit."
+  ],
+  "fAU31r": [
+    "For gaming, hanging out or idk, homework."
   ],
   "fAW3z4": [
     "No matches found"
@@ -107905,6 +108307,9 @@
   "fr5bJy": [
     "Tap on the output switcher to switch to console."
   ],
+  "fr7qnZ": [
+    "Select products"
+  ],
   "frCwaT": [
     "Their messages will be hidden"
   ],
@@ -108735,6 +109140,9 @@
   ],
   "gEp2SG": [
     "Searching Game Profiles"
+  ],
+  "gF8HJo": [
+    "Audio Device Suggestions"
   ],
   "gF8IpD": [
     "The user to kick"
@@ -110039,6 +110447,9 @@
   ],
   "gn2c6X": [
     "Account reported"
+  ],
+  "gn3Poi": [
+    "Create an invite link that anyone can use to join, or invite friends directly."
   ],
   "gn7SZe": [
     "Check out the latest Avatar Decorations and Profile Effects and collect your favourite styles."
@@ -112160,6 +112571,9 @@
   "hcMwDW": [
     "After a date"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Lightning badge"
   ],
@@ -113524,6 +113938,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Add image"
+  ],
   "iG+nZx": [
     "Check that the permissions on your To-Do and Resource channels are set correctly."
   ],
@@ -114124,6 +114541,9 @@
   ],
   "iVfA9i": [
     "far right"
+  ],
+  "iVqj8B": [
+    "Clips Home"
   ],
   "iVzBOh": [
     "Copy Link"
@@ -114867,7 +115287,7 @@
     "Make your name stand out in servers and chats."
   ],
   "ikNKf1": [
-    "Autoclips"
+    "Auto Clips"
   ],
   "ikpHeS": [
     "Competing on ",
@@ -115673,6 +116093,9 @@
     ],
     " accounts"
   ],
+  "j3AKJQ": [
+    "That file isn’t a supported image. Try a PNG, JPEG or WebP."
+  ],
   "j3KOkh": [
     "You broke Discord’s rules and you may lose your account if you break them again."
   ],
@@ -115994,6 +116417,9 @@
   ],
   "jCOdvx": [
     "Added Games"
+  ],
+  "jCQlbu": [
+    "Download Discord App"
   ],
   "jCV1Tz": [
     "ALT"
@@ -118407,6 +118833,9 @@
   "kHMgaK": [
     "You can now accept payment for Server Monetisation."
   ],
+  "kHNeDa": [
+    "The app chooses what action to take for each message, including blocking the message or doing nothing at all."
+  ],
   "kHalVA": [
     "Duplicate the benefits or channel permissions from an existing tier or role."
   ],
@@ -120083,6 +120512,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Share all"
+  ],
   "l3K4B/": [
     "Mentions User"
   ],
@@ -120360,6 +120792,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Invite expires in ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Oldest Added"
@@ -121272,6 +121727,13 @@
   "lZejCq": [
     "Include @role mentions"
   ],
+  "lZuIri": [
+    "Image overlay: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Settings that collect technical data for Discord Support to analyse, such as debug logging and audio recording"
   ],
@@ -121408,6 +121870,12 @@
   ],
   "lg3Ckc": [
     "You can use Streamer Mode to hide personal details while streaming."
+  ],
+  "lgDNyX": [
+    "Show Server Hub tab in channel list"
+  ],
+  "lgHr73": [
+    "Chat, stream and chill"
   ],
   "lgcisd": [
     "Servers with ",
@@ -124146,6 +124614,18 @@
   ],
   "mmNkUA": [
     "Get a Custom Invite Link with Boosts – no level required! Perfect for growing your server."
+  ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " selected"
   ],
   "mmZGEG": [
     "Earn ",
@@ -127621,7 +128101,7 @@
     "! With Nitro, you get to keep it. Enjoy!"
   ],
   "o9PQEi": [
-    "Turn Quest wins into mega wins with a ",
+    "Turn your wins into mega wins with a ",
     [
       2,
       "bonusOrbMultiplier"
@@ -131051,6 +131531,29 @@
   "pahgz1": [
     "Answer"
   ],
+  "pb2Was": [
+    "Add up to ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clips"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "pb7lpK": [
     "Choose Badge"
   ],
@@ -131258,6 +131761,9 @@
   ],
   "piPHvY": [
     "Welcome"
+  ],
+  "piRNeN": [
+    "Couldn’t read that image."
   ],
   "piW6YS": [
     "Submit"
@@ -131589,6 +132095,9 @@
   "pqk9U0": [
     "View More"
   ],
+  "pqph/A": [
+    "Whenever you’re free, no calls or invites."
+  ],
   "pqqixk": [
     "On"
   ],
@@ -131734,6 +132243,9 @@
   ],
   "put7Hw": [
     "options"
+  ],
+  "putVLl": [
+    "Using custom reactions, embeds and bots."
   ],
   "puwSkY": [
     "Automatically filter suspected spam messages"
@@ -133103,6 +133615,9 @@
       ]
     ]
   ],
+  "qT6LjY": [
+    "Today at 1:00 PM"
+  ],
   "qTCYun": [
     "Do you want to also apply this change to all your existing servers?"
   ],
@@ -133771,6 +134286,9 @@
   "qnJ9W3": [
     "Report a problem"
   ],
+  "qnSo/i": [
+    "Social Commerce"
+  ],
   "qnYumI": [
     [
       6,
@@ -133928,6 +134446,9 @@
   ],
   "qpWnyC": [
     "Go to settings"
+  ],
+  "qpw1d9": [
+    "You can only share 10 clips at a time."
   ],
   "qpwaNY": [
     "Release Date"
@@ -135159,7 +135680,7 @@
     "You've been invited to play"
   ],
   "rJRote": [
-    "Join Communities"
+    "Join communities"
   ],
   "rJbFM3": [
     "Not Available Yet"
@@ -135818,6 +136339,14 @@
   ],
   "rb7dJ7": [
     "Nameplates"
+  ],
+  "rbAtUi": [
+    "Live – published ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
   ],
   "rbIry3": [
     "Update Thread"
@@ -138254,6 +138783,9 @@
   "sS2J0G": [
     "No one’s here yet!\nWhen you are ready to talk, just hop in."
   ],
+  "sS4xGd": [
+    "Create a shareable embed for select products from your Game Shop."
+  ],
   "sSAQtj": [
     "Updated thread properties"
   ],
@@ -138872,6 +139404,9 @@
       "count"
     ],
     " unassigned"
+  ],
+  "sgse8P": [
+    "Show Friends List"
   ],
   "shE8hW": [
     "Wave hello, share your screen or just chat."
@@ -141487,6 +142022,9 @@
   "to6uUe": [
     "Rhythm game score posting!"
   ],
+  "toGFBn": [
+    "Lock screen widget extension"
+  ],
   "toKjAM": [
     "your-url-here"
   ],
@@ -142742,6 +143280,9 @@
         "very limited."
       ]
     ]
+  ],
+  "uF5VXk": [
+    "That image can’t be added to a clip."
   ],
   "uFHxNd": [
     "Confirm New Group"
@@ -144422,6 +144963,42 @@
   "uy25Qz": [
     "Stickers from this server are unavailable"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " has custom DM permissions. Select it to see or change them."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servers"
+            ]
+          ],
+          " have custom DM permissions. Select one to see or change them."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Post Title"
   ],
@@ -144801,6 +145378,9 @@
   ],
   "v8MLqz": [
     "Sharing is not available in that channel"
+  ],
+  "v8QrJf": [
+    "Your Orbs are ready to redeem"
   ],
   "v8UpgE": [
     "Visit Game Shop"
@@ -148042,6 +148622,9 @@
   "wR+Fuo": [
     "Mute this thread"
   ],
+  "wR5R9w": [
+    "Replace image"
+  ],
   "wR5wOo": [
     "Profile Effect"
   ],
@@ -148091,6 +148674,9 @@
   ],
   "wS+5Wb": [
     "Invite to watch stream"
+  ],
+  "wSD7jV": [
+    "Select a Safety Notifications channel"
   ],
   "wSZfJR": [
     "‘I reported you by accident’"
@@ -151449,6 +152035,9 @@
   "xhQsxx": [
     "Access your Nitro status"
   ],
+  "xhZ23b": [
+    "xhZ23b"
+  ],
   "xhgNd0": [
     [
       1,
@@ -151889,7 +152478,7 @@
     "."
   ],
   "xrOIkz": [
-    "Autoclips"
+    "Auto clips"
   ],
   "xrYNBI": [
     "Are you sure you want to end the Stage for everyone?"
@@ -155863,6 +156452,9 @@
   "zZp618": [
     "Here are all the devices that are currently logged in with your Discord account. You can log out of each one individually or all other devices.\n\nIf you see an entry you don't recognise, log out of that device and change your Discord account password immediately."
   ],
+  "zaEQz+": [
+    "Browser data cleared."
+  ],
   "zb2Q56": [
     "Est. ",
     [
@@ -155907,6 +156499,9 @@
   ],
   "zcKE8W": [
     "Xbox Mobile App Installed"
+  ],
+  "zcZtrU": [
+    "Customise badges"
   ],
   "zcbFu1": [
     "Emojis Used"

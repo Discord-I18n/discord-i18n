@@ -753,9 +753,6 @@
   "+HM0x2": [
     "Couldn't leave those Group DMs. Please try again."
   ],
-  "+HMF8k": [
-    "Nitroween"
-  ],
   "+HS9+m": [
     "Tags will be displayed in the order you select them"
   ],
@@ -2370,13 +2367,6 @@
   "+urf75": [
     "Enhance your Discord experience!"
   ],
-  "+utqaz": [
-    "Gift Background Option: ",
-    [
-      1,
-      "giftStyle"
-    ]
-  ],
   "+uwOHt": [
     "Sidekick"
   ],
@@ -3132,9 +3122,6 @@
   "/8psS7": [
     "Activity controls were confusing"
   ],
-  "/8znyU": [
-    "Send another gift to collect them all"
-  ],
   "/91tbr": [
     "Notify users with this role who have permission to view this channel."
   ],
@@ -3302,14 +3289,6 @@
   ],
   "/EZAf7": [
     "Select media"
-  ],
-  "/F078G": [
-    "Settings (",
-    [
-      1,
-      "count"
-    ],
-    ")"
   ],
   "/F7Z2y": [
     "Total"
@@ -3954,6 +3933,30 @@
   ],
   "/UyK0d": [
     "Guinea"
+  ],
+  "/VAMco": [
+    "Won last week's gaming leaderboard with ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unique game"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unique games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "/VNqdD": [
     "Default server settings"
@@ -7558,28 +7561,6 @@
   "0n7R2X": [
     "Disable Monetization"
   ],
-  "0nFw35": [
-    [
-      6,
-      "durationCount",
-      {
-        "one": [
-          [
-            7
-          ],
-          " month of Nitro"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " months of Nitro"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "0nTvEw": [
     "This will clear ",
     [
@@ -9750,22 +9731,6 @@
   ],
   "1fRDnT": [
     "Resume Video"
-  ],
-  "1fYyf4": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Your reward is ready"
-        ],
-        "other": [
-          "Your rewards are ready"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "1g9A/f": [
     "Community"
@@ -15413,22 +15378,6 @@
   ],
   "3iccet": [
     "Sticker Slots"
-  ],
-  "3ihAAO": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "You earned a free decoration"
-        ],
-        "other": [
-          "You earned free decorations"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "3ilveh": [
     "Never mind"
@@ -23108,9 +23057,6 @@
   "6d44F5": [
     "You can only use certain payment methods for this purchase."
   ],
-  "6dCq/u": [
-    "Cup"
-  ],
   "6dGmCD": [
     "Start Time"
   ],
@@ -25570,22 +25516,6 @@
     ],
     "."
   ],
-  "7Zw7AB": [
-    [
-      6,
-      "giftCount",
-      {
-        "one": [
-          "Gift ready for delivery"
-        ],
-        "other": [
-          "Gifts ready for delivery"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "7aNIkW": [
     "React with custom emoji from any server and unlock exclusive animations ",
     [
@@ -26735,9 +26665,6 @@
   ],
   "7yM5iL": [
     "You must wait two months before you can reapply."
-  ],
-  "7yaXr8": [
-    "Snag a free decoration"
   ],
   "7ymzsL": [
     "Confirm age group"
@@ -28475,6 +28402,9 @@
       "rightValue"
     ],
     "% from right"
+  ],
+  "8drwHu": [
+    "App"
   ],
   "8e4LiB": [
     "All"
@@ -32717,9 +32647,6 @@
   "AIszv8": [
     "off-topic"
   ],
-  "AJ4iir": [
-    "Cake"
-  ],
   "AJfv3T": [
     "Briefly describe what your server is about. New members will see this when they try to join."
   ],
@@ -34037,28 +33964,6 @@
       "cardinal"
     ]
   ],
-  "Aq6Jxd": [
-    [
-      6,
-      "durationCount",
-      {
-        "one": [
-          [
-            7
-          ],
-          " year of Nitro"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " years of Nitro"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "AqGrEI": [
     "Preview emoji, mentions, and markdown syntax as you type"
   ],
@@ -34293,28 +34198,6 @@
   ],
   "Ax89/c": [
     "Please save before publishing"
-  ],
-  "AxON/M": [
-    [
-      6,
-      "giftCount",
-      {
-        "one": [
-          [
-            7
-          ],
-          " Gift"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " Gifts"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "AxRAWt": [
     "Expression picker format"
@@ -34935,9 +34818,6 @@
   ],
   "B9QnBp": [
     "You can't remove your vote unless you're a member."
-  ],
-  "B9XqQk": [
-    "Box"
   ],
   "B9eJyW": [
     "Apply Now"
@@ -35911,6 +35791,9 @@
       "hours"
     ],
     "h left"
+  ],
+  "BX+8uG": [
+    "Click to see more"
   ],
   "BXFP30": [
     "Join Me"
@@ -44569,6 +44452,9 @@
   "FAplms": [
     "Move to"
   ],
+  "FAz9Zy": [
+    "Settings tabs"
+  ],
   "FB2ZZV": [
     "Show All Channels"
   ],
@@ -46899,6 +46785,19 @@
   "GByLar": [
     "Input Sensitivity Settings"
   ],
+  "GC7N5H": [
+    "Won last week's gaming leaderboard with ",
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "m of total game time."
+  ],
   "GCEruV": [
     "Double tap for more details"
   ],
@@ -48842,9 +48741,6 @@
   "GqvDkk": [
     "You haven't made any transactions yet."
   ],
-  "Gr02vu": [
-    "Send more gifts"
-  ],
   "GrEzlX": [
     "Your account doesn’t meet the requirements to join right now. Learn more about eligibility below."
   ],
@@ -49155,9 +49051,6 @@
   "GzMFnb": [
     "This will send a connection request to your teen, like magic!"
   ],
-  "GzPel1": [
-    "Box"
-  ],
   "Gzc/a8": [
     "Remove access to channel."
   ],
@@ -49425,9 +49318,6 @@
   ],
   "H3mPDT": [
     "Release Date"
-  ],
-  "H3pTAa": [
-    "Select quantity"
   ],
   "H3vhqU": [
     "Buy Nameplate"
@@ -53030,6 +52920,30 @@
       "listener_count"
     ],
     " listeners"
+  ],
+  "IXdbVJ": [
+    "Won last week's gaming leaderboard with ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " days"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " played."
   ],
   "IXk8Wz": [
     "Attachments you trying to send are unavailable."
@@ -61645,9 +61559,6 @@
       "deviceType"
     ]
   ],
-  "M6cPwB": [
-    "Snowglobe"
-  ],
   "M6fZXZ": [
     "Timor Leste"
   ],
@@ -69725,9 +69636,6 @@
   "P5dSl0": [
     "Shadow color"
   ],
-  "P5keo3": [
-    "Chest"
-  ],
   "P5sLUo": [
     "Take 20% off your next 6 months, whether you're new to YouTube Premium or already in. ",
     [
@@ -73792,9 +73700,6 @@
   ],
   "QogKbP": [
     "Using rude, vulgar, or offensive language"
-  ],
-  "QojGXK": [
-    "With a gift purchase"
   ],
   "QouJki": [
     "An exclusive crystal badge next to your name"
@@ -83476,9 +83381,6 @@
   "UWhXbK": [
     "Not Staff"
   ],
-  "UWycjR": [
-    "Select duration"
-  ],
   "UXWUtm": [
     "You broke the rules for ",
     [
@@ -83531,9 +83433,6 @@
   ],
   "UYjWa5": [
     "Rewatch your Checkpoint anytime until January 15th."
-  ],
-  "UYmwNU": [
-    "Close Project Settings"
   ],
   "UYq7+O": [
     "Clear permissions"
@@ -89550,9 +89449,6 @@
     ],
     " of inactivity."
   ],
-  "WnnzG7": [
-    "Select number of gifts"
-  ],
   "Wnojv1": [
     "Helps detect image-based media that may contain sexually explicit or suggestive material involving adults."
   ],
@@ -89787,9 +89683,6 @@
   "Wv7HLS": [
     "Fresh drops, just for you"
   ],
-  "WvAqZA": [
-    "You earned a free decoration"
-  ],
   "Wvc/I+": [
     "Good Morning,"
   ],
@@ -89916,6 +89809,9 @@
   ],
   "WzdUY7": [
     "Update Emoji"
+  ],
+  "Wzi4Jd": [
+    "Close Settings"
   ],
   "WzvoSi": [
     "Positive Feedback Reviews"
@@ -91582,9 +91478,6 @@
       ]
     ]
   ],
-  "XeLTZl": [
-    "Your reward is ready"
-  ],
   "XeYKWJ": [
     "With the description ",
     [
@@ -91954,18 +91847,6 @@
   ],
   "XnzdTe": [
     "Receive auth code from SMS"
-  ],
-  "XoHiqS": [
-    [
-      1,
-      "name"
-    ],
-    " and ",
-    [
-      2,
-      "count"
-    ],
-    " more"
   ],
   "XoTWsI": [
     "Somebody Playin'"
@@ -95259,9 +95140,6 @@
   "Z0/Wme": [
     "You must remove all invalid channels first before you can save."
   ],
-  "Z0KiSp": [
-    "App settings sections"
-  ],
   "Z0axjk": [
     [
       8,
@@ -97436,9 +97314,6 @@
     ],
     "?"
   ],
-  "ZolTTE": [
-    "Gift Recipients"
-  ],
   "Zos+eZ": [
     "Just waiting here until you ",
     [
@@ -97771,52 +97646,6 @@
   ],
   "ZveC7e": [
     "Select a role"
-  ],
-  "ZvgWUV": [
-    "If you skip sending ",
-    [
-      6,
-      "giftCount",
-      {
-        "one": [
-          "the gift"
-        ],
-        "other": [
-          "the gifts"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    " now, you can always send ",
-    [
-      6,
-      "giftCount",
-      {
-        "one": [
-          "it"
-        ],
-        "other": [
-          "them"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    " later from your ",
-    [
-      8,
-      "$link",
-      [
-        "Gift Inventory"
-      ],
-      [
-        [
-          1,
-          "onInventoryClick"
-        ]
-      ]
-    ]
   ],
   "Zvx+yV": [
     "Reveal email address"
@@ -98876,6 +98705,9 @@
   ],
   "aMSq0a": [
     "Cool Stuff"
+  ],
+  "aMTBSX": [
+    "Model"
   ],
   "aMoJ+A": [
     "Thanks for reporting your issue! Feedback like yours helps us improve Discord."
@@ -100844,9 +100676,6 @@
   "auGQLV": [
     "I’ll update it now"
   ],
-  "aubYGR": [
-    "Holiday Cake"
-  ],
   "auckXz": [
     "This is a ",
     [
@@ -101757,9 +101586,6 @@
   "bGHzxb": [
     "Duration"
   ],
-  "bGKjmg": [
-    "Got It!"
-  ],
   "bGN1ow": [
     "None"
   ],
@@ -101808,9 +101634,6 @@
   ],
   "bHpUca": [
     "Quick check: You don't have any current gaming activity. Is this accurate?"
-  ],
-  "bHuJLa": [
-    "Holiday Coffee"
   ],
   "bI7n9i": [
     "Tomorrow at ",
@@ -105374,26 +105197,6 @@
   "cM8bbx": [
     "Get Basic"
   ],
-  "cMHedL": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "You’ve collected the exclusive reward"
-        ],
-        "other": [
-          "You’ve collected all ",
-          [
-            7
-          ],
-          " exclusive rewards"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "cMgegQ": [
     "Frames are profile borders that complete your look. Nitro members get early access. Find yours in the Shop."
   ],
@@ -105821,6 +105624,9 @@
   ],
   "cWmX0u": [
     "Camera On"
+  ],
+  "cWmjzs": [
+    "Settings"
   ],
   "cWt5Up": [
     "Capture Devices"
@@ -118397,9 +118203,6 @@
   "gTH4Dp": [
     "Use a passkey or security key"
   ],
-  "gTMvzD": [
-    "App Settings"
-  ],
   "gTcxOz": [
     "No shared server = no shared emoji options...time to create a server for all your favorite memes together"
   ],
@@ -118837,32 +118640,6 @@
   ],
   "ge/d+Y": [
     "music-production"
-  ],
-  "geFoof": [
-    [
-      6,
-      "giftCount",
-      {
-        "one": [
-          "You’re so generous! Send this gift to a friend to give them ",
-          [
-            1,
-            "skuName"
-          ],
-          ". We hope they enjoy!"
-        ],
-        "other": [
-          "You’re so generous! Send these gifts to friends to give them ",
-          [
-            1,
-            "skuName"
-          ],
-          ". We hope they enjoy!"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "geKm7t": [
     "Submit"
@@ -124669,26 +124446,6 @@
   "ibxdrl": [
     "Search for people in your servers to start a message, or add friends to see them here."
   ],
-  "icF5bW": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Gift Nitro, pick a free decoration to keep."
-        ],
-        "other": [
-          "Gift Nitro, pick ",
-          [
-            7
-          ],
-          " free decorations to keep."
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "icWQKn": [
     "Get Nitro credits and Shop favorites without spending a dime."
   ],
@@ -125618,9 +125375,6 @@
   ],
   "ivpkNe": [
     "No, thanks"
-  ],
-  "ivpn6G": [
-    "Pick a free decoration to keep"
   ],
   "ivvYHP": [
     "Controlling…"
@@ -127371,9 +127125,6 @@
   "jcesAE": [
     "Enjoy more stickers and other perks by boosting your server to Level 1. Each Level unlocks more sticker slots and new benefits for everyone."
   ],
-  "jczqxT": [
-    "Settings"
-  ],
   "jd+eKW": [
     "Say hi so your friends know you're here."
   ],
@@ -127586,9 +127337,6 @@
   ],
   "jhJzez": [
     "Report App"
-  ],
-  "jhNRIe": [
-    "Custom Quantity"
   ],
   "jhPprR": [
     "With channel ",
@@ -139988,6 +139736,9 @@
       "count"
     ]
   ],
+  "npZ6IB": [
+    "View Leaderboard"
+  ],
   "npfhh0": [
     "You must cancel your pending plan change before purchasing boosts."
   ],
@@ -143059,9 +142810,6 @@
     ],
     " days and the gift has not been redeemed."
   ],
-  "owluOg": [
-    "Your gifts are on the way!"
-  ],
   "owvC9U": [
     "You're all set!"
   ],
@@ -143338,23 +143086,6 @@
   ],
   "p0UgNQ": [
     "There’s no one in this post."
-  ],
-  "p0mYoH": [
-    "One or more of your gifts didn’t go through automatically. Send them to friends from your ",
-    [
-      8,
-      "$link",
-      [
-        "Gift Inventory"
-      ],
-      [
-        [
-          1,
-          "onInventoryClick"
-        ]
-      ]
-    ],
-    "."
   ],
   "p0oZmy": [
     "Sent a GIF"
@@ -148082,9 +147813,6 @@
   "qTCYun": [
     "Do you want to also apply this change to all your existing servers?"
   ],
-  "qTXpj/": [
-    "Skip"
-  ],
   "qTZMm2": [
     "An internal server error has occurred."
   ],
@@ -152176,14 +151904,6 @@
     ],
     "."
   ],
-  "rr3AQS": [
-    "Save ",
-    [
-      2,
-      "percent"
-    ],
-    "%"
-  ],
   "rrI4Tk": [
     "Device"
   ],
@@ -154046,26 +153766,6 @@
   ],
   "sUvCKU": [
     "Report Submitted"
-  ],
-  "sUvNeI": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Pick a free decoration. Yours to keep with a gift purchase."
-        ],
-        "other": [
-          "Pick ",
-          [
-            7
-          ],
-          " free decorations. Yours to keep with this gift purchase."
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "sUvyW3": [
     "Failed to cancel scheduled message. ",
@@ -163904,9 +163604,6 @@
   "vd0D81": [
     "Quantity"
   ],
-  "vd1fu/": [
-    "Holiday Box"
-  ],
   "vdSOpz": [
     "You must verify your account before you can speak in this server."
   ],
@@ -164407,9 +164104,6 @@
       ]
     ]
   ],
-  "vjxYqU": [
-    "Holiday Chest"
-  ],
   "vjxhWo": [
     "Pausing — ",
     [
@@ -164451,14 +164145,6 @@
   ],
   "vlHicE": [
     "Custom profiles and more!"
-  ],
-  "vlIHBJ": [
-    "Secrets (",
-    [
-      1,
-      "count"
-    ],
-    ")"
   ],
   "vlj5uF": [
     "Heads up — allowing tracking lets us personalize the content you see in your Quests & Rewards and keeps your experience as relevant as possible!"
@@ -165476,9 +165162,6 @@
   "w8+YDM": [
     "No commands available here"
   ],
-  "w84vET": [
-    "Coffee"
-  ],
   "w8CXUl": [
     "Code valid on a SteelSeries purchase of $20 or more. Expires ",
     [
@@ -166278,9 +165961,6 @@
   "wSnI/0": [
     "This is what others see when they view your profile."
   ],
-  "wTKEyX": [
-    "Continue"
-  ],
   "wTaN+K": [
     "Customize"
   ],
@@ -166970,45 +166650,6 @@
   "whmopT": [
     "Steam"
   ],
-  "wiBqTu": [
-    "You’re so generous! ",
-    [
-      6,
-      "otherCount",
-      {
-        "=0": [
-          "Thanks for sending ",
-          [
-            1,
-            "recipientName"
-          ],
-          " a gift."
-        ],
-        "one": [
-          "Thanks for sending ",
-          [
-            1,
-            "recipientName"
-          ],
-          " and 1 other a gift."
-        ],
-        "other": [
-          "Thanks for sending ",
-          [
-            1,
-            "recipientName"
-          ],
-          " and ",
-          [
-            7
-          ],
-          " others a gift."
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "wiIevd": [
     "Close Thread"
   ],
@@ -167320,6 +166961,9 @@
   ],
   "wnuxp5": [
     "You've reached a Checkpoint!"
+  ],
+  "wo1EUp": [
+    "Project"
   ],
   "wo3D3T": [
     "Snag sweet discounts on any - or every! - item at the Shop. Only with Nitro."
@@ -170637,9 +170281,6 @@
   ],
   "xdCLeM": [
     "Hide Details"
-  ],
-  "xdDO7f": [
-    "Type your friends’ names"
   ],
   "xdGS1o": [
     "Apple Pay"
@@ -175325,9 +174966,6 @@
   ],
   "zV0/FC": [
     "Invalid Message Type"
-  ],
-  "zVGHbw": [
-    "Get a free decoration"
   ],
   "zVJxqj": [
     "Must have at least ",
