@@ -107,6 +107,9 @@
   "+1k/lP": [
     "Découvre le processus d'accueil de la communauté"
   ],
+  "+20A3o": [
+    "Impossible d'ajouter cette image. Merci de réessayer."
+  ],
   "+2QBZX": [
     "Hmmm, nous n'avons pas réussi à charger les cadeaux de la Boutique. Reviens plus tard."
   ],
@@ -3792,6 +3795,9 @@
   "/Whuzi": [
     "En utilisant un microphone certifié par Discord, certaines fonctionnalités du traitement de la voix ne sont plus gérées par Discord,\nmais par le micro lui-même."
   ],
+  "/WsW/1": [
+    "Essaie le thème de profil"
+  ],
   "/X1ny6": [
     "Explore la Boutique et mets un cœur sur les articles que tu aimes pour les ajouter ici."
   ],
@@ -4345,6 +4351,24 @@
   "/nALeY": [
     "Autres commentaires"
   ],
+  "/nFLZv": [
+    "Éligible à la promotion : ",
+    [
+      1,
+      "current"
+    ],
+    " sur ",
+    [
+      1,
+      "target"
+    ],
+    " collecté(s) – ",
+    [
+      1,
+      "numDays"
+    ],
+    " jours restants"
+  ],
   "/nJOlj": [
     "L'activité laguait ou se figeait"
   ],
@@ -4665,7 +4689,7 @@
     ]
   ],
   "/v2zZ+": [
-    "Shadow"
+    "Ombre"
   ],
   "/w/EYk": [
     "Doit posséder au moins ",
@@ -5078,10 +5102,22 @@
     ],
     " Orbs dans ",
     [
-      1,
-      "days"
-    ],
-    " jours"
+      6,
+      "days",
+      {
+        "one": [
+          "1 jour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jours"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Uploade entre ",
@@ -5877,6 +5913,9 @@
   ],
   "0N1s81": [
     "Clés de sécurité et clés d'accès"
+  ],
+  "0N8fCf": [
+    "Oh, salut l'altruiste ! Tu as envoyé assez de cadeaux pour obtenir un badge de profil qui gagne en niveau à mesure que tu offres des cadeaux."
   ],
   "0NJZAU": [
     "Lié à ",
@@ -7471,6 +7510,9 @@
   "0sTyEb": [
     "Envoie ta candidature pour rejoindre le serveur."
   ],
+  "0sh8CQ": [
+    "Afficher les suggestions d'émojis pendant que tu écris"
+  ],
   "0t1aNC": [
     "Modifier le niveau de l'émoji"
   ],
@@ -8735,6 +8777,9 @@
   "1RD2jW": [
     "Quelque chose s'est mal passé en essayant d'ouvrir cette méthode."
   ],
+  "1RFJ5Q": [
+    "Rejoindre la communauté"
+  ],
   "1RH5t9": [
     "Invité"
   ],
@@ -9802,6 +9847,9 @@
   ],
   "1zoOqj": [
     "Partage la magie de Nitro."
+  ],
+  "2+/rrF": [
+    "Obtiens des réductions sur les articles de profil, ainsi que des émojis personnalisés, le streaming haute définition et plus encore avec Nitro."
   ],
   "2+A3dv": [
     "Temps de recharge ! Le boost ne peut pas être transféré pendant ",
@@ -14532,6 +14580,23 @@
   "3jG0Bo": [
     "Permet aux membres de voir ce salon par défaut. En désactivant ceci pour @everyone, le salon deviendra privé."
   ],
+  "3jY5i3": [
+    "Si tu aimes YouTube, tu vas adorer Premium. Économise 20 % sur tes 6 prochains mois, que tu sois nouveau ou nouvelle sur YouTube Premium ou que tu sois déjà membre. ",
+    [
+      8,
+      "$link",
+      [
+        "Voir conditions"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3jaCac": [
     "Tous les contenus téléchargeables"
   ],
@@ -14697,6 +14762,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Version"
   ],
   "3nWhcJ": [
     "Accepter le cadeau"
@@ -16761,6 +16829,9 @@
   ],
   "4fnE/J": [
     "Nous n'avons pas pu valider ton lien de connexion. Merci de réessayer."
+  ],
+  "4fvi9I": [
+    "Tes ami(e)s, en un coup d'œil."
   ],
   "4fw/T2": [
     "Tu as boosté le serveur ",
@@ -19180,6 +19251,29 @@
   "5fWB8U": [
     "Gérer le profil et le statut"
   ],
+  "5fXjSj": [
+    "L'invitation expire dans ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Envoyer une invitation"
   ],
@@ -21042,6 +21136,9 @@
   ],
   "6MwJo/": [
     "Afficher moins"
+  ],
+  "6NbEkN": [
+    "Sélectionne une application avant d'enregistrer cette règle."
   ],
   "6Nmv4i": [
     "Nos fermiers experts en confidentialité ont commencé à récolter tes données. Cela peut prendre jusqu'à 30 jours, mais nous t'enverrons un e-mail lorsque ce sera terminé."
@@ -22927,6 +23024,9 @@
     ],
     " au groupe."
   ],
+  "7/h5vj": [
+    "Aucune des applications de ce serveur ne peut encore modérer les messages."
+  ],
   "7/qtoL": [
     "Cette invitation à ",
     [
@@ -24441,6 +24541,9 @@
   "7ioAjs": [
     "Offres disponibles"
   ],
+  "7itT3E": [
+    "Parcours d'autres serveurs"
+  ],
   "7j/5mg": [
     [
       6,
@@ -24908,6 +25011,9 @@
   ],
   "7rOU6j": [
     "Synchroniser avec l'ordinateur"
+  ],
+  "7raRgL": [
+    "Échanger des Orbs"
   ],
   "7rkg+/": [
     "Arrêter de regarder — ",
@@ -26597,6 +26703,19 @@
   "8XT6Nf": [
     "Durée du cadeau"
   ],
+  "8XhAe3": [
+    "Éligible à la promotion : ",
+    [
+      1,
+      "current"
+    ],
+    " sur ",
+    [
+      1,
+      "target"
+    ],
+    " collecté(s)"
+  ],
   "8Xm6uL": [
     [
       8,
@@ -26817,6 +26936,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Ton post a été supprimé"
   ],
   "8dCrV9": [
     "Résoudre"
@@ -28900,6 +29022,13 @@
   "9U0b1k": [
     "Crée ton premier serveur Discord"
   ],
+  "9U3Wb3": [
+    "Ton message a été supprimé dans ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Tu envoies des messages trop rapidement"
   ],
@@ -30836,7 +30965,7 @@
     "Nom d'emplacement d'installation"
   ],
   "AJsDsD": [
-    "Moyen"
+    "Moyenne"
   ],
   "AKBgPy": [
     "Reviens pour les notifications d'événements, les streams et bien plus encore."
@@ -33101,6 +33230,9 @@
   "BEFwGd": [
     "Images"
   ],
+  "BEL9MJ": [
+    "Extension du partage"
+  ],
   "BENn/6": [
     "Toutes les conférences en direct"
   ],
@@ -34051,12 +34183,12 @@
     ]
   ],
   "Ba/7wO": [
-    "Les membres Nitro gagnent ",
+    "Abonne-toi pour augmenter ta réserve avec des Orbs mensuels et un multiplicateur de récompense x",
     [
       1,
       "multiplier"
     ],
-    "x plus d'Orbs avec toutes les activités"
+    "."
   ],
   "BaI6L4": [
     "Demande à ton tuteur ou ta tutrice de rétablir l'accès dans les contrôles parentaux de la boutique de l'application (Apple ou Google Play)."
@@ -34204,6 +34336,9 @@
   ],
   "Bd6dOf": [
     "Ferme définitivement ton compte."
+  ],
+  "BdIVB+": [
+    "Fais passer YouTube au niveau supérieur avec Premium"
   ],
   "BdQTfR": [
     [
@@ -34409,6 +34544,9 @@
   ],
   "BhWgyQ": [
     "Saisis ton mot de passe pour afficher les codes de sauvegarde."
+  ],
+  "BhYGtj": [
+    "Extension du partage d'écran"
   ],
   "BhjXCp": [
     "Parcourir la Boutique"
@@ -36365,6 +36503,9 @@
   "CU+6oJ": [
     "Appuie sur « ENTRÉE » pour lancer la recherche"
   ],
+  "CUAKSg": [
+    "Brouillon — Non publié"
+  ],
   "CUBxDB": [
     "Ça peut prendre quelques minutes pour que l'enregistrement DNS se propage."
   ],
@@ -36991,6 +37132,9 @@
   ],
   "Cm4aDQ": [
     "Ouvrir le stream dans une fenêtre séparée"
+  ],
+  "CmLD50": [
+    "Streame comme si tu étais dans la pièce"
   ],
   "CmSHYx": [
     "Rechercher des amis"
@@ -37938,6 +38082,9 @@
   ],
   "DH2o6R": [
     "Clique pour désactiver la mention de l'auteur original."
+  ],
+  "DHLE0q": [
+    "Discute avec toute la communauté"
   ],
   "DHWKJS": [
     "Rejette tous les changements et supprime ce niveau."
@@ -39874,6 +40021,13 @@
   ],
   "EDYbS+": [
     "Oh oh, une erreur s'est produite lors de la mise à jour de cette demande de message. Essaie à nouveau un peu plus tard."
+  ],
+  "EDmwVf": [
+    "Overlay de texte : ",
+    [
+      1,
+      "text"
+    ]
   ],
   "EE+P0H": [
     "Inviter dans le salon vocal"
@@ -42432,6 +42586,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Choisis une application pour consulter les messages"
+  ],
   "FKYNC6": [
     "Nitro mensuel"
   ],
@@ -43303,6 +43460,9 @@
   "FlNoSV": [
     "Vidéo"
   ],
+  "FlY+Rz": [
+    "C'est quoi, Discord ?"
+  ],
   "FlcC+3": [
     "Retire l'application de ce serveur"
   ],
@@ -43692,6 +43852,9 @@
   "FzgQna": [
     "Ami(e)s et tous les serveurs"
   ],
+  "Fzi4HX": [
+    "Uploade les noms, tailles et horodatages des fichiers depuis le stockage des applications vers tes journaux de débugage afin d'aider à analyser l'utilisation de l'espace de stockage."
+  ],
   "FzjizJ": [
     "Personnalise ton profil"
   ],
@@ -43795,7 +43958,7 @@
     ]
   ],
   "G00RI5": [
-    "Activée"
+    "Activé"
   ],
   "G08MKu": [
     "Tu ne verras plus ses messages"
@@ -43953,12 +44116,12 @@
     "Tu dois terminer encore quelques étapes avant de pouvoir discuter sur ce serveur."
   ],
   "G5k+lZ": [
-    "Transforme tes victoires de quête en supervictoires avec un multiplicateur x",
+    "Transforme tes victoires en supervictoires avec un multiplicateur de récompenses x",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    " sur les récompenses en Orbs."
+    " en t'abonnant à Nitro. Peut être résilié à tout moment."
   ],
   "G6+XOT": [
     "Ta réduction de ",
@@ -45309,6 +45472,9 @@
   ],
   "GYpoAq": [
     "Contenu média sexuel mature"
+  ],
+  "GZWBoL": [
+    "Économise jusqu'à 20 % dans la Boutique"
   ],
   "GZa4J0": [
     "Cette application n'est pas disponible."
@@ -46870,6 +47036,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Diagnostics de stockage uploadés."
+  ],
   "H9Jxp6": [
     "Ajoute jusqu'à ",
     [
@@ -46920,7 +47089,7 @@
     "Ton serveur de jeu est prêt ! Gère-le à tout moment depuis l'onglet « Serveurs de jeu » dans la boutique."
   ],
   "HACucK": [
-    "Tu as assez d'Orbs pour obtenir quelque chose dans la Boutique !"
+    "Tu as assez d'Orbs pour obtenir quelque chose dans la Boutique."
   ],
   "HADQ6n": [
     [
@@ -47413,6 +47582,9 @@
   "HNo5cG": [
     "Sélectionner une image"
   ],
+  "HNqvOh": [
+    "Effacer les données du navigateur"
+  ],
   "HO/lY5": [
     "Application (spoiler)"
   ],
@@ -47896,6 +48068,9 @@
   "HZPBOd": [
     "Entrer le code d'authentification Discord"
   ],
+  "HZPns7": [
+    "Afficher les paramètres de pôle du serveur"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -48171,6 +48346,23 @@
   ],
   "Hgdhwb": [
     "Veux-tu vraiment quitter ? Les modifications non enregistrées sur ce produit pourraient être perdues si tu pars maintenant."
+  ],
+  "Hgo1xT": [
+    "Nouvelle récompense Nitro ! Économise 20 % sur tes 6 prochains mois de YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Voir conditions"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "HhfrYS": [
     "Joue pendant ",
@@ -48946,7 +49138,7 @@
     " gratuitement"
   ],
   "I1h8uD": [
-    "Découvre tes Autoclips"
+    "Découvre tes clips automatiques"
   ],
   "I1nKfO": [
     "Dis-nous ce que tu penses de la sécurité sur Discord."
@@ -50585,6 +50777,29 @@
   "Ifb6XJ": [
     "Super réaction"
   ],
+  "Ifgxdy": [
+    "L'invitation expire dans ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " heure"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " heures"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Modérateur"
   ],
@@ -50616,6 +50831,23 @@
   ],
   "Igv+LS": [
     "Voir les détails de l'émoji"
+  ],
+  "Igwax6": [
+    "Police ",
+    [
+      1,
+      "fontName"
+    ],
+    ", effet ",
+    [
+      1,
+      "effectName"
+    ],
+    ", ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -51069,7 +51301,7 @@
     "Burkina Faso"
   ],
   "IqUUKg": [
-    "Aucun"
+    "Aucune"
   ],
   "IqVT2L": [
     "Rôle"
@@ -51495,6 +51727,9 @@
   ],
   "IyUi6q": [
     "Attire l'attention dans chaque serveur, chaque MP et partout où les gens voient ton profil."
+  ],
+  "IyXIFu": [
+    "Efface le cache, les cookies et les données des sites web du navigateur dans l'application. Ceci peut te déconnecter des sites web."
   ],
   "IyYqqY": [
     "Connecté(e) à un autre client"
@@ -52391,6 +52626,9 @@
   "JM7Y2D": [
     "Enregistrement du message vocal interrompu parce que Discord n'était pas actif."
   ],
+  "JMWqry": [
+    "Rejoindre la discussion"
+  ],
   "JMbfnc": [
     "Continuez comme ça !"
   ],
@@ -53025,6 +53263,9 @@
   "JhDw5o": [
     "Retour à la page de connexion"
   ],
+  "JhE8nA": [
+    "Nitro te fait économiser jusqu'à 20 % sur tous les achats de la Boutique. Abonne-toi pour déverrouiller ta réduction, tes profils personnalisés et bien plus."
+  ],
   "JhNpgy": [
     "Couleurs personnalisées"
   ],
@@ -53475,6 +53716,9 @@
   "JzaP4h": [
     "Filtre du spam des messages privés"
   ],
+  "JzbSEY": [
+    "Mentions + messages non lus"
+  ],
   "Jzd+z/": [
     "Choisis un nom pour ta nouvelle clé"
   ],
@@ -53536,6 +53780,9 @@
   ],
   "K0e7M9": [
     "Réessayer la vidéo"
+  ],
+  "K1URjQ": [
+    "Gère les paramètres de ton pôle de serveur."
   ],
   "K1gWXn": [
     "Est-ce que ton micro est du genre à se couper tout seul ? Si c'est le cas, tu peux empêcher le message d'avertissement d'apparaître\nen cliquant sur le petit texte tout riquiqui ci-dessous."
@@ -53941,6 +54188,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Réorganise tes sons favoris !"
   ],
   "KG/ynf": [
     "Oups"
@@ -55797,6 +56047,9 @@
   "L/PwZf": [
     "Lien copié !"
   ],
+  "L/aQij": [
+    "Impossible d'uploader les diagnostics de stockage. Réessaie."
+  ],
   "L/hFOe": [
     "Afficher le dossier des journaux de débugage"
   ],
@@ -56810,6 +57063,9 @@
   ],
   "LSNOYf": [
     "Aucune application ou commande ne correspond à ta recherche"
+  ],
+  "LSoXK5": [
+    "(Facultatif) Envoyez-moi des e-mails à propos des mises à jour de Discord, des astuces ou des offres spéciales. Nous suivons les ouvertures et les clics pour savoir ce qui est utile."
   ],
   "LT5TnZ": [
     "Le…"
@@ -62220,6 +62476,9 @@
   "NaZyYC": [
     "Notifications"
   ],
+  "Nb1EQx": [
+    "Toi seul(e) peux voir ceci"
+  ],
   "Nb2/RE": [
     "Nouveau fil"
   ],
@@ -62785,12 +63044,12 @@
     ". Si tu penses que cette décoration d'avatar est vraiment trop cool, tu peux la garder encore plus longtemps avec Nitro."
   ],
   "NpUfej": [
-    "Maintenant, tes victoires de quête deviennent des supervictoires avec un multiplicateur x",
+    "Maintenant, tes victoires de quête deviennent des supervictoires avec un multiplicateur de récompenses x",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    " sur les récompenses en Orbs."
+    " lorsque tu t'abonnes à Nitro. Peut être résilié à tout moment."
   ],
   "NpchGq": [
     "Centres d'intérêt"
@@ -63578,6 +63837,9 @@
   ],
   "OBr7Cw": [
     "Options du salon"
+  ],
+  "OBskVU": [
+    "Paramètres de pôle du serveur"
   ],
   "OBuzJr": [
     "La personne ayant obtenu le plus de victoires a le droit de porter la couronne."
@@ -64485,6 +64747,9 @@
   ],
   "OZRgjw": [
     "Quel est le problème ?"
+  ],
+  "OZj923": [
+    "Sois au courant de ce qu'ils ou elles font et amusez-vous ensemble."
   ],
   "Oa//IE": [
     "Inclut un ou plusieurs des types de données sélectionnés"
@@ -65800,6 +66065,9 @@
     ],
     " mois"
   ],
+  "P/1x7s": [
+    "Fais glisser et dépose tes sons favoris dans l'ordre de ton choix."
+  ],
   "P/KFXz": [
     "Pour info, des personnes que tu as bloquées ou ignorées sont dans cette conférence."
   ],
@@ -65946,6 +66214,9 @@
         "Tu as boosté le serveur."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Couleur de l'ombre"
   ],
   "P5keo3": [
     "Coffre"
@@ -68045,6 +68316,9 @@
   "Q+YV/T": [
     "Afficher/Masquer la fenêtre de la boîte de réception"
   ],
+  "Q+dH5r": [
+    "Nouveau look, nouveaux défis"
+  ],
   "Q+fhfv": [
     "Suppression du bruit activée"
   ],
@@ -68667,6 +68941,9 @@
   ],
   "QHHwRR": [
     "Vérifié"
+  ],
+  "QHrFo6": [
+    "Tu ne peux pas transférer de messages vers ce salon soumis à une limite d'âge."
   ],
   "QHvDTL": [
     "Écrêtage"
@@ -69758,6 +70035,9 @@
   ],
   "Qnf32C": [
     "Partager mon profil complet avec"
+  ],
+  "Qno0jg": [
+    "Tu n'as pas encore obtenu de badge"
   ],
   "QntEEG": [
     "Modifie l'apparence des messages des discussions."
@@ -71075,7 +71355,7 @@
     " ajoutée avec succès."
   ],
   "RJttRt": [
-    "Changer entrée + sortie"
+    "Changer l'entrée + la sortie"
   ],
   "RK6NbY": [
     "Ce serveur pourrait avoir son propre look"
@@ -71510,6 +71790,9 @@
   "RV3AXf": [
     "Ton compte n'a aucune infraction expirée."
   ],
+  "RVEiD0": [
+    "Avons-nous commis une erreur ?"
+  ],
   "RVHDnH": [
     "Informations PayPal"
   ],
@@ -71900,6 +72183,9 @@
   ],
   "RfkLDs": [
     "Nouveau code dans :"
+  ],
+  "RgDY7v": [
+    "Aperçu du serveur"
   ],
   "RgIi2B": [
     "Sondage"
@@ -72689,6 +72975,9 @@
   ],
   "S0H8in": [
     "Rappel en pause"
+  ],
+  "S0ODmT": [
+    "Paramètres de l'image"
   ],
   "S0W8Z5": [
     "Se connecter"
@@ -74924,6 +75213,9 @@
   ],
   "Str6/o": [
     "Je cherchais un message spécifique dont je connaissais exactement le contenu"
+  ],
+  "StrErG": [
+    "Ton message a été supprimé"
   ],
   "Su1Zkt": [
     "Oyez, oyez, utilisateurs Android"
@@ -80132,6 +80424,9 @@
   "V+IE93": [
     "Rejoins Nitro pour déverrouiller l'accès à cette plaque nominative !"
   ],
+  "V+Iv+U": [
+    "Sélectionne une application"
+  ],
   "V+Pwy9": [
     "Corée du Nord"
   ],
@@ -80315,6 +80610,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Extension du service de notifications"
   ],
   "V4UDY1": [
     "Demande à tes amis de t'inviter sur leurs serveurs, où tu pourras discuter et t'amuser avec eux."
@@ -81163,6 +81461,9 @@
   "VQ5Xo9": [
     "Portugais, Brésilien"
   ],
+  "VQKK5O": [
+    "Instantané du stockage système"
+  ],
   "VQOSXq": [
     "Après acceptation, tu disposeras de crédits de ",
     [
@@ -81267,6 +81568,9 @@
       "price"
     ],
     " / mois chacun"
+  ],
+  "VSunuT": [
+    "Uploader les diagnostics de stockage"
   ],
   "VT02mI": [
     "Tu n'as aucun badge ! Découvre les badges que tu peux obtenir."
@@ -82494,6 +82798,9 @@
   ],
   "VxBO2F": [
     "Mises à jour du profil"
+  ],
+  "VxE3o6": [
+    "Règle de modération des applications"
   ],
   "VxN3Lo": [
     "Exclusion temporaire d'AutoMod"
@@ -83808,6 +84115,9 @@
   "WVbpcy": [
     "Ajouter une bio"
   ],
+  "WViBDk": [
+    "Nous suivons les ouvertures et les clics d'e-mails pour voir ce qui est utile et améliorer les e-mails que nous envoyons."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -84877,6 +85187,9 @@
   ],
   "Wrg9Jn": [
     "Règle désactivée"
+  ],
+  "WrleYK": [
+    "Règle activée"
   ],
   "Wrvb3V": [
     "Avantages de l'abonnement"
@@ -86618,6 +86931,9 @@
   "XcGEcs": [
     "L'overlay n'est pas pris en charge pour ce jeu."
   ],
+  "XcOMLu": [
+    "Économise sur ton nouveau look"
+  ],
   "XcPHfw": [
     "Terminer"
   ],
@@ -88179,6 +88495,9 @@
   "YCCMkJ": [
     "Afficher une fenêtre de confirmation avant de passer à un autre salon vocal."
   ],
+  "YCIfhC": [
+    "Discord est une application gratuite pour discuter, streamer et chiller"
+  ],
   "YCZldK": [
     "Déverrouille un monde rempli d'avantages avec Nitro"
   ],
@@ -88462,6 +88781,9 @@
   "YK+wUg": [
     "PC"
   ],
+  "YKJw4W": [
+    "Tes Orbs sont désormais plus faciles à suivre et à gagner."
+  ],
   "YKVlC7": [
     "Ta vidéo est actuellement en qualité réduite. Ceci est peut-être dû à des problèmes de réseau."
   ],
@@ -88643,6 +88965,9 @@
   ],
   "YQP5dE": [
     "Connecté"
+  ],
+  "YQPbuc": [
+    "Confirme que tu respectes la restriction d'âge minimum dans ta région."
   ],
   "YQix8y": [
     "Objet terminé"
@@ -89048,6 +89373,9 @@
   ],
   "YZookV": [
     "Salons par défaut et questions anticipées"
+  ],
+  "YZqqTX": [
+    "Envoyer des messages depuis Whiteboard"
   ],
   "YaW9wI": [
     "Boost ton serveur au niveau ",
@@ -90429,6 +90757,9 @@
   "Z3Vn/X": [
     "Quel est le talent le plus inutile que tu possèdes ?"
   ],
+  "Z3uXLR": [
+    "Générateur d'intégration"
+  ],
   "Z43V9S": [
     "Supprimer l'image personnalisée : ",
     [
@@ -90544,6 +90875,9 @@
       "rewardName"
     ],
     " !"
+  ],
+  "Z70vcv": [
+    "Passe d'un salon vocal à un salon textuel et inversement"
   ],
   "Z74GUL": [
     "En t'abonnant, tu déverrouilleras les avantages de ",
@@ -92436,7 +92770,7 @@
     "Cliquer pour révéler le spoiler"
   ],
   "ZqCAos": [
-    "Gagne des Orbs plus vite"
+    "Déverrouille plus d'Orbs"
   ],
   "ZqK0uI": [
     "Fenêtre pop-up"
@@ -92517,6 +92851,9 @@
   ],
   "Zs9h9Z": [
     "Booste tes serveurs favoris"
+  ],
+  "ZsAL7q": [
+    "Masquer la liste d'amis"
   ],
   "ZsO1Sx": [
     "Les avantages de chat et la réduction sur les boosts inclus dans ton abonnement à ",
@@ -92823,6 +93160,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Créer une équipe"
   ],
   "ZxNVMy": [
     "Fais une nouvelle recherche ou ",
@@ -94249,7 +94589,7 @@
     "Forint hongrois"
   ],
   "abaDI+": [
-    "Un endroit pour toi et tes amis"
+    "Crée un endroit pour toi et tes ami(e)s"
   ],
   "abacus": [
     "abaque",
@@ -95208,6 +95548,9 @@
       ]
     ],
     "."
+  ],
+  "ar2OUZ": [
+    "Ce fichier image est trop volumineux."
   ],
   "ar3a3q": [
     "Les informations que tu fournis sont uniquement utilisées pour confirmer ton groupe d'âge, puis elles sont supprimées."
@@ -99885,6 +100228,9 @@
   "cHszXg": [
     "Ajouter des membres"
   ],
+  "cHxSwT": [
+    "Diagnostics de stockage partiels uploadés. Certains fichiers n'ont pas pu être répertoriés ou une limite d'analyse a été atteinte."
+  ],
   "cHzQ2O": [
     "Faire appel de la quarantaine"
   ],
@@ -100194,7 +100540,7 @@
     "Échap"
   ],
   "cR6336": [
-    "Aucune méthode de vérification d'âge n'est disponible. Il se peut qu'il s'agisse d'une erreur."
+    "Aucune méthode de vérification d'âge n'est disponible. Merci de réessayer dans un instant."
   ],
   "cR7lcs": [
     "Il y a ",
@@ -100311,6 +100657,28 @@
   ],
   "cSb7U0": [
     "Désactiver le centre familial"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip sélectionné"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clips sélectionnés"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Double-clique pour voir le profil"
@@ -101007,6 +101375,9 @@
   ],
   "cfeFEt": [
     "Échec du paiement"
+  ],
+  "cfrfyZ": [
+    "Affiche une suggestion lorsque Discord détecte un nouveau périphérique audio."
   ],
   "cfu/5d": [
     "Nitro annuel"
@@ -104436,6 +104807,9 @@
   "dcK4Ch": [
     "Tu pourras changer cela plus tard."
   ],
+  "dcOuei": [
+    "Voir les défis"
+  ],
   "dcSDhW": [
     "Doit avoir 1 ",
     [
@@ -107547,7 +107921,7 @@
     "Dollar canadien"
   ],
   "efLpNC": [
-    "Tes meilleurs moments"
+    "tes meilleurs moments"
   ],
   "efLzgX": [
     "La durée ou le nombre de nouveaux membres qui peuvent rejoindre avant l'expiration de cette invitation."
@@ -108185,6 +108559,29 @@
   "euXi0Q": [
     "Tu es en train de vérifier la candidature de quelqu'un qui souhaite rejoindre ton serveur. Tant que tu ne l'as pas validée, cette personne ne peux pas rejoindre le serveur ni participer aux discussions."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " serveur dispose"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " serveurs disposent"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de paramètres personnalisés"
+  ],
   "euizJY": [
     [
       1,
@@ -108235,6 +108632,13 @@
   ],
   "eutr4P": [
     "Parle-nous un peu de toi"
+  ],
+  "evGwDW": [
+    "Brouillon — Prévu en ligne : ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Demandes de message — ",
@@ -108899,6 +109303,9 @@
   ],
   "fAQ/8h": [
     "Choisis un salon qui pourrait être intéressant pour les nouveaux membres."
+  ],
+  "fAU31r": [
+    "Pour jouer, discuter ou bien, je sais pas, faire tes devoirs."
   ],
   "fAW3z4": [
     "Aucune correspondance trouvée"
@@ -111100,6 +111507,9 @@
   "fr5bJy": [
     "Touche le sélecteur de sortie pour passer à la console."
   ],
+  "fr7qnZ": [
+    "Sélectionne des produits"
+  ],
   "frCwaT": [
     "Ses messages seront cachés"
   ],
@@ -112007,6 +112417,9 @@
   ],
   "gEp2SG": [
     "Recherche des profils de jeux"
+  ],
+  "gF8HJo": [
+    "Suggestions de périphérique audio"
   ],
   "gF8IpD": [
     "L’utilisateur à expulser"
@@ -113393,6 +113806,9 @@
   ],
   "gn2c6X": [
     "Compte signalé"
+  ],
+  "gn3Poi": [
+    "Crée un lien d'invitation que n'importe qui peut utiliser pour rejoindre, ou invite directement des ami(e)s."
   ],
   "gn7SZe": [
     "Découvre les dernières décorations d'avatar et effets de profil et collectionne tes styles favoris."
@@ -115768,6 +116184,9 @@
   "hcMwDW": [
     "Après une date"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Badge foudre"
   ],
@@ -117567,6 +117986,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Ajouter une image"
+  ],
   "iG+nZx": [
     "Vérifie que les permissions de tes salons Tâches à faire et Ressources sont correctement définies."
   ],
@@ -118139,6 +118561,9 @@
   ],
   "iVfA9i": [
     "tout à droite"
+  ],
+  "iVqj8B": [
+    "Accueil des clips"
   ],
   "iVzBOh": [
     "Copier le lien"
@@ -119834,6 +120259,9 @@
       "gameTitle"
     ]
   ],
+  "j3AKJQ": [
+    "Ce fichier n'est pas une image prise en charge. Essaie une image au format PNG, JPEG ou WebP."
+  ],
   "j3KOkh": [
     "Tu as enfreint les règles de Discord et tu risques de perdre ton compte si tu les enfreins à nouveau."
   ],
@@ -120154,6 +120582,9 @@
   ],
   "jCOdvx": [
     "Jeux ajoutés"
+  ],
+  "jCQlbu": [
+    "Télécharge l'application Discord"
   ],
   "jCV1Tz": [
     "ALT"
@@ -122687,6 +123118,9 @@
   "kHMgaK": [
     "Tu peux maintenant accepter le paiement pour la monétisation des serveurs."
   ],
+  "kHNeDa": [
+    "L'application choisit l'action à effectuer pour chaque message, et peut ainsi bloquer le MP ou ne rien faire du tout."
+  ],
   "kHalVA": [
     "Duplique les avantages ou les permissions de salon d'un niveau ou d'un rôle existant."
   ],
@@ -124523,6 +124957,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Tout partager"
+  ],
   "l3K4B/": [
     "Mentionne l'utilisateur"
   ],
@@ -124799,6 +125236,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "L'invitation expire dans ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jours"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Ajoutés il y a longtemps"
@@ -125709,6 +126169,13 @@
   "lZejCq": [
     "Inclure les mentions @rôles"
   ],
+  "lZuIri": [
+    "Overlay d'image : ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Des paramètres qui collectent des données techniques à analyser pour l'assistance Discord, comme les journaux de débugage et l'enregistrement audio"
   ],
@@ -126049,6 +126516,12 @@
   ],
   "lg3Ckc": [
     "Tu peux utiliser le mode streamer pour masquer tes informations personnelles en streamant."
+  ],
+  "lgDNyX": [
+    "Afficher l'onglet de pôle du serveur dans la liste des salons"
+  ],
+  "lgHr73": [
+    "Discute, streame et chill"
   ],
   "lgcisd": [
     "Les serveurs avec plus de ",
@@ -129916,6 +130389,18 @@
   ],
   "mmNkUA": [
     "Obtiens un lien d'invitation personnalisé avec des boosts - aucun niveau requis ! Parfait pour développer ton serveur."
+  ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " sélectionné(s)"
   ],
   "mmZGEG": [
     "Gagne ",
@@ -133929,7 +134414,7 @@
     " ! Avec Nitro, tu peux garder cette récompense. Profites-en bien !"
   ],
   "o9PQEi": [
-    "Transforme les victoires de la quête en supervictoires avec un multiplicateur x",
+    "Transforme tes victoires en supervictoires avec un multiplicateur x",
     [
       2,
       "bonusOrbMultiplier"
@@ -137751,6 +138236,29 @@
     "bouton pause",
     "pause"
   ],
+  "pb2Was": [
+    "Ajoute jusqu'à ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clips"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "pb7lpK": [
     "Choisis un badge"
   ],
@@ -138580,6 +139088,9 @@
   "piPHvY": [
     "Bienvenue"
   ],
+  "piRNeN": [
+    "Impossible de lire cette image."
+  ],
   "piW6YS": [
     "Envoyer"
   ],
@@ -139292,6 +139803,9 @@
   "pqk9U0": [
     "Voir plus"
   ],
+  "pqph/A": [
+    "Dès que tu es libre, sans appel ni invitation."
+  ],
   "pqqixk": [
     "Activée"
   ],
@@ -139565,6 +140079,9 @@
   ],
   "put7Hw": [
     "options"
+  ],
+  "putVLl": [
+    "Utilise des réactions personnalisées, des intégrations et des bots."
   ],
   "put_litter_in_its_place": [
     "corbeille",
@@ -140942,6 +141459,9 @@
       ]
     ]
   ],
+  "qT6LjY": [
+    "Aujourd'hui à 13 h 00"
+  ],
   "qTCYun": [
     "Veux-tu également appliquer cette modification à tous tes serveurs ?"
   ],
@@ -141593,6 +142113,9 @@
   "qnJ9W3": [
     "Signaler un problème"
   ],
+  "qnSo/i": [
+    "Commerce social"
+  ],
   "qnYumI": [
     [
       6,
@@ -141750,6 +142273,9 @@
   ],
   "qpWnyC": [
     "Aller dans les paramètres"
+  ],
+  "qpw1d9": [
+    "Tu ne peux partager que 10 clips à la fois."
   ],
   "qpwaNY": [
     "Date de sortie"
@@ -143734,6 +144260,14 @@
   ],
   "rb7dJ7": [
     "Plaques nominatives"
+  ],
+  "rbAtUi": [
+    "En ligne — Publiée : ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
   ],
   "rbIry3": [
     "Mettre à jour le fil"
@@ -146480,6 +147014,9 @@
   "sS2J0G": [
     "Personne n'est encore là !\nQuand tu auras envie de commencer à discuter, il te suffira d'y entrer."
   ],
+  "sS4xGd": [
+    "Crée une intégration partageable pour certains produits de ta boutique de jeu."
+  ],
   "sSAQtj": [
     "Propriétés du fil mises à jour"
   ],
@@ -147393,6 +147930,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "sgse8P": [
+    "Afficher la liste d'amis"
   ],
   "shE8hW": [
     "Fais coucou, partage ton écran ou discute tout simplement."
@@ -151375,6 +151915,9 @@
   "to6uUe": [
     "Publication des scores du jeu de rythme !"
   ],
+  "toGFBn": [
+    "Extension du widget d'écran verrouillé"
+  ],
   "toKjAM": [
     "ton-url-ici"
   ],
@@ -153007,6 +153550,9 @@
         "très limité."
       ]
     ]
+  ],
+  "uF5VXk": [
+    "Cette image ne peut pas être ajoutée à un clip."
   ],
   "uFHxNd": [
     "Confirmer le nouveau groupe"
@@ -154705,6 +155251,42 @@
   "uy25Qz": [
     "Les autocollants de ce serveur ne sont pas disponibles"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " serveur"
+            ]
+          ],
+          " a des permissions personnalisées pour les MP. Sélectionne-le pour les voir ou les modifier."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " serveurs"
+            ]
+          ],
+          " ont des permissions personnalisées pour les MP. Sélectionnes-en un pour le voir ou le modifier."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Titre du post"
   ],
@@ -155093,6 +155675,9 @@
   ],
   "v8MLqz": [
     "Le partage n'est pas disponible dans ce salon"
+  ],
+  "v8QrJf": [
+    "Tes Orbs sont prêts à être utilisés"
   ],
   "v8UpgE": [
     "Aller à la boutique du jeu"
@@ -158429,6 +159014,9 @@
   "wR+Fuo": [
     "Rendre ce fil muet"
   ],
+  "wR5R9w": [
+    "Remplacer l'image"
+  ],
   "wR5wOo": [
     "Effet de profil"
   ],
@@ -158478,6 +159066,9 @@
   ],
   "wS+5Wb": [
     "Invitation à regarder le stream"
+  ],
+  "wSD7jV": [
+    "Sélectionne un salon de notifications de sécurité"
   ],
   "wSZfJR": [
     "« Je t'ai signalé(e) par accident. »"
@@ -162753,6 +163344,9 @@
   ],
   "xhQsxx": [
     "Accède à ton statut Nitro"
+  ],
+  "xhZ23b": [
+    "xhZ23b"
   ],
   "xhgNd0": [
     "Serveur de ",
@@ -167247,6 +167841,9 @@
   "zZp618": [
     "Voici tous les appareils actuellement connectés à ton compte Discord. Tu peux déconnecter tous les appareils en une fois ou séparément.\n\nSi tu remarques une activité inhabituelle sur ton compte, change le mot de passe de ton compte Discord immédiatement."
   ],
+  "zaEQz+": [
+    "Données du navigateur effacées."
+  ],
   "zany_face": [
     "grand",
     "large",
@@ -167314,6 +167911,9 @@
   ],
   "zcKE8W": [
     "Application mobile Xbox installée"
+  ],
+  "zcZtrU": [
+    "Personnaliser les badges"
   ],
   "zcbFu1": [
     "Émoji utilisé"
