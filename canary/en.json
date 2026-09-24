@@ -18802,6 +18802,9 @@
   "50gfOv": [
     "Verify Phone"
   ],
+  "51/RO8": [
+    "Attachment"
+  ],
   "515vjG": [
     "Click to learn more"
   ],
@@ -26327,6 +26330,9 @@
   "7qKDrE": [
     "Confirm Password"
   ],
+  "7qUFc7": [
+    "Spoiler revealed"
+  ],
   "7qbp3B": [
     "...more"
   ],
@@ -29740,6 +29746,9 @@
   ],
   "93tEDn": [
     "Connection"
+  ],
+  "93uxht": [
+    "List item"
   ],
   "93xPy3": [
     "3 Nitro friend passes"
@@ -50010,6 +50019,9 @@
   "HKWdjj": [
     "Add your vibe to Discord with unique theme colors."
   ],
+  "HL9CT6": [
+    "This one sat too long and expired. Remove it and attach it again."
+  ],
   "HLHJcJ": [
     "Open bookmarks"
   ],
@@ -51680,6 +51692,9 @@
   ],
   "I2Ctk1": [
     "Complete the steps below to unlock your account"
+  ],
+  "I2GETO": [
+    "Deleted"
   ],
   "I2H0/E": [
     "You requested a review of this violation."
@@ -57171,6 +57186,9 @@
   ],
   "KIpp7M": [
     "Redeem"
+  ],
+  "KIskmn": [
+    "Spoilers revealed"
   ],
   "KJ2JnG": [
     "Allows members to change these channels’ name, description, and text / voice settings. They can also delete these channels."
@@ -73565,6 +73583,9 @@
   "QlH5w6": [
     "user unignored"
   ],
+  "QlN4tN": [
+    "Link"
+  ],
   "QlyC9s": [
     "Set a default reaction for posts"
   ],
@@ -79338,6 +79359,9 @@
   ],
   "SxsBFD": [
     "Can you tell us more?"
+  ],
+  "Sxxqdx": [
+    "The whiteboard is active."
   ],
   "Sy3qan": [
     "Filter messages from server members you may not know."
@@ -102922,6 +102946,9 @@
   "bgU5r0": [
     "Shows a notice every time the overlay opens to let you know that the overlay is now active."
   ],
+  "bgfExW": [
+    "Hashtag"
+  ],
   "bgn75v": [
     "Discord isn’t detecting any input from your mic."
   ],
@@ -111217,6 +111244,18 @@
   "e5y+gm": [
     "Group DM"
   ],
+  "e62g5R": [
+    "List item ",
+    [
+      1,
+      "index"
+    ],
+    " of ",
+    [
+      1,
+      "size"
+    ]
+  ],
   "e68fAU": [
     "Set the video quality mode to ",
     [
@@ -115632,6 +115671,72 @@
   ],
   "fcYgiY": [
     "About and Policies"
+  ],
+  "fcmI49": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "username2Hook",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " and ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " user"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " users"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " are using the whiteboard."
   ],
   "fcopjf": [
     "Unlock Reward"
@@ -143002,6 +143107,9 @@
       "name"
     ]
   ],
+  "p+Bvxs": [
+    "Emoji"
+  ],
   "p+XCta": [
     "Neon Nights"
   ],
@@ -148873,6 +148981,9 @@
   ],
   "qvtjM4": [
     "Verifying your servers (probably) aren't haunted."
+  ],
+  "qvvMqu": [
+    "Reveal spoiler"
   ],
   "qvx9E4": [
     "Gifted ",
@@ -175019,6 +175130,90 @@
   ],
   "zUUbBM": [
     "Cameroon"
+  ],
+  "zUiZPF": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ],
+            [
+              [
+                1,
+                "username2OnClick"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " and ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " user"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " users"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " are using the whiteboard."
   ],
   "zUjLl+": [
     "Add any video, photo, and files to share with members."
