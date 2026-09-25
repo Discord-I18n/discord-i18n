@@ -2296,7 +2296,7 @@
     "Gjør Discord til ditt eget"
   ],
   "+w36yH": [
-    "Se gjennom menyen"
+    "Blameny"
   ],
   "+w5yKk": [
     "Filtrer all spam"
@@ -3284,12 +3284,7 @@
     "Antall"
   ],
   "/JJ9I5": [
-    "Del Nitro, få ",
-    [
-      1,
-      "discountPercent"
-    ],
-    " % rabatt"
+    "Henvis venner, spar på Nitro"
   ],
   "/JJDBT": [
     "Administrer boost"
@@ -14123,7 +14118,7 @@
     " i måneden."
   ],
   "3Zypbv": [
-    "Åpne appen i et nytt vindu"
+    "Legg appen i et nytt vindu"
   ],
   "3a8Xxj": [
     "Administrer medlemskap"
@@ -36919,6 +36914,9 @@
   "CunCMN": [
     "Velg en server"
   ],
+  "CuzcRY": [
+    "Assister"
+  ],
   "Cv6AN/": [
     "Systemmeldinger"
   ],
@@ -48670,6 +48668,9 @@
   "I2Ctk1": [
     "Følg fremgangsmåten under for å låse opp kontoen din"
   ],
+  "I2GETO": [
+    "Slettet"
+  ],
   "I2H0/E": [
     "Du har bedt om en gjennomgang av dette regelbruddet."
   ],
@@ -51818,7 +51819,7 @@
       1,
       "name"
     ],
-    ", blir tilgjengelig ",
+    ", tilgjengelig ",
     [
       1,
       "time"
@@ -60795,6 +60796,9 @@
   "NECb4t": [
     "Kombomultiplikator (x7)"
   ],
+  "NEFeB0": [
+    "Døden"
+  ],
   "NENZhS": [
     "Juster innstillinger"
   ],
@@ -61073,7 +61077,7 @@
     "Aktiver varsler om superreaksjoner"
   ],
   "NKV/MO": [
-    "Åpne appen i samme vindu"
+    "Legg appen i samme vindu"
   ],
   "NKljj+": [
     [
@@ -65966,7 +65970,7 @@
     "Gi i gave"
   ],
   "PEtHiE": [
-    "Flere sider-meny"
+    "Meny for flere sider"
   ],
   "PEzffq": [
     "Ingen"
@@ -69357,6 +69361,9 @@
   "QlH5w6": [
     "bruker ikke ignorert"
   ],
+  "QlN4tN": [
+    "Lenke"
+  ],
   "QlyC9s": [
     "Angi standardreaksjon for innlegg"
   ],
@@ -71164,7 +71171,7 @@
       1,
       "name"
     ],
-    ", spiller nå"
+    ", spilles nå"
   ],
   "RSXQYO": [
     "HD-video"
@@ -76360,6 +76367,9 @@
   ],
   "TcFR5k": [
     "Takk for at du sier fra til oss!"
+  ],
+  "TcGz5R": [
+    "Nederlag"
   ],
   "TcQ7/5": [
     "Skade mottatt"
@@ -87617,6 +87627,9 @@
   ],
   "Y78KGC": [
     "Nevn @everyone, @here og alle roller"
+  ],
+  "Y7CAoY": [
+    "Multikill"
   ],
   "Y7Kgvf": [
     "Jeg har lest og godtar Discords bruksvilkår og personvernerklæring."
@@ -110258,6 +110271,9 @@
   "fyMWli": [
     "Moderering av innhold"
   ],
+  "fyRdwo": [
+    "Seier"
+  ],
   "fyT2ol": [
     "Fortsett uten oppdrag"
   ],
@@ -111291,6 +111307,9 @@
   ],
   "gQ14+g": [
     "Enkelte deltakere er bare med via lyd."
+  ],
+  "gQErX1": [
+    "Kill"
   ],
   "gQeg/R": [
     "Vil du filtrere bort søkeresultater fra bots? Prøv å legge til ",
@@ -130673,23 +130692,23 @@
   "na1rJc": [
     "Du trenger ",
     [
-      1,
-      "permissions"
-    ],
-    " ",
-    [
       6,
       "count",
       {
         "one": [
-          "tillatelse"
+          "tillatelsen"
         ],
         "other": [
-          "tillatelser"
+          "tillatelsene"
         ]
       },
       0,
       "cardinal"
+    ],
+    " ",
+    [
+      1,
+      "permissions"
     ],
     " for å endre kanalens app."
   ],
@@ -134454,6 +134473,9 @@
       1,
       "name"
     ]
+  ],
+  "p+Bvxs": [
+    "Emoji"
   ],
   "p+XCta": [
     "Neonnetter"
