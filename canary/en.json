@@ -3421,6 +3421,29 @@
   "/IwK3s": [
     "Psychological Horror"
   ],
+  "/J6kmO": [
+    "Working for ",
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "/JAEbN": [
     "New members can browse the server before meeting the requirements. We recommend keeping this enabled so they can see what your community is like. If disabled, new members can’t view any contents of the server until they meet the requirements. ",
     [
@@ -29514,6 +29537,18 @@
     ],
     " role? This action cannot be undone."
   ],
+  "9/TJIF": [
+    [
+      1,
+      "minutes"
+    ],
+    "m ",
+    [
+      1,
+      "seconds"
+    ],
+    "s"
+  ],
   "9/ZreX": [
     "Linked Channel"
   ],
@@ -45878,6 +45913,13 @@
   ],
   "Fq5lwN": [
     "Status"
+  ],
+  "FqRCg2": [
+    [
+      1,
+      "seconds"
+    ],
+    "s"
   ],
   "FqbalJ": [
     "Local Cooperative"
@@ -76229,6 +76271,50 @@
   "RmDYKK": [
     "Reply"
   ],
+  "RmLsRf": [
+    "Working for ",
+    [
+      6,
+      "hours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " hour"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " hours"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " ",
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "RmVM19": [
     [
       2,
@@ -91509,23 +91595,6 @@
   ],
   "Xe+fJM": [
     "No results found"
-  ],
-  "Xe0KGE": [
-    "By creating a server, you agree to Discord's ",
-    [
-      8,
-      "$link",
-      [
-        "Community Guidelines"
-      ],
-      [
-        [
-          1,
-          "guidelinesURL"
-        ]
-      ]
-    ],
-    "."
   ],
   "Xe0T58": [
     "Sexual Violence"
@@ -118383,6 +118452,9 @@
   ],
   "gTcxOz": [
     "No shared server = no shared emoji options...time to create a server for all your favorite memes together"
+  ],
+  "gTzQ7A": [
+    "Working for less than a minute"
   ],
   "gU+bVJ": [
     "Let us know why you’re disabling Overlay"
@@ -152358,6 +152430,23 @@
   ],
   "ru+2jw": [
     "No friends in common"
+  ],
+  "ru1bG9": [
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "m ",
+    [
+      1,
+      "seconds"
+    ],
+    "s"
   ],
   "ruVnPr": [
     "Choose a FREE reward"

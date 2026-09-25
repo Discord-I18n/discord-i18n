@@ -2376,7 +2376,7 @@
     "Pritaikyk Discord savo poreikiams"
   ],
   "+w36yH": [
-    "Naršymo meniu"
+    "Meniu Naršymas"
   ],
   "+w5yKk": [
     "Filtruoti visą brukalą"
@@ -3067,9 +3067,6 @@
   "/8psS7": [
     "Veiklos valdikliai buvo painūs"
   ],
-  "/8znyU": [
-    "Išsiųsk dar vieną dovaną, kad gautum visus"
-  ],
   "/91tbr": [
     "Pranešti apie šią rolę naudotojams, kurie turi leidimą peržiūrėti šį kanalą"
   ],
@@ -3381,12 +3378,7 @@
     "Kiekis"
   ],
   "/JJ9I5": [
-    "Bendrink Nitro ir gauk ",
-    [
-      1,
-      "discountPercent"
-    ],
-    " % nuolaidą"
+    "Pakviesk draugus – sutaupyk įsigydamas (-a) Nitro"
   ],
   "/JJDBT": [
     "Tvarkyti stiprinimus"
@@ -14355,7 +14347,7 @@
     "."
   ],
   "3Zypbv": [
-    "Atskirame lange atsidaranti programėlė"
+    "Atsegti programėlę"
   ],
   "3a8Xxj": [
     "Tvarkyti narystes"
@@ -37693,6 +37685,9 @@
   "CunCMN": [
     "Pasirinkti serverį"
   ],
+  "CuzcRY": [
+    "Pagalba"
+  ],
   "Cv6AN/": [
     "Sistemos pranešimai"
   ],
@@ -49814,6 +49809,9 @@
   "I2Ctk1": [
     "Atlik toliau nurodytus veiksmus, kad paskyrą atrakintum"
   ],
+  "I2GETO": [
+    "Ištrinta"
+  ],
   "I2H0/E": [
     "Pateikei prašymą peržiūrėti šį pažeidimą."
   ],
@@ -52980,7 +52978,7 @@
       1,
       "name"
     ],
-    ", prieinamas ",
+    ", prieinama ",
     [
       1,
       "time"
@@ -62240,6 +62238,9 @@
   "NECb4t": [
     "Kombinacijos daugiklis (x7)"
   ],
+  "NEFeB0": [
+    "Mirtis"
+  ],
   "NENZhS": [
     "Reguliuoti nustatymus"
   ],
@@ -62528,7 +62529,7 @@
     "Įjungti pranešimus apie super reakcijas"
   ],
   "NKV/MO": [
-    "Viduje atsidaranti programėlė"
+    "Prisegti programėlę"
   ],
   "NKljj+": [
     [
@@ -67392,7 +67393,7 @@
     "Dovanoti"
   ],
   "PEtHiE": [
-    "Kitų puslapių meniu"
+    "Meniu Kiti puslapiai"
   ],
   "PEzffq": [
     "Nėra"
@@ -70839,6 +70840,9 @@
   "QlH5w6": [
     "naudotojas (-a) nebeignoruojamas (-a)"
   ],
+  "QlN4tN": [
+    "Nuoroda"
+  ],
   "QlyC9s": [
     "Nustatyk numatytąją reakciją į įrašus"
   ],
@@ -70985,7 +70989,7 @@
     "Transliacijos privatumo kodas"
   ],
   "QojGXK": [
-    "Įsigiję (-usi) dovaną"
+    "Nupirkdamas (-a) dovaną"
   ],
   "QouJki": [
     "Krištolo ženklelį šalia tavo vardo"
@@ -72689,7 +72693,7 @@
       1,
       "name"
     ],
-    ", dabar žaidžia"
+    ", dabar rodoma"
   ],
   "RSXQYO": [
     "Aukštosios raiškos vaizdo įrašai"
@@ -78015,6 +78019,9 @@
   ],
   "TcFR5k": [
     "Ačiū, kad pranešei!"
+  ],
+  "TcGz5R": [
+    "Pralaimėjimas"
   ],
   "TcQ7/5": [
     "Patirta žala"
@@ -86358,9 +86365,6 @@
   "Wv7HLS": [
     "Šviežiena – specialiai tau"
   ],
-  "WvAqZA": [
-    "Pelnei nemokamą papuošimą"
-  ],
   "Wvc/I+": [
     "Labas rytas,"
   ],
@@ -88096,23 +88100,6 @@
   "Xe+fJM": [
     "Rezultatų nerasta"
   ],
-  "Xe0KGE": [
-    "Kurdamas serverį, tu sutinki su Discord ",
-    [
-      8,
-      "$link",
-      [
-        " Bendruomenės Gairėmis"
-      ],
-      [
-        [
-          1,
-          "guidelinesURL"
-        ]
-      ]
-    ],
-    " ."
-  ],
   "Xe0T58": [
     "Seksualinis Smurtas"
   ],
@@ -89439,6 +89426,9 @@
   ],
   "Y78KGC": [
     "Minėti @everyone, @here ir visus vaidmenis"
+  ],
+  "Y7CAoY": [
+    "Nužudymų serija"
   ],
   "Y7Kgvf": [
     "Perskaičiau ir sutinku su Discord Paslaugų teikimo sąlygomis ir Privatumo Politika."
@@ -99146,7 +99136,7 @@
     "Jungiamasi"
   ],
   "bf9uMH": [
-    "Žaidimų parduotuvių meniu"
+    "Meniu Žaidimų parduotuvės"
   ],
   "bfmKdK": [
     "Pasirink komandą"
@@ -101346,26 +101336,6 @@
   ],
   "cM8bbx": [
     "Gauti Basic"
-  ],
-  "cMHedL": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Gavai išskirtinį apdovanojimą"
-        ],
-        "other": [
-          "Gavai visus išskirtinius apdovanojimus (",
-          [
-            7
-          ],
-          ")"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "cMgegQ": [
     "Rėmeliai – tai profilio apvadai, pagerinantys jo išvaizdą. Nitro nariai gauna išankstinę prieigą. Rask savo rėmelį Parduotuvėje."
@@ -112400,6 +112370,9 @@
   "fyMWli": [
     "Turinio moderavimas"
   ],
+  "fyRdwo": [
+    "Pergalė"
+  ],
   "fyT2ol": [
     "Tęsti be misijos"
   ],
@@ -113464,6 +113437,9 @@
   ],
   "gQ14+g": [
     "Kai kurie dalyvaus tik balsu."
+  ],
+  "gQErX1": [
+    "Nužudymas"
   ],
   "gQeg/R": [
     "Nori išfiltruoti iš botų gautus paieškos rezultatus? Pabandyk prie paieškos pridėti ",
@@ -114787,7 +114763,6 @@
       1,
       "channelName"
     ],
-    " ",
     [
       6,
       "count",
@@ -120326,9 +120301,6 @@
   "ivpkNe": [
     "Ačiū, nereikia"
   ],
-  "ivpn6G": [
-    "Griebk ir pasilik nemokamą papuošimą"
-  ],
   "iw0hFi": [
     [
       8,
@@ -120527,7 +120499,7 @@
     "žibintas"
   ],
   "izggZO": [
-    "Programa nerasta. Pabandyk įkelti iš naujo arba pasirink naują programą kanalo nustatymuose"
+    "Programa nerasta. Pabandyk paleisti Discord iš naujo arba pasirink naują programą kanalo nustatymuose"
   ],
   "j+63pw": [
     "Kategorija – ",
@@ -136762,6 +136734,9 @@
       1,
       "name"
     ]
+  ],
+  "p+Bvxs": [
+    "Jaustukas"
   ],
   "p+XCta": [
     "Neoninės naktys"
@@ -167201,9 +167176,6 @@
   ],
   "zV0/FC": [
     "Netinkamas žinutės tipas"
-  ],
-  "zVGHbw": [
-    "Gauk nemokamą papuošimą"
   ],
   "zVJxqj": [
     "Privalo turėti bent ",

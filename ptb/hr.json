@@ -2423,7 +2423,7 @@
     "Učini Discord svojim"
   ],
   "+w36yH": [
-    "Pregledaj izbornik"
+    "Izbornik za pregledavanje"
   ],
   "+w5yKk": [
     "Filtriraj sav spam"
@@ -3121,9 +3121,6 @@
   "/8psS7": [
     "Kontrole unutar aktivnosti bile su konfuzne"
   ],
-  "/8znyU": [
-    "Pošalji još jedan dar da ih sve sakupiš"
-  ],
   "/91tbr": [
     "Obavijesti članove s ovom ulogom koji imaju dozvolu pregleda ovog kanala."
   ],
@@ -3434,12 +3431,7 @@
     "Količina"
   ],
   "/JJ9I5": [
-    "Podijeli Nitro i dobivaš ",
-    [
-      1,
-      "discountPercent"
-    ],
-    " % popusta"
+    "Preporuči prijatelje i uštedi na Nitru"
   ],
   "/JJDBT": [
     "Upravljanje Boostom"
@@ -14654,7 +14646,7 @@
     "."
   ],
   "3Zypbv": [
-    "Otvori izvan aplikacije"
+    "Izdvoji aplikaciju u zaseban prozor"
   ],
   "3a8Xxj": [
     "Upravljaj članstvima"
@@ -24841,9 +24833,6 @@
       {
         "one": [
           "Dar je spreman za isporuku"
-        ],
-        "few": [
-          "Dara je spremno za isporuku"
         ],
         "other": [
           "Darova je spremno za isporuku"
@@ -38228,6 +38217,9 @@
   "CunCMN": [
     "Odaberi server"
   ],
+  "CuzcRY": [
+    "Asistencija"
+  ],
   "Cv6AN/": [
     "Poruke sustava"
   ],
@@ -50330,6 +50322,9 @@
   "I2Ctk1": [
     "Dovrši korake u nastavku da otključaš svoj račun"
   ],
+  "I2GETO": [
+    "Izbrisano"
+  ],
   "I2H0/E": [
     "Zatražio/la si preispitivanje odluke o ovom kršenju."
   ],
@@ -53556,7 +53551,7 @@
       1,
       "name"
     ],
-    ", dostupan/na u ",
+    ", dostupno za ",
     [
       1,
       "time"
@@ -62750,6 +62745,9 @@
   "NECb4t": [
     "Combo multiplikator (×7)"
   ],
+  "NEFeB0": [
+    "Smrt"
+  ],
   "NENZhS": [
     "Prilagodi postavke"
   ],
@@ -63078,7 +63076,7 @@
     "Omogući obavijesti za super reakcije"
   ],
   "NKV/MO": [
-    "Otvori u aplikaciji"
+    "Vrati aplikaciju u kanal"
   ],
   "NKljj+": [
     [
@@ -71449,6 +71447,9 @@
   "QlH5w6": [
     "poništeno je ignoriranje korisnika"
   ],
+  "QlN4tN": [
+    "Poveznica"
+  ],
   "QlyC9s": [
     "Postavi zadanu reakciju na postove"
   ],
@@ -73299,7 +73300,7 @@
       1,
       "name"
     ],
-    ", upravo igra"
+    ", trenutačno se reproducira"
   ],
   "RSXQYO": [
     "Video visoke definicije"
@@ -78651,6 +78652,9 @@
   ],
   "TcFR5k": [
     "Hvala što si nam javio/la!"
+  ],
+  "TcGz5R": [
+    "Poraz"
   ],
   "TcQ7/5": [
     "Pretrpljeno oštećenje"
@@ -87169,9 +87173,6 @@
   "Wv7HLS": [
     "Svježi dropovi, samo za tebe"
   ],
-  "WvAqZA": [
-    "Zaradio/la si besplatan ukras"
-  ],
   "Wvc/I+": [
     "Dobro jutro,"
   ],
@@ -88893,23 +88894,6 @@
   "Xe+fJM": [
     "Nema pronađenih rezultata"
   ],
-  "Xe0KGE": [
-    "Stvaranjem servera, slažeš se s Discordovim ",
-    [
-      8,
-      "$link",
-      [
-        "Smjernicama zajednice"
-      ],
-      [
-        [
-          1,
-          "guidelinesURL"
-        ]
-      ]
-    ],
-    "."
-  ],
   "Xe0T58": [
     "Seksualno nasilje"
   ],
@@ -90199,6 +90183,9 @@
   ],
   "Y78KGC": [
     "Spomeni @everyone, @here i Sve uloge"
+  ],
+  "Y7CAoY": [
+    "Multikill"
   ],
   "Y7Kgvf": [
     "Pročitao/la sam i prihvaćam Discordove Uvjete pružanja usluge i Pravila zaštite osobnih podataka."
@@ -94138,7 +94125,7 @@
     " da bi mogao/la izmijeniti ovaj kanal."
   ],
   "Zazao2": [
-    "Razvrstaj ",
+    "Promijeni redoslijed uloge ",
     [
       1,
       "name"
@@ -94994,7 +94981,7 @@
     "Odabir uloge"
   ],
   "ZvgWUV": [
-    "Ako sada preskočiš slanje ",
+    "Preskočiš li sada slanje ",
     [
       6,
       "giftCount",
@@ -102297,33 +102284,6 @@
   ],
   "cM8bbx": [
     "Uzmi Basic"
-  ],
-  "cMHedL": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Prikupio/la si ekskluzivnu nagradu"
-        ],
-        "few": [
-          "Prikupio/la si sve ",
-          [
-            7
-          ],
-          " ekskluzivne nagrade"
-        ],
-        "other": [
-          "Prikupio/la si svih ",
-          [
-            7
-          ],
-          " ekskluzivnih nagrada"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "cMgegQ": [
     "Okviri su rubovi profila koji upotpunjuju izgled. Članovi Nitra imaju mogućnost ranog pristupa. Pronađi svoj u Trgovini."
@@ -113519,6 +113479,9 @@
   "fyMWli": [
     "Moderiranje sadržaja"
   ],
+  "fyRdwo": [
+    "Pobjeda"
+  ],
   "fyT2ol": [
     "Nastavi bez misije"
   ],
@@ -114573,6 +114536,9 @@
   ],
   "gQ14+g": [
     "Neki će sudjelovati samo sa zvukom."
+  ],
+  "gQErX1": [
+    "Kill"
   ],
   "gQeg/R": [
     "Želiš li filtrom ukloniti rezultate koji potječu od botova? Pokušaj dodati ",
@@ -121607,9 +121573,6 @@
   ],
   "ivpkNe": [
     "Ne, hvala"
-  ],
-  "ivpn6G": [
-    "Odaberi besplatni ukras koji ćeš zadržati"
   ],
   "iw0hFi": [
     [
@@ -134528,12 +134491,7 @@
     "Primjer: pravila za server"
   ],
   "na1rJc": [
-    "Za promjenu aplikacije ovog kanala ",
-    [
-      1,
-      "permissions"
-    ],
-    " ",
+    "Za promjenu aplikacije ovog kanala  ",
     [
       6,
       "count",
@@ -134541,23 +134499,18 @@
         "one": [
           "treba ti ",
           [
-            7
+            1,
+            "permissions"
           ],
           " dozvola"
-        ],
-        "few": [
-          "trebaju ti ",
-          [
-            7
-          ],
-          " dozvole"
         ],
         "other": [
-          "treba ti ",
+          "trebaju ti ",
           [
-            7
+            1,
+            "permissions"
           ],
-          " dozvola"
+          " dozvole"
         ]
       },
       0,
@@ -138418,6 +138371,9 @@
       1,
       "name"
     ]
+  ],
+  "p+Bvxs": [
+    "Emoji"
   ],
   "p+XCta": [
     "Neonska svjetla"
@@ -161274,7 +161230,7 @@
           " dar."
         ],
         "one": [
-          "Hvala što si poslao dar korisniku ",
+          "Hvala što si poslao/la dar korisniku ",
           [
             1,
             "recipientName"
@@ -161282,7 +161238,7 @@
           " i još jednoj osobi."
         ],
         "other": [
-          "Hvala što si poslao dar korisniku ",
+          "Hvala što si poslao/la dar korisniku ",
           [
             1,
             "recipientName"
@@ -169185,9 +169141,6 @@
   ],
   "zV0/FC": [
     "Nevažeća vrsta poruke"
-  ],
-  "zVGHbw": [
-    "Zgrabi besplatan ukras"
   ],
   "zVJxqj": [
     "Obavezno je imati najmanje ",
