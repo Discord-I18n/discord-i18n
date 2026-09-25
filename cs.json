@@ -2368,7 +2368,7 @@
     "Uprav si Discord po svém"
   ],
   "+w36yH": [
-    "Procházet nabídku"
+    "Nabídka Procházet"
   ],
   "+w5yKk": [
     "Filtrovat veškerý spam"
@@ -3043,9 +3043,6 @@
   "/8psS7": [
     "Ovládání aktivity bylo matoucí"
   ],
-  "/8znyU": [
-    "Pošli další dárek a posbírej je všechny"
-  ],
   "/91tbr": [
     "Upozornit uživatele s touto rolí, kteří mají oprávnění zobrazit tento kanál."
   ],
@@ -3356,12 +3353,7 @@
     "Množství"
   ],
   "/JJ9I5": [
-    "Sdílej Nitro a získej slevu ",
-    [
-      1,
-      "discountPercent"
-    ],
-    " %"
+    "Doporuč přátele, ušetři za Nitro"
   ],
   "/JJDBT": [
     "Spravovat vylepšení"
@@ -37920,6 +37912,9 @@
   "CunCMN": [
     "Vyber server"
   ],
+  "CuzcRY": [
+    "Asistence"
+  ],
   "Cv6AN/": [
     "Systémové zprávy"
   ],
@@ -49999,6 +49994,9 @@
   "I2Ctk1": [
     "Dokonči kroky níže a odemkni svůj účet"
   ],
+  "I2GETO": [
+    "Odstraněno"
+  ],
   "I2H0/E": [
     "Požádal/a jsi o kontrolu tohoto porušení."
   ],
@@ -53144,7 +53142,7 @@
       1,
       "name"
     ],
-    ", dostupné v ",
+    ", k dispozici v ",
     [
       1,
       "time"
@@ -62373,6 +62371,9 @@
   "NECb4t": [
     "Kombo multiplikátor (7×)"
   ],
+  "NEFeB0": [
+    "Smrtka"
+  ],
   "NENZhS": [
     "Upravit nastavení"
   ],
@@ -62688,7 +62689,7 @@
     "Povolit oznámení o super reakcích"
   ],
   "NKV/MO": [
-    "Otevřít aplikaci v aktuálním okně"
+    "Vrátit aplikaci do okna kanálu"
   ],
   "NKljj+": [
     [
@@ -67642,7 +67643,7 @@
     "Darovat"
   ],
   "PEtHiE": [
-    "Nabídka o více stránkách"
+    "Nabídka Další stránky"
   ],
   "PEzffq": [
     "Žádný"
@@ -71076,6 +71077,9 @@
   ],
   "QlH5w6": [
     "ignorování uživatele zrušeno"
+  ],
+  "QlN4tN": [
+    "Připojit"
   ],
   "QlyC9s": [
     "Nastavit výchozí reakci na příspěvky"
@@ -78250,6 +78254,9 @@
   ],
   "TcFR5k": [
     "Díky za informaci!"
+  ],
+  "TcGz5R": [
+    "Porážka"
   ],
   "TcQ7/5": [
     "Uštědřené poškození"
@@ -86779,9 +86786,6 @@
   "Wv7HLS": [
     "Čerstvé novinky právě pro tebe"
   ],
-  "WvAqZA": [
-    "Získáváš vzhled zdarma"
-  ],
   "Wvc/I+": [
     "Dobré ráno,"
   ],
@@ -88519,23 +88523,6 @@
   "Xe+fJM": [
     "Žádné výsledky"
   ],
-  "Xe0KGE": [
-    "Vytvořením serveru vyjadřuješ svůj souhlas se ",
-    [
-      8,
-      "$link",
-      [
-        "zásadami komunity"
-      ],
-      [
-        [
-          1,
-          "guidelinesURL"
-        ]
-      ]
-    ],
-    " Discordu."
-  ],
   "Xe0T58": [
     "Sexuální násilí"
   ],
@@ -89815,6 +89802,9 @@
   ],
   "Y78KGC": [
     "Zmiňovat @everyone, @here a všechny role"
+  ],
+  "Y7CAoY": [
+    "Vícenásobné zabití"
   ],
   "Y7Kgvf": [
     "Mám přečtené podmínky využívání služeb a zásady ochrany osobních údajů Discordu a souhlasím s nimi."
@@ -102682,26 +102672,6 @@
   "cM8bbx": [
     "Pořiď si Basic"
   ],
-  "cMHedL": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Exkluzivní odměna je tvoje"
-        ],
-        "other": [
-          "Všechny exkluzivní odměny jsou tvoje (celkem ",
-          [
-            7
-          ],
-          ")"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "cMgegQ": [
     "Rámečky jsou jako obálky tvého profilu, které mu dodají šmrnc. Členové Nitra se k nim dostanou dříve než ostatní. Najdi si svůj rámeček v Obchodu."
   ],
@@ -115339,6 +115309,9 @@
   "fyMWli": [
     "Moderování obsahu"
   ],
+  "fyRdwo": [
+    "Vítězství"
+  ],
   "fyT2ol": [
     "Pokračovat bez úkolu"
   ],
@@ -116399,6 +116372,9 @@
   "gQ14+g": [
     "Někteří účastníci budou mít pouze zvuk."
   ],
+  "gQErX1": [
+    "Zabití"
+  ],
   "gQeg/R": [
     "Chceš filtrovat výsledky hledání od botů? Zkus přidat do svého hledání ",
     [
@@ -116945,7 +116921,7 @@
           ". Věříme, že se mu bude líbit!"
         ],
         "other": [
-          "Jsi štědrost sama! Pošli tento dárek přátelům a naděl jim ",
+          "Jsi štědrost sama! Pošli tyto dárky přátelům a naděl jim ",
           [
             1,
             "skuName"
@@ -123956,9 +123932,6 @@
   ],
   "ivpkNe": [
     "Ne, díky"
-  ],
-  "ivpn6G": [
-    "Vyber si vzhled zdarma, který ti zůstane"
   ],
   "iw0hFi": [
     [
@@ -137839,12 +137812,12 @@
     "Např.: Pravidla pro tento server"
   ],
   "na1rJc": [
-    "Pokud chceš změnit aplikaci tohoto kanálu, potřebuješ ",
+    "Pokud chceš změnit aplikaci tohoto kanálu, potřebuješ oprávnění ",
     [
       1,
       "permissions"
     ],
-    " oprávnění."
+    "."
   ],
   "na3PT0": [
     "Vývojář"
@@ -141963,6 +141936,9 @@
       1,
       "name"
     ]
+  ],
+  "p+Bvxs": [
+    "Smajlíci"
   ],
   "p+XCta": [
     "Neonové noci"
@@ -167122,7 +167098,7 @@
           [
             7
           ],
-          " k tomu mohou radovat z tvého dárku."
+          " dalších mohou radovat z tvého dárku."
         ]
       },
       0,
@@ -175586,9 +175562,6 @@
   ],
   "zV0/FC": [
     "Neplatný typ zprávy"
-  ],
-  "zVGHbw": [
-    "Získej vzhled zdarma"
   ],
   "zVJxqj": [
     "Musí mít alespoň ",

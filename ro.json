@@ -2349,7 +2349,7 @@
     "Exprimă-ți personalitatea pe Discord"
   ],
   "+w36yH": [
-    "Explorează meniul"
+    "Meniu Explorare"
   ],
   "+w5yKk": [
     "Filtrează tot spamul"
@@ -3028,9 +3028,6 @@
   "/8psS7": [
     "Controalele activității nu au fost clare"
   ],
-  "/8znyU": [
-    "Trimite încă un cadou pentru a le colecționa pe toate"
-  ],
   "/91tbr": [
     "Anunță utilizatorii cu acest rol care au permisiunea să vadă acest canal."
   ],
@@ -3342,12 +3339,7 @@
     "Cantitate"
   ],
   "/JJ9I5": [
-    "Partajează Nitro, primești ",
-    [
-      1,
-      "discountPercent"
-    ],
-    "% reducere"
+    "Recomandă prietenilor și fă economie la Nitro"
   ],
   "/JJDBT": [
     "Gestionează boost-ul"
@@ -37306,6 +37298,9 @@
   "CunCMN": [
     "Alege un server"
   ],
+  "CuzcRY": [
+    "Participare"
+  ],
   "Cv6AN/": [
     "Mesaje de sistem"
   ],
@@ -49180,6 +49175,9 @@
   ],
   "I2Ctk1": [
     "Finalizează pașii de mai jos pentru a-ți debloca contul"
+  ],
+  "I2GETO": [
+    "Șters"
   ],
   "I2H0/E": [
     "Ai cerut reanalizarea acestei încălcări."
@@ -61396,6 +61394,9 @@
   "NECb4t": [
     "Multiplicator combo (x7)"
   ],
+  "NEFeB0": [
+    "Moarte"
+  ],
   "NENZhS": [
     "Ajustează setările"
   ],
@@ -70020,6 +70021,9 @@
   "QlH5w6": [
     "utilizatorul nu mai este ignorat"
   ],
+  "QlN4tN": [
+    "Asociază"
+  ],
   "QlyC9s": [
     "Setează o reacție implicită pentru postări"
   ],
@@ -71802,7 +71806,7 @@
       1,
       "name"
     ],
-    ", joacă acum"
+    ", se redă acum"
   ],
   "RSXQYO": [
     "Video HD"
@@ -76972,6 +76976,9 @@
   ],
   "TcFR5k": [
     "Îți mulțumim că ne-ai spus!"
+  ],
+  "TcGz5R": [
+    "Înfrângere"
   ],
   "TcQ7/5": [
     "Daune suferite"
@@ -85269,9 +85276,6 @@
   "Wv7HLS": [
     "Drop-uri nou-nouțe, doar pentru tine"
   ],
-  "WvAqZA": [
-    "Ai obținut o decorațiune gratuită"
-  ],
   "Wvc/I+": [
     "Bună dimineața,"
   ],
@@ -86966,23 +86970,6 @@
   "Xe+fJM": [
     "Nu s-a găsit niciun rezultat"
   ],
-  "Xe0KGE": [
-    "Prin crearea unui server, ești de acord cu ",
-    [
-      8,
-      "$link",
-      [
-        "Orientările Comunitare"
-      ],
-      [
-        [
-          1,
-          "guidelinesURL"
-        ]
-      ]
-    ],
-    " Discord."
-  ],
   "Xe0T58": [
     "Violență sexuală"
   ],
@@ -88259,6 +88246,9 @@
   ],
   "Y78KGC": [
     "Menționează @everyone, @here și toate rolurile"
+  ],
+  "Y7CAoY": [
+    "Asasinat multiplu"
   ],
   "Y7Kgvf": [
     "Am citit și sunt de acord cu Condițiile de prestare a serviciilor și Politica de confidențialitate Discord."
@@ -92655,7 +92645,7 @@
     " ascultă"
   ],
   "ZolTTE": [
-    "Destinatarul cadoului"
+    "Destinatarii cadourilor"
   ],
   "Zos+eZ": [
     "Așteptăm să ",
@@ -92987,37 +92977,37 @@
     "Selectează un rol"
   ],
   "ZvgWUV": [
-    "Dacă omiți trimiterea ",
+    "Dacă nu trimiți ",
     [
       6,
       "giftCount",
       {
         "one": [
-          "cadoului"
+          "cadoul"
         ],
         "other": [
-          "cadourilor"
+          "cadourile"
         ]
       },
       0,
       "cardinal"
     ],
-    " acum, poți oricând să trimiți ",
+    " acum, poți oricând să ",
     [
       6,
       "giftCount",
       {
         "one": [
-          "unul"
+          "îl"
         ],
         "other": [
-          "mai multe"
+          "le"
         ]
       },
       0,
       "cardinal"
     ],
-    " mai târziu din ",
+    " trimiți mai târziu din ",
     [
       8,
       "$link",
@@ -100605,26 +100595,6 @@
   ],
   "cM8bbx": [
     "Ia-ți Basic"
-  ],
-  "cMHedL": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "Ai colecționat recompensa exclusivă"
-        ],
-        "other": [
-          "Ai colecționat toate cele ",
-          [
-            7
-          ],
-          " recompense exclusive"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "cMgegQ": [
     "Ramele sunt chenare care îți înconjoară profilul și îți completează aspectul. Membrii Nitro au parte de acces timpuriu. Ia-ți și tu rama perfectă din Magazin."
@@ -112350,6 +112320,9 @@
   "fyMWli": [
     "Moderarea conținutului"
   ],
+  "fyRdwo": [
+    "Victorie"
+  ],
   "fyT2ol": [
     "Continuă fără misiune"
   ],
@@ -113379,6 +113352,9 @@
   "gQ14+g": [
     "Unii participanți vor avea acces doar la audio."
   ],
+  "gQErX1": [
+    "Asasinat"
+  ],
   "gQeg/R": [
     "Vrei să filtrezi rezultatele căutării pentru a exclude boții? Încearcă să adaugi ",
     [
@@ -113906,7 +113882,7 @@
       "giftCount",
       {
         "one": [
-          "Ești atât de generos! Trimite acest cadou unui prieten pentru a-i oferi ",
+          "Ce gest frumos! Trimite acest cadou unui prieten și oferă-i ",
           [
             1,
             "skuName"
@@ -113914,7 +113890,7 @@
           ". Sperăm să se bucure!"
         ],
         "other": [
-          "Ești atât de generos! Trimite aceste cadouri prietenilor pentru a le oferi ",
+          "Ce gest frumos! Trimite aceste cadouri prietenilor și oferă-le ",
           [
             1,
             "skuName"
@@ -120580,9 +120556,6 @@
   ],
   "ivpkNe": [
     "Nu, mulțumesc"
-  ],
-  "ivpn6G": [
-    "Alege o decorațiune gratuită pe care s-o păstrezi"
   ],
   "iw0hFi": [
     [
@@ -137528,7 +137501,7 @@
     " zile și cadoul nu a fost valorificat."
   ],
   "owluOg": [
-    "Cadourile tale sunt în drum spre tine!"
+    "Cadourile tale sunt pe drum!"
   ],
   "owvC9U": [
     "Acum ești gata!"
@@ -137658,6 +137631,9 @@
       1,
       "name"
     ]
+  ],
+  "p+Bvxs": [
+    "Emoji"
   ],
   "p+XCta": [
     "Nopți de neon"
@@ -137810,7 +137786,7 @@
       8,
       "$link",
       [
-        "Inventarul de Cadouri"
+        "Inventarul de cadouri"
       ],
       [
         [
@@ -161285,7 +161261,7 @@
     "Steam"
   ],
   "wiBqTu": [
-    "Ești atât de generos! ",
+    "Ce gest frumos! ",
     [
       6,
       "otherCount",
@@ -161299,15 +161275,15 @@
           " un cadou."
         ],
         "one": [
-          "Mulțumim că le-ai trimis lui ",
+          "Mulțumim că le-ai trimis câte un cadou lui ",
           [
             1,
             "recipientName"
           ],
-          " și încă unei persoane un cadou."
+          " și încă unei persoane."
         ],
         "other": [
-          "Mulțumim că le-ai trimis lui ",
+          "Mulțumim că le-ai trimis câte un cadou lui ",
           [
             1,
             "recipientName"
@@ -161316,7 +161292,7 @@
           [
             7
           ],
-          " persoane un cadou."
+          " persoane."
         ]
       },
       0,
@@ -169307,9 +169283,6 @@
   ],
   "zV0/FC": [
     "Tip mesaj nevalid"
-  ],
-  "zVGHbw": [
-    "Obține o decorațiune gratuită"
   ],
   "zVJxqj": [
     "Trebuie să aibă cel puțin ",
