@@ -5527,6 +5527,9 @@
     ],
     " super reakcijas (-ų). Mėgaukis!"
   ],
+  "0DvssQ": [
+    "Mobilieji prietaisai"
+  ],
   "0Dx29f": [
     "Patvirtink, jog žaidimas yra tavo, kad galėtum tinkinti, kaip jis atrodo platformoje Discord, ir patvirtink savo oficialų serverį."
   ],
@@ -38509,7 +38512,7 @@
     "Dalykis 100 MB vaizdo įrašais ir nuotraukomis"
   ],
   "DGQvlY": [
-    "Programos palaikymas"
+    "Programos pagalba"
   ],
   "DGZg+k": [
     "Leisk žmonėms tavęs ieškoti, jei jie turi tavo telefono numerį ir (arba) el. pašto adresą. Tai bet kada galima pakeisti nustatymuose."
@@ -39896,7 +39899,7 @@
     "Lofte"
   ],
   "E/oQYL": [
-    "Automatiškai aptinkame ir filtruojame kai kurias medijas, kurios gali būti neskelbtinos, siekdami apsaugoti 18 metų nesulaukusius Discord naudotojus. Apie tai gali sužinoti daugiau mūsų pagalbos centre."
+    "Mes automatiškai aptinkame ir filtruojame galimai jautrią medžiagą, kad apsaugotume Discord naudotojus, kuriems dar nėra 18 metų. Jei tave priskyrėme netinkamai amžiaus grupei, gali atnaujinti savo amžiaus grupę arba susisiekti su mumis."
   ],
   "E08SX9": [
     "Išsami Informacija"
@@ -41412,6 +41415,9 @@
   ],
   "EdGvBM": [
     "Kas mėnesį gauk Nitro apdovanojimų"
+  ],
+  "EdXn1A": [
+    "Pagal amžių ribojami serveriai yra užblokuoti iOS platformoje pagal App Store gaires. Jei esi pilnametis, gali prisijungti prie serverio kompiuteryje ir atnaujinti nustatymus, kad galėtum jį peržiūrėti ir „iOS“ sistemoje. Daugiau informacijos rasi mūsų pagalbos skyriuje."
   ],
   "Ee+rah": [
     "Gauk ribotojo leidimo Nitro profilio paketą! Galėsi jį naudoti su Nitro. Atsiimk iki ",
@@ -44629,12 +44635,12 @@
     "Turi atlikti dar kelis veiksmus, kad galėtumei kalbėtis per šį serverį."
   ],
   "G5k+lZ": [
-    "Paversk misijų laimėjimus megalaimėjimais Orbs apdovanojimuose su daugikliu x",
+    "Dabar prenumeruok Nitro ir tavo laimėjimai taps megalaimėjimais su x",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "."
+    " apdovanojimų daugikliu. Atšauk bet kada."
   ],
   "G6+XOT": [
     "Tavo ",
@@ -45547,7 +45553,7 @@
     "Išjungta"
   ],
   "GNHAfw": [
-    "Misijos rezervas"
+    "Misijų atsarga"
   ],
   "GNHD4i": [
     "Taip gali būti, nes čia esi neseniai arba įjungei privatumo nustatymus, kurie riboja suasmeninimą. ",
@@ -54165,6 +54171,9 @@
   "JqV7IC": [
     "LaunchPad"
   ],
+  "JqfHGt": [
+    "Pagal amžių ribojamas serveris"
+  ],
   "Jqj4cZ": [
     "Numatytasis"
   ],
@@ -54800,21 +54809,7 @@
     "Kombinacijos daugiklis (x2)"
   ],
   "KEPOlE": [
-    "Mes automatiškai aptinkame ir filtruojame galimai jautrią medžiagą, kad apsaugotume Discord naudotojus, kuriems dar nėra 18 metų. Jei tave priskyrėme netinkamai amžiaus grupei, gali atnaujinti savo amžiaus grupę arba susisiekti su mumis. ",
-    [
-      8,
-      "$link",
-      [
-        "Sužinoti daugiau"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " apie amžiaus patvirtinimą"
+    "Mes automatiškai aptinkame ir filtruojame galimai jautrią medžiagą, kad apsaugotume Discord naudotojus, kuriems dar nėra 18 metų. Jei tave priskyrėme netinkamai amžiaus grupei, gali atnaujinti savo amžiaus grupę arba susisiekti su mumis."
   ],
   "KEn+LY": [
     "Prenumeruok ir kilk nuo žemės su ",
@@ -57746,7 +57741,7 @@
       1,
       "username"
     ],
-    " praeitą savaitę laimėjo ",
+    " praeitą savaitę laimėjo kategorijoje ",
     [
       1,
       "statName"
@@ -72709,6 +72704,9 @@
   ],
   "RT3MPz": [
     "Dabartinė santrauka"
+  ],
+  "RT9Ccb": [
+    "Žaidimų konsolės"
   ],
   "RTLNqC": [
     "Cloud Saves atsisiunčiami"
@@ -134519,7 +134517,7 @@
     "! Su Nitro galėsi tai pasilikti. Smagaus naudojimo!"
   ],
   "o9PQEi": [
-    "Paversk misijų laimėjimus megalaimėjimais su x",
+    "Paversk laimėjimus megalaimėjimais su x",
     [
       2,
       "bonusOrbMultiplier"
@@ -141317,7 +141315,7 @@
     "Dovanos nuoroda"
   ],
   "qS9MOl": [
-    "Misijų rezervai"
+    "Misijų atsargos"
   ],
   "qSHshq": [
     "Programėlės ID"
@@ -143583,7 +143581,7 @@
     ]
   ],
   "rManeQ": [
-    "Programėlių grupė"
+    "Programėlės grupė"
   ],
   "rMulDT": [
     "Kol jo nepublikuosi, serverio nariai jo nematys."
@@ -155618,7 +155616,7 @@
       1,
       "itemCount"
     ],
-    "), kurie padidina akcijos pažangą. Orbs galioja nuo ",
+    "), kurie padidina akcijos pažangą. Galima įsigyti už Orbs nuo ",
     [
       1,
       "endDate"
@@ -158069,7 +158067,7 @@
       1,
       "itemDescription"
     ],
-    ". Orbs galioja nuo ",
+    ". Galima įsigyti už Orbs nuo ",
     [
       1,
       "endDate"
@@ -159242,6 +159240,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Apsilankykite mūsų pagalbos skyriuje"
   ],
   "wiBqTu": [
     "Koks tu dosnus žmogus! ",

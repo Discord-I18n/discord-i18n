@@ -5672,6 +5672,9 @@
     ],
     " super reakcija svakog dana. Uživaj!"
   ],
+  "0DvssQ": [
+    "Mobilno"
+  ],
   "0Dx29f": [
     "Uzmi svoju igru pa prilagodi kako se prikazuje na Discordu i verificiraj svoj službeni server."
   ],
@@ -11092,12 +11095,12 @@
     "Već si u posjedu jednog ili više predmeta u kompletu."
   ],
   "2MEL67": [
-    "Svrati ponekad jer stiže još ",
+    "Svrati ponekad jer stižu novi ",
     [
       1,
       "productNamePlural"
     ],
-    " koji donose dodatne nagrade u vidu orbova."
+    " proizvodi koji donose dodatne nagrade u vidu orbova."
   ],
   "2MK5Zz": [
     "Nije mi bila želja uopće biti tu"
@@ -40422,7 +40425,7 @@
     "Potkrovlje"
   ],
   "E/oQYL": [
-    "Automatski otkrivamo i filtriramo neke medijske sadržaje koji mogu biti osjetljivi kako bismo zaštitili osobe na Discordu mlađe od 18 godina. Više o tome možeš saznati u našem Centru za pomoć."
+    "Automatski otkrivamo i filtriramo medije koji mogu biti uznemirujući ili delikatne naravi kako bismo zaštitili osobe mlađe od 18 godina na Discordu. Ako te stavimo u pogrešnu dobnu skupinu, možeš ažurirati svoju dob ili nam se obratiti."
   ],
   "E08SX9": [
     "Pojedinosti"
@@ -41978,6 +41981,9 @@
   ],
   "EdGvBM": [
     "Osvoji mjesečne Nitro nagrade"
+  ],
+  "EdXn1A": [
+    "Serveri koji imaju dobno ograničenje su blokirani na iOS platformi slijedom propisa App Storea. Ako si punoljetna osoba, možeš se pridružiti poslužitelju na računalu i ažurirati postavke kako bi ga mogao/la vidjeti i na iOS-u. Posjeti naš Centar za pomoć i saznaj više."
   ],
   "Ee+rah": [
     "Nabavi ograničeno izdanje Nitro kompleta za profil! Možeš ga koristiti ako imaš Nitro. Uzmi do ",
@@ -43799,7 +43805,7 @@
     "Poruke na kanalima servera"
   ],
   "FPTCM+": [
-    "Promocija je dovršena, prikupljeno ",
+    "Napredak prema dovršetku promocije: prikupljeno ",
     [
       1,
       "current"
@@ -45162,12 +45168,12 @@
     "Prije nego možeš razgovarati na ovom serveru, moraš obaviti još nekoliko stvari."
   ],
   "G5k+lZ": [
-    "Pretvori dobitke u misiji u mega pobjede uz množitelj ",
+    "Pretplati se na Nitro i pretvori svoje dobitke u mega dobitke zahvaljujući ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x nagrada u obliku orbova."
+    "x nagradama. Možeš otkazati kad poželiš."
   ],
   "G6+XOT": [
     "Tvoj popust od ",
@@ -51241,7 +51247,7 @@
     ]
   ],
   "IPj7dL": [
-    "Navrati kasnije za novi ",
+    "Navrati kasnije za nove ",
     [
       1,
       "productNamePlural"
@@ -54144,11 +54150,11 @@
     "Onemogući ograničenje potrošnje"
   ],
   "JZGcX2": [
-    "Sažetak za ",
     [
       1,
       "productName"
-    ]
+    ],
+    " – sažetak"
   ],
   "JZJQL2": [
     "Ova opcija je obavezna. Navedi vrijednost."
@@ -54705,6 +54711,9 @@
   ],
   "JqV7IC": [
     "LaunchPad"
+  ],
+  "JqfHGt": [
+    "Server s dobnim ograničenjem"
   ],
   "Jqj4cZ": [
     "Zadano"
@@ -55350,21 +55359,7 @@
     "Combo multiplikator (×2)"
   ],
   "KEPOlE": [
-    "Automatski otkrivamo i filtriramo medije koji mogu biti uznemirujući ili delikatne naravi kako bismo zaštitili osobe mlađe od 18 godina na Discordu. Ako te stavimo u pogrešnu dobnu skupinu, možeš ažurirati svoju dob ili nam se obratiti. ",
-    [
-      8,
-      "$link",
-      [
-        "Doznaj više"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " o provjeri dobi"
+    "Automatski otkrivamo i filtriramo medije koji mogu biti uznemirujući ili delikatne naravi kako bismo zaštitili osobe mlađe od 18 godina na Discordu. Ako te stavimo u pogrešnu dobnu skupinu, možeš ažurirati svoju dob ili nam se obratiti."
   ],
   "KEn+LY": [
     "Pretplati se i poleti uz ",
@@ -73317,6 +73312,9 @@
   "RT3MPz": [
     "Trenutačni sažetak"
   ],
+  "RT9Ccb": [
+    "Konzole"
+  ],
   "RTLNqC": [
     "U tijeku je preuzimanje spremanja u oblaku"
   ],
@@ -82958,12 +82956,12 @@
     ]
   ],
   "VHM37p": [
-    "Svrati ponekad jer stiže još ",
+    "Svrati ponekad jer stižu nove ",
     [
       1,
       "productNamePlural"
     ],
-    " koji donose dodatne nagrade u vidu orbova."
+    " koje donose dodatne nagrade u vidu orbova."
   ],
   "VHXh8a": [
     "Sveobuhvatno šifriranje je verificirano za sve korisnike u pozivu"
@@ -130126,7 +130124,7 @@
       1,
       "productNamePlural"
     ],
-    " dovršeno!"
+    " dovršene!"
   ],
   "mLs2cz": [
     "Obriši za ",
@@ -136080,7 +136078,7 @@
     "! Uz Nitro tu nagradu možeš i zadržati. Uživaj!"
   ],
   "o9PQEi": [
-    "Pretvori dobitke u misijama u mega dobitke uz množitelj orbova ",
+    "Pretvori svoje dobitke u mega dobitke uz množitelj orbova ",
     [
       2,
       "bonusOrbMultiplier"
@@ -136243,12 +136241,11 @@
     "U tijeku je prijenos spremanja u oblaku"
   ],
   "oCKH5M": [
-    "Nijedan ",
     [
       1,
       "productNamePlural"
     ],
-    " nije dostupan, provjeri kasnije."
+    " nisu dostupne, provjeri kasnije."
   ],
   "oCONqN": [
     "Dopusti bilo kome na zajedničkom glasovnom kanalu da se pridruži tvojoj igri bez slanja zahtjeva. Ova značajka funkcionira samo na serverima za koje nije omogućena zajednica."
@@ -145210,7 +145207,7 @@
     ]
   ],
   "rManeQ": [
-    "Skupina aplikacija"
+    "Skupina aplikacije"
   ],
   "rMulDT": [
     "Neće biti vidljiva članovima servera dok je ne objaviš."
@@ -157477,7 +157474,7 @@
       1,
       "itemCount"
     ],
-    " predmeta koji se računaju za napredak promocije. Orbovi postaju dostupni od ",
+    " predmeta koji se računaju za napredak promocije. Dostupno za kupnju orbovima od ",
     [
       1,
       "endDate"
@@ -159987,7 +159984,7 @@
       1,
       "itemDescription"
     ],
-    ". Orbovi postaju dostupni od ",
+    ". Dostupno za kupnju orbovima od ",
     [
       1,
       "endDate"
@@ -161214,6 +161211,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Posjeti naš Centar za pomoć"
   ],
   "wiBqTu": [
     "Baš si velikodušan/na! ",

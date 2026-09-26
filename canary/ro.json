@@ -5484,6 +5484,9 @@
     ],
     " super-reacții în fiecare zi cu Nitro. Bucură-te de ele!"
   ],
+  "0DvssQ": [
+    "Mobil"
+  ],
   "0Dx29f": [
     "Revendică-ți jocul pentru a personaliza felul în care apare pe Discord și a-ți verifica serverul oficial."
   ],
@@ -39451,7 +39454,7 @@
     "balcon"
   ],
   "E/oQYL": [
-    "Detectăm și filtrăm automat unele fișiere media care pot include conținut sensibil pentru a proteja persoanele de pe Discord care au sub 18 ani. Poți afla mai multe despre acest lucru din Centrul de asistență."
+    "Detectăm și filtrăm automat conținutul media care poate fi sensibil pentru a proteja utilizatorii Discord cu vârsta sub 18 ani. Dacă te-am încadrat în grupa de vârstă greșită, îți poți actualiza vârsta sau ne poți contacta."
   ],
   "E08SX9": [
     "Detalii"
@@ -40975,6 +40978,9 @@
   ],
   "EdGvBM": [
     "Primește recompense Nitro lunare"
+  ],
+  "EdXn1A": [
+    "Serverele cu restricționare în funcție de vârstă sunt blocate pe platforma iOS conform regulamentului App Store. Dacă ești adult, te poți alătura serverului de pe desktop și îți poți actualiza setările pentru a-l vedea și pe iOS. Vizitează Centrul nostru de asistență pentru a afla mai multe."
   ],
   "Ee+rah": [
     "Obține un pachet pentru profil Nitro în ediție limitată! Îl poți folosi cu Nitro. Revendică-l până pe ",
@@ -42776,7 +42782,7 @@
     "Mesaje pe canelele serverului"
   ],
   "FPTCM+": [
-    "Promoție completă ",
+    "Progres promoție: ",
     [
       1,
       "current"
@@ -42786,7 +42792,7 @@
       1,
       "target"
     ],
-    " colecționate – au mai rămas ",
+    " colecționate – timp rămas: ",
     [
       1,
       "numDays"
@@ -44121,12 +44127,12 @@
     "Trebuie să mai finalizezi câțiva pași înainte să poți începe să vorbești pe acest server."
   ],
   "G5k+lZ": [
-    "Transformă câștigurile din misiuni în mega-câștiguri cu un multiplicator de ",
+    "Transformă-ți câștigurile în mega-câștiguri cu un multiplicator de ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x la recompensele pentru Orbs."
+    "x pentru recompense când te abonezi la Nitro. Poți anula oricând."
   ],
   "G6+XOT": [
     "Reducerea de ",
@@ -53503,6 +53509,9 @@
   "JqV7IC": [
     "Launch Pad"
   ],
+  "JqfHGt": [
+    "Server cu restricționare în funcție de vârstă"
+  ],
   "Jqj4cZ": [
     "Implicit"
   ],
@@ -54140,21 +54149,7 @@
     "Multiplicator combo (x2)"
   ],
   "KEPOlE": [
-    "Detectăm și filtrăm automat conținutul media care poate fi sensibil pentru a proteja utilizatorii Discord cu vârsta sub 18 ani. Dacă te-am încadrat în grupa de vârstă greșită, îți poți actualiza vârsta sau ne poți contacta. ",
-    [
-      8,
-      "$link",
-      [
-        "Află mai multe"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " despre verificarea vârstei"
+    "Detectăm și filtrăm automat conținutul media care poate fi sensibil pentru a proteja utilizatorii Discord cu vârsta sub 18 ani. Dacă te-am încadrat în grupa de vârstă greșită, îți poți actualiza vârsta sau ne poți contacta."
   ],
   "KEn+LY": [
     "Abonează-te și treci la ",
@@ -71823,6 +71818,9 @@
   "RT3MPz": [
     "Rezumatul actual"
   ],
+  "RT9Ccb": [
+    "Consolă"
+  ],
   "RTLNqC": [
     "Se descarcă Cloud Saves"
   ],
@@ -87346,7 +87344,8 @@
     [
       2,
       "count"
-    ]
+    ],
+    " produse"
   ],
   "XoTWsI": [
     "Cineva se joacă"
@@ -100555,7 +100554,7 @@
     "Selectează un registru"
   ],
   "cL/uf8": [
-    "Promoție eligibilă, adaugă la progresul prietenului tău – au mai rămas ",
+    "Eligibilă pentru promoție, adaugă la progresul prietenului tău – timp rămas: ",
     [
       1,
       "numDays"
@@ -104046,7 +104045,7 @@
     "Îți mulțumim pentru feedback!"
   ],
   "d9KbHK": [
-    "Promoție eligibilă ",
+    "Eligibile pentru promoție: ",
     [
       1,
       "current"
@@ -122490,7 +122489,7 @@
     "TVA"
   ],
   "jidBDk": [
-    "Promoție eligibilă ",
+    "Eligibilă pentru promoție: ",
     [
       1,
       "current"
@@ -122500,7 +122499,7 @@
       1,
       "target"
     ],
-    " colecționate – au mai rămas ",
+    " colecționate – timp rămas: ",
     [
       1,
       "numDays"
@@ -129126,7 +129125,7 @@
       1,
       "productNamePlural"
     ],
-    " s-a finalizat!"
+    " finalizată!"
   ],
   "mLs2cz": [
     "Șterge peste ",
@@ -135282,7 +135281,7 @@
     "! Poți păstra recompensa cu Nitro. Sperăm să-ți placă!"
   ],
   "o9PQEi": [
-    "Transformă câștigurile din misiuni în mega-câștiguri cu un multiplicator de ",
+    "Transformă-ți câștigurile în mega-câștiguri cu un multiplicator de ",
     [
       2,
       "bonusOrbMultiplier"
@@ -144618,7 +144617,7 @@
     ]
   ],
   "rManeQ": [
-    "Grup de aplicații"
+    "Grupul aplicației"
   ],
   "rMulDT": [
     "Nu va fi vizibil pentru membrii serverului până nu îl publici."
@@ -157490,7 +157489,7 @@
       1,
       "itemCount"
     ],
-    " articole care se pun la socoteală pentru progresul promoției. Orbs devin eligibile de pe ",
+    " articole care se pun la socoteală pentru progresul promoției. Devine eligibil pentru Orbs de pe ",
     [
       1,
       "endDate"
@@ -159980,7 +159979,7 @@
       1,
       "itemDescription"
     ],
-    ". Orbs devin eligibile de pe ",
+    ". Devine eligibil pentru Orbs de pe ",
     [
       1,
       "endDate"
@@ -161259,6 +161258,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Vizitează Centrul nostru de asistență"
   ],
   "wiBqTu": [
     "Ce gest frumos! ",
