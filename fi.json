@@ -5360,6 +5360,9 @@
     ],
     " superreaktiota lisää joka päivä Nitro-tilauksella. Nauti reagoimisesta!"
   ],
+  "0DvssQ": [
+    "Mobiililaitteet"
+  ],
   "0Dx29f": [
     "Ota pelisi hallintaasi, niin voit mukauttaa sen näkymistä Discordissa ja vahvistaa virallisen palvelimesi."
   ],
@@ -38831,7 +38834,7 @@
     "Parvi"
   ],
   "E/oQYL": [
-    "Suojelemme alle 18-vuotiaita Discordin käyttäjiä tunnistamalla ja suodattamalla automaattisesti pois osan mahdollisesti arkaluonteisesta mediasisällöstä. Lisätietoja tästä on ohjekeskuksessamme."
+    "Suojelemme alle 18-vuotiaita Discordin käyttäjiä tunnistamalla ja suodattamalla mahdollisesti arkaluonteisen mediasisällön automaattisesti. Jos sinut on sijoitettu väärään ikäryhmään, voit päivittää ikäsi tai ottaa yhteyttä meihin."
   ],
   "E08SX9": [
     "Tiedot"
@@ -40314,6 +40317,9 @@
   ],
   "EdGvBM": [
     "Ansaitse Nitro-palkintoja kuukausittain"
+  ],
+  "EdXn1A": [
+    "Ikärajoitetut palvelimet on estetty iOS-käyttöjärjestelmässä App Storen sääntöjen mukaisesti. Jos olet aikuinen, voit liittyä palvelimeen tietokoneella ja päivittää asetuksesi, jotta voit tarkastella sitä myös iOS-laitteella. Katso lisätietoja ohjekeskuksestamme."
   ],
   "Ee+rah": [
     "Saat rajoitetun Nitro-profiilipaketin! Käytä vapaasti Nitrolla. Lunasta ",
@@ -43431,12 +43437,12 @@
     "Sinun on tehtävä muutama lisävaihe, jotta voit alkaa jutella tällä palvelimella."
   ],
   "G5k+lZ": [
-    "Muunna tehtäväpalkintosi megavoitoiksi orbs-palkintojen x",
+    "Muuta voittosi ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "-kertoimella."
+    "x-kertaisten palkintojen myötä megavoitoiksi Nitro-tilauksella. Peruuta milloin tahansa."
   ],
   "G6+XOT": [
     [
@@ -49319,12 +49325,12 @@
     ]
   ],
   "IPj7dL": [
-    "Palaa myöhemmin tarkistamaan, onko uusi ",
+    "Palaa myöhemmin tarkistamaan mahdolliset uudet ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
-    " tarjolla! ",
+    "! ",
     [
       8,
       "$link",
@@ -52675,6 +52681,9 @@
   "JqV7IC": [
     "Käynnistysruutu"
   ],
+  "JqfHGt": [
+    "Ikärajoitettu palvelin"
+  ],
   "Jqj4cZ": [
     "Oletus"
   ],
@@ -53308,21 +53317,7 @@
     "Kombokerroin (x2)"
   ],
   "KEPOlE": [
-    "Suojelemme alle 18-vuotiaita Discordin käyttäjiä tunnistamalla ja suodattamalla mahdollisesti arkaluonteisen mediasisällön automaattisesti. Jos sinut on sijoitettu väärään ikäryhmään, voit päivittää ikäsi tai ottaa yhteyttä meihin. ",
-    [
-      8,
-      "$link",
-      [
-        "Lisätietoja"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " ikävahvistuksesta"
+    "Suojelemme alle 18-vuotiaita Discordin käyttäjiä tunnistamalla ja suodattamalla mahdollisesti arkaluonteisen mediasisällön automaattisesti. Jos sinut on sijoitettu väärään ikäryhmään, voit päivittää ikäsi tai ottaa yhteyttä meihin."
   ],
   "KEn+LY": [
     "Tilaa ",
@@ -70733,6 +70728,9 @@
   "RT3MPz": [
     "Nykyinen yhteenveto"
   ],
+  "RT9Ccb": [
+    "Konsolit"
+  ],
   "RTLNqC": [
     "Ladataan pilvitallennuksia"
   ],
@@ -77645,9 +77643,9 @@
     "Katso palkintovideo yhden istunnon aikana, niin ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
-    " antaa palkintona jopa 100 orbia kerralla. Vasemman yläkulman ajastin kertoo, milloin olet saanut palkinnot!"
+    " voivat antaa palkintona jopa 100 orbia kerralla. Vasemman yläkulman ajastin kertoo, milloin olet saanut palkinnot!"
   ],
   "UOACIY": [
     "Vaihda palkin tilaa"
@@ -79987,12 +79985,12 @@
     ]
   ],
   "VHM37p": [
-    "Palaa myöhemmin tarkistamaan, onko tarjolla ",
+    "Palaa myöhemmin tarkistamaan, tarjoavatko ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
-    ", josta voi saada lisää orbeja."
+    " lisää orbeja."
   ],
   "VHXh8a": [
     "Päästä päähän ‑salaus vahvistettu puhelun kaikilta käyttäjiltä"
@@ -131270,7 +131268,7 @@
     " On nyt sinun! Nitro-tilauksella saat pitää sen. Ota ilo irti!"
   ],
   "o9PQEi": [
-    "Muunna tehtäväpalkintosi megavoitoiksi orbs-palkintojen ",
+    "Muunna voittosi megavoitoiksi orbien ",
     [
       2,
       "bonusOrbMultiplier"
@@ -155342,6 +155340,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Käy ohjekeskuksessamme"
   ],
   "wiBqTu": [
     "Oletpa kerrassaan antelias! ",
