@@ -5429,6 +5429,9 @@
     ],
     " nye superreaksjoner hver dag. God fornøyelse!"
   ],
+  "0DvssQ": [
+    "Mobil"
+  ],
   "0Dx29f": [
     "Gjør krav på spillet ditt for å bestemme hvordan det skal vises på Discord, og verifisere den offisielle serveren din."
   ],
@@ -39051,7 +39054,7 @@
     "Hems"
   ],
   "E/oQYL": [
-    "For å beskytte dem under 18 år på Discord registrerer og filtrerer vi automatisk medieinnhold som kan være sensitivt. Du får mer info i hjelpesenteret."
+    "Vi oppdager og filtrerer automatisk innhold som kan være sensitivt, for å beskytte Discord-brukere under 18 år. Hvis du har havnet i feil aldersgruppe, kan du oppdatere alderen din eller kontakte oss."
   ],
   "E08SX9": [
     "Detaljer"
@@ -40562,6 +40565,9 @@
   ],
   "EdGvBM": [
     "Få Nitro-belønninger hver måned"
+  ],
+  "EdXn1A": [
+    "Servere med aldersgrense er blokkert på iOS-plattformen i henhold til App Store-reglene. Hvis du er voksen, kan du bli med i serveren på datamaskinen og oppdatere innstillingene dine for å se dette på iOS. Gå til hjelpesenteret hvis du vil vite mer."
   ],
   "Ee+rah": [
     "Sikre deg en Nitro-profilbundel i begrenset oppdag! Du kan bruke den med Nitro. Må hentes innen ",
@@ -42332,7 +42338,7 @@
     "Meldinger i serverkanaler"
   ],
   "FPTCM+": [
-    "Kampanje fullført: ",
+    "Fremdrift i kampanje: ",
     [
       1,
       "current"
@@ -42342,7 +42348,7 @@
       1,
       "target"
     ],
-    " er samlet – ",
+    " samlet – ",
     [
       1,
       "numDays"
@@ -43676,12 +43682,12 @@
     "Det gjenstår noen få trinn før du kan begynne å snakke i denne serveren."
   ],
   "G5k+lZ": [
-    "Forvandle suksess i oppdrag til megasuksesser takket være en ",
+    "Med Nitro blir suksess til megasuksess med ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplikator for Orb-premier."
+    "x belønninger. Si opp når du vil."
   ],
   "G6+XOT": [
     "Rabatten på ",
@@ -52966,6 +52972,9 @@
   "JqV7IC": [
     "LaunchPad"
   ],
+  "JqfHGt": [
+    "Server med aldersgrense"
+  ],
   "Jqj4cZ": [
     "Standard"
   ],
@@ -53599,21 +53608,7 @@
     "Kombomultiplikator (x2)"
   ],
   "KEPOlE": [
-    "Vi oppdager og filtrerer automatisk innhold som kan være sensitivt, for å beskytte Discord-brukere under 18 år. Hvis du har havnet i feil aldersgruppe, kan du oppdatere alderen din eller kontakte oss. ",
-    [
-      8,
-      "$link",
-      [
-        "Mer info"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " om verifisering av alder"
+    "Vi oppdager og filtrerer automatisk innhold som kan være sensitivt, for å beskytte Discord-brukere under 18 år. Hvis du har havnet i feil aldersgruppe, kan du oppdatere alderen din eller kontakte oss."
   ],
   "KEn+LY": [
     "Abonner for å gå til himmels med ",
@@ -67242,7 +67237,7 @@
     "denne kanalen"
   ],
   "Pla5Vk": [
-    "Varer som dekkes"
+    "Inkluderte elementer"
   ],
   "Plcu02": [
     "Du kan laste opp meldingen din som en fil i stedet."
@@ -71187,6 +71182,9 @@
   ],
   "RT3MPz": [
     "Nåværende oppsummering"
+  ],
+  "RT9Ccb": [
+    "Konsoll"
   ],
   "RTLNqC": [
     "Laster ned Cloud Saves"
@@ -132221,12 +132219,12 @@
     "! Hvis du har Nitro, kan du beholde det. Kos deg!"
   ],
   "o9PQEi": [
-    "Gjør oppdragsgevinster om til megagevinster med en ",
+    "Gjør suksess om til megasuksess med en ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x Orbs-multiplikator. [beta]"
+    "x Orbs-multiplikator. [Beta]"
   ],
   "o9bOIl": [
     "Gå raskere til kassen ved å lagre en betalingsmåte"
@@ -141096,7 +141094,7 @@
     ]
   ],
   "rManeQ": [
-    "Aldersgruppe"
+    "Appgruppe"
   ],
   "rMulDT": [
     "Det vil ikke være synlig for servermedlemmene med mindre du publiserer det."
@@ -152891,7 +152889,7 @@
       1,
       "itemCount"
     ],
-    " elementer som gir fremgang i kampanjen. Orbs-delen begynner ",
+    " elementer som gir fremgang i kampanjen. Kan kjøpes med Orbs fra ",
     [
       1,
       "endDate"
@@ -155320,7 +155318,7 @@
       1,
       "itemDescription"
     ],
-    ". Orbs-delen begynner ",
+    ". Kan kjøpes med Orbs fra ",
     [
       1,
       "endDate"
@@ -156527,6 +156525,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Gå til hjelpesenteret"
   ],
   "wiBqTu": [
     "Så gavmild du er! ",

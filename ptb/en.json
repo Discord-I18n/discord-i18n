@@ -1646,6 +1646,51 @@
   "+aBXyx": [
     "Describe what you want and we conjure it from nothing."
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " game day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " game days"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "+aRmAc": [
     "Start another game server"
   ],
@@ -3484,6 +3529,40 @@
       "subscriptionName"
     ],
     " subscription, you will lose these perks at the end of your current billing period:"
+  ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " game day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " game days"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "/K2RDH": [
     "View less emoji"
@@ -5629,9 +5708,6 @@
   "08zAV7": [
     "Use Voice Activity"
   ],
-  "09LJ+I": [
-    "A side quest while you wait?"
-  ],
   "09LV5L": [
     "User has been blocked."
   ],
@@ -5861,6 +5937,9 @@
       "refillAmount"
     ],
     " more Super Reactions each day with Nitro. Enjoy!"
+  ],
+  "0DvssQ": [
+    "Mobile"
   ],
   "0Dx29f": [
     "Claim your game to customize how it appears across Discord and verify your official server."
@@ -9093,6 +9172,9 @@
       ]
     ]
   ],
+  "1LEnd8": [
+    "If you aren’t sure what to do, just ask me!"
+  ],
   "1LJjZD": [
     "Custom Emoji"
   ],
@@ -11201,6 +11283,9 @@
   "2HUsit": [
     "Discount Applied"
   ],
+  "2HalWx": [
+    "Stop"
+  ],
   "2HoFKF": [
     "Lift off with ",
     [
@@ -11260,6 +11345,20 @@
   ],
   "2IY4YN": [
     "Raid Alert"
+  ],
+  "2IbyWO": [
+    "A new leaderboard begins! Who will be this week’s winner with the most game days? So far ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " is in the lead."
   ],
   "2J2mKJ": [
     "Something else"
@@ -19343,6 +19442,40 @@
   "5D/KEH": [
     "Subscription Type"
   ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unique game played"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unique games played"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "5DFcVl": [
     "Annually on ",
     [
@@ -20518,9 +20651,6 @@
       "limit"
     ],
     ": no live gauge; kills are the signal"
-  ],
-  "5iHZLk": [
-    "Iterations per session"
   ],
   "5iIGZI": [
     "GIF ",
@@ -22013,6 +22143,9 @@
   "6EN+TZ": [
     "Do additional perks use separate Boosts from my server level?"
   ],
+  "6Ea4dF": [
+    "Reading back the runes…"
+  ],
   "6EcIlH": [
     "Share clip to friends"
   ],
@@ -22302,9 +22435,6 @@
   ],
   "6L9IGl": [
     "Complete"
-  ],
-  "6L9Vwt": [
-    "That didn’t quite come together."
   ],
   "6LYPWS": [
     "Pinned"
@@ -25303,6 +25433,9 @@
   "7U/3ng": [
     "Nitro"
   ],
+  "7U6tIB": [
+    "You’re back in control"
+  ],
   "7U9Tlq": [
     "When this is on, images sent will be compressed. Get Nitro to send a crystal clear image! ",
     [
@@ -27696,6 +27829,35 @@
   "8MMHYG": [
     "This product won’t be visible to members until you publish."
   ],
+  "8MO3bp": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
+  ],
   "8MPCVr": [
     "I am not interested in..."
   ],
@@ -28902,6 +29064,9 @@
   ],
   "8oRfMw": [
     "Refresh Profile Widget"
+  ],
+  "8oUm/J": [
+    "Leafing back through the grimoire…"
   ],
   "8omJSY": [
     "Crank up the Soundboard with even more custom sounds."
@@ -30298,9 +30463,6 @@
       "ignored"
     ],
     " from ignored accounts"
-  ],
-  "9G3ZmA": [
-    "Gathering the pieces…"
   ],
   "9GBidO": [
     [
@@ -37942,6 +38104,51 @@
   "CHXHFX": [
     "It’s not working"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unique game played"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unique games played"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "CHa0vN": [
     "Product Unavailable"
   ],
@@ -41493,7 +41700,7 @@
     "Loft"
   ],
   "E/oQYL": [
-    "We automatically detect and filter some media that may be sensitive to help protect people on Discord who are under 18. You can learn more about this in our Help Center."
+    "We automatically detect and filter media that may be sensitive to help protect people on Discord who are under 18. If we put you in the wrong age group, you can update your age or contact us."
   ],
   "E08SX9": [
     "Details"
@@ -43067,6 +43274,9 @@
   "EdGvBM": [
     "Earn Monthly Nitro Rewards"
   ],
+  "EdXn1A": [
+    "Age-restricted servers are blocked on the iOS platform per App Store guidelines. If you are an adult, you can join the server on desktop and update your settings to view this on iOS. Visit our Help Center to learn more."
+  ],
   "Ee+rah": [
     "Get a limited-edition Nitro profile bundle! Yours to use with Nitro. Claim by ",
     [
@@ -43857,6 +44067,9 @@
         ]
       ]
     ]
+  ],
+  "EwXXks": [
+    "Deleting…"
   ],
   "EwuSCR": [
     "Give your mods a break while keeping your server safe! Set up filters to moderate content and automate a custom response when they’re found, and AutoMod will make it happen."
@@ -47888,9 +48101,6 @@
   ],
   "GYGb3A": [
     "Keep for longer with Nitro!"
-  ],
-  "GYoWRk": [
-    "Conjure it"
   ],
   "GYpoAq": [
     "Mature Sexual Media"
@@ -56336,6 +56546,9 @@
   "JqV7IC": [
     "LaunchPad"
   ],
+  "JqfHGt": [
+    "Age-Restricted Server"
+  ],
   "Jqj4cZ": [
     "Default"
   ],
@@ -56994,21 +57207,7 @@
     "Combo multiplier (x2)"
   ],
   "KEPOlE": [
-    "We automatically detect and filter media that may be sensitive to help protect people on Discord who are under 18. If we put you in the wrong age group, you can update your age or contact us. ",
-    [
-      8,
-      "$link",
-      [
-        "Learn more"
-      ],
-      [
-        [
-          1,
-          "handleOnHelpUrlHook"
-        ]
-      ]
-    ],
-    " about age verification"
+    "We automatically detect and filter media that may be sensitive to help protect people on Discord who are under 18. If we put you in the wrong age group, you can update your age or contact us."
   ],
   "KEn+LY": [
     "Subscribe to lift off with ",
@@ -65174,7 +65373,7 @@
     "Hardware Acceleration will make this better"
   ],
   "NQuXf0": [
-    "Age-restricted servers are blocked on the iOS platform per App Store guidelines. ",
+    "Age-restricted servers are blocked on the iOS platform per App Store guidelines. If you are an adult, you can join the server on desktop and update your settings to view this on iOS. ",
     [
       8,
       "$link",
@@ -66181,6 +66380,9 @@
   "NlQW4P": [
     "Message Send"
   ],
+  "NldIIG": [
+    "Your controls are paused."
+  ],
   "Nlf3nc": [
     [
       8,
@@ -66794,6 +66996,9 @@
   ],
   "O1c02q": [
     "Posts"
+  ],
+  "O1h3uU": [
+    "See the leaderboard"
   ],
   "O1iRT8": [
     "Failed to load"
@@ -70387,6 +70592,26 @@
   ],
   "PLcLdx": [
     "you’ve heard all my hot takes and stuck around anyway"
+  ],
+  "PLdF3A": [
+    "A new leaderboard begins! Who will be this week’s winner with the most unique games played? So far ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " is in the lead."
   ],
   "PLk3Na": [
     "Wanna make hangouts more fun?"
@@ -75558,6 +75783,9 @@
   "RT3MPz": [
     "Current summary"
   ],
+  "RT9Ccb": [
+    "Console"
+  ],
   "RTLNqC": [
     "Downloading Cloud Saves"
   ],
@@ -77891,9 +78119,6 @@
   "SNPvSv": [
     "Your custom image"
   ],
-  "SNcPbe": [
-    "Your published app is still yours to play meanwhile."
-  ],
   "SNqN1e": [
     "How long they should be timed out for"
   ],
@@ -79825,6 +80050,26 @@
   ],
   "T6bZsX": [
     "When you put a user in timeout they will not be able to send messages in chat, reply within threads, react to messages, or speak in voice or Stage channels."
+  ],
+  "T7CcFq": [
+    "A new leaderboard begins! Who will be this week’s winner with the most game time? So far ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " is in the lead."
   ],
   "T7DUoU": [
     "Disconnect from ",
@@ -81998,6 +82243,13 @@
   ],
   "TwDLVr": [
     "Requirement Summary"
+  ],
+  "TwgkQe": [
+    "Made by ",
+    [
+      1,
+      "creator"
+    ]
   ],
   "TwueC+": [
     "Selected"
@@ -86215,9 +86467,6 @@
   "VZsY3r": [
     "Daily free filters in:"
   ],
-  "VZuRug": [
-    "Gathering ingredients…"
-  ],
   "VaCdhQ": [
     "New to Discord"
   ],
@@ -89876,6 +90125,30 @@
   "WwYgqi": [
     "Add Media"
   ],
+  "Wwu6IA": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
+  ],
   "Wx7UUY": [
     "Create a server for your group"
   ],
@@ -92863,6 +93136,20 @@
   "Y6Jo+p": [
     "You're connecting accounts too quickly. Please wait a bit and try again."
   ],
+  "Y6K3qc": [
+    "A new leaderboard begins! Who will be this week’s winner with the most unique games played? So far ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " is in the lead."
+  ],
   "Y6Qfju": [
     [
       1,
@@ -95026,9 +95313,6 @@
   ],
   "Yvvfw9": [
     "Joined the server!"
-  ],
-  "Yvyw1H": [
-    "Packing it up…"
   ],
   "Yw5Hr2": [
     "A preview of ",
@@ -101537,7 +101821,7 @@
     "Cancel anytime in your Subscriptions"
   ],
   "bAVpRR": [
-    "Age-restricted server"
+    "Age-Restricted Server"
   ],
   "bAhz9l": [
     "Urgent Message"
@@ -109446,6 +109730,63 @@
     ],
     " · Draft"
   ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unique game played"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unique games played"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "dXC/hn": [
     "year"
   ],
@@ -113048,9 +113389,6 @@
   "egIBDH": [
     "Nature"
   ],
-  "egO5fO": [
-    "Not now"
-  ],
   "egQPgM": [
     "Your full profile"
   ],
@@ -113894,6 +114232,63 @@
   "exRczv": [
     "There were performance issues"
   ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " game day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " game days"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "exclamation": [
     "!",
     "exclamation",
@@ -114347,6 +114742,46 @@
   ],
   "f6RTAM": [
     "DONE"
+  ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " game day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " game days"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Active >30d ago"
@@ -114927,6 +115362,9 @@
   "fQqXGl": [
     "Layout"
   ],
+  "fQx5qC": [
+    "Relighting the candles…"
+  ],
   "fR1cof": [
     "Character count, ",
     [
@@ -115190,6 +115628,47 @@
   ],
   "fVWxvT": [
     "Add role"
+  ],
+  "fVm1Zn": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " took 1st Place from ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " on the leaderboard with ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "fW7T+d": [
     "Still going"
@@ -118128,23 +118607,6 @@
   "gNj6In": [
     "Go back to vote"
   ],
-  "gNnrNi": [
-    [
-      1,
-      "completed"
-    ],
-    " of ",
-    [
-      1,
-      "total"
-    ],
-    " done, ",
-    [
-      1,
-      "unfinished"
-    ],
-    " unfinished"
-  ],
   "gNq5z6": [
     "AutoMod Block Message"
   ],
@@ -118494,7 +118956,7 @@
     "Join Group DM"
   ],
   "gVV+HX": [
-    "Add them securely"
+    "Press here to add securely"
   ],
   "gVWG+6": [
     "My Family"
@@ -118715,6 +119177,9 @@
   ],
   "ga0Bbw": [
     "Create Post Guidelines"
+  ],
+  "ga8too": [
+    "Conjure it!"
   ],
   "gaamNe": [
     "No Results"
@@ -120683,6 +121148,9 @@
   "hFzI4p": [
     "Nitro is in the air <3"
   ],
+  "hG0Y0+": [
+    "Approve"
+  ],
   "hG1StD": [
     "AutoMod"
   ],
@@ -121044,9 +121512,6 @@
   ],
   "hOXd45": [
     "Show/hide media in chat, spoiler content"
-  ],
-  "hOcVAj": [
-    "It’s real."
   ],
   "hOnBrr": [
     [
@@ -126256,24 +126721,6 @@
   "j9lg7s": [
     "Do you want to login with this account?"
   ],
-  "j9qAGu": [
-    "Checklist: ",
-    [
-      1,
-      "completed"
-    ],
-    " of ",
-    [
-      1,
-      "total"
-    ],
-    " done, ",
-    [
-      1,
-      "unfinished"
-    ],
-    " unfinished"
-  ],
   "jA05ru": [
     "kept ",
     [
@@ -126908,6 +127355,26 @@
   ],
   "jTxbHc": [
     "Wind badge"
+  ],
+  "jUJ7IO": [
+    "A new leaderboard begins! Who will be this week’s winner with the most game days? So far ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " is in the lead."
   ],
   "jULEDr": [
     "See ",
@@ -130594,6 +131061,9 @@
   ],
   "krjl8p": [
     "The Power of Nitro is Yours"
+  ],
+  "krnkPq": [
+    "Finding our page in the spellbook…"
   ],
   "ksAVYt": [
     "Emoji matching ",
@@ -136384,6 +136854,46 @@
       1,
       "perkName"
     ]
+  ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unique game played"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unique games played"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "mhUrKS": [
     "Before you can use Family Center, we need to verify your age so we can show you the appropriate experience. We will only ask you for this once."
@@ -142786,9 +143296,6 @@
   "orCDxP": [
     "This server has a verification role configured. You can remove the requirement, but selecting a new role is no longer available."
   ],
-  "orD+xo": [
-    "Waiting on you to let it in…"
-  ],
   "orML/k": [
     "Welcome to the new layout!"
   ],
@@ -143335,7 +143842,7 @@
     "Ask for a new invite"
   ],
   "p0Ay4J": [
-    "These go straight into a locked vault. They never appear in the chat, and I never see them."
+    "Stored privately for this app. Never shown in chat or to me."
   ],
   "p0I2Bk": [
     "Switch up your theme color"
@@ -145575,6 +146082,9 @@
   "phLtT2": [
     "Libya"
   ],
+  "phXeK/": [
+    "Dusting off the incantations…"
+  ],
   "phYZe+": [
     "Rarity"
   ],
@@ -146573,6 +147083,20 @@
   ],
   "pt88Vb": [
     "NEW Animation Short First Look"
+  ],
+  "ptD18B": [
+    "A new leaderboard begins! Who will be this week’s winner with the most game time? So far ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " is in the lead."
   ],
   "ptItsj": [
     "Avatar, banner image, username or display name, text descriptors, or server tag"
@@ -149929,9 +150453,6 @@
   "rEBKvg": [
     "You must complete a few more steps before you can talk."
   ],
-  "rEQlMx": [
-    "Binding it all together…"
-  ],
   "rEeodK": [
     "This thread has been closed and locked. Only moderators can reopen it."
   ],
@@ -152801,9 +153322,6 @@
   "s+qGhK": [
     "Preparing ID scan…"
   ],
-  "s+ylXP": [
-    "Conjuring it into being…"
-  ],
   "s/+byI": [
     "Outgoing Friend Request"
   ],
@@ -153055,6 +153573,9 @@
       "playtimeLimit"
     ],
     " hours."
+  ],
+  "s4oxNv": [
+    "I couldn’t recall our conversation just now. It’s still saved; check back in a moment."
   ],
   "s4uM3b": [
     "Keep Current Permissions"
@@ -153622,6 +154143,9 @@
   ],
   "sKMrpl": [
     "Privacy & Safety"
+  ],
+  "sKNh1M": [
+    "Keys needed from you"
   ],
   "sKQa0t": [
     [
@@ -156697,9 +157221,6 @@
   ],
   "syuaPI": [
     "Vibe with Wumpus"
-  ],
-  "sz8yAj": [
-    "Making sure it holds together…"
   ],
   "szESVF": [
     "Review Applications"
@@ -161959,6 +162480,24 @@
       "gameName"
     ]
   ],
+  "unVTUQ": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " won this week’s competition with ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
+  ],
   "unamused": [
     "...",
     "bored",
@@ -166655,9 +167194,6 @@
     ],
     "!"
   ],
-  "wcXX8Z": [
-    "Getting your frame ready…"
-  ],
   "wchkc1": [
     "Play Games"
   ],
@@ -166946,6 +167482,9 @@
   ],
   "whmopT": [
     "Steam"
+  ],
+  "wi6hPV": [
+    "Visit Our Help Center"
   ],
   "wiIevd": [
     "Close Thread"
@@ -168763,9 +169302,6 @@
       "regularPrice"
     ],
     "/month"
-  ],
-  "x+sqTG": [
-    "Everything holds."
   ],
   "x/ERbV": [
     "Chart"
@@ -172984,6 +173520,18 @@
   "yYyGJH": [
     "See plan eligibility and details."
   ],
+  "yZ9HPM": [
+    "Made by ",
+    [
+      1,
+      "creator"
+    ],
+    " · with ",
+    [
+      1,
+      "collaborators"
+    ]
+  ],
   "yZCzMa": [
     "resources"
   ],
@@ -173203,6 +173751,9 @@
   ],
   "ydhbwt": [
     "Persistent"
+  ],
+  "ydhvN1": [
+    "Testing the app"
   ],
   "ydkoDT": [
     "Switch Device"
