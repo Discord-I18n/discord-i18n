@@ -15817,7 +15817,7 @@
     "Phone Verified"
   ],
   "3qelzD": [
-    "Conjuring MCP"
+    "MCP"
   ],
   "3qvtks": [
     "Release to Lock"
@@ -86991,6 +86991,9 @@
   "VkoLsy": [
     "By default, searching in DMs..."
   ],
+  "Vl3IL0": [
+    "Or tell me what to change"
+  ],
   "Vl3cED": [
     "Your ",
     [
@@ -108683,6 +108686,54 @@
   "d34xi4": [
     "Invalid build override"
   ],
+  "d3aX5b": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "a channel"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " channels"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "d3kA9a": [
     "Display up to 9 of your official social media accounts on your page by linking them here."
   ],
@@ -117757,6 +117808,9 @@
   "g+bTAg": [
     "Try out Profile Customization"
   ],
+  "g+lLUV": [
+    "Move Role"
+  ],
   "g+sEOr": [
     "Niue"
   ],
@@ -121209,7 +121263,7 @@
     "Nitro is in the air <3"
   ],
   "hG0Y0+": [
-    "Approve"
+    "Conjure it!"
   ],
   "hG1StD": [
     "AutoMod"
@@ -121424,6 +121478,9 @@
   ],
   "hKcgP5": [
     "No SKUs available"
+  ],
+  "hKfSwp": [
+    "Move Channel"
   ],
   "hKsCRB": [
     "Filing that away... get it?"
@@ -127696,6 +127753,54 @@
   ],
   "jZcIid": [
     "Use text-to-speech to read the message to all members currently viewing the channel."
+  ],
+  "jZeaoW": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "a role"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " roles"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "jZoHgI": [
     "You need at least two or more choices."
