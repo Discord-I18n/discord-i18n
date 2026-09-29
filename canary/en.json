@@ -246,6 +246,28 @@
     ],
     " to do more!"
   ],
+  "+5b01q": [
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+5kSoW": [
     "Link Copied!"
   ],
@@ -9239,6 +9261,9 @@
       ]
     ]
   ],
+  "1MXXPf": [
+    "Success"
+  ],
   "1MYPH0": [
     "Try Nitro for ",
     [
@@ -14218,6 +14243,9 @@
   "3L/DZq": [
     "Use Boosts to unlock bigger file sharing for the whole server."
   ],
+  "3LJ1u9": [
+    "Activity Sharing"
+  ],
   "3LUFnI": [
     "Your server product has been unpublished."
   ],
@@ -15775,6 +15803,9 @@
   ],
   "3oUE4o": [
     "Confirm Your Age"
+  ],
+  "3oxlia": [
+    "Minimum notification duration"
   ],
   "3p3/BK": [
     "You've been invited to join a group DM"
@@ -25541,6 +25572,28 @@
   "7WwLnr": [
     "Preview"
   ],
+  "7X+3f8": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " play"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " plays"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "7XAuyg": [
     "This ",
     [
@@ -25972,6 +26025,47 @@
   ],
   "7hBXn4": [
     "No restore points yet. One is saved automatically before every deploy, and you can save your own below."
+  ],
+  "7hHUIS": [
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " play"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " plays"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "trending up"
+        ],
+        "down": [
+          "trending down"
+        ],
+        "other": []
+      }
+    ]
   ],
   "7hRBmC": [
     "Avatar Decoration Preview: None applied"
@@ -26642,6 +26736,9 @@
   "7vHKVe": [
     "Synced Members"
   ],
+  "7vL/d/": [
+    "Warning"
+  ],
   "7vRj5F": [
     "Manage Payment"
   ],
@@ -27269,6 +27366,9 @@
   ],
   "8AEGE0": [
     "Included in Level 3"
+  ],
+  "8ALChp": [
+    "In voice"
   ],
   "8APv8L": [
     "Manage Subscription"
@@ -29565,6 +29665,9 @@
   ],
   "8xy99I": [
     "Onboarding: a better way to grant roles"
+  ],
+  "8y885d": [
+    "Share your activity in order to join the leaderboard."
   ],
   "8yEgvE": [
     "The poll \"",
@@ -34594,6 +34697,49 @@
   "AzBLIP": [
     "Take Me to My Nitro"
   ],
+  "AzIhRB": [
+    "listened to by ",
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " member"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " members"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " this week.",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Up"
+        ],
+        "down": [
+          "Down"
+        ],
+        "other": []
+      }
+    ]
+  ],
   "AzTwiu": [
     "Forum Tag Actions"
   ],
@@ -35784,6 +35930,9 @@
   ],
   "BRUwuY": [
     "All Projects"
+  ],
+  "BReS7U": [
+    "Info"
   ],
   "BRh9Xa": [
     "Did you find this helpful?"
@@ -38747,6 +38896,9 @@
         ]
       ]
     ]
+  ],
+  "CZ3jxp": [
+    "Keep pop-up notifications on screen for at least this long. Notifications that already stay longer are unaffected."
   ],
   "CZ7wvG": [
     "Sign up using email instead"
@@ -44093,6 +44245,9 @@
   "EwXXks": [
     "Deleting…"
   ],
+  "EwshDz": [
+    "Ship into Discord's own app channels instead of a Conjuring portal."
+  ],
   "EwuSCR": [
     "Give your mods a break while keeping your server safe! Set up filters to moderate content and automate a custom response when they’re found, and AutoMod will make it happen."
   ],
@@ -45742,6 +45897,17 @@
     [
       1,
       "username"
+    ]
+  ],
+  "Fb6oNP": [
+    [
+      1,
+      "text"
+    ],
+    " • ",
+    [
+      1,
+      "duration"
     ]
   ],
   "Fb8xx2": [
@@ -56381,9 +56547,6 @@
   "JkKNss": [
     "Pix Automático"
   ],
-  "Jkx0sf": [
-    "Get a game server for less"
-  ],
   "JkyCIO": [
     "Keep your quest going!"
   ],
@@ -58273,6 +58436,13 @@
   ],
   "Kd6OQc": [
     "Explicit image filter"
+  ],
+  "KddZZf": [
+    "Playing for ",
+    [
+      1,
+      "duration"
+    ]
   ],
   "KdgI4k": [
     "Interrupt the current work"
@@ -70567,6 +70737,9 @@
   ],
   "PJgX2h": [
     "sticker"
+  ],
+  "PJn0ih": [
+    "Enable each setting to contribute to the leaderboard. These can be changed at any time in Settings."
   ],
   "PJsjbP": [
     "Added a new emoji, ",
@@ -89592,9 +89765,6 @@
   "Wgpwpp": [
     "general"
   ],
-  "WhPKFP": [
-    "Most game servers now require fewer Boosts to unlock."
-  ],
   "WhR38i": [
     "Invite friends to the Student Hub for your school"
   ],
@@ -96782,6 +96952,17 @@
       ]
     ]
   ],
+  "ZOkckv": [
+    [
+      1,
+      "name"
+    ],
+    ": ",
+    [
+      1,
+      "error"
+    ]
+  ],
   "ZOzpKt": [
     "Reacted ",
     [
@@ -102038,6 +102219,13 @@
   ],
   "bFGpua": [
     "Your Members Play"
+  ],
+  "bFIg0R": [
+    "+",
+    [
+      1,
+      "count"
+    ]
   ],
   "bFPqMm": [
     "Stylized image of a clipboard with an X"
@@ -115380,6 +115568,9 @@
   "fMaEr2": [
     "Tap to append filter to current search"
   ],
+  "fMbgeZ": [
+    "Share Activity"
+  ],
   "fMdUNR": [
     "Close this question"
   ],
@@ -120603,6 +120794,13 @@
   ],
   "h+KPxy": [
     "Concert tickets go on sale Friday at 10am!"
+  ],
+  "h+LUpk": [
+    [
+      1,
+      "percent"
+    ],
+    "%"
   ],
   "h+WsPb": [
     "Applied"
@@ -127116,7 +127314,7 @@
     "Show personalized messages"
   ],
   "jK1PL5": [
-    "A tour of everything an app can do inside Discord: sign-in, sharing, menus, live voice and video, saved data."
+    "A tour of everything an app can do inside Discord: sign-in, sharing, menus, live voice and video, saved data, and two app channels that talk to each other."
   ],
   "jK2oto": [
     "Scroll left or right to view other badges"
@@ -135491,6 +135689,9 @@
   "mT9B49": [
     "You sent a gift, but..."
   ],
+  "mTARYx": [
+    "Turn on personalization to join the leaderboard."
+  ],
   "mTMkY2": [
     "You must enable the previous level first."
   ],
@@ -141039,6 +141240,9 @@
   "ny8lGk": [
     "double-tap to activate"
   ],
+  "nyY2CS": [
+    "Use app channels"
+  ],
   "nyYohm": [
     "Tap the button to add a Super Reaction."
   ],
@@ -142041,6 +142245,9 @@
   ],
   "oHWnLy": [
     "Suggested Channels"
+  ],
+  "oHdW+u": [
+    "Unranked"
   ],
   "oHh3oI": [
     "Discord System Helper failed to uninstall: ",
@@ -159794,6 +160001,9 @@
   "toqSSG": [
     "Help improve Discord's spam models by submitting data when marking messages as non-spam."
   ],
+  "toxuHd": [
+    "Play some games to join the leaderboard!"
+  ],
   "tozlEv": [
     "Join ",
     [
@@ -161571,6 +161781,9 @@
   ],
   "uKFeS1": [
     "Upgrade"
+  ],
+  "uKMqrF": [
+    "Error"
   ],
   "uKZtC/": [
     "Send messages and media"
@@ -171121,6 +171334,13 @@
   ],
   "xT1Vfn": [
     "500MB Uploads"
+  ],
+  "xTlB8O": [
+    "Couldn’t ship it: ",
+    [
+      1,
+      "reason"
+    ]
   ],
   "xTsar2": [
     [

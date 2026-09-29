@@ -6983,9 +6983,6 @@
   "0YjaXf": [
     "Paying in"
   ],
-  "0YpIF/": [
-    "Try claiming this item again later while we resolve this issue."
-  ],
   "0YtG+k": [
     "Family Center Notifications"
   ],
@@ -7630,9 +7627,6 @@
   ],
   "0lvb9O": [
     "Active Now"
-  ],
-  "0mDmg/": [
-    "Exclusive Gift"
   ],
   "0mI72g": [
     "+",
@@ -9007,7 +9001,7 @@
     "Member posts or responds in the media channel"
   ],
   "1Ew5/j": [
-    "Prefer to build in your own coding tool? Add this link to it and you can work on this app from there, then preview and ship it right back here."
+    "Prefer to build in your own coding tool? Add this link and header to it and you can work on this app from there, then preview and ship it right back here."
   ],
   "1F6FzL": [
     "Role color"
@@ -9098,6 +9092,14 @@
       1,
       "activity"
     ]
+  ],
+  "1JZfaU": [
+    "Unlock a ",
+    [
+      1,
+      "multiplier"
+    ],
+    " times Orb bonus with Nitro"
   ],
   "1Jf+4B": [
     "More voice filters just dropped!"
@@ -15815,7 +15817,7 @@
     "Phone Verified"
   ],
   "3qelzD": [
-    "Conjuring MCP"
+    "MCP"
   ],
   "3qvtks": [
     "Release to Lock"
@@ -20010,20 +20012,11 @@
   "5TvaSm": [
     "Frequently Used"
   ],
-  "5TwASM": [
-    [
-      1,
-      "collectedCount"
-    ],
-    "/",
-    [
-      1,
-      "totalCount"
-    ],
-    " collected"
-  ],
   "5U0kL8": [
     "Preview"
+  ],
+  "5U1fkv": [
+    "Live · up to date"
   ],
   "5U9LSo": [
     "File must be ",
@@ -24701,6 +24694,9 @@
   "7A/tE0": [
     "Province"
   ],
+  "7ACDrq": [
+    "Try this look"
+  ],
   "7AVpta": [
     "Add Clips Gallery Widget"
   ],
@@ -28457,14 +28453,6 @@
   "8aJzT4": [
     "Review"
   ],
-  "8aMDPc": [
-    "Buy all ",
-    [
-      1,
-      "totalCount"
-    ],
-    " items in this collection to earn an exclusive gift."
-  ],
   "8aZAuG": [
     "Your friend will see this image when they receive their gift."
   ],
@@ -29050,6 +29038,9 @@
   ],
   "8naQjv": [
     "Lost to time"
+  ],
+  "8njO1f": [
+    "Ready to publish"
   ],
   "8o8Zk5": [
     "Fit up to ",
@@ -29801,6 +29792,9 @@
         ]
       ]
     ]
+  ],
+  "91710b": [
+    "Update app"
   ],
   "91DEhs": [
     [
@@ -33804,6 +33798,14 @@
   "AgG8c6": [
     "Go to Chat"
   ],
+  "AgMngw": [
+    "Orbs balance: ",
+    [
+      1,
+      "balance"
+    ],
+    " orbs, new Orb challenge updates"
+  ],
   "AgXXyy": [
     "Server Status"
   ],
@@ -36259,6 +36261,9 @@
   ],
   "BcZTKu": [
     "Other"
+  ],
+  "BceUWe": [
+    "Open DM"
   ],
   "Bceruw": [
     "FFXIV"
@@ -39946,6 +39951,9 @@
   ],
   "D6x8Nr": [
     "Allows members to send text-to-speech messages by starting a message with /tts. These messages can be heard by anyone focused on the channel."
+  ],
+  "D7+kY/": [
+    "Check It Out"
   ],
   "D72Dlt": [
     "Make Discord Yours with Nitro"
@@ -49721,9 +49729,6 @@
   "H6nk1k": [
     "Nitro Plan & Payment"
   ],
-  "H6umN6": [
-    "Ok, sounds good"
-  ],
   "H6zNFz": [
     "Trending GIFs"
   ],
@@ -55367,6 +55372,13 @@
   ],
   "JH1SJ+": [
     "Watching Stream"
+  ],
+  "JH4Xt5": [
+    "Publishing to ",
+    [
+      1,
+      "server"
+    ]
   ],
   "JHEsYw": [
     "Must follow at least ",
@@ -61776,6 +61788,26 @@
   "M3VN2U": [
     "Disables all sound"
   ],
+  "M3cBMT": [
+    "I updated your live rule ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "name"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpen"
+        ]
+      ]
+    ],
+    "."
+  ],
   "M3iSyL": [
     "Joins are paused for ",
     [
@@ -61808,6 +61840,9 @@
   ],
   "M4XL5n": [
     "You will lose your custom invite url immediately."
+  ],
+  "M4qsJL": [
+    "Display Name Style"
   ],
   "M54uv3": [
     "There are more communities out there!"
@@ -63933,30 +63968,6 @@
   ],
   "MsUY/S": [
     "Upload Image"
-  ],
-  "MsXuP8": [
-    "Published ",
-    [
-      1,
-      "projectName"
-    ],
-    " to this server. Everyone can access it now! ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "link"
-        ]
-      ],
-      [
-        [
-          1,
-          "onNavigate"
-        ]
-      ]
-    ]
   ],
   "MskAXa": [
     "Remove Clip"
@@ -66170,6 +66181,13 @@
   "NfncNw": [
     "Search Steps"
   ],
+  "Nfs5wk": [
+    "Open #",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "Nfvo72": [
     "Xbox"
   ],
@@ -67124,6 +67142,9 @@
   ],
   "O4jYEh": [
     "Say hi to every member and help them engage"
+  ],
+  "O4r42+": [
+    "Drop images or files here to bring them along with your next message."
   ],
   "O4xJdW": [
     "Bangladesh"
@@ -73623,6 +73644,9 @@
   "QeJIbA": [
     "Browse conversations happening in this channel."
   ],
+  "QexSCe": [
+    "Devtools"
+  ],
   "Qf3ptv": [
     "me"
   ],
@@ -73918,6 +73942,9 @@
       "username"
     ],
     "'s activity"
+  ],
+  "Qn0VCU": [
+    "Update rule"
   ],
   "Qn21R6": [
     "Try clips on Discord"
@@ -77090,6 +77117,9 @@
       "premiumGroupProductName"
     ]
   ],
+  "S+XFJ2": [
+    "Update widget"
+  ],
   "S+YjYJ": [
     "We could not validate your login link. Please try again."
   ],
@@ -77658,6 +77688,9 @@
   ],
   "SD6LRZ": [
     "Let your community know what you're selling and why they should purchase your products."
+  ],
+  "SDP0vo": [
+    "Could not enable test mode for this application."
   ],
   "SDRHgr": [
     [
@@ -78277,9 +78310,6 @@
   ],
   "SRM/e/": [
     "You’ll get notified when there’s an update."
-  ],
-  "SRTlyA": [
-    "Uh oh! Something went wrong."
   ],
   "SRZyHg": [
     "How Discord uses your data"
@@ -83931,6 +83961,9 @@
       "cardinal"
     ]
   ],
+  "UazRD1": [
+    "Add to your message"
+  ],
   "Ub4YR1": [
     "Top Critic Average"
   ],
@@ -86958,6 +86991,9 @@
   "VkoLsy": [
     "By default, searching in DMs..."
   ],
+  "Vl3IL0": [
+    "Or tell me what to change"
+  ],
   "Vl3cED": [
     "Your ",
     [
@@ -87106,9 +87142,6 @@
       ]
     ],
     " has closed"
-  ],
-  "VnVTNc": [
-    "Claim Gift"
   ],
   "Vngfia": [
     [
@@ -91069,6 +91102,9 @@
   ],
   "XKbf2G": [
     "Shared links expire after 24 hours."
+  ],
+  "XKj5L9": [
+    "Orb Wallet"
   ],
   "XKk1gp": [
     "Waiting for network…"
@@ -100074,6 +100110,9 @@
     ],
     ", not in a server yet"
   ],
+  "ajHWbZ": [
+    "You can now try on any display name style that catches your eye."
+  ],
   "ajHoOr": [
     "View Game Profile"
   ],
@@ -104985,6 +105024,9 @@
     ],
     ", new content"
   ],
+  "c4LI5t": [
+    "Launch"
+  ],
   "c4NuO/": [
     "MMORPG"
   ],
@@ -105560,9 +105602,6 @@
   ],
   "cK3AvL": [
     "Agent"
-  ],
-  "cKH3tk": [
-    "Congrats! You’ve unlocked an exclusive gift."
   ],
   "cKIIzk": [
     "Reorder your badges with Nitro"
@@ -108647,6 +108686,54 @@
   "d34xi4": [
     "Invalid build override"
   ],
+  "d3aX5b": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "a channel"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " channels"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "d3kA9a": [
     "Display up to 9 of your official social media accounts on your page by linking them here."
   ],
@@ -109297,13 +109384,6 @@
       },
       0,
       "cardinal"
-    ]
-  ],
-  "dK6oyH": [
-    "Congrats! You’ve unlocked the ",
-    [
-      1,
-      "productName"
     ]
   ],
   "dK8S0w": [
@@ -112766,6 +112846,9 @@
   ],
   "eSDHDk": [
     "Friends will receive the emoji as a DM"
+  ],
+  "eSDVDt": [
+    "Restore this version"
   ],
   "eSKiXk": [
     "Squad"
@@ -117725,6 +117808,9 @@
   "g+bTAg": [
     "Try out Profile Customization"
   ],
+  "g+lLUV": [
+    "Move Role"
+  ],
   "g+sEOr": [
     "Niue"
   ],
@@ -118886,6 +118972,26 @@
       ]
     ]
   ],
+  "gSpqdm": [
+    "I updated your live widget ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "name"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpen"
+        ]
+      ]
+    ],
+    "."
+  ],
   "gSxlHf": [
     "Enable"
   ],
@@ -119099,6 +119205,14 @@
   ],
   "gYiBrD": [
     "Exit grid view"
+  ],
+  "gYzaCr": [
+    [
+      8,
+      "displayNameHook",
+      []
+    ],
+    "'s style suits you well!"
   ],
   "gZEUBl": [
     "Goth"
@@ -121149,7 +121263,7 @@
     "Nitro is in the air <3"
   ],
   "hG0Y0+": [
-    "Approve"
+    "Conjure it!"
   ],
   "hG1StD": [
     "AutoMod"
@@ -121364,6 +121478,9 @@
   ],
   "hKcgP5": [
     "No SKUs available"
+  ],
+  "hKfSwp": [
+    "Move Channel"
   ],
   "hKsCRB": [
     "Filing that away... get it?"
@@ -126691,6 +126808,9 @@
   "j7wXWo": [
     "Enough members"
   ],
+  "j8541Y": [
+    "View AutoMod settings"
+  ],
   "j8734b": [
     "This gift code may be expired or you might have the wrong code."
   ],
@@ -126967,7 +127087,7 @@
     "A tour of everything an app can do inside Discord: sign-in, sharing, menus, live voice and video, saved data."
   ],
   "jKNAzJ": [
-    "Refresh link?"
+    "Refresh header?"
   ],
   "jKYAPu": [
     "There are issues with your regex input. Please correct the highlighted errors above. ",
@@ -127633,6 +127753,54 @@
   ],
   "jZcIid": [
     "Use text-to-speech to read the message to all members currently viewing the channel."
+  ],
+  "jZeaoW": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "a role"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " roles"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "jZoHgI": [
     "You need at least two or more choices."
@@ -128373,6 +128541,13 @@
       "errorMessage"
     ]
   ],
+  "jnwfvk": [
+    "Go to ",
+    [
+      1,
+      "server"
+    ]
+  ],
   "jo0oj/": [
     "Presence"
   ],
@@ -128600,6 +128775,9 @@
   ],
   "jt3z8f": [
     "We require a verified email to send you updates on the status of your report. Your identity will not be shared with the person(s) you are reporting."
+  ],
+  "jt5JBA": [
+    "Select all that apply"
   ],
   "jt7JX6": [
     "Lift off with ",
@@ -129993,6 +130171,9 @@
   "kUtiKa": [
     "For when your friends are eating dinner while you finish a match."
   ],
+  "kV4lwa": [
+    "Publish your app"
+  ],
   "kV54/Y": [
     "Benefit"
   ],
@@ -130511,6 +130692,9 @@
     "Sikhism",
     "Tegh"
   ],
+  "khdMoL": [
+    "Earlier version"
+  ],
   "khjqdH": [
     [
       8,
@@ -130861,6 +131045,9 @@
     "koala",
     "marsupial",
     "under"
+  ],
+  "kocF+6": [
+    "In Game Items"
   ],
   "koklFG": [
     "Bring others to your server easily with your own customized invite link.  Heads up though, anyone with the link can join and you'll need at least one text channel that is open to all server members. ",
@@ -132529,7 +132716,7 @@
     ]
   ],
   "lTtxBT": [
-    "This link works for 24 hours. Refresh it whenever you need a new one."
+    "This header works for 24 hours. Refresh it whenever you need a new one."
   ],
   "lTwKmt": [
     "On"
@@ -139842,6 +140029,26 @@
   "nc6r1B": [
     "Don’t forget to enable when you’re finished!"
   ],
+  "ncJb2S": [
+    "I updated your live bot ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "name"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpen"
+        ]
+      ]
+    ],
+    "."
+  ],
   "ncOAha": [
     "Update emoji, ",
     [
@@ -140941,6 +141148,9 @@
   "o034cv": [
     "Share a Clip"
   ],
+  "o046LG": [
+    "Update bot"
+  ],
   "o0GMBD": [
     "This application ",
     [
@@ -141420,6 +141630,9 @@
   ],
   "oAYOCk": [
     "Download the App"
+  ],
+  "oAYuZw": [
+    "Try this name style"
   ],
   "oAiltV": [
     "Twitter"
@@ -142208,7 +142421,7 @@
     "Free with Nitro Classic"
   ],
   "oWzC0r": [
-    "Your current link stops working. Any tool you’ve already connected will need the new one."
+    "Your current header stops working. Any tool you’ve already connected will need the new one."
   ],
   "oX14El": [
     "Remove Restrictions"
@@ -142661,6 +142874,25 @@
   ],
   "og4NNr": [
     "Start chatting with your new friends!"
+  ],
+  "ogEl54": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "name"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpen"
+        ]
+      ]
+    ],
+    " is live."
   ],
   "ogLlvy": [
     "Chat on the web"
@@ -144207,6 +144439,13 @@
   ],
   "p9KOsc": [
     "Gifting is only available for Nitro (Nitro Basic coming soon)"
+  ],
+  "p9PPYD": [
+    [
+      1,
+      "multiplier"
+    ],
+    " times Orb bonus with Nitro"
   ],
   "p9TwTG": [
     "Branch"
@@ -153229,9 +153468,6 @@
   "ryj6N5": [
     "Allows members to use @everyone (everyone in the server) or @here (only online members in that channel). They can also @mention all roles, even if the role’s “Allow anyone to mention this role” permission is disabled."
   ],
-  "rykAJ9": [
-    "Unlock Me"
-  ],
   "rylrdY": [
     "Checkout In Web"
   ],
@@ -157576,6 +157812,9 @@
   "t8geR1": [
     "See Less"
   ],
+  "t8z5gn": [
+    "Give their style a spin"
+  ],
   "t94EHg": [
     "Subscription Tier"
   ],
@@ -158943,6 +159182,26 @@
     ],
     "."
   ],
+  "tg9fgb": [
+    "I updated your live app ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "name"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpen"
+        ]
+      ]
+    ],
+    "."
+  ],
   "tgSfkH": [
     "Your Boost helps unlock HD streaming, better audio, and more for the whole server."
   ],
@@ -159005,6 +159264,9 @@
         ]
       ]
     ]
+  ],
+  "tgtTuF": [
+    "Authorization header"
   ],
   "tgwiMO": [
     "Clear Caches"
@@ -166134,9 +166396,6 @@
   "w9zd68": [
     "Year"
   ],
-  "wA0o0L": [
-    "Published! Your app is live."
-  ],
   "wA2XhW": [
     "Share a fun fact about yourself"
   ],
@@ -166516,6 +166775,9 @@
   ],
   "wK1svU": [
     "Content Rating"
+  ],
+  "wK3FYl": [
+    "View profile"
   ],
   "wK78Qv": [
     "You chose to ignore this message request. Do you want to block this user to prevent future messages?"
@@ -169653,6 +169915,13 @@
   ],
   "x7+QD9": [
     "Create a server for your classroom"
+  ],
+  "x71ku3": [
+    "Needs Manage Server in ",
+    [
+      1,
+      "server"
+    ]
   ],
   "x78c+J": [
     "This application has no commands."
@@ -175206,6 +175475,9 @@
   ],
   "zFKbrF": [
     "24 Hours"
+  ],
+  "zFcLHP": [
+    "Review permissions"
   ],
   "zFfSFQ": [
     "Send a DM to ",
