@@ -109,6 +109,9 @@
   "+1k/lP": [
     "Pristatome naujų bendruomenės narių įvedimą"
   ],
+  "+20A3o": [
+    "To vaizdo nepavyko pridėti. Pabandyk dar kartą."
+  ],
   "+2QBZX": [
     "Hm, mums nepavyko įkelti Parduotuvės dovanų. Sugrįžk vėliau."
   ],
@@ -382,6 +385,9 @@
         ]
       ]
     ]
+  ],
+  "+ADjaQ": [
+    "Naujovinti"
   ],
   "+AJFJy": [
     "Scenos kanale"
@@ -1184,6 +1190,9 @@
       1,
       "amount"
     ]
+  ],
+  "+QAvQz": [
+    "Dabar su Nitro gaunamas pradinis Xbox Game Pass leidimas. Eime žaisti."
   ],
   "+QNUov": [
     "Inicijuojamas klipų variklis"
@@ -2000,6 +2009,9 @@
   ],
   "+p4GaA": [
     "Mokyklos / universiteto el. paštas"
+  ],
+  "+pTnsf": [
+    "50+ žaidimų, iš kurių Stardew Valley, Fallout 4 ir Grounded. 10 valandų žaidimo debesyje kas mėnesį. Xbox apdovanojimai. Visai tai – tavo su Nitro."
   ],
   "+pfsFX": [
     "Pristabdyta"
@@ -3067,6 +3079,9 @@
   "/8psS7": [
     "Veiklos valdikliai buvo painūs"
   ],
+  "/8znyU": [
+    "Išsiųsk dar vieną dovaną, kad gautum visus"
+  ],
   "/91tbr": [
     "Pranešti apie šią rolę naudotojams, kurie turi leidimą peržiūrėti šį kanalą"
   ],
@@ -3147,6 +3162,9 @@
   ],
   "/AS/gM": [
     "Taip, atšaukti stiprinimą"
+  ],
+  "/AUOfc": [
+    "Šok į traukinį"
   ],
   "/AXYnE": [
     "Kopijuoti naudotojo ID"
@@ -3318,6 +3336,9 @@
       1,
       "a"
     ]
+  ],
+  "/GObQk": [
+    "Pašalinti Xbox Game Pass"
   ],
   "/GTqXG": [
     "Select URL Origin Type (Embedded Apps Only)"
@@ -3792,6 +3813,28 @@
   "/UJaI2": [
     "Pasimetęs botas"
   ],
+  "/UNTlE": [
+    "Atsiimk ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaidą Logitech G įrangai kas mėnesį, taip pat gauk vienkartinių nuolaidą PRO serijos įrangai ir naujiems produktams. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "/UTTEg": [
     "Peržiūrėk visas naujas funkcijas, kurias atrakinai"
   ],
@@ -3856,6 +3899,9 @@
   ],
   "/Whuzi": [
     "Naudojant Discord sertifikuotą mikrofoną tam tikros balso apdorojimo funkcijos tvarkomos nebe Discord,\no paties mikrofono."
+  ],
+  "/WsW/1": [
+    "Išbandyk profilio temą"
   ],
   "/X1ny6": [
     "Naršyk Parduotuvėje ir pažymėk širdele patikusias prekes, kad pridėtum jas čia."
@@ -4416,6 +4462,23 @@
   ],
   "/nALeY": [
     "Kiti atsiliepimai"
+  ],
+  "/nFLZv": [
+    "Surinkta akcijos elementų: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ],
+    ", liko dienų: ",
+    [
+      1,
+      "numDays"
+    ]
   ],
   "/nJOlj": [
     "Veikla vėlavo arba strigo"
@@ -5050,6 +5113,23 @@
   "02hvfp": [
     "Keep It Safe"
   ],
+  "02smVH": [
+    "Nori gauti daugiau už kiekvieną misiją? Nitro nariai už misijas gauna 1,2 k. daugiau Orbs, tam tikrą kiekį Orbs kas mėnesį ir kt. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "03/rlQ": [
     "Kvietimų dar nėra!"
   ],
@@ -5140,10 +5220,19 @@
     ],
     " Orbs per ",
     [
-      1,
-      "days"
-    ],
-    " d."
+      6,
+      "days",
+      {
+        "one": [
+          "dieną"
+        ],
+        "other": [
+          "dienas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Įkelk ",
@@ -5953,6 +6042,9 @@
   ],
   "0N1s81": [
     "Saugos ir prieigos raktai"
+  ],
+  "0N8fCf": [
+    "Mielas geradary, už išsiųstas dovanas pelnei profilio ženklelį, kuris dovanojant daugiau pereina į vis aukštesnį lygį."
   ],
   "0NJZAU": [
     "Susietas su ",
@@ -7162,6 +7254,9 @@
     ],
     " neprivaloma"
   ],
+  "0mQ2U6": [
+    "Xbox Game Pass"
+  ],
   "0mTJ3j": [
     "Bendri draugai"
   ],
@@ -7622,6 +7717,9 @@
   "0sTyEb": [
     "Pateik savo paraišką prisijungti prie serverio."
   ],
+  "0sh8CQ": [
+    "Rodyti jaustukų pasiūlymus rašant"
+  ],
   "0t1aNC": [
     "Redaguoti lygio jaustuką"
   ],
@@ -7735,6 +7833,9 @@
   ],
   "0vTx7j": [
     "Įkelti iš naujo"
+  ],
+  "0vY+ie": [
+    "Gauti Nitro"
   ],
   "0vZqv0": [
     "Įjungus draugų sinchronizavimo funkciją, automatiškai pridėsime telefono kontaktus kaip Discord draugus, jeigu:\n\n1. Abu turite vienas kito telefono numerį\n\n2. Abu esate įjungę draugų sinchronizavimo funkciją"
@@ -8875,6 +8976,9 @@
   "1RD2jW": [
     "Atidarant šį būdą įvyko nežinoma klaida."
   ],
+  "1RFJ5Q": [
+    "Prisijunk prie bendruomenės"
+  ],
   "1RH5t9": [
     "Pakviesta"
   ],
@@ -9951,6 +10055,9 @@
   "1zoOqj": [
     "Dalykis Nitro magija su kitais."
   ],
+  "2+/rrF": [
+    "Gauk nuolaidų profilio elementams, taip pat tinkintus jaustukus, HD transliavimą ir kt. su Nitro."
+  ],
   "2+A3dv": [
     "Atvėsimas! Stiprinimo negali perkelti dar ",
     [
@@ -10745,6 +10852,9 @@
   ],
   "2HvOvh": [
     "Atmesta"
+  ],
+  "2I7nK+": [
+    "Logitech nuolaidos"
   ],
   "2ICUkG": [
     "Gavai naujų, tik nariams skirtų jaustukų (",
@@ -11707,6 +11817,9 @@
   ],
   "2hPcVJ": [
     "Mastelio santykis"
+  ],
+  "2iX+XV": [
+    "Naujovinti"
   ],
   "2ia+9V": [
     "Peržiūrėti ženklelio informaciją"
@@ -13419,6 +13532,23 @@
   "3JGJo2": [
     "Tavo tobulas GIF yra kitoje pilyje. Išbandyk toliau siūlomus raktažodžius!"
   ],
+  "3JKWU6": [
+    "Prenumeruok Nitro ir gauk Xbox Game Pass (pradinį leidimą), įrangos pasiūlymų, naujų Orbs pranašumų ir dar daug ko kito. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3JWkhv": [
     "Rodyti klaviatūrą"
   ],
@@ -14721,6 +14851,22 @@
   "3iccet": [
     "Vietos lipdukams"
   ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pelnei nemokamą papuošimą"
+        ],
+        "other": [
+          "Pelnei nemokamų papuošimų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "3ilveh": [
     "Tiek to"
   ],
@@ -14743,6 +14889,23 @@
   ],
   "3jG0Bo": [
     "Pagal numatytuosius nustatymus nariams leidžiama peržiūrėti šį kanalą. Jei išjungiant naudojama komanda @everyone, kanalas bus privatus."
+  ],
+  "3jY5i3": [
+    "Jei mėgsti YouTube, tau patiks Premium. Gauk 20 % nuolaidą kitiems 6 mėnesiams, nesvarbu, ar esi naujas YouTube Premium naudotojas, ar jau naudojiesi kurį laiką. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "3jaCac": [
     "Visi atsisiunčiami failai"
@@ -14901,6 +15064,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Versija"
   ],
   "3nWhcJ": [
     "Priimti dovaną"
@@ -16991,6 +17157,9 @@
   "4fnE/J": [
     "Nepavyko patvirtinti tavo prisijungimo nuorodos. Pabandyk dar kartą."
   ],
+  "4fvi9I": [
+    "Tavo draugai: apžvalga."
+  ],
   "4fw/T2": [
     "Sustiprinai serverį ",
     [
@@ -17742,6 +17911,9 @@
   ],
   "4z9fN+": [
     "Išjungta"
+  ],
+  "4zROKG": [
+    "Atsiimk Xbox Game Pass dabar"
   ],
   "4zv/jq": [
     [
@@ -19495,6 +19667,14 @@
   "5fWB8U": [
     "Tvarkyti profilį ir būseną"
   ],
+  "5fXjSj": [
+    "Kvietimas galioja dar ",
+    [
+      2,
+      "numMinutes"
+    ],
+    " min."
+  ],
   "5fZHp3": [
     "Siųsti kvietimą"
   ],
@@ -20097,6 +20277,9 @@
   "5rYBAQ": [
     "Kas gali jungtis prie mano žaidimų"
   ],
+  "5rbQbD": [
+    "10 valandų žaidimo debesyje kas mėnesį"
+  ],
   "5rvCIR": [
     "Padailink savo išvaizdą"
   ],
@@ -20665,6 +20848,9 @@
   "61wfmh": [
     "Šis jaustukas nebeegzistuoja. Pasirink naują."
   ],
+  "620Iwi": [
+    "Gauti Nitro"
+  ],
   "621LJD": [
     "Slapyvardis"
   ],
@@ -20785,6 +20971,29 @@
       ]
     ],
     "."
+  ],
+  "65EEvD": [
+    "Naujas kodas bus pasiekiamas po ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dienos"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dienų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "65JnWC": [
     [
@@ -21264,6 +21473,15 @@
       ]
     ]
   ],
+  "6KjkUa": [
+    "Taikoma visiems produktams Logitech svetainėje, išskyrus G serijos ir naujus produktus. Galioja iki ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "6Kqn9M": [
     [
       6,
@@ -21319,6 +21537,9 @@
   ],
   "6MwJo/": [
     "Rodyti mažiau"
+  ],
+  "6NbEkN": [
+    "Prieš išsaugodamas (-a) šią taisyklę pasirink programėlę."
   ],
   "6Nmv4i": [
     "Mūsų privatumo ūkininkai pradėjo nurinkinėti jūsų duomenis. Tai gali trukti iki 30 dienų, bet baigę atsiųsime tau el. laišką."
@@ -23268,6 +23489,9 @@
     ],
     " į grupę."
   ],
+  "7/h5vj": [
+    "Kol kas jokia šio serverio programėlė negali moderuoti žinučių."
+  ],
   "7/qtoL": [
     "Šis ",
     [
@@ -24090,6 +24314,9 @@
       ]
     ]
   ],
+  "7PdsMK": [
+    "Dabar su Nitro gausi pradinį Xbox Game Pass leidimą. Eime žaisti."
+  ],
   "7PnXqu": [
     "Nepavyko apdoroti vaizdo"
   ],
@@ -24777,6 +25004,9 @@
   "7ioAjs": [
     "Prieinami pasiūlymai"
   ],
+  "7itT3E": [
+    "Naršyti kitus serverius"
+  ],
   "7j/5mg": [
     [
       6,
@@ -25273,6 +25503,9 @@
   "7rOU6j": [
     "Sinchronizuoti su kompiuteriu"
   ],
+  "7raRgL": [
+    "Panaudoti Orbs"
+  ],
   "7rkg+/": [
     "Nebestebėti – ",
     [
@@ -25372,6 +25605,9 @@
   ],
   "7vHKVe": [
     "Sinchronizuoti nariai"
+  ],
+  "7vL/d/": [
+    "Įspėjimas"
   ],
   "7vRj5F": [
     "Tvarkyti mokėjimą"
@@ -26023,6 +26259,9 @@
   "8AEGE0": [
     "Prieinama 3 lygyje"
   ],
+  "8ALChp": [
+    "Balso kanale"
+  ],
   "8APv8L": [
     "Tvarkyti prenumeratą"
   ],
@@ -26276,6 +26515,9 @@
       ]
     ],
     "."
+  ],
+  "8Gl8gP": [
+    "Įsigyk savo svajonių įrangą su išskirtiniais nuolaidų kodais kas mėnesį. Tik su Nitro."
   ],
   "8GypeZ": [
     "Teik paraišką dėl partnerystės"
@@ -27057,6 +27299,18 @@
   "8XT6Nf": [
     "Dovanos trukmė"
   ],
+  "8XhAe3": [
+    "Surinkta akcijos elementų: ",
+    [
+      1,
+      "current"
+    ],
+    " iš ",
+    [
+      1,
+      "target"
+    ]
+  ],
   "8Xm6uL": [
     [
       8,
@@ -27271,6 +27525,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Tavo įrašas pašalintas"
   ],
   "8dCrV9": [
     "Išspręsti"
@@ -29306,6 +29563,13 @@
   "9U0b1k": [
     "Sukurk savo pirmą Discord serverį"
   ],
+  "9U3Wb3": [
+    "Tavo žinutė ištrinta kanale ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Žinutes siunti per greitai"
   ],
@@ -29450,6 +29714,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "9Y2p6p": [
+    "Kasmėnesinis apdovanojimas"
   ],
   "9Y2wKO": [
     "Pasirink vieną atsakymą"
@@ -30282,6 +30549,9 @@
   "9t1au7": [
     "naudotojas (-a) atblokuotas (-a)"
   ],
+  "9t2CzW": [
+    "Pelnyk apdovanojimų su Xbox tiesiog žaisdamas (-a)"
+  ],
   "9t3GMT": [
     "• baigia galioti po ",
     [
@@ -30560,6 +30830,14 @@
   ],
   "A+0H1f": [
     "Animuotas pseudoportretas, profilio reklamjuostė ir pritaikyta žymė"
+  ],
+  "A+56/R": [
+    "Panaudok ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaidą Logitech G įrangai kas mėnesį su Nitro."
   ],
   "A+8d6M": [
     "Programėlė"
@@ -32906,6 +33184,9 @@
     ],
     ". Kad galėtum ir toliau naudotis profilio tinkinimų ir kitais pranašumais, pridėk mokėjimo būdą."
   ],
+  "AyECej": [
+    "Apdovanojimai už žaidimą sulaukusiems 18 metų"
+  ],
   "AyMGXA": [
     "Panašu, kad profilis vis dar ruošiamas – nusiųsk žinutę, pasakyk labas!"
   ],
@@ -33575,6 +33856,9 @@
   "BEFwGd": [
     "Nuotraukos"
   ],
+  "BEL9MJ": [
+    "Bendrinimo plėtinys"
+  ],
   "BENn/6": [
     "Visi tiesiogiai transliuojami scenos kanalai"
   ],
@@ -34152,6 +34436,9 @@
       "numViewers"
     ]
   ],
+  "BReS7U": [
+    "Informacija"
+  ],
   "BRkD41": [
     "Įvesti taisyklę"
   ],
@@ -34500,12 +34787,12 @@
     " min."
   ],
   "Ba/7wO": [
-    "Nitro nariai už viską gauna ",
+    "Prenumeruok ir pildyk atsargas kas mėnesį gaudamas (-a) Orbs ir apdovanojimus su x",
     [
       1,
       "multiplier"
     ],
-    " kartus daugiau"
+    " daugikliu."
   ],
   "BaI6L4": [
     "Paprašyk globėjo (-os) atkurti prieigą programėlių parduotuvės valdikliuose tėvams (Apple arba Google Play)."
@@ -34659,6 +34946,9 @@
   ],
   "Bd6dOf": [
     "Visam laikui uždaryti savo paskyrą."
+  ],
+  "BdIVB+": [
+    "Pakelk savo YouTube patirtį į aukštesnį lygį su Premium"
   ],
   "BdQTfR": [
     "Domina dar ",
@@ -34872,6 +35162,9 @@
   ],
   "BhWgyQ": [
     "Įvesk slaptažodį, kad peržiūrėtum atsarginių kopijų kodus."
+  ],
+  "BhYGtj": [
+    "Ekrano bendrinimo plėtinys"
   ],
   "BhjXCp": [
     "Naršyti parduotuvėje"
@@ -36385,6 +36678,9 @@
   "CFF2vL": [
     "Atsegti Pranešimą"
   ],
+  "CFfUkp": [
+    "Gauk daugiau Orbs su Nitro"
+  ],
   "CFzDOG": [
     "Naudoti serverio temą"
   ],
@@ -36846,6 +37142,9 @@
   ],
   "CU+6oJ": [
     "Paspausk ENTER, kad būtų ieškoma"
+  ],
+  "CUAKSg": [
+    "Juodraštis – nepublikuota"
   ],
   "CUBxDB": [
     "DNS įrašo sukūrimas gali užtrukti keletą minučių."
@@ -37476,6 +37775,9 @@
   "Cm4aDQ": [
     "Transliacija atskirame lange"
   ],
+  "CmLD50": [
+    "Transliuok lyg būtumėte kambaryje"
+  ],
   "CmSHYx": [
     "Ieškoti draugų"
   ],
@@ -37649,6 +37951,9 @@
   ],
   "CuZPea": [
     "Pašto indeksas negalioja"
+  ],
+  "CubeLC": [
+    "Eiti į šį puslapį"
   ],
   "CueiPY": [
     "Puiku!"
@@ -38161,6 +38466,9 @@
   "D6x8Nr": [
     "Nariams leidžiama siųsti teksto vertimo į kalbą žinutes, pradedant žinutę /tts. Šias žinutes gali girdėti visi, kurie yra šiame kanale."
   ],
+  "D7+kY/": [
+    "Peržiūrėti"
+  ],
   "D72Dlt": [
     "Pritaikyk Discord savo poreikiams su Nitro"
   ],
@@ -38496,6 +38804,9 @@
   ],
   "DH2o6R": [
     "Spustelėk, kad išjungtum pradinio autoriaus pakibinimą."
+  ],
+  "DHLE0q": [
+    "Bendrauk su visa bendruomene"
   ],
   "DHWKJS": [
     "Atmesti visus pokyčius ir šalinti šį lygį."
@@ -40465,6 +40776,13 @@
   "EDYbS+": [
     "O ne, atnaujinant šią žinučių užklausą iškilo problema. Šiek tiek palauk ir bandyk dar kartą."
   ],
+  "EDmwVf": [
+    "Teksto perdanga: ",
+    [
+      1,
+      "text"
+    ]
+  ],
   "EE+P0H": [
     "Kviesti į balso kanalą"
   ],
@@ -40629,6 +40947,9 @@
   ],
   "EKoHta": [
     "Iš anksto užsisakyti žaidimą"
+  ],
+  "EL3rU4": [
+    "Gauti nemokamai"
   ],
   "EL4Lhs": [
     "Žymes dėk čia."
@@ -43040,6 +43361,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Pasirink programėlę žinutėms tikrinti"
+  ],
   "FKYNC6": [
     "Nitro Mėnesio Prenumerata"
   ],
@@ -43194,6 +43518,22 @@
   ],
   "FO0AIS": [
     "Sužinoti daugiau"
+  ],
+  "FO4faL": [
+    "Dabar su Nitro gaunamas pradinis Xbox Game Pass leidimas. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "FOYn8U": [
     "Redaguoti jaustuką"
@@ -43939,6 +44279,9 @@
   "FlNoSV": [
     "Vaizdo skambutis"
   ],
+  "FlY+Rz": [
+    "Kas yra Discord?"
+  ],
   "FlcC+3": [
     "Programėlė pašalinama iš šio serverio"
   ],
@@ -44094,6 +44437,9 @@
   ],
   "FrOFSo": [
     "Išjungti monetizavimą"
+  ],
+  "Fs74z9": [
+    "Aktyvinimas vyksta. Procesas gali užtrukti iki 1 val., kol bus matomas čia."
   ],
   "Fs96LO": [
     "Pakeitei numatytuosius bendrinimo nustatymus į ",
@@ -44334,6 +44680,9 @@
   "FzgQna": [
     "Draugams ir visiems serveriams"
   ],
+  "Fzi4HX": [
+    "Įkelti failų pavadinimus, dydį ir laiko žymas iš programėlių saugyklos į derinimo žurnalus, kad būtų galima peržiūrėti saugyklos naudojimą."
+  ],
   "FzjizJ": [
     "Tinkink savo profilį"
   ],
@@ -44440,7 +44789,7 @@
     ]
   ],
   "G00RI5": [
-    "Įjungtas"
+    "Įjungta"
   ],
   "G08MKu": [
     "Nebematyk jo (-s) žinučių"
@@ -46043,6 +46392,9 @@
   ],
   "GYpoAq": [
     "Suaugusiųjų seksualinė medija"
+  ],
+  "GZWBoL": [
+    "Sutaupyk iki 20 % Parduotuvėje"
   ],
   "GZa4J0": [
     "Ši programėlė nepasiekiama."
@@ -47655,6 +48007,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Saugyklos diagnostika įkelta."
+  ],
   "H9Jxp6": [
     "Pridėk iki ",
     [
@@ -47711,7 +48066,7 @@
     "Tavo žaidimo serveris paruoštas! Gali jį bet kada tvarkyti Parduotuvės skirtuke „Žaidimų serveriai“."
   ],
   "HACucK": [
-    "Už turimus Orbs gali ką nors įsigyti Parduotuvėje!"
+    "Jau turi tiek, kad galėtum ką nors įsigyti Parduotuvėje."
   ],
   "HADQ6n": [
     [
@@ -47815,6 +48170,9 @@
   ],
   "HC8uSZ": [
     "Išjungta prenumeratos lygmenis paskelbusių serverių savininkams / administratoriams"
+  ],
+  "HCJKFl": [
+    "Dabar su Nitro gausi pradinį Xbox Game Pass leidimą. Eime žaisti."
   ],
   "HCgxTd": [
     "Nebendrinama"
@@ -48126,6 +48484,9 @@
     ],
     ")"
   ],
+  "HINTfJ": [
+    "Žiūrėti pasiūlymus"
+  ],
   "HITUcR": [
     "Nutildyti"
   ],
@@ -48218,6 +48579,9 @@
   ],
   "HNo5cG": [
     "Pasirink vaizdą"
+  ],
+  "HNqvOh": [
+    "Išvalyti naršyklės duomenis"
   ],
   "HO/lY5": [
     "Programėlė (atskleidžiamas turinys)"
@@ -48461,6 +48825,9 @@
   ],
   "HTJ76H": [
     "Kodai nesutampa"
+  ],
+  "HTsycG": [
+    "Gauk Xbox Game Pass ir dar daugiau su Nitro"
   ],
   "HTvLGu": [
     "Palengvink savo serverio prieigą prie aukštos kokybės vaizdo transliacijų, kuriomis džiaugsis visi."
@@ -48735,6 +49102,9 @@
   "HZPBOd": [
     "Įvesk Discord autentifikavimo Kodą"
   ],
+  "HZPns7": [
+    "Rodyti Server Hub nustatymus"
+  ],
   "HZbmO+": [
     "Minecraft"
   ],
@@ -49004,6 +49374,22 @@
   "Hgdhwb": [
     "Ar tikrai nori išeiti? Turi neišsaugotų produkto pakeitimų, kurie gali būti prarasti, jei dabar išeisi."
   ],
+  "Hgo1xT": [
+    "Naujas Nitro apdovanojimas! Gauk 20 % nuolaidą kitiems 6 YouTube Premium mėnesiams. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
+  ],
   "HhfrYS": [
     "Žaisk ",
     [
@@ -49111,6 +49497,9 @@
         ]
       ]
     ]
+  ],
+  "HlVJm0": [
+    "Atsiimk naujuosius pranašumus"
   ],
   "Hlk/kJ": [
     "Išbandyti animuotą pseudoportretą"
@@ -49633,6 +50022,9 @@
   "I+Cbum": [
     "Užblokuoti vartotoją"
   ],
+  "I+IXr0": [
+    "50+ žaidimų, 10 valandų žaidimo debesyje per mėnesį ir iki 25 $ apdovanojimų. Eime žaisti."
+  ],
   "I+eHql": [
     [
       6,
@@ -49763,7 +50155,7 @@
     " mūsų sąskaita"
   ],
   "I1h8uD": [
-    "Susipažink su Autoclips"
+    "Atrask savo automatinius klipus"
   ],
   "I1nKfO": [
     "Papasakok, ką manai apie saugumą Discord platformoje."
@@ -51415,6 +51807,14 @@
   "Ifb6XJ": [
     "Siųsti super reakciją"
   ],
+  "Ifgxdy": [
+    "Kvietimas galioja dar ",
+    [
+      2,
+      "numHours"
+    ],
+    " val."
+  ],
   "IfqUEM": [
     "Moderatorius"
   ],
@@ -51446,6 +51846,23 @@
   ],
   "Igv+LS": [
     "Žiūrėti išsamius jaustuko duomenis"
+  ],
+  "Igwax6": [
+    "Šriftas ",
+    [
+      1,
+      "fontName"
+    ],
+    ", efektas ",
+    [
+      1,
+      "effectName"
+    ],
+    ", ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -52042,6 +52459,9 @@
   "ItfIa5": [
     "Beveik viskas, kas yra Nitro, plius"
   ],
+  "IthhpG": [
+    "Xbox Game Pass laukia tavęs"
+  ],
   "ItpQxk": [
     "Dalytis bandomuoju laikotarpiu"
   ],
@@ -52318,6 +52738,9 @@
   ],
   "IyUi6q": [
     "Atkreipk kitų dėmesį kiekviename serveryje, kiekvienoje AŽ ir visur, kur žmonės mato tavo profilį."
+  ],
+  "IyXIFu": [
+    "Išvalomas programėlės naršyklės podėlis, slapukai ir svetainių duomenys. Gali būti, kad bus atsijungta nuo svetainių."
   ],
   "IyYqqY": [
     "Prisijungta prie kito kliento"
@@ -53215,6 +53638,9 @@
   "JM7Y2D": [
     "Balso žinutės įrašymas sustabdytas, nes Discord buvo neaktyvus."
   ],
+  "JMWqry": [
+    "Prisijungti prie pokalbio"
+  ],
   "JMbfnc": [
     "Taip ir toliau!"
   ],
@@ -53879,6 +54305,9 @@
   "JhDw5o": [
     "Grįžti į prisijungimą"
   ],
+  "JhE8nA": [
+    "Su Nitro sutaupysi iki 20 % nuo Parduotuvės pirkinių. Prenumeruok ir gauk nuolaidą, tinkintus profilius ir kt."
+  ],
   "JhNpgy": [
     "Pasirinktos spalvos"
   ],
@@ -53948,9 +54377,6 @@
   ],
   "JkKNss": [
     "Pix Automático"
-  ],
-  "Jkx0sf": [
-    "Gauk žaidimo serverį už mažiau"
   ],
   "JkyCIO": [
     "Tęsk misiją!"
@@ -54350,6 +54776,9 @@
   "JzaP4h": [
     "AŽ brukalo filtras"
   ],
+  "JzbSEY": [
+    "Paminėjimai + neskaityta"
+  ],
   "Jzd+z/": [
     "Pasirink pavadinimą naujam raktui"
   ],
@@ -54411,6 +54840,9 @@
   ],
   "K0e7M9": [
     "Kartoti vaizdo įrašą"
+  ],
+  "K1URjQ": [
+    "Tvarkyk savo Server Hub nustatymus."
   ],
   "K1gWXn": [
     "Ar tavo mikrofonas prašmatnus ir pats slopina triukšmą? Tuo atveju gali išjungti raudoną įspėjimą spausdamas\nmažytį užrašą apačioje."
@@ -54752,6 +55184,21 @@
   "KD6OJJ": [
     "Naudotojas"
   ],
+  "KDKdWi": [
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos ir tinkamumo taisyklės."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "KDPFi9": [
     "Šis renginys prasidės, kai ateis jo laikas."
   ],
@@ -54818,6 +55265,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Pakeisk mėgstamų garsų tvarką!"
   ],
   "KG/ynf": [
     "Ups"
@@ -56192,7 +56642,7 @@
     ]
   ],
   "KmK3q4": [
-    "Sukurti pakvietimo nuorodą"
+    "Sukurti kvietimo nuorodą"
   ],
   "KmRwcW": [
     "Tęsti"
@@ -56262,6 +56712,9 @@
       1,
       "appName"
     ]
+  ],
+  "KoKwMn": [
+    "Nuolaidos kas mėnesį didumai Logitech G įrangos. Kai kam taikomos išimtys."
   ],
   "KoQe/G": [
     "Nariams leidžiama keisti šio serverio pavadinimą, sukeisti regionus, peržiūrėti visus kvietimus, į šį serverį įtraukti programėlių ir atnaujinti AutoMod taisykles."
@@ -56698,6 +57151,9 @@
   ],
   "L/PwZf": [
     "Nuoroda nukopijuota!"
+  ],
+  "L/aQij": [
+    "Nepavyko įkelti saugyklos diagnostikos. Pabandyk dar kartą."
   ],
   "L/hFOe": [
     "Peržiūrėti derinimo žurnalų aplanką"
@@ -57437,6 +57893,9 @@
   "LIZgwJ": [
     "Serverių atradimą gali išjungti tik serverio administratoriai"
   ],
+  "LIc2xy": [
+    "Atsiimk Xbox Game Pass dabar"
+  ],
   "LIwUT2": [
     "Atsiuntė žinutę atskleidžiamojo turinio kanale"
   ],
@@ -57731,6 +58190,9 @@
   "LSNOYf": [
     "Jokios programėlės ar komandos neatitiko tavo paieškos"
   ],
+  "LSoXK5": [
+    "(Neprivaloma) Noriu gauti el. laiškus su Discord naujienomis, patarimais ir specialiais pasiūlymais. Stebime, ką atidarai ir spusteli, kad žinotume, kas tau naudinga."
+  ],
   "LT5TnZ": [
     "Per"
   ],
@@ -57941,9 +58403,6 @@
   ],
   "LZA6Na": [
     "tylus mokymasis"
-  ],
-  "LZO+Hd": [
-    "Susisiek su mumis"
   ],
   "LZunzZ": [
     "Patvirtink atšaukimą"
@@ -58663,6 +59122,13 @@
   "Ls2XRq": [
     "Siųsti tau asmenines žinutes"
   ],
+  "LsJ9hj": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaida Logitech įrangai"
+  ],
   "LsLNuw": [
     "Įjungti įspėjimus"
   ],
@@ -59227,6 +59693,9 @@
   ],
   "M4XL5n": [
     "Iškart neteksi tinkintos pakvietimo URL."
+  ],
+  "M4qsJL": [
+    "Rodomo vardo stilius"
   ],
   "M54uv3": [
     "Yra daugiau bendruomenių!"
@@ -60311,6 +60780,9 @@
   ],
   "MUwOvc": [
     "Pranešimai išjungti"
+  ],
+  "MUypiB": [
+    "50+ žaidimų, pvz., Stardew Valley ir Fallout 4"
   ],
   "MV4DPe": [
     "Parsisiuntimas negalimas — Discord reikalinga prieiga prie saugyklos norint parsisiųsti failus."
@@ -61691,9 +62163,6 @@
   "N2c/Un": [
     "Pažymėti kaip mėgstamiausią"
   ],
-  "N2mHaK": [
-    "su mūsų Trust and Safety komanda"
-  ],
   "N2mILu": [
     "Nepavyko paleisti ",
     [
@@ -62494,6 +62963,23 @@
   "NK9aT1": [
     "Įjungti pranešimus apie super reakcijas"
   ],
+  "NKTF0a": [
+    "50+ žaidimų, 10 valandų žaidimo debesyje per mėnesį ir iki 25 $ apdovanojimų. Eime žaisti. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos ir tinkamumo taisyklės"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "NKV/MO": [
     "Prisegti programėlę"
   ],
@@ -63263,6 +63749,9 @@
   "NaZyYC": [
     "Pranešimai"
   ],
+  "Nb1EQx": [
+    "Matai tik tu"
+  ],
   "Nb2/RE": [
     "Nauja gija"
   ],
@@ -63816,12 +64305,12 @@
     ". Jei jis tau labai patinka, gali jį turėti dar ilgiau su Nitro."
   ],
   "NpUfej": [
-    "Dabar tavo misijų laimėjimai tampa megalaimėjimais Orbs apdovanojimuose su daugikliu x",
+    "Dabar prenumeravus Nitro tavo misijų laimėjimai tampa megalaimėjimais su x",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "."
+    " apdovanojimų daugikliu. Atšauk bet kada"
   ],
   "NpchGq": [
     "Kas domina"
@@ -64124,6 +64613,9 @@
   ],
   "Nwj9v0": [
     "Per praeitus metus"
+  ],
+  "NwkRTZ": [
+    "Dabar su Nitro gauni Xbox Game Pass (pradinis leidimas). Šok į traukinį."
   ],
   "NxHYX/": [
     "Tavo Discord klientas nepalaiko tokio tipo žinučių. Atnaujink jį, kad galėtum peržiūrėti žinutę."
@@ -64630,6 +65122,9 @@
   ],
   "OBr7Cw": [
     "Kanalo nustatymai"
+  ],
+  "OBskVU": [
+    "Server Hub nustatymai"
   ],
   "OBuzJr": [
     "Surinkusiam (-ai) daugiausia pergalių uždedama karūna."
@@ -65548,6 +66043,9 @@
   "OZRgjw": [
     "Kokia problema?"
   ],
+  "OZj923": [
+    "Žinok, kuo jie kvėpuoja, ir kartu smagiai leiskite laiką."
+  ],
   "Oa//IE": [
     "Turi kurio nors pasirinkto tipo duomenų"
   ],
@@ -66101,6 +66599,9 @@
   "OlOHDH": [
     "Kalbos"
   ],
+  "OlObRa": [
+    "Atsinaujink už mažiau"
+  ],
   "Olc2K3": [
     "Grįžti į nustatymus"
   ],
@@ -66304,6 +66805,9 @@
       "cardinal"
     ],
     "."
+  ],
+  "OpOEmk": [
+    "Xbox Game Pass (pradinis leidimas)"
   ],
   "OpV87U": [
     "Patvirtinimo lygis: ",
@@ -66900,6 +67404,9 @@
     ],
     " mėn."
   ],
+  "P/1x7s": [
+    "Nuvilk mėgstamus garsus ir sudėliok pageidaujama tvarka."
+  ],
   "P/KFXz": [
     "Atkreipiame dėmesį, kad šioje scenoje yra tavo užblokuotų ar ignoruojamų žmonių."
   ],
@@ -67047,6 +67554,9 @@
         "Sustiprinai serverį."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Šešėlio spalva"
   ],
   "P5keo3": [
     "Skrynia"
@@ -67363,6 +67873,13 @@
   ],
   "PEzffq": [
     "Nėra"
+  ],
+  "PF1aT5": [
+    [
+      1,
+      "discountPercentage"
+    ],
+    " % nuolaida Logitech G įrangai"
   ],
   "PF7mP3": [
     "Sutinku su ",
@@ -68657,6 +69174,9 @@
   "PlwgdU": [
     "Perkelti pokalbį balsu į šį įrenginį"
   ],
+  "Plwzgf": [
+    "Tvarkyti"
+  ],
   "PmG5cv": [
     "Somalis"
   ],
@@ -69130,6 +69650,9 @@
   "Q+YV/T": [
     "Perjungti gautų žinučių iškylančiuosius pranešimus"
   ],
+  "Q+dH5r": [
+    "Nauja išvaizda – nauji iššūkiai"
+  ],
   "Q+fhfv": [
     "Įjungti triukšmo slopinimą"
   ],
@@ -69166,6 +69689,9 @@
   ],
   "Q03WWV": [
     "Būtinas veiksmas"
+  ],
+  "Q0A42h": [
+    "SteelSeries nuolaidos kiekvieną mėnesį"
   ],
   "Q0EMOP": [
     "Vietos Discord platformoje, kur 2025 metais jauteisi kaip namie."
@@ -69227,6 +69753,9 @@
   ],
   "Q158Xe": [
     "Pasilik šį nemokamą papuošimą, nupirkdamas (-a) dovaną!"
+  ],
+  "Q15RXC": [
+    "Įsigyk Nitro ir gauk Xbox Game Pass"
   ],
   "Q18lRK": [
     [
@@ -69758,6 +70287,9 @@
   "QHHwRR": [
     "Patvirtinta"
   ],
+  "QHrFo6": [
+    "Negali persiųsti žinučių į šį kanalą, ribojamą pagal amžių."
+  ],
   "QHvDTL": [
     "Proporcijų fiksavimas"
   ],
@@ -70085,6 +70617,9 @@
   ],
   "QOs3XA": [
     "Norime rekomenduoti Discord naudotojams tik aktyvius serverius, todėl serveriai atradimo sąraše turi pasiekti minimalų aktyvumo lygį."
+  ],
+  "QP/6xR": [
+    "Su Nitro gausi daugiau Orbs"
   ],
   "QP5W1R": [
     [
@@ -70903,6 +71438,9 @@
   ],
   "Qnf32C": [
     "Visą mano profilį rodyti"
+  ],
+  "Qno0jg": [
+    "Dar nepelnei jokių ženklelių"
   ],
   "QntEEG": [
     "Pakeisk pokalbių žinučių išvaizdą."
@@ -71759,6 +72297,9 @@
   "R7VMEE": [
     "Praeiti metai"
   ],
+  "R7YJAY": [
+    "Pasirinktų žaidimų iš Xbox bibliotekos žaidimas debesyje"
+  ],
   "R7mv+G": [
     "Luktelk, nuotykių ieškotojau (-a)! Greitai bus naujų misijų."
   ],
@@ -72134,6 +72675,9 @@
   ],
   "RGKlM0": [
     "Gauti Basic"
+  ],
+  "RGT513": [
+    "Xbox Game Pass laukia tavęs"
   ],
   "RGa/Gb": [
     "Šio pranešimo negalima prašyti peržiūrėti."
@@ -73126,6 +73670,9 @@
   "RfkLDs": [
     "Naujas kodas po:"
   ],
+  "RgDY7v": [
+    "Peržiūrėti serverį"
+  ],
   "RgIi2B": [
     "Apklausa"
   ],
@@ -73947,6 +74494,9 @@
   ],
   "S0H8in": [
     "Priminimai pristabdyti"
+  ],
+  "S0ODmT": [
+    "Vaizdo nustatymai"
   ],
   "S0W8Z5": [
     "Prisijungti"
@@ -76240,6 +76790,9 @@
   "Str6/o": [
     "Ieškojau konkrečios žinutės ir tiksliai žinojau jos tekstą"
   ],
+  "StrErG": [
+    "Tavo žinutė pašalinta"
+  ],
   "Su1Zkt": [
     "Sveiki, Android naudojantys bičiuliai,"
   ],
@@ -76410,6 +76963,23 @@
   ],
   "SzGV0g": [
     "Šie pažeidimai nebedaro įtakos tavo paskyros būsenai."
+  ],
+  "SzOYGc": [
+    "Prenumeruok Nitro ir gauk Xbox Game Pass (pradinį leidimą), įrangos pasiūlymų, naujų Orbs pranašumų ir dar daug ko kito. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "SzUaZ1": [
     [
@@ -77264,6 +77834,9 @@
     ],
     ", kad gautum elementą."
   ],
+  "TNS24d": [
+    "Peržiūrėk Nitro pranašumus"
+  ],
   "TNamrx": [
     "Pridėti pavadinimą"
   ],
@@ -77693,6 +78266,30 @@
       "pendingIgnored"
     ],
     " iš ignoruojamų paskyrų"
+  ],
+  "TWtV8E": [
+    [
+      8,
+      "defaultPriceHook",
+      [
+        [
+          1,
+          "defaultPrice"
+        ]
+      ]
+    ],
+    " ",
+    [
+      8,
+      "premiumPriceHook",
+      [
+        [
+          1,
+          "premiumPrice"
+        ]
+      ]
+    ],
+    " su Nitro"
   ],
   "TWuDTt": [
     "Pridėk į mėgstamiausius daugiau elementų"
@@ -80210,6 +80807,9 @@
     ],
     "?"
   ],
+  "UVL9tD": [
+    "Xbox Game Pass"
+  ],
   "UVXL1R": [
     "Beta kanalai leidžia naudotojams nemokamai pareikalauti išbandyti žaidimo šakas. ",
     [
@@ -81551,6 +82151,9 @@
   "V+IE93": [
     "Junkis prie Nitro ir gauk prieigą prie šios vardo lentelės!"
   ],
+  "V+Iv+U": [
+    "Pasirink programėlę"
+  ],
   "V+Pwy9": [
     "Šiaurės Korėja"
   ],
@@ -81720,6 +82323,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Pranešimų paslaugos plėtinys"
   ],
   "V4UDY1": [
     "Paprašyk draugų, kad pakviestų tave prisijungti prie jų serverių, kur galėsite leisti laiką ir kalbėtis."
@@ -82564,6 +83170,9 @@
   "VQ5Xo9": [
     "Portugalų (Brazilija) k."
   ],
+  "VQKK5O": [
+    "Sistemos saugyklos momentinė nuotrauka"
+  ],
   "VQOSXq": [
     "Kai priimsi, turėsi ",
     [
@@ -82668,6 +83277,9 @@
       "price"
     ],
     " / mėn. kiekvienam"
+  ],
+  "VSunuT": [
+    "Įkelti saugyklos diagnostiką"
   ],
   "VT02mI": [
     "Dar neturi ženklelių. Peržiūrėk ženklelius, kuriuos gali pelnyti."
@@ -83873,6 +84485,9 @@
   "VxBO2F": [
     "Profilio atnaujinimai"
   ],
+  "VxE3o6": [
+    "Programėlės moderavimo taisyklė"
+  ],
   "VxN3Lo": [
     "AutoMod nutildyti"
   ],
@@ -84266,6 +84881,23 @@
       "cardinal"
     ],
     ". Šis valdiklis nebus matomas tavo profilyje, kol nepridėsi bent 1 žaidimo."
+  ],
+  "W8jOD0": [
+    "Vienas kodas vienam pirkimui. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "W9DVVf": [
     "Greit siųsk žinutes draugams, kurie taip pat žaidžia, kai žaidimas paleidžiamas"
@@ -85159,6 +85791,9 @@
   "WVbpcy": [
     "Pridėk aprašą"
   ],
+  "WViBDk": [
+    "Stebime el. laiškų atidarymus ir spustelėjimus, kad matytume, kas naudinga, ir pagerintume siunčiamus el. laiškus."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -85772,9 +86407,6 @@
   "Wgpwpp": [
     "bendra"
   ],
-  "WhPKFP": [
-    "Daugumai žaidimo serverių dabar reikia mažiau stiprinimų."
-  ],
   "WhR38i": [
     "Kviesk draugus jungtis prie tavo mokyklos ar universiteto Student Hub serverio"
   ],
@@ -85861,6 +86493,9 @@
   ],
   "WjNAAA": [
     "Neturi prieigos prašomai veiklai paleisti"
+  ],
+  "WjOclf": [
+    "Sutaupyk iki 20 % nuo visko, ką įsigyji Parduotuvėje, ir gauk išskirtinių elementų. Tik su Nitro."
   ],
   "WjcnZD": [
     "Širdelės ženklelis"
@@ -85998,6 +86633,9 @@
   ],
   "WlWSBT": [
     "Siųsti balso žinutes"
+  ],
+  "Wm58LR": [
+    "Vienkartinės nuolaidos"
   ],
   "WmagiB": [
     "Visi tavo serverio kanalai bus neprieinami ne prenumeratoriams."
@@ -86222,6 +86860,9 @@
   "Wrg9Jn": [
     "Išjungė taisyklę"
   ],
+  "WrleYK": [
+    "Įjungti taisyklę"
+  ],
   "Wrvb3V": [
     "Prenumeratos pranašumai"
   ],
@@ -86327,6 +86968,9 @@
   ],
   "Wv7HLS": [
     "Šviežiena – specialiai tau"
+  ],
+  "WvAqZA": [
+    "Pelnei nemokamą papuošimą"
   ],
   "Wvc/I+": [
     "Labas rytas,"
@@ -88017,6 +88661,9 @@
   "XcGEcs": [
     "Šiame žaidime perdanga neprieinama."
   ],
+  "XcOMLu": [
+    "Sutaupyk naujai išvaizdai"
+  ],
   "XcPHfw": [
     "Baigti"
   ],
@@ -89626,6 +90273,9 @@
   "YCCMkJ": [
     "Prieš perjungiant į kitą balso kanalą rodomas patvirtinimo iššokantysis langas."
   ],
+  "YCIfhC": [
+    "Discord – nemokama programėlė, skirta bendrauti, transliuoti ir šiaip leisti laiką"
+  ],
   "YCZldK": [
     "Gauk visą pranašumų pasaulį su Nitro"
   ],
@@ -89910,6 +90560,9 @@
   ],
   "YK+wUg": [
     "PC"
+  ],
+  "YKJw4W": [
+    "Dabar stebėti ir pelnyti Orbs yra lengviau."
   ],
   "YKVlC7": [
     "Šiuo metu suprastėjusi tavo vaizdo transliacijos kokybė. Taip gali būti dėl interneto tinklo sąlygų."
@@ -90493,6 +91146,9 @@
   "YZookV": [
     "Numatytieji kanalai ir klausimai prieš prisijungimą"
   ],
+  "YZqqTX": [
+    "Siųsti žinutes iš Whiteboard"
+  ],
   "YaW9wI": [
     "Stiprink savo serverį iki ",
     [
@@ -90853,6 +91509,9 @@
   ],
   "Yl1D84": [
     "Išjungta"
+  ],
+  "Yl5ww1": [
+    "Galioja visiems Logitech G produktams, išskyrus naujus produktus ir PRO serijos įrangą."
   ],
   "Yl8E4h": [
     "Perkelti aukštyn"
@@ -91790,6 +92449,9 @@
   "Z2CUgn": [
     "Keisti į asmeninę žinutę"
   ],
+  "Z2Ipu/": [
+    "Pašalinti"
+  ],
   "Z2L8V2": [
     "Peržiūrėta"
   ],
@@ -91920,6 +92582,9 @@
   "Z3Vn/X": [
     "Kokį turi beprasmiškiausią talentą?"
   ],
+  "Z3uXLR": [
+    "Intarpo kūrimas"
+  ],
   "Z43V9S": [
     "Šalinti tinkintą vaizdą: ",
     [
@@ -92041,6 +92706,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Lengvai įsitrauk į balso ar tekstinių pokalbių kanalus ir iš jų išeik"
   ],
   "Z74GUL": [
     "Prenumeruodamas (-a) gausi ",
@@ -92357,6 +93025,28 @@
   ],
   "ZGKm3p": [
     "Sveikiname su nauju prenumeratoriaus pasiekimu!"
+  ],
+  "ZGOJ8R": [
+    "Atsiimk ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaidą Logitech G įrangai kas mėnesį, taip pat gauk vienkartinių nuolaidą PRO serijos simuliacinei įrangai ir naujiems produktams. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "ZGVL3g": [
     [
@@ -93920,7 +94610,7 @@
     "Spustelėti ir pamatyti atskleidžiamą turinį"
   ],
   "ZqCAos": [
-    "Pelnyk Orbs greičiau"
+    "Gauk daugiau Orbs"
   ],
   "ZqK0uI": [
     "Iššokantysis langas"
@@ -94014,6 +94704,9 @@
   ],
   "Zs9h9Z": [
     "Stiprink mėgstamiausius serverius"
+  ],
+  "ZsAL7q": [
+    "Slėpti draugų sąrašą"
   ],
   "ZsO1Sx": [
     "Tavo pokalbių pranašumai ir stiprinimo nuolaidos prenumeratai už ",
@@ -94333,6 +95026,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Sukurti giją"
   ],
   "ZxNVMy": [
     "Pabandyk kitokią paiešką arba ",
@@ -95757,7 +96453,7 @@
     "Vengrijos forintas"
   ],
   "abaDI+": [
-    "Vieta tau ir tavo draugams"
+    "Sukurk vietą sau ir savo draugams"
   ],
   "abacus": [
     "skaičiavimas",
@@ -96616,6 +97312,9 @@
     ],
     "."
   ],
+  "ar2OUZ": [
+    "To vaizdo failas per didelis."
+  ],
   "ar3a3q": [
     "Tavo pateikiama informacija naudojama tik tavo amžiaus grupei nustatyti, vėliau ji ištrinama."
   ],
@@ -97422,6 +98121,9 @@
   "b1JC+l": [
     "Paskutinis veiksmas!"
   ],
+  "b1X5Jf": [
+    "Iki 25 $ per metus apdovanojimų Parduotuvėje"
+  ],
   "b2+FCc": [
     "bendrabučio naujienos"
   ],
@@ -98205,6 +98907,9 @@
   "bOQ3jV": [
     "Tavo balsas buvo atjungtas, nes prisijungei kitoje vietoje."
   ],
+  "bOf5IH": [
+    "Gauk Xbox Game Pass ir dar daugiau su Nitro"
+  ],
   "bOu6Wn": [
     "Tavo renginys prasideda serveryje ",
     [
@@ -98427,6 +99132,9 @@
   "bVbB63": [
     "Pasirinkti paskyrą"
   ],
+  "bVwQhX": [
+    "Pašalinti"
+  ],
   "bW+JCW": [
     [
       1,
@@ -98576,6 +99284,9 @@
   ],
   "bZBN64": [
     "Programa"
+  ],
+  "bZLaD+": [
+    "Gauti apdovanojimų"
   ],
   "bZY171": [
     "Išsaugoti"
@@ -99782,6 +100493,9 @@
   "bpghV6": [
     "gal ką domintų aram"
   ],
+  "bpksos": [
+    "Ištyrinėk 50+ žaidimų, iš kurių Stardew Valley ir Fallout 4"
+  ],
   "bpycfA": [
     "Vilk jaustukus, kad juos įkeltum."
   ],
@@ -99913,6 +100627,22 @@
   ],
   "bs+W8E": [
     "Vis dar yra laukiančių narių, kurie neįveikė tavo atrankos."
+  ],
+  "bsMVNi": [
+    "Gauk 50+ žaidimų, 10 valandų žaidimo debesyje per mėnesį ir daug daugiau. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "bsbMVz": [
     "Atsieti"
@@ -101110,6 +101840,9 @@
   "cHszXg": [
     "Pridėti narių"
   ],
+  "cHxSwT": [
+    "Dalis saugyklos diagnostikos nepavyko. Kai kurių failų nepavyko įtraukti į sąrašą arba pasiektas nuskaitymo limitas."
+  ],
   "cHzQ2O": [
     "Skųsti karantino įvedimą"
   ],
@@ -101296,6 +102029,26 @@
   ],
   "cM8bbx": [
     "Gauti Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gavai išskirtinį apdovanojimą"
+        ],
+        "other": [
+          "Gavai visus išskirtinius apdovanojimus (",
+          [
+            7
+          ],
+          ")"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Rėmeliai – tai profilio apvadai, pagerinantys jo išvaizdą. Nitro nariai gauna išankstinę prieigą. Rask savo rėmelį Parduotuvėje."
@@ -101499,6 +102252,37 @@
   ],
   "cSb7U0": [
     "Išjungti Šeimos skyrių"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pasirinktas ",
+          [
+            7
+          ],
+          " klipas"
+        ],
+        "few": [
+          "Pasirinkti ",
+          [
+            7
+          ],
+          " klipai"
+        ],
+        "other": [
+          "Pasirinkta ",
+          [
+            7
+          ],
+          " klipų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Paliesk du kartus, kad peržiūrėtum profilį"
@@ -102200,6 +102984,9 @@
   ],
   "cfeFEt": [
     "Nepavyko apmokėti"
+  ],
+  "cfrfyZ": [
+    "Rodyti pasiūlymą, kai Discord aptinka naują garso įrenginį."
   ],
   "cfu/5d": [
     "Nitro metinė prenumerata"
@@ -104654,6 +105441,23 @@
       "channelName"
     ]
   ],
+  "dHQQvk": [
+    "Įsigyk Nitro ir žaisk 50+ kompiuterinių ir konsolės žaidimų su Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos ir tinkamumo taisyklės"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "dHvJ2p": [
     "Suplanuotas įvykis"
   ],
@@ -105536,6 +106340,9 @@
   ],
   "dcK4Ch": [
     "Tai gali pasikeisti vėliau."
+  ],
+  "dcOuei": [
+    "Peržiūrėti iššūkius"
   ],
   "dcSDhW": [
     "Privalai turėti ",
@@ -108483,6 +109290,9 @@
   "ebojgD": [
     "Taip, įskaičiuokite ir mane!"
   ],
+  "ec5Rdd": [
+    "10 valandų žaidimo debesyje kas mėnesį"
+  ],
   "ecTJkR": [
     "Profilio rėmeliai"
   ],
@@ -108574,7 +109384,7 @@
     "Kanados doleris"
   ],
   "efLpNC": [
-    "Tavo svarbiausios ir įdomiausios akimirkos"
+    "svarbiausios ir įdomiausios akimirkos"
   ],
   "efLzgX": [
     "Galiojimo trukmė arba naujų narių, kurie gali prisijungti prieš pasibaigiant šio kvietimo galiojimo laikui, skaičius."
@@ -109202,6 +110012,35 @@
   "euXi0Q": [
     "Tu peržiūri asmens, norinčio prisijungti prie tavo serverio, paraišką. Kol šio asmens nepatvirtinsi, jis negalės prisijungti prie serverio arba bendrauti jame."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " serveris"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " serveriai"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " serverių"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " turi tinkintus nustatymus"
+  ],
   "euizJY": [
     [
       1,
@@ -109251,6 +110090,13 @@
   ],
   "eutr4P": [
     "Šiek tiek papasakok apie save"
+  ],
+  "evGwDW": [
+    "Juodraštis – suplanuota publikuoti ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Žinučių užklausos – ",
@@ -109903,6 +110749,9 @@
   "fAQ/8h": [
     "Pasirink kanalą, kuriame, tavo manymu, turėtų apsilankyti nauji nariai."
   ],
+  "fAU31r": [
+    "Žaidimams, laiko praleidimui ar, pvz., namų darbams."
+  ],
   "fAW3z4": [
     "Atitikčių nerasta"
   ],
@@ -109934,6 +110783,35 @@
   ],
   "fBsloy": [
     "Oi!"
+  ],
+  "fC4abC": [
+    "Galioja visiems naujiems produktams ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          "pirmąjį mėnesį"
+        ],
+        "few": [
+          "pirmuosius ",
+          [
+            7
+          ],
+          " mėnesius"
+        ],
+        "other": [
+          "pirmuosius ",
+          [
+            7
+          ],
+          " mėnesių"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "fC9qV0": [
     "Atsarginiai kodai"
@@ -111982,6 +112860,9 @@
   "fr5bJy": [
     "Paliesk išvesties perjungiklį, kad perjungtum išvestį į konsolę."
   ],
+  "fr7qnZ": [
+    "Pasirink produktus"
+  ],
   "frCwaT": [
     "Jo (-os) žinutės bus paslėptos"
   ],
@@ -112886,6 +113767,9 @@
   ],
   "gEp2SG": [
     "Ieškoma žaidimų profilių"
+  ],
+  "gF8HJo": [
+    "Garso įrenginių pasiūlymai"
   ],
   "gF8IpD": [
     "Naudotojas, kurį nori išmesti"
@@ -113843,6 +114727,9 @@
       "username"
     ]
   ],
+  "gc2sa/": [
+    "Logitech G nuolaidos kiekvieną mėnesį"
+  ],
   "gc9aSx": [
     "Siųsti prašymą draugauti"
   ],
@@ -114272,6 +115159,9 @@
   ],
   "gn2c6X": [
     "Apie paskyrą pranešta"
+  ],
+  "gn3Poi": [
+    "Sukurk kvietimo nuorodą, su kuria galės prisijungti bet kas, arba pakviesk draugus tiesiogiai."
   ],
   "gn7SZe": [
     "Peržvelk naujausius pseudoportreto papuošimus ir profilio efektus, ir susirink savo mėgstamiausius stilius."
@@ -114772,6 +115662,23 @@
   ],
   "gzXECH": [
     "Šalies telefono kodas"
+  ],
+  "gzazAe": [
+    "Kartu su Nitro dabar gausi Xbox Game Pass ir dar daugiau pranašumų. Griebk ir nedvejok. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "gzhz8w": [
     "Atsiimk savo 1 savaitės Nitro bandomąjį laikotarpį, kol ne vėlu"
@@ -116610,6 +117517,9 @@
   "hcMwDW": [
     "Po tam tikros datos"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Žaibo ženklelis"
   ],
@@ -116677,7 +117587,7 @@
     ")"
   ],
   "heHHUW": [
-    "Paveikslėlis"
+    "Vaizdas"
   ],
   "head_bandage": [
     "skausmas",
@@ -117068,6 +117978,9 @@
   ],
   "hjaYYn": [
     "Papuošimas taikomas"
+  ],
+  "hjlZZf": [
+    "Pakeitimas įsigalios per 24 valandas."
   ],
   "hjvcLO": [
     "Serverio stiprinimai"
@@ -118362,6 +119275,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Pridėti vaizdą"
+  ],
   "iG+nZx": [
     "Įsitikink, kad tavo darbų sąrašo ir išteklių kanaluose nustatyti teisingi leidimai."
   ],
@@ -118988,6 +119904,9 @@
   "iVfA9i": [
     "pačioje dešinėje"
   ],
+  "iVqj8B": [
+    "Klipų pradžios puslapis"
+  ],
   "iVzBOh": [
     "Kopijuoti Nuorodą"
   ],
@@ -119361,6 +120280,33 @@
   ],
   "ibxdrl": [
     "Ieškok žmonių savo serveriuose, kad parašytum žinutę, arba pridėk draugų, kad matytum juos čia."
+  ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Padovanok Nitro ir išsirink nemokamą papuošimą, kurį galėsi pasilikti."
+        ],
+        "few": [
+          "Padovanok Nitro ir išsirink ",
+          [
+            7
+          ],
+          " nemokamus papuošimus, kuriuos galėsi pasilikti."
+        ],
+        "other": [
+          "Padovanok Nitro ir išsirink ",
+          [
+            7
+          ],
+          " nemokamų papuošimų, kuriuos galėsi pasilikti."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "icWQKn": [
     "Gauk Nitro kreditų ir mėgstamiausių Parduotuvės prekių neišleisdamas (-a) nė cento."
@@ -120254,6 +121200,9 @@
   "ivpkNe": [
     "Ačiū, nereikia"
   ],
+  "ivpn6G": [
+    "Griebk ir pasilik nemokamą papuošimą"
+  ],
   "iw0hFi": [
     [
       8,
@@ -120642,6 +121591,9 @@
     ],
     " paskyras"
   ],
+  "j3AKJQ": [
+    "Toks vaizdo formatas nepalaikomas. Pabandyk PNG, JPEG arba WebP."
+  ],
   "j3KOkh": [
     "Pažeidei Discord taisykles ir jei tai pasikartos, gali prarasti savo paskyrą."
   ],
@@ -120981,6 +121933,9 @@
   ],
   "jCOdvx": [
     "Pridėti Žaidimai"
+  ],
+  "jCQlbu": [
+    "Atsisiųsti Discord programėlę"
   ],
   "jCV1Tz": [
     "ALT"
@@ -122231,6 +123186,13 @@
   "jjpcno": [
     "Peržiūrėti nustatymuose"
   ],
+  "jkdhZq": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaida visiems produktams"
+  ],
   "jkg8Zu": [
     "Balso kanalai skirti bendravimui su kitais. Kai norėsi kalbėti, tiesiog užeik. Tavo draugai tave matys ir galės prisijungti. Tai tarsi telepatinis būdas pasisveikinti."
   ],
@@ -123464,6 +124426,9 @@
   ],
   "kHMgaK": [
     "Nuo šiol gali priimti mokėjimus už serverio monetizavimą."
+  ],
+  "kHNeDa": [
+    "Programėlė parenka, kokio veiksmo imtis su kiekviena žinute, įskaitant žinutės blokavimą arba nieko nedarymą."
   ],
   "kHalVA": [
     "Nukopijuok esamo lygio ar vaidmens pranašumus arba kanalų leidimus."
@@ -125274,6 +126239,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Bendrinti visus"
+  ],
   "l3K4B/": [
     "Pamini Vartotoją"
   ],
@@ -125555,6 +126523,35 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Kvietimas galioja dar ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dieną"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " dienas"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dienų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Pridėta seniausiai"
@@ -126437,6 +127434,13 @@
   "lZejCq": [
     "Įtraukti @role paminėjimus"
   ],
+  "lZuIri": [
+    "Vaizdo perdanga: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Nustatymai dėl techninių duomenų, kuriuos Discord pagalba naudoja analizei, rinkimo, pvz., derinimo žurnalų ir garso įrašų"
   ],
@@ -126750,6 +127754,12 @@
   ],
   "lg3Ckc": [
     "Gali naudoti transliavimo režimą, norėdamas paslėpti asmeninius duomenis, kai transliuoji."
+  ],
+  "lgDNyX": [
+    "Rodyti Server Hub skirtuką kanalų sąraše"
+  ],
+  "lgHr73": [
+    "Bendrauk, transliuok, leisk laiką"
   ],
   "lgcisd": [
     "Serveriai, turintys ",
@@ -127329,6 +128339,9 @@
         ]
       ]
     ]
+  ],
+  "lsRjfl": [
+    "Galioja PRO serijos simuliacinei lenktynių įrangai."
   ],
   "lsU63N": [
     "Tavo pastarieji pseudoportretai"
@@ -128501,6 +129514,9 @@
   ],
   "mGsBLV": [
     "Atnaujino Kanalą"
+  ],
+  "mH30Yx": [
+    "Galioja visiems Logitech G produktams, išskyrus naujus produktus ir PRO serijos simuliacinę įrangą."
   ],
   "mH8BIZ": [
     "Savo pasirinkimą šiam įrenginiui gali bet kada atnaujinti iOS nustatymuose. Jei nori leisti sekimą, gali:"
@@ -130510,6 +131526,18 @@
   "mmNkUA": [
     "Gauk tinkintą pakvietimo nuorodą su stiprinimais – tam nereikės jokio lygio! Tai padės auginti serverį."
   ],
+  "mmTvZn": [
+    "Pasirinkta: ",
+    [
+      2,
+      "count"
+    ],
+    " iš ",
+    [
+      2,
+      "max"
+    ]
+  ],
   "mmZGEG": [
     "Uždirbk ",
     [
@@ -131787,6 +132815,9 @@
   ],
   "nD78oa": [
     "Naudok šią papildomą vardo lentelę su aktyvia Nitro prenumerata."
+  ],
+  "nDEuO1": [
+    "Pasiek 50+ žaidimų, 10 val./mėn. žaidimo debesyje ir kt."
   ],
   "nDGqqq": [
     "Siūlome štai tokį: ",
@@ -134370,9 +135401,6 @@
   "o6M1aS": [
     "Skaityk savo nario informaciją (slapyvardis, pseudoportretas, vaidmuo ir t.t.) serveriuose, kuriems priklausai"
   ],
-  "o6QHZ/": [
-    "Pateikti prašymą dėl neautomatinės peržiūros"
-  ],
   "o6Qr6n": [
     "Našumo duomenų fiksavimas"
   ],
@@ -134705,6 +135733,9 @@
       "numEmojis"
     ],
     " jaustukai (-ų)"
+  ],
+  "oDfh3O": [
+    "Xbox Game Pass (pradinis leidimas)"
   ],
   "oDxaKy": [
     "Blokuoti"
@@ -135684,6 +136715,13 @@
   ],
   "og4NNr": [
     "Pradėk nemokamai kalbėtis su savo naujaisiais draugais!"
+  ],
+  "ogcfac": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaida PRO serijos kolekcijai"
   ],
   "ogxXGq": [
     "Veiksmai"
@@ -137585,22 +138623,6 @@
   "pJ4hJE": [
     "Užbaik serverių prenumeratos lygių sąranką ir pradėk uždirbti pinigus!"
   ],
-  "pJAxgQ": [
-    "Norėtum kitokio būdo? ",
-    [
-      8,
-      "$link",
-      [
-        "Pateik prašymą dėl neautomatinės peržiūros"
-      ],
-      [
-        [
-          1,
-          "handleOnRequestHook"
-        ]
-      ]
-    ]
-  ],
   "pJMipx": [
     "Kanalo leidimai: narių veiksmai"
   ],
@@ -137769,6 +138791,13 @@
   ],
   "pS+K2L": [
     "Įvesties Rėžimas"
+  ],
+  "pSBCjv": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaida PRO serijos simuliacinei įrangai"
   ],
   "pSZKvM": [
     "Data"
@@ -138251,6 +139280,29 @@
     "pristabdyti",
     "vertikali"
   ],
+  "pb2Was": [
+    "Pridėk iki ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " klipo"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " klipų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "pb7lpK": [
     "Pasirinkti ženklelį"
   ],
@@ -138297,6 +139349,9 @@
   ],
   "pdZJaq": [
     "Nitro Classic 1 metams"
+  ],
+  "pdaUSE": [
+    "Dabar su Nitro gaunamas Xbox Game Pass"
   ],
   "pe0fpS": [
     "Perjungti sandorių laikotarpio duomenis ",
@@ -139008,6 +140063,9 @@
   "piPHvY": [
     "Sveiki"
   ],
+  "piRNeN": [
+    "Nepavyko nuskaityti vaizdo."
+  ],
   "piW6YS": [
     "Pateikti"
   ],
@@ -139681,6 +140739,9 @@
   "pqk9U0": [
     "Rodyti daugiau"
   ],
+  "pqph/A": [
+    "Kai tik esi laisvas (-a) – jokio skambinimo ar kvietimų."
+  ],
   "pqqixk": [
     "Įjungtas"
   ],
@@ -139935,6 +140996,9 @@
   ],
   "put7Hw": [
     "pasirinkimai"
+  ],
+  "putVLl": [
+    "Naudojamos tinkintos reakcijos, intarpai ir botai."
   ],
   "put_litter_in_its_place": [
     "šiukšlė",
@@ -140873,6 +141937,9 @@
   "qI14KM": [
     "Apie saugos įspėjimus"
   ],
+  "qI5XnY": [
+    "Gauti Nitro"
+  ],
   "qINKo/": [
     "Šiandien 9.00"
   ],
@@ -141027,7 +142094,7 @@
     "Naudoti el. paštą"
   ],
   "qM8PRd": [
-    "Nuotraukos"
+    "Vaizdai"
   ],
   "qMDAP0": [
     "Perskaičiau ir sutinku su Discord ",
@@ -141345,6 +142412,9 @@
         ]
       ]
     ]
+  ],
+  "qT6LjY": [
+    "Šiandien 13.00"
   ],
   "qTCYun": [
     "Ar nori ši pakeitimą pritaikyti visiems savo esamiems serveriams?"
@@ -141985,6 +143055,9 @@
   "qnJ9W3": [
     "Pranešti apie problemą"
   ],
+  "qnSo/i": [
+    "Socialinė prekyba"
+  ],
   "qnYumI": [
     [
       6,
@@ -142145,6 +143218,9 @@
   ],
   "qpWnyC": [
     "Eiti į nustatymus"
+  ],
+  "qpw1d9": [
+    "Vienu metu gali bendrinti 10 klipų."
   ],
   "qpwaNY": [
     "Išleidimo Data"
@@ -142562,6 +143638,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r/jeXi": [
+    "Šis veiksmas atšauks Xbox Game Pass susietoje Xbox paskyroje. Pakeitimas įsigalios per 24 valandas."
   ],
   "r/jzu1": [
     "Jau turi paskyrą?"
@@ -144219,6 +145298,14 @@
   "rb7dJ7": [
     "Vardo lentelės"
   ],
+  "rbAtUi": [
+    "Naudojama – publikuota ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
+  ],
   "rbIry3": [
     "Atnaujinti giją"
   ],
@@ -144810,6 +145897,9 @@
   ],
   "rki38K": [
     "Pasirink profilį"
+  ],
+  "rkt1aw": [
+    "Dabar su Nitro gaunamas ir Xbox Game Pass (pradinis leidimas)"
   ],
   "rkyOzK": [
     "Peržiūrėti naujus narius"
@@ -146280,6 +147370,9 @@
       ]
     ]
   ],
+  "sD3eKQ": [
+    "Atšaukti"
+  ],
   "sDKIpm": [
     [
       6,
@@ -146965,6 +148058,9 @@
   ],
   "sS2J0G": [
     "Kol kas čia švilpauja vėjai!\nKai norėsi kalbėti, tiesiog pradėk."
+  ],
+  "sS4xGd": [
+    "Sukurk atrinktų žaidimo parduotuvės produktų intarpą, kurį būtų galima bendrinti."
   ],
   "sSAQtj": [
     "Gijos savybės buvo atnaujintos"
@@ -147816,6 +148912,9 @@
       2,
       "count"
     ]
+  ],
+  "sgse8P": [
+    "Rodyti draugų sąrašą"
   ],
   "shE8hW": [
     "Labinkis su kitais, dalykis ekrano vaizdu arba tiesiog bendrauk."
@@ -151537,6 +152636,9 @@
   "to6uUe": [
     "Ritmo žaidimų rezultatų skelbimas!"
   ],
+  "toGFBn": [
+    "Užrakinto ekrano valdiklio plėtinys"
+  ],
   "toKjAM": [
     "jūsų-url-čia"
   ],
@@ -152153,9 +153255,6 @@
   ],
   "ty+iOZ": [
     "Gauk el. laiškus su naujomis funkcijomis, asmeninėmis rekomendacijomis ir specialiais pasiūlymais! (Pasirinktinai)"
-  ],
-  "ty+iWP": [
-    "Pateikti prašymą dėl neautomatinės peržiūros"
   ],
   "ty7Lxy": [
     "Persijungti į balso kanalą"
@@ -153129,6 +154228,9 @@
       ]
     ]
   ],
+  "uF5VXk": [
+    "To vaizdo negalima pridėti prie klipo."
+  ],
   "uFHxNd": [
     "Patvirtinti naują grupę"
   ],
@@ -153301,6 +154403,21 @@
   "uJWIj/": [
     "Toliau naudoti Discord"
   ],
+  "uJcbMv": [
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "uJd+85": [
     "Pradėti sietuvo seansą tavo vardu"
   ],
@@ -153312,6 +154429,9 @@
   ],
   "uKFeS1": [
     "Naujovinti"
+  ],
+  "uKMqrF": [
+    "Klaida"
   ],
   "uKZtC/": [
     "Siųsti žinutes ir medijas"
@@ -154341,6 +155461,9 @@
   "uknrnq": [
     "Šiuo metu neturi jokių taisyklių, todėl nauji nariai matys tiesiog tuščią išskleidžiamąjį langą."
   ],
+  "ukvxpp": [
+    "Xbox Game Pass laukia tavęs. Eime žaisti."
+  ],
   "ukyggU": [
     "Butanas"
   ],
@@ -154868,6 +155991,55 @@
   "uy25Qz": [
     "Šio serverio lipdukai nepasiekiami"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " serveris"
+            ]
+          ],
+          " turi tinkintus AŽ leidimus. Pasirink jį, jei nori juos peržiūrėti arba pakeisti."
+        ],
+        "few": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " serveriai"
+            ]
+          ],
+          " turi tinkintus AŽ leidimus. Pasirink kurį nors, jei nori juos peržiūrėti arba pakeisti."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " serverių"
+            ]
+          ],
+          " turi tinkintus AŽ leidimus. Pasirink kurį nors, jei nori juos peržiūrėti arba pakeisti."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Įrašo pavadinimas"
   ],
@@ -155258,6 +156430,9 @@
   "v8MLqz": [
     "Šiame kanale bendrinimas neprieinamas"
   ],
+  "v8QrJf": [
+    "Orbs nekantrauja būti panaudoti"
+  ],
   "v8UpgE": [
     "Eiti į žaidimo parduotuvę"
   ],
@@ -155273,6 +156448,23 @@
   ],
   "v92GNV": [
     "Suteikia galimybę pasirinkti GIF kaip tavo reklamjuostę."
+  ],
+  "v9AaV4": [
+    "Dabar su Nitro gauni Xbox Game Pass. Žaisk 50+ kompiuterinių ir konsolės žaidimų be jokių papildomų išlaidų. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos ir tinkamumo taisyklės"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "v9GTV8": [
     "Tinkink savo aplankus"
@@ -158061,6 +159253,9 @@
   "wBoE6L": [
     "Mokykitės kartu"
   ],
+  "wBz9aO": [
+    "Pašalinimas vykdomas"
+  ],
   "wC/0Lz": [
     "Pašalinti ekrano vaizdą"
   ],
@@ -158563,6 +159758,9 @@
   "wR+Fuo": [
     "Nutildyti šią giją"
   ],
+  "wR5R9w": [
+    "Pakeisti vaizdą"
+  ],
   "wR5wOo": [
     "Profilio efektas"
   ],
@@ -158612,6 +159810,9 @@
   ],
   "wS+5Wb": [
     "Pakviesk stebėti transliaciją"
+  ],
+  "wSD7jV": [
+    "Pasirink saugos pranešimų kanalą"
   ],
   "wSZfJR": [
     "„Apie tave pranešiau per klaidą“"
@@ -160126,6 +161327,9 @@
       1,
       "activity"
     ]
+  ],
+  "wqhsP3": [
+    "Atsiimk Xbox Game Pass"
   ],
   "wqsK7q": [
     "Paleisti GIF, kai Discord yra atidarytas"
@@ -162416,6 +163620,9 @@
     ],
     ")"
   ],
+  "xZiyZj": [
+    "Pasirinktų žaidimų iš Xbox bibliotekos žaidimas debesyje"
+  ],
   "xZkJAH": [
     "Sveikiname įsigijus Nitro!"
   ],
@@ -162739,6 +163946,9 @@
   ],
   "xhQsxx": [
     "Prieiga prie Nitro būsenos"
+  ],
+  "xhZ23b": [
+    "xhZ23b"
   ],
   "xhgNd0": [
     "Naudotojo ",
@@ -163120,9 +164330,6 @@
       ]
     ],
     ". Pasilik tai, įsigydamas (-a) Nitro!"
-  ],
-  "xr4m5B": [
-    "O ne! Neturi jokių nepanaudotų stiprinimų."
   ],
   "xr59t7": [
     "Sukurti serverį"
@@ -166898,6 +168105,23 @@
   "zPerw8": [
     "Nėra ryšio."
   ],
+  "zPnFYf": [
+    "Nuo dabar tau bus naudojamas Orbs daugiklis 1,2. Nitro turi daug įdomybių. Eik į savo Nitro pradžios puslapį ir peržiūrėk, kas naujo. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zPxMdQ": [
     "Atšaukta Premium prenumerata"
   ],
@@ -167017,6 +168241,22 @@
   "zS0K+s": [
     "Jaustuko peržiūra, kai jis naudojamas kaip reakcija"
   ],
+  "zS4GBR": [
+    "Nuolaidos ir pranašumai, padėsiantys smagiau žaisti ir bendrauti. Visa tai – su Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "zSG3Qy": [
     "Šios žinutės pristatyti nepavyko, nes joje yra Discord blokuojama nuoroda. Daugiau sužinosi čia: ",
     [
@@ -167118,6 +168358,23 @@
   "zUUbBM": [
     "Kamerūnas"
   ],
+  "zUjL+R": [
+    "Naujovink į Nitro ir žaisk 50+ kompiuterinių ir konsolės žaidimų su Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Taikomos sąlygos ir tinkamumo taisyklės"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zUjLl+": [
     "Pridėk bet kokius vaizdo įrašus, nuotraukas ir failus, kuriuos nori bendrinti savo nariams."
   ],
@@ -167129,6 +168386,9 @@
   ],
   "zV0/FC": [
     "Netinkamas žinutės tipas"
+  ],
+  "zVGHbw": [
+    "Gauk nemokamą papuošimą"
   ],
   "zVJxqj": [
     "Privalo turėti bent ",
@@ -167299,6 +168559,9 @@
   "zZp618": [
     "Čia visi įrenginiai, kurie šiuo metu prijungti prie tavo Discord paskyros. Gali atjungti po vieną arba iškart visus kitus įrenginius.\n\nJei matai įrašą, kurio neatpažįsti, nedelsiant atjunk tą įrenginį ir pakeisk savo Discord paskyros slaptažodį."
   ],
+  "zaEQz+": [
+    "Naršyklės duomenys išvalyti."
+  ],
   "zany_face": [
     "akis",
     "akys",
@@ -167359,6 +168622,9 @@
   ],
   "zcKE8W": [
     "Xbox mobilioji programėlė įdiegta"
+  ],
+  "zcZtrU": [
+    "Tinkinti ženklelius"
   ],
   "zcbFu1": [
     "Naudoti jaustukai"
@@ -167431,6 +168697,13 @@
       "cashtag"
     ],
     " paskyra sėkmingai atliktas."
+  ],
+  "zeBjoX": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaida naujiems produktams"
   ],
   "zePEol": [
     "Pirkimai Per Žaidimą"
@@ -167594,6 +168867,14 @@
   ],
   "zihbmv": [
     "Nieko nerasta"
+  ],
+  "zinfZi": [
+    "Panaudok ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % nuolaidą Logitech G įrangai su kas mėnesį atsinaujinančiu kodu."
   ],
   "zipper_mouth": [
     "burna",

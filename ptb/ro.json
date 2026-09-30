@@ -120,6 +120,9 @@
   "+1k/lP": [
     "Îți prezentăm orientarea în comunitate"
   ],
+  "+20A3o": [
+    "Nu s-a putut adăuga imaginea. Încearcă din nou."
+  ],
   "+2QBZX": [
     "Hmm, n-am reușit să încărcăm cadourile din magazin. Revino mai târziu."
   ],
@@ -378,6 +381,9 @@
         ]
       ]
     ]
+  ],
+  "+ADjaQ": [
+    "Fă upgrade"
   ],
   "+AJFJy": [
     "Pe un canal podium"
@@ -1168,6 +1174,9 @@
       1,
       "amount"
     ]
+  ],
+  "+QAvQz": [
+    "O ediție Starter a Xbox Game Pass este acum oferită gratuit prin Discord Nitro. Joacă acum."
   ],
   "+QNUov": [
     "Se inițializează motorul de clipuri"
@@ -1990,6 +1999,9 @@
   ],
   "+p4GaA": [
     "Adresa de e-mail de la instituție"
+  ],
+  "+pTnsf": [
+    "Peste 50 de jocuri precum Stardew Valley, Fallout 4 și Grounded. 10 ore de gaming în cloud în fiecare lună. Recompense Xbox. Toate cu Nitro."
   ],
   "+pfsFX": [
     "În pauză"
@@ -3028,6 +3040,9 @@
   "/8psS7": [
     "Controalele activității nu au fost clare"
   ],
+  "/8znyU": [
+    "Trimite încă un cadou pentru a le colecționa pe toate"
+  ],
   "/91tbr": [
     "Anunță utilizatorii cu acest rol care au permisiunea să vadă acest canal."
   ],
@@ -3109,6 +3124,9 @@
   ],
   "/AS/gM": [
     "Da, anulează boost-ul"
+  ],
+  "/AUOfc": [
+    "Descoperă acum"
   ],
   "/AXYnE": [
     "Copiază ID-ul utilizatorului"
@@ -3279,6 +3297,9 @@
       1,
       "a"
     ]
+  ],
+  "/GObQk": [
+    "Elimină Xbox Game Pass"
   ],
   "/GTqXG": [
     "Selectează tipul de origine al URL-ului (numai pentru aplicațiile încorporate)"
@@ -3775,6 +3796,28 @@
   "/UJaI2": [
     "Bot derutat"
   ],
+  "/UNTlE": [
+    "Revendică o reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la Logitech G în fiecare lună, plus reduceri unice pentru echipamentele din seria PRO și pentru produsele noi. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "/UTTEg": [
     "Vezi toate funcțiile noi pe care le-ai deblocat"
   ],
@@ -3839,6 +3882,9 @@
   ],
   "/Whuzi": [
     "În timpul folosirii unui microfon certificat de Discord, anumite funcții de procesare vocală nu sunt gestionate de Discord,\nci de microfon."
+  ],
+  "/WsW/1": [
+    "Încearcă tema de profil"
   ],
   "/X1ny6": [
     "Răsfoiește Magazinul și marchează cu inimă articolele care-ți plac, pentru a le adăuga aici."
@@ -4393,6 +4439,24 @@
   ],
   "/nALeY": [
     "Alt feedback"
+  ],
+  "/nFLZv": [
+    "Eligibilă pentru promoție: ",
+    [
+      1,
+      "current"
+    ],
+    " din ",
+    [
+      1,
+      "target"
+    ],
+    " colecționate – timp rămas: ",
+    [
+      1,
+      "numDays"
+    ],
+    " zile"
   ],
   "/nJOlj": [
     "Activitatea a întârziat sau a înghețat"
@@ -4995,6 +5059,23 @@
   "02hvfp": [
     "Keep It Safe"
   ],
+  "02smVH": [
+    "Vrei să obții mai mult din fiecare misiune? Membrii Nitro primesc 1,2x Orbs din misiuni, un drop lunar de Orbs și multe altele. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "03/rlQ": [
     "Încă nicio invitație!"
   ],
@@ -5099,10 +5180,19 @@
     ],
     " Orbs în ",
     [
-      1,
-      "days"
-    ],
-    " zile"
+      6,
+      "days",
+      {
+        "one": [
+          "zi"
+        ],
+        "other": [
+          "zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Încarcă ",
@@ -5891,6 +5981,9 @@
   ],
   "0N1s81": [
     "Chei de securitate și chei de acces"
+  ],
+  "0N8fCf": [
+    "Oho, ce de gesturi frumoase. Ai trimis atât de multe cadouri încât ai obținut o insignă de profil care crește în nivel pe măsură ce dăruiești mai mult."
   ],
   "0NJZAU": [
     "Asociat cu ",
@@ -7079,6 +7172,9 @@
     ],
     " opțional"
   ],
+  "0mQ2U6": [
+    "Xbox Game Pass"
+  ],
   "0mTJ3j": [
     "Prieteni comuni"
   ],
@@ -7494,6 +7590,9 @@
   "0sTyEb": [
     "Trimite-ți cererea de a te alătura serverului."
   ],
+  "0sh8CQ": [
+    "Afișează sugestiile de emoji pe măsură ce tastezi"
+  ],
   "0t1aNC": [
     "Editează emojiuri nivel"
   ],
@@ -7608,6 +7707,9 @@
   ],
   "0vTx7j": [
     "Reîncarcă"
+  ],
+  "0vY+ie": [
+    "Ia-ți Nitro"
   ],
   "0vZqv0": [
     "Cât timp ai activă funcția de Sincronizare prieteni, îți vom adăuga automat prieteni pe Discord din contactele telefonului dacă:\n\n1. Amândoi aveți salvat numărul celuilalt\n\n2. Amândoi aveți activă funcția de Sincronizare prieteni"
@@ -8752,6 +8854,9 @@
   "1RD2jW": [
     "Ceva nu a mers bine la încercarea de a deschide această metodă."
   ],
+  "1RFJ5Q": [
+    "Alătură-te comunității"
+  ],
   "1RH5t9": [
     "Invitat(ă)"
   ],
@@ -9822,6 +9927,9 @@
   "1zoOqj": [
     "Împărtășește magia Nitro."
   ],
+  "2+/rrF": [
+    "Primește reduceri la articolele pentru profil, plus emojiuri personalizate, streaming în HD și multe altele cu Nitro."
+  ],
   "2+A3dv": [
     "Serverul e în perioada de așteptare! Nu se poate muta boost-ul timp de ",
     [
@@ -10621,6 +10729,9 @@
   ],
   "2HvOvh": [
     "Respins"
+  ],
+  "2I7nK+": [
+    "Reduceri Logitech"
   ],
   "2ICUkG": [
     "Deblochează ",
@@ -11599,6 +11710,9 @@
   ],
   "2hPcVJ": [
     "Raport zoom"
+  ],
+  "2iX+XV": [
+    "Fă upgrade"
   ],
   "2ia+9V": [
     "Vezi detaliile insignei"
@@ -13296,6 +13410,23 @@
   "3JGJo2": [
     "GIF-ul tău perfect se află într-un alt castel. Încearcă cuvintele-cheie sugerate mai jos!"
   ],
+  "3JKWU6": [
+    "Abonează-te la Nitro și accesează Xbox Game Pass (Starter Edition), oferte la echipamente, avantaje noi pentru Orbs și multe altele. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3JWkhv": [
     "Afișează tastatura"
   ],
@@ -14600,6 +14731,22 @@
   "3iccet": [
     "Locuri pentru stickere"
   ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ai obținut o decorațiune gratuită"
+        ],
+        "other": [
+          "Ai obținut decorațiuni gratuite"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "3ilveh": [
     "Mai bine lasă"
   ],
@@ -14622,6 +14769,23 @@
   ],
   "3jG0Bo": [
     "Le permite membrilor să vizualizeze acest canal în mod implicit. Dezactivarea acestei opțiuni pentru @everyone va face ca acest canal să devină privat."
+  ],
+  "3jY5i3": [
+    "Dacă-ți place YouTube, o să-ți placă și mai mult Premium. Beneficiezi de 20% reducere pentru următoarele 6 luni, indiferent dacă ai YouTube Premium pentru prima dată sau contul tău era deja abonat. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Termeni și Condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "3jaCac": [
     "Tot conținutul descărcabil"
@@ -14789,6 +14953,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Versiune"
   ],
   "3nWhcJ": [
     "Acceptă cadoul"
@@ -16884,6 +17051,9 @@
   "4fnE/J": [
     "Nu ți-am putut valida linkul de autentificare. Încearcă din nou."
   ],
+  "4fvi9I": [
+    "Prietenii tăi, dintr-o privire."
+  ],
   "4fw/T2": [
     "Tocmai ai stimulat serverul ",
     [
@@ -17627,6 +17797,9 @@
   ],
   "4z9fN+": [
     "Dezactivat"
+  ],
+  "4zROKG": [
+    "Revendică un Xbox Game Pass acum"
   ],
   "4zv/jq": [
     [
@@ -19316,6 +19489,29 @@
   "5fWB8U": [
     "Gestionează profilul și statusul"
   ],
+  "5fXjSj": [
+    "Invitația expiră în ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minut"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minute"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Trimite invitația"
   ],
@@ -19887,6 +20083,9 @@
   "5rYBAQ": [
     "Cine se poate alătura jocurilor mele"
   ],
+  "5rbQbD": [
+    "10 ore de gaming în cloud în fiecare lună"
+  ],
   "5rvCIR": [
     "Completează-ți look-ul"
   ],
@@ -20450,6 +20649,9 @@
   "61wfmh": [
     "Acest emoji nu mai există. Selectează unul nou."
   ],
+  "620Iwi": [
+    "Ia-ți Nitro"
+  ],
   "621LJD": [
     "Poreclă"
   ],
@@ -20569,6 +20771,29 @@
       ]
     ],
     "."
+  ],
+  "65EEvD": [
+    "Codul nou vine în ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "65JnWC": [
     [
@@ -21078,6 +21303,15 @@
       ]
     ]
   ],
+  "6KjkUa": [
+    "Valabil pentru orice produs de pe site-ul Logitech, cu excepția seriei G și a produselor noi. Expiră pe ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "6Kqn9M": [
     [
       6,
@@ -21127,6 +21361,9 @@
   ],
   "6MwJo/": [
     "Arată mai puține"
+  ],
+  "6NbEkN": [
+    "Alege o aplicație înainte de a salva această regulă."
   ],
   "6Nmv4i": [
     "Fermierii noștri specializați pe confidențialitate au început să-ți recolteze datele. Recolta poate dura până la 30 de zile, îți trimitem noi e-mail când e gata."
@@ -23004,6 +23241,9 @@
     ],
     "."
   ],
+  "7/h5vj": [
+    "Niciuna dintre aplicațiile de pe serverul acesta nu poate încă să modereze mesaje."
+  ],
   "7/qtoL": [
     "Această invitație la ",
     [
@@ -23806,6 +24046,9 @@
       ]
     ]
   ],
+  "7PdsMK": [
+    "Cu Nitro, ai acum o ediție Starter a Xbox Game Pass. Intră în joc."
+  ],
   "7PnXqu": [
     "Nu s-a putut procesa imaginea"
   ],
@@ -24501,6 +24744,9 @@
   "7ioAjs": [
     "Oferte disponibile"
   ],
+  "7itT3E": [
+    "Explorează alte servere"
+  ],
   "7j/5mg": [
     [
       6,
@@ -24984,6 +25230,9 @@
   "7rOU6j": [
     "Sincronizare cu computerul"
   ],
+  "7raRgL": [
+    "Valorifică Orbs"
+  ],
   "7rkg+/": [
     "Nu mai urmări pe — ",
     [
@@ -25077,6 +25326,9 @@
   ],
   "7vHKVe": [
     "Membri sincronizați"
+  ],
+  "7vL/d/": [
+    "Avertisment"
   ],
   "7vRj5F": [
     "Gestionează plata"
@@ -25695,6 +25947,9 @@
   "8AEGE0": [
     "Avantaj inclus la nivelul 3"
   ],
+  "8ALChp": [
+    "În voce"
+  ],
   "8APv8L": [
     "Gestionează abonament"
   ],
@@ -25956,6 +26211,9 @@
       ]
     ],
     "."
+  ],
+  "8Gl8gP": [
+    "Construiește-ți configurația de vis cu coduri de reducere exclusive în fiecare lună. Numai cu Nitro."
   ],
   "8GypeZ": [
     "Solicită Parteneriat"
@@ -26701,6 +26959,19 @@
   "8XT6Nf": [
     "Durata cadoului"
   ],
+  "8XhAe3": [
+    "Eligibile pentru promoție: ",
+    [
+      1,
+      "current"
+    ],
+    " din ",
+    [
+      1,
+      "target"
+    ],
+    " colecționate"
+  ],
   "8Xm6uL": [
     "Un ",
     [
@@ -26898,6 +27169,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Postarea ta a fost eliminată"
   ],
   "8dCrV9": [
     "Rezolvă"
@@ -28993,6 +29267,13 @@
   "9U0b1k": [
     "Creează primul tău server Discord"
   ],
+  "9U3Wb3": [
+    "Mesajul tău a fost șters din ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Trimiți mesaje prea repede"
   ],
@@ -29130,6 +29411,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "9Y2p6p": [
+    "Recompensă lunară"
   ],
   "9Y2wKO": [
     "Selectează un răspuns"
@@ -29972,6 +30256,9 @@
   "9t1au7": [
     "utilizator deblocat"
   ],
+  "9t2CzW": [
+    "Câștigă recompense cu Xbox doar pentru că joci"
+  ],
   "9t3GMT": [
     "• expiră în ",
     [
@@ -30244,6 +30531,14 @@
   ],
   "A+0H1f": [
     "Avatar animat, banner profil și tag personalizat"
+  ],
+  "A+56/R": [
+    "Revendică o reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la echipamentele Logitech G în fiecare lună, numai cu Nitro."
   ],
   "A+8d6M": [
     "Aplicație"
@@ -32569,6 +32864,9 @@
     ],
     ". Adaugă o metodă de plată pentru a avea în continuare acces la personalizarea profilului și multe altele."
   ],
+  "AyECej": [
+    "Recompense pentru că joci (18+)"
+  ],
   "AyMGXA": [
     "Se pare că acest profil este încă în curs de amenajare – dar poți saluta utilizatorul trimițându-i un mesaj!"
   ],
@@ -33215,6 +33513,9 @@
   "BEFwGd": [
     "Imagini"
   ],
+  "BEL9MJ": [
+    "Extensie de partajare"
+  ],
   "BENn/6": [
     "Toate podiumurile în direct"
   ],
@@ -33779,6 +34080,9 @@
       "numViewers"
     ]
   ],
+  "BReS7U": [
+    "Informații"
+  ],
   "BRkD41": [
     "Introdu o regulă"
   ],
@@ -34113,12 +34417,12 @@
     ]
   ],
   "Ba/7wO": [
-    "Membrii Nitro câștigă ",
+    "Abonează-te pentru a-ți crește rezervele cu Orbs primite lunar și a primi un multiplicator de ",
     [
       1,
       "multiplier"
     ],
-    "x orice"
+    "x la recompense."
   ],
   "BaI6L4": [
     "Cere-i tutorelui să-ți restabilească accesul din controalele parentale ale magazinului de aplicații (Apple sau Google Play)."
@@ -34266,6 +34570,9 @@
   ],
   "Bd6dOf": [
     "Închide-ți permanent contul."
+  ],
+  "BdIVB+": [
+    "Bucură-te de YouTube la un nou nivel cu Premium"
   ],
   "BdQTfR": [
     "Încă ",
@@ -34473,6 +34780,9 @@
   "BhWgyQ": [
     "Introdu-ți parola pentru a vizualiza codurile de rezervă."
   ],
+  "BhYGtj": [
+    "Extensie de partajare a ecranului"
+  ],
   "BhjXCp": [
     "Explorează magazinul"
   ],
@@ -34536,7 +34846,7 @@
     "Încearcă acum"
   ],
   "BjfDQq": [
-    "Obține Discord"
+    "Ia-ți Discord"
   ],
   "Bk0VOi": [
     "Nu poți activa cererile din profil dacă serverul tău are activă setarea „Profil privat”. Poți schimba această setare din ",
@@ -35996,6 +36306,9 @@
   "CFF2vL": [
     "Anulează fixarea mesajului"
   ],
+  "CFfUkp": [
+    "Deblochează mai multe Orbs cu Nitro"
+  ],
   "CFzDOG": [
     "Folosește tema serverului"
   ],
@@ -36459,6 +36772,9 @@
   ],
   "CU+6oJ": [
     "Apasă „ENTER” pentru a căuta"
+  ],
+  "CUAKSg": [
+    "Ciornă — nepublicat"
   ],
   "CUBxDB": [
     "Este posibil ca propagarea înregistrării DNS să dureze câteva minute."
@@ -37089,6 +37405,9 @@
   "Cm4aDQ": [
     "Detașează stream-ul"
   ],
+  "CmLD50": [
+    "Fă streaming ca din aceeași cameră"
+  ],
   "CmSHYx": [
     "Caută prieteni"
   ],
@@ -37262,6 +37581,9 @@
   ],
   "CuZPea": [
     "Codul poștal este nevalid"
+  ],
+  "CubeLC": [
+    "Du-mă acolo"
   ],
   "CueiPY": [
     "A mers!"
@@ -37749,6 +38071,9 @@
   "D6x8Nr": [
     "Le permite membrilor să trimită mesaje de tip text-to-speech cu ajutorul comenzii /tts. Aceste mesaje pot fi auzite de toată lumea care este activă pe canal."
   ],
+  "D7+kY/": [
+    "Descoperă"
+  ],
   "D72Dlt": [
     "Exprimă-ți personalitatea pe Discord cu Nitro"
   ],
@@ -38056,6 +38381,9 @@
   ],
   "DH2o6R": [
     "Dă clic pentru a dezactiva ping-ul către autorul original."
+  ],
+  "DHLE0q": [
+    "Discută cu întreaga comunitate"
   ],
   "DHWKJS": [
     "Renunță la toate modificările și șterge acest nivel."
@@ -40007,6 +40335,13 @@
   "EDYbS+": [
     "O, nu! Ceva nu a mers bine în timpul actualizării acestei solicitări de mesaje. Te rugăm să aștepți puțin și să încerci din nou."
   ],
+  "EDmwVf": [
+    "Text overlay: ",
+    [
+      1,
+      "text"
+    ]
+  ],
   "EE+P0H": [
     "Invită în canalul de voce"
   ],
@@ -40173,6 +40508,9 @@
   ],
   "EKoHta": [
     "Precomandă joc"
+  ],
+  "EL3rU4": [
+    "Revendică gratuit"
   ],
   "EL4Lhs": [
     "Aici vin tag-urile."
@@ -42582,6 +42920,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Alege o aplicație pentru a verifica mesajele"
+  ],
   "FKYNC6": [
     "Nitro lunar"
   ],
@@ -42730,6 +43071,22 @@
   ],
   "FO0AIS": [
     "Află mai multe"
+  ],
+  "FO4faL": [
+    "O ediție Starter a Xbox Game Pass este acum oferită gratuit prin Discord Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "FOYn8U": [
     "Editează emojiul"
@@ -43453,6 +43810,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "Ce este Discord?"
+  ],
   "FlcC+3": [
     "Elimină aplicația de pe acest server"
   ],
@@ -43609,6 +43969,9 @@
   ],
   "FrOFSo": [
     "Dezactivează monetizarea"
+  ],
+  "Fs74z9": [
+    "Activare în curs. Poate dura până la o oră pentru a apărea aici."
   ],
   "Fs96LO": [
     "Ai modificat setările implicite de partajare în ",
@@ -43842,6 +44205,9 @@
   "FzgQna": [
     "Prietenii și toate serverele"
   ],
+  "Fzi4HX": [
+    "Încarcă numele fișierelor, dimensiunile și marcajele temporale din spațiul de stocare al aplicației în jurnalele de depanare pentru a ajuta la investigarea utilizării spațiului de stocare."
+  ],
   "FzjizJ": [
     "Personalizează-ți profilul"
   ],
@@ -43943,7 +44309,7 @@
     ]
   ],
   "G00RI5": [
-    "Activată"
+    "Activat"
   ],
   "G08MKu": [
     "Nu-i vei mai vedea mesajele"
@@ -45476,6 +45842,9 @@
   ],
   "GYpoAq": [
     "Conținut media sexual pentru adulți"
+  ],
+  "GZWBoL": [
+    "Economisește până la 20% în Magazin"
   ],
   "GZa4J0": [
     "Această aplicație nu este disponibilă."
@@ -47063,6 +47432,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Diagnosticele de stocare au fost încărcate."
+  ],
   "H9Jxp6": [
     "Adaugă până la ",
     [
@@ -47113,7 +47485,7 @@
     "Serverul tău de jocuri este gata! Îl poți gestiona oricând din fila „Servere de jocuri” din Magazin."
   ],
   "HACucK": [
-    "Ai suficiente Orbs pentru a-ți lua ceva din Magazin!"
+    "Ai destul ca să iei ceva din Magazin."
   ],
   "HADQ6n": [
     [
@@ -47217,6 +47589,9 @@
   ],
   "HC8uSZ": [
     "Dezactivată pentru proprietarul/administratorul serverelor cu niveluri publicate de abonament la servere"
+  ],
+  "HCJKFl": [
+    "Cu Nitro, ai acum o ediție Starter a Xbox Game Pass. Intră în joc."
   ],
   "HCgxTd": [
     "Nu se partajează"
@@ -47512,6 +47887,9 @@
     ],
     ")"
   ],
+  "HINTfJ": [
+    "Vezi ofertele"
+  ],
   "HITUcR": [
     "Amuțește"
   ],
@@ -47604,6 +47982,9 @@
   ],
   "HNo5cG": [
     "Selectează o imagine"
+  ],
+  "HNqvOh": [
+    "Șterge datele din browser"
   ],
   "HO/lY5": [
     "Aplicație (Spoiler)"
@@ -47827,6 +48208,9 @@
   ],
   "HTJ76H": [
     "Codurile nu se potrivesc"
+  ],
+  "HTsycG": [
+    "Deblochează Xbox Game Pass și nu numai cu Nitro"
   ],
   "HTvLGu": [
     "Susține accesul serverului tău la streamuri de calitate pentru toată lumea."
@@ -48086,6 +48470,9 @@
   ],
   "HZPBOd": [
     "Introdu codul de autentificare Discord"
+  ],
+  "HZPns7": [
+    "Afișează setările hub-ului serverului"
   ],
   "HZbmO+": [
     "Minecraft"
@@ -48361,6 +48748,22 @@
   "Hgdhwb": [
     "Sigur vrei să ieși? Ai schimbări pentru acest produs pe care nu le-ai salvat și pe care le poți pierde dacă ieși acum."
   ],
+  "Hgo1xT": [
+    "O nouă recompensă Nitro! Primești o reducere de 20% la următoarele tale 6 luni de YouTube Premium. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Termeni și Condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
+  ],
   "HhfrYS": [
     "Joacă-te timp de ",
     [
@@ -48468,6 +48871,9 @@
         ]
       ]
     ]
+  ],
+  "HlVJm0": [
+    "Revendică-ți noile avantaje"
   ],
   "Hlk/kJ": [
     "Încearcă un avatar animat"
@@ -49006,6 +49412,9 @@
   "I+Cbum": [
     "Interzi accesul"
   ],
+  "I+IXr0": [
+    "Peste 50 de jocuri, 10 ore de gaming în cloud pe lună și până la 25 USD prin recompense. Hai la joacă."
+  ],
   "I+eHql": [
     [
       6,
@@ -49130,7 +49539,7 @@
     " din partea noastră"
   ],
   "I1h8uD": [
-    "Descoperă Autoclips"
+    "Descoperă clipurile automate"
   ],
   "I1nKfO": [
     "Spune-ne ce părere ai despre siguranța pe Discord."
@@ -50769,6 +51178,29 @@
   "Ifb6XJ": [
     "Folosește o super-reacție"
   ],
+  "Ifgxdy": [
+    "Invitația expiră în ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " oră"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ore"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -50800,6 +51232,23 @@
   ],
   "Igv+LS": [
     "Vezi detaliile emojiurilor"
+  ],
+  "Igwax6": [
+    "Font ",
+    [
+      1,
+      "fontName"
+    ],
+    ", efect ",
+    [
+      1,
+      "effectName"
+    ],
+    ", ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -51403,6 +51852,9 @@
   "ItfIa5": [
     "Aproape totul din Nitro, plus"
   ],
+  "IthhpG": [
+    "Xbox Game Pass te așteaptă"
+  ],
   "ItpQxk": [
     "Distribuie perioada de probă"
   ],
@@ -51695,6 +52147,9 @@
   ],
   "IyUi6q": [
     "Atrage privirile în fiecare server, DM și loc în care cineva îți vede profilul."
+  ],
+  "IyXIFu": [
+    "Șterge memoria cache a browserului din aplicație, modulele cookie și datele de pe site-ul web. Este posibil ca această acțiune să te scoată din cont pe site-uri."
   ],
   "IyYqqY": [
     "Conectat prin alt client"
@@ -52588,6 +53043,9 @@
   "JM7Y2D": [
     "Înregistrarea mesajului vocal s-a oprit, deoarece Discord nu era activ."
   ],
+  "JMWqry": [
+    "Alătură-te conversației"
+  ],
   "JMbfnc": [
     "Hai că poți!"
   ],
@@ -53240,6 +53698,9 @@
   "JhDw5o": [
     "Revino la autentificare"
   ],
+  "JhE8nA": [
+    "Nitro îți oferă până la 20% reducere la toate achizițiile din Magazin. Abonează-te pentru a debloca reducerile, profilurile personalizate și multe altele."
+  ],
   "JhNpgy": [
     "Culori personalizate"
   ],
@@ -53309,9 +53770,6 @@
   ],
   "JkKNss": [
     "Pix Automático"
-  ],
-  "Jkx0sf": [
-    "Obține un server de jocuri pentru mai puțin"
   ],
   "JkyCIO": [
     "Continuă-ți misiunea!"
@@ -53691,6 +54149,9 @@
   "JzaP4h": [
     "Filtru de spam pentru DM-uri"
   ],
+  "JzbSEY": [
+    "Menționări + necitite"
+  ],
   "Jzd+z/": [
     "Alege un nume pentru cheia nouă"
   ],
@@ -53752,6 +54213,9 @@
   ],
   "K0e7M9": [
     "Reîncearcă videoul"
+  ],
+  "K1URjQ": [
+    "Gestionează setările pentru hub-ul serverului."
   ],
   "K1gWXn": [
     "Microfonul tău este de lux și se oprește automat? În acest caz, poți să dezactivezi avertismentul roșu apăsând pe\ntextul extra-minuscul de mai jos."
@@ -54076,6 +54540,21 @@
   "KD6OJJ": [
     "Utilizator"
   ],
+  "KDKdWi": [
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Condiții și reguli de eligibilitate."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "KDPFi9": [
     "Acest eveniment va începe automat la ora deschiderii."
   ],
@@ -54158,6 +54637,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Reordonează-ți sunetele favorite!"
   ],
   "KG/ynf": [
     "Hopa"
@@ -55584,6 +56066,9 @@
       "appName"
     ]
   ],
+  "KoKwMn": [
+    "Reduceri lunare la majoritatea echipamentelor Logitech G. Se aplică unele excepții."
+  ],
   "KoQe/G": [
     "Le permite membrilor să modifice numele acestui server, să-i schimbe regiunea, să vadă toate invitațiile, să adauge aplicații pe server, precum și să creeze și să actualizeze reguli pentru AutoMod."
   ],
@@ -56025,6 +56510,9 @@
   ],
   "L/PwZf": [
     "Link copiat!"
+  ],
+  "L/aQij": [
+    "Nu s-au putut încărca diagnosticele de stocare. Încearcă din nou."
   ],
   "L/hFOe": [
     "Vezi folderul cu jurnalele de depanare"
@@ -56738,6 +57226,9 @@
   "LIZgwJ": [
     "Doar administratorii serverului pot dezactiva Descoperirea serverelor"
   ],
+  "LIc2xy": [
+    "Revendică un Xbox Game Pass acum"
+  ],
   "LIwUT2": [
     "A trimis un mesaj într-un canal cu spoilere"
   ],
@@ -57032,6 +57523,9 @@
   "LSNOYf": [
     "Nicio aplicație sau comandă nu corespunde căutării tale"
   ],
+  "LSoXK5": [
+    "(Opțional) Îți trimitem e-mailuri cu actualizări legate de Discord, sfaturi și oferte speciale. Urmărim deschiderile și clicurile pentru a afla ce-ți este util."
+  ],
   "LT5TnZ": [
     "Pe durata"
   ],
@@ -57229,9 +57723,6 @@
   ],
   "LZA6Na": [
     "studiu în liniște"
-  ],
-  "LZO+Hd": [
-    "Contactează-ne"
   ],
   "LZunzZ": [
     "Confirmă anularea"
@@ -57936,6 +58427,14 @@
   "Ls2XRq": [
     "Trimiterea mesajelor directe"
   ],
+  "LsJ9hj": [
+    "Reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la Logitech"
+  ],
   "LsLNuw": [
     "Activează alertele"
   ],
@@ -58508,6 +59007,9 @@
   ],
   "M4XL5n": [
     "Îți vei pierde imediat URL-ul de invitație personalizat."
+  ],
+  "M4qsJL": [
+    "Stilul numelui afișat"
   ],
   "M54uv3": [
     "Există și multe alte comunități!"
@@ -59547,6 +60049,9 @@
   ],
   "MUwOvc": [
     "Notificările sunt dezactivate"
+  ],
+  "MUypiB": [
+    "Peste 50 de jocuri, printre care Stardew Valley și Fallout 4"
   ],
   "MV4DPe": [
     "Acces descărcare refuzat - Discord are nevoie de acces la stocare pentru a descărca fișiere."
@@ -60870,9 +61375,6 @@
   "N2c/Un": [
     "Adaugă la favorite"
   ],
-  "N2mHaK": [
-    "cu echipa noastră Trust and Safety"
-  ],
   "N2mILu": [
     [
       1,
@@ -61670,6 +62172,23 @@
   "NK9aT1": [
     "Activează notificările pentru super-reacții"
   ],
+  "NKTF0a": [
+    "Peste 50 de jocuri, 10 ore de gaming în cloud pe lună și până la 25 USD prin recompense. Hai la joacă. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică termeni și condiții de eligibilitate"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "NKV/MO": [
     "Readu aplicația în fereastra principală"
   ],
@@ -62433,6 +62952,9 @@
   "NaZyYC": [
     "Notificări"
   ],
+  "Nb1EQx": [
+    "Numai tu poți vedea ce e aici"
+  ],
   "Nb2/RE": [
     "Fir nou"
   ],
@@ -63003,7 +63525,7 @@
       2,
       "bonusOrbMultiplier"
     ],
-    "x la recompensele pentru Orbs."
+    "x pentru recompense când te abonezi la Nitro. Poți anula oricând"
   ],
   "NpchGq": [
     "Interese"
@@ -63297,6 +63819,9 @@
   ],
   "Nwj9v0": [
     "Anul trecut"
+  ],
+  "NwkRTZ": [
+    "Xbox Game Pass (Starter Edition) este acum oferit gratuit prin Nitro. Alătură-te și tu."
   ],
   "NxHYX/": [
     "Clientul tău Discord nu acceptă acest tip de mesaj. Actualizează-l pentru a putea vedea mesajul."
@@ -63807,6 +64332,9 @@
   ],
   "OBr7Cw": [
     "Opțiuni pentru canal"
+  ],
+  "OBskVU": [
+    "Setări hub server"
   ],
   "OBuzJr": [
     "Cine are cel mai mare punctaj din victorii va purta coroana."
@@ -64731,6 +65259,9 @@
   "OZRgjw": [
     "Despre ce problemă este vorba?"
   ],
+  "OZj923": [
+    "Fii la curent cu ce fac și distrați-vă împreună."
+  ],
   "Oa//IE": [
     "Include oricare dintre tipurile de date selectate"
   ],
@@ -65258,6 +65789,9 @@
   "OlOHDH": [
     "Limbi"
   ],
+  "OlObRa": [
+    "Fă-i un upgrade configurației tale la un preț mai mic"
+  ],
   "Olc2K3": [
     "Înapoi la Setări"
   ],
@@ -65460,6 +65994,9 @@
       "cardinal"
     ]
   ],
+  "OpOEmk": [
+    "Xbox Game Pass (Starter Edition)"
+  ],
   "OpV87U": [
     "Nivel de verificare: ",
     [
@@ -65490,7 +66027,7 @@
     "Adaugă sunete personalizate pentru toți membrii serverului. Să plângă chitarele!"
   ],
   "OqHiIt": [
-    "Alătură-te unui server"
+    "Alătură-te serverului"
   ],
   "OqNY0/": [
     "Le permite membrilor să interzică permanent accesul altor membri și să le șteargă istoricul mesajelor de pe acest server."
@@ -66073,6 +66610,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Trage și plasează sunetele favorite în ce ordine vrei tu."
+  ],
   "P/KFXz": [
     "Ca să știi, pe acest podium se află persoane pe care le-ai blocat sau ignorat."
   ],
@@ -66221,6 +66761,9 @@
         "Tocmai ai stimulat server-ul."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Culoarea umbrei"
   ],
   "P5keo3": [
     "Cufăr"
@@ -66586,6 +67129,14 @@
   ],
   "PEzffq": [
     "Niciunul"
+  ],
+  "PF1aT5": [
+    "Reducere de ",
+    [
+      1,
+      "discountPercentage"
+    ],
+    "% la Logitech G"
   ],
   "PF7mP3": [
     "Sunt de acord cu ",
@@ -67898,6 +68449,9 @@
   "PlwgdU": [
     "Transferă chat-ul vocal pe acest dispozitiv"
   ],
+  "Plwzgf": [
+    "Gestionează"
+  ],
   "PmG5cv": [
     "Somalia"
   ],
@@ -68359,6 +68913,9 @@
   "Q+YV/T": [
     "Comută fereastra Inbox"
   ],
+  "Q+dH5r": [
+    "Aspect nou, provocări noi"
+  ],
   "Q+fhfv": [
     "Suprimare zgomot activă"
   ],
@@ -68395,6 +68952,9 @@
   ],
   "Q03WWV": [
     "Acțiune necesară"
+  ],
+  "Q0A42h": [
+    "Reduceri lunare la SteelSeries"
   ],
   "Q0EMOP": [
     "Colțurile de pe Discord unde te-ai simțit „acasă” în 2025."
@@ -68456,6 +69016,9 @@
   ],
   "Q158Xe": [
     "Poți păstra această decorațiune gratuită făcând un cadou!"
+  ],
+  "Q15RXC": [
+    "Deblochează Xbox Game Pass cu Nitro"
   ],
   "Q18lRK": [
     "Abonamentele tale se vor reînnoi automat pe ",
@@ -68983,6 +69546,9 @@
   "QHHwRR": [
     "Verificat"
   ],
+  "QHrFo6": [
+    "Nu poți redirecționa mesaje către acest canal restricționat în funcție de vârstă."
+  ],
   "QHvDTL": [
     "Blocare raport de aspect"
   ],
@@ -69283,6 +69849,9 @@
   ],
   "QOs3XA": [
     "Pentru a ne asigura că le recomandăm numai servere active utilizatorilor Discord, serverele din Descoperire trebuie să aibă un nivel minim de activitate."
+  ],
+  "QP/6xR": [
+    "Cu Nitro câștigi mai multe Orbs"
   ],
   "QP5W1R": [
     [
@@ -70083,6 +70652,9 @@
   ],
   "Qnf32C": [
     "Partajează-mi profilul complet cu"
+  ],
+  "Qno0jg": [
+    "Încă nu ai obținut nicio insignă"
   ],
   "QntEEG": [
     "Schimbă aspectul mesajelor din chat."
@@ -70915,6 +71487,9 @@
   "R7VMEE": [
     "Anul trecut"
   ],
+  "R7YJAY": [
+    "Poți juca în cloud anumite jocuri din biblioteca ta Xbox"
+  ],
   "R7mv+G": [
     "Știm că ești în căutare de aventură, dar ai puținică răbdare! Noi misiuni vor fi disponibile în curând."
   ],
@@ -71275,6 +71850,9 @@
   ],
   "RGKlM0": [
     "Ia-ți Basic"
+  ],
+  "RGT513": [
+    "Xbox Game Pass te așteaptă"
   ],
   "RGa/Gb": [
     "Raportul nu este eligibil pentru verificare."
@@ -72232,6 +72810,9 @@
   "RfkLDs": [
     "Cod nou în:"
   ],
+  "RgDY7v": [
+    "Previzualizează serverul"
+  ],
   "RgIi2B": [
     "Sondaj"
   ],
@@ -73004,6 +73585,9 @@
   ],
   "S0H8in": [
     "Mementourile se pun pe pauză"
+  ],
+  "S0ODmT": [
+    "Setări imagine"
   ],
   "S0W8Z5": [
     "Conectează-te"
@@ -75264,6 +75848,9 @@
   "Str6/o": [
     "Căutam un anumit mesaj știind exact cum era formulat"
   ],
+  "StrErG": [
+    "Mesajul tău a fost eliminat"
+  ],
   "Su1Zkt": [
     "Salutare, amici de pe Android!"
   ],
@@ -75443,6 +76030,23 @@
   ],
   "SzGV0g": [
     "Acestea nu îți mai afectează starea contului."
+  ],
+  "SzOYGc": [
+    "Abonează-te la Nitro și accesează Xbox Game Pass (Starter Edition), oferte la echipamente, avantaje noi pentru Orbs și multe altele. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "SzUaZ1": [
     [
@@ -76243,6 +76847,9 @@
     ],
     " pentru a primi articolul."
   ],
+  "TNS24d": [
+    "Descoperă avantajele Nitro"
+  ],
   "TNamrx": [
     "Adaugă un titlu"
   ],
@@ -76656,6 +77263,30 @@
       "pendingIgnored"
     ],
     " de la conturi ignorate"
+  ],
+  "TWtV8E": [
+    [
+      8,
+      "defaultPriceHook",
+      [
+        [
+          1,
+          "defaultPrice"
+        ]
+      ]
+    ],
+    " ",
+    [
+      8,
+      "premiumPriceHook",
+      [
+        [
+          1,
+          "premiumPrice"
+        ]
+      ]
+    ],
+    " cu Nitro"
   ],
   "TWuDTt": [
     "Adaugă mai multe favorite"
@@ -79109,6 +79740,9 @@
     ],
     "?"
   ],
+  "UVL9tD": [
+    "Xbox Game Pass"
+  ],
   "UVXL1R": [
     "Canalele beta permit utilizatorilor să revendice gratuit ramificații de testare pentru jocul tău. ",
     [
@@ -80397,6 +81031,9 @@
   "V+IE93": [
     "Treci la Nitro pentru a debloca accesul la această etichetă pentru nume!"
   ],
+  "V+Iv+U": [
+    "Selectează o aplicație"
+  ],
   "V+Pwy9": [
     "Coreea de Nord"
   ],
@@ -80580,6 +81217,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Extensie de serviciu de notificare"
   ],
   "V4UDY1": [
     "Cere-le prietenilor să te invite pe serverele lor, unde puteți discuta și petrece timpul împreună."
@@ -81409,6 +82049,9 @@
   "VQ5Xo9": [
     "Portugheză Braziliană"
   ],
+  "VQKK5O": [
+    "Starea stocării în sistem"
+  ],
   "VQOSXq": [
     "După ce accepți, vei avea credit pentru ",
     [
@@ -81513,6 +82156,9 @@
       "price"
     ],
     " / lună fiecare"
+  ],
+  "VSunuT": [
+    "Încarcă diagnosticele de stocare"
   ],
   "VT02mI": [
     "Nu ai nicio insignă! Vezi insignele pe care le poți obține."
@@ -82735,6 +83381,9 @@
   "VxBO2F": [
     "Actualizări profil"
   ],
+  "VxE3o6": [
+    "Regulă de moderare a aplicației"
+  ],
   "VxN3Lo": [
     "Pus pe pauză de AutoMod"
   ],
@@ -83126,6 +83775,23 @@
       "cardinal"
     ],
     ". Widget-ul nu-ți va apărea în profil decât după ce adaugi cel puțin un joc."
+  ],
+  "W8jOD0": [
+    "Un cod per achiziție. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "W9DVVf": [
     "Trimite-le rapid mesaje prietenilor care joacă și ei atunci când lansezi un joc"
@@ -84058,6 +84724,9 @@
   "WVbpcy": [
     "Adaugă un profil"
   ],
+  "WViBDk": [
+    "Urmărim deschiderile și clicurile din e-mailuri pentru a vedea ce este util și a îmbunătăți e-mail-urile pe care le trimitem."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -84703,9 +85372,6 @@
   "Wgpwpp": [
     "general"
   ],
-  "WhPKFP": [
-    "Majoritatea serverelor de jocuri necesită acum mai puține boosturi pentru a fi deblocate."
-  ],
   "WhR38i": [
     "Invită-ți prietenii la hub-ul studențesc pentru instituția ta de învățământ"
   ],
@@ -84792,6 +85458,9 @@
   ],
   "WjNAAA": [
     "Nu ai acces la lansarea activității solicitate"
+  ],
+  "WjOclf": [
+    "Economisește până la 20% la orice achiziție din Magazin și primește articole exclusive. Numai cu Nitro."
   ],
   "WjcnZD": [
     "Insignă Inimă"
@@ -84932,6 +85601,9 @@
   ],
   "WlWSBT": [
     "Trimitere mesaje vocale"
+  ],
+  "Wm58LR": [
+    "Reduceri unice"
   ],
   "WmagiB": [
     "Toate canalele de pe server vor fi disponibile doar pentru abonați."
@@ -85155,6 +85827,9 @@
   "Wrg9Jn": [
     "A dezactivat regula"
   ],
+  "WrleYK": [
+    "Activează regula"
+  ],
   "Wrvb3V": [
     "Beneficii abonament"
   ],
@@ -85238,6 +85913,9 @@
   ],
   "Wv7HLS": [
     "Drop-uri nou-nouțe, doar pentru tine"
+  ],
+  "WvAqZA": [
+    "Ai obținut o decorațiune gratuită"
   ],
   "Wvc/I+": [
     "Bună dimineața,"
@@ -86887,6 +87565,9 @@
   "XcGEcs": [
     "Overlay-ul nu este acceptat pentru acest joc."
   ],
+  "XcOMLu": [
+    "Economisește când îți schimbi stilul"
+  ],
   "XcPHfw": [
     "Finalizează"
   ],
@@ -88424,6 +89105,9 @@
   "YCCMkJ": [
     "Arată o solicitare de confirmare înainte de a trece într-un alt canal de voce."
   ],
+  "YCIfhC": [
+    "Discord este o aplicație gratuită pentru discuții, streaming și relaxare"
+  ],
   "YCZldK": [
     "Deblochează o mulțime de avantaje cu Nitro"
   ],
@@ -88706,6 +89390,9 @@
   ],
   "YK+wUg": [
     "PC"
+  ],
+  "YKJw4W": [
+    "Acum e mai ușor să obții Orbs și să le ții socoteala."
   ],
   "YKVlC7": [
     "Clipul tău video are momentan o calitate redusă. Acest lucru se poate datora condițiilor de rețea."
@@ -89296,6 +89983,9 @@
   "YZookV": [
     "Canale implicite și întrebări de înainte de alăturare"
   ],
+  "YZqqTX": [
+    "Trimite mesaje din Whiteboard"
+  ],
   "YaW9wI": [
     "Stimulează-ți serverul până la nivelul ",
     [
@@ -89664,6 +90354,9 @@
   ],
   "Yl1D84": [
     "Oprit"
+  ],
+  "Yl5ww1": [
+    "Valabilă pentru orice produse Logitech G, cu excepția produselor noi și a seriei PRO."
   ],
   "Yl8E4h": [
     "Mută în sus"
@@ -90558,6 +91251,9 @@
   "Z2CUgn": [
     "Comută la mesaj direct"
   ],
+  "Z2Ipu/": [
+    "Elimină"
+  ],
   "Z2L8V2": [
     "Verificată la"
   ],
@@ -90688,6 +91384,9 @@
   "Z3Vn/X": [
     "Care e cel mai inutil talent pe care-l ai?"
   ],
+  "Z3uXLR": [
+    "Creator de încorporări"
+  ],
   "Z43V9S": [
     "Șterge imaginea personalizată: ",
     [
@@ -90803,6 +91502,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Intră și ieși din canalele de voce sau text"
   ],
   "Z74GUL": [
     "Dacă te abonezi, vei debloca beneficiile categoriei ",
@@ -91131,6 +91833,28 @@
   ],
   "ZGKm3p": [
     "Felicitări! Ai atins un nou prag pentru abonați."
+  ],
+  "ZGOJ8R": [
+    "Revendică o reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la Logitech G în fiecare lună, plus reduceri unice pentru echipamentele din linia de simulare PRO Series și pentru produsele noi. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "ZGVL3g": [
     [
@@ -92695,7 +93419,7 @@
     "Clic pentru a afișa spoiler-ul"
   ],
   "ZqCAos": [
-    "Obține Orbs mai repede"
+    "Deblochează mai multe Orbs"
   ],
   "ZqK0uI": [
     "Fereastră pop-up"
@@ -92776,6 +93500,9 @@
   ],
   "Zs9h9Z": [
     "Stimulează-ți serverele preferate"
+  ],
+  "ZsAL7q": [
+    "Ascunde lista de prieteni"
   ],
   "ZsO1Sx": [
     "Abonamentul tău, care are avantaje în chat și o reducere la boost-uri la prețul de ",
@@ -93081,6 +93808,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Creează un fir"
   ],
   "ZxNVMy": [
     "Încearcă o altă căutare sau ",
@@ -94513,7 +95243,7 @@
     "Forint maghiar"
   ],
   "abaDI+": [
-    "Un loc pentru tine și prietenii tăi"
+    "Creează un loc pentru tine și prietenii tăi"
   ],
   "abacus": [
     "abac",
@@ -95519,6 +96249,9 @@
     ],
     "."
   ],
+  "ar2OUZ": [
+    "Fișierul imagine este prea mare."
+  ],
   "ar3a3q": [
     "Folosim informațiile transmise doar pentru a-ți confirma grupa de vârstă, apoi le ștergem."
   ],
@@ -96481,6 +97214,9 @@
   "b1JC+l": [
     "Un ultim pas!"
   ],
+  "b1X5Jf": [
+    "Până la 25 USD/an în Magazin prin recompense"
+  ],
   "b2+FCc": [
     "știri-din-cămin"
   ],
@@ -97244,6 +97980,9 @@
   "bOQ3jV": [
     "Vocea ta a fost deconectată deoarece te-ai conectat dintr-o locație diferită."
   ],
+  "bOf5IH": [
+    "Deblochează Xbox Game Pass și nu numai cu Nitro"
+  ],
   "bOu6Wn": [
     "Începe evenimentul tău în ",
     [
@@ -97476,6 +98215,9 @@
   "bVbB63": [
     "Alege un cont"
   ],
+  "bVwQhX": [
+    "Elimină"
+  ],
   "bW+JCW": [
     [
       1,
@@ -97635,6 +98377,9 @@
   ],
   "bZBN64": [
     "Aplicație"
+  ],
+  "bZLaD+": [
+    "Deblochează recompensele"
   ],
   "bZY171": [
     "Salvează"
@@ -99043,6 +99788,9 @@
   "bpghV6": [
     "se bagă cineva în aram"
   ],
+  "bpksos": [
+    "Peste 50 de jocuri de explorat, precum Stardew Valley și Fallout 4"
+  ],
   "bpycfA": [
     "Fixează emojiuri pentru a le încărca."
   ],
@@ -99197,6 +99945,22 @@
   ],
   "bs+W8E": [
     "Încă mai există membri în așteptare care nu au trecut de procesul de verificare."
+  ],
+  "bsMVNi": [
+    "Obține peste 50 de jocuri, 10 ore pe lună de gaming în cloud și multe altele. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "bsbMVz": [
     "Deconectează"
@@ -100372,6 +101136,9 @@
   "cHszXg": [
     "Adaugă membri"
   ],
+  "cHxSwT": [
+    "Diagnosticele parțiale de stocare au fost încărcate. Unele fișiere nu au putut fi incluse sau s-a atins o limită de scanare."
+  ],
   "cHzQ2O": [
     "Contestă carantina"
   ],
@@ -100556,6 +101323,26 @@
   ],
   "cM8bbx": [
     "Ia-ți Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ai colecționat recompensa exclusivă"
+        ],
+        "other": [
+          "Ai colecționat toate cele ",
+          [
+            7
+          ],
+          " recompense exclusive"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Ramele sunt chenare care îți înconjoară profilul și îți completează aspectul. Membrii Nitro au parte de acces timpuriu. Ia-ți și tu rama perfectă din Magazin."
@@ -100775,6 +101562,28 @@
   ],
   "cSb7U0": [
     "Dezactivare Centru pentru familii"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip selectat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clipuri selectate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Atinge de două ori pentru a vedea profilul"
@@ -101506,6 +102315,9 @@
   ],
   "cfeFEt": [
     "Plata nu a reușit"
+  ],
+  "cfrfyZ": [
+    "Afișează o sugestie când Discord detectează un dispozitiv audio nou."
   ],
   "cfu/5d": [
     "Nitro anual"
@@ -104259,6 +105071,23 @@
       "channelName"
     ]
   ],
+  "dHQQvk": [
+    "Ia-ți Nitro și bucură-te de peste 50 de jocuri pentru PC și consolă cu Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică termeni și condiții de eligibilitate"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "dHvJ2p": [
     "Eveniment programat"
   ],
@@ -105124,6 +105953,9 @@
   ],
   "dcK4Ch": [
     "O poți schimba mai târziu."
+  ],
+  "dcOuei": [
+    "Vezi provocările"
   ],
   "dcSDhW": [
     "Trebuie să ai: ",
@@ -108202,6 +109034,9 @@
   "ebojgD": [
     "Da, contează și pe mine!"
   ],
+  "ec5Rdd": [
+    "10 ore de gaming în cloud în fiecare lună"
+  ],
   "ecTJkR": [
     "Rame pentru profil"
   ],
@@ -108293,7 +109128,7 @@
     "Dolar canadian"
   ],
   "efLpNC": [
-    "Momente memorabile"
+    "momente memorabile"
   ],
   "efLzgX": [
     "Durata valabilității sau numărul de membri noi care se pot alătura înainte să expire invitația."
@@ -108951,6 +109786,29 @@
   "euXi0Q": [
     "Verifici o cerere a unui utilizator care dorește să se alăture serverului tău. Până nu o aprobi, utilizatorul nu poate intra pe server și nici nu poate discuta pe el."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server are"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servere au"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " setări personalizate"
+  ],
   "euizJY": [
     [
       1,
@@ -109009,6 +109867,13 @@
   ],
   "eutr4P": [
     "Spune-ne puțin despre tine"
+  ],
+  "evGwDW": [
+    "Ciornă — programat să se publice pe ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Solicitări de mesaje — ",
@@ -109689,6 +110554,9 @@
   "fAQ/8h": [
     "Alege un canal pe care crezi că ar trebui să îl viziteze noii membri."
   ],
+  "fAU31r": [
+    "Pentru gaming, stat de vorbă, sau nu știu, teme."
+  ],
   "fAW3z4": [
     "Nu s-a găsit niciun rezultat"
   ],
@@ -109720,6 +110588,28 @@
   ],
   "fBsloy": [
     "Ups!"
+  ],
+  "fC4abC": [
+    "Valabilă pentru produsele noi, în ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          "prima lună"
+        ],
+        "other": [
+          "primele ",
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de disponibilitate."
   ],
   "fC9qV0": [
     "Coduri de rezervă"
@@ -111910,6 +112800,9 @@
   "fr5bJy": [
     "Apasă pe comutatorul de ieșire pentru a trece la consolă."
   ],
+  "fr7qnZ": [
+    "Selectează produse"
+  ],
   "frCwaT": [
     "Mesajele sale vor fi ascunse"
   ],
@@ -112840,6 +113733,9 @@
   "gEp2SG": [
     "Se caută în profilurile de joc"
   ],
+  "gF8HJo": [
+    "Sugestii de dispozitive audio"
+  ],
   "gF8IpD": [
     "Utilizatorul pe care îl excluzi"
   ],
@@ -113763,6 +114659,9 @@
       "username"
     ]
   ],
+  "gc2sa/": [
+    "Reduceri lunare la Logitech G"
+  ],
   "gc9aSx": [
     "Trimite o cerere de prietenie"
   ],
@@ -114266,6 +115165,9 @@
   ],
   "gn2c6X": [
     "Cont raportat"
+  ],
+  "gn3Poi": [
+    "Creează un link de invitație pe care îl poate folosi oricine pentru a se alătura sau invită-ți direct prietenii."
   ],
   "gn7SZe": [
     "Descoperă cele mai noi decorațiuni pentru avatar și efecte pentru profil și colecționează-ți stilurile favorite."
@@ -114814,6 +115716,23 @@
   ],
   "gzXECH": [
     "Codurile țărilor"
+  ],
+  "gzazAe": [
+    "Nitro îți oferă acum un Xbox Game Pass și chiar și mai multe avantaje. Pune mâna pe ele! ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "gzhz8w": [
     "Revendică-ți perioada de probă Nitro de o săptămână înainte să dispară"
@@ -116680,6 +117599,9 @@
   "hcMwDW": [
     "După o dată"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Insignă Fulger"
   ],
@@ -117236,6 +118158,9 @@
   ],
   "hjaYYn": [
     "Decorațiune aplicată"
+  ],
+  "hjlZZf": [
+    "Poate dura până la 24 de ore până când modificarea intră în vigoare."
   ],
   "hjvcLO": [
     "Boosturi pentru server"
@@ -118568,6 +119493,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Adaugă imagine"
+  ],
   "iG+nZx": [
     "Asigură-te că permisiunile pentru canalele Sarcini și Resurse sunt setate corect."
   ],
@@ -119168,6 +120096,9 @@
   "iVfA9i": [
     "marginea dreaptă"
   ],
+  "iVqj8B": [
+    "Pagină principală clipuri"
+  ],
   "iVzBOh": [
     "Copiază link-ul"
   ],
@@ -119584,6 +120515,26 @@
   ],
   "ibxdrl": [
     "Caută utilizatori de pe serverele tale ca să le trimiți mesaje sau adaugă prieteni ca să-i vezi aici."
+  ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Dăruiește Nitro și alege o decorațiune gratuită pe care s-o păstrezi."
+        ],
+        "other": [
+          "Dăruiește Nitro și alege ",
+          [
+            7
+          ],
+          " decorațiuni gratuite pe care să le păstrezi."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "icWQKn": [
     "Primește credite Nitro și articole favorite din Magazin fără să plătești nimic."
@@ -120511,6 +121462,9 @@
   "ivpkNe": [
     "Nu, mulțumesc"
   ],
+  "ivpn6G": [
+    "Alege o decorațiune gratuită pe care s-o păstrezi"
+  ],
   "iw0hFi": [
     [
       8,
@@ -120880,6 +121834,9 @@
       "gameTitle"
     ]
   ],
+  "j3AKJQ": [
+    "Fișierul nu este o imagine acceptată. Încearcă un PNG, JPEG sau WebP."
+  ],
   "j3KOkh": [
     "Ai încălcat regulile Discord și, dacă acest lucru se repetă, este posibil să îți pierzi contul."
   ],
@@ -121201,6 +122158,9 @@
   ],
   "jCOdvx": [
     "Jocuri adăugate"
+  ],
+  "jCQlbu": [
+    "Descarcă aplicația Discord"
   ],
   "jCV1Tz": [
     "ALT"
@@ -122490,6 +123450,14 @@
   "jjpcno": [
     "Vezi în setări"
   ],
+  "jkdhZq": [
+    "Reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la toate produsele"
+  ],
   "jkg8Zu": [
     "Canalele de voce sunt perfecte când vrei să stai de vorbă. Alătură-te când ai chef de o discuție, iar prietenii vor putea să te vadă și să ți se alăture. E ca și cum i-ai saluta telepatic."
   ],
@@ -123759,6 +124727,9 @@
   ],
   "kHMgaK": [
     "Acum poți accepta plata pentru monetizarea serverului."
+  ],
+  "kHNeDa": [
+    "Aplicația alege ce acțiune să efectueze pentru fiecare mesaj, inclusiv să-l blocheze sau să nu facă nimic."
   ],
   "kHalVA": [
     "Copiază beneficiile sau permisiunile pentru canale de la un rol sau nivel existent."
@@ -125626,6 +126597,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Partajează tot"
+  ],
   "l3K4B/": [
     "Menționează utilizatorul"
   ],
@@ -125902,6 +126876,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Invitația expiră în ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Cele mai vechi"
@@ -126812,6 +127809,13 @@
   "lZejCq": [
     "Include menționări @rol"
   ],
+  "lZuIri": [
+    "Overlay imagine: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Setări care colectează date tehnice pentru ca echipa noastră de asistență Discord să le poată analiza, cum ar fi jurnalele de depanare și înregistrările audio"
   ],
@@ -127177,6 +128181,12 @@
   ],
   "lg3Ckc": [
     "Poți folosi Modul streamer pentru a-ți ascunde detaliile personale când faci streaming."
+  ],
+  "lgDNyX": [
+    "Afișează fila hub-ului serverului în lista de canale"
+  ],
+  "lgHr73": [
+    "Discută, fă streaming și relaxează-te"
   ],
   "lgcisd": [
     "Serverele care au peste ",
@@ -127765,6 +128775,9 @@
         ]
       ]
     ]
+  ],
+  "lsRjfl": [
+    "Valabilă pentru echipamentele de curse din linia de simulare PRO Series."
   ],
   "lsU63N": [
     "Avatarurile tale recente"
@@ -128931,6 +129944,9 @@
   ],
   "mGsBLV": [
     "Actualizează canal"
+  ],
+  "mH30Yx": [
+    "Valabilă pentru orice produse Logitech G, cu excepția produselor noi și a echipamentelor din linia de simulare PRO Series."
   ],
   "mH8BIZ": [
     "Poți oricând să-ți actualizezi alegerea pentru acest dispozitiv din setările iOS. Dacă permiți urmărirea, poți să:"
@@ -131114,6 +132130,18 @@
   "mmNkUA": [
     "Obține un link de invitație personalizat folosind boosturi – n-ai nevoie de un anumit nivel al serverului! E o opțiune perfectă dacă vrei să-ți crești serverul."
   ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " selectate"
+  ],
   "mmZGEG": [
     "Câștigă ",
     [
@@ -132486,6 +133514,9 @@
   ],
   "nD78oa": [
     "Folosește această etichetă bonus pentru nume cu un abonament Nitro activ."
+  ],
+  "nDEuO1": [
+    "Accesează peste 50 de jocuri, 10 ore pe lună de gaming în cloud și nu numai."
   ],
   "nDGqqq": [
     "Iată o sugestie: ",
@@ -135134,9 +136165,6 @@
   "o6M1aS": [
     "Accesarea informațiilor tale de membru (porecla, avatarul, rolurile etc.) pentru serverele de care aparții"
   ],
-  "o6QHZ/": [
-    "Solicită o reanalizare manuală"
-  ],
   "o6Qr6n": [
     "Înregistrează urmărirea performanței"
   ],
@@ -135469,6 +136497,9 @@
       "numEmojis"
     ],
     " emojiuri ale tale"
+  ],
+  "oDfh3O": [
+    "Xbox Game Pass (Starter Edition)"
   ],
   "oDxaKy": [
     "Blochează"
@@ -136487,6 +137518,14 @@
   ],
   "og4NNr": [
     "Începe să discuți cu noii prieteni!"
+  ],
+  "ogcfac": [
+    "Reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% reducere la seria PRO"
   ],
   "ogxXGq": [
     "Acțiuni"
@@ -138480,22 +139519,6 @@
   "pJ4hJE": [
     "Finalizează configurarea nivelurilor de abonamente la server pentru a începe să câștigi!"
   ],
-  "pJAxgQ": [
-    "Vrei o altă metodă? ",
-    [
-      8,
-      "$link",
-      [
-        "Solicită o reanalizare manuală"
-      ],
-      [
-        [
-          1,
-          "handleOnRequestHook"
-        ]
-      ]
-    ]
-  ],
   "pJMipx": [
     "Acțiuni membru permisiuni canal"
   ],
@@ -138662,6 +139685,13 @@
   ],
   "pS+K2L": [
     "Mod de intrare"
+  ],
+  "pSBCjv": [
+    [
+      1,
+      "discountPercent"
+    ],
+    "% reducere la linia de simulare PRO Series"
   ],
   "pSZKvM": [
     "Data"
@@ -139145,6 +140175,29 @@
     "pauză",
     "vertical"
   ],
+  "pb2Was": [
+    "Adaugă până la ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " clip"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " clipuri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "pb7lpK": [
     "Alege o insignă"
   ],
@@ -139191,6 +140244,9 @@
   ],
   "pdZJaq": [
     "1 an de Nitro Classic"
+  ],
+  "pdaUSE": [
+    "Xbox Game Pass este acum oferit gratuit prin Nitro"
   ],
   "pe0fpS": [
     "Afișează/Nu afișa detaliile perioadei de tranzacții pentru ",
@@ -139965,6 +141021,9 @@
   "piPHvY": [
     "Bine ai venit"
   ],
+  "piRNeN": [
+    "Nu s-a putut citi imaginea."
+  ],
   "piW6YS": [
     "Trimite"
   ],
@@ -140720,6 +141779,9 @@
   "pqk9U0": [
     "Vezi mai multe"
   ],
+  "pqph/A": [
+    "Când poți, fără apeluri și invitații."
+  ],
   "pqqixk": [
     "Activată"
   ],
@@ -141017,6 +142079,9 @@
   ],
   "put7Hw": [
     "opțiuni"
+  ],
+  "putVLl": [
+    "Folosește reacții personalizate, încorporări și boți."
   ],
   "put_litter_in_its_place": [
     "coș de gunoi",
@@ -141946,6 +143011,9 @@
   "qI14KM": [
     "Despre alertele de siguranță"
   ],
+  "qI5XnY": [
+    "Ia-ți Nitro"
+  ],
   "qINKo/": [
     "Azi la 9 dimineața"
   ],
@@ -142395,6 +143463,9 @@
         ]
       ]
     ]
+  ],
+  "qT6LjY": [
+    "Azi la 1 după-amiaza"
   ],
   "qTCYun": [
     "Vrei să aplici schimbarea și la celelalte servere ale tale?"
@@ -143062,6 +144133,9 @@
   "qnJ9W3": [
     "Raportează o problemă"
   ],
+  "qnSo/i": [
+    "Comerț social"
+  ],
   "qnYumI": [
     [
       6,
@@ -143220,6 +144294,9 @@
   ],
   "qpWnyC": [
     "Accesează Setările"
+  ],
+  "qpw1d9": [
+    "Poți partaja doar 10 clipuri în același timp."
   ],
   "qpwaNY": [
     "Data lansării"
@@ -143625,6 +144702,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r/jeXi": [
+    "Această acțiune va anula Xbox Game Pass pe contul Xbox asociat. Modificarea poate dura până la 24 de ore pentru a intra în vigoare."
   ],
   "r/jzu1": [
     "Ai deja un cont?"
@@ -145308,6 +146388,14 @@
   "rb7dJ7": [
     "Etichete pentru nume"
   ],
+  "rbAtUi": [
+    "Activ — publicat pe ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
+  ],
   "rbIry3": [
     "Actualizează firul"
   ],
@@ -145952,6 +147040,9 @@
   ],
   "rki38K": [
     "Selectează un profil"
+  ],
+  "rkt1aw": [
+    "Nitro îți oferă acum Xbox Game Pass (Starter Edition)"
   ],
   "rkyOzK": [
     "Vezi membri noi"
@@ -147469,6 +148560,9 @@
       ]
     ]
   ],
+  "sD3eKQ": [
+    "Anulează"
+  ],
   "sDKIpm": [
     [
       6,
@@ -148106,6 +149200,9 @@
   ],
   "sS2J0G": [
     "Deocamdată nu e nimeni aici!\nIntră când ești gata să vorbești."
+  ],
+  "sS4xGd": [
+    "Creează o încorporare partajabilă pentru anumite produse din Magazinul tău de jocuri."
   ],
   "sSAQtj": [
     "A actualizat proprietățile firului"
@@ -149051,6 +150148,9 @@
       "count"
     ],
     " fără rol"
+  ],
+  "sgse8P": [
+    "Afișează lista de prieteni"
   ],
   "shE8hW": [
     "Faceți cu mâna, partajați-vă ecranele sau, pur și simplu, stați de vorbă."
@@ -153289,6 +154389,9 @@
   "to6uUe": [
     "Postați-vă scorurile din jocurile de ritm!"
   ],
+  "toGFBn": [
+    "Extensie de widget pentru ecranul de blocare"
+  ],
   "toKjAM": [
     "url-ul-tău-aici"
   ],
@@ -154029,9 +155132,6 @@
   ],
   "ty+iOZ": [
     "Primește e-mailuri despre caracteristici noi, recomandări personalizate și oferte speciale! (Opțional)"
-  ],
-  "ty+iWP": [
-    "Solicită o reanalizare manuală"
   ],
   "ty7Lxy": [
     "Treci la canalul de voce"
@@ -154975,6 +156075,9 @@
       ]
     ]
   ],
+  "uF5VXk": [
+    "Imaginea nu poate fi adăugată la un clip."
+  ],
   "uFHxNd": [
     "Confirmă noul grup"
   ],
@@ -155147,6 +156250,21 @@
   "uJWIj/": [
     "Continuă pe Discord"
   ],
+  "uJcbMv": [
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Termene și condiții."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "uJd+85": [
     "Să înceapă o sesiune gateway în numele tău"
   ],
@@ -155158,6 +156276,9 @@
   ],
   "uKFeS1": [
     "Fă upgrade"
+  ],
+  "uKMqrF": [
+    "Eroare"
   ],
   "uKZtC/": [
     "Trimite mesaje și fișiere media"
@@ -156192,6 +157313,9 @@
   "uknrnq": [
     "În prezent nu este activ niciun regulament, ceea ce înseamnă că noii membri vor vedea o fereastră pop-up goală."
   ],
+  "ukvxpp": [
+    "Xbox Game Pass te așteaptă. Intră în joc."
+  ],
   "ukyggU": [
     "Bhutan"
   ],
@@ -156742,6 +157866,42 @@
   "uy25Qz": [
     "Stickerele de pe acest server nu sunt disponibile"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " are permisiuni personalizate pentru DM-uri. Selectează-l pentru a le vedea sau schimba."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servere"
+            ]
+          ],
+          " au permisiuni personalizate pentru DM-uri. Selectează unul pentru a le vedea sau schimba."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Titlul postării"
   ],
@@ -157131,6 +158291,9 @@
   "v8MLqz": [
     "Partajarea nu este disponibilă în acel canal"
   ],
+  "v8QrJf": [
+    "Poți să valorifici niște Orbs"
+  ],
   "v8UpgE": [
     "Vizitează magazinul jocului"
   ],
@@ -157146,6 +158309,23 @@
   ],
   "v92GNV": [
     "Îți oferă opțiunea de a alege un GIF pe post de banner."
+  ],
+  "v9AaV4": [
+    "Nitro îți oferă acum Xbox Game Pass. Bucură-te de peste 50 de jocuri pentru PC și consolă, fără costuri suplimentare. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică termeni și condiții de eligibilitate"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "v9GTV8": [
     "Personalizează-ți folderele"
@@ -159974,6 +161154,9 @@
   "wBoE6L": [
     "Învățați împreună"
   ],
+  "wBz9aO": [
+    "Eliminare în curs"
+  ],
   "wC/0Lz": [
     "Elimină captura de ecran"
   ],
@@ -160468,6 +161651,9 @@
   "wR+Fuo": [
     "Amuțește acest fir"
   ],
+  "wR5R9w": [
+    "Înlocuiește imaginea"
+  ],
   "wR5wOo": [
     "Efect pentru profil"
   ],
@@ -160517,6 +161703,9 @@
   ],
   "wS+5Wb": [
     "Invită să urmărească stream-ul"
+  ],
+  "wSD7jV": [
+    "Selectează un canal pentru notificări de siguranță"
   ],
   "wSZfJR": [
     "„Te-am raportat din greșeală”"
@@ -162308,6 +163497,9 @@
       1,
       "activity"
     ]
+  ],
+  "wqhsP3": [
+    "Revendică Xbox Game Pass"
   ],
   "wqsK7q": [
     "Pornește GIF-urile atunci când Discord este în prim-plan"
@@ -164599,6 +165791,9 @@
     ],
     ")"
   ],
+  "xZiyZj": [
+    "Poți juca în cloud anumite jocuri din biblioteca ta Xbox"
+  ],
   "xZkJAH": [
     "Bun venit la Nitro!"
   ],
@@ -164915,6 +166110,9 @@
   ],
   "xhQsxx": [
     "Accesează-ți statusul Nitro"
+  ],
+  "xhZ23b": [
+    "xhZ23b"
   ],
   "xhgNd0": [
     "Server-ul lui ",
@@ -165286,9 +166484,6 @@
       ]
     ],
     ". Păstrează recompensa cu Nitro!"
-  ],
-  "xr4m5B": [
-    "Vai, nu! Nu ai Boost-uri disponibile."
   ],
   "xr59t7": [
     "Creează un server"
@@ -169018,6 +170213,23 @@
   "zPerw8": [
     "Fără conexiune."
   ],
+  "zPnFYf": [
+    "Tocmai s-a aplicat multiplicatorul de 1,2x pentru Orbs. Mai sunt multe de descoperit în Nitro. Accesează pagina principală Nitro pentru a vedea noutățile. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Condiții"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zPxMdQ": [
     "Abonament Premium anulat"
   ],
@@ -169131,6 +170343,22 @@
   "zS0K+s": [
     "Previzualizează emojiul când îl folosești ca reacție"
   ],
+  "zS4GBR": [
+    "Reduceri și avantaje care-ți amplifică jocurile și socializarea. Primește-le prin Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică condiții."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "zSG3Qy": [
     "Mesajul tău nu s-a putut livra, deoarece conține un link blocat de Discord. Află mai multe aici: ",
     [
@@ -169226,6 +170454,23 @@
   "zUUbBM": [
     "Camerun"
   ],
+  "zUjL+R": [
+    "Fă upgrade la Nitro și bucură-te de peste 50 de jocuri pentru PC și consolă cu Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică termeni și condiții de eligibilitate"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zUjLl+": [
     "Adaugă un clip video, o fotografie sau orice alt fișier pe care vrei să-l partajezi cu membrii."
   ],
@@ -169237,6 +170482,9 @@
   ],
   "zV0/FC": [
     "Tip mesaj nevalid"
+  ],
+  "zVGHbw": [
+    "Obține o decorațiune gratuită"
   ],
   "zVJxqj": [
     "Trebuie să aibă cel puțin ",
@@ -169407,6 +170655,9 @@
   "zZp618": [
     "Iată toate dispozitivele care sunt conectate în prezent la contul tău Discord. Te poți deconecta de la fiecare separat sau de la toate odată.\n\nDacă vezi un dispozitiv pe care nu-l recunoști, deconectează-te de la el și schimbă imediat parola contului Discord."
   ],
+  "zaEQz+": [
+    "Date din browser șterse."
+  ],
   "zany_face": [
     "ciudat",
     "dubios",
@@ -169476,6 +170727,9 @@
   ],
   "zcKE8W": [
     "Aplicație Xbox pentru mobil instalată"
+  ],
+  "zcZtrU": [
+    "Personalizează insignele"
   ],
   "zcbFu1": [
     "Emoji folosit"
@@ -169548,6 +170802,14 @@
       "cashtag"
     ],
     "."
+  ],
+  "zeBjoX": [
+    "Reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la produsele noi"
   ],
   "zePEol": [
     "Achiziții în cadrul jocului"
@@ -169712,6 +170974,14 @@
   ],
   "zihbmv": [
     "Nu s-a găsit niciun rezultat"
+  ],
+  "zinfZi": [
+    "Revendică o reducere de ",
+    [
+      1,
+      "discountPercent"
+    ],
+    "% la echipamentele Logitech G cu un cod nou în fiecare lună."
   ],
   "zipper_mouth": [
     "buze",

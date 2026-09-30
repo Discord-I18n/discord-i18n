@@ -19203,6 +19203,14 @@
   "53vNcB": [
     "Server Rules"
   ],
+  "53xiNu": [
+    "You need the Manage Channels permission in ",
+    [
+      1,
+      "server"
+    ],
+    " to publish this app."
+  ],
   "53znGH": [
     "You recently chatted"
   ],
@@ -33826,6 +33834,25 @@
   ],
   "AcJ4ke": [
     "Set hours when your teen can't use Discord. They won't receive notifications and cannot access Discord during this time."
+  ],
+  "AcWS6c": [
+    "The live version is out of date. ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "action"
+        ]
+      ],
+      [
+        [
+          1,
+          "onUpdate"
+        ]
+      ]
+    ]
   ],
   "AcaNYw": [
     "Want this server to feel unique? Unlock custom server banners with ",
@@ -88440,6 +88467,28 @@
       "cardinal"
     ],
     ". This Widget won't show up on your profile until you add at least 1 game."
+  ],
+  "W8etVA": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " song played"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " songs played"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "W8jOD0": [
     "One code per purchase. ",
@@ -149038,6 +149087,14 @@
   "qFsx5q": [
     "Show alerts in direct messages"
   ],
+  "qG1SMK": [
+    "You need the Manage Server and Manage Channels permissions in ",
+    [
+      1,
+      "server"
+    ],
+    " to publish this app."
+  ],
   "qGDEON": [
     "Be the first to Boost this server 🥇"
   ],
@@ -170689,11 +170746,12 @@
     "Create a server for your classroom"
   ],
   "x71ku3": [
-    "Needs Manage Server in ",
+    "You need the Manage Server permission in ",
     [
       1,
       "server"
-    ]
+    ],
+    " to publish this app."
   ],
   "x78c+J": [
     "This application has no commands."
@@ -173767,6 +173825,76 @@
   ],
   "yGTLxP": [
     "Invite no longer valid"
+  ],
+  "yGqf0D": [
+    "by ",
+    [
+      8,
+      "memberCountHook",
+      [
+        [
+          6,
+          "memberCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " member"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " members"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " across ",
+    [
+      8,
+      "artistCountHook",
+      [
+        [
+          6,
+          "artistCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " artist"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " artists"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " this week.",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Up"
+        ],
+        "down": [
+          "Down"
+        ],
+        "other": []
+      }
+    ]
   ],
   "yGyaIC": [
     "Character count"
