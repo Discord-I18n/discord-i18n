@@ -118,6 +118,9 @@
   "+1k/lP": [
     "Predstavljamo Integraciju zajednice"
   ],
+  "+20A3o": [
+    "Nije moguće dodati tu sliku. Pokušaj ponovno."
+  ],
   "+2QBZX": [
     "Hmmm, nismo uspjeli učitati darove u Trgovini. Vrati se kasnije."
   ],
@@ -376,6 +379,9 @@
         ]
       ]
     ]
+  ],
+  "+ADjaQ": [
+    "Nadogradi"
   ],
   "+AJFJy": [
     "U kanalu s pozornicom"
@@ -1199,6 +1205,9 @@
       "amount"
     ],
     " preostalo"
+  ],
+  "+QAvQz": [
+    "Početno izdanje Xbox Game Passa sada je dio Nitro paketa. Vrijeme je za igru."
   ],
   "+QNUov": [
     "Pokrećemo modul za isječke"
@@ -2045,6 +2054,9 @@
   ],
   "+p4GaA": [
     "E-pošta škole"
+  ],
+  "+pTnsf": [
+    "50+ igara kao što su Stardew Valley, Fallout 4 i Grounded. 10 sati igranja u oblaku svakog mjeseca. Xbox nagrade. Sve to je tvoje ako uzmeš Nitro."
   ],
   "+pfsFX": [
     "Pauzirano"
@@ -3121,6 +3133,9 @@
   "/8psS7": [
     "Kontrole unutar aktivnosti bile su konfuzne"
   ],
+  "/8znyU": [
+    "Pošalji još jedan dar da ih sve sakupiš"
+  ],
   "/91tbr": [
     "Obavijesti članove s ovom ulogom koji imaju dozvolu pregleda ovog kanala."
   ],
@@ -3201,6 +3216,9 @@
   ],
   "/AS/gM": [
     "Da, otkaži boost"
+  ],
+  "/AUOfc": [
+    "Uskoči"
   ],
   "/AXYnE": [
     "Kopiraj ID korisnika"
@@ -3371,6 +3389,9 @@
       1,
       "a"
     ]
+  ],
+  "/GObQk": [
+    "Ukloni Xbox Game Pass"
   ],
   "/GTqXG": [
     "Odaberi vrstu izvora URL-a (samo ugrađene aplikacije)"
@@ -3886,6 +3907,28 @@
   "/UJaI2": [
     "Zbunjeni bot"
   ],
+  "/UNTlE": [
+    "Uzmi ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na Logitech G svakog mjeseca i jednokratne popuste na PRO Series opremu i nove proizvode. ",
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se dodatni uvjeti"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "/UTTEg": [
     "Baci pogled na sve nove značajke koje si otključao/la"
   ],
@@ -3950,6 +3993,9 @@
   ],
   "/Whuzi": [
     "Pri korištenju Discord certificiranog mikrofona određene značajke obrade glasa više se ne obrađuju u samom Discordu,\nveć ih obrađuje mikrofon."
+  ],
+  "/WsW/1": [
+    "Isprobaj temu profila"
   ],
   "/X1ny6": [
     "Pregledaj Trgovinu i srcem označi predmete koji ti se sviđaju da ih dodaš ovdje."
@@ -4534,6 +4580,24 @@
   ],
   "/nALeY": [
     "Druge povratne informacije"
+  ],
+  "/nFLZv": [
+    "Ispunjava preduvjete za promociju: prikupljeno ",
+    [
+      1,
+      "current"
+    ],
+    " od ",
+    [
+      1,
+      "target"
+    ],
+    " – preostalo je ",
+    [
+      1,
+      "numDays"
+    ],
+    " dana"
   ],
   "/nJOlj": [
     "Aktivnost je trzala ili bi se smrznula"
@@ -5171,6 +5235,23 @@
   "02hvfp": [
     "Keep It Safe"
   ],
+  "02smVH": [
+    "Želiš izvući više iz svake misije? Nitro članovi dobivaju 1,2× orbova za misije, mjesečne orb dropove i još mnogo toga. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "03/rlQ": [
     "Za sada nema pozivnica!"
   ],
@@ -5276,12 +5357,21 @@
       1,
       "orbAmount"
     ],
-    " orbova u ",
+    " orbova za ",
     [
-      1,
-      "days"
-    ],
-    " dana"
+      6,
+      "days",
+      {
+        "one": [
+          "dan"
+        ],
+        "other": [
+          "dana"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Prenesi ",
@@ -6097,6 +6187,9 @@
   ],
   "0N1s81": [
     "Sigurnosni i pristupni ključevi"
+  ],
+  "0N8fCf": [
+    "Oh, kako si velikodušan/na. Poslao/la si dovoljno darova da osvojiš badge profila koji se razvija onoliko koliko daruješ."
   ],
   "0NJZAU": [
     "Povezano s kanalom ",
@@ -7316,6 +7409,9 @@
     ],
     " neobavezno"
   ],
+  "0mQ2U6": [
+    "Xbox Game Pass"
+  ],
   "0mTJ3j": [
     "Zajednički prijatelji"
   ],
@@ -7754,6 +7850,9 @@
   "0sTyEb": [
     "Pošalji prijavu za pridruživanje serveru."
   ],
+  "0sh8CQ": [
+    "Prikazuj prijedloge za emojije dok tipkaš"
+  ],
   "0t1aNC": [
     "Uredi emoji modela"
   ],
@@ -7868,6 +7967,9 @@
   ],
   "0vTx7j": [
     "Ponovno učitaj"
+  ],
+  "0vY+ie": [
+    "Uzmi Nitro"
   ],
   "0vZqv0": [
     "Ako uključiš Friend Sync, mi ćemo one osobe koje su ti u telefonskom imeniku automatski dodavati i kao Discord prijatelje ako:\n\n1. oboje imate telefonski broj one druge osobe i\n\n2. kod jednog i drugog je uključen Friend Sync"
@@ -9039,6 +9141,9 @@
   "1RD2jW": [
     "Nešto je pošlo krivo pri pokušaju otvaranja ovog načina."
   ],
+  "1RFJ5Q": [
+    "Pridruži se zajednici"
+  ],
   "1RH5t9": [
     "Pozvan/a"
   ],
@@ -10121,6 +10226,9 @@
   "1zoOqj": [
     "Podijeli čaroliju koju stvara Nitro."
   ],
+  "2+/rrF": [
+    "Uz Nitro možeš ostvariti popuste na predmete profila te prilagođene emojije, HD streamanje i još mnogo toga."
+  ],
   "2+A3dv": [
     "Cooldown! Boost nije moguće premjestiti ",
     [
@@ -10934,6 +11042,9 @@
   ],
   "2HvOvh": [
     "Odbijeno"
+  ],
+  "2I7nK+": [
+    "Popusti na Logitech"
   ],
   "2ICUkG": [
     "Otključan je sljedeći broj emojija samo za članove: ",
@@ -11936,6 +12047,9 @@
   ],
   "2hPcVJ": [
     "Stupanj zumiranja"
+  ],
+  "2iX+XV": [
+    "Nadogradi"
   ],
   "2ia+9V": [
     "Prikaz pojedinosti badgea"
@@ -13680,6 +13794,23 @@
   "3JGJo2": [
     "Tvoj savršeni GIF nalazi se u nekom drugom dvorcu. Pokušaj ključne riječi predložene u nastavku!"
   ],
+  "3JKWU6": [
+    "Pretplati se na Nitro i pristupi Xbox Game Passu (početnom izdanju), ponudama za opremu, novim posebnim pogodnostima za orbove i još mnogo toga. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3JWkhv": [
     "Pokaži tipkovnicu"
   ],
@@ -15061,6 +15192,22 @@
   "3iccet": [
     "Džepovi za naljepnice"
   ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Osvojio/la si besplatan ukras"
+        ],
+        "other": [
+          "Osvojio/la si besplatne ukrase"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "3ilveh": [
     "Zanemari"
   ],
@@ -15083,6 +15230,23 @@
   ],
   "3jG0Bo": [
     "Kao zadana postavka omogućuje članovima prikazivanje ovog kanala. Onemogućavanje ove postavke za @everyone učinit će ovaj kanal privatnim."
+  ],
+  "3jY5i3": [
+    "Ako voliš YouTube, onda ćeš voljeti i Premium. Ostvari 20 % popusta na sljedećih 6 mjeseci, neovisno jesi li nov/a na usluzi YouTube Premium ili je već koristiš. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "3jaCac": [
     "Sve datoteke za preuzimanje"
@@ -15248,6 +15412,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Verzija"
   ],
   "3nWhcJ": [
     "Prihvati dar"
@@ -17395,6 +17562,9 @@
   "4fnE/J": [
     "Nismo uspjeli potvrditi tvoj link za prijavu. Pokušaj ponovno kasnije."
   ],
+  "4fvi9I": [
+    "Jednim pogledom do tvojih prijatelja."
+  ],
   "4fw/T2": [
     "Upravo si boostao/la server ",
     [
@@ -18138,6 +18308,9 @@
   ],
   "4z9fN+": [
     "Isključeno"
+  ],
+  "4zROKG": [
+    "Odmah uzmi svoj Xbox Game Pass"
   ],
   "4zv/jq": [
     [
@@ -19851,6 +20024,35 @@
   "5fWB8U": [
     "Upravljanje profilom i statusom"
   ],
+  "5fXjSj": [
+    "Pozivnica istječe za ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minutu"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minuta"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Pošalji pozivnicu"
   ],
@@ -20435,6 +20637,9 @@
   ],
   "5rYBAQ": [
     "Tko se može pridružiti mojim igrama"
+  ],
+  "5rbQbD": [
+    "10 sati igranja u oblaku svakog mjeseca"
   ],
   "5rvCIR": [
     "Upotpuni svoj izgled"
@@ -21026,6 +21231,9 @@
   "61wfmh": [
     "Taj emoji više ne postoji. Odaberi neki novi."
   ],
+  "620Iwi": [
+    "Uzmi Nitro"
+  ],
   "621LJD": [
     "Nadimak"
   ],
@@ -21145,6 +21353,29 @@
       ]
     ],
     "."
+  ],
+  "65EEvD": [
+    "Novi kodovi stižu za ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "65JnWC": [
     [
@@ -21660,6 +21891,15 @@
       ]
     ]
   ],
+  "6KjkUa": [
+    "Vrijedi za bilo koji proizvod na Logitech web-mjestu, osim za G Series i nove proizvode. Istječe ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "6Kqn9M": [
     [
       6,
@@ -21715,6 +21955,9 @@
   ],
   "6MwJo/": [
     "Prikaži manje"
+  ],
+  "6NbEkN": [
+    "Odaberi aplikaciju prije spremanja ovog pravila."
   ],
   "6Nmv4i": [
     "Naši farmeri koji se bave osobnim podacima počeli su sakupljati tvoje podatke. To može potrajati do 30 dana i poslat ćemo ti e-poštu kada to bude gotovo."
@@ -23615,6 +23858,9 @@
     ],
     " u grupu."
   ],
+  "7/h5vj": [
+    "Nijedna aplikacija na ovom serveru još ne može moderirati poruke."
+  ],
   "7/qtoL": [
     "Pozivnica za ovaj model ",
     [
@@ -24437,6 +24683,9 @@
       ]
     ]
   ],
+  "7PdsMK": [
+    "Starter izdanje Xbox Game Passa sada je tvoj ako imaš Nitro. Vrijeme je za igru."
+  ],
   "7PnXqu": [
     "Nije moguće obraditi sliku"
   ],
@@ -25135,6 +25384,9 @@
   "7ioAjs": [
     "Dostupne ponude"
   ],
+  "7itT3E": [
+    "Pregledaj druge servere"
+  ],
   "7j/5mg": [
     [
       6,
@@ -25660,6 +25912,9 @@
   "7rOU6j": [
     "Sinkroniziraj s računalom"
   ],
+  "7raRgL": [
+    "Iskoristi orbove"
+  ],
   "7rkg+/": [
     "Prestani gledanje – ",
     [
@@ -25760,6 +26015,9 @@
   ],
   "7vHKVe": [
     "Sinkronizirani članovi"
+  ],
+  "7vL/d/": [
+    "Upozorenje"
   ],
   "7vRj5F": [
     "Upravljaj plaćanjem"
@@ -26378,6 +26636,9 @@
   "8AEGE0": [
     "Uključeno u razinu 3"
   ],
+  "8ALChp": [
+    "U glasovnom"
+  ],
   "8APv8L": [
     "Upravljanje pretplatom"
   ],
@@ -26631,6 +26892,9 @@
       ]
     ],
     "."
+  ],
+  "8Gl8gP": [
+    "Izgradi svoju idealnu opremu za igranje uz ekskluzivne kodove za popust svakog mjeseca. Samo uz Nitro."
   ],
   "8GypeZ": [
     "Prijavi se za partnerstvo"
@@ -27385,6 +27649,18 @@
   "8XT6Nf": [
     "Trajanje dara"
   ],
+  "8XhAe3": [
+    "Ispunjava preduvjete za promociju: prikupljeno ",
+    [
+      1,
+      "current"
+    ],
+    " od ",
+    [
+      1,
+      "target"
+    ]
+  ],
   "8Xm6uL": [
     [
       8,
@@ -27594,6 +27870,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Tvoj je post uklonjen"
   ],
   "8dCrV9": [
     "Riješi"
@@ -29738,6 +30017,13 @@
   "9U0b1k": [
     "Napravi Svoj Prvi Discord Server"
   ],
+  "9U3Wb3": [
+    "Tvoja je poruka izbrisana na ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Prebrzo šalješ poruke"
   ],
@@ -29881,6 +30167,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "9Y2p6p": [
+    "Mjesečna nagrada"
   ],
   "9Y2wKO": [
     "Odaberi jedan odgovor"
@@ -30734,6 +31023,9 @@
   "9t1au7": [
     "korisnik je odblokiran"
   ],
+  "9t2CzW": [
+    "Samo igraj Xbox i osvajaj nagrade"
+  ],
   "9t3GMT": [
     "• ističe za ",
     [
@@ -31009,6 +31301,14 @@
   ],
   "A+0H1f": [
     "Animirani avatar, banner profila i uređeni tag"
+  ],
+  "A+56/R": [
+    "Samo uz Nitro možeš uzeti ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na Logitech G opremu svakog mjeseca."
   ],
   "A+8d6M": [
     "Aplikacija"
@@ -33408,6 +33708,9 @@
     ],
     ". Dodaj način plaćanja kako bi nastavio koristiti prilagođavanje profila i ostalo."
   ],
+  "AyECej": [
+    "Nagrade za igranje za osobe s 18 ili više godina"
+  ],
   "AyMGXA": [
     "Čini se da je izrada ovog profila još u tijeku – pošalji poruku toj osobi, tek toliko da je pozdraviš!"
   ],
@@ -34047,6 +34350,9 @@
   "BEFwGd": [
     "Slike"
   ],
+  "BEL9MJ": [
+    "Nastavak za dijeljenje"
+  ],
   "BENn/6": [
     "Sve aktivne pozornice"
   ],
@@ -34618,6 +34924,9 @@
       "numViewers"
     ]
   ],
+  "BReS7U": [
+    "Info"
+  ],
   "BRkD41": [
     "Unesi pravilo"
   ],
@@ -34978,12 +35287,12 @@
     ]
   ],
   "Ba/7wO": [
-    "Nitro članovi dobivaju ",
+    "Pretplati se i povećaj svoju zalihu uz mjesečne orbove i ",
     [
       1,
       "multiplier"
     ],
-    "x na sve"
+    "x nagrade."
   ],
   "BaI6L4": [
     "Zatraži od skrbnika da vrati pristup u roditeljskim kontrolama trgovine App Store (Apple ili Google Play)."
@@ -35138,6 +35447,9 @@
   ],
   "Bd6dOf": [
     "Trajno zatvori svoj račun."
+  ],
+  "BdIVB+": [
+    "Podigni svoj YouTube na veću razinu uz Premium"
   ],
   "BdQTfR": [
     "Još ",
@@ -35349,6 +35661,9 @@
   ],
   "BhWgyQ": [
     "Unesi svoju lozinku kako bi vidio rezervne kodove."
+  ],
+  "BhYGtj": [
+    "Nastavak za dijeljenje zaslona"
   ],
   "BhjXCp": [
     "Pretraži trgovinu"
@@ -36902,6 +37217,9 @@
   "CFF2vL": [
     "Otkvači poruku"
   ],
+  "CFfUkp": [
+    "Otključaj više orbova pomoću Nitra"
+  ],
   "CFzDOG": [
     "Koristi temu servera"
   ],
@@ -37380,6 +37698,9 @@
   ],
   "CU+6oJ": [
     "Pritisni „ENTER“ za pretraživanje"
+  ],
+  "CUAKSg": [
+    "Skica – nije objavljeno"
   ],
   "CUBxDB": [
     "Propagiranje zapisa DNS-a može potrajati nekoliko minuta."
@@ -38008,6 +38329,9 @@
   "Cm4aDQ": [
     "Povuci stream van"
   ],
+  "CmLD50": [
+    "Streamaj kao da si u sobi"
+  ],
   "CmSHYx": [
     "Traži prijatelje"
   ],
@@ -38181,6 +38505,9 @@
   ],
   "CuZPea": [
     "ZIP poštanski broj je neispravan"
+  ],
+  "CubeLC": [
+    "Odvedi me tamo"
   ],
   "CueiPY": [
     "Uspjeh!"
@@ -38688,6 +39015,9 @@
   "D6x8Nr": [
     "Članovima omogućuje slanje TTS poruka tako da započnu poruku s /tts. Ove poruke može čuti bilo tko tko je fokusiran na kanal."
   ],
+  "D7+kY/": [
+    "Baci pogled"
+  ],
   "D72Dlt": [
     "Uz Nitro prilagodi Discord sebi"
   ],
@@ -39008,6 +39338,9 @@
   ],
   "DH2o6R": [
     "Klikni kako bi pinganje autora originala bilo onemogućeno."
+  ],
+  "DHLE0q": [
+    "Chataj se s cijelom zajednicom"
   ],
   "DHWKJS": [
     "Odbaci sve promjene i izbriši ovaj model."
@@ -40991,6 +41324,13 @@
   "EDYbS+": [
     "Jao nama! Tijekom rješavanja ovog zahtjeva za porukom nešto je pošlo krivo. Pričekaj trenutak i kreni ponovo."
   ],
+  "EDmwVf": [
+    "Prekrivanje teksta: ",
+    [
+      1,
+      "text"
+    ]
+  ],
   "EE+P0H": [
     "Pozovi na glasovni"
   ],
@@ -41162,6 +41502,9 @@
   ],
   "EKoHta": [
     "Rana narudžba igre"
+  ],
+  "EL3rU4": [
+    "Uzmi besplatno"
   ],
   "EL4Lhs": [
     "Tagovi idu ovamo."
@@ -43620,6 +43963,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Odaberi aplikaciju za provjeru poruka"
+  ],
   "FKYNC6": [
     "Nitro mjesečno"
   ],
@@ -43752,6 +44098,22 @@
   ],
   "FO0AIS": [
     "Saznaj više"
+  ],
+  "FO4faL": [
+    "Starter verzija Xbox Game Passa sada je dio Nitro paketa. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "FOYn8U": [
     "Uredi emoji"
@@ -44488,6 +44850,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "Što je Discord?"
+  ],
   "FlcC+3": [
     "Uklanja aplikaciju s ovog servera"
   ],
@@ -44643,6 +45008,9 @@
   ],
   "FrOFSo": [
     "Onemogući monetizaciju"
+  ],
+  "Fs74z9": [
+    "Aktivacija je u tijeku. Može potrajati do 1 sat da se ovdje prikaže njene efekt."
   ],
   "Fs96LO": [
     "Promijenio/la si svoje zadane postavke dijeljenja na ",
@@ -44876,6 +45244,9 @@
   ],
   "FzgQna": [
     "Prijatelji i svi serveri"
+  ],
+  "Fzi4HX": [
+    "Prenesi nazive datoteka, veličine i vremenske oznake iz pohrane aplikacije u svoje zapisnike za otklanjanje pogrešaka da lakše istražiš korištenje pohrane."
   ],
   "FzjizJ": [
     "Uredi svoj profil"
@@ -46531,6 +46902,9 @@
   "GYpoAq": [
     "Seksualni medijski sadržaji za odrasle"
   ],
+  "GZWBoL": [
+    "Uštedi do 20 % u trgovini"
+  ],
   "GZa4J0": [
     "Ova aplikacija nije dostupna."
   ],
@@ -48152,6 +48526,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Dijagnostika pohrane je prenesena."
+  ],
   "H9Jxp6": [
     "Dodajte do ",
     [
@@ -48208,7 +48585,7 @@
     "Tvoj je server za igre spreman! Upravljaj njime kad poželiš u kartici „Serveri za igre“ u trgovini."
   ],
   "HACucK": [
-    "Imaš dovoljno orbova da kupiš nešto u trgovini!"
+    "Imaš dovoljno da uzmeš nešto u trgovini."
   ],
   "HADQ6n": [
     [
@@ -48311,6 +48688,9 @@
   ],
   "HC8uSZ": [
     "Onemogućeno za vlasnika/administratora servera koji su objavili više razina pretplate na server"
+  ],
+  "HCJKFl": [
+    "Starter izdanje Xbox Game Passa sada je tvoj ako imaš Nitro. Vrijeme je za igru."
   ],
   "HCgxTd": [
     "Ne dijeli se"
@@ -48605,6 +48985,9 @@
     ],
     ")"
   ],
+  "HINTfJ": [
+    "Pogledaj ponude"
+  ],
   "HITUcR": [
     "Utišaj"
   ],
@@ -48697,6 +49080,9 @@
   ],
   "HNo5cG": [
     "Odabir slike"
+  ],
+  "HNqvOh": [
+    "Obriši podatke preglednika"
   ],
   "HO/lY5": [
     "Aplikacija (spoiler)"
@@ -48932,6 +49318,9 @@
   ],
   "HTJ76H": [
     "Kodovi se ne podudaraju"
+  ],
+  "HTsycG": [
+    "Otključaj Xbox Game Pass i još toga uz Nitro"
   ],
   "HTvLGu": [
     "Podrži pristup svojeg servera visokokvalitetnim streamovima za sve."
@@ -49204,6 +49593,9 @@
   ],
   "HZPBOd": [
     "Unesi Discord autentikacijski kôd"
+  ],
+  "HZPns7": [
+    "Prikaži postavke za Hub na serveru"
   ],
   "HZbmO+": [
     "Minecraft"
@@ -49494,6 +49886,22 @@
   "Hgdhwb": [
     "Sigurno želiš izaći? Imaš nespremljenih promjena na ovom proizvodu koje možeš izgubiti ako sada odeš."
   ],
+  "Hgo1xT": [
+    "Nova Nitro nagrada! Ostvari 20 % popusta na sljedećih 6 mjeseci YouTube Premiuma. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
+  ],
   "HhfrYS": [
     "Igraj ",
     [
@@ -49601,6 +50009,9 @@
         ]
       ]
     ]
+  ],
+  "HlVJm0": [
+    "Uzmi svoje novе posebne pogodnosti"
   ],
   "Hlk/kJ": [
     "Isprobaj animirani avatar"
@@ -50147,6 +50558,9 @@
   ],
   "I+Cbum": [
     "Bananje korisnika"
+  ],
+  "I+IXr0": [
+    "50+ igara, 10 sati igranja u oblaku mjesečno i do 25 USD u nagradama. Vrijeme je za igru."
   ],
   "I+eHql": [
     [
@@ -51934,6 +52348,35 @@
   "Ifb6XJ": [
     "Pošalji super reakciju"
   ],
+  "Ifgxdy": [
+    "Pozivnica istječe za ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " sat"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " sata"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " sati"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -51965,6 +52408,22 @@
   ],
   "Igv+LS": [
     "Pogledaj pojedinosti o emojiju"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    " font, ",
+    [
+      1,
+      "effectName"
+    ],
+    " efekt, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -52576,6 +53035,9 @@
   "ItfIa5": [
     "Gotovo sve što ima Nitro i još"
   ],
+  "IthhpG": [
+    "Čeka te Xbox Game Pass"
+  ],
   "ItpQxk": [
     "Podijeli probno razdoblje"
   ],
@@ -52874,6 +53336,9 @@
   ],
   "IyUi6q": [
     "Privlačit ćeš pažnju na svakom serveru, u svakoj direktnoj poruci, gdjegod netko pregleda tvoj profil."
+  ],
+  "IyXIFu": [
+    "Briše predmemoriju preglednika unutar aplikacije, kolačiće i podatke web-mjesta. To te može odjaviti s web-mjesta."
   ],
   "IyYqqY": [
     "Spojen na drugom klijentu"
@@ -53791,6 +54256,9 @@
   "JM7Y2D": [
     "Snimanje glasovne poruke je zaustavljeno jer Discord nije aktivan."
   ],
+  "JMWqry": [
+    "Pridruži se razgovoru"
+  ],
   "JMbfnc": [
     "Samo tako nastavite!"
   ],
@@ -54443,6 +54911,9 @@
   "JhDw5o": [
     "Povratak na prijavu"
   ],
+  "JhE8nA": [
+    "Nitro ti donosi uštedu do 20 % na sve što kupiš u trgovini. Pretplati se da otključaš svoj popust, prilagođene profile i još mnogo toga."
+  ],
   "JhNpgy": [
     "Prilagođene boje"
   ],
@@ -54512,9 +54983,6 @@
   ],
   "JkKNss": [
     "Pix Automático"
-  ],
-  "Jkx0sf": [
-    "Nabavi server za igre po nižoj cijeni"
   ],
   "JkyCIO": [
     "Nastavi sa svojom misijom!"
@@ -54893,6 +55361,9 @@
   "JzaP4h": [
     "Filtar za spam u direktnim porukama"
   ],
+  "JzbSEY": [
+    "Spominjanja + nepročitano"
+  ],
   "Jzd+z/": [
     "Odaberi naziv za svoj novi ključ"
   ],
@@ -54954,6 +55425,9 @@
   ],
   "K0e7M9": [
     "Ponovno pokušaj reproducirati video"
+  ],
+  "K1URjQ": [
+    "Upravljaj postavkama za svoj Hub na serveru."
   ],
   "K1gWXn": [
     "Je li tvoj mikrofon super fancy i sam sebe utišava? U tom slučaju možeš isključiti crveno upozorenje tako da klikneš na mini tekstić ispod."
@@ -55279,6 +55753,21 @@
   "KD6OJJ": [
     "Korisnik"
   ],
+  "KDKdWi": [
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se Uvjeti i pravila o nužnim uvjetima."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "KDPFi9": [
     "Ovaj će se događaj automatski pokrenuti kad za to dođe vrijeme."
   ],
@@ -55368,6 +55857,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Promijeni redoslijed svojih omiljenih zvukova!"
   ],
   "KG/ynf": [
     "Ups"
@@ -56732,7 +57224,7 @@
     ]
   ],
   "KmK3q4": [
-    "Stvori link s pozivnicom"
+    "Izradi link s pozivnicom"
   ],
   "KmRwcW": [
     "Nastavi"
@@ -56819,6 +57311,9 @@
       1,
       "appName"
     ]
+  ],
+  "KoKwMn": [
+    "Mjesečni popust na većinu Logitech G opreme. Primjenjuju se određene iznimke."
   ],
   "KoQe/G": [
     "Članovima omogući promjenu naziva servera, promjenu regije, prikaz svih pozivnica, dodavanje aplikacija na ovaj server te stvaranje i održavanje AutoMod pravila."
@@ -57272,6 +57767,9 @@
   ],
   "L/PwZf": [
     "Link je kopiran!"
+  ],
+  "L/aQij": [
+    "Nije moguće prenijeti dijagnostiku pohrane. Pokušaj ponovno."
   ],
   "L/hFOe": [
     "Prikaži mapu sa zapisnicima o uklanjanju programskih pogrešaka"
@@ -57967,6 +58465,9 @@
   "LIZgwJ": [
     "Samo administratori servera mogu isključiti Otkrivanje servera"
   ],
+  "LIc2xy": [
+    "Odmah uzmi svoj Xbox Game Pass"
+  ],
   "LIwUT2": [
     "Poslao/la poruku na kanal sa spoilerima"
   ],
@@ -58260,6 +58761,9 @@
   "LSNOYf": [
     "Nijedna aplikacija ili naredba nije pronađena u tvojem pretraživanju"
   ],
+  "LSoXK5": [
+    "(Neobavezno) Šalji mi e-poštu s novostima o Discordu, savjetima i posebnim ponudama. Pratimo otvaranja i klikove kako bismo saznali što je korisno."
+  ],
   "LT5TnZ": [
     "Tijekom"
   ],
@@ -58470,9 +58974,6 @@
   ],
   "LZA6Na": [
     "tiho učenje"
-  ],
-  "LZO+Hd": [
-    "Kontaktiraj nas"
   ],
   "LZunzZ": [
     "Potvrdi otkazivanje"
@@ -59174,6 +59675,13 @@
   "Ls2XRq": [
     "Šalje ti direktne poruke"
   ],
+  "LsJ9hj": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na Logitech"
+  ],
   "LsLNuw": [
     "Omogući dojave"
   ],
@@ -59759,6 +60267,9 @@
   ],
   "M4XL5n": [
     "Odmah ćeš izgubiti svoj prilagođeni URL pozivnice."
+  ],
+  "M4qsJL": [
+    "Stil zaslonskog imena"
   ],
   "M54uv3": [
     "Ako dobro pogledaš unaokolo, naći ćeš još zajednica!"
@@ -60849,6 +61360,9 @@
   ],
   "MUwOvc": [
     "Obavijesti su isključene"
+  ],
+  "MUypiB": [
+    "50+ igara kao što su Stardew Valley i Fallout 4"
   ],
   "MV4DPe": [
     "Zahtjev za preuzimanjem odbijen - Discord traži pristup memoriji da bi preuzeo datoteke."
@@ -62210,9 +62724,6 @@
   "N2c/Un": [
     "Omiljeno"
   ],
-  "N2mHaK": [
-    "s našim Trust & Safety timom"
-  ],
   "N2mILu": [
     "Nije moguće pokrenuti ",
     [
@@ -63041,6 +63552,23 @@
   "NK9aT1": [
     "Omogući obavijesti za super reakcije"
   ],
+  "NKTF0a": [
+    "50+ igara, 10 sati mjesečno igranja u oblaku i do 25 USD u nagradama. Igrajmo. ",
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se uvjeti i pravila o ispunjavanju preduvjeta"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "NKV/MO": [
     "Vrati aplikaciju u kanal"
   ],
@@ -63809,6 +64337,9 @@
   "NaZyYC": [
     "Obavijesti"
   ],
+  "Nb1EQx": [
+    "Samo ti možeš vidjeti ovo"
+  ],
   "Nb2/RE": [
     "Nova nit"
   ],
@@ -64396,12 +64927,12 @@
     ". Ako misliš da je jako cool, uzmi Nitro i zadrži je još duže."
   ],
   "NpUfej": [
-    "Zahvaljujući množitelju ",
+    "Ako se pretplatiš na Nitro, tvoji dobici u misijama postaju mega dobici zahvaljujući ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x nagrada u obliku orbova, tvoji dobici u misiji sada postaju mega dobici."
+    "x nagradama. Možeš otkazati kad poželiš"
   ],
   "NpchGq": [
     "Interesi"
@@ -64701,6 +65232,9 @@
   ],
   "Nwj9v0": [
     "Prošla godina"
+  ],
+  "NwkRTZ": [
+    "Xbox Game Pass (početno izdanje) sada je dio Nitro paketa. Pridruži se."
   ],
   "NxHYX/": [
     "Tvoj Discord klijent ne podržava ovu vrstu poruke. Molimo te ažuriraj ga da bi ti ova poruka bila vidljiva."
@@ -65224,6 +65758,9 @@
   ],
   "OBr7Cw": [
     "Opcije kanala"
+  ],
+  "OBskVU": [
+    "Postavke za Hub na serveru"
   ],
   "OBuzJr": [
     "Vlasnik najboljeg rezultata u pogledu pobjeda nosit će krunu."
@@ -66168,6 +66705,9 @@
   "OZRgjw": [
     "U čemu je problem?"
   ],
+  "OZj923": [
+    "Prati što rade i zabavite se zajedno."
+  ],
   "Oa//IE": [
     "Obuhvaća sve odabrane vrste podataka"
   ],
@@ -66668,6 +67208,9 @@
   "OlOHDH": [
     "Jezici"
   ],
+  "OlObRa": [
+    "Nadogradi svoju opremu za manje novaca"
+  ],
   "Olc2K3": [
     "Natrag na postavke"
   ],
@@ -66870,6 +67413,9 @@
       "cardinal"
     ],
     ". Odeš li, to stanje blokiranosti neće se promijeniti."
+  ],
+  "OpOEmk": [
+    "Xbox Game Pass (početno izdanje)"
   ],
   "OpV87U": [
     "Razina verifikacije: ",
@@ -67498,6 +68044,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Povuci i ispusti svoje omiljene zvukove bilo kojim redoslijedom."
+  ],
   "P/KFXz": [
     "Samo da znaš, osobe koje si blokirao/la ili ignorirao/la su na ovoj pozornici."
   ],
@@ -67645,6 +68194,9 @@
         "Upravo si boostao server."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Boja sjene"
   ],
   "P5keo3": [
     "Škrinja"
@@ -68017,6 +68569,13 @@
   ],
   "PEzffq": [
     "Ništa"
+  ],
+  "PF1aT5": [
+    [
+      1,
+      "discountPercentage"
+    ],
+    " % popusta na Logitech G"
   ],
   "PF7mP3": [
     "Slažem se s ",
@@ -69306,6 +69865,9 @@
   "PlwgdU": [
     "Prenesi glas na ovaj uređaj"
   ],
+  "Plwzgf": [
+    "Upravljanje"
+  ],
   "PmG5cv": [
     "Somalija"
   ],
@@ -69772,6 +70334,9 @@
   "Q+YV/T": [
     "Uključi/isključi iskakanje ulazne pošte"
   ],
+  "Q+dH5r": [
+    "Novi izgled, novi izazovi"
+  ],
   "Q+fhfv": [
     "Potiskivanje šuma uklj."
   ],
@@ -69808,6 +70373,9 @@
   ],
   "Q03WWV": [
     "Nešto se mora poduzeti"
+  ],
+  "Q0A42h": [
+    "Mjesečni popusti na usluzi SteelSeries"
   ],
   "Q0EMOP": [
     "Mjesta na Discordu koja su ti bila poput drugog doma u 2025. godini."
@@ -69869,6 +70437,9 @@
   ],
   "Q158Xe": [
     "Zadrži ovaj besplatni ukras uz kupnju dara!"
+  ],
+  "Q15RXC": [
+    "Otključaj Xbox Game Pass uz Nitro"
   ],
   "Q18lRK": [
     "Tvoje pretplate će se automatski obnoviti dana ",
@@ -70401,6 +70972,9 @@
   "QHHwRR": [
     "Verificiran"
   ],
+  "QHrFo6": [
+    "Ne možeš proslijediti poruke na ovaj kanal s dobnim ograničenjem."
+  ],
   "QHvDTL": [
     "Učvrsti ovako"
   ],
@@ -70704,6 +71278,9 @@
   ],
   "QOs3XA": [
     "Mi želimo biti sigurni da ćemo korisnicima Discorda u Otkrivanju predlagati samo servere na kojima ima neke živosti, svi ti serveri moraju zadovoljiti određene zahtjeve minimalne aktivnosti."
+  ],
+  "QP/6xR": [
+    "S Nitrom dobivaš više orbova"
   ],
   "QP5W1R": [
     [
@@ -71509,6 +72086,9 @@
   ],
   "Qnf32C": [
     "Podijeli moj cijeli profil s"
+  ],
+  "Qno0jg": [
+    "Još nisi zaradio/la nijedan badge"
   ],
   "QntEEG": [
     "Promijeni izgled poruka u chatu."
@@ -72367,6 +72947,9 @@
   "R7VMEE": [
     "Prošla godina"
   ],
+  "R7YJAY": [
+    "Igranje u oblaku odabranih igara iz tvoje Xbox zbirke"
+  ],
   "R7mv+G": [
     "Malo strpljenja, pustolovče! Nove će misije uskoro biti dostupne."
   ],
@@ -72753,6 +73336,9 @@
   ],
   "RGKlM0": [
     "Uzmi Basic"
+  ],
+  "RGT513": [
+    "Xbox Game Pass te čeka"
   ],
   "RGa/Gb": [
     "Nije moguće poslati zahtjev za preispitivanjem odluke o ovoj prijavi jer nisu zadovoljeni potrebni preduvjeti."
@@ -73739,6 +74325,9 @@
   "RfkLDs": [
     "Novi kôd za:"
   ],
+  "RgDY7v": [
+    "Pregledaj server"
+  ],
   "RgIi2B": [
     "Anketa"
   ],
@@ -74550,6 +75139,9 @@
   ],
   "S0H8in": [
     "Pauziranje podsjetnika"
+  ],
+  "S0ODmT": [
+    "Postavke slike"
   ],
   "S0W8Z5": [
     "Povezivanje"
@@ -76860,6 +77452,9 @@
   "Str6/o": [
     "Tražim određenu poruku i znam njen točan tekst"
   ],
+  "StrErG": [
+    "Tvoja je poruka uklonjena"
+  ],
   "Su1Zkt": [
     "Hej, prijatelji s Androida"
   ],
@@ -77051,6 +77646,23 @@
   ],
   "SzGV0g": [
     "Više ne utječu na status tvojeg računa."
+  ],
+  "SzOYGc": [
+    "Pretplati se na Nitro i pristupi Xbox Game Passu (početnom izdanju), ponudama za opremu, novim posebnim pogodnostima za orbove i još mnogo toga. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "SzUaZ1": [
     [
@@ -77897,6 +78509,9 @@
     ],
     " da dobiješ predmet."
   ],
+  "TNS24d": [
+    "Baci pogled na posebne pogodnosti koje pruža Nitro"
+  ],
   "TNamrx": [
     "Dodaj naslov"
   ],
@@ -78328,6 +78943,30 @@
       "pendingIgnored"
     ],
     " od ignoriranih računa"
+  ],
+  "TWtV8E": [
+    [
+      8,
+      "defaultPriceHook",
+      [
+        [
+          1,
+          "defaultPrice"
+        ]
+      ]
+    ],
+    " ",
+    [
+      8,
+      "premiumPriceHook",
+      [
+        [
+          1,
+          "premiumPrice"
+        ]
+      ]
+    ],
+    " uz Nitro"
   ],
   "TWuDTt": [
     "Dodaj još favorita"
@@ -80869,6 +81508,9 @@
     ],
     "?"
   ],
+  "UVL9tD": [
+    "Xbox Game Pass"
+  ],
   "UVXL1R": [
     "Beta kanali omogućuju korisnicima da besplatno zauzmu testne odvojke tvoje igre. ",
     [
@@ -82207,6 +82849,9 @@
   "V+IE93": [
     "Pridruži se Nitru da otključaš pristup ovoj pločici s imenom!"
   ],
+  "V+Iv+U": [
+    "Odaberi aplikaciju"
+  ],
   "V+Pwy9": [
     "Sjeverna Koreja (Demokratska Narodna Republika Koreja)"
   ],
@@ -82393,6 +83038,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Nastavak usluge obavijesti"
   ],
   "V4UDY1": [
     "Zatraži od svojih prijatelja da te pozovu na svoje servere jer oni su mjesta za druženje i razgovor."
@@ -83246,6 +83894,9 @@
   "VQ5Xo9": [
     "Portugalski (Brazil)"
   ],
+  "VQKK5O": [
+    "Snimka pohrane sustava"
+  ],
   "VQOSXq": [
     "Nakon što prihvatiš, imat ćeš kredita za ",
     [
@@ -83349,6 +84000,9 @@
       "price"
     ],
     " / mjesečno za svaki"
+  ],
+  "VSunuT": [
+    "Prenesi dijagnostiku pohrane"
   ],
   "VT02mI": [
     "Nemaš nijedan badge! Pogledaj koje sve badgeve možeš osvojiti."
@@ -84604,6 +85258,9 @@
   "VxBO2F": [
     "Ažuriranja profila"
   ],
+  "VxE3o6": [
+    "Pravilo moderiranja aplikacije"
+  ],
   "VxN3Lo": [
     "Timeout odredio AutoMod"
   ],
@@ -85003,6 +85660,23 @@
       "cardinal"
     ],
     ". Ovaj se widget neće prikazati na tvom profilu sve dok ne dodaš barem 1 igru."
+  ],
+  "W8jOD0": [
+    "Jedan kôd po kupnji. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "W9DVVf": [
     "Brzo pošalji poruke prijateljima koji također igraju nakon pokretanja igre"
@@ -85952,6 +86626,9 @@
   "WVbpcy": [
     "Dodaj bio"
   ],
+  "WViBDk": [
+    "Pratimo otvaranja e-pošte i klikove kako bismo saznali što je korisno i poboljšali e-poštu koju šaljemo."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -86611,9 +87288,6 @@
   "Wgpwpp": [
     "općenito"
   ],
-  "WhPKFP": [
-    "Za većinu servera za igre sada je potrebno manje boostova da bi se otključali."
-  ],
   "WhR38i": [
     "Pozovi prijatelje u Učenički Hub svoje škole"
   ],
@@ -86700,6 +87374,9 @@
   ],
   "WjNAAA": [
     "Nemaš pristup potreban za pokretanje zatražene aktivnosti"
+  ],
+  "WjOclf": [
+    "Uštedi do 20 % na sve u trgovini. Osim toga, dobivaš ekskluzivne predmete. Samo uz Nitro."
   ],
   "WjcnZD": [
     "Badge sa srcem"
@@ -86830,6 +87507,9 @@
   ],
   "WlWSBT": [
     "Pošalji glasovne poruke"
+  ],
+  "Wm58LR": [
+    "Jednokratni popusti"
   ],
   "WmagiB": [
     "Svi kanali na tvojem serveru bit će zaključani za korisnike koji nisu pretplatnici."
@@ -87053,6 +87733,9 @@
   "Wrg9Jn": [
     "Onemogućeno pravilo"
   ],
+  "WrleYK": [
+    "Omogući pravilo"
+  ],
   "Wrvb3V": [
     "Povlastice koje donosi pretplata"
   ],
@@ -87135,6 +87818,9 @@
   ],
   "Wv7HLS": [
     "Svježi dropovi, samo za tebe"
+  ],
+  "WvAqZA": [
+    "Zaradio/la si besplatan ukras"
   ],
   "Wvc/I+": [
     "Dobro jutro,"
@@ -88811,6 +89497,9 @@
   "XcGEcs": [
     "Prekrivanje nije podržano za ovu igru."
   ],
+  "XcOMLu": [
+    "Uštedi na svom novom izgledu"
+  ],
   "XcPHfw": [
     "Završi"
   ],
@@ -90363,6 +91052,9 @@
   "YCCMkJ": [
     "Prikaži potvrdnu poruku prije prijelaza na drugi glasovni kanal."
   ],
+  "YCIfhC": [
+    "Discord je besplatna aplikacija za chatanje, streamanje i opuštanje"
+  ],
   "YCZldK": [
     "Otključaj cijeli svijet posebnih pogodnosti uz Nitro"
   ],
@@ -90645,6 +91337,9 @@
   ],
   "YK+wUg": [
     "PC"
+  ],
+  "YKJw4W": [
+    "Sada možeš lakše pratiti i zaraditi orbove."
   ],
   "YKVlC7": [
     "Tvoj je videozapis trenutačno smanjene kvalitete. To je možda zbog toga što povezanost nije u sjajnom stanju."
@@ -91245,6 +91940,9 @@
   "YZookV": [
     "Zadani kanali i pitanja prije pridruživanja"
   ],
+  "YZqqTX": [
+    "Šalji poruke s Whiteboarda"
+  ],
   "YaW9wI": [
     "Boostaj si razinu do ",
     [
@@ -91623,6 +92321,9 @@
   ],
   "Yl1D84": [
     "Isključeno"
+  ],
+  "Yl5ww1": [
+    "Vrijedi za sve Logitech G proizvode, osim za nove proizvode i PRO Series opremu."
   ],
   "Yl8E4h": [
     "Pomakni gore"
@@ -92535,6 +93236,9 @@
   "Z2CUgn": [
     "Prebaci na direktnu poruku"
   ],
+  "Z2Ipu/": [
+    "Ukloni"
+  ],
   "Z2L8V2": [
     "Pregledano"
   ],
@@ -92671,6 +93375,9 @@
   "Z3Vn/X": [
     "Koji je najmanje koristan talent kojeg posjeduješ?"
   ],
+  "Z3uXLR": [
+    "Graditelj za ugradnju sadržaja"
+  ],
   "Z43V9S": [
     "Izbriši prilagođenu sliku: ",
     [
@@ -92792,6 +93499,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Uključi se i isključi s glasovnih ili tekstualnih kanala"
   ],
   "Z74GUL": [
     "Ako se pretplatiš, otključat ćeš pogodnosti razine ",
@@ -93125,6 +93835,28 @@
   ],
   "ZGKm3p": [
     "Čestitamo! Dosegao/la si novi značajan uspjeh u svojoj pretplati!"
+  ],
+  "ZGOJ8R": [
+    "Uzmi ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na Logitech G svakog mjeseca i jednokratne popuste na PRO Series opremu i nove proizvode. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "ZGVL3g": [
     [
@@ -94703,7 +95435,7 @@
     "Klikni i otkrij spoiler"
   ],
   "ZqCAos": [
-    "Brže zaradi orbove"
+    "Otključaj još orbova"
   ],
   "ZqK0uI": [
     "Skočni prozor"
@@ -94784,6 +95516,9 @@
   ],
   "Zs9h9Z": [
     "Boostaj svoje omiljene servere"
+  ],
+  "ZsAL7q": [
+    "Sakrij popis prijatelja"
   ],
   "ZsO1Sx": [
     "Tvoje posebne pogodnosti za chat i popust na Boost koje dobivaš s pretplatom po cijeni ",
@@ -95063,6 +95798,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Izradi nit"
   ],
   "ZxNVMy": [
     "Pokušaj s drugim pretraživanjem ili ",
@@ -96506,7 +97244,7 @@
     "Mađarska forinta"
   ],
   "abaDI+": [
-    "Mjesto za tebe i tvoje prijatelje"
+    "Izradi mjesto za sebe i svoje prijatelje"
   ],
   "abacus": [
     "abakus",
@@ -97440,6 +98178,9 @@
     ],
     "."
   ],
+  "ar2OUZ": [
+    "Ta slikovna datoteka je prevelika."
+  ],
   "ar3a3q": [
     "Podaci koje navedeš koriste se samo za potvrdu tvoje dobne skupine, a zatim se brišu."
   ],
@@ -98293,6 +99034,9 @@
   "b1JC+l": [
     "Još samo jedna stvar!"
   ],
+  "b1X5Jf": [
+    "Do 25 USD godišnje u Trgovini uz nagrade"
+  ],
   "b2+FCc": [
     "novosti iz doma"
   ],
@@ -99075,6 +99819,9 @@
   "bOQ3jV": [
     "Veza s tvojim glasom je prekinuta jer si se povezao/la na nekoj drugoj lokaciji."
   ],
+  "bOf5IH": [
+    "Otključaj Xbox Game Pass i još toga uz Nitro"
+  ],
   "bOu6Wn": [
     "Tvoj događaj kreće na serveru ",
     [
@@ -99313,6 +100060,9 @@
   "bVbB63": [
     "Odaberi neki račun"
   ],
+  "bVwQhX": [
+    "Ukloni"
+  ],
   "bW+JCW": [
     [
       1,
@@ -99478,6 +100228,9 @@
   ],
   "bZBN64": [
     "Aplikacija"
+  ],
+  "bZLaD+": [
+    "Otključaj nagrade"
   ],
   "bZY171": [
     "Spremi"
@@ -100704,6 +101457,9 @@
   "bpghV6": [
     "je li netko za aram?"
   ],
+  "bpksos": [
+    "50+ igara koje možeš istraživati, kao što su Stardew Valley i Fallout 4"
+  ],
   "bpycfA": [
     "Ispusti emoji za prijenos."
   ],
@@ -100829,6 +101585,22 @@
   ],
   "bs+W8E": [
     "Još uvijek ima članova koji su na čekanju jer nisu prošli tvoj probir."
+  ],
+  "bsMVNi": [
+    "Dobivaš 50+ igara, 10 sati igranja u oblaku mjesečno i još mnogo toga. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "bsbMVz": [
     "Ukloni vezu"
@@ -102053,6 +102825,9 @@
   "cHszXg": [
     "Dodaj članove"
   ],
+  "cHxSwT": [
+    "Djelomično je prenesena dijagnostika pohrane. Neke datoteke nije bilo moguće navesti ili je dosegnuto ograničenje skeniranja."
+  ],
   "cHzQ2O": [
     "Žali se na karantenu"
   ],
@@ -102244,6 +103019,33 @@
   ],
   "cM8bbx": [
     "Uzmi Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Prikupio/la si ekskluzivnu nagradu"
+        ],
+        "few": [
+          "Prikupio/la si sve ",
+          [
+            7
+          ],
+          " ekskluzivne nagrade"
+        ],
+        "other": [
+          "Prikupio/la si svih ",
+          [
+            7
+          ],
+          " ekskluzivnih nagrada"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Okviri su rubovi profila koji upotpunjuju izgled. Članovi Nitra imaju mogućnost ranog pristupa. Pronađi svoj u Trgovini."
@@ -102456,6 +103258,34 @@
   ],
   "cSb7U0": [
     "Onemogući Obiteljski centar"
+  ],
+  "cSfYIv": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " odabran isječak"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " odabrana isječka"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " odabranih isječaka"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cSgdvE": [
     "Dvaput dodirni za pregled profila"
@@ -103134,6 +103964,9 @@
   ],
   "cfeFEt": [
     "Plaćanje nije uspjelo"
+  ],
+  "cfrfyZ": [
+    "Prikaži prijedlog kada Discord otkrije novi audio uređaj."
   ],
   "cfu/5d": [
     "Nitro godišnje"
@@ -105592,6 +106425,23 @@
       "channelName"
     ]
   ],
+  "dHQQvk": [
+    "Nabavi Nitro i možeš se ubaciti u 50+ PC i konzolnih igara uz Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se uvjeti i pravila o pogodnosti"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "dHvJ2p": [
     "Zakazani događaj"
   ],
@@ -106456,6 +107306,9 @@
   ],
   "dcK4Ch": [
     "Ovo možeš promijeniti kasnije."
+  ],
+  "dcOuei": [
+    "Pogledaj izazove"
   ],
   "dcSDhW": [
     "Obavezno: ",
@@ -109487,6 +110340,9 @@
   "ebojgD": [
     "Naravno da hoću!"
   ],
+  "ec5Rdd": [
+    "10 sati igranja u oblaku svakog mjeseca"
+  ],
   "ecTJkR": [
     "Okviri za profile"
   ],
@@ -109578,7 +110434,7 @@
     "Kanadski dolar"
   ],
   "efLpNC": [
-    "Tvoji istaknuti sadržaji i najbolji trenuci"
+    "istaknuti sadržaji i najbolji trenuci"
   ],
   "efLzgX": [
     "Trajanje ili broj novih članova koji se mogu pridružiti prije isteka ove pozivnice."
@@ -110242,6 +111098,35 @@
   "euXi0Q": [
     "Ovo je pregled zahtjeva neke osobe koja se želi pridružiti na tvoj server. Sve dok ne odobriš taj zahtjev, ta osoba neće se ni pridružiti niti komunicirati na serveru."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server ima"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " servera imaju"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servera ima"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " prilagođene postavke"
+  ],
   "euizJY": [
     [
       1,
@@ -110292,6 +111177,13 @@
   ],
   "eutr4P": [
     "Reci nam nešto o tebi"
+  ],
+  "evGwDW": [
+    "Skica – zakazano za objavljivanje ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Zahtjevi za poruke – ",
@@ -110945,6 +111837,9 @@
   "fAQ/8h": [
     "Odaberi kanal kojeg bi, prema tvojem mišljenju, korisnik trebao posjetiti."
   ],
+  "fAU31r": [
+    "Za igranje, druženje ili... ne daj bože... domaću zadaću."
+  ],
   "fAW3z4": [
     "Nisu pronađena podudaranja"
   ],
@@ -110976,6 +111871,35 @@
   ],
   "fBsloy": [
     "Ups!"
+  ],
+  "fC4abC": [
+    "Vrijedi za nove proizvode ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          "prvog mjeseca"
+        ],
+        "few": [
+          "prva ",
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          "prvih ",
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " dostupnosti."
   ],
   "fC9qV0": [
     "Rezervni kôdovi"
@@ -113084,6 +114008,9 @@
   "fr5bJy": [
     "Dodirni prebacivač izlaza i prebaci se na konzolu."
   ],
+  "fr7qnZ": [
+    "Odaberi proizvode"
+  ],
   "frCwaT": [
     "Te će poruke biti skrivene"
   ],
@@ -114004,6 +114931,9 @@
   ],
   "gEp2SG": [
     "Traženje profila igara"
+  ],
+  "gF8HJo": [
+    "Prijedlozi za audio uređaj"
   ],
   "gF8IpD": [
     "Korisnik kojeg treba izbaciti"
@@ -114943,6 +115873,9 @@
       "username"
     ]
   ],
+  "gc2sa/": [
+    "Mjesečni popusti na Logitech G"
+  ],
   "gc9aSx": [
     "Pošalji zahtjev za prijateljstvom"
   ],
@@ -115428,6 +116361,9 @@
   ],
   "gn2c6X": [
     "Račun je prijavljen"
+  ],
+  "gn3Poi": [
+    "Izradi link s pozivnicom koji svatko može koristiti za pridruživanje ili izravno pozovi prijatelje."
   ],
   "gn7SZe": [
     "Pogledaj što je najnovije od ponude ukrasa avatara i efekata profila i sakupljaj svoje omiljene stilove."
@@ -115939,6 +116875,23 @@
   ],
   "gzXECH": [
     "Kodovi država"
+  ],
+  "gzazAe": [
+    "Nitro sada dolazi s Xbox Game Passom i s još više posebnih pogodnosti. Zgrabi ih. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "gzhz8w": [
     "Uzmi svoje dvotjedno probno razdoblje Nitra prije nego nestane"
@@ -117816,6 +118769,9 @@
   "hcMwDW": [
     "Nakon datuma"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Badge s munjom"
   ],
@@ -118290,6 +119246,9 @@
   ],
   "hjaYYn": [
     "Ukras je primijenjen"
+  ],
+  "hjlZZf": [
+    "Stupanje na snagu može potrajati do 24 sata."
   ],
   "hjvcLO": [
     "Server Boostovi"
@@ -119596,6 +120555,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Dodaj sliku"
+  ],
   "iG+nZx": [
     "Provjeri jesu li dozvole na tvojim kanalima Zadaci i Resursi ispravno postavljene."
   ],
@@ -120223,6 +121185,9 @@
   "iVfA9i": [
     "krajnje desno"
   ],
+  "iVqj8B": [
+    "Početna stranica isječaka"
+  ],
   "iVzBOh": [
     "Kopiraj link"
   ],
@@ -120648,6 +121613,33 @@
   ],
   "ibxdrl": [
     "Potraži osobe na svojim serverima da započneš poruku ili dodaj prijatelje da ti se prikažu ovdje."
+  ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Daruj Nitro i odaberi besplatan ukras koji ćeš zadržati."
+        ],
+        "few": [
+          "Daruj Nitro, odaberi ",
+          [
+            7
+          ],
+          " besplatna ukrasa koja ćeš zadržati."
+        ],
+        "other": [
+          "Daruj Nitro, odaberi ",
+          [
+            7
+          ],
+          " besplatnih ukrasa koje ćeš zadržati."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "icWQKn": [
     "Uzmi Nitro kredite i kupuj omiljene artikle tako da pritom ne potrošiš ni centa."
@@ -121527,6 +122519,9 @@
   "ivpkNe": [
     "Ne, hvala"
   ],
+  "ivpn6G": [
+    "Odaberi besplatni ukras koji ćeš zadržati"
+  ],
   "iw0hFi": [
     [
       8,
@@ -121896,6 +122891,9 @@
     ],
     " račune"
   ],
+  "j3AKJQ": [
+    "Ta datoteka nije podržani slikovni format. Pokušaj s formatima PNG, JPEG ili WebP."
+  ],
   "j3KOkh": [
     "Prekršio/la si pravila Discorda i možda ćeš izgubiti svoj račun ako ih opet prekršiš."
   ],
@@ -122243,6 +123241,9 @@
   ],
   "jCOdvx": [
     "Dodane igre"
+  ],
+  "jCQlbu": [
+    "Preuzmi aplikaciju Discord"
   ],
   "jCV1Tz": [
     "ALT"
@@ -123546,6 +124547,13 @@
   "jjpcno": [
     "Prikaži u postavkama"
   ],
+  "jkdhZq": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na sve proizvode"
+  ],
   "jkg8Zu": [
     "Glasovni kanali služe za druženje. Kad ti se priča, samo uskoči. Prijatelji će te moći vidjeti i pridružiti ti se. To je kao da ih pozdravljaš telepatski."
   ],
@@ -124826,6 +125834,9 @@
   ],
   "kHMgaK": [
     "Sada možeš primati plaćanja za Monetizaciju servera."
+  ],
+  "kHNeDa": [
+    "Aplikacija bira koju će radnju poduzeti za svaku poruku – hoće li blokirati poruku ili neće poduzeti ništa."
   ],
   "kHalVA": [
     "Dupliciraj povlastice ili dozvole kanala iz postojećeg modela ili uloge."
@@ -126696,6 +127707,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Podijeli sve"
+  ],
   "l3K4B/": [
     "Spominje korisnika"
   ],
@@ -126971,6 +127985,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Pozivnica istječe za ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Najstarije dodano"
@@ -127895,6 +128932,13 @@
   "lZejCq": [
     "Uključi @role spominjanja"
   ],
+  "lZuIri": [
+    "Prekrivanje slike: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Postavke koje prikupljaju tehničke podatke koje će analizirati Discordova podrška, kao što su zapisi o uklanjanju programskih pogrešaka i snimanje zvuka"
   ],
@@ -128203,6 +129247,12 @@
   ],
   "lg3Ckc": [
     "Streamer način rada ti omogućuje da sakriješ svoje osobne podatke tijekom streaminga."
+  ],
+  "lgDNyX": [
+    "Prikaži karticu za Hub na serveru na popisu kanala"
+  ],
+  "lgHr73": [
+    "Chatanje, streamanje i opuštanje"
   ],
   "lgcisd": [
     "Serveri kojima je broj članova ",
@@ -128769,6 +129819,9 @@
         ]
       ]
     ]
+  ],
+  "lsRjfl": [
+    "Vrijedi za trkaću opremu iz asortimana za simulaciju PRO Series."
   ],
   "lsU63N": [
     "Tvoji nedavni avatari"
@@ -129930,6 +130983,9 @@
   ],
   "mGsBLV": [
     "Ažuriraj kanal"
+  ],
+  "mH30Yx": [
+    "Vrijedi za sve Logitech G proizvode, osim za nove proizvode i opremu iz asortimana za simulaciju PRO Series."
   ],
   "mH8BIZ": [
     "Uvijek možeš ažurirati svoj izbor za ovaj uređaj u postavkama iOS-a. To možeš učiniti u svakom trenutku. Ako dopustiš praćenje, možeš:"
@@ -131985,6 +133041,18 @@
   "mmNkUA": [
     "Nabavi prilagođeni link pozivnice koristeći boostove - ne trebaš imati nikakvu razinu! Savršeno za rast tvojeg servera."
   ],
+  "mmTvZn": [
+    "Odabrano: ",
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ]
+  ],
   "mmZGEG": [
     "Osvoji Nitro na razdoblje od ",
     [
@@ -133286,6 +134354,9 @@
   ],
   "nD78oa": [
     "Koristi ovu dodatnu pločicu s imenom ako imaš aktivnu pretplatu na Nitro."
+  ],
+  "nDEuO1": [
+    "Dobivaš 50+ igara, 10 sati igranja u oblaku mjesečno i još toga."
   ],
   "nDGqqq": [
     "Evo prijedloga: ",
@@ -135924,9 +136995,6 @@
   "o6M1aS": [
     "Pročitaj informacije o svojem članu (nadimak, avatar, uloga, etc...) za server kojem pripadaš"
   ],
-  "o6QHZ/": [
-    "Zatraži ručni pregled"
-  ],
   "o6Qr6n": [
     "Zabilježi zapis o izvedbi"
   ],
@@ -136033,7 +137101,7 @@
     "! Uz Nitro tu nagradu možeš i zadržati. Uživaj!"
   ],
   "o9PQEi": [
-    "Pretvori svoje dobitke u mega dobitke uz množitelj orbova ",
+    "Pretvori dobitke u misijama u mega dobitke uz množitelj orbova ",
     [
       2,
       "bonusOrbMultiplier"
@@ -136264,6 +137332,9 @@
       1,
       "numEmojis"
     ]
+  ],
+  "oDfh3O": [
+    "Xbox Game Pass (početno izdanje)"
   ],
   "oDxaKy": [
     "Blokiraj"
@@ -137306,6 +138377,13 @@
   ],
   "og4NNr": [
     "Počni razgovorati s novim prijateljima!"
+  ],
+  "ogcfac": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na kolekciju PRO Series"
   ],
   "ogxXGq": [
     "Radnje"
@@ -139265,22 +140343,6 @@
   "pJ4hJE": [
     "Završi postavljanje modela Pretplata na servere i počni zarađivati!"
   ],
-  "pJAxgQ": [
-    "Želiš neki drugi način? ",
-    [
-      8,
-      "$link",
-      [
-        "Zatraži ručni pregled"
-      ],
-      [
-        [
-          1,
-          "handleOnRequestHook"
-        ]
-      ]
-    ]
-  ],
   "pJMipx": [
     "Radnje članova za dozvole kanala"
   ],
@@ -139447,6 +140509,13 @@
   ],
   "pS+K2L": [
     "Način unosa"
+  ],
+  "pSBCjv": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na asortiman za simulaciju PRO Series"
   ],
   "pSZKvM": [
     "Datum"
@@ -139870,6 +140939,35 @@
     "tipka za pauzu",
     "trake"
   ],
+  "pb2Was": [
+    "Dodaj do ",
+    [
+      6,
+      "numClips",
+      {
+        "one": [
+          [
+            7
+          ],
+          " isječak"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " isječka"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " isječaka"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "pb7lpK": [
     "Odaberi badge"
   ],
@@ -139916,6 +141014,9 @@
   ],
   "pdZJaq": [
     "1 godina Nitro Classica"
+  ],
+  "pdaUSE": [
+    "Xbox Game Pass sada je dio Nitro paketa"
   ],
   "pe0fpS": [
     "Uključi pojedinosti o transakcijskom razdoblju za ",
@@ -140582,6 +141683,9 @@
   ],
   "piPHvY": [
     "Dobrodošao/la"
+  ],
+  "piRNeN": [
+    "Nije moguće očitati tu sliku."
   ],
   "piW6YS": [
     "Pošalji"
@@ -141265,6 +142369,9 @@
   "pqk9U0": [
     "Prikaži više"
   ],
+  "pqph/A": [
+    "Kad god si slobodan/na, bez poziva i pozivnica."
+  ],
   "pqqixk": [
     "Uključeno"
   ],
@@ -141519,6 +142626,9 @@
   ],
   "put7Hw": [
     "mogućnosti"
+  ],
+  "putVLl": [
+    "Koristi prilagođene reakcije, ugradnju sadržaja i botove."
   ],
   "put_litter_in_its_place": [
     "koš za otpatke",
@@ -142460,6 +143570,9 @@
   "qI14KM": [
     "Više o sigurnosnim upozorenjima"
   ],
+  "qI5XnY": [
+    "Uzmi Nitro"
+  ],
   "qINKo/": [
     "Danas u 09:00"
   ],
@@ -142927,6 +144040,9 @@
         ]
       ]
     ]
+  ],
+  "qT6LjY": [
+    "Danas u 13:00"
   ],
   "qTCYun": [
     "Želiš li primijeniti ovu promjenu i na sve svoje postojeće servere?"
@@ -143600,6 +144716,9 @@
   "qnJ9W3": [
     "Prijavi problem"
   ],
+  "qnSo/i": [
+    "Društvena trgovina"
+  ],
   "qnYumI": [
     [
       6,
@@ -143763,6 +144882,9 @@
   ],
   "qpWnyC": [
     "Idi u postavke"
+  ],
+  "qpw1d9": [
+    "Možeš podijeliti samo 10 isječaka odjednom."
   ],
   "qpwaNY": [
     "Datum izlaska"
@@ -144190,6 +145312,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r/jeXi": [
+    "Ova će radnja poništiti Xbox Game Pass na povezanom Xbox računu. Stupanje na snagu te promjene može potrajati do 24 sata."
   ],
   "r/jzu1": [
     "Već imaš račun?"
@@ -145049,7 +146174,7 @@
     "Pozvan/a si da se pridružiš igrati"
   ],
   "rJRote": [
-    "Pridruži se Zajednicama"
+    "Pridruži se zajednicama"
   ],
   "rJbFM3": [
     "Nije još dostupno"
@@ -145859,6 +146984,14 @@
   "rb7dJ7": [
     "Pločice s imenom"
   ],
+  "rbAtUi": [
+    "Uživo – objavljeno ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
+  ],
   "rbIry3": [
     "Ažuriraj nit"
   ],
@@ -146471,6 +147604,9 @@
   ],
   "rki38K": [
     "Odaberi profil"
+  ],
+  "rkt1aw": [
+    "Nitro sada dolazi uz Xbox Game Pass (Starter izdanje)"
   ],
   "rkyOzK": [
     "Prikaži nove članove"
@@ -147950,6 +149086,9 @@
       ]
     ]
   ],
+  "sD3eKQ": [
+    "Otkaži"
+  ],
   "sDKIpm": [
     [
       6,
@@ -148616,6 +149755,9 @@
   ],
   "sS2J0G": [
     "Ovdje još nema nikoga!\nKada budeš spreman/na za razgovor, samo uskoči."
+  ],
+  "sS4xGd": [
+    "Izradi sadržaj za ugradnju koji se može dijeliti za odabrane proizvode iz trgovine u igri."
   ],
   "sSAQtj": [
     "Svojstva za niti su ažurirana"
@@ -149521,6 +150663,9 @@
       2,
       "count"
     ]
+  ],
+  "sgse8P": [
+    "Prikaži popis prijatelja"
   ],
   "shE8hW": [
     "Mahni im, podijeli svoj zaslon, ili samo chataj."
@@ -153362,6 +154507,9 @@
   "to6uUe": [
     "Rezultati ako netko igra Rhythm!"
   ],
+  "toGFBn": [
+    "Nastavak widgeta za zaključani zaslon"
+  ],
   "toKjAM": [
     "tvoj-url-ovdje"
   ],
@@ -154001,9 +155149,6 @@
   ],
   "ty+iOZ": [
     "Primaj e-poštu s novim značajkama, prilagođenim preporukama i posebnim ponudama! (nije obavezno)"
-  ],
-  "ty+iWP": [
-    "Zatraži ručni pregled"
   ],
   "ty7Lxy": [
     "Prebaci se na glasovni kanal"
@@ -154971,6 +156116,9 @@
       ]
     ]
   ],
+  "uF5VXk": [
+    "Tu sliku nije moguće dodati u isječak."
+  ],
   "uFHxNd": [
     "Potvrdi novu grupu"
   ],
@@ -155144,6 +156292,21 @@
   "uJWIj/": [
     "Nastavi na Discord"
   ],
+  "uJcbMv": [
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se uvjeti i odredbe."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "uJd+85": [
     "Započni sesiju pristupnik u svoje ime"
   ],
@@ -155155,6 +156318,9 @@
   ],
   "uKFeS1": [
     "Nadogradi"
+  ],
+  "uKMqrF": [
+    "Greška"
   ],
   "uKZtC/": [
     "Šalji poruke i medijske sadržaje"
@@ -156188,6 +157354,9 @@
   "uknrnq": [
     "Trenutačno nemaš pravila, što znači da će novi članovi vidjeti samo praznu skočnu poruku."
   ],
+  "ukvxpp": [
+    "Xbox Game Pass te čeka. Zaigraj."
+  ],
   "ukyggU": [
     "Butan"
   ],
@@ -156730,6 +157899,42 @@
   "uy25Qz": [
     "Naljepnice s ovog servera nisu dostupne"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " ima prilagođene dozvole za direktne poruke. Odaberi ga da ih pregledaš ili promijeniš."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servera"
+            ]
+          ],
+          " s prilagođenim dozvolama za direktne poruke. Odaberi jedan da ih pregledaš ili promijeniš."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Naslov posta"
   ],
@@ -157116,6 +158321,9 @@
   "v8MLqz": [
     "Dijeljenje nije dostupno na tom kanalu"
   ],
+  "v8QrJf": [
+    "Tvoji su orbovi spremni da ih iskoristiš"
+  ],
   "v8UpgE": [
     "Posjeti trgovinu u igri"
   ],
@@ -157131,6 +158339,23 @@
   ],
   "v92GNV": [
     "Pruža mogućnost odabira GIF-a kao bannera."
+  ],
+  "v9AaV4": [
+    "Nitro sada dolazi s Xbox Game Passom. Ubaci se u 50+ PC i konzolnih igara bez dodatnih troškova. ",
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se uvjeti i pravila o pogodnosti"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "v9GTV8": [
     "Prilagodi svoje mape"
@@ -159979,6 +161204,9 @@
   "wBoE6L": [
     "Učite skupa"
   ],
+  "wBz9aO": [
+    "Uklanjanje je u tijeku"
+  ],
   "wC/0Lz": [
     "Ukloni snimak zaslona"
   ],
@@ -160480,6 +161708,9 @@
   "wR+Fuo": [
     "Utišaj ovu nit"
   ],
+  "wR5R9w": [
+    "Zamijeni sliku"
+  ],
   "wR5wOo": [
     "Efekt profila"
   ],
@@ -160529,6 +161760,9 @@
   ],
   "wS+5Wb": [
     "Pozovi na gledanje streaminga"
+  ],
+  "wSD7jV": [
+    "Odaberi kanal za obavijesti o sigurnosti"
   ],
   "wSZfJR": [
     "„Slučajno sam te prijavio/la“"
@@ -162081,6 +163315,9 @@
       1,
       "activity"
     ]
+  ],
+  "wqhsP3": [
+    "Uzmi Xbox Game Pass"
   ],
   "wqsK7q": [
     "Reproduciraj GIF-ove kad je Discord fokusiran"
@@ -164396,6 +165633,9 @@
     ],
     ")"
   ],
+  "xZiyZj": [
+    "Igranje u oblaku odabranih igara iz tvoje Xbox zbirke"
+  ],
   "xZkJAH": [
     "Želimo ti dobrodošlicu u Nitro!"
   ],
@@ -164718,6 +165958,9 @@
   ],
   "xhQsxx": [
     "Pristupi svojem Nitro statusu"
+  ],
+  "xhZ23b": [
+    "xhZ23b"
   ],
   "xhgNd0": [
     "Server vlasnika ",
@@ -165098,9 +166341,6 @@
       ]
     ],
     ". Uz Nitro tu nagradu možeš i zadržati!"
-  ],
-  "xr4m5B": [
-    "Oh, ne. Nemaš nijedan raspoloživ boost."
   ],
   "xr59t7": [
     "Napravi server"
@@ -168867,6 +170107,23 @@
   "zPerw8": [
     "Nema veze."
   ],
+  "zPnFYf": [
+    "Tvoj množitelj orbova od 1,2× upravo se aktivirao. Imaš još toga za istražiti na Nitru. Idi na svoju početnu stranicu Nitra i pogledaj što je novo. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zPxMdQ": [
     "Otkazana je Premium pretplata"
   ],
@@ -168987,6 +170244,22 @@
   "zS0K+s": [
     "Pretpregled emojija kada se koristi kao reakcija"
   ],
+  "zS4GBR": [
+    "Popusti i posebne pogodnosti koje poboljšavaju tvoje igranje i druženje. Sve je tvoje uz Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "zSG3Qy": [
     "Tvoja poruka se nije mogla dostaviti jer je u njoj link kojeg je Discord blokirao. Više informacija možeš naći ovdje: ",
     [
@@ -169082,6 +170355,23 @@
   "zUUbBM": [
     "Kamerun"
   ],
+  "zUjL+R": [
+    "Nadogradi na Nitro i možeš se ubaciti u 50+ PC i konzolnih igara uz Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Primjenjuju se uvjeti i pravila o pogodnosti"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zUjLl+": [
     "Dodaj bilo koji video, fotografiju i datoteke koje želiš podijeliti s članovima."
   ],
@@ -169093,6 +170383,9 @@
   ],
   "zV0/FC": [
     "Nevažeća vrsta poruke"
+  ],
+  "zVGHbw": [
+    "Zgrabi besplatan ukras"
   ],
   "zVJxqj": [
     "Obavezno je imati najmanje ",
@@ -169263,6 +170556,9 @@
   "zZp618": [
     "Ovdje je popis svih uređaja koji su prijavljeni na tvoj Discord račun. Možeš se odjaviti s nekom pojedinačnog ili odjednom sa svih.\n\nUočiš li da je na popisu neki tebi nepoznati uređaj, odjavi taj uređaj i odmah mijenjaj svoju lozinku za Discord."
   ],
+  "zaEQz+": [
+    "Podaci preglednika su obrisani."
+  ],
   "zany_face": [
     "lude oči",
     "ludo",
@@ -169326,6 +170622,9 @@
   ],
   "zcKE8W": [
     "Mobilna Xbox aplikacija instalirana"
+  ],
+  "zcZtrU": [
+    "Prilagodi badgeve"
   ],
   "zcbFu1": [
     "Korišteni emoji"
@@ -169398,6 +170697,13 @@
       "cashtag"
     ],
     "."
+  ],
+  "zeBjoX": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na nove proizvode"
   ],
   "zePEol": [
     "Kupnje u igrama"
@@ -169561,6 +170867,14 @@
   ],
   "zihbmv": [
     "Nema pronađenih rezultata pretraživanja"
+  ],
+  "zinfZi": [
+    "Uzmi ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % popusta na Logitech G opremu s novim kodom svakog mjeseca."
   ],
   "zipper_mouth": [
     "lice",
