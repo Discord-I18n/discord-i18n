@@ -4411,6 +4411,9 @@
   "/lFMWr": [
     "Esi tikras (-a)?"
   ],
+  "/lMTzd": [
+    "Dabar aktyvūs"
+  ],
   "/lQiX/": [
     "Nepamiršk išsaugoti pakeitimų!"
   ],
@@ -19074,9 +19077,6 @@
   ],
   "5S2AK+": [
     "Vaizdo aprašas"
-  ],
-  "5S3sQF": [
-    "Tvarkyti programėlę"
   ],
   "5SDtGB": [
     "Leisti nariams kurti gijas, kurias matys kiekvienas šio kanalo dalyvis."
@@ -46787,18 +46787,6 @@
   "Gh3A0O": [
     "Pažymėti kaip išspręstą"
   ],
-  "GhK5nf": [
-    "Rodyti ",
-    [
-      1,
-      "position"
-    ],
-    " ženklelį ",
-    [
-      1,
-      "badgeName"
-    ]
-  ],
   "GhK6X0": [
     "Tekstiniai atsakymai su galimybe pridėti mediją"
   ],
@@ -69020,13 +69008,6 @@
   "PiFnny": [
     "Sukurti naują lygį"
   ],
-  "PiPq7M": [
-    "Profilio sąranka ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "Kokiu žaidimo elementu būtum?"
   ],
@@ -89555,9 +89536,6 @@
     ],
     " draugai (-ų)"
   ],
-  "XwadDC": [
-    "Prenumeruok Nitro ir gauk už Orbs"
-  ],
   "Xwv41+": [
     "Nebuvo programos garso"
   ],
@@ -95945,6 +95923,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Žaidimas"
   ],
   "aLNBAw": [
     "Atidaryti OpenCritic puslapį"
@@ -103014,9 +102995,6 @@
   "cg6ltt": [
     "Bendrieji"
   ],
-  "cg95CA": [
-    "Tik su Nitro: gauk už Orbs"
-  ],
   "cgBTyO": [
     "Privatumo kodas"
   ],
@@ -108879,6 +108857,9 @@
   "eVmj1H": [
     "Naršyti tarp neskaitytų kanalų"
   ],
+  "eVxFX3": [
+    "Abėcėlės tvarka"
+  ],
   "eW8Gy4": [
     "Sinchronizuoti Leidimus"
   ],
@@ -112676,6 +112657,9 @@
   ],
   "fnxxLh": [
     "Gauk iki 4k / 60 fps žaidimams transliuoti. Arba juokingiausiems vaizdo įrašams su kačiukais – mes tavęs neteisiam."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Naudotojai, kuriems siuntei žinutes asmeniškai arba grupės pokalbyje. Neapima serverių."
@@ -116523,9 +116507,6 @@
   "hHGrWz": [
     "Neturi leidimo šiame kanale naudoti veiklas."
   ],
-  "hHHpvU": [
-    "Ženklelis vėl bus rodomas tavo profilyje"
-  ],
   "hHMYbb": [
     "Įvesties Įrenginys"
   ],
@@ -119254,26 +119235,6 @@
   ],
   "iFQqGD": [
     "Įdiegti Žaidimą"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Tik su Nitro: įsigyk ",
-        [
-          1,
-          "applicationName"
-        ],
-        " elementų už Orbs!"
-      ]
-    ],
-    " Galioja iki ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Pridėti vaizdą"
@@ -122489,9 +122450,6 @@
   ],
   "jVcuVY": [
     "Eiti į šį puslapį"
-  ],
-  "jVjr/j": [
-    "Pelnyk Orbs vykdydamas (-a) Discord misijas"
   ],
   "jVrUnC": [
     "Ištrinti Webhook"
@@ -141919,6 +141877,9 @@
   "qHWea4": [
     "Reikalingas veikiantis elektroninis paštas."
   ],
+  "qHmbyh": [
+    "Peržiūra"
+  ],
   "qHsrGS": [
     "Stabdyti asmenines žinutes. Jei nori, gali panaikinti ankstesnių žinučių slėpimą"
   ],
@@ -159358,6 +159319,14 @@
   "wE48Bn": [
     "Susipažink su mobiliojo garso persidengimu!"
   ],
+  "wE4a/r": [
+    "Dabar tavo laimėjimai tampa megalaimėjimais Orbs apdovanojimuose su daugikliu x",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "."
+  ],
   "wEHnxW": [
     "Jokia šalis nerasta."
   ],
@@ -159497,7 +159466,7 @@
     "Pirmiausia pakvieskime tavo draugus"
   ],
   "wJVyYR": [
-    "Patvirtink amžiaus grupę"
+    "Patvirtink savo amžiaus grupę"
   ],
   "wJdBEZ": [
     "Neprarask vilties. Susisiek su ",

@@ -3975,6 +3975,9 @@
   "/lFMWr": [
     "Biztos vagy benne?"
   ],
+  "/lMTzd": [
+    "Aktivitás"
+  ],
   "/lQiX/": [
     "Ne felejtsd el menteni a módosításokat!"
   ],
@@ -17239,9 +17242,6 @@
   ],
   "5S2AK+": [
     "Kép leírása"
-  ],
-  "5S3sQF": [
-    "Alkalmazás kezelése"
   ],
   "5SDtGB": [
     "Lehetővé teszi a tagok számára, hogy olyan gondolatmeneteket hozzanak létre, amelyeket ezen a csatornán mindenki láthat."
@@ -42221,18 +42221,6 @@
   "Gh3A0O": [
     "Megjelölés megoldottként"
   ],
-  "GhK5nf": [
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ],
-    " jelvény elrejtésének visszavonása"
-  ],
   "GhK6X0": [
     "Szöveges üzenetek választható médiatartalmakkal"
   ],
@@ -62429,13 +62417,6 @@
   "PiFnny": [
     "Új szint létrehozása"
   ],
-  "PiPq7M": [
-    [
-      1,
-      "presetName"
-    ],
-    " tárolt profilbeállítás"
-  ],
   "PiepBk": [
     "Milyen tárgy lennél egy videójátékban?"
   ],
@@ -81010,9 +80991,6 @@
     ],
     " további  barát"
   ],
-  "XwadDC": [
-    "Fizess elő a Nitróra, hogy orbokkal tudd beváltani"
-  ],
   "Xwv41+": [
     "Hiányzott az alkalmazás hangja"
   ],
@@ -86821,6 +86799,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Játék"
   ],
   "aLNBAw": [
     "OpenCritic-oldal megnyitása"
@@ -93575,9 +93556,6 @@
   "cg6ltt": [
     "Általános"
   ],
-  "cg95CA": [
-    "Exkluzív a Nitróval: Beváltás orbokkal"
-  ],
   "cgBTyO": [
     "Privát kód"
   ],
@@ -99218,6 +99196,9 @@
   "eVmj1H": [
     "Navigálás a nem olvasott csatornák között"
   ],
+  "eVxFX3": [
+    "Betűrend"
+  ],
   "eW8Gy4": [
     "Jogosultságok szinkronizálása"
   ],
@@ -102881,6 +102862,9 @@
   ],
   "fnxxLh": [
     "Akár 4k/60 fps felbontásban közvetíthetsz a játékmenet alatt. Vagy akár mókás cicás videókat is megoszthatsz, mi nem ítélkezünk feletted."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Felhasználók, akikkel személyesen vagy csoportos csevegés részeként üzenetet váltottál. Nem foglalja magában a szervereket."
@@ -106573,9 +106557,6 @@
   "hHGrWz": [
     "Nincs jogod, hogy használd a tevékenységeket ezen a csatornán."
   ],
-  "hHHpvU": [
-    "Ismét megjeleníti ezt a jelvényt a profilodon"
-  ],
   "hHMYbb": [
     "Bemeneti eszköz"
   ],
@@ -109196,26 +109177,6 @@
   ],
   "iFQqGD": [
     "Játék telepítése"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Exkluzív a Nitróval: Vásárolj ",
-        [
-          1,
-          "applicationName"
-        ],
-        "-termékeket orbokkal!"
-      ]
-    ],
-    " Az ajánlat vége: ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Kép hozzáadása"
@@ -112138,9 +112099,6 @@
   ],
   "jVcuVY": [
     "Vigyél oda!"
-  ],
-  "jVjr/j": [
-    "Orbokat szerezhetsz Discord-küldetések teljesítésével"
   ],
   "jVrUnC": [
     "Webhook törlése"
@@ -130548,6 +130506,9 @@
   "qHWea4": [
     "Érvényes bejelentkezés szükséges."
   ],
+  "qHmbyh": [
+    "Áttekintés"
+  ],
   "qHsrGS": [
     "Leállíthatod a közvetlen üzeneteket. Ha szeretnéd, visszavonhatod a korábbi üzenetek elrejtését"
   ],
@@ -146985,6 +146946,14 @@
   "wE48Bn": [
     "Ismerd meg a mobil hangréteget!"
   ],
+  "wE4a/r": [
+    "A nyereményeid meganyereménnyé változnak, mivel ",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "x értékű szorzó jár az orbjutalmakért."
+  ],
   "wEHnxW": [
     "Nem található ilyen ország."
   ],
@@ -147124,7 +147093,7 @@
     "Vágj bele a barátaid meghívásával"
   ],
   "wJVyYR": [
-    "Korcsoport megerősítése"
+    "A korcsoportod megerősítése"
   ],
   "wJdBEZ": [
     "Ne add fel a reményt! Írj ",

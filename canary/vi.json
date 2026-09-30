@@ -3965,6 +3965,9 @@
   "/lFMWr": [
     "Bạn chắc chứ?"
   ],
+  "/lMTzd": [
+    "Đang Hoạt Động"
+  ],
   "/lQiX/": [
     "Đừng quên lưu thay đổi của bạn nhé!"
   ],
@@ -17134,9 +17137,6 @@
   ],
   "5S2AK+": [
     "Mô tả hình ảnh"
-  ],
-  "5S3sQF": [
-    "Quản Lý Ứng Dụng"
   ],
   "5SDtGB": [
     "Cho phép thành viên được tạo chủ đề mà mọi người trong kênh này đều có thể xem."
@@ -42101,18 +42101,6 @@
   "Gh3A0O": [
     "Đánh dấu là đã giải quyết"
   ],
-  "GhK5nf": [
-    "Bỏ ẩn huy hiệu ",
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ]
-  ],
   "GhK6X0": [
     "Trả lời bằng văn bản với nội dung đa phương tiện tùy chọn"
   ],
@@ -62258,13 +62246,6 @@
   "PiFnny": [
     "Tạo bậc mới"
   ],
-  "PiPq7M": [
-    "Cấu hình hồ sơ cài sẵn ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "Bạn sẽ là vật phẩm trong game nào?"
   ],
@@ -80721,9 +80702,6 @@
     ],
     " bạn bè khác"
   ],
-  "XwadDC": [
-    "Đăng ký Nitro để quy đổi bằng Orb"
-  ],
   "Xwv41+": [
     "Ứng dụng không có tiếng"
   ],
@@ -86494,6 +86472,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Trò Chơi"
   ],
   "aLNBAw": [
     "Mở trang OpenCritic"
@@ -93019,9 +93000,6 @@
   "cg6ltt": [
     "Chung"
   ],
-  "cg95CA": [
-    "Độc Quyền Nitro: Quy đổi bằng Orb"
-  ],
   "cgBTyO": [
     "Mã Bảo Mật"
   ],
@@ -98310,6 +98288,9 @@
   "eVmj1H": [
     "Chuyển giữa các kênh chưa đọc"
   ],
+  "eVxFX3": [
+    "Bảng chữ cái"
+  ],
   "eW8Gy4": [
     "Đồng bộ các quyền"
   ],
@@ -101748,6 +101729,9 @@
   ],
   "fnxxLh": [
     "Mở khóa stream lên tới 4k/60 fps cho màn chơi của bạn. Hoặc mở các video mèo vui nhộn, chúng tôi không đánh giá đâu."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Người dùng mà bạn đã nhắn tin riêng tư hoặc trong một nhóm trò chuyện. Không bao gồm máy chủ."
@@ -105351,9 +105335,6 @@
   "hHGrWz": [
     "Bạn không có quyền sử dụng Hoạt động trong kênh này."
   ],
-  "hHHpvU": [
-    "Hiển thị lại huy hiệu này trên hồ sơ của bạn"
-  ],
   "hHMYbb": [
     "Thiết Bị Đầu Vào"
   ],
@@ -107834,26 +107815,6 @@
   ],
   "iFQqGD": [
     "Cài đặt trò chơi"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Độc Quyền Nitro: Mua vật phẩm ",
-        [
-          1,
-          "applicationName"
-        ],
-        " bằng Orb!"
-      ]
-    ],
-    " Kết thúc vào ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Thêm hình ảnh"
@@ -110718,9 +110679,6 @@
   ],
   "jVcuVY": [
     "Hãy đưa tôi đến đó"
-  ],
-  "jVjr/j": [
-    "Kiếm Orb bằng cách hoàn thành Nhiệm Vụ Discord"
   ],
   "jVrUnC": [
     "Xóa Webhook"
@@ -128579,6 +128537,9 @@
   "qHWea4": [
     "Thông tin đăng nhập phải hợp lệ."
   ],
+  "qHmbyh": [
+    "Tổng quan"
+  ],
   "qHsrGS": [
     "Dừng tin nhắn trực tiếp. Bạn có thể hủy việc ẩn các tin nhắn trước đây nếu muốn"
   ],
@@ -144413,6 +144374,14 @@
   "wE48Bn": [
     "Trải nghiệm tính năng Overlay Thoại Di Động!"
   ],
+  "wE4a/r": [
+    "Giờ đây, chiến thắng của bạn sẽ trở thành siêu chiến thắng với hệ số nhân ",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "x cho Phần thưởng Orb."
+  ],
   "wEHnxW": [
     "Không tìm thấy quốc gia."
   ],
@@ -144553,7 +144522,7 @@
     "Hãy bắt đầu bằng cách mời bạn bè của bạn"
   ],
   "wJVyYR": [
-    "Xác nhận nhóm tuổi"
+    "Xác nhận nhóm tuổi của bạn"
   ],
   "wJdBEZ": [
     "Đừng từ bỏ hy vọng. Hãy liên hệ với ",

@@ -4388,6 +4388,9 @@
   "/lFMWr": [
     "Sigur?"
   ],
+  "/lMTzd": [
+    "Activitate acum"
+  ],
   "/lQiX/": [
     "Nu uita să salvezi modificările!"
   ],
@@ -18937,9 +18940,6 @@
   ],
   "5S2AK+": [
     "Descrierea imaginii"
-  ],
-  "5S3sQF": [
-    "Gestionează aplicația"
   ],
   "5SDtGB": [
     "Le permite membrilor să creeze fire pe care le poate vedea toată lumea de pe acest canal."
@@ -46223,18 +46223,6 @@
   "Gh3A0O": [
     "Marchează ca rezolvat"
   ],
-  "GhK5nf": [
-    "Afișează insigna ",
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ]
-  ],
   "GhK6X0": [
     "Răspunsuri text cu conținut media opțional"
   ],
@@ -68302,13 +68290,6 @@
   "PiFnny": [
     "Creează un nivel nou"
   ],
-  "PiPq7M": [
-    "Presetare pentru profil ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "Dacă ai fi un obiect dintr-un joc, ce obiect ai fi?"
   ],
@@ -88404,9 +88385,6 @@
     ],
     " alți prieteni"
   ],
-  "XwadDC": [
-    "Abonează-te la Nitro pentru a revendica cu Orbs"
-  ],
   "Xwv41+": [
     "Sunetul din aplicație a fost absent"
   ],
@@ -94723,6 +94701,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Joc"
   ],
   "aLNBAw": [
     "Deschide pagina OpenCritic"
@@ -102345,9 +102326,6 @@
   "cg6ltt": [
     "General"
   ],
-  "cg95CA": [
-    "Exclusiv pentru Nitro: Revendică cu Orbs"
-  ],
   "cgBTyO": [
     "Cod de confidențialitate"
   ],
@@ -108603,6 +108581,9 @@
   "eVmj1H": [
     "Navighează între canalele necitite"
   ],
+  "eVxFX3": [
+    "Alfabetic"
+  ],
   "eW8Gy4": [
     "Sincronizează permisiunile"
   ],
@@ -112590,6 +112571,9 @@
   ],
   "fnxxLh": [
     "Deblochează streamingul de până la 4k/60 fps pentru jocurile tale. Sau pentru clipurile amuzante cu pisici, cum vrei tu."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Utilizatori către care ai trimis mesaje unu-la-unu sau în chaturi de grup. Aici nu sunt incluse serverele."
@@ -116599,9 +116583,6 @@
   "hHGrWz": [
     "Nu ai permisiunea să folosești activitățile pe acest canal."
   ],
-  "hHHpvU": [
-    "Afișează din nou această insignă pe profilul tău"
-  ],
   "hHMYbb": [
     "Dispozitiv de intrare"
   ],
@@ -119472,26 +119453,6 @@
   ],
   "iFQqGD": [
     "Instalează joc"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Exclusiv pentru Nitro: Cumpără articole ",
-        [
-          1,
-          "applicationName"
-        ],
-        " cu Orbs!"
-      ]
-    ],
-    " Se încheie pe ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Adaugă imagine"
@@ -122710,9 +122671,6 @@
   ],
   "jVcuVY": [
     "Du-mă acolo"
-  ],
-  "jVjr/j": [
-    "Primește Orbs încheind misiunile Discord"
   ],
   "jVrUnC": [
     "Șterge webhook"
@@ -142993,6 +142951,9 @@
   "qHWea4": [
     "Este necesară o autentificare validă."
   ],
+  "qHmbyh": [
+    "Prezentare generală"
+  ],
   "qHsrGS": [
     "Oprește mesajele directe. Dacă vrei, poți dezvălui mesajele vechi"
   ],
@@ -161259,6 +161220,14 @@
   "wE48Bn": [
     "Descoperă overlay-ul vocal pe dispozitivele mobile!"
   ],
+  "wE4a/r": [
+    "Acum, câștigurile devin mega-câștiguri cu un multiplicator de ",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "x la recompensele pentru Orbs."
+  ],
   "wEHnxW": [
     "Nicio țară găsită."
   ],
@@ -161398,7 +161367,7 @@
     "Să începem prin a-ți invita prietenii"
   ],
   "wJVyYR": [
-    "Confirmă grupa de vârstă"
+    "Confirmă-ți grupa de vârstă"
   ],
   "wJdBEZ": [
     "Nu-ți pierde speranța. Scrie-i lui ",
