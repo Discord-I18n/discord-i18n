@@ -107,6 +107,9 @@
   "+1k/lP": [
     "Vi introduserer innkjøring for fellesskapet"
   ],
+  "+20A3o": [
+    "Bildet kan ikke legges til. Prøv igjen."
+  ],
   "+2QBZX": [
     "Hm, vi klarte ikke å laste inn gavene fra butikken. Prøv senere."
   ],
@@ -364,6 +367,9 @@
         ]
       ]
     ]
+  ],
+  "+ADjaQ": [
+    "Oppgrader"
   ],
   "+AJFJy": [
     "I en scenekanal"
@@ -1159,6 +1165,9 @@
     ],
     " igjen"
   ],
+  "+QAvQz": [
+    "En startutgave av Xbox Game Pass er nå inkludert i Nitro. På tide å spille!"
+  ],
   "+QNUov": [
     "Initialiserer klippmotor"
   ],
@@ -1938,6 +1947,9 @@
   ],
   "+p4GaA": [
     "Skolens e-postadresse"
+  ],
+  "+pTnsf": [
+    "Over 50 spill som Stardew Valley, Fallout 4 og Grounded. 10 timer med spill i skyen hver måned. Xbox-premier. Alt det får du med Nitro."
   ],
   "+pfsFX": [
     "Satt på pause"
@@ -2974,6 +2986,9 @@
   "/8psS7": [
     "Det var forvirrende kontroller i aktiviteten"
   ],
+  "/8znyU": [
+    "Gi enda en gave for å få alle"
+  ],
   "/91tbr": [
     "Varsle brukere med denne rollen som har tillatelse til å se denne kanalen."
   ],
@@ -3054,6 +3069,9 @@
   ],
   "/AS/gM": [
     "Ja, kanseller boost"
+  ],
+  "/AUOfc": [
+    "Bli med"
   ],
   "/AXYnE": [
     "Kopier bruker-ID"
@@ -3224,6 +3242,9 @@
       1,
       "a"
     ]
+  ],
+  "/GObQk": [
+    "Fjern Xbox Game Pass"
   ],
   "/GTqXG": [
     "Velg URL origin type (kun innebygde apper)"
@@ -3718,6 +3739,28 @@
   "/UJaI2": [
     "Forvirret bot"
   ],
+  "/UNTlE": [
+    "Få ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på Logitech G hver måned, pluss engangsrabatter på PRO Series-utstyr og nyheter. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "/UTTEg": [
     "Sjekk alt det nye du har låst opp"
   ],
@@ -3782,6 +3825,9 @@
   ],
   "/Whuzi": [
     "Når du bruker en Discord-sertifisert mikrofon, blir enkelte talebehandlingsfunksjoner ikke lenger håndtert av Discord selv,\nmen av mikrofonen."
+  ],
+  "/WsW/1": [
+    "Prøv profiltema"
   ],
   "/X1ny6": [
     "Se deg rundt i butikken og hjertemerk varene du liker, så legges de til her."
@@ -4321,6 +4367,24 @@
   ],
   "/nALeY": [
     "Andre tilbakemeldinger"
+  ],
+  "/nFLZv": [
+    "Kvalifisert for kampanje: ",
+    [
+      1,
+      "current"
+    ],
+    " av ",
+    [
+      1,
+      "target"
+    ],
+    " samlet – ",
+    [
+      1,
+      "numDays"
+    ],
+    " dager igjen"
   ],
   "/nJOlj": [
     "Aktiviteten hadde forsinkelser eller frøs"
@@ -4940,6 +5004,23 @@
   "02hvfp": [
     "Fokus på sikkerhet"
   ],
+  "02smVH": [
+    "Vil du ha større utbytte av hvert eneste oppdrag? Nitro-medlemmer får 1,2x Orbs i oppdrag, en månedlig Orbs-premie og veldig mye mer. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "03/rlQ": [
     "Ingen invitasjoner enda!"
   ],
@@ -5044,10 +5125,19 @@
     ],
     " Orbs om ",
     [
-      1,
-      "days"
-    ],
-    " dager"
+      6,
+      "days",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          "dager"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "05AyNA": [
     "Last opp ",
@@ -5837,6 +5927,9 @@
   ],
   "0N1s81": [
     "Sikkerhetsnøkler og passnøkler"
+  ],
+  "0N8fCf": [
+    "Du er sjenerøs av deg. Du har sendt gaver nok til å få et profilmerke som går opp i nivå etter hvert som du gir flere gaver."
   ],
   "0NJZAU": [
     "Lenket til ",
@@ -7009,6 +7102,9 @@
     ],
     " valgfri"
   ],
+  "0mQ2U6": [
+    "Xbox Game Pass"
+  ],
   "0mTJ3j": [
     "Felles venner"
   ],
@@ -7424,6 +7520,9 @@
   "0sTyEb": [
     "Send en søknad om å bli med i serveren."
   ],
+  "0sh8CQ": [
+    "Vis emojiforslag mens du skriver"
+  ],
   "0t1aNC": [
     "Rediger nivå-emoji"
   ],
@@ -7538,6 +7637,9 @@
   ],
   "0vTx7j": [
     "Last inn på nytt"
+  ],
+  "0vY+ie": [
+    "Få Nitro"
   ],
   "0vZqv0": [
     "Ved å slå på vennesynkronisering legger vi automatisk til telefonkontaktene dine som venner på Discord hvis:\n\n1. Dere har hverandres telefonnumre\n\n2. Begge har aktivert vennesynkronisering"
@@ -8673,6 +8775,9 @@
   "1RD2jW": [
     "Noe gikk galt da metoden skulle åpnes."
   ],
+  "1RFJ5Q": [
+    "Bli med i fellesskap"
+  ],
   "1RH5t9": [
     "Invitert"
   ],
@@ -9740,6 +9845,9 @@
   "1zoOqj": [
     "Del Nitro-magien med andre."
   ],
+  "2+/rrF": [
+    "Få lavere pris på profilelementer, egne emojier, strømming i HD og annet med Nitro."
+  ],
   "2+A3dv": [
     "Nedkjøling! Boosten kan ikke flyttes før om ",
     [
@@ -10540,6 +10648,9 @@
   ],
   "2HvOvh": [
     "Avslått"
+  ],
+  "2I7nK+": [
+    "Logitech-rabatt"
   ],
   "2ICUkG": [
     "Låste opp ",
@@ -11518,6 +11629,9 @@
   ],
   "2hPcVJ": [
     "Zoomforhold"
+  ],
+  "2iX+XV": [
+    "Oppgrader"
   ],
   "2ia+9V": [
     "Vis info om merke"
@@ -13192,6 +13306,23 @@
   "3JGJo2": [
     "Evig eies kun den perfekte, uhåndgripelige GIF-en. Prøv de anbefalte nøkkelordene under!"
   ],
+  "3JKWU6": [
+    "Abonner på Nitro for å få Xbox Game Pass (startutgave), tilbud på utstyr, nye Orbs-fordeler og mye mer. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "3JWkhv": [
     "Vis tastatur"
   ],
@@ -14509,6 +14640,22 @@
   "3iccet": [
     "Plasser til klistremerker"
   ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du fikk en gratis dekorasjon"
+        ],
+        "other": [
+          "Du fikk gratis dekorasjoner"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "3ilveh": [
     "Glem det"
   ],
@@ -14531,6 +14678,23 @@
   ],
   "3jG0Bo": [
     "Lar medlemmer se denne kanalen automatisk. Hvis du deaktiverer dette for @everyone, blir kanalen privat."
+  ],
+  "3jY5i3": [
+    "Hvis du liker YouTube, kommer du til å elske Premium. Få 20 % rabatt i 6 måneder. Gjelder både nykommere på YouTube Premium og eksisterende abonnenter. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "3jaCac": [
     "Alle nedlastbare filer"
@@ -14698,6 +14862,9 @@
         ]
       ]
     ]
+  ],
+  "3nB2PV": [
+    "Versjon"
   ],
   "3nWhcJ": [
     "Ta imot gave"
@@ -16752,6 +16919,9 @@
   "4fnE/J": [
     "Påloggingslenken kan ikke verifiseres. Prøv igjen."
   ],
+  "4fvi9I": [
+    "Vennene dine med et blikk."
+  ],
   "4fw/T2": [
     "Du boostet nettopp serveren ",
     [
@@ -17477,6 +17647,9 @@
   ],
   "4z9fN+": [
     "Av"
+  ],
+  "4zROKG": [
+    "Hent Xbox Game Pass nå"
   ],
   "4zv/jq": [
     [
@@ -19154,6 +19327,29 @@
   "5fWB8U": [
     "Administrer profil og status"
   ],
+  "5fXjSj": [
+    "Invitasjonen utløper om ",
+    [
+      6,
+      "numMinutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minutt"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutter"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "5fZHp3": [
     "Send invitasjon"
   ],
@@ -19708,6 +19904,9 @@
   ],
   "5rYBAQ": [
     "Hvem som kan bli med i spillene mine"
+  ],
+  "5rbQbD": [
+    "10 timer med spill i skyen hver måned"
   ],
   "5rvCIR": [
     "Få en komplett stil"
@@ -20289,6 +20488,9 @@
   "61wfmh": [
     "Denne emojien finnes ikke lenger. Velg en annen."
   ],
+  "620Iwi": [
+    "Få Nitro"
+  ],
   "621LJD": [
     "Kallenavn"
   ],
@@ -20407,6 +20609,29 @@
       ]
     ],
     "."
+  ],
+  "65EEvD": [
+    "Det kommer en ny kode om ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dager"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "65JnWC": [
     [
@@ -20902,6 +21127,15 @@
       ]
     ]
   ],
+  "6KjkUa": [
+    "Gjelder for alle produkter på Logitech-siden, unntatt G-serien og nye produkter. Utløper ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "6Kqn9M": [
     [
       6,
@@ -20951,6 +21185,9 @@
   ],
   "6MwJo/": [
     "Vis færre"
+  ],
+  "6NbEkN": [
+    "Velg en app før du lagrer regelen."
   ],
   "6Nmv4i": [
     "Personvernbøndene våre har begynt å høste dataene dine. Dette kan ta opptil 30 dager, men vi sender deg en e-post når alt er klart."
@@ -22779,6 +23016,9 @@
     ],
     " i gruppen."
   ],
+  "7/h5vj": [
+    "Ingen av appene på serveren kan moderere meldinger."
+  ],
   "7/qtoL": [
     "Invitasjonen til ",
     [
@@ -23581,6 +23821,9 @@
       ]
     ]
   ],
+  "7PdsMK": [
+    "Nå får du en startutgave av Xbox Game Pass sammen med Nitro. På tide å spille!"
+  ],
   "7PnXqu": [
     "Kan ikke behandle bilde"
   ],
@@ -24273,6 +24516,9 @@
   "7ioAjs": [
     "Tilgjengelige tilbud"
   ],
+  "7itT3E": [
+    "Se gjennom andre servere"
+  ],
   "7j/5mg": [
     [
       6,
@@ -24756,6 +25002,9 @@
   "7rOU6j": [
     "Synkroniser med datamaskin"
   ],
+  "7raRgL": [
+    "Løs inn Orbs"
+  ],
   "7rkg+/": [
     "Slutt å se på – ",
     [
@@ -24849,6 +25098,9 @@
   ],
   "7vHKVe": [
     "Synkroniserte medlemmer"
+  ],
+  "7vL/d/": [
+    "Advarsel"
   ],
   "7vRj5F": [
     "Administrer betaling"
@@ -25467,6 +25719,9 @@
   "8AEGE0": [
     "Inkludert i nivå 3"
   ],
+  "8ALChp": [
+    "I tale"
+  ],
   "8APv8L": [
     "Administrer abonnement"
   ],
@@ -25713,6 +25968,9 @@
       ]
     ],
     "."
+  ],
+  "8Gl8gP": [
+    "Bygg en drømmemaskin med eksklusive rabattkoder hver måned. Bare med Nitro."
   ],
   "8GypeZ": [
     "Søk om partnerskap"
@@ -26429,6 +26687,19 @@
   "8XT6Nf": [
     "Gavens varighet"
   ],
+  "8XhAe3": [
+    "Kvalifisert for kampanje: ",
+    [
+      1,
+      "current"
+    ],
+    " av ",
+    [
+      1,
+      "target"
+    ],
+    " samlet"
+  ],
   "8Xm6uL": [
     [
       8,
@@ -26631,6 +26902,9 @@
       "oldEmojiHook",
       []
     ]
+  ],
+  "8czF24": [
+    "Innlegget ble fjernet"
   ],
   "8dCrV9": [
     "Løs"
@@ -28698,6 +28972,13 @@
   "9U0b1k": [
     "Opprett din første Discord-server"
   ],
+  "9U3Wb3": [
+    "Meldingen ble slettet i ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "9UAXh4": [
     "Du sender meldinger for fort"
   ],
@@ -28835,6 +29116,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "9Y2p6p": [
+    "Månedspremie"
   ],
   "9Y2wKO": [
     "Velg ett svar"
@@ -29678,6 +29962,9 @@
   "9t1au7": [
     "blokkering av bruker fjernet"
   ],
+  "9t2CzW": [
+    "Tjen premier rett og slett ved å spille Xbox"
+  ],
   "9t3GMT": [
     "• utløper om ",
     [
@@ -29946,6 +30233,14 @@
   ],
   "A+0H1f": [
     "Animert avatar, profilbanner og tilpasset tagg"
+  ],
+  "A+56/R": [
+    "Få ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på Logitech G-utstyr hver måned, bare med Nitro."
   ],
   "A+8d6M": [
     "App"
@@ -32257,6 +32552,9 @@
     ],
     ". Legg til en betalingsmåte for å fortsatt ha tilgang til profiltilpasning og annet."
   ],
+  "AyECej": [
+    "Spillpremier for 18+"
+  ],
   "AyMGXA": [
     "Det ser ut til at profilen ikke er ferdigstilt – send en melding og si hei!"
   ],
@@ -32873,6 +33171,9 @@
   "BEFwGd": [
     "Bilder"
   ],
+  "BEL9MJ": [
+    "Del utvidelse"
+  ],
   "BENn/6": [
     "Alle direktesendte scener"
   ],
@@ -33439,6 +33740,9 @@
       "numViewers"
     ]
   ],
+  "BReS7U": [
+    "Info"
+  ],
   "BRkD41": [
     "Angi en regel"
   ],
@@ -33768,12 +34072,12 @@
     " siden"
   ],
   "Ba/7wO": [
-    "Nitro-medlemmer får ",
+    "Abonner for å få månedlige Orbs og ",
     [
       1,
       "multiplier"
     ],
-    "x for alt"
+    "x premier."
   ],
   "BaI6L4": [
     "Be en foresatt om å gi deg tilgang igjen i appbutikkens foreldrekontroll (Apple eller Google Play)."
@@ -33921,6 +34225,9 @@
   ],
   "Bd6dOf": [
     "Steng kontoen for godt."
+  ],
+  "BdIVB+": [
+    "Gjør YouTube bedre med Premium"
   ],
   "BdQTfR": [
     [
@@ -34126,6 +34433,9 @@
   ],
   "BhWgyQ": [
     "Angi passordet for å vise sikkerhetskopikoder."
+  ],
+  "BhYGtj": [
+    "Utvidelse for skjermdeling"
   ],
   "BhjXCp": [
     "Ta en titt i butikken"
@@ -35614,6 +35924,9 @@
   "CFF2vL": [
     "Løsne meldingen"
   ],
+  "CFfUkp": [
+    "Lås opp flere Orbs med Nitro"
+  ],
   "CFzDOG": [
     "Bruk servertema"
   ],
@@ -36077,6 +36390,9 @@
   ],
   "CU+6oJ": [
     "Trykk på ENTER for å søke"
+  ],
+  "CUAKSg": [
+    "Utkast – ikke publisert"
   ],
   "CUBxDB": [
     "Det kan ta noen minutter før DNS-oppføringen er fylt ut."
@@ -36705,6 +37021,9 @@
   "Cm4aDQ": [
     "Legg strøm i nytt vindu"
   ],
+  "CmLD50": [
+    "Strøm som om du er i rommet"
+  ],
   "CmSHYx": [
     "Søk etter venner"
   ],
@@ -36878,6 +37197,9 @@
   ],
   "CuZPea": [
     "Postnummeret er ugyldig"
+  ],
+  "CubeLC": [
+    "Ta meg dit"
   ],
   "CueiPY": [
     "Fullført!"
@@ -37352,6 +37674,9 @@
   "D6x8Nr": [
     "Lar medlemmer sende tekst-til-tale-meldinger ved å starte en melding med /tts. Disse meldingene kan høres av alle som er fokusert på kanalen."
   ],
+  "D7+kY/": [
+    "Ta en titt"
+  ],
   "D72Dlt": [
     "Gjør Discord litt mer ditt med Nitro"
   ],
@@ -37655,6 +37980,9 @@
   ],
   "DH2o6R": [
     "Klikk for å deaktivere pinging av opphavspersonen."
+  ],
+  "DHLE0q": [
+    "Chat med hele fellesskapet"
   ],
   "DHWKJS": [
     "Avvis alle endringer og slett nivået."
@@ -39608,6 +39936,13 @@
   "EDYbS+": [
     "Å nei! Noe gikk galt da meldingsforespørselen skulle oppdateres. Vent et øyeblikk, og prøv igjen."
   ],
+  "EDmwVf": [
+    "Tekstoverlegg: ",
+    [
+      1,
+      "text"
+    ]
+  ],
   "EE+P0H": [
     "Inviter til tale"
   ],
@@ -39773,6 +40108,9 @@
   ],
   "EKoHta": [
     "Forhåndsbestill spill"
+  ],
+  "EL3rU4": [
+    "Hent gratis"
   ],
   "EL4Lhs": [
     "Taggene skal hit."
@@ -42138,6 +42476,9 @@
     ],
     "."
   ],
+  "FKSiso": [
+    "Velg en app for å sjekke meldinger"
+  ],
   "FKYNC6": [
     "Nitro månedlig"
   ],
@@ -42286,6 +42627,22 @@
   ],
   "FO0AIS": [
     "Finn ut mer"
+  ],
+  "FO4faL": [
+    "En startutgave av Xbox Game Pass er nå inkludert i Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "FOYn8U": [
     "Rediger emoji"
@@ -43008,6 +43365,9 @@
   "FlNoSV": [
     "Video"
   ],
+  "FlY+Rz": [
+    "Hva er Discord?"
+  ],
   "FlcC+3": [
     "Fjerner appen fra denne serveren"
   ],
@@ -43164,6 +43524,9 @@
   ],
   "FrOFSo": [
     "Slå av inntektsgenerering"
+  ],
+  "Fs74z9": [
+    "Aktivering pågår. Det kan ta opptil 1 time før det vises her."
   ],
   "Fs96LO": [
     "Du endret standard delingsinnstillinger til ",
@@ -43396,6 +43759,9 @@
   ],
   "FzgQna": [
     "Venner og alle servere"
+  ],
+  "Fzi4HX": [
+    "Last opp filnavn, filstørrelse og tidspunkter fra applagringen til feilsøkingsloggene for å undersøke lagringsbruken."
   ],
   "FzjizJ": [
     "Tilpass profilen din"
@@ -45013,6 +45379,9 @@
   "GYpoAq": [
     "Voksent seksuelt medieinnhold"
   ],
+  "GZWBoL": [
+    "Opptil 20 % lavere pris i butikken"
+  ],
   "GZa4J0": [
     "Appen er ikke tilgjengelig."
   ],
@@ -46566,6 +46935,9 @@
       []
     ]
   ],
+  "H99tIV": [
+    "Lagringsdiagnostikk lastet opp."
+  ],
   "H9Jxp6": [
     "Legg til inntil ",
     [
@@ -46600,7 +46972,7 @@
     "Spillserveren er klar! Gå til «Spillservere» i butikken hvis du vil gjøre endringer."
   ],
   "HACucK": [
-    "Du har nok Orbs til å kjøpe noe i butikken!"
+    "Du har råd til å kjøpe noe i butikken."
   ],
   "HADQ6n": [
     [
@@ -46704,6 +47076,9 @@
   ],
   "HC8uSZ": [
     "Deaktivert for servereiere eller -administratorer som har publiserte abonnementsnivåer"
+  ],
+  "HCJKFl": [
+    "Nå får du en startutgave av Xbox Game Pass sammen med Nitro. På tide å spille!"
   ],
   "HCgxTd": [
     "Deler ikke"
@@ -46999,6 +47374,9 @@
     ],
     ")"
   ],
+  "HINTfJ": [
+    "Se tilbud"
+  ],
   "HITUcR": [
     "Demp"
   ],
@@ -47091,6 +47469,9 @@
   ],
   "HNo5cG": [
     "Velg bilde"
+  ],
+  "HNqvOh": [
+    "Slett nettleserdata"
   ],
   "HO/lY5": [
     "App (spoiler)"
@@ -47315,6 +47696,9 @@
   ],
   "HTJ76H": [
     "Kodene matcher ikke"
+  ],
+  "HTsycG": [
+    "Få Xbox Game Pass og annet med Nitro"
   ],
   "HTvLGu": [
     "Gi alle tilgang til strømming i høy kvalitet på serveren."
@@ -47574,6 +47958,9 @@
   ],
   "HZPBOd": [
     "Angi autentiseringskoden for Discord"
+  ],
+  "HZPns7": [
+    "Vis innstillinger for serverhub"
   ],
   "HZbmO+": [
     "Minecraft"
@@ -47853,6 +48240,22 @@
   "Hgdhwb": [
     "Er du sikker på at du vil avslutte? Det er ulagrede endringer for produktet, og disse kan forsvinne hvis du avslutter nå."
   ],
+  "Hgo1xT": [
+    "Ny Nitro-belønning! Få 20 % rabatt på YouTube Premium i 6 måneder. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterUrl"
+        ]
+      ]
+    ]
+  ],
   "HhfrYS": [
     "Spill i ",
     [
@@ -47960,6 +48363,9 @@
         ]
       ]
     ]
+  ],
+  "HlVJm0": [
+    "Hent de nye fordelene dine"
   ],
   "Hlk/kJ": [
     "Prøv animert avatar"
@@ -48499,6 +48905,9 @@
   "I+Cbum": [
     "Utesteng bruker"
   ],
+  "I+IXr0": [
+    "Over 50 spill, 10 timer med spill i skyen hver måned og opptil $ 25 i premier. Bli med å spille."
+  ],
   "I+eHql": [
     [
       6,
@@ -48622,7 +49031,7 @@
     ]
   ],
   "I1h8uD": [
-    "Se Autoclips dine"
+    "Se autoklippene dine"
   ],
   "I1nKfO": [
     "Fortell oss hva du synes om sikkerheten på Discord."
@@ -50246,6 +50655,29 @@
   "Ifb6XJ": [
     "Superreager"
   ],
+  "Ifgxdy": [
+    "Invitasjonen utløper om ",
+    [
+      6,
+      "numHours",
+      {
+        "one": [
+          [
+            7
+          ],
+          " time"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " timer"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "IfqUEM": [
     "Moderator"
   ],
@@ -50277,6 +50709,22 @@
   ],
   "Igv+LS": [
     "Se informasjon om emoji"
+  ],
+  "Igwax6": [
+    [
+      1,
+      "fontName"
+    ],
+    " – skrifttype, ",
+    [
+      1,
+      "effectName"
+    ],
+    " – effekt, ",
+    [
+      1,
+      "colors"
+    ]
   ],
   "Ih2T0r": [
     [
@@ -50881,6 +51329,9 @@
   "ItfIa5": [
     "Det meste i Nitro, pluss"
   ],
+  "IthhpG": [
+    "Xbox Game Pass venter"
+  ],
   "ItpQxk": [
     "Gi bort prøveperiode"
   ],
@@ -51172,6 +51623,9 @@
   ],
   "IyUi6q": [
     "Bli et blikkfang på enhver server, i alle DM-er, hver gang noen sjekker profilen din."
+  ],
+  "IyXIFu": [
+    "Sletter nettleserbufferen, informasjonskapsler og nettsteddata i appen. Du kan bli logget ut av nettsteder."
   ],
   "IyYqqY": [
     "Koblet til en annen klient"
@@ -52051,6 +52505,9 @@
   "JM7Y2D": [
     "Innspilling av talemelding stoppet fordi Discord ikke var aktivt."
   ],
+  "JMWqry": [
+    "Bli med i samtalen"
+  ],
   "JMbfnc": [
     "Fortsett sånn!"
   ],
@@ -52703,6 +53160,9 @@
   "JhDw5o": [
     "Tilbake til innlogging"
   ],
+  "JhE8nA": [
+    "Med Nitro får du opptil 20 % lavere pris på alle kjøp i butikken. Abonner for å få tilgang til rabatten, egendefinerte profiler og annet."
+  ],
   "JhNpgy": [
     "Egendefinerte farger"
   ],
@@ -53147,6 +53607,9 @@
   "JzaP4h": [
     "DM-spamfilter"
   ],
+  "JzbSEY": [
+    "Omtaler + uleste meldinger"
+  ],
   "Jzd+z/": [
     "Gi den nye nøkkelen et navn"
   ],
@@ -53208,6 +53671,9 @@
   ],
   "K0e7M9": [
     "Prøv video på nytt"
+  ],
+  "K1URjQ": [
+    "Administrer innstillinger for serverhuben."
   ],
   "K1gWXn": [
     "Er mikrofonen din ekstra fancy og demper seg selv? I så fall kan du slå av den røde advarselen ved å klikke på den\nbittelille teksten nedenfor."
@@ -53532,6 +53998,21 @@
   "KD6OJJ": [
     "Bruker"
   ],
+  "KDKdWi": [
+    [
+      8,
+      "$link",
+      [
+        "Vilkår og krav til egnethet gjelder."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "KDPFi9": [
     "Denne eventen starter automatisk når tiden er inne."
   ],
@@ -53614,6 +54095,9 @@
         ]
       ]
     ]
+  ],
+  "KFcQy8": [
+    "Omorganiser favorittlydene dine!"
   ],
   "KG/ynf": [
     "Oops"
@@ -54930,7 +55414,7 @@
     ]
   ],
   "KmK3q4": [
-    "Opprett invitasjonslenke"
+    "Lag invitasjonslenke"
   ],
   "KmRwcW": [
     "Fortsett"
@@ -55016,6 +55500,9 @@
       1,
       "appName"
     ]
+  ],
+  "KoKwMn": [
+    "Månedsrabatter på det meste av Logitech G-utstyr. Enkelte unntak."
   ],
   "KoQe/G": [
     "La medlemmer endre serverens navn, bytte regioner, se alle invitasjoner, legge til apper på denne serveren og opprette og oppdatere AutoMod-regler."
@@ -55459,6 +55946,9 @@
   ],
   "L/PwZf": [
     "Lenken er kopiert!"
+  ],
+  "L/aQij": [
+    "Lagringsdiagnostikk kan ikke lastes opp. Prøv igjen."
   ],
   "L/hFOe": [
     "Vis mappe med feilsøkingslogger"
@@ -56156,6 +56646,9 @@
   "LIZgwJ": [
     "Bare serveradministratorer kan slå av Utforsk"
   ],
+  "LIc2xy": [
+    "Hent Xbox Game Pass nå"
+  ],
   "LIwUT2": [
     "Sendte en melding i en spoilerkanal"
   ],
@@ -56449,6 +56942,9 @@
   "LSNOYf": [
     "Ingen apper eller kommandoer samsvarer med søket"
   ],
+  "LSoXK5": [
+    "(Valgfritt) Send meg e-poster med oppdateringer, tips og spesialtilbud for Discord."
+  ],
   "LT5TnZ": [
     "Under"
   ],
@@ -56647,9 +57143,6 @@
   ],
   "LZA6Na": [
     "stille studier"
-  ],
-  "LZO+Hd": [
-    "Kontakt oss"
   ],
   "LZunzZ": [
     "Bekreft oppsigelse"
@@ -57345,6 +57838,13 @@
   "Ls2XRq": [
     "Sende deg direktemeldinger"
   ],
+  "LsJ9hj": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % rabatt på Logitech"
+  ],
   "LsLNuw": [
     "Slå på varsler"
   ],
@@ -57917,6 +58417,9 @@
   ],
   "M4XL5n": [
     "Du mister den egendefinerte invitasjons-URL-en umiddelbart."
+  ],
+  "M4qsJL": [
+    "Stil på visningsnavn"
   ],
   "M54uv3": [
     "Det finnes flere fellesskap der ute!"
@@ -58961,6 +59464,9 @@
   ],
   "MUwOvc": [
     "Varsler er slått av"
+  ],
+  "MUypiB": [
+    "Over 50 spill, som Stardew Valley og Fallout 4"
   ],
   "MV4DPe": [
     "Tilgang til nedlasting er nektet – Discord krever lagringstilgang for å laste ned filer."
@@ -60286,9 +60792,6 @@
   "N2c/Un": [
     "Favoritt"
   ],
-  "N2mHaK": [
-    "med Trust and Safety-teamet"
-  ],
   "N2mILu": [
     "Kunne ikke starte ",
     [
@@ -61038,6 +61541,23 @@
   ],
   "NK9aT1": [
     "Aktiver varsler om superreaksjoner"
+  ],
+  "NKTF0a": [
+    "Over 50 spill, 10 timer med spill i skyen hver måned og opptil $ 25 i premier. Bli med å spille. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår og regler for kvalifisering gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "NKV/MO": [
     "Legg appen i samme vindu"
@@ -61801,6 +62321,9 @@
   "NaZyYC": [
     "Varsler"
   ],
+  "Nb1EQx": [
+    "Bare du kan se dette"
+  ],
   "Nb2/RE": [
     "Ny tråd"
   ],
@@ -62368,12 +62891,12 @@
     ". Hvis du synes denne belønningen er ekstra kul, kan du beholde den enda lenger med Nitro."
   ],
   "NpUfej": [
-    "Nå blir suksess i oppdrag til megasuksesser takket være en ",
+    "Med Nitro blir suksess i oppdrag til megasuksess med ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x multiplikator for Orb-premier."
+    "x belønninger. Si opp når du vil"
   ],
   "NpchGq": [
     "Interesser"
@@ -62668,6 +63191,9 @@
   ],
   "Nwj9v0": [
     "I fjor"
+  ],
+  "NwkRTZ": [
+    "Xbox Game Pass (startutgave) er nå inkludert i Nitro. Bli med."
   ],
   "NxHYX/": [
     "Discord-klienten din støtter ikke denne meldingstypen. Oppdater klienten for å se denne meldingen."
@@ -63177,6 +63703,9 @@
   ],
   "OBr7Cw": [
     "Kanalalternativer"
+  ],
+  "OBskVU": [
+    "Innstillinger for serverhub"
   ],
   "OBuzJr": [
     "Den som får flest poeng, får bære kronen."
@@ -64100,6 +64629,9 @@
   "OZRgjw": [
     "Hva er problemet?"
   ],
+  "OZj923": [
+    "Bli oppdatert på venner, og ha fine dager med dem."
+  ],
   "Oa//IE": [
     "Inneholder alle de valgte datatypene"
   ],
@@ -64628,6 +65160,9 @@
   "OlOHDH": [
     "Språk"
   ],
+  "OlObRa": [
+    "Rimelig oppgradering av utstyret"
+  ],
   "Olc2K3": [
     "Tilbake til innstillingene"
   ],
@@ -64816,6 +65351,9 @@
   ],
   "OpIG9d": [
     "Noen du har blokkert, er her. Vedkommende blokkeres også etter at du går ut."
+  ],
+  "OpOEmk": [
+    "Xbox Game Pass (startutgave)"
   ],
   "OpV87U": [
     "Bekreftelsesnivå: ",
@@ -65430,6 +65968,9 @@
       "cardinal"
     ]
   ],
+  "P/1x7s": [
+    "Dra og slipp lyder i ønsket rekkefølge."
+  ],
   "P/KFXz": [
     "Noen du har blokkert eller ignorert, er i denne scenen."
   ],
@@ -65577,6 +66118,9 @@
         "Du boostet nettopp serveren."
       ]
     ]
+  ],
+  "P5dSl0": [
+    "Skyggefarge"
   ],
   "P5keo3": [
     "Kiste"
@@ -65937,6 +66481,13 @@
   ],
   "PEzffq": [
     "Ingen"
+  ],
+  "PF1aT5": [
+    [
+      1,
+      "discountPercentage"
+    ],
+    " % rabatt på Logitech G"
   ],
   "PF7mP3": [
     "Jeg godtar ",
@@ -67235,6 +67786,9 @@
   "PlwgdU": [
     "Overfor tale til denne enheten"
   ],
+  "Plwzgf": [
+    "Administrer"
+  ],
   "PmG5cv": [
     "Somalia"
   ],
@@ -67695,6 +68249,9 @@
   "Q+YV/T": [
     "Slå hurtigtast for innboks på/av"
   ],
+  "Q+dH5r": [
+    "Ny stil, nye utfordringer"
+  ],
   "Q+fhfv": [
     "Støydemping på"
   ],
@@ -67731,6 +68288,9 @@
   ],
   "Q03WWV": [
     "Handling kreves"
+  ],
+  "Q0A42h": [
+    "Månedsrabatt hos SteelSeries"
   ],
   "Q0EMOP": [
     "Der du virkelig følte deg hjemme på Discord i 2025."
@@ -67792,6 +68352,9 @@
   ],
   "Q158Xe": [
     "Du får beholde denne gratis dekorasjonen gjennom å kjøpe en gave!"
+  ],
+  "Q15RXC": [
+    "Lås opp Xbox Game Pass med Nitro"
   ],
   "Q18lRK": [
     "Abonnementene dine fornyes automatisk den ",
@@ -68323,6 +68886,9 @@
   "QHHwRR": [
     "Verifisert"
   ],
+  "QHrFo6": [
+    "Kanalen har aldersgrense, så du kan ikke videresende meldinger til kanalen."
+  ],
   "QHvDTL": [
     "Lås forhold"
   ],
@@ -68620,6 +69186,9 @@
   ],
   "QOs3XA": [
     "For å sikre at Discord-brukere bare får anbefalt aktive servere, må det være et visst aktivitetsnivå på servere i Utforsk."
+  ],
+  "QP/6xR": [
+    "Du får flere Orbs med Nitro"
   ],
   "QP5W1R": [
     [
@@ -69421,6 +69990,9 @@
   ],
   "Qnf32C": [
     "Del hele profilen min med"
+  ],
+  "Qno0jg": [
+    "Du har ikke tjent noen merker"
   ],
   "QntEEG": [
     "Endre utseende på chatmeldinger."
@@ -70246,6 +70818,9 @@
   "R7VMEE": [
     "I fjor"
   ],
+  "R7YJAY": [
+    "Spill i skyen for utvalgte spill fra Xbox-samlingen din"
+  ],
   "R7mv+G": [
     "Vær tålmodig, eventyrer! Det kommer snart flere oppdrag."
   ],
@@ -70632,6 +71207,9 @@
   ],
   "RGKlM0": [
     "Skaff deg Basic"
+  ],
+  "RGT513": [
+    "Xbox Game Pass venter"
   ],
   "RGa/Gb": [
     "Rapporten er ikke kvalifisert for anmodning om gjennomgang."
@@ -71577,6 +72155,9 @@
   "RfkLDs": [
     "Ny kode om:"
   ],
+  "RgDY7v": [
+    "Forhåndsvis serveren"
+  ],
   "RgIi2B": [
     "Meningsmåling"
   ],
@@ -72364,6 +72945,9 @@
   ],
   "S0H8in": [
     "Påminnelser på pause"
+  ],
+  "S0ODmT": [
+    "Bildeinnstillinger"
   ],
   "S0W8Z5": [
     "Tilkoble"
@@ -74621,6 +75205,9 @@
   "Str6/o": [
     "På jakt etter en spesifikk melding som jeg visste den nøyaktige ordlyden i"
   ],
+  "StrErG": [
+    "Meldingen ble fjernet"
+  ],
   "Su1Zkt": [
     "Hei, Android-venner"
   ],
@@ -74800,6 +75387,23 @@
   ],
   "SzGV0g": [
     "Disse påvirker ikke lenger statusen til kontoen din."
+  ],
+  "SzOYGc": [
+    "Abonner på Nitro for å få Xbox Game Pass (startutgave), tilbud på utstyr, nye Orbs-fordeler og mye mer. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "SzUaZ1": [
     [
@@ -75632,6 +76236,9 @@
     ],
     " for å motta varen."
   ],
+  "TNS24d": [
+    "Sjekk fordelene med Nitro"
+  ],
   "TNamrx": [
     "Legg til tittel"
   ],
@@ -76045,6 +76652,30 @@
       "pendingIgnored"
     ],
     " fra ignorerte kontoer"
+  ],
+  "TWtV8E": [
+    [
+      8,
+      "defaultPriceHook",
+      [
+        [
+          1,
+          "defaultPrice"
+        ]
+      ]
+    ],
+    " ",
+    [
+      8,
+      "premiumPriceHook",
+      [
+        [
+          1,
+          "premiumPrice"
+        ]
+      ]
+    ],
+    " med Nitro"
   ],
   "TWuDTt": [
     "Legg til flere favoritter"
@@ -78489,6 +79120,9 @@
     ],
     "?"
   ],
+  "UVL9tD": [
+    "Xbox Game Pass"
+  ],
   "UVXL1R": [
     "Betakanaler lar brukerne hente testgrener av spillet ditt gratis. ",
     [
@@ -79810,6 +80444,9 @@
   "V+IE93": [
     "Bli med i Nitro, så får du tilgang til dette navneskiltet!"
   ],
+  "V+Iv+U": [
+    "Velg en app"
+  ],
   "V+Pwy9": [
     "Nord-Korea"
   ],
@@ -79993,6 +80630,9 @@
       ]
     ],
     "."
+  ],
+  "V46Edz": [
+    "Utvidelse for varslingstjeneste"
   ],
   "V4UDY1": [
     "Be vennene dine om å invitere deg til serverne sine, hvor dere kan være sammen og snakke."
@@ -80835,6 +81475,9 @@
   "VQ5Xo9": [
     "Portugisisk, Brasil"
   ],
+  "VQKK5O": [
+    "Øyeblikksbilde av systemlagring"
+  ],
   "VQOSXq": [
     "Når du har godtatt, har du kreditt for ",
     [
@@ -80939,6 +81582,9 @@
       "price"
     ],
     " / måned hver"
+  ],
+  "VSunuT": [
+    "Last opp lagringsdiagnostikk"
   ],
   "VT02mI": [
     "Du har ingen merker! Se merkene du kan få."
@@ -82147,6 +82793,9 @@
   "VxBO2F": [
     "Profiloppdateringer"
   ],
+  "VxE3o6": [
+    "Regel for moderering av app"
+  ],
   "VxN3Lo": [
     "AutoMod timeout"
   ],
@@ -82523,6 +83172,23 @@
       "maxGames"
     ],
     " spill. Denne modulen vises ikke på profilen din før du har lagt til minst ett spill."
+  ],
+  "W8jOD0": [
+    "Én kode per kjøp. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "W9DVVf": [
     "Send en kjapp melding til venner som spiller samme tittel som deg"
@@ -83441,6 +84107,9 @@
   "WVbpcy": [
     "Legg til en bio"
   ],
+  "WViBDk": [
+    "Vi følger med på hvilke e-poster som åpnes og klikkes på, sånn at vi kan se hva som er nyttig, og hva som kan forbedres."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -84160,6 +84829,9 @@
   "WjNAAA": [
     "Du har ikke tilgang til å starte aktiviteten det er sendt forespørsel om"
   ],
+  "WjOclf": [
+    "Opptil 20 % lavere pris på alt i butikken pluss eksklusive varer. Bare med Nitro."
+  ],
   "WjcnZD": [
     "Hjertemerke"
   ],
@@ -84299,6 +84971,9 @@
   ],
   "WlWSBT": [
     "Send talemeldinger"
+  ],
+  "Wm58LR": [
+    "Engangsrabatter"
   ],
   "WmagiB": [
     "Alle kanaler på serveren vil låses for ikke-abonnenter."
@@ -84524,6 +85199,9 @@
   "Wrg9Jn": [
     "Deaktivert regel"
   ],
+  "WrleYK": [
+    "Aktiver regel"
+  ],
   "Wrvb3V": [
     "Abonnementsgoder"
   ],
@@ -84606,6 +85284,9 @@
   ],
   "Wv7HLS": [
     "Nye slipp, bare til deg"
+  ],
+  "WvAqZA": [
+    "Du fikk en gratis dekorasjon"
   ],
   "Wvc/I+": [
     "God morgen"
@@ -86236,6 +86917,9 @@
   "XcGEcs": [
     "Overlegg støttes ikke i dette spillet."
   ],
+  "XcOMLu": [
+    "Spar på den nye stilen"
+  ],
   "XcPHfw": [
     "Fullfør"
   ],
@@ -87784,6 +88468,9 @@
   "YCCMkJ": [
     "Vis en bekreftelsesmelding før du bytter til en annen talekanal."
   ],
+  "YCIfhC": [
+    "Discord er en gratis app for chat, strømming og fine dager"
+  ],
   "YCZldK": [
     "Nitro låser opp en verden full av fordeler"
   ],
@@ -88066,6 +88753,9 @@
   ],
   "YK+wUg": [
     "PC"
+  ],
+  "YKJw4W": [
+    "Nå er det enklere å logge og tjene Orbs."
   ],
   "YKVlC7": [
     "Kvaliteten på videoen din er redusert. Dette kan skyldes nettverksbegrensninger."
@@ -88655,6 +89345,9 @@
   "YZookV": [
     "Standardkanaler og spørsmål før påmelding"
   ],
+  "YZqqTX": [
+    "Send meldinger fra tavlen"
+  ],
   "YaW9wI": [
     "Boost serveren din til nivå ",
     [
@@ -89022,6 +89715,9 @@
   ],
   "Yl1D84": [
     "Av"
+  ],
+  "Yl5ww1": [
+    "Gjelder for alle Logitech G-produkter, bortsett fra nyheter og PRO Series-utstyr."
   ],
   "Yl8E4h": [
     "Flytt opp"
@@ -89909,6 +90605,9 @@
   "Z2CUgn": [
     "Bytt til direktemelding"
   ],
+  "Z2Ipu/": [
+    "Fjern"
+  ],
   "Z2L8V2": [
     "Vurdert"
   ],
@@ -90039,6 +90738,9 @@
   "Z3Vn/X": [
     "Hva er det mest ubrukelige talentet ditt?"
   ],
+  "Z3uXLR": [
+    "Lag innebygd"
+  ],
   "Z43V9S": [
     "Slett egendefinert bilde: ",
     [
@@ -90154,6 +90856,9 @@
       "rewardName"
     ],
     "!"
+  ],
+  "Z70vcv": [
+    "Hopp inn og ut av tale- og tekstkanaler"
   ],
   "Z74GUL": [
     "Ved å abonnere får du tilgang til ",
@@ -90464,6 +91169,28 @@
   ],
   "ZGKm3p": [
     "Gratulerer! Du har nådd en milepæl som abonnent."
+  ],
+  "ZGOJ8R": [
+    "Få ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på Logitech G hver måned, pluss engangsrabatter på simuleringsutstyr for racing i PRO-serien og nyheter. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "ZGVL3g": [
     [
@@ -92016,7 +92743,7 @@
     "Klikk for å avsløre spoiler"
   ],
   "ZqCAos": [
-    "Tjen Orbs raskere"
+    "Lås opp flere Orbs"
   ],
   "ZqK0uI": [
     "Popup-vindu"
@@ -92103,6 +92830,9 @@
   ],
   "Zs9h9Z": [
     "Boost favorittserverne dine"
+  ],
+  "ZsAL7q": [
+    "Skjul vennelisten"
   ],
   "ZsO1Sx": [
     "Abonnementet pålydende ",
@@ -92408,6 +93138,9 @@
       1,
       "commandText"
     ]
+  ],
+  "ZxGD+G": [
+    "Lag en tråd"
   ],
   "ZxNVMy": [
     "Prøv et annet søk eller ",
@@ -93839,7 +94572,7 @@
     "Ungarske forint"
   ],
   "abaDI+": [
-    "Et sted for deg og vennene dine"
+    "Lag et sted for deg og vennene dine"
   ],
   "abacus": [
     "abakus",
@@ -94751,6 +95484,9 @@
     ],
     "."
   ],
+  "ar2OUZ": [
+    "Bildefilen er for stor."
+  ],
   "ar3a3q": [
     "Opplysningene du oppgir, brukes kun til å bekrefte aldersgruppen din. Deretter slettes de."
   ],
@@ -95596,6 +96332,9 @@
   "b1JC+l": [
     "Et siste trinn!"
   ],
+  "b1X5Jf": [
+    "Premier til en verdi av opptil $ 25 per år i butikken"
+  ],
   "b2+FCc": [
     "hybelhus-nyheter"
   ],
@@ -96342,6 +97081,9 @@
   "bOQ3jV": [
     "Stemmen din ble frakoblet fordi du koblet til et annet sted."
   ],
+  "bOf5IH": [
+    "Få Xbox Game Pass og annet med Nitro"
+  ],
   "bOu6Wn": [
     "Eventen din starter i ",
     [
@@ -96574,6 +97316,9 @@
   "bVbB63": [
     "Velg en konto"
   ],
+  "bVwQhX": [
+    "Fjern"
+  ],
   "bW+JCW": [
     [
       1,
@@ -96717,6 +97462,9 @@
   ],
   "bZBN64": [
     "Applikasjon"
+  ],
+  "bZLaD+": [
+    "Lås opp premier"
   ],
   "bZY171": [
     "Lagre"
@@ -97926,6 +98674,9 @@
   "bpghV6": [
     "bli med på aram"
   ],
+  "bpksos": [
+    "Over 50 spill å bli kjent med: Stardew Valley, Fallout 4 og mange andre"
+  ],
   "bpycfA": [
     "Slipp fra deg emojier for å laste dem opp."
   ],
@@ -98054,6 +98805,22 @@
   ],
   "bs+W8E": [
     "Det er fortsatt ventende medlemmer som ikke har vært gjennom filteret."
+  ],
+  "bsMVNi": [
+    "Få over 50 spill, 10 timer med spill i skyen hver måned og mye mer. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
   ],
   "bsbMVz": [
     "Fjern tilknytning"
@@ -99216,6 +99983,9 @@
   "cHszXg": [
     "Legg til medlemmer"
   ],
+  "cHxSwT": [
+    "Deler av lagringsdiagnostikken ble lastet opp. Enkelte filer kunne ikke listes opp, eller en skanningsgrense ble nådd."
+  ],
   "cHzQ2O": [
     "Klag på karantene"
   ],
@@ -99398,6 +100168,26 @@
   ],
   "cM8bbx": [
     "Skaff deg Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Du fikk en eksklusiv premie"
+        ],
+        "other": [
+          "Du fikk de ",
+          [
+            7
+          ],
+          " eksklusive premiene"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Rammer er kronen på verket på profilen din. Nitro-medlemmer får tidlig tilgang. Finn deg en ramme i butikken."
@@ -99603,6 +100393,13 @@
   ],
   "cSb7U0": [
     "Slå av familiesenteret"
+  ],
+  "cSfYIv": [
+    [
+      2,
+      "count"
+    ],
+    " klipp er valgt"
   ],
   "cSgdvE": [
     "Dobbelttrykk for å vise profilen"
@@ -100273,6 +101070,9 @@
   ],
   "cfeFEt": [
     "Betalingen mislyktes"
+  ],
+  "cfrfyZ": [
+    "Vis et forslag når Discord finner en ny lydenhet."
   ],
   "cfu/5d": [
     "Nitro årlig"
@@ -102637,6 +103437,23 @@
       "channelName"
     ]
   ],
+  "dHQQvk": [
+    "Skaff deg Nitro og spill over 50 PC- og konsollspill med Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår og regler for berettigelse gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "dHvJ2p": [
     "Planlagt event"
   ],
@@ -103456,6 +104273,9 @@
   ],
   "dcK4Ch": [
     "Du kan endre dette senere."
+  ],
+  "dcOuei": [
+    "Se utfordringer"
   ],
   "dcSDhW": [
     "Må ha ",
@@ -106354,6 +107174,9 @@
   "ebojgD": [
     "Ja, jeg er med!"
   ],
+  "ec5Rdd": [
+    "10 timer med spill i skyen hver måned"
+  ],
   "ecTJkR": [
     "Profilrammer"
   ],
@@ -106444,7 +107267,7 @@
     "Kanadiske dollar"
   ],
   "efLpNC": [
-    "Høydepunkter og de beste øyeblikkene"
+    "høydepunkter og de beste øyeblikkene"
   ],
   "efLzgX": [
     "Varigheten eller antallet nye medlemmer som kan bli med før denne invitasjonen utløper."
@@ -107108,6 +107931,29 @@
   "euXi0Q": [
     "Du gjennomgår en søknad fra en som vil bli med i serveren din. Inntil du godkjenner vedkommende, kan ikke personen bli med eller snakke i serveren."
   ],
+  "eugFxh": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " server har"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " servere har"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " egendefinerte innstillinger"
+  ],
   "euizJY": [
     [
       1,
@@ -107157,6 +108003,13 @@
   ],
   "eutr4P": [
     "Fortell litt om deg"
+  ],
+  "evGwDW": [
+    "Utkast – publiseres ",
+    [
+      1,
+      "timestamp"
+    ]
   ],
   "evH4Yb": [
     "Meldingsforespørsler – ",
@@ -107796,6 +108649,9 @@
   "fAQ/8h": [
     "Velg en kanal du synes nye medlemmer bør besøke."
   ],
+  "fAU31r": [
+    "Til gaming, venner eller, pft, lekser."
+  ],
   "fAW3z4": [
     "Ingen treff"
   ],
@@ -107827,6 +108683,28 @@
   ],
   "fBsloy": [
     "Oi da!"
+  ],
+  "fC4abC": [
+    "Gjelder for nyheter ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          "den første måneden"
+        ],
+        "other": [
+          "de første ",
+          [
+            7
+          ],
+          " månedene"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de er på markedet."
   ],
   "fC9qV0": [
     "Sikkerhetskoder"
@@ -109863,6 +110741,9 @@
   "fr5bJy": [
     "Trykk på utgangsbryteren for å bytte til konsoll."
   ],
+  "fr7qnZ": [
+    "Velg produkter"
+  ],
   "frCwaT": [
     "Brukerens meldinger skjules"
   ],
@@ -110767,6 +111648,9 @@
   ],
   "gEp2SG": [
     "Søker etter spillprofiler"
+  ],
+  "gF8HJo": [
+    "Forslag om lydenhet"
   ],
   "gF8IpD": [
     "Brukeren som skal sparkes ut"
@@ -111693,6 +112577,9 @@
       "username"
     ]
   ],
+  "gc2sa/": [
+    "Månedsrabatter hos Logitech G"
+  ],
   "gc9aSx": [
     "Send venneforespørsel"
   ],
@@ -112159,6 +113046,9 @@
   ],
   "gn2c6X": [
     "Kontoen er flagget"
+  ],
+  "gn3Poi": [
+    "Lag en invitasjonslenke som alle kan bruke, eller inviter venner direkte."
   ],
   "gn7SZe": [
     "Se de nye avatardekorasjonene og profileffektene, og skaff deg favorittene dine."
@@ -112658,6 +113548,23 @@
   ],
   "gzXECH": [
     "Landskoder"
+  ],
+  "gzazAe": [
+    "Nitro gir deg nå Xbox Game Pass og enda mer. Det er bare å kjøre på. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "gzhz8w": [
     "Start en 1-ukes prøveperiode på Nitro mens du kan"
@@ -114460,6 +115367,9 @@
   "hcMwDW": [
     "Etter en dato"
   ],
+  "hcNhyq": [
+    "hcNhyq"
+  ],
   "hcPaJA": [
     "Lynmerke"
   ],
@@ -114929,6 +115839,9 @@
   ],
   "hjaYYn": [
     "Dekorasjon brukt"
+  ],
+  "hjlZZf": [
+    "Det kan ta opptil 24 timer før dette trer i kraft."
   ],
   "hjvcLO": [
     "Serverbooster"
@@ -116184,6 +117097,9 @@
     ],
     "."
   ],
+  "iFo3gj": [
+    "Legg til bilde"
+  ],
   "iG+nZx": [
     "Sjekk at tillatelsene i gjøremåls- og ressurskanalene er stilt inn riktig."
   ],
@@ -116772,6 +117688,9 @@
   "iVfA9i": [
     "helt til høyre"
   ],
+  "iVqj8B": [
+    "Startside for klipp"
+  ],
   "iVzBOh": [
     "Kopier lenke"
   ],
@@ -117174,6 +118093,26 @@
   ],
   "ibxdrl": [
     "Søk etter personer i serverne dine for å skrive en melding, eller legg til venner for å se dem her."
+  ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gi Nitro i gave, velg en gratis dekorasjon du får beholde."
+        ],
+        "other": [
+          "Gi Nitro i gave, velg ",
+          [
+            7
+          ],
+          " gratis dekorasjoner du får beholde."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "icWQKn": [
     "Få Nitro-kreditter og butikkens bestselgere uten å bruke en krone."
@@ -118064,6 +119003,9 @@
   "ivpkNe": [
     "Nei takk"
   ],
+  "ivpn6G": [
+    "Velg en gratis dekorasjon du får til odel og eie"
+  ],
   "iw0hFi": [
     [
       8,
@@ -118431,6 +119373,9 @@
     ],
     "-kontoen"
   ],
+  "j3AKJQ": [
+    "Filen er ikke et bildeformat som støttes. Prøv PNG, JPEG eller WebP."
+  ],
   "j3KOkh": [
     "Du har brutt Discords regler. Hvis dette skjer igjen, kan du miste tilgang til kontoen din."
   ],
@@ -118752,6 +119697,9 @@
   ],
   "jCOdvx": [
     "Tilføyde spill"
+  ],
+  "jCQlbu": [
+    "Last ned Discord-appen"
   ],
   "jCV1Tz": [
     "Skjermleser"
@@ -119987,6 +120935,13 @@
   ],
   "jjpcno": [
     "Vis i innstillingene"
+  ],
+  "jkdhZq": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % rabatt på alt"
   ],
   "jkg8Zu": [
     "På talekanaler kan du være sammen med andre. Når du vil si noe, er det bare å hoppe inn. Venner kan se deg og bli med. Det er som å si hei gjennom telepati."
@@ -121245,6 +122200,9 @@
   ],
   "kHMgaK": [
     "Du kan nå ta imot betaling for inntektsgenerering for servere."
+  ],
+  "kHNeDa": [
+    "Appen velger hva som skal gjøres for hver melding, deriblant å blokkere meldingen eller ikke gjøre noe."
   ],
   "kHalVA": [
     "Dupliser fordelene eller kanaltillatelsene fra et eksisterende nivå eller rolle."
@@ -123027,6 +123985,9 @@
     ],
     "."
   ],
+  "l34lLs": [
+    "Del alle"
+  ],
   "l3K4B/": [
     "Nevner bruker"
   ],
@@ -123304,6 +124265,29 @@
       ]
     ],
     "."
+  ],
+  "l7PkYW": [
+    "Invitasjonen utløper om ",
+    [
+      6,
+      "numDays",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dager"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "l7S+cD": [
     "Eldste"
@@ -124216,6 +125200,13 @@
   "lZejCq": [
     "Inkluder @role-nevninger"
   ],
+  "lZuIri": [
+    "Bildeoverlegg: ",
+    [
+      1,
+      "fileName"
+    ]
+  ],
   "la1Ys4": [
     "Innstillinger som samler inn tekniske data som Discords brukerstøtte kan bruk til analyse, for eksempel til feilsøkingslogger og lydopptak"
   ],
@@ -124530,6 +125521,12 @@
   ],
   "lg3Ckc": [
     "Bruk Strømmermodus for å skjule personlige opplysninger når du strømmer."
+  ],
+  "lgDNyX": [
+    "Vis serverhub-fanen i kanallisten"
+  ],
+  "lgHr73": [
+    "Chat, strømming og fine dager"
   ],
   "lgcisd": [
     "Servere med over ",
@@ -125048,6 +126045,9 @@
         ]
       ]
     ]
+  ],
+  "lsRjfl": [
+    "Gjelder simuleringsutstyr for racing i PRO-serien."
   ],
   "lsU63N": [
     "Nyere avatarer"
@@ -126188,6 +127188,9 @@
   ],
   "mGsBLV": [
     "Oppdater kanalen"
+  ],
+  "mH30Yx": [
+    "Gjelder for alle Logitech G-produkter, bortsett fra nyheter og simuleringsutstyr i PRO-serien."
   ],
   "mH8BIZ": [
     "Du kan når som helst endre valget for denne enheten i iOS-innstillingene. Hvis du tillater sporing, kan du:"
@@ -128269,6 +129272,18 @@
   "mmNkUA": [
     "Med booster kan du få en egendefinert invitasjonslenke – ingen nivåkrav! Perfekt når du vil ha flere medlemmer."
   ],
+  "mmTvZn": [
+    [
+      2,
+      "count"
+    ],
+    "/",
+    [
+      2,
+      "max"
+    ],
+    " er valgt"
+  ],
   "mmZGEG": [
     "Tjen ",
     [
@@ -129513,6 +130528,9 @@
   ],
   "nD78oa": [
     "Du kan bruke dette navneskiltet hvis du har et aktivt Nitro-abonnement."
+  ],
+  "nDEuO1": [
+    "Få tilgang til over 50 spill, 10 timer med spill i skyen hver måned og annet."
   ],
   "nDGqqq": [
     "Her er et annet forslag: ",
@@ -132066,9 +133084,6 @@
   "o6M1aS": [
     "Les medlemsopplysningene om deg (kallenavn, avatar, roller osv.) for servere du er med i"
   ],
-  "o6QHZ/": [
-    "Be om manuell gjennomgang"
-  ],
   "o6Qr6n": [
     "Gjør opptak av ytelse"
   ],
@@ -132401,6 +133416,9 @@
       "numEmojis"
     ],
     " emoji"
+  ],
+  "oDfh3O": [
+    "Xbox Game Pass (startutgave)"
   ],
   "oDxaKy": [
     "Blokker"
@@ -133396,6 +134414,13 @@
   ],
   "og4NNr": [
     "Nå kan du chatte med vennene dine!"
+  ],
+  "ogcfac": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på PRO Series-varer"
   ],
   "ogxXGq": [
     "Handlinger"
@@ -135266,22 +136291,6 @@
   "pJ4hJE": [
     "Fullfør oppsettet av nivåene for serverabonnementer for å begynne å tjene penger!"
   ],
-  "pJAxgQ": [
-    "Ønsker du en annen metode? ",
-    [
-      8,
-      "$link",
-      [
-        "Send forespørsel om manuell gjennomgang"
-      ],
-      [
-        [
-          1,
-          "handleOnRequestHook"
-        ]
-      ]
-    ]
-  ],
   "pJMipx": [
     "Medlemshandlinger for kanaltillatelser"
   ],
@@ -135448,6 +136457,13 @@
   ],
   "pS+K2L": [
     "Inngangsmodus"
+  ],
+  "pSBCjv": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på simuleringsutstyr i PRO-serien"
   ],
   "pSZKvM": [
     "Dato"
@@ -135893,6 +136909,14 @@
     "strek",
     "vertikal"
   ],
+  "pb2Was": [
+    "Bruk opptil ",
+    [
+      2,
+      "numClips"
+    ],
+    " klipp"
+  ],
   "pb7lpK": [
     "Velg merke"
   ],
@@ -135939,6 +136963,9 @@
   ],
   "pdZJaq": [
     "1 år med Nitro Classic"
+  ],
+  "pdaUSE": [
+    "Xbox Game Pass følger nå med i Nitro"
   ],
   "pe0fpS": [
     "Vis/ikke vis transaksjonsinformasjon for ",
@@ -136624,6 +137651,9 @@
   "piPHvY": [
     "Velkommen"
   ],
+  "piRNeN": [
+    "Bildet kan ikke leses."
+  ],
   "piW6YS": [
     "Send inn"
   ],
@@ -137269,6 +138299,9 @@
   "pqk9U0": [
     "Vis mer"
   ],
+  "pqph/A": [
+    "Når du har tid. Ingen oppringninger eller invitasjoner."
+  ],
   "pqqixk": [
     "På"
   ],
@@ -137516,6 +138549,9 @@
   ],
   "put7Hw": [
     "valg"
+  ],
+  "putVLl": [
+    "Bruk tilpassede reaksjoner, innebygginger og boter."
   ],
   "put_litter_in_its_place": [
     "avfall",
@@ -138442,6 +139478,9 @@
   "qI14KM": [
     "Om trygghetsvarsler"
   ],
+  "qI5XnY": [
+    "Få Nitro"
+  ],
   "qINKo/": [
     "I dag kl. 09.00"
   ],
@@ -138885,6 +139924,9 @@
         ]
       ]
     ]
+  ],
+  "qT6LjY": [
+    "I dag kl. 13.00"
   ],
   "qTCYun": [
     "Vil du også bruke denne endringen på alle de eksisterende serverne dine?"
@@ -139551,6 +140593,9 @@
   "qnJ9W3": [
     "Rapporter et problem"
   ],
+  "qnSo/i": [
+    "Sosial handel"
+  ],
   "qnYumI": [
     [
       6,
@@ -139708,6 +140753,9 @@
   ],
   "qpWnyC": [
     "Gå til innstillingene"
+  ],
+  "qpw1d9": [
+    "Du kan dele maks 10 klipp om gangen."
   ],
   "qpwaNY": [
     "Utgivelsesdato"
@@ -140098,6 +141146,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r/jeXi": [
+    "Dette gjør at Xbox Game Pass avsluttes på den tilknyttede Xbox-kontoen. Det kan ta opptil 24 timer før endringen trer i kraft."
   ],
   "r/jzu1": [
     "Har du allerede konto?"
@@ -140930,7 +141981,7 @@
     "Du er invitert til å spille"
   ],
   "rJRote": [
-    "Delta i fellesskap"
+    "Bli med i fellesskap"
   ],
   "rJbFM3": [
     "Ikke tilgjengelig ennå"
@@ -141684,6 +142735,14 @@
   "rb7dJ7": [
     "Navneskilt"
   ],
+  "rbAtUi": [
+    "Live – publisert ",
+    [
+      1,
+      "timestamp"
+    ],
+    "."
+  ],
   "rbIry3": [
     "Opdater tråd"
   ],
@@ -142281,6 +143340,9 @@
   ],
   "rki38K": [
     "Velg profil"
+  ],
+  "rkt1aw": [
+    "Nå får du Xbox Game Pass (startutgave) sammen med Nitro"
   ],
   "rkyOzK": [
     "Vis nye medlemmer"
@@ -143731,6 +144793,9 @@
       ]
     ]
   ],
+  "sD3eKQ": [
+    "Avbryt"
+  ],
   "sDKIpm": [
     [
       6,
@@ -144370,6 +145435,9 @@
   ],
   "sS2J0G": [
     "Det er ingen her ennå!\nNår du er klar til å prate, er det bare å begynne."
+  ],
+  "sS4xGd": [
+    "Lag en delbar innebygging for utvalgte varer i spillbutikken din."
   ],
   "sSAQtj": [
     "Oppdaterte trådegenskaper"
@@ -145238,6 +146306,9 @@
       "count"
     ],
     " er ikke tilordnet"
+  ],
+  "sgse8P": [
+    "Vis vennelisten"
   ],
   "shE8hW": [
     "Vink og si hei, del skjermen, eller bare chat."
@@ -148874,6 +149945,9 @@
   "to6uUe": [
     "Publisering av resultater i rytmespill!"
   ],
+  "toGFBn": [
+    "Utvidelse for låseskjermmodul"
+  ],
   "toKjAM": [
     "din-nettadresse-her"
   ],
@@ -149489,9 +150563,6 @@
   ],
   "ty+iOZ": [
     "Motta e-post med varsler om nytt innhold, personlige anbefalinger og spesialtilbud! (Valgfritt)"
-  ],
-  "ty+iWP": [
-    "Be om manuell gjennomgang"
   ],
   "ty7Lxy": [
     "Bytt til talekanal"
@@ -150427,6 +151498,9 @@
       ]
     ]
   ],
+  "uF5VXk": [
+    "Bildet kan ikke brukes i et klipp."
+  ],
   "uFHxNd": [
     "Bekreft en ny gruppe"
   ],
@@ -150599,6 +151673,21 @@
   "uJWIj/": [
     "Fortsett til Discord"
   ],
+  "uJcbMv": [
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "uJd+85": [
     "Starte en gateway-økt på vegne av deg"
   ],
@@ -150610,6 +151699,9 @@
   ],
   "uKFeS1": [
     "Oppgrader"
+  ],
+  "uKMqrF": [
+    "Feil"
   ],
   "uKZtC/": [
     "Send meldinger og media"
@@ -151645,6 +152737,9 @@
   "uknrnq": [
     "Du har ingen regler. Det betyr at nye medlemmer bare får se en tom popup-melding."
   ],
+  "ukvxpp": [
+    "Xbox Game Pass venter. Spill nå."
+  ],
   "ukyggU": [
     "Butan"
   ],
@@ -152137,6 +153232,42 @@
   "uy25Qz": [
     "Klistremerker fra denne serveren er ikke tilgjengelige"
   ],
+  "uyBKps": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " server"
+            ]
+          ],
+          " har egendefinerte DM-tillatelser. Velg kanalen for å se eller endre tillatelsene."
+        ],
+        "other": [
+          [
+            8,
+            "countHook",
+            [
+              [
+                7
+              ],
+              " servere"
+            ]
+          ],
+          " har egendefinerte DM-tillatelser. Velg en av dem for å se eller endre tillatelsene."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "uyVrTN": [
     "Innleggstittel"
   ],
@@ -152524,6 +153655,9 @@
   "v8MLqz": [
     "Du kan ikke dele i den kanalen"
   ],
+  "v8QrJf": [
+    "Du kan innløse Orbs"
+  ],
   "v8UpgE": [
     "Gå til spillbutikken"
   ],
@@ -152539,6 +153673,23 @@
   ],
   "v92GNV": [
     "Gir deg anledning til å bruke en GIF som banner."
+  ],
+  "v9AaV4": [
+    "Nå får du Xbox Game Pass som en del av Nitro. Spill over 50 PC- og konsollspill uten tillegg i prisen. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår og regler for berettigelse gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
   ],
   "v9GTV8": [
     "Tilpass mappene dine"
@@ -155307,6 +156458,9 @@
   "wBoE6L": [
     "Les sammen"
   ],
+  "wBz9aO": [
+    "Fjerning pågår"
+  ],
   "wC/0Lz": [
     "Fjern skjermbildet"
   ],
@@ -155801,6 +156955,9 @@
   "wR+Fuo": [
     "Demp denne tråden"
   ],
+  "wR5R9w": [
+    "Bytt ut bildet"
+  ],
   "wR5wOo": [
     "Profileffekt"
   ],
@@ -155850,6 +157007,9 @@
   ],
   "wS+5Wb": [
     "Inviter til å se på strømmen"
+  ],
+  "wSD7jV": [
+    "Velg en kanal for sikkerhetsvarsler"
   ],
   "wSZfJR": [
     "«Jeg rapporterte deg ved et uhell»"
@@ -157439,6 +158599,9 @@
       1,
       "activity"
     ]
+  ],
+  "wqhsP3": [
+    "Hent Xbox Game Pass"
   ],
   "wqsK7q": [
     "Spill GIF-er når Discord er i fokus"
@@ -159643,6 +160806,9 @@
     ],
     ")"
   ],
+  "xZiyZj": [
+    "Spill i skyen for utvalgte spill fra Xbox-samlingen din"
+  ],
   "xZkJAH": [
     "Velkommen til Nitro!"
   ],
@@ -159961,6 +161127,9 @@
   ],
   "xhQsxx": [
     "Sjekk Nitro-status"
+  ],
+  "xhZ23b": [
+    "xhZ23b"
   ],
   "xhgNd0": [
     [
@@ -164028,6 +165197,23 @@
   "zPerw8": [
     "Ingen forbindelse."
   ],
+  "zPnFYf": [
+    "1,2x Orbs-multiplikatoren er aktiv. Det er mer å oppdage i Nitro. Gå til Nitro-forsiden for å se nyhetene. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zPxMdQ": [
     "Oppsagt premiumabonnement"
   ],
@@ -164127,6 +165313,22 @@
   "zS0K+s": [
     "Forhåndsvisning av emoji når den brukes som reaksjon"
   ],
+  "zS4GBR": [
+    "Tilbud og fordeler som gir deg større utbytte av spill og hangouts. Alt med Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår gjelder."
+      ],
+      [
+        [
+          1,
+          "termsLink"
+        ]
+      ]
+    ]
+  ],
   "zSG3Qy": [
     "Meldingen ble ikke levert siden den inneholder en lenke som ble blokkert av Discord. Du får mer info her: ",
     [
@@ -164222,6 +165424,23 @@
   "zUUbBM": [
     "Kamerun"
   ],
+  "zUjL+R": [
+    "Oppgrader til Nitro og spill over 50 PC- og konsollspill med Xbox Game Pass. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår og regler for berettigelse gjelder"
+      ],
+      [
+        [
+          1,
+          "helpCenterLink"
+        ]
+      ]
+    ],
+    "."
+  ],
   "zUjLl+": [
     "Legg til videoer, bilder eller filer du vil dele med medlemmene."
   ],
@@ -164233,6 +165452,9 @@
   ],
   "zV0/FC": [
     "Ugyldig meldingstype"
+  ],
+  "zVGHbw": [
+    "Få en gratis dekorasjon"
   ],
   "zVJxqj": [
     "Må ha minst ",
@@ -164403,6 +165625,9 @@
   "zZp618": [
     "Dette er alle enhetene der du er logget på med Discord-kontoen din. Du kan logge ut på hver enkelt eller på alle andre enheter.\n\nHvis du ser en oppføring du ikke kjenner igjen, bør du umiddelbart logge ut på den enheten og endre passord på Discord-kontoen din."
   ],
+  "zaEQz+": [
+    "Nettleserdata slettet."
+  ],
   "zany_face": [
     "fjes",
     "gal",
@@ -164462,6 +165687,9 @@
   ],
   "zcKE8W": [
     "Xbox-mobilappen er installert"
+  ],
+  "zcZtrU": [
+    "Tilpass merker"
   ],
   "zcbFu1": [
     "Brukte emojier"
@@ -164533,6 +165761,13 @@
       "cashtag"
     ],
     "."
+  ],
+  "zeBjoX": [
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på nyheter"
   ],
   "zePEol": [
     "Kjøp i spillet"
@@ -164683,6 +165918,14 @@
   ],
   "zihbmv": [
     "Ingen treff"
+  ],
+  "zinfZi": [
+    "Få ",
+    [
+      1,
+      "discountPercent"
+    ],
+    " % avslag på Logitech G-utstyr med en ny kode hver måned."
   ],
   "zipper_mouth": [
     "fjes",
