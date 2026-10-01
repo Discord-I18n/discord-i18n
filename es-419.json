@@ -4378,6 +4378,9 @@
   "/lFMWr": [
     "¿Realmente quieres desactivarlos?"
   ],
+  "/lMTzd": [
+    "Activo ahora"
+  ],
   "/lQiX/": [
     "¡No olvides guardar tus cambios!"
   ],
@@ -4827,9 +4830,6 @@
   ],
   "/wqiSv": [
     "No hay solicitudes pendientes."
-  ],
-  "/wx+J2": [
-    "Verificar tu edad puede llevar un poco de tiempo."
   ],
   "/x4knx": [
     "No tienes permisos para compartir pantalla"
@@ -18958,9 +18958,6 @@
   ],
   "5S2AK+": [
     "Descripción de la imagen"
-  ],
-  "5S3sQF": [
-    "Gestionar aplicación"
   ],
   "5SDtGB": [
     "Permite que los miembros creen hilos que todos en este canal puedan ver."
@@ -46302,18 +46299,6 @@
   "Gh3A0O": [
     "Marcar como resuelto"
   ],
-  "GhK5nf": [
-    "Volver a mostrar la insignia ",
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ]
-  ],
   "GhK6X0": [
     "Respuestas de texto con contenido multimedia opcional"
   ],
@@ -68419,13 +68404,6 @@
   "PiFnny": [
     "Crear nuevo nivel"
   ],
-  "PiPq7M": [
-    "Preajuste de perfil ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "¿Qué objeto de videojuego sería?"
   ],
@@ -88515,14 +88493,6 @@
       []
     ]
   ],
-  "XvAG5t": [
-    "Quitar baneo a \"",
-    [
-      1,
-      "user"
-    ],
-    "\""
-  ],
   "XvAuMo": [
     "Suscrito"
   ],
@@ -88558,9 +88528,6 @@
       "count"
     ],
     " other amigos"
-  ],
-  "XwadDC": [
-    "Suscríbete a Nitro para obtener con Orbs"
   ],
   "Xwv41+": [
     "El audio de la aplicación no se escuchaba"
@@ -94835,6 +94802,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Juego"
   ],
   "aLNBAw": [
     "Abrir la página de OpenCritic"
@@ -102189,9 +102159,6 @@
   "cg6ltt": [
     "General"
   ],
-  "cg95CA": [
-    "Exclusivo de Nitro: obtener con Orbs"
-  ],
   "cgBTyO": [
     "Código de privacidad"
   ],
@@ -108282,6 +108249,9 @@
   "eVmj1H": [
     "Navegar por los canales sin leer"
   ],
+  "eVxFX3": [
+    "Alfabético"
+  ],
   "eW8Gy4": [
     "Permisos de sincronización"
   ],
@@ -112160,6 +112130,9 @@
   ],
   "fnxxLh": [
     "Transmite tus juegos en resolución 4k a 60 fps. O los videos de gatitos más divertidos, no juzgamos."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Usuarios a los que enviaste un mensaje, ya sea de forma individual o en un chat grupal. No se incluyen los servidores."
@@ -116110,9 +116083,6 @@
   "hHGrWz": [
     "No tienes los permisos para usar actividades en este canal."
   ],
-  "hHHpvU": [
-    "Vuelve a mostrar esta insignia en tu perfil"
-  ],
   "hHMYbb": [
     "Dispositivo de entrada"
   ],
@@ -118894,26 +118864,6 @@
   ],
   "iFQqGD": [
     "Instalar el juego"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Exclusivo de Nitro: ¡Compra artículos de ",
-        [
-          1,
-          "applicationName"
-        ],
-        " con Orbs!"
-      ]
-    ],
-    " Termina el ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Añadir imagen"
@@ -122041,9 +121991,6 @@
   ],
   "jVcuVY": [
     "Llévame allí"
-  ],
-  "jVjr/j": [
-    "Gana Orbs al completar misiones de Discord"
   ],
   "jVrUnC": [
     "Eliminar webhook"
@@ -141743,6 +141690,9 @@
   "qHWea4": [
     "Inicio de sesión válido obligatorio."
   ],
+  "qHmbyh": [
+    "Vista general"
+  ],
   "qHsrGS": [
     "Detén los mensajes directos. Si lo deseas, puedes recuperar los mensajes anteriores."
   ],
@@ -159551,6 +159501,14 @@
   "wE48Bn": [
     "¡Conoce el overlay de voz para dispositivos móviles!"
   ],
+  "wE4a/r": [
+    "Ahora tus victorias se convierten en megavictorias con un multiplicador de x",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    " en las recompensas de Orbs."
+  ],
   "wEHnxW": [
     "No se encontraron países."
   ],
@@ -159691,7 +159649,7 @@
     "Primero invitemos a tus amigos"
   ],
   "wJVyYR": [
-    "Confirmar grupo de edad"
+    "Confirma tu grupo de edad"
   ],
   "wJdBEZ": [
     "No pierdas la esperanza. Contacta a ",

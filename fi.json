@@ -4253,6 +4253,9 @@
   "/lFMWr": [
     "Oletko varma?"
   ],
+  "/lMTzd": [
+    "Aktiivisena nyt"
+  ],
   "/lQiX/": [
     "Muista tallentaa tekemäsi muutokset!"
   ],
@@ -4699,9 +4702,6 @@
   ],
   "/wqiSv": [
     "Käsittelemättömiä hakemuksia ei ole."
-  ],
-  "/wx+J2": [
-    "Tämä kestää keskimäärin kolme minuuttia"
   ],
   "/x4knx": [
     "Ei ruudunjaon käyttöoikeutta"
@@ -18578,9 +18578,6 @@
   ],
   "5S2AK+": [
     "Kuvan kuvaus"
-  ],
-  "5S3sQF": [
-    "Sovelluksen hallinta"
   ],
   "5SDtGB": [
     "Jäsenet voivat luoda ketjuja, jotka ovat kaikkien tämän kanavan käyttäjien tarkasteltavissa."
@@ -45490,19 +45487,6 @@
   "Gh3A0O": [
     "Merkitse ratkaistuksi"
   ],
-  "GhK5nf": [
-    "Peru merkin ",
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ],
-    " piilotus"
-  ],
   "GhK6X0": [
     "Tekstivastaukset ja mediasisältöä valinnaisena"
   ],
@@ -67168,13 +67152,6 @@
   "PiFnny": [
     "Luo uusi taso"
   ],
-  "PiPq7M": [
-    "Valmiit profiiliasetukset ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "Mikä videopelin esine olisit?"
   ],
@@ -87059,13 +87036,6 @@
       []
     ]
   ],
-  "XvAG5t": [
-    "Poista porttikielto käyttäjältä ",
-    [
-      1,
-      "user"
-    ]
-  ],
   "XvAuMo": [
     "Tilattu"
   ],
@@ -87101,9 +87071,6 @@
       "count"
     ],
     " muuta kaveria"
-  ],
-  "XwadDC": [
-    "Lunasta orbeilla tilaamalla Nitro"
   ],
   "Xwv41+": [
     "Sovelluksen ääniä ei kuulunut"
@@ -93265,6 +93232,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Peli"
   ],
   "aLNBAw": [
     "Avaa OpenCritic-sivu"
@@ -100236,9 +100206,6 @@
   "cg6ltt": [
     "Yleinen"
   ],
-  "cg95CA": [
-    "Vain Nitrolla: lunasta orbeilla"
-  ],
   "cgBTyO": [
     "Yksityisyyskoodi"
   ],
@@ -105986,6 +105953,9 @@
   "eVmj1H": [
     "Siirry lukemattomien kanavien välillä"
   ],
+  "eVxFX3": [
+    "Aakkosjärjestys"
+  ],
   "eW8Gy4": [
     "Synkronoi käyttöoikeudet"
   ],
@@ -109786,6 +109756,9 @@
   "fnxxLh": [
     "Avaa käyttöösi striimaus jopa 4K-laadulla ja 60 fps:n nopeudella ja striimaa peliäsi – tai kissavideoita, me emme tuomitse – vauhdilla ja tyylillä."
   ],
+  "foKBCN": [
+    "foKBCN"
+  ],
   "foTzbd": [
     "Käyttäjät, joille olet lähettänyt viestejä kahdenvälisissä tai ryhmäkeskusteluissa. Ei sisällä viestintää palvelimilla."
   ],
@@ -113555,9 +113528,6 @@
   "hHGrWz": [
     "Sinulla ei ole lupaa toimintojen käyttämiseen tällä kanavalla."
   ],
-  "hHHpvU": [
-    "Valitsee tämän merkin näytettäväksi profiilissasi"
-  ],
   "hHMYbb": [
     "Syöttölaite"
   ],
@@ -116208,26 +116178,6 @@
   ],
   "iFQqGD": [
     "Asenna peli"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Vain Nitrolla: Osta sovelluksen ",
-        [
-          1,
-          "applicationName"
-        ],
-        " tuotteita orbeilla!"
-      ]
-    ],
-    " Voimassa ",
-    [
-      1,
-      "endDate"
-    ],
-    " asti."
   ],
   "iFo3gj": [
     "Lisää kuva"
@@ -119382,9 +119332,6 @@
   ],
   "jVcuVY": [
     "Siirrytään sinne"
-  ],
-  "jVjr/j": [
-    "Ansaitse orbeja suorittamalla Discord-tehtäviä"
   ],
   "jVrUnC": [
     "Webhookin poisto"
@@ -138319,6 +138266,9 @@
   "qHWea4": [
     "Kelvollinen kirjautumistunnus vaaditaan."
   ],
+  "qHmbyh": [
+    "Yleiskatsaus"
+  ],
   "qHsrGS": [
     "Lopeta yksityisviestit. Voit halutessasi poistaa aiemmin tehdyn viestien piilotuksen"
   ],
@@ -155388,6 +155338,14 @@
   "wE48Bn": [
     "Tutustu mobiilipuheen peitetasoon!"
   ],
+  "wE4a/r": [
+    "Orb-palkintojen x",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "-kerroin muuttaa palkkiosi megavoitoiksi."
+  ],
   "wEHnxW": [
     "Maita ei löytynyt."
   ],
@@ -155527,7 +155485,7 @@
     "Aloitetaan kutsumalla kaverisi"
   ],
   "wJVyYR": [
-    "Vahvista ikäryhmä"
+    "Vahvista ikäryhmäsi"
   ],
   "wJdBEZ": [
     "Älä vielä luovu toivosta. ",
