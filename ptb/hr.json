@@ -4529,6 +4529,9 @@
   "/lFMWr": [
     "Sigurno to želiš?"
   ],
+  "/lMTzd": [
+    "Trenutačno aktivan"
+  ],
   "/lQiX/": [
     "Ne zaboravi spremiti promjene!"
   ],
@@ -4969,9 +4972,6 @@
   ],
   "/wqiSv": [
     "Trenutačno nema zahtjeva na čekanju."
-  ],
-  "/wx+J2": [
-    "To u prosjeku traje 3 minute"
   ],
   "/x4knx": [
     "Nema dopuštenja za dijeljenje zaslona"
@@ -19472,9 +19472,6 @@
   ],
   "5S2AK+": [
     "Opis slike"
-  ],
-  "5S3sQF": [
-    "Upravljanje aplikacijom"
   ],
   "5SDtGB": [
     "Dopusti članovima da stvaraju niti koje mogu vidjeti svi na ovom kanalu."
@@ -47299,18 +47296,6 @@
   "Gh3A0O": [
     "Označi kao riješeno"
   ],
-  "GhK5nf": [
-    "Otkrij badge ",
-    [
-      1,
-      "position"
-    ],
-    ", ",
-    [
-      1,
-      "badgeName"
-    ]
-  ],
   "GhK6X0": [
     "Tekstualni odgovori s dopuštenim medijskim sadržajem"
   ],
@@ -69735,13 +69720,6 @@
   "PiFnny": [
     "Stvori novi model"
   ],
-  "PiPq7M": [
-    "Predložak profila ",
-    [
-      1,
-      "presetName"
-    ]
-  ],
   "PiepBk": [
     "Koji bi predmet u videoigri bio/la?"
   ],
@@ -90303,14 +90281,6 @@
       []
     ]
   ],
-  "XvAG5t": [
-    "Ukloni ban korisniku '",
-    [
-      1,
-      "user"
-    ],
-    "'"
-  ],
   "XvAuMo": [
     "Pretplaćeno"
   ],
@@ -90346,9 +90316,6 @@
       "count"
     ],
     " prijatelja"
-  ],
-  "XwadDC": [
-    "Pretplati se na Nitro i iskoristi s orbovima"
   ],
   "Xwv41+": [
     "Nije bilo zvuka aplikacije"
@@ -96717,6 +96684,9 @@
       "details"
     ],
     ")"
+  ],
+  "aKZ12v": [
+    "Igra"
   ],
   "aLNBAw": [
     "Otvori stranicu OpenCritic"
@@ -103994,9 +103964,6 @@
   "cg6ltt": [
     "Općenito"
   ],
-  "cg95CA": [
-    "Samo uz Nitro: iskoristi s orbovima"
-  ],
   "cgBTyO": [
     "Kôd za zaštitu privatnosti"
   ],
@@ -109933,6 +109900,9 @@
   "eVmj1H": [
     "Navigiraj među nepročitanim kanalima"
   ],
+  "eVxFX3": [
+    "Abecedno"
+  ],
   "eW8Gy4": [
     "Sinkroniziraj dozvole"
   ],
@@ -113819,6 +113789,9 @@
   ],
   "fnxxLh": [
     "Otključaj mogućnost streamanja igranja u kvaliteti koja može doseći čak 4k / 60 sl./s. Ili tu kvalitetu potroši na snimanje urnebesnih videa s mačkama, mi nikog ne osuđujemo."
+  ],
+  "foKBCN": [
+    "foKBCN"
   ],
   "foTzbd": [
     "Korisnici s kojima si razmjenjivao/la poruke „jedan na jedan” ili u grupnom chatu. Ne uključuje servere."
@@ -117779,9 +117752,6 @@
   "hHGrWz": [
     "Nemaš dozvolu koristiti aktivnosti u ovom kanalu."
   ],
-  "hHHpvU": [
-    "Ponovno prikazuje ovaj badge na tvom profilu"
-  ],
   "hHMYbb": [
     "Ulazni uređaj"
   ],
@@ -120534,26 +120504,6 @@
   ],
   "iFQqGD": [
     "Instaliraj igru"
-  ],
-  "iFXcjn": [
-    [
-      8,
-      "$b",
-      [
-        "Samo uz Nitro: kupi ",
-        [
-          1,
-          "applicationName"
-        ],
-        " predmeta s orbovima!"
-      ]
-    ],
-    " Završava ",
-    [
-      1,
-      "endDate"
-    ],
-    "."
   ],
   "iFo3gj": [
     "Dodaj sliku"
@@ -123803,9 +123753,6 @@
   ],
   "jVcuVY": [
     "Odvedi me tamo"
-  ],
-  "jVjr/j": [
-    "Zaradi orbove dovršavanjem misija na Discordu"
   ],
   "jVrUnC": [
     "Izbriši webhook"
@@ -143552,6 +143499,9 @@
   "qHWea4": [
     "Obavezno je važeće ime za prijavu."
   ],
+  "qHmbyh": [
+    "Pregled"
+  ],
   "qHsrGS": [
     "Zaustavi direktne poruke. Ako to želiš, možeš poništiti sakrivanje prošlih poruka"
   ],
@@ -161309,6 +161259,14 @@
   "wE48Bn": [
     "Upoznaj glasovno prekrivanje za mobitel!"
   ],
+  "wE4a/r": [
+    "Zahvaljujući množitelju ",
+    [
+      2,
+      "bonusOrbMultiplier"
+    ],
+    "x nagrada u obliku orbova, tvoji dobici sada postaju mega dobici."
+  ],
   "wEHnxW": [
     "Nema pronađenih država."
   ],
@@ -161448,7 +161406,7 @@
     "Počnimo pozivanjem tvojih prijatelja"
   ],
   "wJVyYR": [
-    "Potvrdi dobnu skupinu"
+    "Potvrdi svoju dobnu skupinu"
   ],
   "wJdBEZ": [
     "Nemoj izgubiti nadu. Javi se korisniku ",
