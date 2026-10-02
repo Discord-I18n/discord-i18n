@@ -91,6 +91,9 @@
   "+18gq6": [
     "Can't click on the game"
   ],
+  "+1CM/5": [
+    "Team Fight Won"
+  ],
   "+1H47t": [
     "Options"
   ],
@@ -4305,6 +4308,20 @@
   "/YzI63": [
     "No Access"
   ],
+  "/ZJIuo": [
+    "Love this sound? Nitro lets you use ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    "'s sounds anywhere."
+  ],
   "/ZNT+0": [
     "Removing the avatar failed. Please try again later."
   ],
@@ -4703,6 +4720,22 @@
   ],
   "/jUd2+": [
     "Your message could not be sent because this server has reached the maximum number of posts. Free up space by archiving a post."
+  ],
+  "/jdd/7": [
+    "This emoji is from a Nitro Emoji Pack. It's in Beta and only available to select Nitro members. ",
+    [
+      8,
+      "$link",
+      [
+        "Learn more."
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "/jubeD": [
     "Create Tag"
@@ -12305,6 +12338,19 @@
     ],
     "."
   ],
+  "2bu+0V": [
+    "Your team won a team fight ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
+  ],
   "2cHUti": [
     "See Code"
   ],
@@ -13317,6 +13363,9 @@
   ],
   "2yOjup": [
     "This gift has already been used."
+  ],
+  "2yTd7D": [
+    "Unable to join server"
   ],
   "2yjnmb": [
     "If you have a moment, please let us know why you’re disabling Overlay so we can make the experience better."
@@ -22224,6 +22273,9 @@
   "65r43O": [
     "Your Boost awaits!"
   ],
+  "65zBhE": [
+    "Create Your Own"
+  ],
   "65ziLu": [
     "Oops! Looks like that didn't work"
   ],
@@ -23690,9 +23742,6 @@
   ],
   "6g/oji": [
     "Unknown Error"
-  ],
-  "6g22y7": [
-    "Popout"
   ],
   "6gF4aS": [
     "Sweet!"
@@ -28429,6 +28478,9 @@
       ]
     ],
     " Discord Orbs"
+  ],
+  "8Ow7Xi": [
+    "Confirm your age to join this server."
   ],
   "8Ox6/E": [
     "Legacy Overlay is not available on this system."
@@ -42048,6 +42100,13 @@
   "DrNm/5": [
     "Note: This is an age-restricted channel."
   ],
+  "DrSoFn": [
+    "Conjure reacted with ",
+    [
+      1,
+      "emojiName"
+    ]
+  ],
   "Drc8ft": [
     "Flag messages that contain profanity and more. (Support for English only)"
   ],
@@ -51356,6 +51415,19 @@
   ],
   "HTJ76H": [
     "Codes Do Not Match"
+  ],
+  "HTJgep": [
+    "Your team fought ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
   ],
   "HTsycG": [
     "Unlock Xbox Game Pass & more with Nitro"
@@ -73970,9 +74042,6 @@
       "offline"
     ]
   ],
-  "QM4w4h": [
-    "An app conjured on this server lives here."
-  ],
   "QMCuCo": [
     "Enter a question..."
   ],
@@ -81171,6 +81240,9 @@
   "T6bZsX": [
     "When you put a user in timeout they will not be able to send messages in chat, reply within threads, react to messages, or speak in voice or Stage channels."
   ],
+  "T7AWtb": [
+    "Private Server"
+  ],
   "T7CcFq": [
     "A new leaderboard begins! Who will be this week’s winner with the most game time? So far ",
     [
@@ -81440,6 +81512,9 @@
       1,
       "numUsers"
     ]
+  ],
+  "TCXgZL": [
+    "Confirm your age to join"
   ],
   "TD+c21": [
     "Learn More"
@@ -93879,6 +93954,9 @@
   "XvNMNk": [
     "Sort"
   ],
+  "XvX+Pj": [
+    "Keys requested again below"
+  ],
   "Xvs9IM": [
     "Disconnected"
   ],
@@ -97047,6 +97125,9 @@
   ],
   "Z4U1g/": [
     "Enter the chill zone"
+  ],
+  "Z4UD3R": [
+    "This sound is from an invite-only server."
   ],
   "Z4ULRD": [
     "Pending Cancellation: ",
@@ -101500,6 +101581,13 @@
       "deviceType"
     ],
     " isn’t responding"
+  ],
+  "akg5nT": [
+    "Favorite Nitro Perks: ",
+    [
+      1,
+      "filterName"
+    ]
   ],
   "al+5qH": [
     "video"
@@ -122113,6 +122201,9 @@
     ],
     "!"
   ],
+  "h+7Yx3": [
+    "Unlock a Server Tag using Boosts. Pick a server to get started."
+  ],
   "h+Imbu": [
     "Open scheduled messages"
   ],
@@ -127823,6 +127914,9 @@
   "ixASa2": [
     "Days"
   ],
+  "ixMwGl": [
+    "This sound can be used anywhere."
+  ],
   "ixNwPL": [
     "Bank Account added on ",
     [
@@ -128692,9 +128786,6 @@
   ],
   "jLJuXW": [
     "Gallery View is here!"
-  ],
-  "jLMpUv": [
-    "Open App"
   ],
   "jLgluh": [
     "You have ",
@@ -133248,6 +133339,9 @@
   ],
   "l3P7K0": [
     "Instructions for enabling access to your camera can be found in the Discord Help Center."
+  ],
+  "l3QzyC": [
+    "This sound is from your server."
   ],
   "l3VxgG": [
     [
@@ -153230,6 +153324,9 @@
   "rWKv+e": [
     "Clipping"
   ],
+  "rWPrJC": [
+    "Discord Default"
+  ],
   "rWQr9U": [
     "Discard your emoji?"
   ],
@@ -155572,6 +155669,9 @@
   ],
   "s5MnmC": [
     "Search Channels"
+  ],
+  "s5No7R": [
+    "This sound is from a public server."
   ],
   "s5Qo8E": [
     "Bloop"
@@ -158630,6 +158730,9 @@
   ],
   "stA0Hl": [
     "Allows members to join these voice channels and hear others."
+  ],
+  "stFB6A": [
+    "Keys received"
   ],
   "stG76C": [
     "Change Accent Color"
@@ -166120,6 +166223,9 @@
   "vRVs07": [
     "Turning this off means no content from this server will be shown."
   ],
+  "vRw5lm": [
+    "You can't join this server because of your age group."
+  ],
   "vRzp7P": [
     "Mute Server"
   ],
@@ -172636,6 +172742,9 @@
   "xO2msf": [
     "From the most recent week"
   ],
+  "xO5QzM": [
+    "Create a Server Tag"
+  ],
   "xO6bcQ": [
     "Withheld: may contain your words or the agent’s"
   ],
@@ -175148,9 +175257,6 @@
   ],
   "yLv2yS": [
     "Join Raid Alerts"
-  ],
-  "yLw6Hg": [
-    "App"
   ],
   "yM/+AJ": [
     "Stop seeing their message notifications"
@@ -178666,6 +178772,9 @@
   ],
   "zhfXbs": [
     "Your application is pending!"
+  ],
+  "zi28x1": [
+    "Team Fight"
   ],
   "ziB0HF": [
     "Play ",
