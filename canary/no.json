@@ -232,6 +232,28 @@
     ],
     " for å gjøre mer!"
   ],
+  "+5b01q": [
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minutt"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minutter"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+5kSoW": [
     "Lenken er kopiert!"
   ],
@@ -5129,10 +5151,16 @@
       "days",
       {
         "one": [
-          "dag"
+          [
+            7
+          ],
+          " dag"
         ],
         "other": [
-          "dager"
+          [
+            7
+          ],
+          " dager"
         ]
       },
       0,
@@ -5921,6 +5949,9 @@
       "count"
     ],
     " totalt"
+  ],
+  "0ModIv": [
+    "0ModIv"
   ],
   "0Mykgq": [
     "Spesialpris for medlemmer"
@@ -8518,6 +8549,14 @@
       "activity"
     ]
   ],
+  "1JZfaU": [
+    "Lås opp en ",
+    [
+      1,
+      "multiplier"
+    ],
+    "-dobbel Orbs-bonus med Nitro"
+  ],
   "1Jf+4B": [
     "Flere stemmefiltre ble nettopp sluppet!"
   ],
@@ -8830,9 +8869,6 @@
   ],
   "1Ts7QP": [
     "Beskrivelse"
-  ],
-  "1UFWet": [
-    "Profilkort er ikke satt opp for appen."
   ],
   "1UJvqc": [
     "Swoosh. Varsler er på!"
@@ -9474,6 +9510,9 @@
       1,
       "attachment"
     ]
+  ],
+  "1osZYy": [
+    "Fakturaen ble ikke lastet inn. Prøv igjen."
   ],
   "1pp0su": [
     "Bytt"
@@ -12176,6 +12215,9 @@
       "name"
     ]
   ],
+  "2tcO02": [
+    "Fakturaen er ikke lenger tilgjengelig. Logg på for å sjekke abonnementet."
+  ],
   "2tgQnk": [
     "Hm, Discord kan ikke koble til. Vi prøver igjen om et øyeblikk. Hvis Discord gjentakende ganger sitter fast på dette trinnet, kan det hende du finner løsningen i ",
     [
@@ -12369,6 +12411,9 @@
   "2yOjup": [
     "Denne gaven er brukt."
   ],
+  "2yTd7D": [
+    "Kan ikke bli med i server"
+  ],
   "2yjnmb": [
     "Hvis du har tid, må du gjerne fortelle oss hvorfor du deaktiverer overlegg, slik at vi kan gi deg en bedre opplevelse."
   ],
@@ -12453,6 +12498,9 @@
   "2ziAWp": [
     "si fra hvis du trenger en annen til gruppen"
   ],
+  "2zxYCx": [
+    "Fjern"
+  ],
   "3+LO1w": [
     "Eldre innlegg"
   ],
@@ -12518,9 +12566,6 @@
   ],
   "30Owsd": [
     "Slå på tidsplanen"
-  ],
-  "30UxZU": [
-    "Appen kan ikke oppdatere kortet før du har godkjent den på nytt i Autoriserte apper."
   ],
   "30V0t5": [
     "Er du sikker?"
@@ -12713,6 +12758,9 @@
   ],
   "34PW6m": [
     "9:16"
+  ],
+  "34VJiG": [
+    "Betalingsmåten kan ikke lagres. Sjekk opplysningene og prøv igjen."
   ],
   "34XN2f": [
     "Animer avatardekorasjonen min"
@@ -13409,6 +13457,9 @@
   ],
   "3L/DZq": [
     "Med boostere kan du gi hele serveren tilgang til å laste opp større filer."
+  ],
+  "3LJ1u9": [
+    "Aktivitetsdeling"
   ],
   "3LUFnI": [
     "Serverproduktet ble avpublisert."
@@ -15237,6 +15288,9 @@
   ],
   "3x962E": [
     "Generer nye sikkerhetskoder"
+  ],
+  "3xFZEo": [
+    "Fellesskap"
   ],
   "3xFaKk": [
     "Møterom"
@@ -17651,6 +17705,9 @@
   "4z6ldH": [
     "Avbryt opplasting"
   ],
+  "4z9ZVX": [
+    "Betalingen ble ikke behandlet. Prøv igjen."
+  ],
   "4z9fN+": [
     "Av"
   ],
@@ -17830,6 +17887,9 @@
   ],
   "50gfOv": [
     "Bekreft telefon"
+  ],
+  "51/RO8": [
+    "Vedlegg"
   ],
   "515vjG": [
     "Klikk for mer info"
@@ -20208,6 +20268,9 @@
   "5xtLRC": [
     "filNavn"
   ],
+  "5xxUI2": [
+    "Popular Music"
+  ],
   "5y0wym": [
     "Bli med på ",
     [
@@ -20648,6 +20711,9 @@
   ],
   "65r43O": [
     "Boosten din venter!"
+  ],
+  "65zBhE": [
+    "Lag din egen"
   ],
   "65ziLu": [
     "Ops! Det fungerte ikke"
@@ -22869,6 +22935,9 @@
   "6vrfgt": [
     "Koble fra"
   ],
+  "6w+Dyr": [
+    "Klarer ikke å lese lydfilen. Den kan være skadet eller bruke en kodek som ikke støttes."
+  ],
   "6wKpiV": [
     "Prøver å finne frem til en bestemt kanal eller server"
   ],
@@ -23290,6 +23359,9 @@
   ],
   "7A/tE0": [
     "Provins"
+  ],
+  "7ACDrq": [
+    "Prøv stilen"
   ],
   "7AVpta": [
     "Legg til modul for klippgalleri"
@@ -24355,6 +24427,9 @@
   "7e5k7L": [
     "Klar når du er det …"
   ],
+  "7e7es8": [
+    "7e7es8"
+  ],
   "7eIrA2": [
     "Kopiert!"
   ],
@@ -24967,6 +25042,9 @@
   ],
   "7qKDrE": [
     "Bekreft passordet"
+  ],
+  "7qUFc7": [
+    "Spoiler vist"
   ],
   "7qbp3B": [
     "… mer"
@@ -28162,6 +28240,9 @@
   "93tEDn": [
     "Tilkobling"
   ],
+  "93uxht": [
+    "Listeelement"
+  ],
   "93xPy3": [
     "3 Nitro-vennepass"
   ],
@@ -28207,6 +28288,9 @@
   ],
   "94p7dq": [
     "Kraften i Nitro er din"
+  ],
+  "95GB1V": [
+    "95GB1V"
   ],
   "95HTb5": [
     "For et fantastisk tillegg til serveren din. Det ser virkelig hyggelig ut her."
@@ -28860,6 +28944,9 @@
   ],
   "9Oq93m": [
     "Medlemmer"
+  ],
+  "9P3PfN": [
+    "9P3PfN"
   ],
   "9P8djr": [
     "Rediger bilde"
@@ -29744,6 +29831,9 @@
   ],
   "9qAGNs": [
     "Klar"
+  ],
+  "9qJQtX": [
+    "9qJQtX"
   ],
   "9qLtWs": [
     "Administrer kanaler"
@@ -31104,6 +31194,9 @@
   "AP/2qe": [
     "Inntektsgenerering er aktivert."
   ],
+  "AP3kT4": [
+    "Anime"
+  ],
   "APQGZ+": [
     "Har vi gjort en feil? ",
     [
@@ -31848,6 +31941,14 @@
   ],
   "AfrvRD": [
     "Kjøp fra alle"
+  ],
+  "AgMngw": [
+    "Orbs-saldo: ",
+    [
+      1,
+      "balance"
+    ],
+    " Orbs, nye oppdateringer om Orbs-utfordring"
   ],
   "AgXXyy": [
     "Serverstatus"
@@ -32628,6 +32729,9 @@
   "AzTwiu": [
     "Handlinger for forumtagg"
   ],
+  "AzkvWe": [
+    "Fremhevet felt"
+  ],
   "B+cbLS": [
     "Endre til pålogget?"
   ],
@@ -32867,6 +32971,13 @@
         ]
       ]
     ]
+  ],
+  "B5tZXw": [
+    [
+      1,
+      "orbAmount"
+    ],
+    " Orbs innløst totalt"
   ],
   "B66Z+f": [
     "Aktiv"
@@ -33172,7 +33283,7 @@
     "Bilder"
   ],
   "BEL9MJ": [
-    "Del utvidelse"
+    "Utvidelse for deling"
   ],
   "BENn/6": [
     "Alle direktesendte scener"
@@ -33489,9 +33600,6 @@
   ],
   "BLEx3k": [
     "Oppdater server"
-  ],
-  "BLKD4B": [
-    "Det er ikke mulig å be om en oppdatering. Prøv igjen om litt."
   ],
   "BLYT8n": [
     "Du har ingen flere booster å bruke. For å kjøpe flere må du oppgradere abonnementet ditt når den ventende abonnementsendringen er fullført."
@@ -34914,6 +35022,9 @@
   ],
   "BtwmYB": [
     "Velg kanalen der du presenterer reglene dine. Denne kanalen vil automatisk legges på topp og vil ha en spesiell overskrift."
+  ],
+  "Bu6kWV": [
+    "Bu6kWV"
   ],
   "BufsKk": [
     "Annet"
@@ -36630,6 +36741,14 @@
   "Cc4Mc9": [
     "Logg på med Meta Horizon Mobile-appen"
   ],
+  "CcNVYB": [
+    "Kanalen ",
+    [
+      1,
+      "channelName"
+    ],
+    ", festet øverst"
+  ],
   "CcVI1T": [
     [
       6,
@@ -37217,7 +37336,7 @@
     "Velg en server"
   ],
   "CuzcRY": [
-    "Assister"
+    "Assist"
   ],
   "Cv6AN/": [
     "Systemmeldinger"
@@ -37434,6 +37553,13 @@
       1,
       "username"
     ]
+  ],
+  "D/HToK": [
+    [
+      1,
+      "hours"
+    ],
+    " t"
   ],
   "D/PHq5": [
     "Bluesky"
@@ -37678,7 +37804,7 @@
     "Lar medlemmer sende tekst-til-tale-meldinger ved å starte en melding med /tts. Disse meldingene kan høres av alle som er fokusert på kanalen."
   ],
   "D7+kY/": [
-    "Ta en titt"
+    "Prøv selv"
   ],
   "D72Dlt": [
     "Gjør Discord litt mer ditt med Nitro"
@@ -39121,6 +39247,9 @@
   "Dt3ZUr": [
     "Animert avatar"
   ],
+  "Dt63vf": [
+    "Dt63vf"
+  ],
   "DtFqEI": [
     "Betalingskilden er ugyldig."
   ],
@@ -39173,6 +39302,28 @@
   ],
   "DwDxDU": [
     "Har du ingen invitasjon?"
+  ],
+  "DwFqrb": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " boost"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " booster"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "DwKFKd": [
     "Profilen kan ikke lastes inn på denne serveren."
@@ -40882,7 +41033,7 @@
     "Få Nitro-belønninger hver måned"
   ],
   "EdXn1A": [
-    "Servere med aldersgrense er blokkert på iOS-plattformen i henhold til App Store-reglene. Hvis du er voksen, kan du bli med i serveren på datamaskinen og oppdatere innstillingene dine for å se dette på iOS. Gå til hjelpesenteret hvis du vil vite mer."
+    "Servere med aldersgrense er blokkert på iOS-plattformen i henhold til App Store-reglene. Hvis du er voksen, kan du bli med i serveren i PC-appen og oppdatere innstillingene for å se dette på iOS. Gå til hjelpesenteret hvis du vil vite mer."
   ],
   "Ee+rah": [
     "Sikre deg en Nitro-profilbundel i begrenset oppdag! Du kan bruke den med Nitro. Må hentes innen ",
@@ -43868,6 +44019,13 @@
   ],
   "G00RI5": [
     "På"
+  ],
+  "G08ClG": [
+    [
+      2,
+      "count"
+    ],
+    " pålogget"
   ],
   "G08MKu": [
     "Skjul brukerens meldinger"
@@ -47394,6 +47552,9 @@
   ],
   "HKWdjj": [
     "Bruk unike temafarger for å sette ditt eget preg på Discord."
+  ],
+  "HKyk+i": [
+    "HKyk+i"
   ],
   "HLcCVh": [
     "E-post kreves."
@@ -51379,6 +51540,9 @@
   "IuSJT8": [
     "Administrer serverintegrasjon"
   ],
+  "IuT87w": [
+    "Legg til modul"
+  ],
   "IuXYch": [
     "Vil du bruke dette klistremerket overalt? Få Nitro og bli med i serveren."
   ],
@@ -51643,6 +51807,9 @@
     ],
     " sin Discord-avatar."
   ],
+  "IzZ1pU": [
+    "IzZ1pU"
+  ],
   "IzZTIe": [
     "Mappe"
   ],
@@ -51825,6 +51992,9 @@
   ],
   "J0dpcB": [
     "Visningsnavn"
+  ],
+  "J0tNny": [
+    "Inkluderer forespørsler i henhold til Online Safety Act"
   ],
   "J18GbG": [
     "Tilknyttet for ",
@@ -52048,6 +52218,9 @@
   "J8foZq": [
     "iOS-samtaleforslag"
   ],
+  "J8r/7L": [
+    "Avsluttet"
+  ],
   "J90oLW": [
     "ukjent-kanal"
   ],
@@ -52079,6 +52252,9 @@
         "flere nye medlemmer deltar i chatten."
       ]
     ]
+  ],
+  "JBLQh3": [
+    "JBLQh3"
   ],
   "JBQxV6": [
     "Medlemsliste for ",
@@ -52558,6 +52734,9 @@
   "JNx8sG": [
     "Du er halvveis!"
   ],
+  "JO5lXN": [
+    "Åpne innstillinger for tale og video"
+  ],
   "JOBw0y": [
     "Fullført"
   ],
@@ -52626,6 +52805,9 @@
   ],
   "JRU8dq": [
     "Hvilken plattform foretrekker du?"
+  ],
+  "JSSBzo": [
+    "Gi bort Nitro"
   ],
   "JST6jl": [
     "Få Nitro"
@@ -53186,6 +53368,13 @@
   "JiIY1l": [
     "Profilrammer"
   ],
+  "JiMMEd": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "JiVjh9": [
     "Aktiver Overlay"
   ],
@@ -53599,7 +53788,7 @@
     "DM-spamfilter"
   ],
   "JzbSEY": [
-    "Omtaler + uleste meldinger"
+    "@Mentions + uleste meldinger"
   ],
   "Jzd+z/": [
     "Gi den nye nøkkelen et navn"
@@ -53897,6 +54086,9 @@
   ],
   "KA1U4B": [
     "Søk ikke tilgjengelig"
+  ],
+  "KADI1J": [
+    "KADI1J"
   ],
   "KATEJB": [
     "Utviklere"
@@ -54278,6 +54470,9 @@
   "KIpp7M": [
     "Løs inn"
   ],
+  "KIskmn": [
+    "Spoilere vist"
+  ],
   "KJ2JnG": [
     "Lar medlemmer endre kanalens navn, beskrivelse og tekst- og taleinnstillinger. De kan også slette kanalen."
   ],
@@ -54320,6 +54515,9 @@
   ],
   "KLWnit": [
     "Fjern SMS-autentisering"
+  ],
+  "KLmNgL": [
+    "KLmNgL"
   ],
   "KLnLIP": [
     "Telefonnummer verifisert!"
@@ -56228,6 +56426,9 @@
       ]
     ],
     ", inkludert skrifttype, effekt og farge i hele Discord."
+  ],
+  "L8Xfoo": [
+    "Legg til modul"
   ],
   "L8jjfu": [
     "Om meldingen er festet eller ikke"
@@ -58596,6 +58797,9 @@
   "M8jQyg": [
     "Kosmetisk"
   ],
+  "M8sI9b": [
+    "Legg til et kort"
+  ],
   "M90TUl": [
     "Paddehattmerke"
   ],
@@ -60583,6 +60787,9 @@
   "MwSEoz": [
     "Jeg er sikker"
   ],
+  "MwVmws": [
+    "MwVmws"
+  ],
   "MwY0BF": [
     "Gaming"
   ],
@@ -61257,7 +61464,7 @@
     "Kombomultiplikator (x7)"
   ],
   "NEFeB0": [
-    "Døden"
+    "Død"
   ],
   "NENZhS": [
     "Juster innstillinger"
@@ -61612,6 +61819,9 @@
   "NLTGck": [
     "Eldst"
   ],
+  "NLadfA": [
+    "NLadfA"
+  ],
   "NLl6Q3": [
     "Trendpil ned"
   ],
@@ -61770,7 +61980,7 @@
     "Maskinvareakselerasjon kommer til å gjøre dette bedre"
   ],
   "NQuXf0": [
-    "Servere med aldersgrense er blokkert på iOS-plattformen i henhold til App Store-reglene. ",
+    "Servere med aldersgrense er blokkert på iOS-plattformen i henhold til App Store-reglene. Hvis du er voksen, kan du bli med i serveren i PC-appen og oppdatere innstillingene for å se dette på iOS. ",
     [
       8,
       "$link",
@@ -67600,6 +67810,9 @@
     ],
     "-tillatelser kreves for å opprette denne private kategorien."
   ],
+  "PhnOeM": [
+    "Se etter oppdateringer"
+  ],
   "Pi3JW7": [
     "Send også i"
   ],
@@ -67853,6 +68066,9 @@
   "PqEzn8": [
     "Aldri"
   ],
+  "PqQIY2": [
+    "PqQIY2"
+  ],
   "PqYfh/": [
     "Tjen penger på Discord"
   ],
@@ -68033,6 +68249,9 @@
   ],
   "PuJGuM": [
     "SERVER"
+  ],
+  "PuL/sT": [
+    "Fullfør betalingen"
   ],
   "PuLLzP": [
     "Invitasjonen er sendt"
@@ -70364,6 +70583,9 @@
     ],
     " likes"
   ],
+  "QwkKWr": [
+    "QwkKWr"
+  ],
   "Qwlpov": [
     "Egendefinert serverinvitasjonsbanner"
   ],
@@ -71914,6 +72136,9 @@
     ],
     "-timers maraton"
   ],
+  "RZY2fr": [
+    "Kategori"
+  ],
   "RZiFBl": [
     "Brukerstøtte"
   ],
@@ -72445,6 +72670,9 @@
   ],
   "RnyseL": [
     "Rolle:"
+  ],
+  "Ro5Nmi": [
+    "Ro5Nmi"
   ],
   "RoK9iD": [
     "Hvis du demper en server, dempes også varslene. Hvis du nevnes, kommer du fortsatt til å se ulestindikatorer."
@@ -73898,6 +74126,20 @@
   "SP9BBx": [
     "Ukjent"
   ],
+  "SPQn3O": [
+    "Intime bilder av noen under 18 år er overgrepsmateriale og ulovlig. Overgrepsmateriale rapporteres til ",
+    [
+      8,
+      "$link",
+      [
+        "National Center for Missing & Exploited Children"
+      ],
+      [
+        "https://www.missingkids.org/home"
+      ]
+    ],
+    "."
+  ],
   "SPWLyT": [
     "Revisjonslogg"
   ],
@@ -74220,6 +74462,13 @@
   ],
   "SWIWEV": [
     "Vi har begrenset enkelte meldinger på grunn av et mulig omtaleraid."
+  ],
+  "SWPwHW": [
+    "+",
+    [
+      1,
+      "count"
+    ]
   ],
   "SWVxPM": [
     "Velg en karakterklasse"
@@ -75507,9 +75756,6 @@
   "T1lMSl": [
     "Tillat forespørsler om å få snakke i disse scenekanalene. Scenemoderatorene må manuelt godkjenne eller avslå hver forespørsel."
   ],
-  "T1n7hc": [
-    "Du oppdaterte nettopp dette. Prøv igjen om litt."
-  ],
   "T1ocgk": [
     [
       1,
@@ -75720,6 +75966,9 @@
   ],
   "T6bZsX": [
     "Når du gir en bruker timeout, kan ikke vedkommende sende meldinger i chatter, svare i tråder, reagere på meldinger eller snakke i tale- eller scenekanaler."
+  ],
+  "T7AWtb": [
+    "Privat server"
   ],
   "T7DUoU": [
     "Fjern tilknytning til ",
@@ -76953,7 +77202,7 @@
     "Takk for at du sier fra til oss!"
   ],
   "TcGz5R": [
-    "Nederlag"
+    "Tap"
   ],
   "TcQ7/5": [
     "Skade mottatt"
@@ -77609,6 +77858,9 @@
   ],
   "TrOccu": [
     "Shop stilen"
+  ],
+  "Trf5X/": [
+    "Trf5X/"
   ],
   "Trx7eJ": [
     "Overleggsproblem"
@@ -80074,6 +80326,9 @@
   ],
   "UqD/9W": [
     "Jeg hørte ikke noen lyd i det hele tatt"
+  ],
+  "UqJCz6": [
+    "Beløpet ble endret. Sjekk den nye totalsummen og prøv igjen."
   ],
   "UqL10G": [
     [
@@ -82650,6 +82905,13 @@
   ],
   "Vu7odK": [
     "Vis alle"
+  ],
+  "VuK9sC": [
+    "Lukk ",
+    [
+      1,
+      "appName"
+    ]
   ],
   "VuSFzp": [
     "Omtaler med negative tilbakemeldinger"
@@ -86206,6 +86468,9 @@
   "XKbf2G": [
     "Delte lenker utløper etter 24 timer uten aktivitet"
   ],
+  "XKj5L9": [
+    "Orbs-lommebok"
+  ],
   "XKk1gp": [
     "Venter på nettverk …"
   ],
@@ -87531,6 +87796,9 @@
   "Xs7PHX": [
     "Krav"
   ],
+  "Xs8DA4": [
+    "Xs8DA4"
+  ],
   "XsCNky": [
     "Få tilgang til verktøy som ",
     [
@@ -88836,6 +89104,9 @@
   "YNw2Sm": [
     "Kanaler og goder"
   ],
+  "YOE0u5": [
+    "YOE0u5"
+  ],
   "YOIKBt": [
     "Kun venner og små servere"
   ],
@@ -89157,6 +89428,9 @@
   ],
   "YUcMyC": [
     "Endre innstilling"
+  ],
+  "YUcvdQ": [
+    "Anbefalt"
   ],
   "YUhnoy": [
     [
@@ -92231,6 +92505,9 @@
   "ZdNUj2": [
     "Lukk"
   ],
+  "ZdPp2q": [
+    "Spotify"
+  ],
   "ZdmRwW": [
     "Skann ID-en din og ta en selfie for å bekrefte at du er deg. Begge deler blir slettet umiddelbart etter bekreftelsen og blir aldri knyttet til kontoen din."
   ],
@@ -92298,6 +92575,9 @@
   ],
   "Zenogr": [
     "Tema og banner"
+  ],
+  "Zf0GQS": [
+    "Kortet må verifiseres ytterligere. Logg på for å fullføre betalingen."
   ],
   "Zf4NPe": [
     "Lyttere"
@@ -94429,6 +94709,9 @@
   "aY1OH2": [
     "Last opp feilsøkingslogger til Discord Support"
   ],
+  "aY1ZL/": [
+    "aY1ZL/"
+  ],
   "aYLd8O": [
     [
       8,
@@ -94957,6 +95240,9 @@
       ]
     ]
   ],
+  "ajHWbZ": [
+    "Nå kan du prøve ulike stiler på visningsnavn."
+  ],
   "ajHoOr": [
     "Vis spillprofil"
   ],
@@ -95056,6 +95342,9 @@
   ],
   "al5EXL": [
     "Serverbutikk"
+  ],
+  "alIotw": [
+    "alIotw"
   ],
   "alYXBF": [
     "Du må bruke APNG-, JPG-, PNG-, Lottie- eller GIF-filer (maks ",
@@ -96751,6 +97040,13 @@
   "bFGpua": [
     "Medlemmene dine spiller"
   ],
+  "bFIg0R": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "bFPqMm": [
     "Stilisert bilde av en skriveplate med en X"
   ],
@@ -97063,6 +97359,9 @@
       1,
       "guildName"
     ]
+  ],
+  "bP4GV1": [
+    "bP4GV1"
   ],
   "bPKiId": [
     "Ingen resultater for «",
@@ -97748,6 +98047,9 @@
   "be2jkP": [
     "Lyddeling støttes ikke på Android-versjon 9 eller eldre."
   ],
+  "beHwVL": [
+    "Lenken er ugyldig eller har utløpt."
+  ],
   "beN4DG": [
     "Lær hvordan du konfigurer ",
     [
@@ -97989,6 +98291,9 @@
   ],
   "bgU5r0": [
     "Når overlegget åpnes, vises en melding for å bekrefte at det er aktivt."
+  ],
+  "bgfExW": [
+    "Hashtag"
   ],
   "bgn75v": [
     "Discord registrerer ikke lyd fra mikrofonen din."
@@ -98412,6 +98717,9 @@
   ],
   "bm82mm": [
     "0/1 er tilgjengelig"
+  ],
+  "bm8Dto": [
+    "bm8Dto"
   ],
   "bmOri0": [
     "Stopp registreringen"
@@ -99176,6 +99484,9 @@
   "bzEoCB": [
     "Blokker stygge brukernavn"
   ],
+  "bzNi8X": [
+    "Roshan-kill"
+  ],
   "bzQdwW": [
     "Venmo-detaljer"
   ],
@@ -99805,6 +100116,9 @@
   ],
   "cCqsca": [
     "Feil under oppretting av Webhook"
+  ],
+  "cCuf8g": [
+    "cCuf8g"
   ],
   "cCvdJy": [
     "Åpne spillprofilen"
@@ -102225,6 +102539,9 @@
       "premiumMax"
     ],
     " påminnelser"
+  ],
+  "cpqhYg": [
+    "Vi kan ikke bekrefte om betalingen ble utført. Logg på og sjekk abonnementet før du prøver igjen."
   ],
   "cqEoj/": [
     "Hjelp"
@@ -105666,6 +105983,18 @@
   "e5y+gm": [
     "Gruppe-DM"
   ],
+  "e62g5R": [
+    "Listeelement ",
+    [
+      1,
+      "index"
+    ],
+    " av ",
+    [
+      1,
+      "size"
+    ]
+  ],
   "e68fAU": [
     "Angi videokvalitetsmodus til ",
     [
@@ -106427,6 +106756,9 @@
   "eJOq+Z": [
     "Registreringsmåte"
   ],
+  "eJU906": [
+    "Betalingen ble utført."
+  ],
   "eJg+Zm": [
     "Start en spillserver"
   ],
@@ -106453,6 +106785,9 @@
   ],
   "eMFORn": [
     "Del en lenke når du er klar"
+  ],
+  "eMhkxR": [
+    "Venter på godkjenning"
   ],
   "eMx/uZ": [
     "Hvis du deaktiverer fellesskapet, fjernes også serveren din fra Utforsk."
@@ -109009,6 +109344,9 @@
   "fMaEr2": [
     "Trykk for å endre filteret for det gjeldende søket"
   ],
+  "fMbgeZ": [
+    "Del aktivitet"
+  ],
   "fMm5q/": [
     "Ventende forespørsel"
   ],
@@ -110660,6 +110998,9 @@
   "fphZb0": [
     "Innhold"
   ],
+  "fppR0H": [
+    "fppR0H"
+  ],
   "fq3Swz": [
     [
       8,
@@ -111521,6 +111862,9 @@
   "gBIG/N": [
     "Stil, visningsnavn, pronomen og bio kan endres for hver server."
   ],
+  "gBJwjU": [
+    "Kjøpet legges automatisk til på kontoen din etter å ha blitt godkjent."
+  ],
   "gBKqZ0": [
     "Slutt å følge ",
     [
@@ -112368,6 +112712,14 @@
   ],
   "gYiBrD": [
     "Avslutt rutenettvisning"
+  ],
+  "gYzaCr": [
+    [
+      8,
+      "displayNameHook",
+      []
+    ],
+    "-stilen kler deg!"
   ],
   "gZEUBl": [
     "Goth"
@@ -113499,6 +113851,9 @@
   "gxcsSq": [
     "Hils på profilmodulene"
   ],
+  "gxpQzb": [
+    "gxpQzb"
+  ],
   "gyljWE": [
     "Test av mikrofon"
   ],
@@ -114144,6 +114499,9 @@
   "hA4+su": [
     "Gitte tillatelser"
   ],
+  "hAmdLZ": [
+    "hAmdLZ"
+  ],
   "hBB85/": [
     "Du kan endre dette senere."
   ],
@@ -114223,6 +114581,9 @@
   ],
   "hDPEu1": [
     "Fjern regexer med feil, og prøv igjen."
+  ],
+  "hDS40L": [
+    "hDS40L"
   ],
   "hDXaQ/": [
     "bare så det er sagt: DU er sidekicken"
@@ -115400,6 +115761,13 @@
     ],
     ")"
   ],
+  "he73FE": [
+    "Betal ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "heHHUW": [
     "Bilde"
   ],
@@ -115839,6 +116207,9 @@
       ]
     ],
     "."
+  ],
+  "hl0vjd": [
+    "Det tar lengre tid enn normalt å behandle betalingen. Vent litt før du prøver igjen."
   ],
   "hl1V+b": [
     "Vis tilskuere"
@@ -116716,6 +117087,9 @@
   "i4S4mo": [
     "Du kan ikke publisere uten en beskrivelse og minst én fordel"
   ],
+  "i4Slqv": [
+    "i4Slqv"
+  ],
   "i4T8vz": [
     "Abonner for ",
     [
@@ -116764,6 +117138,9 @@
   ],
   "i6A1Xw": [
     "Sendt"
+  ],
+  "i6R1ay": [
+    "i6R1ay"
   ],
   "i6eV3z": [
     "Bluetooth"
@@ -117845,6 +118222,9 @@
   ],
   "iXldTS": [
     "Rutenettvisning"
+  ],
+  "iXpQc+": [
+    "iXpQc+"
   ],
   "iXpzJ0": [
     "Hvis du er usynlig, kan ikke venner og servermedlemmer se hva du spiller. ",
@@ -119622,6 +120002,9 @@
   "jAXIrH": [
     "Tilbakebetal"
   ],
+  "jB1fWC": [
+    "Lenke til konto"
+  ],
   "jB8yOL": [
     "Feil sendt"
   ],
@@ -119775,6 +120158,9 @@
   ],
   "jI66M4": [
     "Australia"
+  ],
+  "jI9XE6": [
+    "jI9XE6"
   ],
   "jID6XQ": [
     "Oppdrag"
@@ -122164,6 +122550,9 @@
   "kHdYCW": [
     "Klikk for å se klistremerke"
   ],
+  "kHie4V": [
+    "Last inn appen på nytt"
+  ],
   "kHjdqc": [
     "Når overlegget åpnes, får du beskjed om du kan strømme et spill."
   ],
@@ -123406,6 +123795,9 @@
     "dyr",
     "koala",
     "koalabjørn"
+  ],
+  "kocF+6": [
+    "Varer i spillet"
   ],
   "koklFG": [
     "Få andre enkelt med i serveren din med tilpassede invitasjonslenker. Men obs! Alle med lenken kan bli med, og du må ha minst én tekstkanal som er åpen for alle servermedlemmer. ",
@@ -127918,6 +128310,9 @@
   "mZKxHb": [
     "Endre videobakgrunn"
   ],
+  "mZUpB8": [
+    "mZUpB8"
+  ],
   "mZffAi": [
     "Jeg brøt ikke retningslinjen"
   ],
@@ -129045,6 +129440,9 @@
     "speil",
     "speilkule"
   ],
+  "mj8th4": [
+    "mj8th4"
+  ],
   "mjB9pd": [
     "Ja, avslutt eventen"
   ],
@@ -129475,6 +129873,9 @@
   ],
   "mpb7t3": [
     "Boost aktivert"
+  ],
+  "mpd5Bv": [
+    "Hei! Discord kjører i bakgrunnen så du kan holde deg oppdatert på venner. Høyreklikk her for å avslutte."
   ],
   "mpnvrV": [
     "Tilpass strøm til vindu"
@@ -131463,6 +131864,9 @@
   "nYQyEg": [
     "Det skjedde en feil under innlasting av oppdraget. Oppdater Discord-klienten og prøv igjen."
   ],
+  "nYb8xq": [
+    "Inneholder forespørsler i henhold til Online Protection of Women Decree (Decree No. 12,976/2026)"
+  ],
   "nYn52B": [
     "Over 100 gjenstander"
   ],
@@ -133193,6 +133597,9 @@
   ],
   "oAYOCk": [
     "Last ned appen"
+  ],
+  "oAYuZw": [
+    "Prøv denne navnestilen"
   ],
   "oAvIAg": [
     "Lenket til"
@@ -135846,11 +136253,25 @@
   "p9KOsc": [
     "Det er bare Nitro som kan gis i gave (Nitro Basic kommer snart)"
   ],
+  "p9PPYD": [
+    [
+      1,
+      "multiplier"
+    ],
+    "-dobbel Orbs-bonus med Nitro"
+  ],
   "p9TwTG": [
     "Gren"
   ],
   "p9ZAJZ": [
     "Aktiver strømningsmodus"
+  ],
+  "p9fIXw": [
+    "Lagre og betal ",
+    [
+      1,
+      "amount"
+    ]
   ],
   "p9jC2r": [
     "PÅ"
@@ -137801,6 +138222,9 @@
   "pkXAeG": [
     "Bruk Discord-overlegg i spillet"
   ],
+  "pkXfdR": [
+    "Betalingsskjemaet ble ikke lastet inn. Prøv igjen."
+  ],
   "pkYeA6": [
     "Alternativer for samtaler i kanal"
   ],
@@ -138446,6 +138870,9 @@
   ],
   "ptL/DP": [
     "Før"
+  ],
+  "ptXc9l": [
+    "ptXc9l"
   ],
   "ptxALO": [
     "Handlinger for videobakgrunn"
@@ -139844,7 +140271,7 @@
     "De blir store så fort :’) Og vi kunne ikke ha klart det uten abonnenter som deg. Det kommer flere Nitro-godbiter i året som kommer. Takk for at du er helt rå."
   ],
   "qSkhZH": [
-    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
+    "Aldersgruppen din avgjør om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
     [
       8,
       "$link",
@@ -140863,6 +141290,9 @@
   ],
   "qvtjM4": [
     "Verifiserer at serverne dine (sannsynligvis) ikke er hjemsøkt."
+  ],
+  "qvvMqu": [
+    "Vis spoiler"
   ],
   "qvx9E4": [
     "Gitt i gave: ",
@@ -142467,6 +142897,9 @@
   "rWKv+e": [
     "Clipping"
   ],
+  "rWPrJC": [
+    "Discord standard"
+  ],
   "rWQr9U": [
     "Vil du forkaste emojien?"
   ],
@@ -143018,6 +143451,13 @@
   ],
   "rgZKg2": [
     "Slå av overlegg"
+  ],
+  "rgpc8E": [
+    [
+      2,
+      "count"
+    ],
+    " spill"
   ],
   "rhBeKe": [
     "Fødselsdatoen din"
@@ -143691,6 +144131,28 @@
   "rp2Hu5": [
     "Søk etter skolen din"
   ],
+  "rp7bx+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Medlem"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Medlemmer"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "rpFCLs": [
     "Søk igjen"
   ],
@@ -143934,6 +144396,51 @@
       "name"
     ],
     " Logo"
+  ],
+  "rtm4DR": [
+    "Hvis du er bekymret for din egen sikkerhet eller sikkerheten til noen du kjenner, kan du kontakte kvinnesenteret på nummer 180 eller sjekke ",
+    [
+      8,
+      "$link",
+      [
+        "hjelpetjenester i Brasil"
+      ],
+      [
+        [
+          1,
+          "supportOrgURL"
+        ]
+      ]
+    ],
+    ". Du finner flere ressurser i ",
+    [
+      8,
+      "$link",
+      [
+        "velværeknutepunktet"
+      ],
+      [
+        [
+          1,
+          "wellbeingURL"
+        ]
+      ]
+    ],
+    " og ",
+    [
+      8,
+      "$link",
+      [
+        "artikkelen i hjelpesenteret"
+      ],
+      [
+        [
+          1,
+          "helpCenterURL"
+        ]
+      ]
+    ],
+    "."
   ],
   "ru+2jw": [
     "Ingen felles venner"
@@ -144343,6 +144850,9 @@
   ],
   "s1vQIL": [
     "Ubegrenset med deltakere"
+  ],
+  "s1xGYd": [
+    "s1xGYd"
   ],
   "s285pq": [
     "Teksthandlinger"
@@ -148165,6 +148675,9 @@
   "t8geR1": [
     "Se mindre"
   ],
+  "t8z5gn": [
+    "Prøv stilen selv"
+  ],
   "t94EHg": [
     "Abonnementsnivå"
   ],
@@ -148385,6 +148898,9 @@
   ],
   "tGDabk": [
     "Denne soundmojien er fra"
+  ],
+  "tGQtlT": [
+    "tGQtlT"
   ],
   "tGRbjA": [
     "Mappenavn"
@@ -151480,6 +151996,9 @@
   "uFxYq0": [
     "Bekreft e-postadresse"
   ],
+  "uG3Bwy": [
+    "Er du sikker?"
+  ],
   "uG6b1w": [
     "Dette kan ikke angres."
   ],
@@ -152747,9 +153266,6 @@
   "uloYww": [
     "Spamfilter for direktemeldinger"
   ],
-  "um/5Kc": [
-    "Forespørsel om oppdatering sendt. Kortet blir snart oppdatert."
-  ],
   "umBn5f": [
     "Yarr"
   ],
@@ -152981,6 +153497,9 @@
       ]
     ],
     " likerklikk"
+  ],
+  "uqFXw/": [
+    "uqFXw/"
   ],
   "uqHLzW": [
     "Søk i kanaler eller roller"
@@ -153866,7 +154385,7 @@
     "Last opp fil"
   ],
   "vGxRDB": [
-    "Aldersgruppen din bestemmer om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
+    "Aldersgruppen din avgjør om du får tilgang til innhold og innstillinger beregnet på voksne. Ellers fungerer Discord som før. Se aldersgruppen din under, og få ",
     [
       8,
       "$link",
@@ -157371,6 +157890,9 @@
   "wd4yrz": [
     "Vis QR-kode"
   ],
+  "wdNhTg": [
+    "wdNhTg"
+  ],
   "wdOb3H": [
     "Gaming"
   ],
@@ -157601,7 +158123,7 @@
     "Steam"
   ],
   "wi6hPV": [
-    "Gå til hjelpesenteret"
+    "Besøk hjelpesenteret"
   ],
   "wiBqTu": [
     "Så gavmild du er! ",
@@ -160862,6 +161384,9 @@
   "xca2ts": [
     "Slett kontoen"
   ],
+  "xcasYL": [
+    "xcasYL"
+  ],
   "xcoOBS": [
     "Myntegrønn"
   ],
@@ -161989,7 +162514,7 @@
     "Favoritter"
   ],
   "y3TqzT": [
-    "Andre valg"
+    "Andre alternativer"
   ],
   "y3ZnnU": [
     "Spill du eier"
@@ -163912,9 +164437,6 @@
   "yohc6E": [
     "Se alle"
   ],
-  "ypKX9A": [
-    "Det er ikke mulig å få kontakt med appen og be om en oppdatering. Prøv igjen om litt."
-  ],
   "ypc3Yp": [
     "Velg et program"
   ],
@@ -164054,6 +164576,9 @@
   ],
   "yuEmLj": [
     "Søtt og trivelig"
+  ],
+  "yul+0g": [
+    "Utgiver"
   ],
   "yum": [
     "deilig mat",
@@ -165311,6 +165836,14 @@
   "zSN9vp": [
     "Legg til tekst"
   ],
+  "zSYTEX": [
+    "Kanalen ",
+    [
+      1,
+      "channelName"
+    ],
+    ", løsnet"
+  ],
   "zSbMdX": [
     "Velg farge"
   ],
@@ -165719,6 +166252,9 @@
   "zdXqG9": [
     "Kontos alder"
   ],
+  "zdk9GB": [
+    "Fakturaadressen må være fullstendig."
+  ],
   "zdlPgL": [
     "Medlemmer med denne rettigheten kan dra andre medlemmer ut av denne kanalen. De kan bare flytte medlemmer mellom\nkanaler hvor både de og medlemmene de flytter, har tilgang."
   ],
@@ -165916,6 +166452,13 @@
   "zjfaGH": [
     "Behold spillserveren"
   ],
+  "zjuWNH": [
+    "Åpne ",
+    [
+      1,
+      "appName"
+    ]
+  ],
   "zk6Xbs": [
     "Legg til en hurtigtast"
   ],
@@ -166097,6 +166640,9 @@
       ]
     ],
     " Har samme bekreftelseskode som deg og kan merkes som bekreftet!"
+  ],
+  "znwvG4": [
+    "Mappe"
   ],
   "zo6jzu": [
     "I de neste ukene blir Aktiviteter utilgjengelig på grunn av arbeid med forbedringer. Takk for tålmodigheten!"
@@ -166339,6 +166885,9 @@
   ],
   "zvDu4h": [
     "Saktemodus er av."
+  ],
+  "zvEYIq": [
+    "zvEYIq"
   ],
   "zvGFsh": [
     "Bruk klistremerker fra en av serverne dine i alle serverne og direktemeldingene dine!"
