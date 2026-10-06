@@ -109,6 +109,9 @@
   "+1CM/5": [
     "Team Fight Won"
   ],
+  "+1D1wc": [
+    "Chat & Command Bot"
+  ],
   "+1H47t": [
     "Options"
   ],
@@ -20144,6 +20147,9 @@
   "5QKxGI": [
     "Stream from the cloud, no install required."
   ],
+  "5QSvrP": [
+    "Chat Bot"
+  ],
   "5QYPO2": [
     "Block"
   ],
@@ -31729,6 +31735,9 @@
   "9i1J30": [
     "Unfortunately, since you have an active subscription through an external provider, you cannot accept Nitro gifts."
   ],
+  "9iAOsw": [
+    "Mira"
+  ],
   "9iFR65": [
     "Contact"
   ],
@@ -36352,6 +36361,9 @@
   ],
   "BUScid": [
     "Longer Messages"
+  ],
+  "BUTRDc": [
+    "Anyone up for a match tonight?"
   ],
   "BUZ0sl": [
     "Official announcements from Discord for Community Server admins and moderators."
@@ -55873,6 +55885,9 @@
   "J7dBxa": [
     "Share Conversation"
   ],
+  "J7qggf": [
+    "Hey, can you help me with something?"
+  ],
   "J82mpK": [
     "View this item in the Shop"
   ],
@@ -56134,6 +56149,9 @@
   ],
   "JEWkN1": [
     "Something went wrong. You may not be eligible to enroll in this Quest."
+  ],
+  "JEYq8M": [
+    "Your bot"
   ],
   "JEiq/c": [
     "Tenure badge"
@@ -59844,6 +59862,9 @@
   ],
   "Ksh3ik": [
     "Theme"
+  ],
+  "KsqQJX": [
+    "About this conversation"
   ],
   "Kswg0Y": [
     "Flower badge"
@@ -67575,6 +67596,9 @@
   ],
   "NnY5lc": [
     "Official Discord Message"
+  ],
+  "NnmbJu": [
+    "A sample conversation showing how the bot will reply. Nothing here is posted."
   ],
   "NnpaOC": [
     "Let's do it"
@@ -87606,6 +87630,92 @@
   ],
   "VVZDBL": [
     "Sorry, this stream has the max number of viewers."
+  ],
+  "VW2XVd": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " to ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "VWNyUu": [
     "Mark Alert Completed"
@@ -123031,6 +123141,108 @@
   "hElye1": [
     "See other listings for this SKU"
   ],
+  "hEqea3": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " user"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " users"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " to ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "hF2c41": [
     "Replaced"
   ],
@@ -134405,6 +134617,91 @@
   "lOAkKo": [
     "Account unblocked"
   ],
+  "lODaeu": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " disconnected ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " user"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " users"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " from voice (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "lOF4zR": [
     "Your Profile Frame is updated!"
   ],
@@ -142750,6 +143047,9 @@
   ],
   "nqTD4d": [
     "Hide email address"
+  ],
+  "nqYtiy": [
+    "Of course! What do you need?"
   ],
   "nqrK8X": [
     "Member Requirements"
@@ -151141,6 +151441,87 @@
       ]
     ]
   ],
+  "qXazAb": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moved ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ users"
+      ]
+    ],
+    " to ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Standard"
   ],
@@ -156042,6 +156423,9 @@
       ]
     ]
   ],
+  "sA1lTv": [
+    "How it works"
+  ],
   "sAApb0": [
     "Check back later for more new content!"
   ],
@@ -160738,6 +161122,75 @@
       "duration"
     ],
     "."
+  ],
+  "tTwGD8": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " disconnected ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " from voice (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "tU5fiM": [
     "No app configured"
@@ -168514,6 +168967,9 @@
   "w6zHX/": [
     "Message could not be sent, permission was denied"
   ],
+  "w7JaEP": [
+    "Command Bot"
+  ],
   "w7KA8R": [
     "Sub only benefits"
   ],
@@ -174460,6 +174916,70 @@
   "xu9k8G": [
     "Discord System Helper install cancelled."
   ],
+  "xuGjhY": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " disconnected ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ users"
+      ]
+    ],
+    " from voice (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " action"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actions"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "xuQfOT": [
     [
       1,
@@ -174741,6 +175261,9 @@
   ],
   "y+MdAM": [
     "Alter your video settings and start video"
+  ],
+  "y+QYes": [
+    "The login page is broken on mobile again."
   ],
   "y/EPN2": [
     "Listen Together"
