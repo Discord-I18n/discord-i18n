@@ -7256,14 +7256,6 @@
     ],
     " zniżki na Nitro"
   ],
-  "0hoV2D": [
-    "Zapisuj jeszcze więcej wiadomości dzięki ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19552,19 +19544,6 @@
   ],
   "5VmbbF": [
     "Za dużo emoji"
-  ],
-  "5VsCaT": [
-    "Osiągnięto limit zakładek. Zdobądź ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    ", aby mieć tyle zakładek: ",
-    [
-      2,
-      "premiumMax"
-    ],
-    "."
   ],
   "5W9wWF": [
     "Zarządzaj ustawieniami"
@@ -40641,19 +40620,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Osiągnięto limit przypomnień. Zdobądź ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    ", aby mieć tyle przypomnień: ",
-    [
-      2,
-      "premiumMax"
-    ],
-    "."
-  ],
   "E+qms7": [
     "Kliknij dowolną wiadomość prawym przyciskiem myszy i wybierz ",
     [
@@ -40999,6 +40965,47 @@
   ],
   "E7Dg31": [
     "Aplikacja nie działa / przestaje działać / zawiera błędy"
+  ],
+  "E7QYGI": [
+    "Użytkownik ",
+    [
+      1,
+      "sender"
+    ],
+    " podarował Ci ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " miesiąc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " miesiące"
+        ],
+        "many": [
+          [
+            7
+          ],
+          " miesięcy"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " miesiąca"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro!"
   ],
   "E7oO8u": [
     "Ten post został zablokowany. Tylko moderatorzy mogą wysyłać wiadomości."
@@ -43429,9 +43436,6 @@
   "F6rmyq": [
     "Próbujesz się ruszać i podrygiwać?"
   ],
-  "F6u3E3": [
-    "Zarządzaj najważniejszymi wiadomościami, tylko z Nitro."
-  ],
   "F75nNl": [
     "Nie udało się zapisać domyślnej reakcji"
   ],
@@ -44012,9 +44016,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Spodobało Ci się? Dodaj do zakładek i trzymaj ulubione wspomnienia w jednym miejscu."
-  ],
   "FMbL3s": [
     "Czyszczenie nie powiodło się"
   ],
@@ -44036,31 +44037,6 @@
       "user"
     ],
     "' na przerwę"
-  ],
-  "FNFCVJ": [
-    "Osiągnięto limit zakładek. Zdobądź ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", aby mieć tyle zakładek: ",
-    [
-      2,
-      "premiumMax"
-    ],
-    "."
   ],
   "FNVJ4+": [
     "Darmowa dekoracja awatara dla Twojego profilu!"
@@ -45414,6 +45390,41 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " miesiąc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " miesiące"
+        ],
+        "many": [
+          [
+            7
+          ],
+          " miesięcy"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " miesiąca"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro"
   ],
   "G1u0hK": [
     "Maksymalizuj"
@@ -53236,19 +53247,6 @@
   ],
   "IwVGQs": [
     "Ukryj zaawansowane ustawienia paska czatu"
-  ],
-  "IwWQgO": [
-    "Nitro zwiększa limit przypomnień z ",
-    [
-      2,
-      "max"
-    ],
-    " do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Możesz też usunąć przypomnienie, aby zwolnić miejsce."
   ],
   "IwZbbP": [
     "Obniż głośność oglądanych transmisji GoLive, gdy inni mówią."
@@ -61663,31 +61661,6 @@
   "MY9/Oe": [
     "Bieżąca gra"
   ],
-  "MYFohD": [
-    "Osiągnięto limit przypomnień. Zdobądź ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", aby mieć tyle przypomnień: ",
-    [
-      2,
-      "premiumMax"
-    ],
-    "."
-  ],
   "MYgdY2": [
     "Dodaj ostrzeżenie o spoilerze do klipu"
   ],
@@ -63933,33 +63906,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro zwiększa limit przypomnień z ",
-    [
-      2,
-      "max"
-    ],
-    " do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Możesz też ",
-    [
-      8,
-      "$link",
-      [
-        "usunąć przypomnienie"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", aby zwolnić miejsce."
   ],
   "NRI6vt": [
     "Jeśli potrzebujesz kopii swoich danych osobowych z całej historii konta, możesz ją tu uzyskać. ",
@@ -67992,14 +67938,6 @@
       ]
     ],
     " nie akceptuje zaproszeń do grona znajomych. Abyście zostali znajomymi, musi cię najpierw dodać."
-  ],
-  "Oxm3Sq": [
-    "Zdobądź do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " zakładek"
   ],
   "OxveI8": [
     [
@@ -81501,9 +81439,6 @@
   "URSMet": [
     "Treści seksualne"
   ],
-  "URrJq1": [
-    "Zarządzaj najważniejszymi wiadomościami z pomocą Nitro."
-  ],
   "URt7VI": [
     "Popełniliśmy błąd? Daj nam znać."
   ],
@@ -85499,14 +85434,6 @@
   ],
   "W+NB90": [
     "Pokaż w sklepie"
-  ],
-  "W+ZaoS": [
-    "Twórz jeszcze więcej przypomnień dzięki ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Przeciągnij palcem z prawej do lewej z dowolnego miejsca, aby aktywować uruchamiany z prawej krawędzi ekranu Launch Pad (w systemie Android może to powodować konflikty z działającymi gestami systemowymi; w sytuacji, gdy funkcja odpowiadania przeciągnięciem palca jest włączona, mogą pojawiać się problemy wymagające rozwiązania)."
@@ -92138,9 +92065,6 @@
   ],
   "YXeWYM": [
     "Edytuj wyświetlaną nazwę"
-  ],
-  "YXk6N7": [
-    "Zachowaj porządek dzięki zakładkom"
   ],
   "YYDILY": [
     "Wzmacniaj serwery, aby okazywać wsparcie i odblokowywać fajne korzyści dla znajomych."
@@ -101755,6 +101679,9 @@
     "świnia",
     "zwierzę"
   ],
+  "boclBe": [
+    "Ceny od"
+  ],
   "bomb": [
     "bomba",
     "bum",
@@ -105804,14 +105731,6 @@
   ],
   "cpgfFk": [
     "Dołączył zablokowany przez Ciebie użytkownik."
-  ],
-  "cpj9o/": [
-    "Zdobądź do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " przypomnień"
   ],
   "cpqhYg": [
     "Nie udało się potwierdzić, czy płatność została zrealizowana. Zanim spróbujesz ponownie, zaloguj się i sprawdź swoją subskrypcję."
@@ -123889,6 +123808,9 @@
   "j4gGA4": [
     "Wygląda na to, że głośność Twojego urządzenia wejścia jest ustawiona na zero w Ustawieniach systemu Windows. Naprawmy to!"
   ],
+  "j4n5/K": [
+    "Dowiedz się więcej"
+  ],
   "j4qu8n": [
     "Ponownie wysłano e-mail weryfikacyjny. Sprawdź pocztę e-mail."
   ],
@@ -131271,9 +131193,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Zarządzaj najważniejszymi wiadomościami, tylko z Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -137315,14 +137234,6 @@
   "noAHwA": [
     "Włączono tryb samolotowy."
   ],
-  "noGK/D": [
-    "POZOSTAŁO ",
-    [
-      2,
-      "days"
-    ],
-    " DNI"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -138135,33 +138046,6 @@
   ],
   "o572Fe": [
     "Nie można znaleźć oznaczonej wiadomości."
-  ],
-  "o5OLyw": [
-    "Nitro zwiększa limit zakładek z ",
-    [
-      2,
-      "max"
-    ],
-    " do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Możesz też ",
-    [
-      8,
-      "$link",
-      [
-        "usunąć zakładkę"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", aby zwolnić miejsce."
   ],
   "o5azXJ": [
     "Dotyczy to również zdjęć lub filmów, na których utworzenie mogłeś(-aś) pierwotnie wyrazić zgodę, ale nie wyraziłeś(-aś) zgody na ich udostępnienie. Nie ma limitu czasowego – możesz zgłosić treści niezależnie od tego, kiedy zostały utworzone lub opublikowane."
@@ -145708,25 +145592,6 @@
   "qXeYHw": [
     "Standardowe"
   ],
-  "qXh3fo": [
-    "Twórz zakładki i przypomnienia za pomocą ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Usuń przerwę"
   ],
@@ -152354,19 +152219,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "Nitro zwiększa limit zakładek z ",
-    [
-      2,
-      "max"
-    ],
-    " do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Możesz też usunąć zakładkę, aby zwolnić miejsce."
   ],
   "sgiPrC": [
     "Nieprzypisani: ",
@@ -162764,9 +162616,6 @@
   ],
   "w4+/BA": [
     "Generuj"
-  ],
-  "w4DRbZ": [
-    "Zachowaj porządek dzięki zakładkom"
   ],
   "w4GEvw": [
     "Pozostało ",

@@ -7047,14 +7047,6 @@
     ],
     " sur Nitro"
   ],
-  "0hoV2D": [
-    "Enregistre encore plus de messages avec ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -18961,19 +18953,6 @@
   ],
   "5VmbbF": [
     "Émojis trop nombreux"
-  ],
-  "5VsCaT": [
-    "Limite de signets atteinte. Passe à ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " pour ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " signets."
   ],
   "5W9wWF": [
     "Gérer les paramètres"
@@ -39683,19 +39662,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Limite de rappels atteinte. Passe à ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " pour ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " rappels."
-  ],
   "E+qms7": [
     "Fais un clic droit sur n'importe quel message et sélectionne ",
     [
@@ -40037,6 +40003,18 @@
   ],
   "E7Dg31": [
     "L'application ne marche pas/plante/a des bugs chez moi"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " t'a offert Nitro pendant ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " mois !"
   ],
   "E7oO8u": [
     "Ce post a été verrouillé. Seuls les modérateurs peuvent y envoyer des messages."
@@ -42388,9 +42366,6 @@
   "F6rmyq": [
     "Tu veux que les émojis se déhanchent ?"
   ],
-  "F6u3E3": [
-    "Gère tes messages les plus importants, uniquement avec Nitro."
-  ],
   "F75nNl": [
     "Échec de la sauvegarde de la réaction par défaut"
   ],
@@ -42946,9 +42921,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Ça t'a plu ? Marque-le pour garder tes souvenirs préférés au même endroit."
-  ],
   "FMbL3s": [
     "Échec de l'effacement"
   ],
@@ -42970,31 +42942,6 @@
       "user"
     ],
     "' temporairement"
-  ],
-  "FNFCVJ": [
-    "Limite de signets atteinte. Passe à ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pour ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " signets."
   ],
   "FNVJ4+": [
     "Décoration d'avatar gratuite pour ton profil !"
@@ -44342,6 +44289,13 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " mois de Nitro"
   ],
   "G1u0hK": [
     "Maximiser"
@@ -51899,19 +51853,6 @@
   ],
   "IwVGQs": [
     "Masquer les paramètres avancés de la barre de discussion"
-  ],
-  "IwWQgO": [
-    "Nitro augmente ta limite de rappels de ",
-    [
-      2,
-      "max"
-    ],
-    " à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Tu peux aussi supprimer un rappel pour faire de la place."
   ],
   "IwZbbP": [
     "Diminue le volume des streams GoLive que tu regardes lorsque d'autres personnes parlent."
@@ -60182,31 +60123,6 @@
   "MY9/Oe": [
     "Jeu actuel"
   ],
-  "MYFohD": [
-    "Limite de rappels atteinte. Passe à ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pour ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " rappels."
-  ],
   "MYgdY2": [
     "Ajouter un spoiler"
   ],
@@ -62381,33 +62297,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro augmente ta limite de rappels de ",
-    [
-      2,
-      "max"
-    ],
-    " à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Tu peux aussi ",
-    [
-      8,
-      "$link",
-      [
-        "supprimer un rappel"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pour libérer de la place."
   ],
   "NRI6vt": [
     "Si tu as besoin d'une copie de tes données personnelles de tout l'historique de ton compte, tu peux les obtenir ici. ",
@@ -66343,14 +66232,6 @@
       ]
     ],
     " n'accepte pas les demandes d'amis. Cette personne devra t'ajouter pour que vous deveniez amis."
-  ],
-  "Oxm3Sq": [
-    "Obtiens jusqu'à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " signets"
   ],
   "OxveI8": [
     [
@@ -79423,9 +79304,6 @@
   "URSMet": [
     "Contenu sexuel"
   ],
-  "URrJq1": [
-    "Gère tes messages les plus importants avec Nitro."
-  ],
   "URt7VI": [
     "Avons-nous fait une erreur ? Fais-le nous savoir."
   ],
@@ -83378,14 +83256,6 @@
   ],
   "W+NB90": [
     "Voir dans la boutique"
-  ],
-  "W+ZaoS": [
-    "Crée encore plus de rappels avec ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Utilise un geste global de droite à gauche pour activer le LaunchPad que tu actives depuis le bord droit (sur Android, cela peut entrer en conflit avec les gestes du système si tu les as activés ; par ailleurs, bien que cela maintienne la fonction Glisser-pour-répondre activée, il peut y avoir des conflits que nous devons encore résoudre)."
@@ -89879,9 +89749,6 @@
   ],
   "YXeWYM": [
     "Modifier le nom d'affichage"
-  ],
-  "YXk6N7": [
-    "Reste organisé(e) avec les messages marqués"
   ],
   "YYDILY": [
     "Booste des serveurs pour montrer ton soutien et déverrouille de fantastiques avantages pour tes amis."
@@ -99323,6 +99190,9 @@
     "Game of Thrones",
     "sanglier"
   ],
+  "boclBe": [
+    "À partir de"
+  ],
   "bomb": [
     "bande dessinée",
     "BD",
@@ -103303,14 +103173,6 @@
   ],
   "cpgfFk": [
     "Une personne que tu as bloquée vient d'arriver."
-  ],
-  "cpj9o/": [
-    "Reçois jusqu'à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " marquages"
   ],
   "cpqhYg": [
     "Nous n'avons pas pu confirmer si ce paiement a été effectué. Connecte-toi pour vérifier ton abonnement avant de réessayer."
@@ -121070,6 +120932,9 @@
   "j4gGA4": [
     "On dirait que le volume de ton périphérique d'entrée est réglé sur zéro dans les paramètres Windows. Allons régler ça !"
   ],
+  "j4n5/K": [
+    "En savoir plus"
+  ],
   "j4qu8n": [
     "E-mail de vérification renvoyé, merci de vérifier ta boîte de réception."
   ],
@@ -128366,9 +128231,6 @@
   "m/GC8z": [
     "Modérateur"
   ],
-  "m/HzW8": [
-    "Gère tes messages les plus importants, uniquement avec Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -134235,13 +134097,6 @@
   "noAHwA": [
     "Mode avion activé."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    " jour(s) restant(s)"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -135041,33 +134896,6 @@
   ],
   "o572Fe": [
     "Un message que tu as marqué n'a pas pu être trouvé."
-  ],
-  "o5OLyw": [
-    "Nitro augmente ta limite de signets de ",
-    [
-      2,
-      "max"
-    ],
-    " à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Tu peux aussi ",
-    [
-      8,
-      "$link",
-      [
-        "supprimer un signet"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pour libérer de la place."
   ],
   "o5azXJ": [
     "Cela inclut les images ou vidéos dont tu as à la base consenti la création, mais que tu n'as pas consenti à partager. Il n'y a aucune limite de temps ou prescription : tu peux signaler du contenu quelle que soit la date à laquelle il a été créé ou publié."
@@ -142517,25 +142345,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Marque des messages et crée des rappels avec ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Arrêter d’exclure"
   ],
@@ -148806,19 +148615,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "Nitro augmente ta limite de signets de ",
-    [
-      2,
-      "max"
-    ],
-    " à ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Tu peux aussi supprimer un signet pour faire de la place."
   ],
   "sgiPrC": [
     [
@@ -159110,9 +158906,6 @@
   ],
   "w4+/BA": [
     "Générer"
-  ],
-  "w4DRbZ": [
-    "Reste organisé(e) avec les messages marqués"
   ],
   "w4GEvw": [
     [

@@ -6911,13 +6911,6 @@
     ],
     ":n alennus Nitrosta"
   ],
-  "0hoV2D": [
-    [
-      1,
-      "nitroTierName"
-    ],
-    " antaa tallentaa vieläkin enemmän viestejä."
-  ],
   "0hpvOV": [
     [
       1,
@@ -18774,19 +18767,6 @@
   ],
   "5VmbbF": [
     "Liian monta emojia"
-  ],
-  "5VsCaT": [
-    "Kirjanmerkkien enimmäismäärä on täynnä. Hanki ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    ", niin saat ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " kirjanmerkkiä."
   ],
   "5W9wWF": [
     "Hallinnoi asetuksia"
@@ -39189,19 +39169,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Muistutusten enimmäismäärä on täynnä. Hanki ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    ", niin saat ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " muistutusta."
-  ],
   "E+qms7": [
     "Napsauta mitä tahansa viestiä hiiren kakkospainikkeella ja valitse sitten ",
     [
@@ -39543,6 +39510,18 @@
   ],
   "E7Dg31": [
     "Sovellus ei toimi / kaatuilee / toimii huonosti käytössäni"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " on lahjoittanut sinulle Nitron ",
+    [
+      2,
+      "intervalCount"
+    ],
+    "# kuukaudeksi}}!"
   ],
   "E7oO8u": [
     "Tämä viesti on lukittu. Vain valvojat voivat lähettää viestejä."
@@ -41869,9 +41848,6 @@
   "F6rmyq": [
     "Yritätkö muuvata ja gruuvata?"
   ],
-  "F6u3E3": [
-    "Hallinnoi tärkeimpiä viestejäsi – vain Nitro-tilauksella."
-  ],
   "F75nNl": [
     "Oletusreaktion tallennus ei onnistunut"
   ],
@@ -42426,9 +42402,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Oliko viesti mieleinen? Tallenna se muiden mieluisten joukkoon lisäämällä se kirjanmerkiksi."
-  ],
   "FMbL3s": [
     "Tyhjennys epäonnistui"
   ],
@@ -42450,31 +42423,6 @@
       "user"
     ],
     " jäähylle"
-  ],
-  "FNFCVJ": [
-    "Kirjanmerkkien enimmäismäärä on täynnä. Hanki ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", niin saat ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " kirjanmerkkiä."
   ],
   "FNVJ4+": [
     "Ilmainen avatar-koriste profiiliasi varten!"
@@ -43803,6 +43751,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " kuukausi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " kuukautta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitroa"
   ],
   "G1u0hK": [
     "Suurenna"
@@ -51273,19 +51244,6 @@
   ],
   "IwVGQs": [
     "Piilota keskustelupalkin lisäasetukset"
-  ],
-  "IwWQgO": [
-    "Normaalisti voit tallentaa ",
-    [
-      2,
-      "max"
-    ],
-    " muistutusta, Nitrolla voisit tallentaa niitä ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Voit myös tehdä tilaa poistamalla jonkin muistutuksen."
   ],
   "IwZbbP": [
     "Laske katselemiesi GoLive-striimien äänenvoimakkuutta, kun muut puhuvat."
@@ -59455,31 +59413,6 @@
   "MY9/Oe": [
     "Nykyinen peli"
   ],
-  "MYFohD": [
-    "Muistutusten enimmäismäärä on täynnä. Hanki ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", niin saat ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " muistutusta."
-  ],
   "MYgdY2": [
     "Spoilerileike"
   ],
@@ -61649,33 +61582,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Normaalisti voit tallentaa ",
-    [
-      2,
-      "max"
-    ],
-    " muistutusta, Nitrolla voisit tallentaa niitä ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Voit myös tehdä tilaa ",
-    [
-      8,
-      "$link",
-      [
-        "poistamalla jonkin muistutuksen"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    "."
   ],
   "NRI6vt": [
     "Jos tarvitset omat henkilötiedot tarkistettaviksi tilisi historian koko ajalta, se onnistuu täältä. ",
@@ -65587,13 +65493,6 @@
       ]
     ],
     " ei ota vastan kaverikutsuja. Käyttäjän on lisättävä sinut kaveriksi itse."
-  ],
-  "Oxm3Sq": [
-    "Nosta kirjanmerkkien enimmäismääräksi ",
-    [
-      2,
-      "premiumMax"
-    ]
   ],
   "OxveI8": [
     [
@@ -78536,9 +78435,6 @@
   "URSMet": [
     "Seksuaalista sisältöä"
   ],
-  "URrJq1": [
-    "Hallinnoi tärkeimpiä viestejäsi Nitro-tilauksella."
-  ],
   "URt7VI": [
     "Olemmeko tehneet virheen? Kerro siitä meille."
   ],
@@ -82471,13 +82367,6 @@
   ],
   "W+NB90": [
     "Näytä kaupassa"
-  ],
-  "W+ZaoS": [
-    [
-      1,
-      "nitroTierName"
-    ],
-    " antaa tallentaa vieläkin enemmän muistutuksia."
   ],
   "W+cPjG": [
     "Aktivoi oikeasta reunasta avattava käynnistysruutu kaikkialla pyyhkäisyllä oikealta vasemmalle (Androidilla tämä saattaa aiheuttaa ristiriitoja järjestelmän kosketuseleiden kanssa, jos ne ovat käytössä, ja vaikka tämä asetus pitää pyyhkäisemällä vastaamisen käytössä, asetus saattaa aiheuttaa ristiriitoja, jotka on korjattava)."
@@ -88832,9 +88721,6 @@
   ],
   "YXeWYM": [
     "Muokkaa näyttönimeä"
-  ],
-  "YXk6N7": [
-    "Paranna järjestystä kirjanmerkeillä"
   ],
   "YYDILY": [
     "Näytä tukesi nostattamalla palvelimia ja avaa upeita etuja kavereidesi käyttöön."
@@ -97951,6 +97837,9 @@
     "possu",
     "sika"
   ],
+  "boclBe": [
+    "Alkaen"
+  ],
   "bomb": [
     "pommi",
     "räjähdys",
@@ -101667,13 +101556,6 @@
   ],
   "cpgfFk": [
     "Estämäsi henkilö on liittynyt."
-  ],
-  "cpj9o/": [
-    "Nosta muistutusten enimmäismääräksi ",
-    [
-      2,
-      "premiumMax"
-    ]
   ],
   "cpqhYg": [
     "Maksun onnistumista ei voitu vahvistaa. Kirjaudu sisään ja tarkista tilauksesi ennen kuin yrität uudelleen."
@@ -118896,6 +118778,9 @@
   "j4gGA4": [
     "Syöttölaitteesi äänenvoimakkuus näyttää olevan asetettuna nollaksi Windows-asetuksissa. Korjataan asia!"
   ],
+  "j4n5/K": [
+    "Lue lisää"
+  ],
   "j4qu8n": [
     "Vahvistusviesti lähetetty uudelleen, tarkista sähköpostisi."
   ],
@@ -125968,9 +125853,6 @@
   "m/GC8z": [
     "Valvoja"
   ],
-  "m/HzW8": [
-    "Hallinnoi tärkeimpiä viestejäsi – vain Nitro-tilauksella."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -131598,13 +131480,6 @@
   "noAHwA": [
     "Lentokonetila on käytössä."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    " PV JÄLJELLÄ"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -132393,33 +132268,6 @@
   ],
   "o572Fe": [
     "Kirjanmerkillä merkittyä viestiä ei löytynyt."
-  ],
-  "o5OLyw": [
-    "Normaalisti voit tallentaa ",
-    [
-      2,
-      "max"
-    ],
-    " kirjanmerkkiä, Nitrolla voisit tallentaa niitä ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Voit myös tehdä tilaa ",
-    [
-      8,
-      "$link",
-      [
-        "poistamalla jonkin kirjanmerkin"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    "."
   ],
   "o5azXJ": [
     "Tämä koskee myös kuvia tai videoita, joiden luomiseen olet alun perin antanut suostumuksen mutta joiden jakamiseen et ole suostunut. Aikarajaa ei ole – voit ilmiantaa sisällön sen luonti- tai julkaisuajankohdasta riippumatta."
@@ -139409,25 +139257,6 @@
   "qXeYHw": [
     "Vakio"
   ],
-  "qXh3fo": [
-    "Luo kirjanmerkkejä ja muistutuksia tasolla ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Peruuta jäähy"
   ],
@@ -145523,19 +145352,6 @@
       "cardinal"
     ],
     " vapaana"
-  ],
-  "sgXqR1": [
-    "Normaalisti voit tallentaa ",
-    [
-      2,
-      "max"
-    ],
-    " kirjanmerkkiä, Nitrolla voisit tallentaa niitä ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Voit myös tehdä tilaa poistamalla jonkin kirjanmerkin."
   ],
   "sgiPrC": [
     [
@@ -155390,9 +155206,6 @@
   ],
   "w4+/BA": [
     "Luo"
-  ],
-  "w4DRbZ": [
-    "Paranna järjestystä kirjanmerkeillä"
   ],
   "w4GEvw": [
     [

@@ -7061,14 +7061,6 @@
     ],
     " la Nitro"
   ],
-  "0hoV2D": [
-    "Salvează și mai multe mesaje cu ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19138,19 +19130,6 @@
   ],
   "5VmbbF": [
     "Prea multe emojiuri"
-  ],
-  "5VsCaT": [
-    "S-a atins limita de favorite. Ia-ți ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " pentru ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favorite."
   ],
   "5W9wWF": [
     "Gestionează setările"
@@ -39839,19 +39818,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "S-a atins limita de mementouri. Ia-ți ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " pentru ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " mementouri."
-  ],
   "E+qms7": [
     "Dă clic dreapta pe orice mesaj și alege ",
     [
@@ -40192,6 +40158,34 @@
   ],
   "E7Dg31": [
     "Aplicația nu merge/se blochează/dă erori"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " ți-a dăruit ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro!"
   ],
   "E7oO8u": [
     "Această postare este blocată. Numai moderatorii pot trimite mesaje."
@@ -42574,9 +42568,6 @@
   "F6rmyq": [
     "Încerci să te miști în ritmul dansului?"
   ],
-  "F6u3E3": [
-    "Gestionează-ți cele mai importante mesaje, doar cu Nitro."
-  ],
   "F75nNl": [
     "Nu s-a salvat reacția implicită"
   ],
@@ -43133,9 +43124,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Ți-a plăcut? Adaugă la favorite și păstrează-ți amintirile preferate într-un singur loc."
-  ],
   "FMbL3s": [
     "Eliminarea nu a reușit"
   ],
@@ -43157,31 +43145,6 @@
       "user"
     ],
     "'"
-  ],
-  "FNFCVJ": [
-    "S-a atins limita de favorite. Ia-ți ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pentru ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favorite."
   ],
   "FNVJ4+": [
     "Împodobește-ți profilul cu o decorațiune gratuită pentru avatar!"
@@ -44526,6 +44489,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro"
   ],
   "G1u0hK": [
     "Maximizează"
@@ -52118,19 +52104,6 @@
   ],
   "IwVGQs": [
     "Ascunde setările avansate ale barei de chat"
-  ],
-  "IwWQgO": [
-    "Nitro îți crește limita de mementouri de la ",
-    [
-      2,
-      "max"
-    ],
-    " la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Alternativ, poți șterge un memento pentru a face loc."
   ],
   "IwZbbP": [
     "Atunci când vorbesc alții, scade volumul streamurilor GoLive la care te uiți."
@@ -60421,31 +60394,6 @@
   "MY9/Oe": [
     "Jocul curent"
   ],
-  "MYFohD": [
-    "S-a atins limita de mementouri. Ia-ți ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pentru ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " mementouri."
-  ],
   "MYgdY2": [
     "Setează spoiler pentru clip"
   ],
@@ -62631,33 +62579,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro îți crește limita de mementouri de la ",
-    [
-      2,
-      "max"
-    ],
-    " la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Alternativ, poți ",
-    [
-      8,
-      "$link",
-      [
-        "șterge un memento"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pentru a face loc."
   ],
   "NRI6vt": [
     "Dacă ai nevoie de o copie a datelor cu caracter personal din întregul istoric al contului tău, o poți obține aici. ",
@@ -66629,14 +66550,6 @@
       ]
     ],
     " nu acceptă cereri de prietenie. Pentru a deveni prieteni, utilizatorul va trebui să te adauge pe tine."
-  ],
-  "Oxm3Sq": [
-    "Obține până la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favorite"
   ],
   "OxveI8": [
     [
@@ -79753,9 +79666,6 @@
   "URSMet": [
     "Conținut sexual"
   ],
-  "URrJq1": [
-    "Gestionează-ți cele mai importante mesaje cu Nitro."
-  ],
   "URt7VI": [
     "Am făcut o greșeală? Dă-ne de știre."
   ],
@@ -83657,14 +83567,6 @@
   ],
   "W+NB90": [
     "Vizualizează în Magazin"
-  ],
-  "W+ZaoS": [
-    "Creează și mai multe mementouri cu ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Folosește oriunde un gest de la dreapta la stânga pentru a activa Launch Padul, pe care-l activezi dinspre marginea dreaptă (pe Android poate exista un conflict cu alte gesturi din sistem, dacă le ai activate. Chiar dacă opțiunea păstrează activă funcția de glisare pentru a răspunde în chat, s-ar putea să trebuiască să rezolvăm alte conflicte)."
@@ -90182,9 +90084,6 @@
   ],
   "YXeWYM": [
     "Editează numele afișat"
-  ],
-  "YXk6N7": [
-    "Organizează-te folosind favoritele"
   ],
   "YYDILY": [
     "Stimulează serverele pentru a arăta că le susții și deblochează avantaje pentru prieteni."
@@ -99861,6 +99760,9 @@
     "porc",
     "vier"
   ],
+  "boclBe": [
+    "Începe de la"
+  ],
   "bomb": [
     "bandă desenată",
     "benzi desenate",
@@ -104042,14 +103944,6 @@
   ],
   "cpgfFk": [
     "Un utilizator pe care l-ai blocat s-a alăturat."
-  ],
-  "cpj9o/": [
-    "Obține până la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " mementouri"
   ],
   "cpqhYg": [
     "Nu am putut confirma dacă această plată a fost efectuată. Autentifică-te pentru a-ți verifica abonamentul și încearcă din nou."
@@ -122240,6 +122134,9 @@
   "j4gGA4": [
     "Se pare că volumul dispozitivului tău de intrare este setat la zero din setările Windows. Hai să rezolvăm problema!"
   ],
+  "j4n5/K": [
+    "Află mai multe"
+  ],
   "j4qu8n": [
     "E-mail de verificare retrimis, verifică-ți e-mailul."
   ],
@@ -129634,9 +129531,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Gestionează-ți cele mai importante mesaje, doar cu Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -135634,14 +135528,6 @@
   "noAHwA": [
     "Modul Avion este activ."
   ],
-  "noGK/D": [
-    "TIMP RĂMAS: ",
-    [
-      2,
-      "days"
-    ],
-    " Z"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -136473,33 +136359,6 @@
   ],
   "o572Fe": [
     "Nu s-a putut găsi un mesaj pe care l-ai salvat la favorite."
-  ],
-  "o5OLyw": [
-    "Nitro îți crește limita de favorite de la ",
-    [
-      2,
-      "max"
-    ],
-    " la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Alternativ, poți ",
-    [
-      8,
-      "$link",
-      [
-        "șterge ceva de la favoritej"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pentru a face loc."
   ],
   "o5azXJ": [
     "Aici sunt incluse imaginile sau clipurile video la a căror creare ai consimțit inițial, dar pentru distribuția cărora nu ți-ai dat consimțământul. Nu există nicio limită de timp, poți raporta conținutul indiferent când a fost creat sau postat."
@@ -144095,25 +143954,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Creează favorite și mementouri cu ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Scoate din pauză"
   ],
@@ -150604,19 +150444,6 @@
       "cardinal"
     ],
     " disponibil(e)"
-  ],
-  "sgXqR1": [
-    "Nitro îți crește limita de favorite de la ",
-    [
-      2,
-      "max"
-    ],
-    " la ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Alternativ, poți șterge ceva de la favorite pentru a face loc."
   ],
   "sgiPrC": [
     [
@@ -161275,9 +161102,6 @@
   ],
   "w4+/BA": [
     "Generează"
-  ],
-  "w4DRbZ": [
-    "Organizează-te folosind favoritele"
   ],
   "w4GEvw": [
     "Timp rămas: ",

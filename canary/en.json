@@ -781,6 +781,9 @@
   "+HM0x2": [
     "Couldn't leave those Group DMs. Please try again."
   ],
+  "+HMF8k": [
+    "Nitroween"
+  ],
   "+HS9+m": [
     "Tags will be displayed in the order you select them"
   ],
@@ -2402,6 +2405,13 @@
   "+urf75": [
     "Enhance your Discord experience!"
   ],
+  "+utqaz": [
+    "Gift Background Option: ",
+    [
+      1,
+      "giftStyle"
+    ]
+  ],
   "+uwOHt": [
     "Sidekick"
   ],
@@ -2504,9 +2514,6 @@
   ],
   "+xqy3d": [
     "Enter your confirmation code to reset your password"
-  ],
-  "+xs8ZP": [
-    "GTA VI"
   ],
   "+xsVS6": [
     "Mention ",
@@ -3205,6 +3212,9 @@
   ],
   "/8psS7": [
     "Activity controls were confusing"
+  ],
+  "/8znyU": [
+    "Send another gift to collect them all"
   ],
   "/91tbr": [
     "Notify users with this role who have permission to view this channel."
@@ -7526,14 +7536,6 @@
     ],
     " off Nitro"
   ],
-  "0hoV2D": [
-    "Save even more messages with ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -7700,6 +7702,28 @@
   ],
   "0n7R2X": [
     "Disable Monetization"
+  ],
+  "0nFw35": [
+    [
+      6,
+      "durationCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month of Nitro"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months of Nitro"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "0nTvEw": [
     "This will clear ",
@@ -9855,6 +9879,22 @@
   "1fRDnT": [
     "Resume Video"
   ],
+  "1fYyf4": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Your reward is ready"
+        ],
+        "other": [
+          "Your rewards are ready"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "1g9A/f": [
     "Community"
   ],
@@ -10747,6 +10787,9 @@
   ],
   "23xR5w": [
     "Caches Cleared!"
+  ],
+  "24Kzud": [
+    "FUNNY JOKE COMBO"
   ],
   "24PAJ+": [
     "This message was blocked by AutoMod. The message may also be viewed by the community owners."
@@ -11852,9 +11895,6 @@
       1,
       "tier"
     ]
-  ],
-  "2UCcmW": [
-    "Limited Time"
   ],
   "2US872": [
     "Undeafen"
@@ -13885,6 +13925,9 @@
   "3CqDxp": [
     "Enable Quality of Service High Packet Priority"
   ],
+  "3D0GLv": [
+    "View Nitro Emojis"
+  ],
   "3D5eox": [
     "WOAH THERE. WAY TOO SPICY"
   ],
@@ -15508,6 +15551,22 @@
   ],
   "3iccet": [
     "Sticker Slots"
+  ],
+  "3ihAAO": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "You earned a free decoration"
+        ],
+        "other": [
+          "You earned free decorations"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "3ilveh": [
     "Never mind"
@@ -18773,6 +18832,9 @@
   "5/NS74": [
     "Remove from Favorites"
   ],
+  "5/WCf/": [
+    "1K SUPER COMBO"
+  ],
   "5/Xort": [
     "Are you sure you want to disconnect from ",
     [
@@ -20010,19 +20072,6 @@
   "5VmbbF": [
     "Too many emoji"
   ],
-  "5VsCaT": [
-    "Bookmark limit reached. Get ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
-  ],
   "5W9wWF": [
     "Manage Settings"
   ],
@@ -20169,9 +20218,6 @@
   ],
   "5YsmGI": [
     "Activity sharing is paused"
-  ],
-  "5Z2qmz": [
-    "EXTEND PERK"
   ],
   "5Z5sgj": [
     "Keep up with book news"
@@ -20591,6 +20637,9 @@
       1,
       "nitroTierName"
     ]
+  ],
+  "5ifydJ": [
+    "5K STILL GOING COMBO"
   ],
   "5iq4Hf": [
     "Experimental Features"
@@ -23133,6 +23182,9 @@
   "6d44F5": [
     "You can only use certain payment methods for this purchase."
   ],
+  "6dCq/u": [
+    "Cup"
+  ],
   "6dGmCD": [
     "Start Time"
   ],
@@ -23303,6 +23355,9 @@
   ],
   "6hn0xF": [
     "Use Boosts to unlock a Server Tag and Enhanced Role Styles!"
+  ],
+  "6hvboB": [
+    "100K TOO MANY SOUNDS COMBO"
   ],
   "6iNxrl": [
     [
@@ -25550,6 +25605,22 @@
     ],
     "."
   ],
+  "7Zw7AB": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "Gift ready for delivery"
+        ],
+        "other": [
+          "Gifts ready for delivery"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "7aNIkW": [
     "React with custom emoji from any server and unlock exclusive animations ",
     [
@@ -26723,6 +26794,9 @@
   ],
   "7yM5iL": [
     "You must wait two months before you can reapply."
+  ],
+  "7yaXr8": [
+    "Snag a free decoration"
   ],
   "7ycqkx": [
     "7ycqkx"
@@ -31902,6 +31976,9 @@
     ],
     " months until you cancel. Prices subject to change with notice to you. You may cancel anytime."
   ],
+  "9xo1g9": [
+    "Available at select retailers online and in-stores"
+  ],
   "9yE8Ga": [
     "Slowmode is enabled. Members can create one post every ",
     [
@@ -32647,6 +32724,9 @@
   ],
   "AIszv8": [
     "off-topic"
+  ],
+  "AJ4iir": [
+    "Cake"
   ],
   "AJfv3T": [
     "Briefly describe what your server is about. New members will see this when they try to join."
@@ -33960,6 +34040,28 @@
       "cardinal"
     ]
   ],
+  "Aq6Jxd": [
+    [
+      6,
+      "durationCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " year of Nitro"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " years of Nitro"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "AqGrEI": [
     "Preview emoji, mentions, and markdown syntax as you type"
   ],
@@ -34191,6 +34293,28 @@
   ],
   "Ax89/c": [
     "Please save before publishing"
+  ],
+  "AxON/M": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Gift"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Gifts"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "AxRAWt": [
     "Expression picker format"
@@ -34853,6 +34977,9 @@
   "B9QnBp": [
     "You can't remove your vote unless you're a member."
   ],
+  "B9XqQk": [
+    "Box"
+  ],
   "B9eJyW": [
     "Apply Now"
   ],
@@ -34999,6 +35126,9 @@
   ],
   "BENn/6": [
     "All Live Stages"
+  ],
+  "BETi5Z": [
+    "Preview Server"
   ],
   "BEWw/7": [
     "double tap to play video and enlarge"
@@ -38014,6 +38144,28 @@
   ],
   "CIsNZw": [
     "Integrations"
+  ],
+  "CJ0I6C": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " more participant"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " more participants"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "CJ30BP": [
     "Stop Speaking Message"
@@ -41456,19 +41608,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Reminder limit reached. Get ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders."
-  ],
   "E+qms7": [
     "Right-click any message and pick ",
     [
@@ -41813,6 +41952,34 @@
   ],
   "E7Dg31": [
     "The app isn't working/crashes/is glitchy for me"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " has gifted you Nitro for ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "This post has been locked. Only moderators can send messages."
@@ -43042,6 +43209,9 @@
   ],
   "EbwFfR": [
     "Upload Logs"
+  ],
+  "Ec5lqb": [
+    "DISCORD BIRTHDAY COMBO"
   ],
   "EcHzWI": [
     "Listening on ",
@@ -44329,9 +44499,6 @@
   "F6rmyq": [
     "Trying to move and groove?"
   ],
-  "F6u3E3": [
-    "Manage your most important messages, only with Nitro."
-  ],
   "F75nNl": [
     "Failed to save default reaction"
   ],
@@ -44958,9 +45125,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Loved that one? Bookmark it to keep your favorite memories in one place."
-  ],
   "FMbL3s": [
     "Clear failed"
   ],
@@ -44982,31 +45146,6 @@
       "user"
     ],
     "'"
-  ],
-  "FNFCVJ": [
-    "Bookmark limit reached. Get ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
   ],
   "FNVJ4+": [
     "Free avatar decoration for your profile!"
@@ -46436,6 +46575,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " of Nitro"
   ],
   "G1u0hK": [
     "Maximize"
@@ -48834,6 +48996,9 @@
   "GqvDkk": [
     "You haven't made any transactions yet."
   ],
+  "Gr02vu": [
+    "Send more gifts"
+  ],
   "GrEzlX": [
     "Your account doesn’t meet the requirements to join right now. Learn more about eligibility below."
   ],
@@ -49144,6 +49309,9 @@
   "GzMFnb": [
     "This will send a connection request to your teen, like magic!"
   ],
+  "GzPel1": [
+    "Box"
+  ],
   "Gzc/a8": [
     "Remove access to channel."
   ],
@@ -49414,6 +49582,9 @@
   ],
   "H3mPDT": [
     "Release Date"
+  ],
+  "H3pTAa": [
+    "Select quantity"
   ],
   "H3vhqU": [
     "Buy Nameplate"
@@ -51885,6 +52056,9 @@
   "I509Dl": [
     "Want to Play"
   ],
+  "I5UWh9": [
+    "Get Nitro, Shop items, Server Boosts, and more"
+  ],
   "I5dYFs": [
     [
       8,
@@ -54272,19 +54446,6 @@
   "IwVGQs": [
     "Hide Advanced Chat Bar Settings"
   ],
-  "IwWQgO": [
-    "Nitro raises your reminder limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also delete a reminder to make room."
-  ],
   "IwZbbP": [
     "Lower the volume of GoLive streams you're watching when others speak."
   ],
@@ -54988,9 +55149,6 @@
       1,
       "orbPrice"
     ]
-  ],
-  "JC4Pii": [
-    "GTA VI"
   ],
   "JC9BXn": [
     "Revert Translation"
@@ -55759,6 +55917,9 @@
   ],
   "JZxxGx": [
     "Speak all messages out loud"
+  ],
+  "Ja5Q8Z": [
+    "Give a Discord gift card today"
   ],
   "JaIyFi": [
     "You cannot have more than ",
@@ -58205,6 +58366,9 @@
   "KiRbLJ": [
     "A member who has clicked into the server and viewed a channel."
   ],
+  "KiYrRC": [
+    "LEAP YEAR COMBO"
+  ],
   "Kj5GIT": [
     "You will receive the ",
     [
@@ -59768,6 +59932,9 @@
         ]
       ]
     ]
+  ],
+  "LKiPeX": [
+    "200 HIT COMBO"
   ],
   "LKpYbi": [
     "Text (Active Threads)"
@@ -61602,6 +61769,9 @@
       "deviceType"
     ]
   ],
+  "M6cPwB": [
+    "Snowglobe"
+  ],
   "M6fZXZ": [
     "Timor Leste"
   ],
@@ -62833,31 +63003,6 @@
   ],
   "MY9/Oe": [
     "Current Game"
-  ],
-  "MYFohD": [
-    "Reminder limit reached. Get ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders."
   ],
   "MYgdY2": [
     "Spoiler Clip"
@@ -64361,6 +64506,9 @@
   "N8nJ+T": [
     "Click the widget you want to add to your Server Hub, and then drag and drop them around."
   ],
+  "N8tPFd": [
+    "10K WOW STILL GOING COMBO"
+  ],
   "N95b+f": [
     "A ",
     [
@@ -65153,33 +65301,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro raises your reminder limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also ",
-    [
-      8,
-      "$link",
-      [
-        "delete a reminder"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " to make room."
   ],
   "NRI6vt": [
     "If you need a copy of your personal data from your account's entire history, you can get it here. ",
@@ -68628,6 +68749,9 @@
   "Olc2K3": [
     "Back to Settings"
   ],
+  "OleW32": [
+    "New Discord-powered social features are available in Call of Duty: MW4. Upgrade your connection to unlock a unified friends list and invites."
+  ],
   "Olo8FB": [
     "Category"
   ],
@@ -69280,14 +69404,6 @@
     ],
     " is not accepting friend requests. They’ll have to add you to become friends."
   ],
-  "Oxm3Sq": [
-    "Get up to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks"
-  ],
   "OxveI8": [
     [
       1,
@@ -69629,6 +69745,9 @@
   ],
   "P5dSl0": [
     "Shadow color"
+  ],
+  "P5keo3": [
+    "Chest"
   ],
   "P5sLUo": [
     "Take 20% off your next 6 months, whether you're new to YouTube Premium or already in. ",
@@ -73684,6 +73803,9 @@
   "QogKbP": [
     "Using rude, vulgar, or offensive language"
   ],
+  "QojGXK": [
+    "With a gift purchase"
+  ],
   "QouJki": [
     "An exclusive crystal badge next to your name"
   ],
@@ -74139,6 +74261,9 @@
   ],
   "QzDgMq": [
     "Data Access"
+  ],
+  "QzKwEQ": [
+    "Previewing will take you out of the call screen."
   ],
   "QzRqcq": [
     "Play MW4 early with Nitro"
@@ -83008,9 +83133,6 @@
   "URSMet": [
     "Sexual Content"
   ],
-  "URrJq1": [
-    "Manage your most important messages with Nitro."
-  ],
   "URt7VI": [
     "Did we make a mistake? Let us know."
   ],
@@ -83324,6 +83446,9 @@
   ],
   "UWhXbK": [
     "Not Staff"
+  ],
+  "UWycjR": [
+    "Select duration"
   ],
   "UXWUtm": [
     "You broke the rules for ",
@@ -84426,6 +84551,22 @@
   ],
   "UwPrKZ": [
     "Grow your community with Server Discovery"
+  ],
+  "UwYHGm": [
+    "Learn more on ",
+    [
+      8,
+      "$link",
+      [
+        "our website"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ]
   ],
   "Uwhb1l": [
     "Next level progress"
@@ -86839,7 +86980,7 @@
     "This theme is available to Nitro users only."
   ],
   "VqNHoS": [
-    "This sound is no longer active"
+    "This sound combo is no longer active"
   ],
   "VqhxxN": [
     "Select a Community Updates channel"
@@ -87138,14 +87279,6 @@
   ],
   "W+NB90": [
     "View in Store"
-  ],
-  "W+ZaoS": [
-    "Create even more reminders with ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Use a global right to left gesture to activate Launch Pad that you activate from the right edge (on Android this may conflict with system gestures if you have them enabled and while this keeps swipe to reply enabled, there may be conflicts we still need to fix)."
@@ -89465,6 +89598,9 @@
     ],
     " of inactivity."
   ],
+  "WnnzG7": [
+    "Select number of gifts"
+  ],
   "Wnojv1": [
     "Helps detect image-based media that may contain sexually explicit or suggestive material involving adults."
   ],
@@ -89695,6 +89831,9 @@
   ],
   "Wv7HLS": [
     "Fresh drops, just for you"
+  ],
+  "WvAqZA": [
+    "You earned a free decoration"
   ],
   "Wvc/I+": [
     "Good Morning,"
@@ -91479,6 +91618,9 @@
       ]
     ]
   ],
+  "XeLTZl": [
+    "Your reward is ready"
+  ],
   "XeYKWJ": [
     "With the description ",
     [
@@ -91842,6 +91984,18 @@
   ],
   "XnzdTe": [
     "Receive auth code from SMS"
+  ],
+  "XoHiqS": [
+    [
+      1,
+      "name"
+    ],
+    " and ",
+    [
+      2,
+      "count"
+    ],
+    " more"
   ],
   "XoTWsI": [
     "Somebody Playin'"
@@ -93863,9 +94017,6 @@
   ],
   "YXeWYM": [
     "Edit display name"
-  ],
-  "YXk6N7": [
-    "Stay organized with bookmarks"
   ],
   "YYDILY": [
     "Boost servers to show your support and score cool perks for your friends."
@@ -96896,6 +97047,9 @@
     ],
     " in this series."
   ],
+  "ZctfZ/": [
+    "100 HIT COMBO"
+  ],
   "ZcyFYa": [
     "Exited Nitro preview"
   ],
@@ -97346,6 +97500,9 @@
     ],
     " Listening"
   ],
+  "ZolTTE": [
+    "Gift Recipients"
+  ],
   "Zos+eZ": [
     "Just waiting here until you ",
     [
@@ -97617,6 +97774,22 @@
   "ZuXSRp": [
     "Long press to hide badges you want to be private."
   ],
+  "ZuneBP": [
+    "Redeem in ",
+    [
+      8,
+      "$link",
+      [
+        "Billing Settings"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
+  ],
   "Zuo+Vd": [
     "Are you sure you want to delete ",
     [
@@ -97665,6 +97838,52 @@
   ],
   "ZveC7e": [
     "Select a role"
+  ],
+  "ZvgWUV": [
+    "If you skip sending ",
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "the gift"
+        ],
+        "other": [
+          "the gifts"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " now, you can always send ",
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "it"
+        ],
+        "other": [
+          "them"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " later from your ",
+    [
+      8,
+      "$link",
+      [
+        "Gift Inventory"
+      ],
+      [
+        [
+          1,
+          "onInventoryClick"
+        ]
+      ]
+    ]
   ],
   "Zvx+yV": [
     "Reveal email address"
@@ -100677,6 +100896,9 @@
   "auGQLV": [
     "I’ll update it now"
   ],
+  "aubYGR": [
+    "Holiday Cake"
+  ],
   "auckXz": [
     "This is a ",
     [
@@ -101164,6 +101386,9 @@
       "cardinal"
     ]
   ],
+  "b2yxYL": [
+    "Keep your most important messages in one place."
+  ],
   "b3+OH1": [
     "Get Discord Orbs on in-game Marvel Rivals purchases."
   ],
@@ -101588,6 +101813,9 @@
   "bGHzxb": [
     "Duration"
   ],
+  "bGKjmg": [
+    "Got It!"
+  ],
   "bGN1ow": [
     "None"
   ],
@@ -101636,6 +101864,9 @@
   ],
   "bHpUca": [
     "Quick check: You don't have any current gaming activity. Is this accurate?"
+  ],
+  "bHuJLa": [
+    "Holiday Coffee"
   ],
   "bI7n9i": [
     "Tomorrow at ",
@@ -103445,6 +103676,9 @@
     "boar",
     "pig"
   ],
+  "boclBe": [
+    "Starting at"
+  ],
   "bomb": [
     "bomb",
     "boom",
@@ -105175,6 +105409,26 @@
   ],
   "cM8bbx": [
     "Get Basic"
+  ],
+  "cMHedL": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "You’ve collected the exclusive reward"
+        ],
+        "other": [
+          "You’ve collected all ",
+          [
+            7
+          ],
+          " exclusive rewards"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "cMgegQ": [
     "Frames are profile borders that complete your look. Nitro members get early access. Find yours in the Shop."
@@ -107436,14 +107690,6 @@
   ],
   "cpgfFk": [
     "Someone you blocked has joined."
-  ],
-  "cpj9o/": [
-    "Get up to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders"
   ],
   "cpqhYg": [
     "We couldn't confirm whether this payment went through. Log in to check your subscription before trying again."
@@ -118928,6 +119174,32 @@
   "ge88VE": [
     "ge88VE"
   ],
+  "geFoof": [
+    [
+      6,
+      "giftCount",
+      {
+        "one": [
+          "You’re so generous! Send this gift to a friend to give them ",
+          [
+            1,
+            "skuName"
+          ],
+          ". We hope they enjoy!"
+        ],
+        "other": [
+          "You’re so generous! Send these gifts to friends to give them ",
+          [
+            1,
+            "skuName"
+          ],
+          ". We hope they enjoy!"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "geKm7t": [
     "Submit"
   ],
@@ -124837,6 +125109,26 @@
   "ibxdrl": [
     "Search for people in your servers to start a message, or add friends to see them here."
   ],
+  "icF5bW": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gift Nitro, pick a free decoration to keep."
+        ],
+        "other": [
+          "Gift Nitro, pick ",
+          [
+            7
+          ],
+          " free decorations to keep."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "icWQKn": [
     "Get Nitro credits and Shop favorites without spending a dime."
   ],
@@ -125751,6 +126043,9 @@
   ],
   "ivpkNe": [
     "No, thanks"
+  ],
+  "ivpn6G": [
+    "Pick a free decoration to keep"
   ],
   "iw0hFi": [
     [
@@ -127746,6 +128041,9 @@
   ],
   "jhJzez": [
     "Report App"
+  ],
+  "jhNRIe": [
+    "Custom Quantity"
   ],
   "jhPprR": [
     "With channel ",
@@ -133884,9 +134182,6 @@
   ],
   "m/GC8z": [
     "Moderator"
-  ],
-  "m/HzW8": [
-    "Manage your most important messages, only with Nitro."
   ],
   "m/Tc3n": [
     [
@@ -140054,13 +140349,6 @@
   "noAHwA": [
     "Airplane mode is active."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    "D LEFT"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -140889,33 +141177,6 @@
   ],
   "o572Fe": [
     "A message you bookmarked could not be found."
-  ],
-  "o5OLyw": [
-    "Nitro raises your bookmark limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also ",
-    [
-      8,
-      "$link",
-      [
-        "delete a bookmark"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " to make room."
   ],
   "o5azXJ": [
     "This includes images or videos you may have originally consented to create but did not consent to have shared. There's no time limit—you can report content regardless of when it was created or posted."
@@ -143242,6 +143503,9 @@
     ],
     " days and the gift has not been redeemed."
   ],
+  "owluOg": [
+    "Your gifts are on the way!"
+  ],
   "owvC9U": [
     "You're all set!"
   ],
@@ -143515,6 +143779,23 @@
   ],
   "p0UgNQ": [
     "There’s no one in this post."
+  ],
+  "p0mYoH": [
+    "One or more of your gifts didn’t go through automatically. Send them to friends from your ",
+    [
+      8,
+      "$link",
+      [
+        "Gift Inventory"
+      ],
+      [
+        [
+          1,
+          "onInventoryClick"
+        ]
+      ]
+    ],
+    "."
   ],
   "p0oZmy": [
     "Sent a GIF"
@@ -148253,6 +148534,9 @@
   "qTCYun": [
     "Do you want to also apply this change to all your existing servers?"
   ],
+  "qTXpj/": [
+    "Skip"
+  ],
   "qTZMm2": [
     "An internal server error has occurred."
   ],
@@ -148577,25 +148861,6 @@
   ],
   "qXeYHw": [
     "Standard"
-  ],
-  "qXh3fo": [
-    "Create bookmarks and reminders with ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
   ],
   "qXtNtS": [
     "Remove Timeout"
@@ -152453,6 +152718,14 @@
     ],
     "."
   ],
+  "rr3AQS": [
+    "Save ",
+    [
+      2,
+      "percent"
+    ],
+    "%"
+  ],
   "rrI4Tk": [
     "Device"
   ],
@@ -153308,7 +153581,7 @@
     "Search Channels"
   ],
   "s5No7R": [
-    "This sound is from a public server."
+    "This sound is from a discoverable server."
   ],
   "s5Qo8E": [
     "Bloop"
@@ -154332,6 +154605,26 @@
   "sUvCKU": [
     "Report Submitted"
   ],
+  "sUvNeI": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Pick a free decoration. Yours to keep with a gift purchase."
+        ],
+        "other": [
+          "Pick ",
+          [
+            7
+          ],
+          " free decorations. Yours to keep with this gift purchase."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "sUvyW3": [
     "Failed to cancel scheduled message. ",
     [
@@ -155099,19 +155392,6 @@
       "cardinal"
     ],
     " available"
-  ],
-  "sgXqR1": [
-    "Nitro raises your bookmark limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also delete a bookmark to make room."
   ],
   "sgiPrC": [
     [
@@ -164241,6 +164521,9 @@
   "vd0D81": [
     "Quantity"
   ],
+  "vd1fu/": [
+    "Holiday Box"
+  ],
   "vdSOpz": [
     "You must verify your account before you can speak in this server."
   ],
@@ -164740,6 +165023,9 @@
         "Kick"
       ]
     ]
+  ],
+  "vjxYqU": [
+    "Holiday Chest"
   ],
   "vjxhWo": [
     "Pausing — ",
@@ -165616,9 +165902,6 @@
   "w4+/BA": [
     "Generate"
   ],
-  "w4DRbZ": [
-    "Stay organized with bookmarks"
-  ],
   "w4GEvw": [
     [
       2,
@@ -165765,6 +166048,9 @@
   ],
   "w8+YDM": [
     "No commands available here"
+  ],
+  "w84vET": [
+    "Coffee"
   ],
   "w8CXUl": [
     "Code valid on a SteelSeries purchase of $20 or more. Expires ",
@@ -166556,6 +166842,9 @@
   "wSnI/0": [
     "This is what others see when they view your profile."
   ],
+  "wTKEyX": [
+    "Continue"
+  ],
   "wTaN+K": [
     "Customize"
   ],
@@ -167235,6 +167524,45 @@
   ],
   "wi6hPV": [
     "Visit Our Help Center"
+  ],
+  "wiBqTu": [
+    "You’re so generous! ",
+    [
+      6,
+      "otherCount",
+      {
+        "=0": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " a gift."
+        ],
+        "one": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " and 1 other a gift."
+        ],
+        "other": [
+          "Thanks for sending ",
+          [
+            1,
+            "recipientName"
+          ],
+          " and ",
+          [
+            7
+          ],
+          " others a gift."
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "wiIevd": [
     "Close Thread"
@@ -170861,6 +171189,9 @@
   "xdCLeM": [
     "Hide Details"
   ],
+  "xdDO7f": [
+    "Type your friends’ names"
+  ],
   "xdGS1o": [
     "Apple Pay"
   ],
@@ -172057,32 +172388,6 @@
   ],
   "y2TE38": [
     "Reply"
-  ],
-  "y2YmJv": [
-    "Promoted by Rockstar Games, available for ",
-    [
-      2,
-      "nonPremiumDays"
-    ],
-    " days for non-subs and ",
-    [
-      2,
-      "premiumDays"
-    ],
-    " days for Nitro subscribers starting ",
-    [
-      3,
-      "startDate",
-      "::MMMd"
-    ],
-    ". ",
-    [
-      8,
-      "learnMoreHook",
-      [
-        "Learn more"
-      ]
-    ]
   ],
   "y2b7CA": [
     "new"
@@ -175778,6 +176083,9 @@
   "zV0/FC": [
     "Invalid Message Type"
   ],
+  "zVGHbw": [
+    "Get a free decoration"
+  ],
   "zVJxqj": [
     "Must have at least ",
     [
@@ -176686,6 +176994,21 @@
   ],
   "zstmkn": [
     "Render Markdown"
+  ],
+  "ztNU94": [
+    [
+      8,
+      "$link",
+      [
+        "Terms & eligibility rules apply."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
   ],
   "ztO+l+": [
     "Use Presets"

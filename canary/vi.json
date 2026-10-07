@@ -6331,14 +6331,6 @@
       "discountPercentage"
     ]
   ],
-  "0hoV2D": [
-    "Lưu được nhiều tin nhắn hơn nữa với ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -17314,19 +17306,6 @@
   ],
   "5VmbbF": [
     "Có quá nhiều emoji"
-  ],
-  "5VsCaT": [
-    "Đã đạt giới hạn dấu trang. Mua ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " để có ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " dấu trang."
   ],
   "5W9wWF": [
     "Quản lý cài đặt"
@@ -36225,19 +36204,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Đã đạt giới hạn lời nhắc. Mua ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " để có ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lời nhắc."
-  ],
   "E+qms7": [
     "Chuột phải vào tin nhắn bất kỳ rồi chọn ",
     [
@@ -36563,6 +36529,18 @@
   ],
   "E7Dg31": [
     "Ứng dụng của tôi không chạy được/bị tắt đột ngột/gặp lỗi"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " đã tặng bạn Nitro dùng trong ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng!"
   ],
   "E7oO8u": [
     "Bài đăng đã bị khóa. Chỉ điều phối viên mới có thể gửi tin nhắn."
@@ -38712,9 +38690,6 @@
   "F6rmyq": [
     "Đang cố gắng di chuyển và làm quen à?"
   ],
-  "F6u3E3": [
-    "Quản lý những tin nhắn quan trọng nhất, chỉ có khi đăng ký Nitro."
-  ],
   "F75nNl": [
     "Không lưu được tương tác mặc định"
   ],
@@ -39208,9 +39183,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Thích cái đó ư? Đánh dấu để lưu những kỷ niệm ưa thích của bạn ở một nơi duy nhất."
-  ],
   "FMbL3s": [
     "Xóa thất bại"
   ],
@@ -39232,31 +39204,6 @@
       "user"
     ],
     "'"
-  ],
-  "FNFCVJ": [
-    "Đã đạt giới hạn dấu trang. Mua ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để có ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " dấu trang."
   ],
   "FNVJ4+": [
     "Trang trí ảnh đại diện miễn phí cho hồ sơ của bạn!"
@@ -40526,6 +40473,13 @@
       "days"
     ],
     " ngày"
+  ],
+  "G1Q40N": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng Nitro"
   ],
   "G1u0hK": [
     "Phóng đại"
@@ -47371,19 +47325,6 @@
   ],
   "IwVGQs": [
     "Ẩn cài đặt thanh trò chuyện nâng cao"
-  ],
-  "IwWQgO": [
-    "Nitro tăng giới hạn lời nhắc của bạn từ ",
-    [
-      2,
-      "max"
-    ],
-    " lên ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Bạn cũng có thể xóa lời nhắc để tạo chỗ."
   ],
   "IwZbbP": [
     "Giảm âm lượng của các chương trình stream GoLive bạn đang xem khi có người khác lên tiếng."
@@ -54942,31 +54883,6 @@
   "MY9/Oe": [
     "Trò Chơi Hiện Tại"
   ],
-  "MYFohD": [
-    "Đã đạt giới hạn lời nhắc. Mua ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để có ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lời nhắc."
-  ],
   "MYgdY2": [
     "Hé lộ clip"
   ],
@@ -56982,33 +56898,6 @@
       "premiumGroupProductName"
     ],
     " của bạn"
-  ],
-  "NRF0Wh": [
-    "Nitro tăng giới hạn lời nhắc của bạn từ ",
-    [
-      2,
-      "max"
-    ],
-    " lên ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Bạn cũng có thể ",
-    [
-      8,
-      "$link",
-      [
-        "xóa lời nhắc"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để tạo chỗ."
   ],
   "NRI6vt": [
     "Nếu bạn cần một bản sao dữ liệu cá nhân từ toàn bộ lịch sử tài khoản của mình, bạn có thể nhận tại đây. ",
@@ -60703,14 +60592,6 @@
       ]
     ],
     " không đồng ý yêu cầu kết bạn. Họ sẽ phải thêm bạn vào để trở thành bạn bè."
-  ],
-  "Oxm3Sq": [
-    "Nhận lên tới ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " dấu trang"
   ],
   "OxveI8": [
     [
@@ -72670,9 +72551,6 @@
   "URSMet": [
     "Nội dung tình dục"
   ],
-  "URrJq1": [
-    "Quản lý những tin nhắn quan trọng nhất với Nitro."
-  ],
   "URt7VI": [
     "Đây là lỗi ư? Hãy cho chúng tôi biết."
   ],
@@ -76394,14 +76272,6 @@
   ],
   "W+NB90": [
     "Xem trong Cửa hàng"
-  ],
-  "W+ZaoS": [
-    "Tạo nhiều lời nhắc hơn nữa với ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Sử dụng một thao tác phải sang trái tổng thể để kích hoạt LaunchPad mà bạn kích hoạt từ cạnh phải (trên Android, tùy chọn này có thể xung đột với thao tác hệ thống nếu bạn có bật thao tác hệ thống và dù tùy chọn này có thể dùng song song với tính năng vuốt để trả lời, có thể sẽ phát sinh xung đột cần khắc phục trong tương lai)."
@@ -82331,9 +82201,6 @@
   ],
   "YXeWYM": [
     "Chỉnh sửa tên hiển thị"
-  ],
-  "YXk6N7": [
-    "Hệ thống mọi thứ với tính năng đánh dấu"
   ],
   "YYDILY": [
     "Nâng cấp máy chủ để thể hiện sự giúp đỡ của bạn và mở khóa các đặc quyền thú vị cho bạn bè của mình."
@@ -90905,6 +90772,9 @@
     "lợn",
     "lợn rừng"
   ],
+  "boclBe": [
+    "Giá khởi điểm là"
+  ],
   "bomb": [
     "bom",
     "hài hước",
@@ -94301,14 +94171,6 @@
   ],
   "cpgfFk": [
     "Một người bị bạn chặn đã tham gia."
-  ],
-  "cpj9o/": [
-    "Nhận lên tới ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lời nhắc"
   ],
   "cpqhYg": [
     "Chúng tôi không thể xác nhận liệu thanh toán này có thành công hay không. Hãy đăng nhập để kiểm tra đăng ký của bạn trước khi thử lại."
@@ -110284,6 +110146,9 @@
   "j4gGA4": [
     "Chà, hình như âm lượng thiết bị đầu vào của bạn đã được đặt về 0 trong cài đặt Windows. Hãy sửa lỗi đó nhé!"
   ],
+  "j4n5/K": [
+    "Tìm hiểu thêm"
+  ],
   "j4qu8n": [
     "Email xác thực đã được gửi lại, vui lòng kiểm tra email của bạn."
   ],
@@ -116848,9 +116713,6 @@
   "m/GC8z": [
     "Điều phối viên"
   ],
-  "m/HzW8": [
-    "Quản lý những tin nhắn quan trọng nhất, chỉ có khi đăng ký Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -122157,13 +122019,6 @@
   "noAHwA": [
     "Chế độ máy bay đang được bật."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    " NGÀY CÒN LẠI"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -122918,33 +122773,6 @@
   ],
   "o572Fe": [
     "Không thể tìm thấy một tin nhắn mà bạn đã đánh dấu."
-  ],
-  "o5OLyw": [
-    "Nitro tăng giới hạn dấu trang của bạn từ ",
-    [
-      2,
-      "max"
-    ],
-    " lên ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Bạn cũng có thể ",
-    [
-      8,
-      "$link",
-      [
-        "xóa dấu trang"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để tạo chỗ."
   ],
   "o5azXJ": [
     "Có chứa hình ảnh hoặc video mà ban đầu bạn có thể đã đồng ý tạo ra nhưng không đồng ý chia sẻ. Không có giới hạn thời gian, bạn có thể báo cáo nội dung bất kể thời điểm nó được tạo hay đăng tải."
@@ -129555,25 +129383,6 @@
   "qXeYHw": [
     "Tiêu chuẩn"
   ],
-  "qXh3fo": [
-    "Tạo đánh dấu và thông báo nhắc nhở với ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Bỏ hạn chế"
   ],
@@ -135109,19 +134918,6 @@
       "cardinal"
     ],
     " sẵn có"
-  ],
-  "sgXqR1": [
-    "Nitro tăng giới hạn dấu trang của bạn từ ",
-    [
-      2,
-      "max"
-    ],
-    " lên ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Bạn cũng có thể xóa dấu trang để tạo chỗ."
   ],
   "sgiPrC": [
     [
@@ -144385,9 +144181,6 @@
   ],
   "w4+/BA": [
     "Tạo"
-  ],
-  "w4DRbZ": [
-    "Hệ thống mọi thứ với tính năng đánh dấu"
   ],
   "w4GEvw": [
     "còn lại ",

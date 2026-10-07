@@ -7116,14 +7116,6 @@
     ],
     " de descuento en Nitro"
   ],
-  "0hoV2D": [
-    "Guarda aún más mensajes con ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19205,19 +19197,6 @@
   ],
   "5VmbbF": [
     "Demasiados emojis"
-  ],
-  "5VsCaT": [
-    "Has alcanzado el límite de marcadores. Consigue ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " para obtener ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " marcadores."
   ],
   "5W9wWF": [
     "Gestionar ajustes"
@@ -39992,19 +39971,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Has alcanzado el límite de recordatorios. Consigue ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " para obtener ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " recordatorios."
-  ],
   "E+qms7": [
     "Haz clic derecho en un mensaje y selecciona ",
     [
@@ -40345,6 +40311,35 @@
   ],
   "E7Dg31": [
     "La aplicación no funciona/se bloquea/falla"
+  ],
+  "E7QYGI": [
+    "¡",
+    [
+      1,
+      "sender"
+    ],
+    " te ha regalado Nitro durante ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mes"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "Esta publicación está bloqueada. Solo los moderadores pueden enviar mensajes."
@@ -42726,9 +42721,6 @@
   "F6rmyq": [
     "¿Intentas moverte al ritmo de la música?"
   ],
-  "F6u3E3": [
-    "Gestiona tus mensajes más importantes, solo con Nitro."
-  ],
   "F75nNl": [
     "No se ha podido guardar la reacción predeterminada"
   ],
@@ -43284,9 +43276,6 @@
   "FMYSJY": [
     "Opción"
   ],
-  "FMaaaB": [
-    "¿Te ha gustado? Márcalo para guardar tus recuerdos favoritos en un solo lugar."
-  ],
   "FMbL3s": [
     "Error al borrar"
   ],
@@ -43308,31 +43297,6 @@
       "user"
     ],
     "»"
-  ],
-  "FNFCVJ": [
-    "Has alcanzado el límite de marcadores. Consigue ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para obtener ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " marcadores."
   ],
   "FNVJ4+": [
     "¡Decoración de avatar gratis para tu perfil!"
@@ -44675,6 +44639,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mes"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro"
   ],
   "G1u0hK": [
     "Maximizar"
@@ -52302,19 +52289,6 @@
   ],
   "IwVGQs": [
     "Ocultar ajustes avanzados de la barra de chat"
-  ],
-  "IwWQgO": [
-    "Nitro aumenta tu límite de recordatorios de ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". También puedes eliminar un recordatorio para hacer sitio."
   ],
   "IwZbbP": [
     "Cuando hablan otras personas, baja automáticamente el volumen de las transmisiones Go Live que estás viendo."
@@ -60642,31 +60616,6 @@
   "MY9/Oe": [
     "Juego actual"
   ],
-  "MYFohD": [
-    "Has alcanzado el límite de recordatorios. Consigue ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para obtener ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " recordatorios."
-  ],
   "MYgdY2": [
     "Clip con spoiler"
   ],
@@ -62883,33 +62832,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro aumenta tu límite de recordatorios de ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". También puedes ",
-    [
-      8,
-      "$link",
-      [
-        "eliminar un recordatorio"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para hacer sitio."
   ],
   "NRI6vt": [
     "Si necesitas una copia de tus datos personales de todo el historial de tu cuenta, puedes conseguirla aquí. ",
@@ -66884,14 +66806,6 @@
       ]
     ],
     " no acepta solicitudes de amistad. Tendrá que añadirte para convertiros en amigos."
-  ],
-  "Oxm3Sq": [
-    "Consigue hasta ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " marcadores"
   ],
   "OxveI8": [
     [
@@ -79975,9 +79889,6 @@
   "URSMet": [
     "Contenido sexual"
   ],
-  "URrJq1": [
-    "Gestiona tus mensajes más importantes con Nitro."
-  ],
   "URt7VI": [
     "¿Crees que nos hemos equivocado? Contáctanos."
   ],
@@ -83911,14 +83822,6 @@
   ],
   "W+NB90": [
     "Ver en la tienda"
-  ],
-  "W+ZaoS": [
-    "Crea aún más recordatorios con ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Utiliza un gesto global de derecha a izquierda para activar LaunchPad que activas desde el borde derecho (en Android, esto puede entrar en conflicto con los gestos del sistema si los tienes activados, y aunque esto mantiene activada la respuesta con deslizamiento, es posible que haya conflictos que aún tengamos que solucionar)."
@@ -90437,9 +90340,6 @@
   ],
   "YXeWYM": [
     "Editar nombre de visualización"
-  ],
-  "YXk6N7": [
-    "Organízate con los marcadores"
   ],
   "YYDILY": [
     "Mejora servidores para mostrar tu apoyo y desbloquear ventajas geniales para tus amigos."
@@ -99691,6 +99591,9 @@
     "cerdo salvaje",
     "jabalí"
   ],
+  "boclBe": [
+    "Desde"
+  ],
   "bomb": [
     "bomba",
     "cómic",
@@ -103313,14 +103216,6 @@
   ],
   "cpgfFk": [
     "Se ha unido alguien a quien has bloqueado."
-  ],
-  "cpj9o/": [
-    "Consigue hasta ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " recordatorios"
   ],
   "cpqhYg": [
     "No hemos podido confirmar si este pago se ha realizado. Inicia sesión para comprobar tu suscripción antes de volver a intentarlo."
@@ -120514,6 +120409,9 @@
   "j4gGA4": [
     "Bueno, parece que el volumen de tu dispositivo de entrada está establecido en cero en los ajustes de Windows. ¡Vamos a arreglarlo!"
   ],
+  "j4n5/K": [
+    "Más información"
+  ],
   "j4qu8n": [
     "Hemos reenviado el correo electrónico de verificación; comprueba tu bandeja de entrada."
   ],
@@ -127676,9 +127574,6 @@
   "m/GC8z": [
     "Moderador"
   ],
-  "m/HzW8": [
-    "Gestiona tus mensajes más importantes, solo con Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -133343,13 +133238,6 @@
   "noAHwA": [
     "Se ha activado el modo avión."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    " día(s) restante(s)"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -134113,33 +134001,6 @@
   ],
   "o572Fe": [
     "No se ha podido encontrar un mensaje que marcaste."
-  ],
-  "o5OLyw": [
-    "Nitro aumenta tu límite de marcadores de ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". También puedes ",
-    [
-      8,
-      "$link",
-      [
-        "eliminar un marcador"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para hacer sitio."
   ],
   "o5azXJ": [
     "Esto incluye imágenes o vídeos cuya creación pero no distribución hayas consentido. No hay límite de tiempo: puedes denunciar cualquier contenido sin importar cuándo se haya creado o publicado."
@@ -141103,25 +140964,6 @@
   "qXeYHw": [
     "Estándar"
   ],
-  "qXh3fo": [
-    "Crea marcadores y recordatorios con ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Eliminar aislamiento temporal"
   ],
@@ -147339,19 +147181,6 @@
       "cardinal"
     ],
     " disponibles"
-  ],
-  "sgXqR1": [
-    "Nitro aumenta tu límite de marcadores de ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". También puedes eliminar un marcador para hacer sitio."
   ],
   "sgiPrC": [
     [
@@ -157134,9 +156963,6 @@
   ],
   "w4+/BA": [
     "Generar"
-  ],
-  "w4DRbZ": [
-    "Organízate con los marcadores"
   ],
   "w4GEvw": [
     "Queda(n) ",

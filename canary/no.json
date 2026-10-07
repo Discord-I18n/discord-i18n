@@ -6991,14 +6991,6 @@
     ],
     " rabatt på Nitro"
   ],
-  "0hoV2D": [
-    "Lagre flere meldinger med ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -18975,19 +18967,6 @@
   ],
   "5VmbbF": [
     "For mange emojier"
-  ],
-  "5VsCaT": [
-    "Ikke plass til flere bokmerker. Skaff deg ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " og få ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bokmerker."
   ],
   "5W9wWF": [
     "Administrer innstillinger"
@@ -39439,19 +39418,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Ikke plass til flere påminnelser. Skaff deg ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " og få ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " påminnelser."
-  ],
   "E+qms7": [
     "Høyreklikk på en melding og velg ",
     [
@@ -39793,6 +39759,34 @@
   ],
   "E7Dg31": [
     "Appen fungerer ikke eller krasjer eller er glitchy"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " har gitt deg Nitro i ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "Innlegget er låst. Bare moderatorer kan sende meldinger."
@@ -42146,9 +42140,6 @@
   "F6rmyq": [
     "Prøver du å røre på deg og danse?"
   ],
-  "F6u3E3": [
-    "Med Nitro kan du samle de viktigste meldingene."
-  ],
   "F75nNl": [
     "Kan ikke lagre standardreaksjon"
   ],
@@ -42686,9 +42677,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Noe du likte? Bokmerk det og få de beste minnene dine på ett sted."
-  ],
   "FMbL3s": [
     "Tømming mislyktes"
   ],
@@ -42710,31 +42698,6 @@
       "user"
     ],
     "' timeout"
-  ],
-  "FNFCVJ": [
-    "Ikke plass til flere bokmerker. Skaff deg ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " og få ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bokmerker."
   ],
   "FNVJ4+": [
     "En gratis avatardekorasjon til profilen din!"
@@ -44078,6 +44041,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " med Nitro"
   ],
   "G1u0hK": [
     "Maksimer"
@@ -51592,19 +51578,6 @@
   ],
   "IwVGQs": [
     "Skjul avanserte innstillinger for chatlinjen"
-  ],
-  "IwWQgO": [
-    "Med Nitro får du plass til ",
-    [
-      2,
-      "max"
-    ],
-    " påminnelser i stedet for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kan også slette påminnelser for å rydde plass."
   ],
   "IwZbbP": [
     "Skru ned lyden på GoLive-strømmer du ser på, mens andre snakker."
@@ -59819,31 +59792,6 @@
   "MY9/Oe": [
     "Gjeldende spill"
   ],
-  "MYFohD": [
-    "Ikke plass til flere påminnelser. Skaff deg ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " og få ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " påminnelser."
-  ],
   "MYgdY2": [
     "Legg spoiler til klipp"
   ],
@@ -61997,33 +61945,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Med Nitro får du plass til ",
-    [
-      2,
-      "max"
-    ],
-    " påminnelser i stedet for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kan også ",
-    [
-      8,
-      "$link",
-      [
-        "slette påminnelser"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for å rydde plass."
   ],
   "NRI6vt": [
     "Hvis du vil ha oversikt over hvilke personopplysninger som helt fra starten av er blitt lagret på kontoen din, kan du få det her. ",
@@ -65984,14 +65905,6 @@
       ]
     ],
     " godtar ikke venneforespørsler. De må legge deg til for å bli venner."
-  ],
-  "Oxm3Sq": [
-    "Få opptil ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bokmerker"
   ],
   "OxveI8": [
     [
@@ -79130,9 +79043,6 @@
   "URSMet": [
     "Seksuelt innhold"
   ],
-  "URrJq1": [
-    "Med Nitro kan du samle de viktigste meldingene."
-  ],
   "URt7VI": [
     "Har vi gjort en feil? Gi oss beskjed."
   ],
@@ -83066,14 +82976,6 @@
   ],
   "W+NB90": [
     "Se i butikken"
-  ],
-  "W+ZaoS": [
-    "Opprett flere påminnelser med ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Bruk samme bevegelse på alle plattformer (sveip fra høyre til venstre) for å aktivere Launch Pad som du aktiverer fra høyre kant (på Android kan dette føre til konflikter med systemsveip hvis du bruker disse. Sveip-for-å-svare vil fortsatt være aktivert, men det kan hende det eksisterer konflikter vi fortsatt må ta hånd om)."
@@ -89541,9 +89443,6 @@
   ],
   "YXeWYM": [
     "Endre visningsnavn"
-  ],
-  "YXk6N7": [
-    "Få oversikt med bokmerker"
   ],
   "YYDILY": [
     "Boost servere for å vise støtte og låse opp kule fordeler for vennene dine."
@@ -98798,6 +98697,9 @@
     "dyr",
     "villsvin"
   ],
+  "boclBe": [
+    "Starter"
+  ],
   "bomb": [
     "bombe",
     "følelse",
@@ -102511,14 +102413,6 @@
   ],
   "cpgfFk": [
     "Noen du har blokkert, har blitt med."
-  ],
-  "cpj9o/": [
-    "Få opptil ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " påminnelser"
   ],
   "cpqhYg": [
     "Vi kan ikke bekrefte om betalingen ble utført. Logg på og sjekk abonnementet før du prøver igjen."
@@ -119781,6 +119675,9 @@
   "j4gGA4": [
     "Vel, volumet til inndataenheten er tydeligvis satt til null i Windows-innstillingene. Det får vi fikse!"
   ],
+  "j4n5/K": [
+    "Finn ut mer"
+  ],
   "j4qu8n": [
     "E-postbekreftelse sendt på nytt. Sjekk e-posten din."
   ],
@@ -126880,9 +126777,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Med Nitro kan du samle de viktigste meldingene."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -132596,13 +132490,6 @@
   "noAHwA": [
     "Flymodus er aktivert."
   ],
-  "noGK/D": [
-    [
-      2,
-      "days"
-    ],
-    " D IGJEN"
-  ],
   "noNjkW": [
     "👋 ",
     [
@@ -133393,33 +133280,6 @@
   ],
   "o572Fe": [
     "Finner ikke en melding du har bokmerket."
-  ],
-  "o5OLyw": [
-    "Med Nitro får du plass til ",
-    [
-      2,
-      "max"
-    ],
-    " bokmerker i stedet for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kan også ",
-    [
-      8,
-      "$link",
-      [
-        "slette bokmerker"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for å rydde plass."
   ],
   "o5azXJ": [
     "Dette inkluderer bilder eller videoer du opprinnelig samtykket til å lage, men ikke samtykket til at kunne deles. Det er ingen tidsbegrensning, og du kan rapportere innhold uansett når det ble laget eller publisert."
@@ -140556,25 +140416,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Lag bokmerker og påminnelser med ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Opphev timeout"
   ],
@@ -146747,19 +146588,6 @@
       "cardinal"
     ],
     " er tilgjengelig"
-  ],
-  "sgXqR1": [
-    "Med Nitro får du plass til ",
-    [
-      2,
-      "max"
-    ],
-    " bokmerker i stedet for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kan også slette bokmerker for å rydde plass."
   ],
   "sgiPrC": [
     [
@@ -156579,9 +156407,6 @@
   ],
   "w4+/BA": [
     "Generer"
-  ],
-  "w4DRbZ": [
-    "Få oversikt med bokmerker"
   ],
   "w4GEvw": [
     [

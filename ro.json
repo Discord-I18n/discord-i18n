@@ -246,6 +246,28 @@
     ],
     " pentru a face mai multe!"
   ],
+  "+5b01q": [
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minut"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minute"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+5kSoW": [
     "Link copiat!"
   ],
@@ -5178,16 +5200,22 @@
       1,
       "orbAmount"
     ],
-    " Orbs în ",
+    " Orbs în decurs de ",
     [
       6,
       "days",
       {
         "one": [
-          "zi"
+          [
+            7
+          ],
+          " zi"
         ],
         "other": [
-          "zile"
+          [
+            7
+          ],
+          " zile"
         ]
       },
       0,
@@ -5975,6 +6003,9 @@
       "count"
     ],
     " în total"
+  ],
+  "0ModIv": [
+    "0ModIv"
   ],
   "0Mykgq": [
     "Prețuri speciale pentru abonați"
@@ -8597,6 +8628,14 @@
       "activity"
     ]
   ],
+  "1JZfaU": [
+    "Deblochează un bonus de ",
+    [
+      1,
+      "multiplier"
+    ],
+    "x la Orbs cu Nitro"
+  ],
   "1Jf+4B": [
     "Tocmai au fost lansate mai multe filtre de voce!"
   ],
@@ -8909,9 +8948,6 @@
   ],
   "1Ts7QP": [
     "Descriere"
-  ],
-  "1UFWet": [
-    "Această aplicație nu are încă un card de profil configurat."
   ],
   "1UJvqc": [
     "Paf! Notificările sunt pe drum!"
@@ -9554,6 +9590,9 @@
       1,
       "attachment"
     ]
+  ],
+  "1osZYy": [
+    "Nu am putut încărca factura. Încearcă din nou."
   ],
   "1pp0su": [
     "Switch"
@@ -12252,6 +12291,9 @@
     ],
     " să joace"
   ],
+  "2tcO02": [
+    "Această factură nu mai este disponibilă. Autentifică-te pentru a-ți verifica abonamentul."
+  ],
   "2tgQnk": [
     "Hm... Discord nu poate stabili o conexiune. Încercăm din nou într-un moment. Dacă Discord se tot blochează aici, citește ",
     [
@@ -12459,6 +12501,9 @@
   "2yOjup": [
     "Acest cadou a fost folosit deja."
   ],
+  "2yTd7D": [
+    "Nu se poate alătura serverului"
+  ],
   "2yjnmb": [
     "Dacă ai câteva minute, spune-ne de ce dezactivezi overlay-ul. Vrem să știm cum putem îmbunătăți experiența cu el."
   ],
@@ -12543,6 +12588,9 @@
   "2ziAWp": [
     "să-mi ziceți dacă mai e nevoie de cineva în grup"
   ],
+  "2zxYCx": [
+    "Eliminare"
+  ],
   "3+LO1w": [
     "Postări mai vechi"
   ],
@@ -12608,9 +12656,6 @@
   ],
   "30Owsd": [
     "Program activat"
-  ],
-  "30UxZU": [
-    "Această aplicație nu îți poate actualiza cardul până nu o autorizezi din nou din Aplicații autorizate."
   ],
   "30V0t5": [
     "Sigur?"
@@ -12803,6 +12848,9 @@
   ],
   "34PW6m": [
     "9:16"
+  ],
+  "34VJiG": [
+    "Nu am putut salva această metodă de plată. Verifică-ți informațiile și încearcă din nou."
   ],
   "34XN2f": [
     "Animează-mi decorațiunea pentru avatar"
@@ -13513,6 +13561,9 @@
   ],
   "3L/DZq": [
     "Folosește boosturi pentru a debloca limite mai mari pentru partajarea fișierelor pentru întregul server."
+  ],
+  "3LJ1u9": [
+    "Partajarea activităților"
   ],
   "3LUFnI": [
     "Produsul tău de pe server a fost retras."
@@ -15345,6 +15396,9 @@
   ],
   "3x962E": [
     "Generează coduri de rezervă noi"
+  ],
+  "3xFZEo": [
+    "Comunități"
   ],
   "3xFaKk": [
     "Sală de întâlnire"
@@ -17801,6 +17855,9 @@
   "4z6ldH": [
     "Anulează încărcarea"
   ],
+  "4z9ZVX": [
+    "Nu am putut procesa plata. Încearcă din nou."
+  ],
   "4z9fN+": [
     "Dezactivat"
   ],
@@ -17980,6 +18037,9 @@
   ],
   "50gfOv": [
     "Verifică telefon"
+  ],
+  "51/RO8": [
+    "Atașament"
   ],
   "515vjG": [
     "Dă clic pentru a afla mai multe"
@@ -20370,6 +20430,9 @@
   "5xtLRC": [
     "numeFișier"
   ],
+  "5xxUI2": [
+    "Muzică apreciată"
+  ],
   "5y0wym": [
     "Alătură-te ",
     [
@@ -20810,6 +20873,9 @@
   ],
   "65r43O": [
     "Îți facem cadou un boost!"
+  ],
+  "65zBhE": [
+    "Creează-ți-l pe al tău"
   ],
   "65ziLu": [
     "Ups! Se pare că nu a mers"
@@ -23094,6 +23160,9 @@
   "6vrfgt": [
     "Deconectează-te"
   ],
+  "6w+Dyr": [
+    "Acest fișier audio nu s-a putut citi. Este posibil să fie corupt sau să folosească un codec neacceptat."
+  ],
   "6wKpiV": [
     "Încercam să accesez un anumit canal sau server"
   ],
@@ -23515,6 +23584,9 @@
   ],
   "7A/tE0": [
     "Provincia"
+  ],
+  "7ACDrq": [
+    "Încearcă acest aspect"
   ],
   "7AVpta": [
     "Adaugă widget Galerie clipuri"
@@ -24582,6 +24654,9 @@
   "7e5k7L": [
     "Dă-i drumul când ești gata..."
   ],
+  "7e7es8": [
+    "7e7es8"
+  ],
   "7eIrA2": [
     "Copiat!"
   ],
@@ -25195,6 +25270,9 @@
   ],
   "7qKDrE": [
     "Confirmă parola"
+  ],
+  "7qUFc7": [
+    "Spoiler dezvăluit"
   ],
   "7qbp3B": [
     "...mai multe"
@@ -27198,7 +27276,7 @@
     "% de la dreapta"
   ],
   "8e4LiB": [
-    "Toți"
+    "Toate"
   ],
   "8eBJ73": [
     "Participanții fără video sunt momentan ascunși. Vrei să fie afișați?"
@@ -28444,6 +28522,9 @@
   "93tEDn": [
     "Conexiune"
   ],
+  "93uxht": [
+    "Element din listă"
+  ],
   "93xPy3": [
     "3 permise Nitro pentru prieteni"
   ],
@@ -28489,6 +28570,9 @@
   ],
   "94p7dq": [
     "Puterea Nitro îți aparține"
+  ],
+  "95GB1V": [
+    "95GB1V"
   ],
   "95HTb5": [
     "Hai că îi prinde bine server-ului tău. Chiar pare confortabil!"
@@ -29155,6 +29239,9 @@
   ],
   "9Oq93m": [
     "Membri"
+  ],
+  "9P3PfN": [
+    "9P3PfN"
   ],
   "9P8djr": [
     "Editează imaginea"
@@ -30039,6 +30126,9 @@
   "9qAGNs": [
     "Gata"
   ],
+  "9qJQtX": [
+    "9qJQtX"
+  ],
   "9qLtWs": [
     "Gestionează canalele"
   ],
@@ -30751,23 +30841,6 @@
   "A2DY6J": [
     "Când a fost trimis mesajul"
   ],
-  "A2XnI4": [
-    "Fontul ",
-    [
-      1,
-      "fontName"
-    ],
-    ", ",
-    [
-      1,
-      "effectName"
-    ],
-    ", ",
-    [
-      1,
-      "colors"
-    ]
-  ],
   "A2dqWG": [
     "în ",
     [
@@ -31402,6 +31475,9 @@
   ],
   "AP/2qe": [
     "Monetizarea a fost activată."
+  ],
+  "AP3kT4": [
+    "Anime"
   ],
   "APQGZ+": [
     "Am făcut o greșeală? ",
@@ -32145,6 +32221,14 @@
   ],
   "AfrvRD": [
     "Descoperă produse din toate categoriile"
+  ],
+  "AgMngw": [
+    "Număr de Orbs: ",
+    [
+      1,
+      "balance"
+    ],
+    " Orbs, actualizări noi privind provocările Orbs"
   ],
   "AgXXyy": [
     "Stare servere"
@@ -32940,6 +33024,9 @@
   "AzTwiu": [
     "Acțiuni tag forum"
   ],
+  "AzkvWe": [
+    "Casetă promovată"
+  ],
   "B+cbLS": [
     "Treci la modul online?"
   ],
@@ -33211,6 +33298,13 @@
         ]
       ]
     ]
+  ],
+  "B5tZXw": [
+    [
+      1,
+      "orbAmount"
+    ],
+    " Orbs revendicate în total"
   ],
   "B66Z+f": [
     "Active"
@@ -33831,9 +33925,6 @@
   ],
   "BLEx3k": [
     "Reîncarcă serverul"
-  ],
-  "BLKD4B": [
-    "Nu s-a putut solicita reîmprospătarea. Încearcă din nou peste puțin timp."
   ],
   "BLYT8n": [
     "Nu mai ai boost-uri pe care să le folosești. Pentru a cumpăra mai multe, fă-ți upgrade la abonament după finalizarea acțiunii de modificare a abonamentului în curs."
@@ -35281,6 +35372,9 @@
   ],
   "BtwmYB": [
     "Selectează canalul în care se află regulamentul tău. Acest canal va începe implicit de sus și va afișa un antet special."
+  ],
+  "Bu6kWV": [
+    "Bu6kWV"
   ],
   "BufsKk": [
     "Altă problemă"
@@ -37013,6 +37107,14 @@
   "Cc4Mc9": [
     "Autentifică-te cu aplicația mobilă Meta Horizon"
   ],
+  "CcNVYB": [
+    "Canalul ",
+    [
+      1,
+      "channelName"
+    ],
+    ", în partea de sus"
+  ],
   "CcVI1T": [
     [
       6,
@@ -37831,6 +37933,13 @@
       1,
       "username"
     ]
+  ],
+  "D/HToK": [
+    [
+      1,
+      "hours"
+    ],
+    " o"
   ],
   "D/PHq5": [
     "Bluesky"
@@ -39520,6 +39629,9 @@
   "Dt3ZUr": [
     "Avatarul animat"
   ],
+  "Dt63vf": [
+    "Dt63vf"
+  ],
   "DtFqEI": [
     "Această sursă de plată este nevalidă."
   ],
@@ -39573,6 +39685,28 @@
   ],
   "DwDxDU": [
     "Nu ai o invitație?"
+  ],
+  "DwFqrb": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " boost"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " boost-uri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "DwKFKd": [
     "Nu s-a putut încărca profilul pentru acest server."
@@ -40339,7 +40473,7 @@
     "O, nu! Ceva nu a mers bine în timpul actualizării acestei solicitări de mesaje. Te rugăm să aștepți puțin și să încerci din nou."
   ],
   "EDmwVf": [
-    "Text overlay: ",
+    "Overlay text: ",
     [
       1,
       "text"
@@ -41295,7 +41429,7 @@
     "Primește recompense Nitro lunare"
   ],
   "EdXn1A": [
-    "Serverele cu restricționare în funcție de vârstă sunt blocate pe platforma iOS conform regulamentului App Store. Dacă ești adult, te poți alătura serverului de pe desktop și îți poți actualiza setările pentru a-l vedea și pe iOS. Vizitează Centrul nostru de asistență pentru a afla mai multe."
+    "Conform regulamentului App Store, serverele cu restricții de vârstă sunt blocate pe iOS. Dacă faci parte din grupa de vârstă a adulților, te poți alătura serverului pe desktop și îți poți actualiza setările pentru a-l vedea pe iOS. Vizitează Centrul de asistență pentru a afla mai multe."
   ],
   "Ee+rah": [
     "Obține un pachet pentru profil Nitro în ediție limitată! Îl poți folosi cu Nitro. Revendică-l până pe ",
@@ -42842,6 +42976,9 @@
   "FIHggl": [
     "Adaugă prieteni sau membri de pe servere la DM-urile de grup."
   ],
+  "FITyOf": [
+    "FITyOf"
+  ],
   "FIYcpC": [
     "Spune-ne motivul principal!"
   ],
@@ -44313,6 +44450,13 @@
   ],
   "G00RI5": [
     "Activat"
+  ],
+  "G08ClG": [
+    [
+      2,
+      "count"
+    ],
+    " online"
   ],
   "G08MKu": [
     "Nu-i vei mai vedea mesajele"
@@ -47908,6 +48052,9 @@
   "HKWdjj": [
     "Bucură-te de Discord în stilul tău cu culori unice pentru teme."
   ],
+  "HKyk+i": [
+    "HKyk+i"
+  ],
   "HLcCVh": [
     "Adresa de e-mail este obligatorie."
   ],
@@ -49554,7 +49701,7 @@
     "Finalizează pașii de mai jos pentru a-ți debloca contul"
   ],
   "I2GETO": [
-    "Șters"
+    "Șters(e)"
   ],
   "I2H0/E": [
     "Ai cerut reanalizarea acestei încălcări."
@@ -51902,6 +52049,9 @@
   "IuSJT8": [
     "Gestionează integrarea serverului"
   ],
+  "IuT87w": [
+    "Adaugă widget"
+  ],
   "IuXYch": [
     "Vrei să folosești acest sticker oriunde? Abonează-te la Nitro și alătură-te serverului."
   ],
@@ -52168,6 +52318,9 @@
     ],
     "."
   ],
+  "IzZ1pU": [
+    "IzZ1pU"
+  ],
   "IzZTIe": [
     "Director"
   ],
@@ -52364,6 +52517,9 @@
   ],
   "J0dpcB": [
     "Afișează numele"
+  ],
+  "J0tNny": [
+    "Include solicitări formulate în temeiul Online Safety Act"
   ],
   "J18GbG": [
     "S-a conectat acum ",
@@ -52586,6 +52742,9 @@
   "J8foZq": [
     "Sugestii de conversații pe iOS"
   ],
+  "J8r/7L": [
+    "Încheiată"
+  ],
   "J90oLW": [
     "canal-necunoscut"
   ],
@@ -52617,6 +52776,9 @@
         "un număr mult mai mare de noi membri implicați în conversații."
       ]
     ]
+  ],
+  "JBLQh3": [
+    "JBLQh3"
   ],
   "JBQxV6": [
     "Lista membrilor pentru canalul ",
@@ -53096,6 +53258,9 @@
   "JNx8sG": [
     "Ești la jumătate!"
   ],
+  "JO5lXN": [
+    "Deschide setările de voce și video"
+  ],
   "JOBw0y": [
     "Finalizat"
   ],
@@ -53164,6 +53329,9 @@
   ],
   "JRU8dq": [
     "Care este platforma ta favorită?"
+  ],
+  "JSSBzo": [
+    "Împărtășește Nitro"
   ],
   "JST6jl": [
     "Ia-ți Nitro"
@@ -53724,6 +53892,13 @@
   "JiIY1l": [
     "Rame pentru profil"
   ],
+  "JiMMEd": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "JiVjh9": [
     "Activează overlay-ul"
   ],
@@ -54141,7 +54316,7 @@
     "Filtru de spam pentru DM-uri"
   ],
   "JzbSEY": [
-    "Menționări + necitite"
+    "@Mentions + necitite"
   ],
   "Jzd+z/": [
     "Alege un nume pentru cheia nouă"
@@ -54439,6 +54614,9 @@
   ],
   "KA1U4B": [
     "Căutare indisponibilă"
+  ],
+  "KADI1J": [
+    "KADI1J"
   ],
   "KATEJB": [
     "Dezvoltatori"
@@ -54814,6 +54992,9 @@
   "KIpp7M": [
     "Valorifică"
   ],
+  "KIskmn": [
+    "Spoilere dezvăluite"
+  ],
   "KJ2JnG": [
     "Le permite membrilor să schimbe numele, descrierea și setările de text/voce ale acestor canale. De asemenea, aceștia pot șterge canalele."
   ],
@@ -54856,6 +55037,9 @@
   ],
   "KLWnit": [
     "Dezactivează autentificarea prin SMS"
+  ],
+  "KLmNgL": [
+    "KLmNgL"
   ],
   "KLnLIP": [
     "Telefon verificat!"
@@ -56808,6 +56992,9 @@
       ]
     ],
     ", inclusiv fontul, efectul și culoarea în Discord."
+  ],
+  "L8Xfoo": [
+    "Adaugă widget"
   ],
   "L8jjfu": [
     "Dacă mesajul este fixat sau nu"
@@ -59170,6 +59357,9 @@
   "M8jQyg": [
     "Cosmetic"
   ],
+  "M8sI9b": [
+    "Adaugă un card"
+  ],
   "M90TUl": [
     "Insignă Ciupercă otrăvitoare"
   ],
@@ -61166,6 +61356,9 @@
   "MwSEoz": [
     "Sigur"
   ],
+  "MwVmws": [
+    "MwVmws"
+  ],
   "MwY0BF": [
     "Gaming"
   ],
@@ -62243,6 +62436,9 @@
   "NLTGck": [
     "Cele mai vechi"
   ],
+  "NLadfA": [
+    "NLadfA"
+  ],
   "NLl6Q3": [
     "Tendință în jos"
   ],
@@ -62401,12 +62597,12 @@
     "Te-ar putea ajuta accelerarea hardware"
   ],
   "NQuXf0": [
-    "Serverele cu restricționare în funcție de vârstă sunt blocate pe platforma iOS conform regulamentului App Store. ",
+    "Conform regulamentului App Store, serverele cu restricții de vârstă sunt blocate pe iOS. Dacă faci parte din grupa de vârstă a adulților, te poți alătura serverului pe desktop și îți poți actualiza setările pentru a-l vedea pe iOS. ",
     [
       8,
       "$link",
       [
-        "Vizitează Centrul nostru de asistență"
+        "Vizitează Centrul de asistență"
       ],
       [
         [
@@ -62947,7 +63143,7 @@
     "Notificări"
   ],
   "Nb1EQx": [
-    "Numai tu poți vedea ce e aici"
+    "Numai tu vezi asta"
   ],
   "Nb2/RE": [
     "Fir nou"
@@ -68268,6 +68464,9 @@
     ],
     " pentru a putea crea această categorie privată."
   ],
+  "PhnOeM": [
+    "Verificați dacă există actualizări..."
+  ],
   "Pi3JW7": [
     "De asemenea, trimite în"
   ],
@@ -68517,6 +68716,9 @@
   "PqEzn8": [
     "Niciodată"
   ],
+  "PqQIY2": [
+    "PqQIY2"
+  ],
   "PqYfh/": [
     "Câștigă bani pe Discord"
   ],
@@ -68686,9 +68888,6 @@
       "duration"
     ]
   ],
-  "Pu7sCU": [
-    "Trimiți mai târziu?"
-  ],
   "PuB1W7": [
     "Află mai multe"
   ],
@@ -68697,6 +68896,9 @@
   ],
   "PuJGuM": [
     "SERVER"
+  ],
+  "PuL/sT": [
+    "Finalizează plata"
   ],
   "PuLLzP": [
     "Invitație trimisă"
@@ -71033,6 +71235,9 @@
     ],
     " aprecieri"
   ],
+  "QwkKWr": [
+    "QwkKWr"
+  ],
   "Qwlpov": [
     "Banner personalizat de invitație pe server"
   ],
@@ -72569,6 +72774,9 @@
     ],
     " ore"
   ],
+  "RZY2fr": [
+    "Categorie"
+  ],
   "RZiFBl": [
     "Asistență"
   ],
@@ -73085,6 +73293,9 @@
   ],
   "RnyseL": [
     "Rol:"
+  ],
+  "Ro5Nmi": [
+    "Ro5Nmi"
   ],
   "RoK9iD": [
     "Atunci când amuțești un server, notificările sunt suprimate. Totuși, poți vedea în continuare indicatorii de mesaje necitite dacă te menționează cineva."
@@ -74554,6 +74765,20 @@
   "SP9BBx": [
     "Necunoscută"
   ],
+  "SPQn3O": [
+    "Orice imagine intimă cu o persoană sub 18 ani reprezintă material cu abuz sexual asupra copiilor (CSAM) și este ilegală. Materialele CSAM sunt raportate către ",
+    [
+      8,
+      "$link",
+      [
+        "Centrul Național pentru Copii Dispăruți și Exploatați (National Center for Missing and Exploited Children)"
+      ],
+      [
+        "https://www.missingkids.org/home"
+      ]
+    ],
+    "."
+  ],
   "SPWLyT": [
     "Jurnalul server-ului"
   ],
@@ -74854,6 +75079,13 @@
   ],
   "SWIWEV": [
     "Restricționăm unele mesaje ca urmare a unui potențial raid de menționări."
+  ],
+  "SWPwHW": [
+    "+",
+    [
+      1,
+      "count"
+    ]
   ],
   "SWVxPM": [
     "Alege-ți clasa personajului"
@@ -76150,9 +76382,6 @@
   "T1lMSl": [
     "Permite cererile de a vorbi pe aceste canale podium. Moderatorii de podium aprobă sau resping manual fiecare cerere."
   ],
-  "T1n7hc": [
-    "Tocmai ai reîmprospătat asta. Încearcă din nou într-un minut."
-  ],
   "T1ocgk": [
     "Comunitatea lui ",
     [
@@ -76331,6 +76560,9 @@
   ],
   "T6bZsX": [
     "Când pui un utilizator pe pauză, acesta nu va mai putea trimite mesaje pe chat, răspunde în cadrul firelor, reacționa la mesaje sau vorbi pe canalele de voce sau podium."
+  ],
+  "T7AWtb": [
+    "Server privat"
   ],
   "T7DUoU": [
     "Deconectează-te de la ",
@@ -78218,6 +78450,9 @@
   ],
   "TrOccu": [
     "Obține stilul"
+  ],
+  "Trf5X/": [
+    "Trf5X/"
   ],
   "Trx7eJ": [
     "Problemă de overlay"
@@ -80661,6 +80896,9 @@
   ],
   "UqD/9W": [
     "N-am putut auzi deloc sunetul"
+  ],
+  "UqJCz6": [
+    "Suma datorată s-a schimbat. Verifică noul total și încearcă din nou."
   ],
   "UqL10G": [
     [
@@ -83238,6 +83476,13 @@
   ],
   "Vu7odK": [
     "Vezi toate"
+  ],
+  "VuK9sC": [
+    "Închide ",
+    [
+      1,
+      "appName"
+    ]
   ],
   "VuSFzp": [
     "Recenzii negative"
@@ -86835,6 +87080,9 @@
   "XKbf2G": [
     "Link-urile partajate expiră după 24 de ore."
   ],
+  "XKj5L9": [
+    "Portofel Orbs"
+  ],
   "XKk1gp": [
     "Se așteaptă conexiunea la rețea…"
   ],
@@ -87556,7 +87804,7 @@
     "Overlay-ul nu este acceptat pentru acest joc."
   ],
   "XcOMLu": [
-    "Economisește când îți schimbi stilul"
+    "Economisește când îți schimbi aspectul"
   ],
   "XcPHfw": [
     "Finalizează"
@@ -88177,6 +88425,9 @@
   ],
   "Xs7PHX": [
     "Cerințe"
+  ],
+  "Xs8DA4": [
+    "Xs8DA4"
   ],
   "XsCNky": [
     "Accesează instrumente precum ",
@@ -89473,6 +89724,9 @@
   "YNw2Sm": [
     "Canale și beneficii"
   ],
+  "YOE0u5": [
+    "YOE0u5"
+  ],
   "YOIKBt": [
     "Prietenii și doar serverele mici"
   ],
@@ -89795,6 +90049,9 @@
   ],
   "YUcMyC": [
     "Schimbă setarea"
+  ],
+  "YUcvdQ": [
+    "Sugerate"
   ],
   "YUhnoy": [
     [
@@ -92909,6 +93166,9 @@
   "ZdNUj2": [
     "Închide"
   ],
+  "ZdPp2q": [
+    "Spotify"
+  ],
   "ZdmRwW": [
     "Scanează-ți actul de identitate și fă un selfie pentru a-ți confirma identitatea. Ambele sunt șterse imediat după confirmare și nu vor fi niciodată asociate contului tău."
   ],
@@ -92974,6 +93234,9 @@
   ],
   "Zenogr": [
     "Temă și banner"
+  ],
+  "Zf0GQS": [
+    "Acest card are nevoie de verificare suplimentară. Autentifică-te pentru a finaliza plata."
   ],
   "Zf4NPe": [
     "Ascultători"
@@ -95099,6 +95362,9 @@
   "aY1OH2": [
     "Încarcă jurnalele de depanare către echipa de Asistență Discord"
   ],
+  "aY1ZL/": [
+    "aY1ZL/"
+  ],
   "aYLd8O": [
     [
       8,
@@ -95649,6 +95915,9 @@
       ]
     ]
   ],
+  "ajHWbZ": [
+    "De acum înainte poți încerca orice stil de nume afișat care îți atrage privirea."
+  ],
   "ajHoOr": [
     "Vezi profilul pentru jocuri"
   ],
@@ -95740,6 +96009,9 @@
   ],
   "al5EXL": [
     "Magazinul serverului"
+  ],
+  "alIotw": [
+    "alIotw"
   ],
   "alYXBF": [
     "Fișierul trebuie să fie de tip APNG, JPG, PNG, Lottie sau GIF (maximum ",
@@ -97634,6 +97906,13 @@
   "bFGpua": [
     "Membrii tăi joacă"
   ],
+  "bFIg0R": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "bFPqMm": [
     "Imagine stilizată cu un clipboard cu X"
   ],
@@ -97962,6 +98241,9 @@
       1,
       "guildName"
     ]
+  ],
+  "bP4GV1": [
+    "bP4GV1"
   ],
   "bPKiId": [
     "Niciun rezultat pentru „",
@@ -98729,6 +99011,9 @@
   "be2jkP": [
     "Partajarea sunetului nu este acceptată pe dispozitivele cu Android 9 sau versiuni anterioare."
   ],
+  "beHwVL": [
+    "Acest link este nevalid sau a expirat."
+  ],
   "beN4DG": [
     "Află cum să configurezi ",
     [
@@ -99007,6 +99292,9 @@
   ],
   "bgU5r0": [
     "Afișează o notificare de fiecare dată când se deschide overlay-ul, ca să te anunțe că overlay-ul a devenit activ."
+  ],
+  "bgfExW": [
+    "Hashtag"
   ],
   "bgn75v": [
     "Discord nu detectează niciun sunet de la microfonul tău."
@@ -99469,6 +99757,9 @@
   ],
   "bm82mm": [
     "0 / 1 disponibil"
+  ],
+  "bm8Dto": [
+    "bm8Dto"
   ],
   "bmOri0": [
     "Oprește înregistrarea"
@@ -100336,6 +100627,9 @@
   "bzEoCB": [
     "Blochează numele de utilizator nepermise"
   ],
+  "bzNi8X": [
+    "Asasinat Roshan"
+  ],
   "bzQdwW": [
     "Detalii Venmo"
   ],
@@ -100958,6 +101252,9 @@
   ],
   "cCqsca": [
     "Eroare la crearea webhook-ului"
+  ],
+  "cCuf8g": [
+    "cCuf8g"
   ],
   "cCvdJy": [
     "Deschide profilul pentru jocuri"
@@ -103753,6 +104050,9 @@
       "premiumMax"
     ],
     " mementouri"
+  ],
+  "cpqhYg": [
+    "Nu am putut confirma dacă această plată a fost efectuată. Autentifică-te pentru a-ți verifica abonamentul și încearcă din nou."
   ],
   "cqEoj/": [
     "Ajutor"
@@ -107474,6 +107774,19 @@
   "e5y+gm": [
     "DM de grup"
   ],
+  "e62g5R": [
+    "Elementul ",
+    [
+      1,
+      "index"
+    ],
+    " din ",
+    [
+      1,
+      "size"
+    ],
+    " al listei"
+  ],
   "e68fAU": [
     "A setat modul calitate video la ",
     [
@@ -108238,6 +108551,9 @@
   "eJOq+Z": [
     "Metoda de alăturare"
   ],
+  "eJU906": [
+    "Plata ta a fost efectuată cu succes."
+  ],
   "eJg+Zm": [
     "Lansează un server de jocuri"
   ],
@@ -108264,6 +108580,9 @@
   ],
   "eMFORn": [
     "Partajează un link când ești gata"
+  ],
+  "eMhkxR": [
+    "Se așteaptă aprobarea"
   ],
   "eMx/uZ": [
     "Dezactivarea comunității va elimina și ea server-ul din funcția de Descoperire server."
@@ -110915,6 +111234,9 @@
   "fMaEr2": [
     "Atinge pentru a adăuga filtrul la căutarea curentă"
   ],
+  "fMbgeZ": [
+    "Partajează activitatea"
+  ],
   "fMm5q/": [
     "Cerere în așteptare"
   ],
@@ -112719,6 +113041,9 @@
   "fphZb0": [
     "Conținut"
   ],
+  "fppR0H": [
+    "fppR0H"
+  ],
   "fq3Swz": [
     [
       8,
@@ -113605,6 +113930,9 @@
   "gBIG/N": [
     "Poți personaliza stilurile, numele afișat, pronumele și biografia pentru fiecare server."
   ],
+  "gBJwjU": [
+    "Îți vom adăuga automat achiziția în cont după ce va fi aprobată."
+  ],
   "gBKqZ0": [
     "Anulează urmărirea pentru ",
     [
@@ -114046,6 +114374,13 @@
   "gOAhtg": [
     "Alătură-te acestui server pentru a-l adăuga în listă și începe să discuți!"
   ],
+  "gOIq4P": [
+    "Alătură-te canalului ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "gOOPaG": [
     "Bine ai revenit!"
   ],
@@ -114447,6 +114782,15 @@
   ],
   "gYiBrD": [
     "Nu mai folosi aspectul de grilă"
+  ],
+  "gYzaCr": [
+    "Stilul lui ",
+    [
+      8,
+      "displayNameHook",
+      []
+    ],
+    " ți se potrivește de minune!"
   ],
   "gZEUBl": [
     "Gotic"
@@ -115667,6 +116011,9 @@
   "gxcsSq": [
     "Lansăm widget-urile pentru profil"
   ],
+  "gxpQzb": [
+    "gxpQzb"
+  ],
   "gyljWE": [
     "Test microfon"
   ],
@@ -116326,6 +116673,9 @@
   "hA4+su": [
     "Permisiuni acordate"
   ],
+  "hAmdLZ": [
+    "hAmdLZ"
+  ],
   "hBB85/": [
     "Poți schimba asta mai târziu."
   ],
@@ -116405,6 +116755,9 @@
   ],
   "hDPEu1": [
     "Schimbă expresiile regulate care au erori și încearcă din nou."
+  ],
+  "hDS40L": [
+    "hDS40L"
   ],
   "hDXaQ/": [
     "să fie clar: TU ești Jucătorul 2"
@@ -117632,6 +117985,13 @@
     ],
     ")"
   ],
+  "he73FE": [
+    "Plătește ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "heHHUW": [
     "Imagine"
   ],
@@ -118158,6 +118518,9 @@
       ]
     ],
     "."
+  ],
+  "hl0vjd": [
+    "Procesarea plății tale durează mai mult decât de obicei. Așteaptă înainte de a încerca din nou."
   ],
   "hl1V+b": [
     "Vezi spectatorii"
@@ -119105,6 +119468,9 @@
   "i4S4mo": [
     "Nu poți publica produsul fără o descriere și cel puțin un beneficiu"
   ],
+  "i4Slqv": [
+    "i4Slqv"
+  ],
   "i4T8vz": [
     "Abonează-te cu ",
     [
@@ -119153,6 +119519,9 @@
   ],
   "i6A1Xw": [
     "Trimis"
+  ],
+  "i6R1ay": [
+    "i6R1ay"
   ],
   "i6eV3z": [
     "Bluetooth"
@@ -120047,7 +120416,7 @@
     "marginea dreaptă"
   ],
   "iVqj8B": [
-    "Pagină principală clipuri"
+    "Clipuri: Pagină principală"
   ],
   "iVzBOh": [
     "Copiază link-ul"
@@ -120260,6 +120629,9 @@
   ],
   "iXldTS": [
     "Aspect grilă"
+  ],
+  "iXpQc+": [
+    "iXpQc+"
   ],
   "iXpzJ0": [
     "Invizibilitatea ascunde ceea ce joci de prieteni și de membrii serverului. ",
@@ -122076,6 +122448,9 @@
   "jAXIrH": [
     "Restituire"
   ],
+  "jB1fWC": [
+    "Asociază-ți contul"
+  ],
   "jB8yOL": [
     "Eroare trimisă"
   ],
@@ -122230,6 +122605,9 @@
   ],
   "jI66M4": [
     "Australia"
+  ],
+  "jI9XE6": [
+    "jI9XE6"
   ],
   "jID6XQ": [
     "Misiuni"
@@ -124684,6 +125062,9 @@
   "kHdYCW": [
     "Dă clic pentru a vedea sticker-ul"
   ],
+  "kHie4V": [
+    "Reîncarcă aplicația"
+  ],
   "kHjdqc": [
     "Te anunță când poți face streaming la un joc atunci când se deschide overlay-ul."
   ],
@@ -125987,6 +126368,9 @@
     "urs",
     "ursuleț"
   ],
+  "kocF+6": [
+    "Obiecte din joc"
+  ],
   "koklFG": [
     "Cheamă foarte simplu oameni noi pe server, folosind propriul tău link de invitație personalizat. Dar ai grijă, oricine are linkul se poate alătura și trebuie să ai cel puțin un canal de text deschis pentru toți membrii serverului. ",
     [
@@ -126397,12 +126781,12 @@
     "Animat"
   ],
   "l+jt8J": [
-    "Ești în grupa de vârstă a adolescenților, deci solicitările de mesaje nu pot fi dezactivate. Dacă informația nu este corectă, poți ",
+    "Faci parte din grupa de vârstă a adolescenților, așa că solicitările de mesaje nu pot fi dezactivate. Dacă ți se pare că nu este corect, poți ",
     [
       8,
       "$link",
       [
-        "confirma că ești adult"
+        "să-ți confirmi statutul de adult"
       ],
       [
         [
@@ -130649,6 +131033,9 @@
   "mZKxHb": [
     "Schimbă fundalul video"
   ],
+  "mZUpB8": [
+    "mZUpB8"
+  ],
   "mZffAi": [
     "Nu am încălcat politica"
   ],
@@ -131897,6 +132284,9 @@
     "sclipici",
     "strălucire"
   ],
+  "mj8th4": [
+    "mj8th4"
+  ],
   "mjB9pd": [
     "Da, încheie evenimentul"
   ],
@@ -132421,6 +132811,9 @@
   ],
   "mpb7t3": [
     "Boost activat"
+  ],
+  "mpd5Bv": [
+    "Salut! Discord va rula în fundal ca să nu pierzi legătura cu prietenii. Poți da clic dreapta aici pentru a ieși din aplicație."
   ],
   "mpnvrV": [
     "Adu streamul la dimensiunea containerului"
@@ -134457,6 +134850,9 @@
   "nYQyEg": [
     "Am întâmpinat o eroare la încărcarea acestei misiuni. Reîmprospătează clientul Discord și încearcă din nou."
   ],
+  "nYb8xq": [
+    "Include solicitări formulate în temeiul Decretului privind protecția online a femeilor (Decretul nr. 12.976/2026)"
+  ],
   "nYn52B": [
     "Peste 100 de articole"
   ],
@@ -136267,6 +136663,9 @@
   ],
   "oAYOCk": [
     "Descarcă aplicația"
+  ],
+  "oAYuZw": [
+    "Încearcă acest stil pentru nume"
   ],
   "oAvIAg": [
     "Asociat cu"
@@ -139067,11 +139466,26 @@
   "p9KOsc": [
     "Poți oferi drept cadou numai Nitro (în curând și Nitro Basic)"
   ],
+  "p9PPYD": [
+    "Bonus de ",
+    [
+      1,
+      "multiplier"
+    ],
+    "x la Orbs cu Nitro"
+  ],
   "p9TwTG": [
     "Ramificație"
   ],
   "p9ZAJZ": [
     "Activează Modul Streamer"
+  ],
+  "p9fIXw": [
+    "Salvează și plătește ",
+    [
+      1,
+      "amount"
+    ]
   ],
   "p9jC2r": [
     "PORNIT"
@@ -141187,6 +141601,9 @@
   "pkXAeG": [
     "Utilizează overlay-ul Discord în joc"
   ],
+  "pkXfdR": [
+    "Nu am putut încărca formularul de plată. Încearcă din nou."
+  ],
   "pkYeA6": [
     "Acțiuni asupra apelurilor din canal"
   ],
@@ -141949,6 +142366,9 @@
   ],
   "ptL/DP": [
     "Înainte"
+  ],
+  "ptXc9l": [
+    "ptXc9l"
   ],
   "ptxALO": [
     "Acțiuni pentru fundalul video"
@@ -143773,12 +144193,12 @@
     "Încheie evenimentul"
   ],
   "qbBkFI": [
-    "Ești în grupa de vârstă a adolescenților, deci unele setări nu pot fi modificate. Dacă informația nu este corectă, poți ",
+    "Faci parte din grupa de vârstă a adolescenților, așa că unele setări nu pot fi modificate. Dacă nu ți se pare corect, poți ",
     [
       8,
       "$link",
       [
-        "confirma că ești adult"
+        "să-ți confirmi statutul de adult"
       ],
       [
         [
@@ -144399,6 +144819,9 @@
   ],
   "qvtjM4": [
     "Verificăm faptul că serverele tale (probabil) nu sunt bântuite."
+  ],
+  "qvvMqu": [
+    "Dezvăluie spoiler"
   ],
   "qvx9E4": [
     [
@@ -146036,6 +146459,9 @@
   "rWKv+e": [
     "Creare clipuri"
   ],
+  "rWPrJC": [
+    "Sunetele implicite Discord"
+  ],
   "rWQr9U": [
     "Renunți la emojiul tău?"
   ],
@@ -146339,7 +146765,7 @@
     "Etichete pentru nume"
   ],
   "rbAtUi": [
-    "Activ — publicat pe ",
+    "Activ — publicat ",
     [
       1,
       "timestamp"
@@ -146707,6 +147133,28 @@
   ],
   "rgZKg2": [
     "Dezactivează overlay-ul"
+  ],
+  "rgpc8E": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "rhBeKe": [
     "Data nașterii tale"
@@ -147451,6 +147899,28 @@
   "rp2Hu5": [
     "Caută-ți instituția de învățământ"
   ],
+  "rp7bx+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " membru"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " membri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "rpFCLs": [
     "Trimite din nou cerere"
   ],
@@ -147695,6 +148165,51 @@
       1,
       "name"
     ]
+  ],
+  "rtm4DR": [
+    "Dacă ai motive de îngrijorare privind siguranța ta sau a cuiva pe care îl cunoști, contactează Centrul de Asistență pentru Femei la numărul 180 sau accesează ",
+    [
+      8,
+      "$link",
+      [
+        "liniile de asistență și serviciile telefonice de urgență din Brazilia"
+      ],
+      [
+        [
+          1,
+          "supportOrgURL"
+        ]
+      ]
+    ],
+    ". Găsești mai multe resurse în ",
+    [
+      8,
+      "$link",
+      [
+        "Hub-ul pentru bunăstare"
+      ],
+      [
+        [
+          1,
+          "wellbeingURL"
+        ]
+      ]
+    ],
+    " și în ",
+    [
+      8,
+      "$link",
+      [
+        "articolul din Centrul de asistență"
+      ],
+      [
+        [
+          1,
+          "helpCenterURL"
+        ]
+      ]
+    ],
+    "."
   ],
   "ru+2jw": [
     "Niciun prieten în comun"
@@ -148108,6 +148623,9 @@
   ],
   "s1vQIL": [
     "Număr nelimitat de participanți"
+  ],
+  "s1xGYd": [
+    "s1xGYd"
   ],
   "s285pq": [
     "Acțiuni pentru text"
@@ -152472,6 +152990,9 @@
   "t8geR1": [
     "Vezi mai puțin"
   ],
+  "t8z5gn": [
+    "Vezi dacă ți se potrivește stilul"
+  ],
   "t94EHg": [
     "Nivel de abonament"
   ],
@@ -152708,6 +153229,9 @@
   ],
   "tGDabk": [
     "Acest Soundmoji este din"
+  ],
+  "tGQtlT": [
+    "tGQtlT"
   ],
   "tGRbjA": [
     "Nume folder"
@@ -156050,6 +156574,9 @@
   "uFxYq0": [
     "Verifică adresa de e-mail"
   ],
+  "uG3Bwy": [
+    "Sigur?"
+  ],
   "uG6b1w": [
     "Această acțiune nu poate fi anulată."
   ],
@@ -157316,9 +157843,6 @@
   "uloYww": [
     "Filtru de spam pentru mesajele directe"
   ],
-  "um/5Kc": [
-    "S-a solicitat reîmprospătarea. Cardul tău se va actualiza în scurt timp."
-  ],
   "umBn5f": [
     "Arrr"
   ],
@@ -157609,6 +158133,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "uqFXw/": [
+    "uqFXw/"
   ],
   "uqHLzW": [
     "Caută canale sau roluri"
@@ -162091,6 +162618,9 @@
   "wd4yrz": [
     "Afișează codul QR"
   ],
+  "wdNhTg": [
+    "wdNhTg"
+  ],
   "wdOb3H": [
     "Gaming"
   ],
@@ -162362,7 +162892,7 @@
     "Steam"
   ],
   "wi6hPV": [
-    "Vizitează Centrul nostru de asistență"
+    "Vizitează Centrul de asistență"
   ],
   "wiBqTu": [
     "Ce gest frumos! ",
@@ -165839,6 +166369,9 @@
   "xca2ts": [
     "Șterge contul"
   ],
+  "xcasYL": [
+    "xcasYL"
+  ],
   "xcoOBS": [
     "Verde mentă"
   ],
@@ -168910,9 +169443,6 @@
   "yohc6E": [
     "Vezi tot"
   ],
-  "ypKX9A": [
-    "Nu am putut contacta această aplicație pentru a solicita o reîmprospătare. Încearcă din nou peste puțin timp."
-  ],
   "ypc3Yp": [
     "Alege o aplicație"
   ],
@@ -169052,6 +169582,9 @@
   ],
   "yuEmLj": [
     "Drăgălășenie și confort"
+  ],
+  "yul+0g": [
+    "Publică"
   ],
   "yum": [
     "apetit",
@@ -170334,6 +170867,14 @@
   "zSN9vp": [
     "Adaugă text"
   ],
+  "zSYTEX": [
+    "Canalul ",
+    [
+      1,
+      "channelName"
+    ],
+    ", fixare anulată"
+  ],
   "zSbMdX": [
     "Alege culoarea"
   ],
@@ -170753,6 +171294,9 @@
   "zdXqG9": [
     "Vechime cont"
   ],
+  "zdk9GB": [
+    "Introdu o adresă de facturare completă."
+  ],
   "zdlPgL": [
     "Membrii cu această permisiune pot muta alți membri afară din acest canal. Aceștia pot muta membrii doar între\ncanalele la care atât ei cât și membrii mutați au acces."
   ],
@@ -170972,6 +171516,13 @@
   "zjfaGH": [
     "Păstrează serverul de jocuri"
   ],
+  "zjuWNH": [
+    "Deschide ",
+    [
+      1,
+      "appName"
+    ]
+  ],
   "zk6Xbs": [
     "Adaugă o scurtătură"
   ],
@@ -171154,6 +171705,9 @@
       ]
     ],
     ". Poți să marchezi acest utilizator ca verificat!"
+  ],
+  "znwvG4": [
+    "Folder"
   ],
   "zo6jzu": [
     "În următoarele săptămâni, activitățile vor fi indisponibile cât timp lucrăm la îmbunătățiri. Mulțumim pentru răbdare!"
@@ -171391,6 +171945,9 @@
   ],
   "zvDu4h": [
     "Regimul lent este dezactivat."
+  ],
+  "zvEYIq": [
+    "zvEYIq"
   ],
   "zvGFsh": [
     "Folosește stickere din oricare dintre serverele tale pe toate serverele și în mesajele directe!"

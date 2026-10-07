@@ -235,6 +235,28 @@
     ],
     " kuluttua, niin voit tehdä enemmän!"
   ],
+  "+5b01q": [
+    [
+      6,
+      "minutes",
+      {
+        "one": [
+          [
+            7
+          ],
+          " minuutti"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " minuuttia"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+5kSoW": [
     "Linkki kopioitu!"
   ],
@@ -5074,10 +5096,10 @@
     ],
     " orbia ",
     [
-      1,
+      2,
       "days"
     ],
-    " päivän kuluttua"
+    " päivän jaksolla"
   ],
   "05AyNA": [
     "Lataa palvelimelle ",
@@ -5845,6 +5867,9 @@
       "count"
     ],
     " yhteensä"
+  ],
+  "0ModIv": [
+    "0ModIv"
   ],
   "0Mykgq": [
     "Erikoishinta jäsenille"
@@ -8452,6 +8477,14 @@
       "activity"
     ]
   ],
+  "1JZfaU": [
+    "Avaa orbeille ",
+    [
+      1,
+      "multiplier"
+    ],
+    "-bonuskerroin Nitrolla"
+  ],
   "1Jf+4B": [
     "Lisää äänisuodattimia julkaistiin juuri!"
   ],
@@ -8763,9 +8796,6 @@
   ],
   "1Ts7QP": [
     "Kuvaus"
-  ],
-  "1UFWet": [
-    "Tälle sovellukselle ei ole vielä määritetty profiilikorttia."
   ],
   "1UJvqc": [
     "Vuush. Ilmoitukset ovat valmiina!"
@@ -9406,6 +9436,9 @@
       1,
       "attachment"
     ]
+  ],
+  "1osZYy": [
+    "Laskuasi ei voitu ladata. Yritä uudelleen."
   ],
   "1pp0su": [
     "Switch"
@@ -12036,6 +12069,9 @@
       "name"
     ]
   ],
+  "2tcO02": [
+    "Tämä lasku ei ole enää käytettävissä. Tarkista tilauksesi kirjautumalla sisään."
+  ],
   "2tgQnk": [
     "Discord ei pysty muodostamaan yhteyttä. Yritämme uudelleen hetken kuluttua. Jos Discord jää toistuvasti jumiin tähän vaiheeseen, lukaise ",
     [
@@ -12228,6 +12264,9 @@
   "2yOjup": [
     "Tämä lahja on jo käytetty."
   ],
+  "2yTd7D": [
+    "Palvelimeen ei voi liittyä"
+  ],
   "2yjnmb": [
     "Jos sinulta liikenee hetki, auta meitä parantamaan käyttäjäkokemusta kertomalla, miksi poistat peitetason käytöstä."
   ],
@@ -12312,6 +12351,9 @@
   "2ziAWp": [
     "kertokaa, jos tarvitsette vielä yhden ryhmään"
   ],
+  "2zxYCx": [
+    "Poista"
+  ],
   "3+LO1w": [
     "Vanhemmat viestit"
   ],
@@ -12362,9 +12404,6 @@
   ],
   "30Owsd": [
     "Aikataulu otettu käyttöön"
-  ],
-  "30UxZU": [
-    "Tämä sovellus ei voi päivittää korttiasi ennen kuin valtuutat sen uudelleen Valtuutetut sovellukset ‑osiossa."
   ],
   "30V0t5": [
     "Oletko varma?"
@@ -12557,6 +12596,9 @@
   ],
   "34PW6m": [
     "9:16"
+  ],
+  "34VJiG": [
+    "Maksutapaa ei voitu tallentaa. Tarkista tiedot ja yritä uudelleen."
   ],
   "34XN2f": [
     "Animoi avatar-koristeeni"
@@ -13253,6 +13295,9 @@
   ],
   "3L/DZq": [
     "Avaa suuremmat tiedostojen jakamiskoot koko palvelimelle nostatuksilla."
+  ],
+  "3LJ1u9": [
+    "Toiminnan jakaminen"
   ],
   "3LUFnI": [
     "Palvelintuotteesi julkaisu on peruttu."
@@ -15079,6 +15124,9 @@
   ],
   "3x962E": [
     "Luo uudet varakoodit"
+  ],
+  "3xFZEo": [
+    "Yhteisöt"
   ],
   "3xFaKk": [
     "Kokoushuone"
@@ -17455,6 +17503,9 @@
   "4z6ldH": [
     "Peruuta lataus palvelimelle"
   ],
+  "4z9ZVX": [
+    "Maksuasi ei voitu käsitellä. Yritä uudelleen."
+  ],
   "4z9fN+": [
     "Pois"
   ],
@@ -17634,6 +17685,9 @@
   ],
   "50gfOv": [
     "Varmista puhelinnumero"
+  ],
+  "51/RO8": [
+    "Liite"
   ],
   "515vjG": [
     "Lue lisää klikkaamalla"
@@ -19966,6 +20020,9 @@
   "5xtLRC": [
     "tiedostonimi"
   ],
+  "5xxUI2": [
+    "Suosittua musiikkia"
+  ],
   "5y0wym": [
     "Liity: ",
     [
@@ -20406,6 +20463,9 @@
   ],
   "65r43O": [
     "Nostatuksesi odottaa!"
+  ],
+  "65zBhE": [
+    "Luo oma"
   ],
   "65ziLu": [
     "Hups, tuo ei näköjään toiminut."
@@ -22663,6 +22723,9 @@
   "6vrfgt": [
     "Katkaise yhteys"
   ],
+  "6w+Dyr": [
+    "Äänitiedostoa ei voitu lukea. Se voi olla vioittunut tai käyttää ei-tuettua koodekkia."
+  ],
   "6wKpiV": [
     "Yritin siirtyä tietylle kanavalle tai palvelimelle"
   ],
@@ -23070,6 +23133,9 @@
   ],
   "7A/tE0": [
     "Provinssi"
+  ],
+  "7ACDrq": [
+    "Kokeile tätä ulkoasua"
   ],
   "7AVpta": [
     "Lisää Leikegalleria-pienoisohjelma"
@@ -24119,6 +24185,9 @@
   "7e5k7L": [
     "Valmiina heti kun sinäkin..."
   ],
+  "7e7es8": [
+    "7e7es8"
+  ],
   "7eIrA2": [
     "Kopioitu!"
   ],
@@ -24705,6 +24774,9 @@
   ],
   "7qKDrE": [
     "Vahvista salasana"
+  ],
+  "7qUFc7": [
+    "Spoileri näkyvissä"
   ],
   "7qbp3B": [
     "...enemmän"
@@ -27902,6 +27974,9 @@
   "93tEDn": [
     "Yhteys"
   ],
+  "93uxht": [
+    "Luettelokohde"
+  ],
   "93xPy3": [
     "3 Nitro-passia kavereille"
   ],
@@ -27947,6 +28022,9 @@
   ],
   "94p7dq": [
     "Nitron voima on sinun"
+  ],
+  "95GB1V": [
+    "95GB1V"
   ],
   "95HTb5": [
     "Hieno lisäys palvelimellesi. Täällä näyttää tosi kotoisalta."
@@ -28615,6 +28693,9 @@
   ],
   "9Oq93m": [
     "Jäsenet"
+  ],
+  "9P3PfN": [
+    "9P3PfN"
   ],
   "9P8djr": [
     "Muokkaa kuvaa"
@@ -29489,6 +29570,9 @@
   "9qAGNs": [
     "Valmis"
   ],
+  "9qJQtX": [
+    "9qJQtX"
+  ],
   "9qLtWs": [
     "Hallinnoi kanavia"
   ],
@@ -30177,23 +30261,6 @@
   "A2DY6J": [
     "Viestin lähetysajankohta"
   ],
-  "A2XnI4": [
-    "Fontti ",
-    [
-      1,
-      "fontName"
-    ],
-    ", ",
-    [
-      1,
-      "effectName"
-    ],
-    ", ",
-    [
-      1,
-      "colors"
-    ]
-  ],
   "A2dqWG": [
     [
       2,
@@ -30812,6 +30879,9 @@
   ],
   "AP/2qe": [
     "Rahallistaminen on otettu käyttöön."
+  ],
+  "AP3kT4": [
+    "Anime"
   ],
   "APQGZ+": [
     "Olemmeko tehneet virheen? ",
@@ -31542,6 +31612,14 @@
   ],
   "AfrvRD": [
     "Katso koko kauppa"
+  ],
+  "AgMngw": [
+    "Orb-saldo: ",
+    [
+      1,
+      "balance"
+    ],
+    " orbia, uusia orb-haastepäivityksiä"
   ],
   "AgXXyy": [
     "Palvelimen tila"
@@ -32326,6 +32404,9 @@
   "AzTwiu": [
     "Keskustelufoorumin tunnistetoiminta"
   ],
+  "AzkvWe": [
+    "Esittelyruutu"
+  ],
   "B+cbLS": [
     "Vaihdetaanko online-tilaan?"
   ],
@@ -32596,6 +32677,13 @@
         ]
       ]
     ]
+  ],
+  "B5tZXw": [
+    [
+      1,
+      "orbAmount"
+    ],
+    " orbia lunastettu kaikkiaan"
   ],
   "B66Z+f": [
     "Aktiivinen"
@@ -32901,7 +32989,7 @@
     "Kuvat"
   ],
   "BEL9MJ": [
-    "Jaetun resurssin laajennus"
+    "Resurssin jakava laajennus"
   ],
   "BENn/6": [
     "Kaikki Live-esitykset"
@@ -33218,9 +33306,6 @@
   ],
   "BLEx3k": [
     "Päivitä palvelin"
-  ],
-  "BLKD4B": [
-    "Päivitystä ei voitu pyytää. Yritä hetken kuluttua uudelleen."
   ],
   "BLYT8n": [
     "Sinulla ei ole enää nostatuksia käytettäväksi. Jos haluat ostaa niitä lisää, päivitä tilauksesi, kun käynnissä oleva tilausmuutoksesi on toteutunut."
@@ -34687,6 +34772,9 @@
   ],
   "BtwmYB": [
     "Valitse kanava, jolla sääntösi sijaitsevat. Kyseinen kanava näkyy oletusarvoisesti ylimpänä, ja sen otsikkopalkki on erottuva."
+  ],
+  "Bu6kWV": [
+    "Bu6kWV"
   ],
   "BufsKk": [
     "Muu"
@@ -36376,6 +36464,14 @@
   "Cc4Mc9": [
     "Kirjaudu Meta Horizon ‑mobiilisovelluksella"
   ],
+  "CcNVYB": [
+    "Kanava ",
+    [
+      1,
+      "channelName"
+    ],
+    ", kiinnitetty ylös"
+  ],
   "CcVI1T": [
     [
       6,
@@ -37195,6 +37291,13 @@
       1,
       "username"
     ]
+  ],
+  "D/HToK": [
+    [
+      1,
+      "hours"
+    ],
+    " t"
   ],
   "D/PHq5": [
     "Bluesky"
@@ -38876,6 +38979,9 @@
   "Dt3ZUr": [
     "Animoitu avatar"
   ],
+  "Dt63vf": [
+    "Dt63vf"
+  ],
   "DtFqEI": [
     "Tämä maksutapa ei ole kelvollinen."
   ],
@@ -38928,6 +39034,28 @@
   ],
   "DwDxDU": [
     "Etkö ole saanut kutsua?"
+  ],
+  "DwFqrb": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " nostatus"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " nostatusta"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "DwKFKd": [
     "Profiilin lataaminen tälle palvelimelle ei onnistunut."
@@ -40610,7 +40738,7 @@
     "Ansaitse Nitro-palkintoja kuukausittain"
   ],
   "EdXn1A": [
-    "Ikärajoitetut palvelimet on estetty iOS-käyttöjärjestelmässä App Storen sääntöjen mukaisesti. Jos olet aikuinen, voit liittyä palvelimeen tietokoneella ja päivittää asetuksesi, jotta voit tarkastella sitä myös iOS-laitteella. Katso lisätietoja ohjekeskuksestamme."
+    "Ikärajoitetut palvelimet on estetty iOS-käyttöjärjestelmässä App Storen sääntöjen mukaisesti. Jos olet aikuinen, voit liittyä palvelimelle työpöytäsovelluksessa ja päivittää asetuksesi niin, että näet palvelimen iOS:llä. Katso lisätietoja ohjekeskuksestamme."
   ],
   "Ee+rah": [
     "Saat rajoitetun Nitro-profiilipaketin! Käytä vapaasti Nitrolla. Lunasta ",
@@ -43599,6 +43727,13 @@
   ],
   "G00RI5": [
     "Päällä"
+  ],
+  "G08ClG": [
+    [
+      2,
+      "count"
+    ],
+    " paikalla"
   ],
   "G08MKu": [
     "Et näe enää käyttäjän viestejä"
@@ -47142,6 +47277,9 @@
   ],
   "HKWdjj": [
     "Lisää oma silauksesi Discordiin yksilöllisillä teemaväreillä."
+  ],
+  "HKyk+i": [
+    "HKyk+i"
   ],
   "HLcCVh": [
     "Sähköposti on pakollinen."
@@ -51066,6 +51204,9 @@
   "IuSJT8": [
     "Palvelinintegroinnin hallinta"
   ],
+  "IuT87w": [
+    "Lisää pienoisohjelma"
+  ],
   "IuXYch": [
     "Haluatko käyttää tätä tarraa kaikkialla? Hanki Nitro-tilaus ja liity palvelimelle."
   ],
@@ -51331,6 +51472,9 @@
     ],
     " Discord-avatar."
   ],
+  "IzZ1pU": [
+    "IzZ1pU"
+  ],
   "IzZTIe": [
     "Hakemisto"
   ],
@@ -51512,6 +51656,9 @@
   ],
   "J0dpcB": [
     "Näytä nimet"
+  ],
+  "J0tNny": [
+    "Sisältää Online Safety Act ‑lain mukaiset pyynnöt"
   ],
   "J18GbG": [
     "Yhdistetty ",
@@ -51735,6 +51882,9 @@
   "J8foZq": [
     "iOS-keskusteluehdotukset"
   ],
+  "J8r/7L": [
+    "Päättynyt"
+  ],
   "J90oLW": [
     "tuntematon_kanava"
   ],
@@ -51767,6 +51917,9 @@
       ]
     ],
     "."
+  ],
+  "JBLQh3": [
+    "JBLQh3"
   ],
   "JBQxV6": [
     "Jäsenluettelo: ",
@@ -52230,6 +52383,9 @@
   "JNx8sG": [
     "Olet jo puolivälissä!"
   ],
+  "JO5lXN": [
+    "Avaa ääni- ja videoasetukset"
+  ],
   "JOBw0y": [
     "Valmis"
   ],
@@ -52298,6 +52454,9 @@
   ],
   "JRU8dq": [
     "Mikä on ensisijainen järjestelmäsi?"
+  ],
+  "JSSBzo": [
+    "Jaa Nitro"
   ],
   "JST6jl": [
     "Hanki Nitro"
@@ -52857,6 +53016,13 @@
   "JiIY1l": [
     "Profiilikehys"
   ],
+  "JiMMEd": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "JiVjh9": [
     "Ota peitetaso käyttöön"
   ],
@@ -53268,7 +53434,7 @@
     "Yksityisviestien roskasuodatin"
   ],
   "JzbSEY": [
-    "Maininnat + lukemattomat"
+    "@Mentions + lukemattomat"
   ],
   "Jzd+z/": [
     "Valitse nimi uudelle avaimellesi"
@@ -53566,6 +53732,9 @@
   ],
   "KA1U4B": [
     "Haku ei käytettävissä"
+  ],
+  "KADI1J": [
+    "KADI1J"
   ],
   "KATEJB": [
     "Kehittäjät"
@@ -53942,6 +54111,9 @@
   "KIpp7M": [
     "Lunasta"
   ],
+  "KIskmn": [
+    "Spoilerit näkyvissä"
+  ],
   "KJ2JnG": [
     "Jäsenet voivat muuttaa näiden kanavien nimiä, kuvauksia ja teksti-/puheasetuksia. Lisäksi he voivat poistaa nämä kanavat."
   ],
@@ -53984,6 +54156,9 @@
   ],
   "KLWnit": [
     "Poista tekstiviestitodennus käytöstä"
+  ],
+  "KLmNgL": [
+    "KLmNgL"
   ],
   "KLnLIP": [
     "Puhelin vahvistettu!"
@@ -55858,6 +56033,9 @@
       ]
     ],
     " käyttöön kaikkialla Discordissa."
+  ],
+  "L8Xfoo": [
+    "Lisää pienoisohjelma"
   ],
   "L8jjfu": [
     "Onko viesti kiinnitetty vai ei"
@@ -58205,6 +58383,9 @@
   "M8jQyg": [
     "Kosmeettinen"
   ],
+  "M8sI9b": [
+    "Lisää kortti"
+  ],
   "M90TUl": [
     "Myrkkysienimerkki"
   ],
@@ -60224,6 +60405,9 @@
   "MwSEoz": [
     "Olen varma"
   ],
+  "MwVmws": [
+    "MwVmws"
+  ],
   "MwY0BF": [
     "Pelaaminen"
   ],
@@ -61270,6 +61454,9 @@
   "NLTGck": [
     "Vanhimmat"
   ],
+  "NLadfA": [
+    "NLadfA"
+  ],
   "NLl6Q3": [
     "Trendaamista kuvaava laskeva nuoli"
   ],
@@ -61428,7 +61615,7 @@
     "Laitteistokiihdytys parantaa tätä"
   ],
   "NQuXf0": [
-    "Ikärajoitetut palvelimet on estetty iOS-käyttöjärjestelmässä App Storen sääntöjen mukaisesti. Katso lisätietoja ",
+    "Ikärajoitetut palvelimet on estetty iOS-käyttöjärjestelmässä App Storen sääntöjen mukaisesti. Jos olet aikuinen, voit liittyä palvelimelle työpöytäsovelluksessa ja päivittää asetuksesi niin, että näet palvelimen iOS:llä. Katso lisätietoja ",
     [
       8,
       "$link",
@@ -67133,6 +67320,9 @@
     ],
     "‑käyttöoikeudet."
   ],
+  "PhnOeM": [
+    "Etsi päivityksiä..."
+  ],
   "Pi3JW7": [
     "Lähetä myös tänne:"
   ],
@@ -67380,6 +67570,9 @@
   "PqEzn8": [
     "Ei koskaan"
   ],
+  "PqQIY2": [
+    "PqQIY2"
+  ],
   "PqYfh/": [
     "Ansaitse rahaa Discordissa"
   ],
@@ -67547,9 +67740,6 @@
     ],
     " ajaksi"
   ],
-  "Pu7sCU": [
-    "Lähetetäänkö myöhemmin?"
-  ],
   "PuB1W7": [
     "Lisätietoja"
   ],
@@ -67558,6 +67748,9 @@
   ],
   "PuJGuM": [
     "PALVELIN"
+  ],
+  "PuL/sT": [
+    "Suorita maksu"
   ],
   "PuLLzP": [
     "Kutsu lähetetty"
@@ -69393,7 +69586,7 @@
     "käyttäjän ohitus kumottu"
   ],
   "QlN4tN": [
-    "Linkki"
+    "Linkitä"
   ],
   "QlyC9s": [
     "Aseta viesteille oletusreaktio"
@@ -69868,6 +70061,9 @@
       ]
     ],
     " tykkäystä"
+  ],
+  "QwkKWr": [
+    "QwkKWr"
   ],
   "Qwlpov": [
     "Mukautettu palvelinkutsubanneri"
@@ -71436,6 +71632,9 @@
     ],
     " tunnin maraton"
   ],
+  "RZY2fr": [
+    "Luokka"
+  ],
   "RZiFBl": [
     "Tuki"
   ],
@@ -71967,6 +72166,9 @@
   ],
   "RnyseL": [
     "Rooli:"
+  ],
+  "Ro5Nmi": [
+    "Ro5Nmi"
   ],
   "RoK9iD": [
     "Palvelimen mykistäminen poistaa ilmoitukset käytöstä, mutta lukemattomien viestien huomautukset näkyvät yhä, jos sinut mainitaan."
@@ -73405,6 +73607,20 @@
   "SP9BBx": [
     "Tuntematon"
   ],
+  "SPQn3O": [
+    "Kaikki alle 18-vuotiasta esittävä intiimi kuvamateriaali katsotaan lasten seksuaalista hyväksikäyttöä sisältäväksi aineistoksi, joka on laitonta. Siitä ilmoitetaan ",
+    [
+      8,
+      "$link",
+      [
+        "National Center for Missing & Exploited Children ‑järjestölle"
+      ],
+      [
+        "https://www.missingkids.org/home"
+      ]
+    ],
+    "."
+  ],
   "SPWLyT": [
     "Valvontaloki"
   ],
@@ -73696,6 +73912,13 @@
   ],
   "SWIWEV": [
     "Rajoitamme viestejä mahdollisen mainintahyökkäyksen takia."
+  ],
+  "SWPwHW": [
+    "+",
+    [
+      1,
+      "count"
+    ]
   ],
   "SWVxPM": [
     "Valitse hahmoluokkasi"
@@ -74946,9 +75169,6 @@
   "T1lMSl": [
     "Salli pyynnöt puhua näillä esityskanavilla. Esityksen valvojat hyväksyvät tai hylkäävät pyynnöt manuaalisesti."
   ],
-  "T1n7hc": [
-    "Päivitit tämän juuri. Yritä uudelleen hetken kuluttua."
-  ],
   "T1ocgk": [
     "Käyttäjän ",
     [
@@ -75161,6 +75381,9 @@
   ],
   "T6bZsX": [
     "Kun asetat käyttäjän jäähylle, hän ei voi lähettää viestejä keskustelussa, vastata ketjuihin, reagoida viesteihin tai puhua puhe- tai esityskanavilla."
+  ],
+  "T7AWtb": [
+    "Yksityinen palvelin"
   ],
   "T7DUoU": [
     "Katkaise yhteys käyttäjään ",
@@ -77006,6 +77229,9 @@
   ],
   "TrOccu": [
     "Osta tämä ulkoasu"
+  ],
+  "Trf5X/": [
+    "Trf5X/"
   ],
   "Trx7eJ": [
     "Peitetaso-ongelma"
@@ -79468,6 +79694,9 @@
   ],
   "UqD/9W": [
     "En kuullut mitään ääniä"
+  ],
+  "UqJCz6": [
+    "Maksettava määrä muuttui. Tarkasta uusi kokonaissumma ja yritä uudelleen."
   ],
   "UqL10G": [
     [
@@ -82061,6 +82290,13 @@
   ],
   "Vu7odK": [
     "Näytä kaikki"
+  ],
+  "VuK9sC": [
+    "Lopeta ",
+    [
+      1,
+      "appName"
+    ]
   ],
   "VuSFzp": [
     "Negatiivisten palautteiden määrä"
@@ -85576,6 +85812,9 @@
   "XKbf2G": [
     "Jaetut linkit vanhenevat 24 tunnin kuluessa."
   ],
+  "XKj5L9": [
+    "Orb-lompakko"
+  ],
   "XKk1gp": [
     "Odotetaan verkkoyhteyttä…"
   ],
@@ -86891,6 +87130,9 @@
   "Xs7PHX": [
     "Vaatimukset"
   ],
+  "Xs8DA4": [
+    "Xs8DA4"
+  ],
   "XsCNky": [
     "Käytä ",
     [
@@ -88148,6 +88390,9 @@
   "YNw2Sm": [
     "Kanavat ja edut"
   ],
+  "YOE0u5": [
+    "YOE0u5"
+  ],
   "YOIKBt": [
     "Kaverit ja vain pienet palvelimet"
   ],
@@ -88454,6 +88699,9 @@
   ],
   "YUcMyC": [
     "Vaihda asetus"
+  ],
+  "YUcvdQ": [
+    "Ehdotetut"
   ],
   "YUhnoy": [
     [
@@ -91481,6 +91729,9 @@
   "ZdNUj2": [
     "Sulje"
   ],
+  "ZdPp2q": [
+    "Spotify"
+  ],
   "ZdmRwW": [
     "Vahvista henkilöllisyytesi skannaamalla henkilötodistuksesi ja ottamalla selfiekuva itsestäsi. Ne molemmat poistetaan vahvistuksen jälkeen eikä niitä yhdistetä koskaan tiliisi."
   ],
@@ -91531,6 +91782,9 @@
   ],
   "Zenogr": [
     "Teema ja banneri"
+  ],
+  "Zf0GQS": [
+    "Tämä kortti vaatii lisävahvistuksen. Viimeistele maksu kirjautumalla sisään."
   ],
   "Zf4NPe": [
     "Kuuntelijat"
@@ -93625,6 +93879,9 @@
   "aY1OH2": [
     "Lataa vianmäärityslokit Discordin tuelle"
   ],
+  "aY1ZL/": [
+    "aY1ZL/"
+  ],
   "aYLd8O": [
     [
       8,
@@ -94147,6 +94404,9 @@
       ]
     ]
   ],
+  "ajHWbZ": [
+    "Voit nyt kokeilla kaikkia silmääsi osuvia näyttönimityylejä."
+  ],
   "ajHoOr": [
     "Näytä peliprofiili"
   ],
@@ -94237,6 +94497,9 @@
   ],
   "al5EXL": [
     "Palvelimen kauppa"
+  ],
+  "alIotw": [
+    "alIotw"
   ],
   "alYXBF": [
     "Tiedostomuodon on oltava APNG, JPG, PNG, Lottie tai GIF (koko enintään ",
@@ -95918,6 +96181,13 @@
   "bFGpua": [
     "Jäsentesi pelaaminen"
   ],
+  "bFIg0R": [
+    "+",
+    [
+      1,
+      "count"
+    ]
+  ],
   "bFPqMm": [
     "Tyylitelty kuva kirjoituslevystä, jossa on rasti"
   ],
@@ -96246,6 +96516,9 @@
       1,
       "guildName"
     ]
+  ],
+  "bP4GV1": [
+    "bP4GV1"
   ],
   "bPKiId": [
     "Haulla ”",
@@ -96920,6 +97193,9 @@
   "be2jkP": [
     "Äänen jako ei ole tuettu Android-versiossa 9 ja sitä aiemmissa versioissa."
   ],
+  "beHwVL": [
+    "Tämä linkki on virheellinen tai vanhentunut."
+  ],
   "beN4DG": [
     "Katso ",
     [
@@ -97165,6 +97441,9 @@
   ],
   "bgU5r0": [
     "Kertoo peitetason aktiivisuudesta ilmoituksella, joka tulee näkyviin aina, kun peitetaso avataan."
+  ],
+  "bgfExW": [
+    "Aihetunniste"
   ],
   "bgn75v": [
     "Discord ei havaitse mikrofonistasi mitään syötettä."
@@ -97569,6 +97848,9 @@
   ],
   "bm82mm": [
     "0/1 saatavilla"
+  ],
+  "bm8Dto": [
+    "bm8Dto"
   ],
   "bmOri0": [
     "Lopeta tallennus"
@@ -98342,6 +98624,9 @@
   "bzEoCB": [
     "Estä huonot käyttäjänimet"
   ],
+  "bzNi8X": [
+    "Roshanin tappo"
+  ],
   "bzQdwW": [
     "Venmo-tiedot"
   ],
@@ -98932,6 +99217,9 @@
   ],
   "cCqsca": [
     "Virhe luotaessa webhookia"
+  ],
+  "cCuf8g": [
+    "cCuf8g"
   ],
   "cCvdJy": [
     "Avaa pelin profiili"
@@ -101386,6 +101674,9 @@
       2,
       "premiumMax"
     ]
+  ],
+  "cpqhYg": [
+    "Maksun onnistumista ei voitu vahvistaa. Kirjaudu sisään ja tarkista tilauksesi ennen kuin yrität uudelleen."
   ],
   "cqEoj/": [
     "Ohjeet"
@@ -104872,6 +105163,18 @@
   "e5y+gm": [
     "Ryhmäkeskustelu"
   ],
+  "e62g5R": [
+    "Luettelokohde ",
+    [
+      1,
+      "index"
+    ],
+    "/",
+    [
+      1,
+      "size"
+    ]
+  ],
   "e68fAU": [
     "Asetti videolaatutilaksi ",
     [
@@ -105620,6 +105923,9 @@
   "eJOq+Z": [
     "Liittymismenetelmä"
   ],
+  "eJU906": [
+    "Maksusi onnistui."
+  ],
   "eJg+Zm": [
     "Pistä pelipalvelin pystyyn"
   ],
@@ -105646,6 +105952,9 @@
   ],
   "eMFORn": [
     "Jaa linkki, kun olet valmis"
+  ],
+  "eMhkxR": [
+    "Odottaa hyväksyntää"
   ],
   "eMx/uZ": [
     "Yhteisötoimintojen poistaminen käytöstä poistaa palvelimen palvelinhausta."
@@ -108216,6 +108525,9 @@
   "fMaEr2": [
     "Liitä suodatin nykyiseen hakuun napauttamalla"
   ],
+  "fMbgeZ": [
+    "Jaa toiminta"
+  ],
   "fMm5q/": [
     "Odottava pyyntö"
   ],
@@ -109884,6 +110196,9 @@
   "fphZb0": [
     "Sisältö"
   ],
+  "fppR0H": [
+    "fppR0H"
+  ],
   "fq3Swz": [
     [
       8,
@@ -110731,6 +111046,9 @@
   "gBIG/N": [
     "Voit mukauttaa tyylejä, näyttönimeä, persoonapronomineja ja biografiaa palvelinkohtaisesti."
   ],
+  "gBJwjU": [
+    "Ostoksesi lisätään tilillesi automaattisesti, kun se on hyväksytty."
+  ],
   "gBKqZ0": [
     "Poista ",
     [
@@ -111175,6 +111493,13 @@
   "gOAhtg": [
     "Liity tälle palvelimelle, niin se lisätään luetteloosi ja voit alkaa keskustella!"
   ],
+  "gOIq4P": [
+    "Liity kanavalle ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "gOOPaG": [
     "Tervetuloa takaisin!"
   ],
@@ -111577,6 +111902,14 @@
   ],
   "gYiBrD": [
     "Poistu ruudukkonäkymästä"
+  ],
+  "gYzaCr": [
+    [
+      8,
+      "displayNameHook",
+      []
+    ],
+    " näyttää juuri sinun tyylisi mukaiselta!"
   ],
   "gZEUBl": [
     "Gootti"
@@ -112687,6 +113020,9 @@
   "gxcsSq": [
     "Saammeko esitellä profiilin pienoisohjelmat"
   ],
+  "gxpQzb": [
+    "gxpQzb"
+  ],
   "gyljWE": [
     "Mikrofonitesti"
   ],
@@ -113282,6 +113618,9 @@
   "hA4+su": [
     "Myönnetyt käyttöoikeudet"
   ],
+  "hAmdLZ": [
+    "hAmdLZ"
+  ],
   "hBB85/": [
     "Voit muuttaa tätä myöhemmin."
   ],
@@ -113362,6 +113701,9 @@
   ],
   "hDPEu1": [
     "Muuta kaikkia säännöllisiä lausekkeita, joissa on virheitä, ja yritä uudelleen."
+  ],
+  "hDS40L": [
+    "hDS40L"
   ],
   "hDXaQ/": [
     "selvyyden vuoksi, SINÄ olet sitten apuri"
@@ -114564,6 +114906,13 @@
     ],
     ")"
   ],
+  "he73FE": [
+    "Maksa ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "heHHUW": [
     "Kuva"
   ],
@@ -114993,6 +115342,9 @@
       ]
     ],
     " on sinun."
+  ],
+  "hl0vjd": [
+    "Maksusi käsittely kestää tavallista pidempään. Odota ennen kuin yrität uudelleen."
   ],
   "hl1V+b": [
     "Näytä katselijat"
@@ -115856,6 +116208,9 @@
   "i4S4mo": [
     "Tuotetta ei voi julkaista ennen kuin siinä on kuvaus ja vähintään yksi etu"
   ],
+  "i4Slqv": [
+    "i4Slqv"
+  ],
   "i4T8vz": [
     "Tilaa hintaan ",
     [
@@ -115904,6 +116259,9 @@
   ],
   "i6A1Xw": [
     "Lähetetty"
+  ],
+  "i6R1ay": [
+    "i6R1ay"
   ],
   "i6eV3z": [
     "Bluetooth"
@@ -116984,6 +117342,9 @@
   ],
   "iXldTS": [
     "Ruudukkonäkymä"
+  ],
+  "iXpQc+": [
+    "iXpQc+"
   ],
   "iXpzJ0": [
     "Näkymättömyys piilottaa tiedon pelaamisestasi kavereilta ja palvelimiesi jäseniltä. ",
@@ -118744,6 +119105,9 @@
   "jAXIrH": [
     "Hyvitys"
   ],
+  "jB1fWC": [
+    "Yhdistä tili"
+  ],
   "jB8yOL": [
     "Bugi lähetetty"
   ],
@@ -118898,6 +119262,9 @@
   ],
   "jI66M4": [
     "Australia"
+  ],
+  "jI9XE6": [
+    "jI9XE6"
   ],
   "jID6XQ": [
     "Tehtävät"
@@ -121275,6 +121642,9 @@
   "kHdYCW": [
     "Katso tarra napsauttamalla"
   ],
+  "kHie4V": [
+    "Lataa sovellus uudelleen"
+  ],
   "kHjdqc": [
     "Kertoo, milloin voit striimata peliä, kun peitetaso avautuu ensimmäisen kerran."
   ],
@@ -122480,6 +122850,9 @@
   "koala": [
     "karhu",
     "koala"
+  ],
+  "kocF+6": [
+    "Pelinsisäiset tuotteet"
   ],
   "koklFG": [
     "Ohjaa muita helposti palvelimellesi omalla mukautetulla kutsulinkillä. Muista kuitenkin, että kuka tahansa voi liittyä mukaan tällä linkillä. Sinulla on myös oltava vähintään yksi tekstikanava, johon kaikilla palvelimen jäsenillä on pääsy. ",
@@ -126969,6 +127342,9 @@
   "mZKxHb": [
     "Vaihda videokuvan tausta"
   ],
+  "mZUpB8": [
+    "mZUpB8"
+  ],
   "mZffAi": [
     "En rikkonut käytäntöä"
   ],
@@ -128048,6 +128424,9 @@
     "peilipallo",
     "tanssi"
   ],
+  "mj8th4": [
+    "mj8th4"
+  ],
   "mjB9pd": [
     "Kyllä, lopeta tapahtuma"
   ],
@@ -128489,6 +128868,9 @@
   ],
   "mpb7t3": [
     "Nostatus aktivoitu"
+  ],
+  "mpd5Bv": [
+    "Hei! Discord toimii taustalla, jotta voit pitää yhteyttä kavereihisi. Voit sammuttaa sen napsauttamalla tätä hiiren kakkospainikkeella."
   ],
   "mpnvrV": [
     "Sovita striimi säilöön"
@@ -130499,6 +130881,9 @@
   "nYQyEg": [
     "Tätä tehtävää ladattaessa ilmeni virhe. Päivitä Discord-asiakasohjelmasi ja yritä uudelleen."
   ],
+  "nYb8xq": [
+    "Sisältää Online Protection of Women Decree ‑lain (nro 12,976/2026) mukaiset pyynnöt"
+  ],
   "nYn52B": [
     "Yli 100 tuotetta lisää"
   ],
@@ -132199,6 +132584,9 @@
   ],
   "oAYOCk": [
     "Lataa sovellus"
+  ],
+  "oAYuZw": [
+    "Kokeile tätä nimityyliä"
   ],
   "oAvIAg": [
     "Linkitetty kohteeseen"
@@ -134339,7 +134727,7 @@
     ]
   ],
   "p+Bvxs": [
-    "Emoji"
+    "Emojit"
   ],
   "p+XCta": [
     "Neonyöt"
@@ -134802,11 +135190,26 @@
   "p9KOsc": [
     "Lahjananto toimii vain Nitrolla (Nitro Basic -tuki tulossa pian)"
   ],
+  "p9PPYD": [
+    "Nitrolla saat orbit ",
+    [
+      1,
+      "multiplier"
+    ],
+    "-bonuskertoimella"
+  ],
   "p9TwTG": [
     "Haara"
   ],
   "p9ZAJZ": [
     "Ota striimaustila käyttöön"
+  ],
+  "p9fIXw": [
+    "Tallenna ja maksa ",
+    [
+      1,
+      "amount"
+    ]
   ],
   "p9jC2r": [
     "Päällä"
@@ -136677,6 +137080,9 @@
   "pkXAeG": [
     "Käytä Discordin peitetasoa pelissä"
   ],
+  "pkXfdR": [
+    "Maksulomaketta ei voitu ladata. Yritä uudelleen."
+  ],
   "pkYeA6": [
     "Kanavan puhelutoiminnot"
   ],
@@ -137319,6 +137725,9 @@
   ],
   "ptL/DP": [
     "Ennen"
+  ],
+  "ptXc9l": [
+    "ptXc9l"
   ],
   "ptxALO": [
     "Videokuvan taustatoiminnot"
@@ -139690,6 +140099,9 @@
   "qvtjM4": [
     "Vahvistetaan, että palvelimillasi ei (todennäköisesti) ole kummituksia."
   ],
+  "qvvMqu": [
+    "Näytä spoileri"
+  ],
   "qvx9E4": [
     [
       1,
@@ -141293,6 +141705,9 @@
   "rWKv+e": [
     "Clipping"
   ],
+  "rWPrJC": [
+    "Discordin oletus"
+  ],
   "rWQr9U": [
     "Hylätäänkö emojisi?"
   ],
@@ -141869,6 +142284,28 @@
   ],
   "rgZKg2": [
     "Poista peitetaso käytöstä"
+  ],
+  "rgpc8E": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " peli"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " peliä"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "rhBeKe": [
     "Syntymäaikasi"
@@ -142509,6 +142946,28 @@
   "rp2Hu5": [
     "Etsi oma oppilaitoksesi"
   ],
+  "rp7bx+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jäsen"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jäsentä"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "rpFCLs": [
     "Hae uudelleen"
   ],
@@ -142750,6 +143209,51 @@
       "name"
     ],
     " – logo"
+  ],
+  "rtm4DR": [
+    "Jos olet huolissasi omasta tai tuntemasi henkilön turvallisuudesta, ota yhteyttä Women’s Assistance Centeriin soittamalla Ligue 180 ‑puhelinpalveluun tai katso ",
+    [
+      8,
+      "$link",
+      [
+        "muut Brasilian auttavat puhelimet"
+      ],
+      [
+        [
+          1,
+          "supportOrgURL"
+        ]
+      ]
+    ],
+    ". Lisätietoja ja ‑resursseja on ",
+    [
+      8,
+      "$link",
+      [
+        "hyvinvointikeskuksessamme"
+      ],
+      [
+        [
+          1,
+          "wellbeingURL"
+        ]
+      ]
+    ],
+    " ja ",
+    [
+      8,
+      "$link",
+      [
+        "tässä ohjekeskuksen artikkelissa"
+      ],
+      [
+        [
+          1,
+          "helpCenterURL"
+        ]
+      ]
+    ],
+    "."
   ],
   "ru+2jw": [
     "Ei yhteisiä kavereita"
@@ -143161,6 +143665,9 @@
   ],
   "s1vQIL": [
     "Rajoittamattomasti osallistujia"
+  ],
+  "s1xGYd": [
+    "s1xGYd"
   ],
   "s285pq": [
     "Tekstitoiminnot"
@@ -146933,6 +147440,9 @@
   "t8geR1": [
     "Näytä vähemmän"
   ],
+  "t8z5gn": [
+    "Kokeile käyttäjän tyyliä"
+  ],
   "t94EHg": [
     "Tilaustaso"
   ],
@@ -147170,6 +147680,9 @@
   ],
   "tGDabk": [
     "Ääniemoji on peräisin täältä:"
+  ],
+  "tGQtlT": [
+    "tGQtlT"
   ],
   "tGRbjA": [
     "Kansion nimi"
@@ -150242,6 +150755,9 @@
   "uFxYq0": [
     "Vahvista sähköpostiosoite"
   ],
+  "uG3Bwy": [
+    "Oletko varma?"
+  ],
   "uG6b1w": [
     "Tätä toimintoa ei voi perua."
   ],
@@ -151514,9 +152030,6 @@
   "uloYww": [
     "Yksityisviestien roskaviestisuodatin"
   ],
-  "um/5Kc": [
-    "Päivitystä pyydetty. Korttisi päivittyy pian."
-  ],
   "umBn5f": [
     "Arrr"
   ],
@@ -151772,6 +152285,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "uqFXw/": [
+    "uqFXw/"
   ],
   "uqHLzW": [
     "Hae kanavia tai rooleja"
@@ -156171,6 +156687,9 @@
   "wd4yrz": [
     "Näytä QR-koodi"
   ],
+  "wdNhTg": [
+    "wdNhTg"
+  ],
   "wdOb3H": [
     "Pelaaminen"
   ],
@@ -156388,7 +156907,7 @@
     "Steam"
   ],
   "wi6hPV": [
-    "Käy ohjekeskuksessamme"
+    "Siirry ohjekeskukseemme"
   ],
   "wiBqTu": [
     "Oletpa kerrassaan antelias! ",
@@ -159580,6 +160099,9 @@
   "xca2ts": [
     "Poista tili"
   ],
+  "xcasYL": [
+    "xcasYL"
+  ],
   "xcoOBS": [
     "Mintunvihreä"
   ],
@@ -162582,9 +163104,6 @@
   "yohc6E": [
     "Näytä kaikki"
   ],
-  "ypKX9A": [
-    "Tähän sovellukseen ei saatu yhteyttä päivityspyyntöä varten. Yritä hetken kuluttua uudelleen."
-  ],
   "ypc3Yp": [
     "Valitse sovellus"
   ],
@@ -162725,6 +163244,9 @@
   ],
   "yuEmLj": [
     "Söpöt ja kodikkaat"
+  ],
+  "yul+0g": [
+    "Julkaise"
   ],
   "yum": [
     "herkullinen",
@@ -163996,6 +164518,14 @@
   "zSN9vp": [
     "Lisää teksti"
   ],
+  "zSYTEX": [
+    "Kanava ",
+    [
+      1,
+      "channelName"
+    ],
+    ", kiinnitys peruttu"
+  ],
   "zSbMdX": [
     "Valitse väri"
   ],
@@ -164402,6 +164932,9 @@
   "zdXqG9": [
     "Tilin ikä"
   ],
+  "zdk9GB": [
+    "Anna koko laskutusosoite."
+  ],
   "zdlPgL": [
     "Tämän oikeuden omaavat jäsenet voivat vetää jäseniä pois tältä kanavalta. Oikeuden haltija voi siirtää jäseniä\nainoastaan sellaisten kanavien välillä, joihin sekä hänellä että siirrettävällä jäsenellä on oikeus."
   ],
@@ -164614,6 +165147,13 @@
   "zjfaGH": [
     "Säilytä pelipalvelin"
   ],
+  "zjuWNH": [
+    "Avaa ",
+    [
+      1,
+      "appName"
+    ]
+  ],
   "zk6Xbs": [
     "Lisää näppäinkomento"
   ],
@@ -164796,6 +165336,9 @@
       ]
     ],
     " koodin kanssa. Voit merkitä hänet vahvistetuksi!"
+  ],
+  "znwvG4": [
+    "Kansio"
   ],
   "zo6jzu": [
     "Toiminnot-ominaisuus ei ole käytettävissä seuraavien muutaman viikon ajan, kun viritämme sitä entistä ehompaan kuntoon. Kiitos kärsivällisyydestänne!"
@@ -165038,6 +165581,9 @@
   ],
   "zvDu4h": [
     "Etanatila pois käytöstä."
+  ],
+  "zvEYIq": [
+    "zvEYIq"
   ],
   "zvGFsh": [
     "Käytä kaikkien palvelintesi tarroja kaikilla palvelimillasi ja kaikissa yksityisviesteissäsi!"
