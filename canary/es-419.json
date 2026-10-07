@@ -5228,10 +5228,16 @@
       "days",
       {
         "one": [
-          "día"
+          [
+            7
+          ],
+          " día"
         ],
         "other": [
-          "días"
+          [
+            7
+          ],
+          " días"
         ]
       },
       0,
@@ -8673,6 +8679,14 @@
       "activity"
     ]
   ],
+  "1JZfaU": [
+    "Desbloquea una bonificación de Orbs x",
+    [
+      1,
+      "multiplier"
+    ],
+    " con Nitro"
+  ],
   "1Jf+4B": [
     "¡Acaban de llegar más filtros de voz!"
   ],
@@ -9628,6 +9642,9 @@
       1,
       "attachment"
     ]
+  ],
+  "1osZYy": [
+    "No pudimos cargar tu factura. Inténtalo de nuevo."
   ],
   "1pp0su": [
     "Cambiar"
@@ -12337,6 +12354,9 @@
       "name"
     ]
   ],
+  "2tcO02": [
+    "Esta factura ya no está disponible. Iniciar sesión para revisar tu suscripción."
+  ],
   "2tgQnk": [
     "Mmm, Discord no logra establecer una conexión. Lo intentaremos de nuevo en un momento. Si Discord sigue atascándose en este paso, consulta ",
     [
@@ -12891,6 +12911,9 @@
   ],
   "34PW6m": [
     "9:16"
+  ],
+  "34VJiG": [
+    "No pudimos guardar este método de pago. Revisa tus datos e inténtalo de nuevo."
   ],
   "34XN2f": [
     "Animar mi decoración de avatar"
@@ -17868,6 +17891,9 @@
   "4z6ldH": [
     "Cancelar subida"
   ],
+  "4z9ZVX": [
+    "No pudimos procesar tu pago. Inténtalo de nuevo."
+  ],
   "4z9fN+": [
     "Desactivar"
   ],
@@ -18047,6 +18073,9 @@
   ],
   "50gfOv": [
     "Verificar teléfono"
+  ],
+  "51/RO8": [
+    "Archivo adjunto"
   ],
   "515vjG": [
     "Haz clic para obtener más información"
@@ -23199,6 +23228,9 @@
   "6vrfgt": [
     "Desconectar"
   ],
+  "6w+Dyr": [
+    "No se pudo leer este archivo de audio. Puede estar dañado o usar un códec no compatible."
+  ],
   "6wKpiV": [
     "Intento navegar a un canal o servidor específico"
   ],
@@ -23621,6 +23653,9 @@
   ],
   "7A/tE0": [
     "Provincia"
+  ],
+  "7ACDrq": [
+    "Prueba esta apariencia"
   ],
   "7AVpta": [
     "Añade el widget de la galería de clips"
@@ -25303,6 +25338,9 @@
   ],
   "7qKDrE": [
     "Confirmar tu contraseña"
+  ],
+  "7qUFc7": [
+    "Spoiler revelado"
   ],
   "7qbp3B": [
     "...más"
@@ -27296,7 +27334,7 @@
     "% desde la derecha"
   ],
   "8e4LiB": [
-    "Todos"
+    "Todo"
   ],
   "8eBJ73": [
     "Actualmente, los participantes sin vídeo están ocultos. ¿Quieres mostrarlos?"
@@ -28540,6 +28578,9 @@
   ],
   "93tEDn": [
     "Conexión"
+  ],
+  "93uxht": [
+    "Artículo de la lista"
   ],
   "93xPy3": [
     "3 pases de amistad de Nitro"
@@ -30854,22 +30895,6 @@
   "A2DY6J": [
     "Cuándo se envió el mensaje"
   ],
-  "A2XnI4": [
-    [
-      1,
-      "fontName"
-    ],
-    " fuente, ",
-    [
-      1,
-      "effectName"
-    ],
-    ", ",
-    [
-      1,
-      "colors"
-    ]
-  ],
   "A2dqWG": [
     "en ",
     [
@@ -32239,6 +32264,14 @@
   "AfrvRD": [
     "Explora todos los artículos"
   ],
+  "AgMngw": [
+    "Saldo de Orbs: ",
+    [
+      1,
+      "balance"
+    ],
+    " Orbs, novedades de desafíos de Orbs"
+  ],
   "AgXXyy": [
     "Estado del servidor"
   ],
@@ -33033,6 +33066,9 @@
   "AzTwiu": [
     "Acciones de la etiqueta del foro"
   ],
+  "AzkvWe": [
+    "Mosaico destacado"
+  ],
   "B+cbLS": [
     "¿Cambiar a En línea?"
   ],
@@ -33303,6 +33339,13 @@
         ]
       ]
     ]
+  ],
+  "B5tZXw": [
+    [
+      1,
+      "orbAmount"
+    ],
+    " Orbs canjeados en total"
   ],
   "B66Z+f": [
     "Activo"
@@ -37144,6 +37187,14 @@
   ],
   "Cc4Mc9": [
     "Inicia sesión con la aplicación para dispositivos móviles de Meta Horizon"
+  ],
+  "CcNVYB": [
+    "Canal ",
+    [
+      1,
+      "channelName"
+    ],
+    ", fijado en la parte superior"
   ],
   "CcVI1T": [
     [
@@ -41461,7 +41512,7 @@
     "Gana recompensas de Nitro mensualmente"
   ],
   "EdXn1A": [
-    "Los servidores con restricción de edad están bloqueados en la plataforma de iOS según la normativa de la App Store. Si eres adulto, puedes unirte al servidor desde la computadora y actualizar tu configuración para verlo en iOS. Visita nuestro Centro de Ayuda para obtener más información."
+    "Los servidores con restricción de edad están bloqueados en la plataforma iOS según la normativa de la App Store. Si eres mayor de edad, puedes unirse al servidor desde la versión de escritorio y actualizar tus ajustes para verlo en iOS. Visita nuestro Centro de Ayuda para obtener más información."
   ],
   "Ee+rah": [
     "¡Consigue un paquete de edición limitada para el perfil de Nitro! Paquete exclusivo para usar con Nitro. Reclámalo antes del ",
@@ -52550,6 +52601,9 @@
   "J0dpcB": [
     "Mostrar nombres"
   ],
+  "J0tNny": [
+    "Incluye las solicitudes bajo la ley Online Safety Act (Ley de Seguridad en Línea)"
+  ],
   "J18GbG": [
     "Se conectó hace ",
     [
@@ -53289,6 +53343,9 @@
   ],
   "JNx8sG": [
     "¡Ya estás a mitad de camino!"
+  ],
+  "JO5lXN": [
+    "Abrir ajustes de voz y video"
   ],
   "JOBw0y": [
     "Completado"
@@ -54346,7 +54403,7 @@
     "Filtro de spam en los MD"
   ],
   "JzbSEY": [
-    "Menciones + No leídos"
+    "@Mentions + No leídos"
   ],
   "Jzd+z/": [
     "Asigna un nombre a tu nueva llave"
@@ -55024,6 +55081,9 @@
   ],
   "KIpp7M": [
     "Canjear"
+  ],
+  "KIskmn": [
+    "Spoilers revelados"
   ],
   "KJ2JnG": [
     "Permite que los miembros modifiquen el nombre, la descripción y los ajustes de texto y voz de estos canales. También tendrán la opción de eliminar estos canales."
@@ -59392,6 +59452,9 @@
   "M8jQyg": [
     "Estético"
   ],
+  "M8sI9b": [
+    "Añadir una tarjeta"
+  ],
   "M90TUl": [
     "Insignia de hongo venenoso"
   ],
@@ -62429,7 +62492,7 @@
     "Activar las notificaciones de superreacciones"
   ],
   "NKTF0a": [
-    "Más de 50 juegos, 10 horas de juegos en la nube al mes y hasta $25 en recompensas. ¡A ugar! ",
+    "Más de 50 juegos, 10 horas de juegos en la nube al mes y hasta $25 en recompensas. ¡A jugar! ",
     [
       8,
       "$link",
@@ -62665,7 +62728,7 @@
     "La aceleración de hardware hará que esto funcione mejor"
   ],
   "NQuXf0": [
-    "Los servidores con restricción de edad están bloqueados en la plataforma de iOS según la normativa de la App Store. ",
+    "Los servidores con restricción de edad están bloqueados en la plataforma iOS según la normativa de la App Store. Si eres mayor de edad, puedes unirse al servidor desde la versión de escritorio y actualizar tus ajustes para verlo en iOS. ",
     [
       8,
       "$link",
@@ -68520,6 +68583,9 @@
     ],
     " para crear esta categoría privada."
   ],
+  "PhnOeM": [
+    "Buscar actualizaciones..."
+  ],
   "Pi3JW7": [
     "También enviar a"
   ],
@@ -68945,9 +69011,6 @@
       "duration"
     ]
   ],
-  "Pu7sCU": [
-    "¿Enviar más tarde?"
-  ],
   "PuB1W7": [
     "Más información"
   ],
@@ -68956,6 +69019,9 @@
   ],
   "PuJGuM": [
     "SERVIDOR"
+  ],
+  "PuL/sT": [
+    "Completar tu pago"
   ],
   "PuLLzP": [
     "Invitación enviada"
@@ -74822,6 +74888,20 @@
   ],
   "SP9BBx": [
     "Desconocida"
+  ],
+  "SPQn3O": [
+    "Las imágenes íntimas de cualquier persona menor de 18 años se consideran material de abuso sexual infantil (CSAM, por sus siglas en inglés) y son ilegales. El CSAM se denuncian al ",
+    [
+      8,
+      "$link",
+      [
+        "Centro Nacional para Niños Desaparecidos y Explotados"
+      ],
+      [
+        "https://www.missingkids.org/home"
+      ]
+    ],
+    "."
   ],
   "SPWLyT": [
     "Registro de auditoría"
@@ -80964,6 +81044,9 @@
   "UqD/9W": [
     "No pude escuchar el audio en absoluto"
   ],
+  "UqJCz6": [
+    "El monto a pagar cambió. Revisa el nuevo total e inténtalo de nuevo."
+  ],
   "UqL10G": [
     [
       8,
@@ -83539,6 +83622,13 @@
   ],
   "Vu7odK": [
     "Ver todo"
+  ],
+  "VuK9sC": [
+    "Salir de ",
+    [
+      1,
+      "appName"
+    ]
   ],
   "VuSFzp": [
     "Reseñas negativas"
@@ -87139,6 +87229,9 @@
   ],
   "XKbf2G": [
     "Los enlaces que compartas caducan en 24 horas."
+  ],
+  "XKj5L9": [
+    "Orb Wallet"
   ],
   "XKk1gp": [
     "Esperando red..."
@@ -93268,6 +93361,9 @@
   "Zenogr": [
     "Tema y cartel"
   ],
+  "Zf0GQS": [
+    "Esta tarjeta necesita verificación adicional. Inicia sesión para completar tu pago."
+  ],
   "Zf4NPe": [
     "Oyentes"
   ],
@@ -95927,6 +96023,9 @@
         ]
       ]
     ]
+  ],
+  "ajHWbZ": [
+    "Ahora puedes probar cualquier estilo de nombre para mostrar que te llame la atención."
   ],
   "ajHoOr": [
     "Ver perfil de juego"
@@ -98848,6 +98947,9 @@
   "be2jkP": [
     "Necesitas una versión del sistema Android posterior a la 9.0 para compartir audio."
   ],
+  "beHwVL": [
+    "Este enlace no es válido o ha caducado."
+  ],
   "beN4DG": [
     "Consulta cómo configurar tu ",
     [
@@ -99129,6 +99231,9 @@
   ],
   "bgU5r0": [
     "Muestra un aviso cada vez que se abre el overlay para avisarte que el overlay ahora está activo."
+  ],
+  "bgfExW": [
+    "Hashtag"
   ],
   "bgn75v": [
     "Discord no detecta ninguna entrada de tu micrófono."
@@ -100412,6 +100517,9 @@
   ],
   "bzEoCB": [
     "Bloquear nombres de usuario inapropiados"
+  ],
+  "bzNi8X": [
+    "Roshan Kill"
   ],
   "bzQdwW": [
     "Detalles de Venmo"
@@ -103643,6 +103751,9 @@
       "premiumMax"
     ],
     " recordatorios"
+  ],
+  "cpqhYg": [
+    "No pudimos confirmar si este pago se realizó. Iniciar sesión para revisar tu suscripción antes de intentarlo de nuevo."
   ],
   "cqEoj/": [
     "Ayuda"
@@ -107337,6 +107448,19 @@
   "e5y+gm": [
     "Grupo de MD"
   ],
+  "e62g5R": [
+    "Artículo ",
+    [
+      1,
+      "index"
+    ],
+    " de ",
+    [
+      1,
+      "size"
+    ],
+    " de la lista"
+  ],
   "e68fAU": [
     "Establecer el modo de calidad de video en ",
     [
@@ -108104,6 +108228,9 @@
   "eJOq+Z": [
     "Método usado para unirse"
   ],
+  "eJU906": [
+    "Tu pago se procesó correctamente."
+  ],
   "eJg+Zm": [
     "Inicia un servidor de juego"
   ],
@@ -108130,6 +108257,9 @@
   ],
   "eMFORn": [
     "Comparte el enlace cuando tengas todo listo"
+  ],
+  "eMhkxR": [
+    "Esperando aprobación"
   ],
   "eMx/uZ": [
     "Si desactivas la comunidad, también se eliminará tu servidor del descubrimiento de servidor."
@@ -113355,6 +113485,9 @@
   "gBIG/N": [
     "Puedes personalizar los estilos, el nombre para mostrar, los pronombres y la biografía para cada servidor."
   ],
+  "gBJwjU": [
+    "Agregaremos tu compra a tu cuenta automáticamente una vez que se apruebe."
+  ],
   "gBKqZ0": [
     "Dejar de seguir a ",
     [
@@ -113796,6 +113929,13 @@
   "gOAhtg": [
     "¡Únete a este servidor para añadirlo a tu lista y empezar a charlar!"
   ],
+  "gOIq4P": [
+    "Unirse a ",
+    [
+      1,
+      "channel"
+    ]
+  ],
   "gOOPaG": [
     "¡Te damos la bienvenida de nuevo!"
   ],
@@ -114197,6 +114337,15 @@
   ],
   "gYiBrD": [
     "Salir de la vista de cuadrícula"
+  ],
+  "gYzaCr": [
+    "¡El estilo de ",
+    [
+      8,
+      "displayNameHook",
+      []
+    ],
+    " te queda muy bien!"
   ],
   "gZEUBl": [
     "Gótico"
@@ -117337,6 +117486,13 @@
     ],
     ")"
   ],
+  "he73FE": [
+    "Paga ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "heHHUW": [
     "Imagen"
   ],
@@ -117810,6 +117966,9 @@
       ]
     ],
     "."
+  ],
+  "hl0vjd": [
+    "El pago está tardando más de lo habitual en procesarse. Espera antes de intentarlo de nuevo."
   ],
   "hl1V+b": [
     "Ver espectadores"
@@ -124187,6 +124346,9 @@
   "kHdYCW": [
     "Haz clic para ver el sticker"
   ],
+  "kHie4V": [
+    "Recargar app"
+  ],
   "kHjdqc": [
     "Te permite saber cuándo puedes transmitir un juego cuando se abre el overlay por primera vez."
   ],
@@ -125462,6 +125624,9 @@
     "koala",
     "marsupial"
   ],
+  "kocF+6": [
+    "Artículos dentro del juego"
+  ],
   "koklFG": [
     "Trae a otros a tu servidor fácilmente con tu propio enlace de invitación personalizado. Ten en cuenta que cualquiera que tenga el enlace podrá unirse y necesitarás al menos un canal de texto abierto para todos los miembros del servidor. ",
     [
@@ -125865,12 +126030,12 @@
     "Animados"
   ],
   "l+jt8J": [
-    "Formas parte del grupo de edad adolescente, así que las solicitudes de mensajes no se pueden desactivar. Si esto es un error, puedes ",
+    "Estás en el grupo de edad de adolescentes, así que no puedes desactivar las solicitudes de mensajes. Si esto no parece correcto, puedes ",
     [
       8,
       "$link",
       [
-        "confirmar que eres adulto"
+        "confirmar que eres mayor de edad"
       ],
       [
         [
@@ -131654,6 +131819,9 @@
   "mpb7t3": [
     "Mejora activada"
   ],
+  "mpd5Bv": [
+    "¡Hola! Discord se ejecutará en segundo plano para mantenerte en contacto con tus amigos. Puedes hacer clic derecho aquí para salir."
+  ],
   "mpnvrV": [
     "Ajustar la transmisión a la ventana"
   ],
@@ -133678,6 +133846,9 @@
   "nYQyEg": [
     "Se produjo un error al cargar esta misión. Actualiza tu cliente de Discord e inténtalo de nuevo."
   ],
+  "nYb8xq": [
+    "Incluye solicitudes conforme al Decreto de Protección en Línea de las Mujeres (Decreto n.º 12.976/2026)"
+  ],
   "nYn52B": [
     "Más de 100 artículos"
   ],
@@ -134458,6 +134629,14 @@
   ],
   "noAHwA": [
     "El modo avión está activo."
+  ],
+  "noGK/D": [
+    "QUEDAN ",
+    [
+      2,
+      "days"
+    ],
+    " DÍAS"
   ],
   "noNjkW": [
     "👋 ",
@@ -135448,6 +135627,9 @@
   ],
   "oAYOCk": [
     "Descargar aplicación"
+  ],
+  "oAYuZw": [
+    "Prueba este estilo de nombre"
   ],
   "oAvIAg": [
     "Vinculado a"
@@ -137681,7 +137863,7 @@
     ]
   ],
   "p+Bvxs": [
-    "Emojis"
+    "Emoji"
   ],
   "p+XCta": [
     "Noches de neón"
@@ -138174,11 +138356,26 @@
   "p9KOsc": [
     "La opción de regalar solo está disponible en Nitro (próximamente para Nitro Basic)"
   ],
+  "p9PPYD": [
+    "Bonificación de Orbs x",
+    [
+      1,
+      "multiplier"
+    ],
+    " con Nitro"
+  ],
   "p9TwTG": [
     "Rama"
   ],
   "p9ZAJZ": [
     "Activar modo Streamer"
+  ],
+  "p9fIXw": [
+    "Guardar y pagar ",
+    [
+      1,
+      "amount"
+    ]
   ],
   "p9jC2r": [
     "ACTIVAR"
@@ -140220,6 +140417,9 @@
   ],
   "pkXAeG": [
     "Usar overlay de Discord en el juego"
+  ],
+  "pkXfdR": [
+    "No pudimos cargar el formulario de pago. Inténtalo de nuevo."
   ],
   "pkYeA6": [
     "Acciones de llamadas en el canal"
@@ -142356,12 +142556,12 @@
     "Crecen tan rápido :') y no podríamos haberlo logrado sin suscriptores como tú. Mantén los ojos abiertos para más regalos de Nitro este año, ¡y gracias por ser increíble!"
   ],
   "qSkhZH": [
-    "Los grupos de edad determinan si puedes acceder a contenido y ajustes destinados a adultos. Por lo demás, Discord funciona igual. Consulta tu grupo de edad a continuación y obtén ",
+    "Los grupos de edad determinan si puedes acceder al contenido y los ajustes destinados a mayores de edad. Por lo demás, Discord funciona igual. Consulta tu grupo de edad a continuación y ",
     [
       8,
       "$link",
       [
-        "más información en nuestro blog"
+        "encuentra más información en nuestro blog"
       ],
       [
         [
@@ -142753,12 +142953,12 @@
     "Finalizar evento"
   ],
   "qbBkFI": [
-    "Estás en el grupo de edad adolescente, así que no puedes cambiar algunos ajustes. Si esto es un error, puedes ",
+    "Estás en el grupo de edad adolescente, así que no puedes cambiar algunos ajustes. Si esto no parece correcto, puedes ",
     [
       8,
       "$link",
       [
-        "confirmar que eres adulto"
+        "confirmar que eres mayor de edad"
       ],
       [
         [
@@ -143377,6 +143577,9 @@
   ],
   "qvtjM4": [
     "Verificando que tus servidores (probablemente) no estén embrujados."
+  ],
+  "qvvMqu": [
+    "Revelar spoiler"
   ],
   "qvx9E4": [
     "Regalaste x",
@@ -146692,6 +146895,51 @@
       1,
       "name"
     ]
+  ],
+  "rtm4DR": [
+    "Si te preocupa tu seguridad personal o la de alguien que conoces, comunícate con el Centro de Atención a la Mujer llamando al 180 o visita las ",
+    [
+      8,
+      "$link",
+      [
+        "Líneas de asistencia de Brasil"
+      ],
+      [
+        [
+          1,
+          "supportOrgURL"
+        ]
+      ]
+    ],
+    ". Hay más recursos disponibles en nuestro ",
+    [
+      8,
+      "$link",
+      [
+        "Centro de Bienestar"
+      ],
+      [
+        [
+          1,
+          "wellbeingURL"
+        ]
+      ]
+    ],
+    " y en el ",
+    [
+      8,
+      "$link",
+      [
+        "artículo del Centro de Ayuda"
+      ],
+      [
+        [
+          1,
+          "helpCenterURL"
+        ]
+      ]
+    ],
+    "."
   ],
   "ru+2jw": [
     "No hay amigos en común"
@@ -151256,6 +151504,9 @@
   ],
   "t8geR1": [
     "Ver menos"
+  ],
+  "t8z5gn": [
+    "Dale un giro a su estilo"
   ],
   "t94EHg": [
     "Nivel de suscripción"
@@ -157082,12 +157333,12 @@
     "Subir archivo"
   ],
   "vGxRDB": [
-    "Los grupos de edad determinan si puedes acceder a contenido y ajustes destinados a adultos. Por lo demás, Discord funciona igual. Consulta tu grupo de edad a continuación y obtén ",
+    "Los grupos de edad determinan si puedes acceder al contenido y los ajustes destinados a mayores de edad. Por lo demás, Discord funciona igual. Consulta tu grupo de edad a continuación y ",
     [
       8,
       "$link",
       [
-        "más información en nuestro blog"
+        "encuentra más información en nuestro blog"
       ],
       [
         [
@@ -160890,7 +161141,7 @@
     "Steam"
   ],
   "wi6hPV": [
-    "Visita nuestro Centro de Ayuda"
+    "Visitar nuestro Centro de Ayuda"
   ],
   "wiBqTu": [
     "¡Cuánta generosidad! ",
@@ -168628,6 +168879,14 @@
   "zSN9vp": [
     "Añadir texto"
   ],
+  "zSYTEX": [
+    "Canal ",
+    [
+      1,
+      "channelName"
+    ],
+    ", desanclado"
+  ],
   "zSbMdX": [
     "Elige un color"
   ],
@@ -169040,6 +169299,9 @@
   "zdXqG9": [
     "Antigüedad de la cuenta"
   ],
+  "zdk9GB": [
+    "Ingresa una dirección de facturación completa."
+  ],
   "zdlPgL": [
     "Los miembros con este permiso pueden sacar a otros miembros de este canal. Solo pueden mover miembros entre\ncanales si tanto ellos como el miembro tienen acceso a los canales."
   ],
@@ -169254,6 +169516,13 @@
   ],
   "zjfaGH": [
     "Mantén el servidor de juego"
+  ],
+  "zjuWNH": [
+    "Abrir ",
+    [
+      1,
+      "appName"
+    ]
   ],
   "zk6Xbs": [
     "Añadir un atajo de teclado"
