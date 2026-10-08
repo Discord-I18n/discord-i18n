@@ -7073,14 +7073,6 @@
     ],
     " di sconto su Nitro"
   ],
-  "0hoV2D": [
-    "Salva ancora più messaggi con ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19127,19 +19119,6 @@
   ],
   "5VmbbF": [
     "Troppe emoji"
-  ],
-  "5VsCaT": [
-    "Limite di preferiti raggiunto. Abbonati a ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " per disporre di ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " preferiti."
   ],
   "5W9wWF": [
     "Gestisci impostazioni"
@@ -39793,19 +39772,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Limite di promemoria raggiunto. Abbonati a ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " per disporre di ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " promemoria."
-  ],
   "E+qms7": [
     "Fai clic destro su un messaggio e seleziona ",
     [
@@ -40131,6 +40097,34 @@
   ],
   "E7Dg31": [
     "L'app non funziona/si arresta in modo anomalo/presenta delle anomalie"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " ti ha regalato Nitro per ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mese"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "Questo post è stato bloccato. Solo i moderatori possono inviare messaggi."
@@ -42498,9 +42492,6 @@
   "F6rmyq": [
     "Hai voglia di agitarti e scatenarti?"
   ],
-  "F6u3E3": [
-    "Gestisci i tuoi messaggi più importanti, solo con Nitro."
-  ],
   "F75nNl": [
     "Salvataggio della reazione predefinita non riuscito"
   ],
@@ -43041,9 +43032,6 @@
   "FMYSJY": [
     "Opzione"
   ],
-  "FMaaaB": [
-    "Ti sta particolarmente a cuore? Salvalo nei preferiti per raccogliere tutti i tuoi ricordi in unico posto."
-  ],
   "FMbL3s": [
     "Cancellazione fallita"
   ],
@@ -43065,31 +43053,6 @@
       "user"
     ],
     "\" in Time out"
-  ],
-  "FNFCVJ": [
-    "Limite di preferiti raggiunto. Abbonati a ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " per disporre di ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " preferiti."
   ],
   "FNVJ4+": [
     "Decorazione avatar gratis per il tuo profilo!"
@@ -44435,6 +44398,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mese"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " di Nitro"
   ],
   "G1u0hK": [
     "Espandi"
@@ -52037,19 +52023,6 @@
   ],
   "IwVGQs": [
     "Nascondi le impostazioni avanzate della barra della chat"
-  ],
-  "IwWQgO": [
-    "Nitro aumenta da ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " il limite di promemoria. Puoi anche eliminare un promemoria per fare spazio."
   ],
   "IwZbbP": [
     "Abbassa il volume degli streaming GoLive che guardi mentre parlano gli altri."
@@ -60339,31 +60312,6 @@
   "MY9/Oe": [
     "Gioco attuale"
   ],
-  "MYFohD": [
-    "Limite di promemoria raggiunto. Abbonati a ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " per disporre di ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " promemoria."
-  ],
   "MYgdY2": [
     "Segna clip come spoiler"
   ],
@@ -62564,33 +62512,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro aumenta da ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " il limite di promemoria. Puoi anche ",
-    [
-      8,
-      "$link",
-      [
-        "eliminare un promemoria"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " per fare spazio."
   ],
   "NRI6vt": [
     "Se hai bisogno di una copia dei tuoi dati personali dell'intera cronologia del tuo account, puoi ottenerla qui. ",
@@ -66534,14 +66455,6 @@
       ]
     ],
     " non può ricevere richieste di amicizia. Dovrà aggiungerti se vuoi diventare suo amico."
-  ],
-  "Oxm3Sq": [
-    "Ottieni fino a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " preferiti"
   ],
   "OxveI8": [
     [
@@ -79656,9 +79569,6 @@
   "URSMet": [
     "Contenuto sessuale"
   ],
-  "URrJq1": [
-    "Gestisci i tuoi messaggi più importanti con Nitro."
-  ],
   "URt7VI": [
     "Abbiamo commesso un errore? Faccelo sapere."
   ],
@@ -83608,14 +83518,6 @@
   ],
   "W+NB90": [
     "Visualizza nel negozio"
-  ],
-  "W+ZaoS": [
-    "Crea ancora più promemoria con ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Usa un gesto globale da destra a sinistra per attivare il LaunchPad che attivi dal bordo destro (su Android questo potrebbe entrare in conflitto con i gesti del sistema se li hai attivati e, anche se si mantiene attiva la funzione di scorrimento per rispondere, potrebbero esserci conflitti che dobbiamo ancora risolvere)."
@@ -90123,9 +90025,6 @@
   ],
   "YXeWYM": [
     "Modifica nome visualizzato"
-  ],
-  "YXk6N7": [
-    "Organizzati al meglio con i preferiti"
   ],
   "YYDILY": [
     "Potenzia i server per mostrare il tuo sostegno e sbloccare fantastici benefici per i tuoi amici."
@@ -99723,6 +99622,9 @@
     "game of thones",
     "maiale selvatico"
   ],
+  "boclBe": [
+    "A partire da"
+  ],
   "bomb": [
     "bomba",
     "boom",
@@ -103937,14 +103839,6 @@
   ],
   "cpgfFk": [
     "Un utente che hai bloccato si è unito."
-  ],
-  "cpj9o/": [
-    "Ottieni fino a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " promemoria"
   ],
   "cpqhYg": [
     "Non siamo riusciti a confermare se questo pagamento è andato a buon fine. Accedi per controllare il tuo abbonamento prima di riprovare."
@@ -122142,6 +122036,9 @@
   "j4gGA4": [
     "Sembra che il volume del tuo dispositivo di ingresso sia impostato su zero nelle impostazioni di Windows. Vediamo di rimediare!"
   ],
+  "j4n5/K": [
+    "Scopri di più"
+  ],
   "j4qu8n": [
     "E-mail di verifica inviata di nuovo, controlla la tua posta elettronica."
   ],
@@ -129474,9 +129371,6 @@
   "m/GC8z": [
     "Moderatore"
   ],
-  "m/HzW8": [
-    "Gestisci i tuoi messaggi più importanti, solo con Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -136447,33 +136341,6 @@
   ],
   "o572Fe": [
     "Non è stato possibile trovare un messaggio che hai salvato nei preferiti."
-  ],
-  "o5OLyw": [
-    "Nitro aumenta da ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " il limite di preferiti. Puoi anche ",
-    [
-      8,
-      "$link",
-      [
-        "eliminare un preferito"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " per fare spazio."
   ],
   "o5azXJ": [
     "Ciò include immagini o video per la cui creazione potresti aver dato inizialmente il consenso, ma non il consenso a condividerle. Non c'è alcun limite di tempo: puoi segnalare il contenuto indipendentemente da quando è stato creato o pubblicato."
@@ -144032,25 +143899,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Salva i messaggi e imposta promemoria con ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Annulla Time out"
   ],
@@ -150569,19 +150417,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "Nitro aumenta da ",
-    [
-      2,
-      "max"
-    ],
-    " a ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " il limite di preferiti. Puoi anche eliminare un preferito per fare spazio."
   ],
   "sgiPrC": [
     [
@@ -161183,9 +161018,6 @@
   ],
   "w4+/BA": [
     "Genera"
-  ],
-  "w4DRbZ": [
-    "Organizzati al meglio con i preferiti"
   ],
   "w4GEvw": [
     "ancora ",

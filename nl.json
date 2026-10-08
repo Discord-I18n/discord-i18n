@@ -7035,14 +7035,6 @@
     ],
     " korting op Nitro te krijgen"
   ],
-  "0hoV2D": [
-    "Sla nog meer berichten op met ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19005,19 +18997,6 @@
   ],
   "5VmbbF": [
     "Te veel emoji"
-  ],
-  "5VsCaT": [
-    "Bookmarklimiet bereikt. Met ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " krijg je ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
   ],
   "5W9wWF": [
     "Instellingen beheren"
@@ -39585,19 +39564,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Herinneringslimiet bereikt. Met ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " krijg je ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " herinneringen."
-  ],
   "E+qms7": [
     "Rechtsklik op een bericht en kies ",
     [
@@ -39938,6 +39904,34 @@
   ],
   "E7Dg31": [
     "De app werkt niet/crasht/is glitchy"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " heeft je ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro cadeau gegeven!"
   ],
   "E7oO8u": [
     "Deze post is gesloten. Alleen moderators kunnen berichten versturen."
@@ -42293,9 +42287,6 @@
   "F6rmyq": [
     "Probeer je de voetjes van de vloer te krijgen?"
   ],
-  "F6u3E3": [
-    "Beheer je belangrijkste berichten, alleen met Nitro."
-  ],
   "F75nNl": [
     "Standaardreactie kon niet worden opgeslagen"
   ],
@@ -42852,9 +42843,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Vond je dat leuk? Bookmark het om je favoriete herinneringen op één plek bij elkaar te houden."
-  ],
   "FMbL3s": [
     "Mislukkingen wissen"
   ],
@@ -42875,31 +42863,6 @@
       "user"
     ],
     " een time-out geven"
-  ],
-  "FNFCVJ": [
-    "Bookmarklimiet bereikt. Met ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " krijg je ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
   ],
   "FNVJ4+": [
     "Gratis avatarversiering voor jouw profiel!"
@@ -44246,6 +44209,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro"
   ],
   "G1u0hK": [
     "Maximaliseren"
@@ -51762,19 +51748,6 @@
   ],
   "IwVGQs": [
     "Verberg geavanceerde chatbalkinstellingen"
-  ],
-  "IwWQgO": [
-    "Met Nitro verhoog je je herinneringslimiet van ",
-    [
-      2,
-      "max"
-    ],
-    " naar ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Je kunt ook een herinnering verwijderen om ruimte te maken."
   ],
   "IwZbbP": [
     "Verlaag het volume van GoLive-streams die je bekijkt terwijl anderen spreken."
@@ -60012,31 +59985,6 @@
   "MY9/Oe": [
     "Huidige game"
   ],
-  "MYFohD": [
-    "Herinneringslimiet bereikt. Met ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " krijg je ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " herinneringen."
-  ],
   "MYgdY2": [
     "Spoiler toevoegen"
   ],
@@ -62200,33 +62148,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Met Nitro verhoog je je herinneringslimiet van ",
-    [
-      2,
-      "max"
-    ],
-    " naar ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Je kunt ook ",
-    [
-      8,
-      "$link",
-      [
-        "een herinnering verwijderen"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " om ruimte te maken."
   ],
   "NRI6vt": [
     "Heb je een kopie nodig van je persoonsgegevens met betrekking tot de hele geschiedenis van je account? Die kun je hier krijgen. Hier vind je ",
@@ -66187,14 +66108,6 @@
       ]
     ],
     " accepteert geen vriendverzoeken. Om vrienden te worden moet hij/zij jou toevoegen."
-  ],
-  "Oxm3Sq": [
-    "Krijg maximaal ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks"
   ],
   "OxveI8": [
     [
@@ -79266,9 +79179,6 @@
   "URSMet": [
     "Seksuele inhoud"
   ],
-  "URrJq1": [
-    "Beheer je belangrijkste berichten met Nitro."
-  ],
   "URt7VI": [
     "Hebben we een fout gemaakt? Laat het ons weten."
   ],
@@ -83200,14 +83110,6 @@
   ],
   "W+NB90": [
     "In de Store bekijken"
-  ],
-  "W+ZaoS": [
-    "Creëer nog meer reminders met ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Veeg van rechts naar links op een willekeurige plek op het scherm om het LaunchPad te activeren dat je inschakelt met een gebaar vanaf de rechterrand (op Android-apparaten kan dit conflicteren met ingeschakelde systeemgebaren. 'Veeg-voor-reactie' blijft hierbij actief, maar er kunnen conflicten ontstaan die we nog moeten oplossen)."
@@ -89634,9 +89536,6 @@
   ],
   "YXeWYM": [
     "Weergavenaam bewerken"
-  ],
-  "YXk6N7": [
-    "Hou het overzicht met bookmarks"
   ],
   "YYDILY": [
     "Boost servers om je steun te betuigen en coole voordelen te ontgrendelen voor je vrienden."
@@ -99006,6 +98905,9 @@
     "varken",
     "zwijn"
   ],
+  "boclBe": [
+    "Vanaf"
+  ],
   "bomb": [
     "bom",
     "cartoonbom",
@@ -102969,14 +102871,6 @@
   ],
   "cpgfFk": [
     "Er is iemand lid geworden die je blokkeert."
-  ],
-  "cpj9o/": [
-    "Krijg maximaal ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " herinneringen"
   ],
   "cpqhYg": [
     "Het is niet gelukt om te bevestigen of deze betaling is afgerond. Log in om je abonnement te checken voor je het nog eens probeert."
@@ -120697,6 +120591,9 @@
   "j4gGA4": [
     "Nou, het lijkt erop dat het volume van je invoerapparaat op nul staat in Windows-instellingen. Laten we dat oplossen!"
   ],
+  "j4n5/K": [
+    "Meer informatie"
+  ],
   "j4qu8n": [
     "Verificatiemail verzonden. Check je mail."
   ],
@@ -127931,9 +127828,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Beheer je belangrijkste berichten, alleen met Nitro."
-  ],
   "m/Tc3n": [
     "De servertag van ",
     [
@@ -134595,33 +134489,6 @@
   ],
   "o572Fe": [
     "Een door jou gebookmarkt bericht kon niet worden gevonden."
-  ],
-  "o5OLyw": [
-    "Met Nitro verhoog je je bookmarklimiet van ",
-    [
-      2,
-      "max"
-    ],
-    " naar ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Je kunt ook ",
-    [
-      8,
-      "$link",
-      [
-        "een bladwijzer verwijderen"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " om ruimte te maken."
   ],
   "o5azXJ": [
     "Dit geldt ook voor afbeeldingen of video's waarvoor je wel toestemming hebt gegeven om ze te maken, maar niet om ze te delen. Er is geen tijdslimiet: je kunt content altijd melden, ongeacht wanneer deze is gemaakt of geplaatst."
@@ -141957,25 +141824,6 @@
   "qXeYHw": [
     "Standaard"
   ],
-  "qXh3fo": [
-    "Creëer bookmarks en reminders met ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Time-out intrekken"
   ],
@@ -148272,19 +148120,6 @@
       "cardinal"
     ],
     " beschikbaar"
-  ],
-  "sgXqR1": [
-    "Met Nitro verhoog je je bookmarklimiet van ",
-    [
-      2,
-      "max"
-    ],
-    " naar ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Je kunt ook een bookmark verwijderen om ruimte te maken."
   ],
   "sgiPrC": [
     [
@@ -158563,9 +158398,6 @@
   ],
   "w4+/BA": [
     "Genereren"
-  ],
-  "w4DRbZ": [
-    "Hou het overzicht met bookmarks"
   ],
   "w4GEvw": [
     "nog ",

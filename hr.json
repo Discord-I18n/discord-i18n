@@ -7304,14 +7304,6 @@
       "discountPercentage"
     ]
   ],
-  "0hoV2D": [
-    "Spremi još više poruka uz ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19679,19 +19671,6 @@
   ],
   "5VmbbF": [
     "Previše emojija"
-  ],
-  "5VsCaT": [
-    "Dosegnuto je ograničenje broja knjižnih oznaka. Nabavi ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " da dobiješ ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " knjižnih oznaka."
   ],
   "5W9wWF": [
     "Upravljaj postavkama"
@@ -40828,19 +40807,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Dosegnuto je ograničenje broja podsjetnika. Nabavi ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " da dobiješ ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " podsjetnika."
-  ],
   "E+qms7": [
     "Desnom tipkom miša klikni bilo koju poruku i odaberi ",
     [
@@ -41188,6 +41154,40 @@
   ],
   "E7Dg31": [
     "Aplikacije ne radi / ruši se / radi isprekidano"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " ti je darovao Nitro na ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mjesec"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "Ovaj je post zaključan. Samo moderatori mogu slati poruke."
@@ -43612,9 +43612,6 @@
   "F6rmyq": [
     "Pokušavaš li se kretati i zabavljati?"
   ],
-  "F6u3E3": [
-    "Samo ti Nitro omogućuje upravljanje svojim najvažnijim porukama."
-  ],
   "F75nNl": [
     "Spremanje zadane reakcije nije uspjelo"
   ],
@@ -44170,9 +44167,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Svidio ti se taj? Dodaj ga u knjižne oznake da sva tvoja omiljena sjećanja budu na jednom mjestu."
-  ],
   "FMbL3s": [
     "Brisanje nije uspjelo"
   ],
@@ -44194,31 +44188,6 @@
       "user"
     ],
     "'"
-  ],
-  "FNFCVJ": [
-    "Dosegnuto je ograničenje broja knjižnih oznaka. Nabavi ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " da dobiješ ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " knjižnih oznaka."
   ],
   "FNVJ4+": [
     "Besplatni ukras avatara za tvoj profil!"
@@ -45582,6 +45551,35 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mjesec"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitra"
   ],
   "G1u0hK": [
     "Uvećaj"
@@ -53310,19 +53308,6 @@
   ],
   "IwVGQs": [
     "Sakrij napredne postavke trake chata"
-  ],
-  "IwWQgO": [
-    "Nitro povećava ograničenje broja tvojih podsjetnika s ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Možeš i izbrisati neki podsjetnik da oslobodiš mjesto."
   ],
   "IwZbbP": [
     "Smanjuje glasnoću GoLive streamova koje gledate dok druge osobe govore."
@@ -61743,31 +61728,6 @@
   "MY9/Oe": [
     "Trenutačna igra"
   ],
-  "MYFohD": [
-    "Dosegnuto je ograničenje broja podsjetnika. Nabavi ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " da dobiješ ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " podsjetnika."
-  ],
   "MYgdY2": [
     "Spoiler-avanje isječka"
   ],
@@ -64020,33 +63980,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro povećava ograničenje broja tvojih podsjetnika s ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Možeš i ",
-    [
-      8,
-      "$link",
-      [
-        "izbrisati neki podsjetnik"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " da oslobodiš mjesto."
   ],
   "NRI6vt": [
     "Ako ti je potrebna kopija tvojih osobnih podataka iz cijele povijesti računa, možeš je dobiti ovdje. ",
@@ -68067,14 +68000,6 @@
       ]
     ],
     " ne prihvaća tvoj zahtjev za prijateljstvom. Morat će te dodati da biste postali prijatelji."
-  ],
-  "Oxm3Sq": [
-    "Možeš dobiti do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " knjižnih oznaka"
   ],
   "OxveI8": [
     [
@@ -81531,9 +81456,6 @@
   "URSMet": [
     "Seksualni sadržaj"
   ],
-  "URrJq1": [
-    "Nitro ti omogućuje upravljanje svojim najvažnijim porukama."
-  ],
   "URt7VI": [
     "Jesmo li napravili pogrešku? Javi nam."
   ],
@@ -85544,14 +85466,6 @@
   ],
   "W+NB90": [
     "Vidi u Trgovini"
-  ],
-  "W+ZaoS": [
-    "Izradi još više podsjetnika uz ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Upotrijebi globalnu gestu povlačenja zdesna ulijevo da aktiviraš Launch Pad koji se aktivira od desnog ruba (u sustavu Android to može biti u sukobu s gestama sustava ako si ih omogućio/la i – unatoč tome to je odgovaranje povlačenjem omogućeno – može doći do sukoba koje još trebamo riješiti)."
@@ -92149,9 +92063,6 @@
   ],
   "YXeWYM": [
     "Uredi zaslonsko ime"
-  ],
-  "YXk6N7": [
-    "Koristi knjižne oznake u cilju organiziranosti svoje"
   ],
   "YYDILY": [
     "Boostaj servere i podrži te otključaj zanimljive posebne pogodnosti za svoje prijatelje."
@@ -101591,6 +101502,9 @@
     "vepar",
     "životinja"
   ],
+  "boclBe": [
+    "Već od"
+  ],
   "bomb": [
     "bomba",
     "eksplozija",
@@ -105465,14 +105379,6 @@
   ],
   "cpgfFk": [
     "Netko koga si blokirao/la se pridružio."
-  ],
-  "cpj9o/": [
-    "Možeš dobiti do ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " podsjetnika"
   ],
   "cpqhYg": [
     "Nismo mogli potvrditi je li ovo plaćanje provedeno. Prijavi se da provjeriš stanje svoje pretplate prije nego pokušaš ponovno."
@@ -123319,6 +123225,9 @@
   "j4gGA4": [
     "Hm, čini se da je glasnoća tvojeg ulaznog uređaja postavljena na nultu vrijednost u postavkama sustava Windows. Popravimo to!"
   ],
+  "j4n5/K": [
+    "Saznaj više"
+  ],
   "j4qu8n": [
     "E-mail za potvrdu je poslan ponovo, baci pogled na svoju ulaznu poštu."
   ],
@@ -130680,9 +130589,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Samo ti Nitro omogućuje upravljanje svojim najvažnijim porukama."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -137304,33 +137210,6 @@
   ],
   "o572Fe": [
     "Poruku koju si dodao/la u knjižne oznake nije moguće pronaći."
-  ],
-  "o5OLyw": [
-    "Nitro povećava ograničenje broja knjižnih oznaka s ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Možeš i ",
-    [
-      8,
-      "$link",
-      [
-        "izbrisati neku knjižnu oznaku"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " da oslobodiš mjesto."
   ],
   "o5azXJ": [
     "To uključuje slike ili videozapise za čiju si izradu prvotno možda dao/la pristanak, ali nisi dao/la pristanak na njihovo dijeljenje. Nema vremenskog ograničenja – možeš prijaviti sadržaj bez obzira na to kada je izrađen ili objavljen."
@@ -144676,25 +144555,6 @@
   "qXeYHw": [
     "Uobičajeno"
   ],
-  "qXh3fo": [
-    "Stvaraj knjižne oznake i podsjetnike uz ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Ukloni timeout"
   ],
@@ -151132,19 +150992,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "Nitro povećava ograničenje broja knjižnih oznaka s ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Možeš i izbrisati neku knjižnu oznaku da oslobodiš mjesto."
   ],
   "sgiPrC": [
     "Nedodijeljeno: ",
@@ -161327,9 +161174,6 @@
   ],
   "w4+/BA": [
     "Generiraj"
-  ],
-  "w4DRbZ": [
-    "Koristi knjižne oznake u cilju organiziranosti svoje"
   ],
   "w4GEvw": [
     "Preostalo: ",

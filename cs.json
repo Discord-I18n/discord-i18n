@@ -7193,14 +7193,6 @@
       "cardinal"
     ]
   ],
-  "0hoV2D": [
-    "Ulož si ještě více zpráv s předplatným ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19389,19 +19381,6 @@
   ],
   "5VmbbF": [
     "Příliš mnoho smajlíků"
-  ],
-  "5VsCaT": [
-    "Dosáhl/a jsi limitu záložek. Pořiď si ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " a získej ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " záložek."
   ],
   "5W9wWF": [
     "Spravovat nastavení"
@@ -40438,19 +40417,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Dosáhl/a jsi limitu připomenutí. Pořiď si ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " a získej ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " připomenutí."
-  ],
   "E+qms7": [
     "Klikni pravým tlačítkem na libovolnou zprávu a vyber ",
     [
@@ -40797,6 +40763,39 @@
   ],
   "E7Dg31": [
     "Aplikace nefunguje, padá nebo obsahuje chyby"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " ti daruje Nitro na ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " měsíc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " měsíce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "E7oO8u": [
     "Tento příspěvek byl uzamčen. Pouze moderátoři můžou odesílat zprávy."
@@ -43203,9 +43202,6 @@
   "F6rmyq": [
     "Snažíš se hýbat pěkně do rytmu?"
   ],
-  "F6u3E3": [
-    "Uspořádej si své nejdůležitější zprávy – pouze s Nitrem."
-  ],
   "F75nNl": [
     "Výchozí reakci se nepodařilo uložit"
   ],
@@ -43780,9 +43776,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Líbilo se ti to? Přidej si to do záložek a měj své oblíbené vzpomínky na jednom místě."
-  ],
   "FMbL3s": [
     "Vymazání se nezdařilo"
   ],
@@ -43804,31 +43797,6 @@
       "user"
     ],
     "“"
-  ],
-  "FNFCVJ": [
-    "Dosáhl/a jsi limitu záložek. Pořiď si ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " a získej ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " záložek."
   ],
   "FNVJ4+": [
     "Vzhledy avataru pro tvůj profil zdarma!"
@@ -45182,6 +45150,35 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " měsíc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " měsíce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitra"
   ],
   "G1u0hK": [
     "Maximalizovat"
@@ -52928,19 +52925,6 @@
   ],
   "IwVGQs": [
     "Skrýt pokročilá nastavení panelu chatu"
-  ],
-  "IwWQgO": [
-    "Nitro zvýší tvůj limit připomenutí z ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Můžeš také odstranit připomenutí a uvolnit tak místo."
   ],
   "IwZbbP": [
     "Sniž hlasitost sledovaných GoLive streamů, když někdo mluví."
@@ -61346,31 +61330,6 @@
   "MY9/Oe": [
     "Aktuální hra"
   ],
-  "MYFohD": [
-    "Dosáhl/a jsi limitu připomenutí. Pořiď si ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " a získej ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " připomenutí."
-  ],
   "MYgdY2": [
     "Spojlovat klip"
   ],
@@ -63606,33 +63565,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro zvýší tvůj limit připomenutí z ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Můžeš také ",
-    [
-      8,
-      "$link",
-      [
-        "odstranit připomenutí"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " a uvolnit tak místo."
   ],
   "NRI6vt": [
     "Pokud potřebuješ kopii svých osobních údajů za celou historii svého účtu, můžeš ji získat zde. ",
@@ -67622,14 +67554,6 @@
       ]
     ],
     " nepřijímá žádosti o přátelství. Abyste se mohli spřátelit, musí si tě přidat."
-  ],
-  "Oxm3Sq": [
-    "Získej až ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " záložek"
   ],
   "OxveI8": [
     [
@@ -81123,9 +81047,6 @@
   "URSMet": [
     "Sexuální obsah"
   ],
-  "URrJq1": [
-    "Uspořádej si své nejdůležitější zprávy s Nitrem."
-  ],
   "URt7VI": [
     "Zmýlili jsme se? Ozvi se nám."
   ],
@@ -85104,14 +85025,6 @@
   ],
   "W+NB90": [
     "Zobrazit v obchodě"
-  ],
-  "W+ZaoS": [
-    "Vytvářej ještě více připomenutí s předplatným ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Použít k aktivaci funkce Launch Pad globální gesto tažení zprava doleva, které aktivuješ z pravého okraje (v systému Android může dojít ke konfliktu se systémovými gesty, pokud je máš zapnutá, a protože funkce odpovědi přetažením zůstane povolena, může dojít ke konfliktům, které teprve musíme opravit)."
@@ -91722,9 +91635,6 @@
   ],
   "YXeWYM": [
     "Upravit zobrazované jméno"
-  ],
-  "YXk6N7": [
-    "Zachovej si lepší přehled díky záložkám"
   ],
   "YYDILY": [
     "Vylepšuj servery, abys jim dal/a najevo svou podporu a získal/a cool výhody pro své přátele."
@@ -101815,6 +101725,9 @@
     "vepř",
     "zvíře"
   ],
+  "boclBe": [
+    "Od"
+  ],
   "bomb": [
     "bomba",
     "bum",
@@ -106408,14 +106321,6 @@
   ],
   "cpgfFk": [
     "Připojil se někdo, koho jsi zablokoval(a)."
-  ],
-  "cpj9o/": [
-    "Získej až ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " připomenutí"
   ],
   "cpqhYg": [
     "Nepodařilo se nám potvrdit, zda tato platba proběhla. Než to zkusíš znovu, přihlas se a zkontroluj své předplatné."
@@ -125645,6 +125550,9 @@
   "j4gGA4": [
     "No, vypadá to, že hlasitost tvého vstupního zařízení je v nastavení Windows nastavena na nulu. Pojďme to napravit!"
   ],
+  "j4n5/K": [
+    "Zjistit více"
+  ],
   "j4qu8n": [
     "Znovu jsme ti poslali ověřovací e-mail. Mrkni do doručené pošty."
   ],
@@ -133349,9 +133257,6 @@
   "m/GC8z": [
     "Moderátor"
   ],
-  "m/HzW8": [
-    "Uspořádej si své nejdůležitější zprávy – pouze s Nitrem."
-  ],
   "m/Tc3n": [
     "Klan ",
     [
@@ -140720,33 +140625,6 @@
   ],
   "o572Fe": [
     "Zprávu přidanou do záložek se nepodařilo najít."
-  ],
-  "o5OLyw": [
-    "Nitro zvýší tvůj limit záložek z ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Můžeš také ",
-    [
-      8,
-      "$link",
-      [
-        "odstranit záložku"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " a uvolnit tak místo."
   ],
   "o5azXJ": [
     "To zahrnuje také obrázky nebo videa, u kterých byl z tvé strany udělen souhlas k jejich vytvoření, ale již ne ke sdílení. Neexistuje žádný časový limit – příspěvek můžeš nahlásit bez ohledu na to, kdy byl vytvořen nebo zveřejněn."
@@ -148829,25 +148707,6 @@
   "qXeYHw": [
     "Standardní"
   ],
-  "qXh3fo": [
-    "Vytvářej záložky a připomenutí s předplatným ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Ukončit pauzu"
   ],
@@ -155689,19 +155548,6 @@
       "cardinal"
     ],
     " k dispozici"
-  ],
-  "sgXqR1": [
-    "Nitro zvýší tvůj limit záložek z ",
-    [
-      2,
-      "max"
-    ],
-    " na ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Můžeš také odstranit záložku a uvolnit tak místo."
   ],
   "sgiPrC": [
     "Nepřiřazené: ",
@@ -167040,9 +166886,6 @@
   ],
   "w4+/BA": [
     "Vygenerovat"
-  ],
-  "w4DRbZ": [
-    "Zachovej si lepší přehled díky záložkám"
   ],
   "w4GEvw": [
     "Ještě máš ",

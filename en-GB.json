@@ -7069,14 +7069,6 @@
     ],
     " off Nitro"
   ],
-  "0hoV2D": [
-    "Save even more messages with ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19188,19 +19180,6 @@
   ],
   "5VmbbF": [
     "Too many emojis"
-  ],
-  "5VsCaT": [
-    "Bookmark limit reached. Get ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
   ],
   "5W9wWF": [
     "Manage Settings"
@@ -39957,19 +39936,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Reminder limit reached. Get ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders."
-  ],
   "E+qms7": [
     "Right-click any message and pick ",
     [
@@ -40311,6 +40277,34 @@
   ],
   "E7Dg31": [
     "The app isn’t working/crashes/is glitchy for me"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " has gifted you Nitro for ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "E7oO8u": [
     "This post has been locked. Only moderators can send messages."
@@ -42694,9 +42688,6 @@
   "F6rmyq": [
     "Trying to move and groove?"
   ],
-  "F6u3E3": [
-    "Manage your most important messages, only with Nitro."
-  ],
   "F75nNl": [
     "Failed to save default reaction"
   ],
@@ -43250,9 +43241,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Loved that one? Bookmark it to keep your favourite memories in one place."
-  ],
   "FMbL3s": [
     "Clear failed"
   ],
@@ -43274,31 +43262,6 @@
       "user"
     ],
     "'"
-  ],
-  "FNFCVJ": [
-    "Bookmark limit reached. Get ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks."
   ],
   "FNVJ4+": [
     "Free avatar decoration for your profile!"
@@ -44643,6 +44606,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " of Nitro"
   ],
   "G1u0hK": [
     "Maximise"
@@ -52249,19 +52235,6 @@
   ],
   "IwVGQs": [
     "Hide Advanced Chat Bar Settings"
-  ],
-  "IwWQgO": [
-    "Nitro raises your reminder limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also delete a reminder to make room."
   ],
   "IwZbbP": [
     "Lower the volume of GoLive streams you’re watching when others speak."
@@ -60597,31 +60570,6 @@
   "MY9/Oe": [
     "Current Game"
   ],
-  "MYFohD": [
-    "Reminder limit reached. Get ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders."
-  ],
   "MYgdY2": [
     "Spoiler Clip"
   ],
@@ -62837,33 +62785,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro raises your reminder limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also ",
-    [
-      8,
-      "$link",
-      [
-        "delete a reminder"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " to make room."
   ],
   "NRI6vt": [
     "If you need a copy of your personal data from your account’s entire history, you can get it here. ",
@@ -66834,14 +66755,6 @@
       ]
     ],
     " is not accepting friend requests. They'll have to add you to become friends."
-  ],
-  "Oxm3Sq": [
-    "Get up to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " bookmarks"
   ],
   "OxveI8": [
     [
@@ -80002,9 +79915,6 @@
   "URSMet": [
     "Sexual Content"
   ],
-  "URrJq1": [
-    "Manage your most important messages with Nitro."
-  ],
   "URt7VI": [
     "Did we make a mistake? Let us know."
   ],
@@ -83948,14 +83858,6 @@
   ],
   "W+NB90": [
     "View in Store"
-  ],
-  "W+ZaoS": [
-    "Create even more reminders with ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Use a global right to left gesture to activate Launch Pad that you activate from the right edge (on Android this may conflict with system gestures if you have them enabled, and while this keeps swipe to reply enabled, there may be conflicts we still need to fix)."
@@ -90487,9 +90389,6 @@
   ],
   "YXeWYM": [
     "Edit display name"
-  ],
-  "YXk6N7": [
-    "Stay organised with bookmarks"
   ],
   "YYDILY": [
     "Boost servers to show your support and unlock cool perks for your friends."
@@ -98969,6 +98868,9 @@
     ],
     " on desktop..."
   ],
+  "boclBe": [
+    "Starting at"
+  ],
   "bomhnX": [
     "Overlay Disabled Questionnaire"
   ],
@@ -101629,14 +101531,6 @@
   ],
   "cpgfFk": [
     "Someone you blocked has joined."
-  ],
-  "cpj9o/": [
-    "Get up to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " reminders"
   ],
   "cpqhYg": [
     "We couldn’t confirm whether this payment went through. Log in to check your subscription before trying again."
@@ -116960,6 +116854,9 @@
   "j4gGA4": [
     "Well, it looks like your input device’s volume is set to zero in Windows settings. Let’s fix that!"
   ],
+  "j4n5/K": [
+    "Learn More"
+  ],
   "j4qu8n": [
     "Verification email resent, please check your email."
   ],
@@ -123536,9 +123433,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Manage your most important messages, only with Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -128776,33 +128670,6 @@
   ],
   "o572Fe": [
     "A message you bookmarked could not be found."
-  ],
-  "o5OLyw": [
-    "Nitro raises your bookmark limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also ",
-    [
-      8,
-      "$link",
-      [
-        "delete a bookmark"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " to make room."
   ],
   "o5azXJ": [
     "This includes images or videos you may have originally consented to create but did not consent to have shared. There’s no time limit – you can report content regardless of when it was created or posted."
@@ -134722,25 +134589,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Create bookmarks and reminders with ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Remove timeout"
   ],
@@ -140342,19 +140190,6 @@
       "cardinal"
     ],
     " available"
-  ],
-  "sgXqR1": [
-    "Nitro raises your bookmark limit from ",
-    [
-      2,
-      "max"
-    ],
-    " to ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". You can also delete a bookmark to make room."
   ],
   "sgiPrC": [
     [
@@ -148766,9 +148601,6 @@
   ],
   "w4+/BA": [
     "Generate"
-  ],
-  "w4DRbZ": [
-    "Stay organised with bookmarks"
   ],
   "w4GEvw": [
     [

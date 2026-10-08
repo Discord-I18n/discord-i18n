@@ -7129,14 +7129,6 @@
     ],
     " nuolaida"
   ],
-  "0hoV2D": [
-    "Išsaugok dar daugiau žinučių su ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19260,41 +19252,6 @@
   ],
   "5VmbbF": [
     "Per daug jaustukų"
-  ],
-  "5VsCaT": [
-    "Pasiektas žymių limitas. Įsigyk ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " ir turėk ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " žymę"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " žymes"
-        ],
-        "other": [
-          [
-            7
-          ],
-          "žymių"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
   ],
   "5W9wWF": [
     "Tvarkyti nustatymus"
@@ -40237,41 +40194,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Pasiektas priminimų limitas. Įsigyk ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " ir turėk ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " priminimą"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " priminimus"
-        ],
-        "other": [
-          [
-            7
-          ],
-          "priminimų"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "E+qms7": [
     "Dešiniuoju pelės klavišu spustelėk bet kurią žinutę ir pasirink ",
     [
@@ -40619,6 +40541,18 @@
   ],
   "E7Dg31": [
     "Man programėlė neveikia / išsijungia / veikia su trikdžiais"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " padovanojo tau ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " mėn. Nitro prenumeratą!"
   ],
   "E7oO8u": [
     "Šis įrašas užrakintas. Žinutes gali siųsti tik moderatoriai."
@@ -43002,9 +42936,6 @@
   "F6rmyq": [
     "Bandai padaryti, kad paveiksliukai judėtų ir krutėtų?"
   ],
-  "F6u3E3": [
-    "Tvarkyk savo svarbiausias žinutes. Tik su Nitro."
-  ],
   "F75nNl": [
     "Numatytosios reakcijos nepavyko išsaugoti"
   ],
@@ -43547,9 +43478,6 @@
   "FMYSJY": [
     "Alternatyvos klavišas"
   ],
-  "FMaaaB": [
-    "Patiko? Pridėk žymę, kad mėgstamiausi prisiminimai būtų vienoje vietoje."
-  ],
   "FMbL3s": [
     "Nepavyko pašalinti"
   ],
@@ -43571,53 +43499,6 @@
       "user"
     ],
     "“"
-  ],
-  "FNFCVJ": [
-    "Pasiektas žymių limitas. Įsigyk ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " ir turėk ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " žymę"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " žymes"
-        ],
-        "other": [
-          [
-            7
-          ],
-          "žymių"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
   ],
   "FNVJ4+": [
     "Nemokamas pseudoportreto papuošimas tavo profiliui!"
@@ -45006,6 +44887,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mėnesio"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mėnesių"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro prenumerata"
   ],
   "G1u0hK": [
     "Padidinti"
@@ -52714,19 +52618,6 @@
   ],
   "IwVGQs": [
     "Slėpti išplėstinius pokalbio juostos nustatymus"
-  ],
-  "IwWQgO": [
-    "Nitro padidina priminimų limitą nuo ",
-    [
-      2,
-      "max"
-    ],
-    " iki ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Be to, jei reikia, gali kurį nors priminimą ištrinti."
   ],
   "IwZbbP": [
     "Sumažink tavo žiūrimų GoLive transliacijų garsą, kai kalba kiti."
@@ -61148,53 +61039,6 @@
   "MY9/Oe": [
     "Dabartinis žaidimas"
   ],
-  "MYFohD": [
-    "Pasiektas priminimų limitas. Įsigyk ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " ir turėk ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " priminimą"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " priminimus"
-        ],
-        "other": [
-          [
-            7
-          ],
-          "priminimų"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "MYgdY2": [
     "Pažymėti kaip atskleidžiamo turinio klipą"
   ],
@@ -63410,33 +63254,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro padidina priminimų limitą nuo ",
-    [
-      2,
-      "max"
-    ],
-    " iki ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Be to, jei reikia, gali kurį nors ",
-    [
-      8,
-      "$link",
-      [
-        "priminimą ištrinti"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    "."
   ],
   "NRI6vt": [
     "Jei nori asmens duomenų iš visos savo paskyros istorijos kopijos, ją gali gauti čia. ",
@@ -67429,29 +67246,6 @@
       ]
     ],
     " nepriima prašymų draugauti. Kad taptumėte draugais, jis turės tave pridėti."
-  ],
-  "Oxm3Sq": [
-    "Gauk iki ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " žymės"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " žymių"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "OxveI8": [
     [
@@ -80809,9 +80603,6 @@
   "URSMet": [
     "Seksualinis Turinys"
   ],
-  "URrJq1": [
-    "Tvarkyk savo svarbiausias žinutes su Nitro."
-  ],
   "URt7VI": [
     "Padarėme klaidą? Pranešk apie tai."
   ],
@@ -84750,14 +84541,6 @@
   ],
   "W+NB90": [
     "Peržiūrėti Parduotuvėje"
-  ],
-  "W+ZaoS": [
-    "Sukurk dar daugiau priminimų su ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Naudok visuotinį gestą iš dešinės į kairę Launch Pad suaktyvinti, kurį suaktyvini iš dešiniojo kampo (naudojant Android gali kilti konfliktas su sistemos gestais, jei juos įjungei; ši parinktis paliks funkciją „Braukti ir atsakyti“ įjungtą, tačiau gali būti konfliktų, kuriuos dar turėsime ištaisyti)."
@@ -91334,9 +91117,6 @@
   ],
   "YXeWYM": [
     "Redaguoti rodomą vardą"
-  ],
-  "YXk6N7": [
-    "Padaryk tvarką – pridėk žymių"
   ],
   "YYDILY": [
     "Stiprink serverius, kad parodytum, jog juos remi, ir gauk šaunius pranašumus savo draugams."
@@ -100616,6 +100396,9 @@
     "kiaulė",
     "šernas"
   ],
+  "boclBe": [
+    "Pradžia"
+  ],
   "bomb": [
     "bomba",
     "komiksas",
@@ -104478,29 +104261,6 @@
   ],
   "cpgfFk": [
     "Prisijungė tavo užblokuotas žmogus."
-  ],
-  "cpj9o/": [
-    "Gauk iki ",
-    [
-      6,
-      "premiumMax",
-      {
-        "one": [
-          [
-            7
-          ],
-          " priminimo"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " priminimų"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
   ],
   "cpqhYg": [
     "Mums nepavyko nustatyti, ar mokėjimas įvyko. Prieš bandydamas (-a) dar kartą, prisijunk ir patikrink savo prenumeratą."
@@ -121984,6 +121744,9 @@
   "j4gGA4": [
     "Panašu, kad nustatytas tavo įvesties įrenginio nulinis garsumas Windows nustatymuose. Sutvarkykime!"
   ],
+  "j4n5/K": [
+    "Sužinoti daugiau"
+  ],
   "j4qu8n": [
     "Patvirtinimo el. laiškas išsiųstas dar kartą, pasitikrink el. paštą."
   ],
@@ -129190,9 +128953,6 @@
   "m/GC8z": [
     "Moderatorius"
   ],
-  "m/HzW8": [
-    "Tvarkyk savo svarbiausias žinutes. Tik su Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -135688,33 +135448,6 @@
   ],
   "o572Fe": [
     "Žinutės, kuriai pridėjai žymę, nepavyko rasti."
-  ],
-  "o5OLyw": [
-    "Nitro padidina žymių limitą nuo ",
-    [
-      2,
-      "max"
-    ],
-    " iki ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Be to, jei reikia, gali kurią nors ",
-    [
-      8,
-      "$link",
-      [
-        "žymę ištrinti"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    "."
   ],
   "o5azXJ": [
     "Tai apima vaizdus ar vaizdo įrašus, su kurių sukūrimu galbūt iš pradžių sutikai, tačiau nedavei sutikimo jais dalytis. Tam nėra laiko limito – gali pranešti apie turinį, neatsižvelgiant į tai, kada jis sukurtas ar įkeltas."
@@ -143012,25 +142745,6 @@
   "qXeYHw": [
     "Standartinis"
   ],
-  "qXh3fo": [
-    "Kurk žymes ir priminimus su ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Panaikinti nutildymą"
   ],
@@ -149358,19 +149072,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "Nitro padidina žymių limitą nuo ",
-    [
-      2,
-      "max"
-    ],
-    " iki ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Be to, jei reikia, gali kurią nors žymę ištrinti."
   ],
   "sgiPrC": [
     "Nepriskirta: ",
@@ -159370,9 +159071,6 @@
   ],
   "w4+/BA": [
     "Sukurti"
-  ],
-  "w4DRbZ": [
-    "Padaryk tvarką – pridėk žymių"
   ],
   "w4GEvw": [
     "Liko ",

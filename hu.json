@@ -6371,14 +6371,6 @@
     ],
     " kedvezményt a Nitro árából"
   ],
-  "0hoV2D": [
-    "A következő csomaggal még több üzenetet menthetsz: ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -17409,19 +17401,6 @@
   ],
   "5VmbbF": [
     "Túl sok emotikon"
-  ],
-  "5VsCaT": [
-    "Könyvjelzőlimit elérve. Szerezd be a(z) ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " csomagot ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " könyvjelzőért."
   ],
   "5W9wWF": [
     "Beállítások kezelése"
@@ -36361,19 +36340,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Emlékeztetőlimit elérve. Szerezd be a(z) ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " csomagot ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " emlékeztetőért."
-  ],
   "E+qms7": [
     "Kattints a jobb egérgombbal bármelyik üzenetre, majd koppints a következőre: ",
     [
@@ -36700,6 +36666,18 @@
   ],
   "E7Dg31": [
     "Az alkalmazás nem működik / összeomlik / hibásan jelenik meg"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " hónapnyi Nitrót ajándékozott neked!"
   ],
   "E7oO8u": [
     "Ezt a bejegyzést lezárták. Csak moderátorok küldhetnek üzeneteket."
@@ -38843,9 +38821,6 @@
   "F6rmyq": [
     "Próbálod izgetni-mozgatni?"
   ],
-  "F6u3E3": [
-    "Kezelheted a legfontosabb üzeneteidet – kizárólag a Nitróval."
-  ],
   "F75nNl": [
     "Az alapértelmezett reakció mentése sikertelen"
   ],
@@ -39337,9 +39312,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Tetszett? Lásd el könyvjelzővel, hogy az összes kedvenc emlékedet egy helyen gyűjthesd össze."
-  ],
   "FMbL3s": [
     "Sikertelen eltávolítás"
   ],
@@ -39361,31 +39333,6 @@
       "user"
     ],
     "” felfüggesztése"
-  ],
-  "FNFCVJ": [
-    "Könyvjelzőlimit elérve. Szerezd be a(z) ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " csomagot ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " könyvjelzőért."
   ],
   "FNVJ4+": [
     "Ingyenes profilkép-dekoráció a profilodhoz!"
@@ -40649,6 +40596,13 @@
       "days"
     ],
     " nap"
+  ],
+  "G1Q40N": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " hónapnyi Nitro"
   ],
   "G1u0hK": [
     "Teljes méret"
@@ -47472,19 +47426,6 @@
   ],
   "IwVGQs": [
     "Speciális csevegősáv-beállítások elrejtése"
-  ],
-  "IwWQgO": [
-    "A Nitróval ",
-    [
-      2,
-      "max"
-    ],
-    " helyett ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lesz az emlékeztetőlimited. Emellett törölhetsz is egy emlékeztetőt, hogy felszabadítsd a helyet."
   ],
   "IwZbbP": [
     "Csökken az általad nézett GoLive-közvetítések hangereje, amikor mások beszélnek."
@@ -55052,31 +54993,6 @@
   "MY9/Oe": [
     "Jelenlegi játék"
   ],
-  "MYFohD": [
-    "Emlékeztetőlimit elérve. Szerezd be a(z) ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " csomagot ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " emlékeztetőért."
-  ],
   "MYgdY2": [
     "Spoiler klip"
   ],
@@ -57132,33 +57048,6 @@
       "premiumGroupProductName"
     ],
     " csomagod"
-  ],
-  "NRF0Wh": [
-    "A Nitróval ",
-    [
-      2,
-      "max"
-    ],
-    " helyett ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lesz az emlékeztetőlimited. Emellett ",
-    [
-      8,
-      "$link",
-      [
-        "törölhetsz is egy emlékeztetőt"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", hogy felszabadítsd a helyet."
   ],
   "NRI6vt": [
     "Ha szeretnél másolatot kapni a személyes adataidról a fiókod teljes fennállására vonatkozóan, itt tudod kikérni őket. ",
@@ -60884,14 +60773,6 @@
       ]
     ],
     " nem fogad el barátnak jelöléseket. Hogy barátok lehessetek, nekik kell bejelölniük téged."
-  ],
-  "Oxm3Sq": [
-    "Akár ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " könyvjelzőt kaphatsz"
   ],
   "OxveI8": [
     [
@@ -72928,9 +72809,6 @@
   "URSMet": [
     "Szexuális tartalom"
   ],
-  "URrJq1": [
-    "A Nitróval kezelheted a legfontosabb üzeneteidet."
-  ],
   "URt7VI": [
     "Tévedtünk? Add a tudtunkra!"
   ],
@@ -76655,14 +76533,6 @@
   ],
   "W+NB90": [
     "Megtekintés az áruházban"
-  ],
-  "W+ZaoS": [
-    "A következő csomaggal még több emlékeztetőt hozhatsz létre: ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "A globális, jobb szélről indított jobbról balra kézmozdulattal aktiválhatod a Launch Padet (Android rendszerű eszközökön ez ütközhet a rendszerszintű kézmozdulatokkal, ha engedélyezted ezeket. Noha így aktív marad a válasz pöccintéssel funkció, előfordulhatnak további, megoldásra váró ütközések)."
@@ -82604,9 +82474,6 @@
   ],
   "YXeWYM": [
     "Megjelenített név szerkesztése"
-  ],
-  "YXk6N7": [
-    "A könyvjelzőkkel rendet teremthetsz"
   ],
   "YYDILY": [
     "Láss el gyorsítással szervereket a támogatásod jeléül, és oldjatok fel menő jutalmakat a barátaiddal."
@@ -91368,6 +91235,9 @@
     "disznó",
     "vaddisznó"
   ],
+  "boclBe": [
+    "Akár ennyiért:"
+  ],
   "bomb": [
     "bomba",
     "képregény",
@@ -95040,14 +94910,6 @@
   ],
   "cpgfFk": [
     "Csatlakozott egy általad letiltott személy."
-  ],
-  "cpj9o/": [
-    "Akár ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " emlékeztetőt kaphatsz"
   ],
   "cpqhYg": [
     "Nem tudtuk megerősíteni, hogy sikeres volt-e a fizetés. Jelentkezz be, és tekintsd meg az előfizetésedet, mielőtt újrapróbálkoznál."
@@ -111700,6 +111562,9 @@
   "j4gGA4": [
     "Úgy tűnik, hogy a bemeneti eszközöd hangereje nullára van állítva a Windows-beállításoknál. Orvosoljuk ezt a problémát!"
   ],
+  "j4n5/K": [
+    "További tájékoztatás"
+  ],
   "j4qu8n": [
     "Hitelesítő e-mail újraküldve, kérjük, ellenőrizd az e-mail-fiókodat."
   ],
@@ -118372,9 +118237,6 @@
   "m/GC8z": [
     "Moderátor"
   ],
-  "m/HzW8": [
-    "Kezelheted a legfontosabb üzeneteidet – kizárólag a Nitróval."
-  ],
   "m/Tc3n": [
     "A(z) ",
     [
@@ -124717,33 +124579,6 @@
   ],
   "o572Fe": [
     "Egy általad könyvjelzővel ellátott üzenet nem található."
-  ],
-  "o5OLyw": [
-    "A Nitróval ",
-    [
-      2,
-      "max"
-    ],
-    " helyett ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lesz a könyvjelzőlimited. Emellett ",
-    [
-      8,
-      "$link",
-      [
-        "törölhetsz is egy könyvjelzőt"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", hogy felszabadítsd a helyet."
   ],
   "o5azXJ": [
     "Olyan képek vagy videók tartozhatnak ide, amelyeknek a létrehozásához eredetileg hozzájárultál, de nem egyeztél bele a megosztásukba. Nincs időkorlát – a létrehozás vagy a közzététel időpontjától függetlenül jelenthetsz tartalmakat."
@@ -131513,26 +131348,6 @@
   "qXeYHw": [
     "Szabványos"
   ],
-  "qXh3fo": [
-    "A(z) ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " csomaggal könyvjelzőket és emlékeztetőket hozhatsz létre"
-  ],
   "qXtNtS": [
     "Eltávolítás megszüntetése"
   ],
@@ -137215,19 +137030,6 @@
       "cardinal"
     ],
     " érhető el"
-  ],
-  "sgXqR1": [
-    "A Nitróval ",
-    [
-      2,
-      "max"
-    ],
-    " helyett ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lesz a könyvjelzőlimited. Emellett törölhetsz is egy könyvjelzőt, hogy felszabadítsd a helyet."
   ],
   "sgiPrC": [
     [
@@ -146948,9 +146750,6 @@
   ],
   "w4+/BA": [
     "Létrehozás"
-  ],
-  "w4DRbZ": [
-    "A könyvjelzőkkel rendet teremthetsz"
   ],
   "w4GEvw": [
     [

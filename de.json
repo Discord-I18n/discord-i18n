@@ -7083,14 +7083,6 @@
     ],
     " Rabatt auf Discord Nitro zu erhalten."
   ],
-  "0hoV2D": [
-    "Mit ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " kannst du noch mehr Nachrichten speichern."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19076,19 +19068,6 @@
   ],
   "5VmbbF": [
     "Zu viele Emojis"
-  ],
-  "5VsCaT": [
-    "Lesezeichenlimit erreicht. Hol dir ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " für ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Lesezeichen."
   ],
   "5W9wWF": [
     "Einstellungen verwalten"
@@ -39699,19 +39678,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Erinnerungslimit erreicht. Hol dir ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " für ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Erinnerungen."
-  ],
   "E+qms7": [
     "Klicke per Rechtsklick auf eine Nachricht und wähle ",
     [
@@ -40051,6 +40017,34 @@
   ],
   "E7Dg31": [
     "Die App funktioniert nicht/stürzt ab/hat Fehler."
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " hat dir für ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Monat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Monate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro geschenkt!"
   ],
   "E7oO8u": [
     "Dieser Post wurde gesperrt. Nur Moderatoren können Nachrichten versenden."
@@ -42399,9 +42393,6 @@
   "F6rmyq": [
     "Lust auf mehr Mobilität?"
   ],
-  "F6u3E3": [
-    "Verwalte deine wichtigsten Nachrichten – nur mit Nitro."
-  ],
   "F75nNl": [
     "Standardreaktion konnte nicht gespeichert werden"
   ],
@@ -42957,9 +42948,6 @@
   "FMYSJY": [
     "Option"
   ],
-  "FMaaaB": [
-    "Die hat dir gefallen? Verpass ihr ein Lesezeichen, um deine schönsten Erinnerungen an einem Ort zu bewahren."
-  ],
   "FMbL3s": [
     "Löschen fehlgeschlagen"
   ],
@@ -42981,31 +42969,6 @@
       "user"
     ],
     "' in Timeout schicken"
-  ],
-  "FNFCVJ": [
-    "Lesezeichenlimit erreicht. Hol dir ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " für ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Lesezeichen."
   ],
   "FNVJ4+": [
     "Kostenlose Avatardekoration für dein Profil!"
@@ -44334,6 +44297,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Monat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Monate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro"
   ],
   "G1u0hK": [
     "Maximieren"
@@ -51848,19 +51834,6 @@
   ],
   "IwVGQs": [
     "Erweiterte Chatleisten-Einstellungen verbergen"
-  ],
-  "IwWQgO": [
-    "Nitro erhöht dein Erinnerungslimit von ",
-    [
-      2,
-      "max"
-    ],
-    " auf ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kannst auch eine Erinnerung löschen, um Platz zu schaffen."
   ],
   "IwZbbP": [
     "Verringere die Lautstärke von GoLive-Streams, die du siehst, wenn andere sprechen."
@@ -60155,31 +60128,6 @@
   "MY9/Oe": [
     "Aktuelles Spiel"
   ],
-  "MYFohD": [
-    "Erinnerungslimit erreicht. Hol dir ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " für ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Erinnerungen."
-  ],
   "MYgdY2": [
     "Clip spoilern"
   ],
@@ -62398,33 +62346,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "Nitro erhöht dein Erinnerungslimit von ",
-    [
-      2,
-      "max"
-    ],
-    " auf ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kannst auch ",
-    [
-      8,
-      "$link",
-      [
-        "eine Erinnerung löschen"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", um Platz zu schaffen."
   ],
   "NRI6vt": [
     "Wenn du eine Kopie deiner personenbezogenen Daten aus dem gesamten Verlauf deines Accounts brauchst, bekommst du sie hier. ",
@@ -66371,14 +66292,6 @@
       ]
     ],
     " nimmt keine Freundschaftsanfragen an. Er oder sie muss dich hinzufügen."
-  ],
-  "Oxm3Sq": [
-    "Erhalte bis zu ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Lesezeichen"
   ],
   "OxveI8": [
     [
@@ -79452,9 +79365,6 @@
   "URSMet": [
     "Darstellung von sexuellen Inhalten"
   ],
-  "URrJq1": [
-    "Verwalte deine wichtigsten Nachrichten mit Nitro."
-  ],
   "URt7VI": [
     "Haben wir einen Fehler gemacht? Gib uns Bescheid."
   ],
@@ -83416,14 +83326,6 @@
   ],
   "W+NB90": [
     "Im Store ansehen"
-  ],
-  "W+ZaoS": [
-    "Mit ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " kannst du noch mehr Erinnerungen erstellen."
   ],
   "W+cPjG": [
     "Swipe irgendwo auf dem Bildschirm von rechts nach links, um das LaunchPad zu aktivieren, die du vom rechten Rand aus aktivierst (auf Android kann dies zu Konflikten mit den Systemgesten führen, wenn du diese aktiviert hast. Obwohl diese Geste „Swipe, um zu antworten“ aktiviert lässt, kann es Konflikte geben, die wir noch beheben müssen)."
@@ -89959,9 +89861,6 @@
   ],
   "YXeWYM": [
     "Anzeigename bearbeiten"
-  ],
-  "YXk6N7": [
-    "Bleib mit Lesezeichen organisiert"
   ],
   "YYDILY": [
     "Booste Server, um deine Unterstützung zu zeigen und coole Vorteile für deine Freunde freizuschalten."
@@ -99377,6 +99276,9 @@
     "Tier",
     "Wildschwein"
   ],
+  "boclBe": [
+    "Beginn:"
+  ],
   "bomb": [
     "Bombe",
     "Comic",
@@ -103213,14 +103115,6 @@
   ],
   "cpgfFk": [
     "Jemand, den du blockiert hast, ist beigetreten."
-  ],
-  "cpj9o/": [
-    "Erhalte bis zu ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " Erinnerungen"
   ],
   "cpqhYg": [
     "Wir konnten nicht bestätigen, ob diese Zahlung erfolgreich war. Melde dich an, um dein Abonnement zu überprüfen, bevor du es erneut versuchst."
@@ -120900,6 +120794,9 @@
   "j4gGA4": [
     "Sieht so aus, als ob die Lautstärke deines Eingabegeräts in den Windows-Einstellungen auf null eingestellt ist. Lass uns das beheben!"
   ],
+  "j4n5/K": [
+    "Mehr erfahren"
+  ],
   "j4qu8n": [
     "Verifizierungs-E-Mail erneut gesendet. Bitte sieh in deinem E-Mail-Postfach nach."
   ],
@@ -128227,9 +128124,6 @@
   "m/GC8z": [
     "Moderator"
   ],
-  "m/HzW8": [
-    "Verwalte deine wichtigsten Nachrichten – nur mit Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -134843,33 +134737,6 @@
   ],
   "o572Fe": [
     "Eine von dir mit einem Lesezeichen versehene Nachricht konnte nicht gefunden werden."
-  ],
-  "o5OLyw": [
-    "Nitro erhöht dein Lesezeichenlimit von ",
-    [
-      2,
-      "max"
-    ],
-    " auf ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kannst auch ",
-    [
-      8,
-      "$link",
-      [
-        "ein Lesezeichen löschen"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", um Platz zu schaffen."
   ],
   "o5azXJ": [
     "Dies umfasst Bilder oder Videos, die mit deiner Zustimmung aufgenommen, aber ohne deine Zustimmung geteilt wurden. Es gibt kein Zeitlimit – du kannst Inhalte unabhängig davon melden, wann sie erstellt oder gepostet wurden."
@@ -142270,25 +142137,6 @@
   "qXeYHw": [
     "Standard"
   ],
-  "qXh3fo": [
-    "Erstelle Lesezeichen und Erinnerungen mit ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Timeout aufheben"
   ],
@@ -148598,19 +148446,6 @@
       "cardinal"
     ],
     " verfügbar"
-  ],
-  "sgXqR1": [
-    "Nitro erhöht dein Lesezeichenlimit von ",
-    [
-      2,
-      "max"
-    ],
-    " auf ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Du kannst auch ein Lesezeichen löschen, um Platz zu schaffen."
   ],
   "sgiPrC": [
     [
@@ -158758,9 +158593,6 @@
   ],
   "w4+/BA": [
     "Generieren"
-  ],
-  "w4DRbZ": [
-    "Bleib mit Lesezeichen organisiert"
   ],
   "w4GEvw": [
     [
