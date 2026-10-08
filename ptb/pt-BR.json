@@ -7110,14 +7110,6 @@
     ],
     " de desconto no Nitro"
   ],
-  "0hoV2D": [
-    "Salve ainda mais mensagens com ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
-  ],
   "0hpvOV": [
     [
       1,
@@ -19188,19 +19180,6 @@
   ],
   "5VmbbF": [
     "Emojis demais"
-  ],
-  "5VsCaT": [
-    "Limite de favoritos atingido. Adquira ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favoritos."
   ],
   "5W9wWF": [
     "Gerenciar configurações"
@@ -39940,19 +39919,6 @@
       "value"
     ]
   ],
-  "E+mhMh": [
-    "Limite de lembretes atingido. Adquira ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lembretes."
-  ],
   "E+qms7": [
     "Clique com o botão direito em qualquer mensagem e selecione ",
     [
@@ -40293,6 +40259,34 @@
   ],
   "E7Dg31": [
     "O app não está funcionando/trava/apresenta erros para mim"
+  ],
+  "E7QYGI": [
+    [
+      1,
+      "sender"
+    ],
+    " te presenteou ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mês"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro!"
   ],
   "E7oO8u": [
     "Esta postagem foi bloqueada. Apenas moderadores podem enviar mensagens."
@@ -42673,9 +42667,6 @@
   "F6rmyq": [
     "Pretende chacoalhar os ossos?"
   ],
-  "F6u3E3": [
-    "Gerencie suas mensagens mais importantes, apenas com o Nitro."
-  ],
   "F75nNl": [
     "Falha ao salvar reação padrão"
   ],
@@ -43232,9 +43223,6 @@
   "FMYSJY": [
     "Opção"
   ],
-  "FMaaaB": [
-    "Adorou isso? Favorite para guardar suas memórias favoritas em um só lugar."
-  ],
   "FMbL3s": [
     "Erro ao limpar"
   ],
@@ -43256,31 +43244,6 @@
       "user"
     ],
     "' de castigo"
-  ],
-  "FNFCVJ": [
-    "Limite de favoritos atingido. Adquira ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favoritos."
   ],
   "FNVJ4+": [
     "Decoração de avatar gratuita para o seu perfil!"
@@ -44624,6 +44587,29 @@
       0,
       "cardinal"
     ]
+  ],
+  "G1Q40N": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mês de Nitro"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro"
   ],
   "G1u0hK": [
     "Maximizar"
@@ -52243,19 +52229,6 @@
   ],
   "IwVGQs": [
     "Ocultar configurações avançadas do chat"
-  ],
-  "IwWQgO": [
-    "O Nitro aumenta seu limite de lembretes de ",
-    [
-      2,
-      "max"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Você também pode excluir um lembrete para liberar espaço."
   ],
   "IwZbbP": [
     "Abaixe o volume das transmissões GoLive que você está assistindo quando outros falam."
@@ -60577,31 +60550,6 @@
   "MY9/Oe": [
     "Jogo Atual"
   ],
-  "MYFohD": [
-    "Limite de lembretes atingido. Adquira ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lembretes."
-  ],
   "MYgdY2": [
     "Spoiler do clipe"
   ],
@@ -62818,33 +62766,6 @@
       1,
       "premiumGroupProductName"
     ]
-  ],
-  "NRF0Wh": [
-    "O Nitro aumenta seu limite de lembretes de ",
-    [
-      2,
-      "max"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Você também pode ",
-    [
-      8,
-      "$link",
-      [
-        "excluir um lembrete"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para liberar espaço."
   ],
   "NRI6vt": [
     "Se você precisar de uma cópia dos seus dados pessoais de todo o histórico da sua conta, poderá obtê-la aqui. ",
@@ -66812,14 +66733,6 @@
       ]
     ],
     " não está aceitando pedidos de amizade. Ele ou ela terá que te adicionar para que se tornem amigos."
-  ],
-  "Oxm3Sq": [
-    "Tenha até ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " favoritos"
   ],
   "OxveI8": [
     [
@@ -79970,9 +79883,6 @@
   "URSMet": [
     "Conteúdo Sexual"
   ],
-  "URrJq1": [
-    "Gerencie suas mensagens mais importantes com o Nitro."
-  ],
   "URt7VI": [
     "Cometemos um erro? Avise-nos."
   ],
@@ -83916,14 +83826,6 @@
   ],
   "W+NB90": [
     "Ver na loja"
-  ],
-  "W+ZaoS": [
-    "Crie ainda mais lembretes com ",
-    [
-      1,
-      "nitroTierName"
-    ],
-    "."
   ],
   "W+cPjG": [
     "Utilize um gesto global da direita para a esquerda para ativar o LaunchPad que você ativa a partir do canto direito da tela (no Android, isso pode entrar em conflito com os gestos do sistema se você os tiver ativado e, embora isso mantenha o recurso de resposta por deslizamento ativado, ainda podem existir conflitos que precisamos resolver)."
@@ -90438,9 +90340,6 @@
   ],
   "YXeWYM": [
     "Editar nome exibido"
-  ],
-  "YXk6N7": [
-    "Mantenha a organização com favoritos"
   ],
   "YYDILY": [
     "Impulsione servidores para mostrar seu suporte e desbloquear vantagens legais para seus amigos."
@@ -99954,6 +99853,9 @@
     "animal",
     "javali"
   ],
+  "boclBe": [
+    "A partir de"
+  ],
   "bomb": [
     "bomba",
     "emoção",
@@ -103798,14 +103700,6 @@
   ],
   "cpgfFk": [
     "Alguém que você bloqueou entrou."
-  ],
-  "cpj9o/": [
-    "Tenha até ",
-    [
-      2,
-      "premiumMax"
-    ],
-    " lembretes"
   ],
   "cpqhYg": [
     "Não foi possível confirmar se este pagamento foi concluído. Entre para conferir sua assinatura antes de tentar novamente."
@@ -121572,6 +121466,9 @@
   "j4gGA4": [
     "Opa, parece que o seu dispositivo de entrada está sem volume nas configurações do Windows. Vamos consertar isso!"
   ],
+  "j4n5/K": [
+    "Saiba mais"
+  ],
   "j4qu8n": [
     "E-mail de verificação reenviado, verifique sua caixa de entrada."
   ],
@@ -128833,9 +128730,6 @@
   "m/GC8z": [
     "Moderador"
   ],
-  "m/HzW8": [
-    "Gerencie suas mensagens mais importantes, apenas com o Nitro."
-  ],
   "m/Tc3n": [
     [
       1,
@@ -135484,33 +135378,6 @@
   ],
   "o572Fe": [
     "Uma mensagem que você marcou não pode ser encontrada."
-  ],
-  "o5OLyw": [
-    "O Nitro aumenta seu limite de favoritos de ",
-    [
-      2,
-      "max"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Você também pode ",
-    [
-      8,
-      "$link",
-      [
-        "excluir um favorito"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para liberar espaço."
   ],
   "o5azXJ": [
     "Isso inclui imagens ou vídeos que você originalmente deu autorização para criar, mas não deu autorização para compartilhar. Não há limite de tempo — você pode denunciar o conteúdo independentemente de quando ele foi criado ou publicado."
@@ -142826,25 +142693,6 @@
   "qXeYHw": [
     "Padrão"
   ],
-  "qXh3fo": [
-    "Crie marcadores e lembretes com ",
-    [
-      8,
-      "$link",
-      [
-        [
-          1,
-          "nitroTierName"
-        ]
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ]
-  ],
   "qXtNtS": [
     "Remover castigo"
   ],
@@ -149223,19 +149071,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "sgXqR1": [
-    "O Nitro aumenta seu limite de favoritos de ",
-    [
-      2,
-      "max"
-    ],
-    " para ",
-    [
-      2,
-      "premiumMax"
-    ],
-    ". Você também pode excluir um favorito para liberar espaço."
   ],
   "sgiPrC": [
     [
@@ -159430,9 +159265,6 @@
   ],
   "w4+/BA": [
     "Gerar"
-  ],
-  "w4DRbZ": [
-    "Mantenha a organização com favoritos"
   ],
   "w4GEvw": [
     [
