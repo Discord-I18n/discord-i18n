@@ -1694,7 +1694,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "+aRmAc": [
     "Start another game server"
@@ -3591,7 +3596,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "/K2RDH": [
     "View less emoji"
@@ -6781,6 +6791,9 @@
   ],
   "0RE0DR": [
     "Coordinate, share resources, and host events."
+  ],
+  "0RERAa": [
+    "My Best Buy Plus™ Nitro Reward"
   ],
   "0RIwwH": [
     "Free"
@@ -14596,6 +14609,9 @@
       ]
     ]
   ],
+  "3RgAlG": [
+    "Team Fight Won"
+  ],
   "3Ru2/x": [
     "This sound is from one of your servers. Get Nitro to use it everywhere."
   ],
@@ -18687,6 +18703,9 @@
       ]
     ]
   ],
+  "4y7mjC": [
+    "4y7mjC"
+  ],
   "4yUkw4": [
     "Say what's on your mind with an increased character count from ",
     [
@@ -19488,19 +19507,24 @@
           [
             7
           ],
-          " unique game played"
+          " unique game"
         ],
         "other": [
           [
             7
           ],
-          " unique games played"
+          " unique games"
         ]
       },
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "5DFcVl": [
     "Annually on ",
@@ -25359,6 +25383,9 @@
   "7Tv7JK": [
     "Link your YouTube account to automatically sync your YouTube channel members to roles in this server. Create an exclusive experience just for your channel members. YouTube integrations are only available for partnered YouTube accounts."
   ],
+  "7TxNKE": [
+    "Days"
+  ],
   "7U/3ng": [
     "Nitro"
   ],
@@ -26436,6 +26463,9 @@
   ],
   "7p5pqh": [
     "URL (optional)"
+  ],
+  "7pATiR": [
+    "Hours"
   ],
   "7pNhXe": [
     "Auto Flash"
@@ -32627,6 +32657,13 @@
   "AERuYh": [
     "Name for your group"
   ],
+  "AEfs1D": [
+    "Go to ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "AF+Tyh": [
     "Boost this server to unlock perks"
   ],
@@ -32708,6 +32745,9 @@
   ],
   "AHqj6c": [
     "Master"
+  ],
+  "AHwDIp": [
+    "AHwDIp"
   ],
   "AI1ZZr": [
     [
@@ -38109,19 +38149,24 @@
           [
             7
           ],
-          " unique game played"
+          " unique game"
         ],
         "other": [
           [
             7
           ],
-          " unique games played"
+          " unique games"
         ]
       },
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "CHa0vN": [
     "Product Unavailable"
@@ -49749,6 +49794,20 @@
   "H6Ny8N": [
     "Active Challenges"
   ],
+  "H6cz/6": [
+    "First year of My Best Buy Plus™ ($29.99 value), free with Nitro. Get ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% back in rewards on select pre-orders of the season’s biggest games. Redeem by ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "H6fRIg": [
     "The message you are trying to pin does not exist."
   ],
@@ -49945,6 +50004,13 @@
   ],
   "HB5Q+k": [
     "Let my Operating System decide"
+  ],
+  "HBJiRR": [
+    "Playing ",
+    [
+      1,
+      "name"
+    ]
   ],
   "HBR9Q0": [
     "Now you can use an animated avatar!"
@@ -56204,6 +56270,9 @@
   "Jf0C/c": [
     "Swiping Right to Left"
   ],
+  "Jf0OOQ": [
+    "Other"
+  ],
   "Jf8KrT": [
     "Explore Nitro for free. You can subscribe at anytime to keep your perks and unlock even more."
   ],
@@ -56805,6 +56874,33 @@
   ],
   "K/EdV8": [
     "None"
+  ],
+  "K/UZHJ": [
+    "First year of My Best Buy Plus™ ($29.99 value), free with Nitro. Get ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% back in rewards on select pre-orders of the season’s biggest games and more. Redeem by ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
   ],
   "K/hjQf": [
     "Try them out!"
@@ -62436,6 +62532,9 @@
   "MJYvmG": [
     "Style your space with endless color combinations."
   ],
+  "MJep2r": [
+    "MJep2r"
+  ],
   "MJw05f": [
     "Gift Recipient"
   ],
@@ -64586,6 +64685,9 @@
       "count"
     ],
     "m ago"
+  ],
+  "N9U/9X": [
+    "Your password has been reset. Log in with your new password."
   ],
   "N9WJMM": [
     "Request Manual Review"
@@ -66817,6 +66919,9 @@
   "NzrGEi": [
     "99.9% Uptime"
   ],
+  "NzvIo/": [
+    "Power up your pre-orders"
+  ],
   "NzxWjb": [
     "Resume your server setup"
   ],
@@ -68458,6 +68563,9 @@
     ],
     " to complete the transaction."
   ],
+  "OejyCi": [
+    "Upcoming"
+  ],
   "OervdV": [
     "Focus ",
     [
@@ -68813,7 +68921,7 @@
     "Back to Settings"
   ],
   "OleW32": [
-    "New Discord-powered social features are available in Call of Duty: MW4. Upgrade your connection to unlock a unified friends list and invites."
+    "New Discord-powered social features are available in Call of Duty: Modern Warfare 4. Upgrade your connection to unlock a unified friends list and invites."
   ],
   "Olo8FB": [
     "Category"
@@ -72399,6 +72507,9 @@
   "Q7wgHc": [
     "Disables most chat features but may work better with screen readers."
   ],
+  "Q86yGA": [
+    "Unlock Reward"
+  ],
   "Q87rI/": [
     "This emoji doesn't work here because it's from a different server. Upgrade to Discord Nitro to use emoji from other servers"
   ],
@@ -73723,6 +73834,9 @@
   ],
   "QlyC9s": [
     "Set a default reaction for posts"
+  ],
+  "Qm57HT": [
+    "Team Fight"
   ],
   "Qm6K/s": [
     "Verify your email"
@@ -80745,6 +80859,13 @@
   "TUKMak": [
     "Share your activity status in this server"
   ],
+  "TUZ50q": [
+    "Preview ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "TUilLj": [
     "Use Boosts to unlock special, themed badge packs for your Server Tag!"
   ],
@@ -81021,6 +81142,29 @@
   ],
   "TaUGgY": [
     "Tax is included with the price."
+  ],
+  "TaUsG9": [
+    "In ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "TahE/i": [
     "sent a message you might like."
@@ -84759,6 +84903,9 @@
   "UzDaWD": [
     "iOS In-App Purchases for Server Subscriptions"
   ],
+  "UzF3CN": [
+    "UzF3CN"
+  ],
   "UzNv7u": [
     "All set. Now share your event!"
   ],
@@ -86459,6 +86606,15 @@
   ],
   "Ve9Ge6": [
     "Gift Nitro"
+  ],
+  "VeAbZT": [
+    "Claim a 1-year My Best Buy Plus membership. Expires ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "VeC8vc": [
     "Primary Language"
@@ -88307,6 +88463,9 @@
   ],
   "WMHkIc": [
     "Spanish"
+  ],
+  "WMK6Pg": [
+    "Unlock Offer"
   ],
   "WMO9po": [
     "Be who you want and use a different avatar, banner, and bio in each of your servers, unlock animated avatars, and more with ",
@@ -92383,6 +92542,9 @@
   ],
   "XuVkkD": [
     "Previous 24 Hours"
+  ],
+  "XuYNQR": [
+    "XuYNQR"
   ],
   "XuZU7A": [
     "Display name"
@@ -96996,6 +97158,9 @@
   ],
   "ZZ5jSz": [
     "Find me on"
+  ],
+  "ZZNyeP": [
+    "ZZNyeP"
   ],
   "ZZlox4": [
     "This server is currently full."
@@ -101675,6 +101840,14 @@
   ],
   "b8siyY": [
     "Update"
+  ],
+  "b9LwCb": [
+    "Unlock your first year of My Best Buy Plus™ free and earn ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% back in rewards on select pre-orders of the season’s biggest games."
   ],
   "b9w3bO": [
     "Online"
@@ -106434,6 +106607,9 @@
     ],
     "!"
   ],
+  "cfEYME": [
+    "cfEYME"
+  ],
   "cfY4PE": [
     "Claim Reward"
   ],
@@ -109713,25 +109889,33 @@
           [
             7
           ],
-          " unique game played"
+          " unique game"
         ],
         "other": [
           [
             7
           ],
-          " unique games played"
+          " unique games"
         ]
       },
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "dXC/hn": [
     "year"
   ],
   "dXE8/D": [
     "Select a Primary Language"
+  ],
+  "dXR9qI": [
+    "Minutes"
   ],
   "dXdgno": [
     [
@@ -113196,6 +113380,9 @@
   "ec5Rdd": [
     "10 hours of cloud gaming each month"
   ],
+  "ecPCdG": [
+    "My Best Buy Plus™ membership"
+  ],
   "ecTJkR": [
     "Profile Frames"
   ],
@@ -113766,6 +113953,9 @@
       ]
     ]
   ],
+  "er+5dl": [
+    "Power up your pre-orders"
+  ],
   "er+FRD": [
     "Online status: ",
     [
@@ -114036,6 +114226,9 @@
   "eutr4P": [
     "Tell us a bit about you"
   ],
+  "evF0PO": [
+    "Claim your first year of My Best Buy Plus™ membership free. $29.99 annually. Auto-renews. Cancel anytime."
+  ],
   "evGwDW": [
     "Draft — scheduled to go live ",
     [
@@ -114218,7 +114411,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "exclamation": [
     "!",
@@ -114712,7 +114910,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "f6YgdN": [
     "Active >30d ago"
@@ -120909,6 +121112,19 @@
   ],
   "h9Q1lG": [
     "For a club or community"
+  ],
+  "h9gDdS": [
+    "Your team won a team fight ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "h9mGOP": [
     "Channels & Roles"
@@ -131683,6 +131899,9 @@
   "l6Rj+t": [
     "Can't find them? Try sending an invite link."
   ],
+  "l6SlkF": [
+    "l6SlkF"
+  ],
   "l6Yb3T": [
     "What's your username origin story?"
   ],
@@ -134060,6 +134279,9 @@
   ],
   "lyD5ZW": [
     "This sticker is from one of your servers. Get Nitro to use it everywhere."
+  ],
+  "lyE3Rw": [
+    "Unlock Offer"
   ],
   "lyFNjK": [
     "Indie Spotlight"
@@ -136966,19 +137188,24 @@
           [
             7
           ],
-          " unique game played"
+          " unique game"
         ],
         "other": [
           [
             7
           ],
-          " unique games played"
+          " unique games"
         ]
       },
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "mhUrKS": [
     "Before you can use Family Center, we need to verify your age so we can show you the appropriate experience. We will only ask you for this once."
@@ -140430,6 +140657,19 @@
   ],
   "nnsFif": [
     "You don't have any blocked users"
+  ],
+  "no2oEG": [
+    "Your team fought ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
   ],
   "no7/g5": [
     "Page Down"
@@ -144679,6 +144919,9 @@
   ],
   "pKCxWP": [
     "Search Started"
+  ],
+  "pKLV22": [
+    "You cannot launch activities in age-restricted channels."
   ],
   "pKZ4I8": [
     "Stage Channel (Locked)"
@@ -149870,9 +150113,6 @@
   ],
   "qzxqUf": [
     "Create"
-  ],
-  "r+PDmu": [
-    "Wizard standing on a floating island"
   ],
   "r+SebU": [
     "Select Plan"
@@ -163111,6 +163351,28 @@
       "buildNumber"
     ]
   ],
+  "uytDvV": [
+    "One-time code reward. Expires ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "uyuIeg": [
     "Get your server ready for Discovery"
   ],
@@ -163419,6 +163681,9 @@
       []
     ],
     " positive feedback review(s)"
+  ],
+  "v5a81e": [
+    "Claim Reward"
   ],
   "v6/z28": [
     "Cannot delete this payment source while you have an active Nitro subscription."
@@ -165162,6 +165427,9 @@
   ],
   "vlHicE": [
     "Custom profiles and more!"
+  ],
+  "vlafDc": [
+    "Unlock Reward"
   ],
   "vlj5uF": [
     "Heads up — allowing tracking lets us personalize the content you see in your Quests & Rewards and keeps your experience as relevant as possible!"
@@ -170567,6 +170835,27 @@
   "xKXcSu": [
     "Add to Favorites"
   ],
+  "xL7Cfe": [
+    "Get your first year of My Best Buy Plus™ ($29.99) free. Earn ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% back in rewards on select pre-orders of the season’s biggest games. ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "xLI+Hj": [
     "You can still enjoy a reward to celebrate the year:"
   ],
@@ -171026,6 +171315,9 @@
   ],
   "xUqheM": [
     "Deauthorize"
+  ],
+  "xV2y1G": [
+    "xV2y1G"
   ],
   "xV9hVh": [
     "Server Folder"
