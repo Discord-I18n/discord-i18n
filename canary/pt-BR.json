@@ -85,6 +85,9 @@
   "+18gq6": [
     "Não é possível clicar no jogo"
   ],
+  "+1CM/5": [
+    "Vitória na luta em equipe"
+  ],
   "+1H47t": [
     "Opções"
   ],
@@ -316,6 +319,9 @@
   "+6eRyq": [
     "Nenhuma vantagem desbloqueada ainda"
   ],
+  "+7+Hvl": [
+    "Leia mensagens nos seus servidores"
+  ],
   "+78Pfm": [
     "Denunciar"
   ],
@@ -368,6 +374,9 @@
   ],
   "+9QSnj": [
     "Recentes"
+  ],
+  "+9TbTS": [
+    "+9TbTS"
   ],
   "+9XKWu": [
     "https://discord.gg/example"
@@ -1142,6 +1151,9 @@
   "+O9Asn": [
     "Erro de pagamento"
   ],
+  "+OEqVQ": [
+    "Crie sua própria central de servidor"
+  ],
   "+OURPp": [
     "Com certeza! Impulsos de servidor são uma ótima maneira de apoiar seus servidores favoritos. Quando você impulsiona um servidor, você será reconhecido(a) por um ícone de lista de membros especial, um cargo de Impulsionador(a) e um emblema de perfil."
   ],
@@ -1678,6 +1690,19 @@
   "+cGVV6": [
     "Utilizados com frequência"
   ],
+  "+cSvS8": [
+    "Posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " de ",
+    [
+      1,
+      "positionCount"
+    ],
+    " na coluna principal"
+  ],
   "+caQHK": [
     "Alterar categoria"
   ],
@@ -1989,6 +2014,9 @@
   ],
   "+o4Q7e": [
     "Tomar ação"
+  ],
+  "+oFzYq": [
+    "+oFzYq"
   ],
   "+oNl6x": [
     "Ao clicar em “Aceitar”, você estará concordando com os ",
@@ -2530,6 +2558,44 @@
     ],
     "."
   ],
+  "+z+JUw": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    ", ",
+    [
+      1,
+      "c"
+    ],
+    ", e ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " outra pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " outras pessoas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+z5dYe": [
     "Vincule sua conta através do jogo para continuar"
   ],
@@ -2738,6 +2804,14 @@
   ],
   "/1mWUn": [
     "Total de Orbs do Nitro obtidos:"
+  ],
+  "/272et": [
+    "Venceu o ranking de jogos da semana passada com ",
+    [
+      1,
+      "minutes"
+    ],
+    "min de tempo total de jogo."
   ],
   "/2Gnoa": [
     "Descrição de imagem (Texto ALT)"
@@ -3031,6 +3105,9 @@
   ],
   "/8WWvE": [
     "Entrar como"
+  ],
+  "/8cdWl": [
+    "/8cdWl"
   ],
   "/8czH4": [
     "Convite para ouvir junto no ",
@@ -3550,6 +3627,9 @@
   "/OpRAP": [
     "Desbloqueie a sua conta"
   ],
+  "/OtM0k": [
+    "Adicionar widgets a esta coluna."
+  ],
   "/OywGQ": [
     "Atualize seu nome"
   ],
@@ -3577,6 +3657,9 @@
   ],
   "/PgrpK": [
     "Meus amigos são legais, quase sempre."
+  ],
+  "/Pkxmw": [
+    "Último na categoria"
   ],
   "/Q4HRN": [
     "Anual"
@@ -3854,6 +3937,30 @@
   "/UyK0d": [
     "Guiné"
   ],
+  "/VAMco": [
+    "Venceu o ranking de jogos da semana passada com ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jogo único jogado"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jogos únicos jogados"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "/VNqdD": [
     "Configurações de servidor padrão"
   ],
@@ -3965,6 +4072,20 @@
   "/YzI63": [
     "Sem acesso"
   ],
+  "/ZJIuo": [
+    "Curtiu este som? O Nitro permite que você use os sons de ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " em qualquer lugar."
+  ],
   "/ZNT+0": [
     "Falha ao remover o avatar. Tente novamente mais tarde."
   ],
@@ -4010,6 +4131,9 @@
   "/b/DU7": [
     "Você silenciou este servidor"
   ],
+  "/b1eZT": [
+    "Amigos do grupo no canal de voz"
+  ],
   "/b5nqj": [
     "Redefinir avatar"
   ],
@@ -4052,6 +4176,9 @@
   ],
   "/bX4Jn": [
     "Link de convite personalizado"
+  ],
+  "/bZ+Av": [
+    "Amigos no mesmo canal de voz serão agrupados juntos"
   ],
   "/bd0Qv": [
     "Suas alterações são salvas automaticamente."
@@ -4291,6 +4418,22 @@
   "/jUd2+": [
     "Sua mensagem não foi enviada pois este servidor atingiu o máximo de postagem ativas. Arquive algumas para liberar espaço."
   ],
+  "/jdd/7": [
+    "Este emoji é de um pacote de emojis Nitro. Está em beta e disponível apenas para assinantes selecionados do Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Saiba mais."
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "/jubeD": [
     "Criar tag"
   ],
@@ -4486,6 +4629,9 @@
   "/nmBUl": [
     "Apresentando, sincronização de contraste"
   ],
+  "/nma+a": [
+    "Classificação atualizada diariamente"
+  ],
   "/o1IfA": [
     "Frequenta uma instituição de ensino diferente? ",
     [
@@ -4666,6 +4812,17 @@
   ],
   "/sYelW": [
     "em #demonstração"
+  ],
+  "/sw0JL": [
+    [
+      1,
+      "widgetName"
+    ],
+    ": ",
+    [
+      1,
+      "viewName"
+    ]
   ],
   "/tGlcj": [
     "Seus arquivos são poderosos demais"
@@ -4932,6 +5089,9 @@
   ],
   "0+11FF": [
     "Eleve seu uso de emojis para o próximo nível"
+  ],
+  "0+5+Oy": [
+    "Pacotes de emoji Nitro"
   ],
   "0+5B2Q": [
     "Fale sobre grandes citações da história da literatura"
@@ -5520,6 +5680,9 @@
       []
     ]
   ],
+  "0BwmBU": [
+    "0BwmBU"
+  ],
   "0CEP6e": [
     "Sobreposição de informações da transmissão"
   ],
@@ -5883,6 +6046,9 @@
   ],
   "0JFpRW": [
     "Obtenha alguns downloads ou cargos especiais"
+  ],
+  "0JLdD3": [
+    "Mensagens do sistema da central do servidor"
   ],
   "0JMZdz": [
     "Removeu a permissão especial"
@@ -6345,6 +6511,9 @@
   ],
   "0RE0DR": [
     "Coordenem, compartilhem recursos e realizem eventos."
+  ],
+  "0RERAa": [
+    "Recompensa Nitro My Best Buy Plus™"
   ],
   "0RIwwH": [
     "Grátis"
@@ -7190,6 +7359,9 @@
         ]
       ]
     ]
+  ],
+  "0kWTS7": [
+    "0kWTS7"
   ],
   "0ki7+P": [
     "Entendo que desconectar este adolescente removerá meu acesso às informações sobre sua atividade no Discord."
@@ -8149,6 +8321,9 @@
   "16SG+O": [
     "Ajustar suas configurações de voz e vídeo pessoais"
   ],
+  "16VZdD": [
+    "16VZdD"
+  ],
   "16aguo": [
     [
       8,
@@ -8801,6 +8976,9 @@
       ]
     ]
   ],
+  "1MXXPf": [
+    "Sucesso"
+  ],
   "1MYPH0": [
     "Experimente o Nitro por ",
     [
@@ -9311,6 +9489,13 @@
   "1bX7Tx": [
     "Seu Plano Nitro"
   ],
+  "1bt50t": [
+    "Última atualização: ",
+    [
+      1,
+      "timestamp"
+    ]
+  ],
   "1c+xwT": [
     "Superfigurinhas"
   ],
@@ -9346,6 +9531,9 @@
       ]
     ],
     "."
+  ],
+  "1dd6Fx": [
+    "1dd6Fx"
   ],
   "1dqa3c": [
     "Bora subir de nível? Habilitar o rastreamento nos ajuda a tornar suas experiências o mais recompensadoras e relevantes possíveis! Você pode desativar a qualquer momento nas configurações do iOS."
@@ -10268,6 +10456,9 @@
   "23xR5w": [
     "Caches limpos!"
   ],
+  "24Kzud": [
+    "COMBO DA PIADINHA"
+  ],
   "24PAJ+": [
     "Esta mensagem foi bloqueada pelo AutoMod. Os donos da comunidade também podem ver a mensagem."
   ],
@@ -10441,6 +10632,9 @@
   ],
   "2Ab4Id": [
     "Ao criar um canal de anúncios, o seu perfil de servidor ficará visível para outros fora dos membros do seu servidor. Você pode controlar a privacidade do perfil em Configurações do servidor > Perfil."
+  ],
+  "2AoJt6": [
+    "Adicione os widgets que seu servidor realmente vai usar."
   ],
   "2Ap8sh": [
     "Códigos de Verificação"
@@ -10851,6 +11045,20 @@
   ],
   "2IY4YN": [
     "Alertas de Invasão"
+  ],
+  "2IbyWO": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com mais dias de jogo? Até agora, ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " está na liderança."
   ],
   "2J2mKJ": [
     "Outro motivo"
@@ -11608,6 +11816,19 @@
       ]
     ],
     " do Discord."
+  ],
+  "2bu+0V": [
+    "Sua equipe venceu uma luta ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "2cHUti": [
     "Ver código"
@@ -12409,6 +12630,9 @@
   "2visC6": [
     "Copiar ID da Categoria"
   ],
+  "2vock0": [
+    "Permissões de pedidos de amizade"
+  ],
   "2vyz+N": [
     "Este nome só vai aparecer nos seus favoritos."
   ],
@@ -12654,6 +12878,9 @@
   ],
   "3+rPki": [
     "Os membros precisam concordar com as regras do servidor antes de poderem falar."
+  ],
+  "3/DOFo": [
+    "Atualização diária mostrando os últimos 7 dias"
   ],
   "3/IlR0": [
     "Abrir configurações"
@@ -12905,6 +13132,12 @@
   ],
   "35G2Mq": [
     "Configurações da sobreposição"
+  ],
+  "35nXwl": [
+    "35nXwl"
+  ],
+  "35vxnc": [
+    "Este item não está disponível para compra no momento."
   ],
   "36/RiT": [
     "Alterações nas tarifas de criador"
@@ -13950,6 +14183,9 @@
       ]
     ]
   ],
+  "3RgAlG": [
+    "Vitória na luta em equipe"
+  ],
   "3Ru2/x": [
     "Este som é de um dos seus servidores. Assine o Nitro para usá-lo em qualquer lugar."
   ],
@@ -14163,6 +14399,19 @@
   "3Uuql+": [
     "Estes são os canais que seus membros mais leem."
   ],
+  "3Uwmdt": [
+    "Mais opções, insígnia ",
+    [
+      1,
+      "position"
+    ],
+    ", ",
+    [
+      1,
+      "badgeName"
+    ],
+    ", oculta"
+  ],
   "3VG9s1": [
     "Baixando — ",
     [
@@ -14236,6 +14485,9 @@
   ],
   "3WoZBc": [
     "Jogos"
+  ],
+  "3Wq/bk": [
+    "3Wq/bk"
   ],
   "3WzxLT": [
     "O teclado iOS redimensiona a visualização"
@@ -14442,6 +14694,26 @@
       "regularPrice"
     ],
     "."
+  ],
+  "3ZnaZH": [
+    "3ZnaZH"
+  ],
+  "3Zq6FM": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " e ",
+    [
+      1,
+      "c"
+    ]
   ],
   "3Zypbv": [
     "Destacar app"
@@ -15102,6 +15374,9 @@
   "3oUE4o": [
     "Confirme sua idade"
   ],
+  "3oxlia": [
+    "Duração mínima da notificação"
+  ],
   "3p3/BK": [
     "Você foi convidado(a) a entrar em um grupo privado"
   ],
@@ -15330,6 +15605,9 @@
   ],
   "3v8kZH": [
     "Crie uma tag para ajudar as pessoas a organizar suas postagens em subcategorias. Máximo de 20 caracteres."
+  ],
+  "3vALem": [
+    "3vALem"
   ],
   "3vPFQi": [
     "Não mostrar isso novamente"
@@ -15606,6 +15884,9 @@
   "40EZaQ": [
     "Participar"
   ],
+  "40J/QC": [
+    "40J/QC"
+  ],
   "40R63o": [
     "Não foi possível verificar a idade"
   ],
@@ -15757,6 +16038,9 @@
       ]
     ],
     "."
+  ],
+  "43zohO": [
+    "Não está executando o jogo"
   ],
   "44/Obu": [
     [
@@ -15942,6 +16226,13 @@
   ],
   "493lwX": [
     "Mais devagar"
+  ],
+  "49Jv0I": [
+    "Ative o compartilhamento para contribuir com ",
+    [
+      1,
+      "widgetName"
+    ]
   ],
   "49d6Nd": [
     "Prioridade de Detecção de Voz"
@@ -16185,6 +16476,9 @@
   ],
   "4IaoCI": [
     "Filtrar tudo"
+  ],
+  "4IdR/H": [
+    "4IdR/H"
   ],
   "4J2PYL": [
     "moda"
@@ -16564,6 +16858,9 @@
   "4TOv0j": [
     "Quack"
   ],
+  "4TphyY": [
+    "Insígnia Nitro especial no perfil"
+  ],
   "4TuWfc": [
     "Postar para"
   ],
@@ -16939,6 +17236,9 @@
       "username"
     ],
     " convidou você para um chat"
+  ],
+  "4aaADG": [
+    "4aaADG"
   ],
   "4ahTBl": [
     "3. Escolha um emoji"
@@ -17849,6 +18149,9 @@
       ]
     ]
   ],
+  "4y7mjC": [
+    "4y7mjC"
+  ],
   "4yUkw4": [
     "Diga o que pensa em um número maior de caracteres, de ",
     [
@@ -17874,6 +18177,9 @@
   ],
   "4yfIDk": [
     "Ver status da solicitação"
+  ],
+  "4yhYGq": [
+    "4yhYGq"
   ],
   "4yiU7x": [
     "Item no jogo"
@@ -17926,8 +18232,14 @@
       "cardinal"
     ]
   ],
+  "5+172e": [
+    "Transmitir"
+  ],
   "5+2s+R": [
     "Esta configuração é aplicada quando você entra em um novo servidor. Isso não se aplica aos servidores dos quais você já faz parte."
+  ],
+  "5+Btln": [
+    "5+Btln"
   ],
   "5+LPUW": [
     "Atualize suas informações de pagamento, ou sua assinatura terminará em ",
@@ -17957,6 +18269,9 @@
       ]
     ],
     "."
+  ],
+  "5+MmpT": [
+    "5+MmpT"
   ],
   "5+RznI": [
     "Desbloqueie vantagens do servidor"
@@ -18005,6 +18320,9 @@
   ],
   "5/NS74": [
     "Remover dos favoritos"
+  ],
+  "5/WCf/": [
+    "SUPERCOMBO DE 1K"
   ],
   "5/Xort": [
     "Você tem certeza de que quer se desconectar de ",
@@ -18406,6 +18724,13 @@
   ],
   "5AelkX": [
     "Comece agora"
+  ],
+  "5AjG8l": [
+    [
+      1,
+      "minutes"
+    ],
+    "m"
   ],
   "5AkWAd": [
     "Ô-ou. Parece que você foi banido(a). Você não poderá mais entrar ou interagir com esse servidor."
@@ -19742,6 +20067,9 @@
       1,
       "nitroTierName"
     ]
+  ],
+  "5ifydJ": [
+    "COMBO DE 5K: AINDA NÃO PAROU"
   ],
   "5iq4Hf": [
     "Recursos experimentais"
@@ -21190,6 +21518,9 @@
   "6Ecyts": [
     "Veja no e-mail o link para entrar"
   ],
+  "6Ej9W0": [
+    "Arquivos externos"
+  ],
   "6EjGUv": [
     "Ativar/desativar transcrição"
   ],
@@ -21336,6 +21667,9 @@
   ],
   "6HXiuE": [
     "Nenhum resultado encontrado"
+  ],
+  "6Hm8C/": [
+    "6Hm8C/"
   ],
   "6HqDfT": [
     [
@@ -21631,6 +21965,13 @@
   ],
   "6RIwPI": [
     "Você não tem a permissão para expulsar um usuário."
+  ],
+  "6RMLFY": [
+    [
+      1,
+      "packName"
+    ],
+    " adicionado"
   ],
   "6RTdZA": [
     "Você pausou sua assinatura Nitro até ",
@@ -21982,6 +22323,18 @@
   "6Y1t5P": [
     "Problema na transmissão"
   ],
+  "6Y8H0A": [
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "min no total"
+  ],
   "6Y9q8d": [
     "Como o seu servidor começou e o que torna a sua equipe especial?"
   ],
@@ -22162,6 +22515,9 @@
   "6bEcYr": [
     "Em alta"
   ],
+  "6bWeWP": [
+    "Saiba mais"
+  ],
   "6bgVlq": [
     "COMBO x",
     [
@@ -22259,6 +22615,9 @@
   "6dtcuZ": [
     "Deslize a aba para ativar o LaunchPad"
   ],
+  "6duFnE": [
+    "6duFnE"
+  ],
   "6dwqo0": [
     "Adicionar um benefício"
   ],
@@ -22285,6 +22644,9 @@
   ],
   "6eNTWe": [
     "Você não pode usá-la enquanto ela estiver desativada."
+  ],
+  "6ePRRb": [
+    "6ePRRb"
   ],
   "6eXLcJ": [
     "Exibir detalhes do canal"
@@ -22383,6 +22745,9 @@
   ],
   "6hn0xF": [
     "Use impulsos para desbloquear uma tag do servidor e estilos de cargos aprimorados!"
+  ],
+  "6hvboB": [
+    "COMBO DE 100K: QUE SONZERA"
   ],
   "6iNxrl": [
     [
@@ -22591,6 +22956,12 @@
         ]
       ]
     ]
+  ],
+  "6mcVBm": [
+    "Novos pacotes de emojis com Nitro"
+  ],
+  "6mh541": [
+    "O Discord está com problemas para se conectar à chamada."
   ],
   "6miRmw": [
     "Use impulsos para desbloquear um tema personalizado que todos veem ao entrar."
@@ -23649,6 +24020,9 @@
   "79MgMO": [
     "Imagem do avatar"
   ],
+  "79eRJG": [
+    "79eRJG"
+  ],
   "79o/iq": [
     "Informe-nos qual jogo deveria ser exibido"
   ],
@@ -23722,6 +24096,9 @@
   ],
   "7CrE9w": [
     "Acenar de volta"
+  ],
+  "7CrlYb": [
+    "Nenhum jogo jogado ainda"
   ],
   "7Ct0Dj": [
     "Conte-nos como foi sua experiência com as denúncias."
@@ -24263,6 +24640,9 @@
     ],
     " da Lista de Desejos"
   ],
+  "7SqAzW": [
+    "7SqAzW"
+  ],
   "7SxW32": [
     "Enviado ontem"
   ],
@@ -24422,6 +24802,28 @@
   ],
   "7WwLnr": [
     "Prévia"
+  ],
+  "7X+3f8": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " reprodução"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " reproduções"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "7XAuyg": [
     "Este ",
@@ -24842,6 +25244,48 @@
   ],
   "7hB4kg": [
     "Servidores"
+  ],
+  "7hHUIS": [
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " reprodução"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " reproduções"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "em alta"
+        ],
+        "down": [
+          "em baixa"
+        ],
+        "other": []
+      }
+    ]
   ],
   "7hRBmC": [
     "Prévia da decoração de avatar: não aplicada"
@@ -25325,6 +25769,13 @@
   "7phwMG": [
     "IP do servidor"
   ],
+  "7pndSl": [
+    "Você pediu para alguém transmitir ",
+    [
+      1,
+      "applicationName"
+    ]
+  ],
   "7pq45H": [
     "Confira"
   ],
@@ -25698,6 +26149,9 @@
   "7yaXr8": [
     "Ganhe decorações grátis"
   ],
+  "7ycqkx": [
+    "7ycqkx"
+  ],
   "7ymzsL": [
     "Confirmar grupo etário"
   ],
@@ -25881,6 +26335,14 @@
   ],
   "8105aL": [
     "Muito fácil"
+  ],
+  "81PK67": [
+    "É necessário que pelo menos ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membros do servidor compartilhem sua atividade de jogo para ativar o ranking."
   ],
   "81cYn8": [
     "Sua nova pasta deve incluir pelo menos dois servidores."
@@ -26121,6 +26583,9 @@
   ],
   "8B0UDr": [
     "Prévia da minha câmera"
+  ],
+  "8B3U5O": [
+    "Você pediu para alguém transmitir"
   ],
   "8BEiNn": [
     "Enviado"
@@ -26372,8 +26837,14 @@
   "8HAQUb": [
     "Obtenha descontos em todos os servidores de jogo com o Nitro"
   ],
+  "8HU1M2": [
+    "Pedido enviado"
+  ],
   "8HW7r9": [
     "Seu perfil por servidor contém palavras que não são permitidas."
+  ],
+  "8Hux/D": [
+    "Cconteúdos e configurações destinados a adultos não estão disponíveis. Fora isso, o Discord funciona da mesma forma. Se isso não estiver correto, confirme que você é maior de idade nas configurações."
   ],
   "8Hvr3+": [
     "Arquivos"
@@ -26660,6 +27131,35 @@
   "8MMHYG": [
     "Este produto não estará visível para os membros até que você o publique."
   ],
+  "8MO3bp": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " tomou o lugar de ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " no topo do ranking com ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de tempo de jogo."
+  ],
   "8MPCVr": [
     "Não tenho interesse..."
   ],
@@ -26697,6 +27197,9 @@
       1,
       "timeAgo"
     ]
+  ],
+  "8NcF1k": [
+    "8NcF1k"
   ],
   "8O+nF7": [
     "Confirme seu novo e-mail"
@@ -26743,6 +27246,9 @@
       ]
     ],
     " Orbs do Discord"
+  ],
+  "8Ow7Xi": [
+    "Confirme sua idade para juntar-se a este servidor."
   ],
   "8Ox6/E": [
     "A sobreposição antiga não está disponível neste sistema."
@@ -26952,6 +27458,9 @@
   ],
   "8UcxI6": [
     "Recuperação de conta"
+  ],
+  "8VEUZZ": [
+    "8VEUZZ"
   ],
   "8VG6IY": [
     "Copiar ID da tag"
@@ -27186,6 +27695,9 @@
     ],
     " e outros"
   ],
+  "8ZSAWa": [
+    "8ZSAWa"
+  ],
   "8ZcEfj": [
     "Cores"
   ],
@@ -27206,6 +27718,9 @@
   ],
   "8a7IrV": [
     "URL do ponto de entrada da conexão registrado"
+  ],
+  "8aHNu0": [
+    "Maior tempo de jogo"
   ],
   "8aJzT4": [
     "Revisar"
@@ -27289,6 +27804,9 @@
   ],
   "8c4CMX": [
     "A Sobreposição está desabilitada porque o seu cliente não suporta a nova Sobreposição."
+  ],
+  "8cGmXF": [
+    "8cGmXF"
   ],
   "8cjmTj": [
     "Sua mensagem é muito longa"
@@ -27443,6 +27961,9 @@
   ],
   "8fPiB3": [
     "As suas alterações ao produto foram salvas."
+  ],
+  "8fQe3x": [
+    "Último na lista"
   ],
   "8fUsYw": [
     "Edite um canal recomendado"
@@ -27964,6 +28485,13 @@
   "8qpgcz": [
     "Adicionou canal ao Ativo agora novamente"
   ],
+  "8qq+H7": [
+    "Pedir para transmitir ",
+    [
+      1,
+      "applicationName"
+    ]
+  ],
   "8qsedd": [
     "Roubado por ",
     [
@@ -28038,6 +28566,13 @@
   ],
   "8rKVHL": [
     "Não adicionar"
+  ],
+  "8rL1QB": [
+    "Entrar em ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "8rLBxD": [
     "Assim que ele(ela) autorizar você a ver os dados de atividade, está tudo pronto."
@@ -28205,6 +28740,28 @@
   "8w1tIR": [
     "Falar"
   ],
+  "8wD0Un": [
+    [
+      6,
+      "boostPrice",
+      {
+        "one": [
+          [
+            7
+          ],
+          " impulso"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " impulsos"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8wXU9B": [
     "Designorar"
   ],
@@ -28241,6 +28798,9 @@
   ],
   "8xy99I": [
     "Integração: um jeito melhor de conceder cargos"
+  ],
+  "8y885d": [
+    "Compartilhe sua atividade para ingressar no ranking."
   ],
   "8yEgvE": [
     "A enquete “",
@@ -28433,6 +28993,9 @@
   ],
   "90bIv9": [
     "Importar"
+  ],
+  "90jVsn": [
+    "Carinhas"
   ],
   "91DEhs": [
     [
@@ -28969,6 +29532,14 @@
     ],
     " foi desabilitada por um administrador"
   ],
+  "9Ctu9P": [
+    "Adicionar widget: insira o widget na posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " na coluna principal"
+  ],
   "9Cx+xL": [
     "Digite /gif + qualquer coisa para encontrar um GIF para esse assunto!"
   ],
@@ -29064,6 +29635,9 @@
       "names"
     ],
     ", favoritado"
+  ],
+  "9FItmd": [
+    "Quem jogou no maior número de dias?"
   ],
   "9FaEzi": [
     "Em uma chamada"
@@ -30034,6 +30608,9 @@
       "user"
     ]
   ],
+  "9l5u6A": [
+    "Compartilhe quando eu começar a transmitir"
+  ],
   "9l87Ih": [
     "Nitro anual ",
     [
@@ -30092,6 +30669,9 @@
       1,
       "activityName"
     ]
+  ],
+  "9mGSVS": [
+    "9mGSVS"
   ],
   "9mg7g1": [
     "Ondas Prismáticas"
@@ -30175,6 +30755,9 @@
   "9p3D9p": [
     "Favoritar mensagem"
   ],
+  "9paF2r": [
+    "Bancos de dados"
+  ],
   "9ph2v7": [
     "Atualize o seu perfil por servidor para começar a conversar nesta Comunidade."
   ],
@@ -30209,6 +30792,9 @@
   ],
   "9qaNva": [
     "2 impulsos de servidor, envios de 500 MB e muito mais!"
+  ],
+  "9qpRrY": [
+    "Primeiro na pasta"
   ],
   "9rInzW": [
     "É hora de escolher: travessuras ou gostosuras? Presenteie Nitro nesse outubro e escolha uma decoração de avatar assustadoramente legal para ficar."
@@ -30459,6 +31045,9 @@
   "9tdsDk": [
     "Original"
   ],
+  "9tlK5J": [
+    "Whiteboard"
+  ],
   "9ty6yc": [
     "Não é spam"
   ],
@@ -30706,6 +31295,9 @@
   ],
   "A+Fv0R": [
     "Copiar link do canal"
+  ],
+  "A+HRrQ": [
+    "Quem tem o maior tempo total de jogo?"
   ],
   "A+I0AP": [
     "Reembolsada"
@@ -31108,6 +31700,9 @@
   "A8uk5J": [
     "Extremamente negativo"
   ],
+  "A95Fzm": [
+    "Mover para..."
+  ],
   "A9P+dT": [
     [
       1,
@@ -31206,6 +31801,9 @@
   ],
   "ACjbTk": [
     "Widget"
+  ],
+  "ACmeFn": [
+    "ACmeFn"
   ],
   "ACyI83": [
     "Juntar-se à chamada"
@@ -31315,6 +31913,9 @@
   ],
   "AHqj6c": [
     "Mestre"
+  ],
+  "AHwDIp": [
+    "AHwDIp"
   ],
   "AI1ZZr": [
     [
@@ -32510,6 +33111,9 @@
   "AlbZaI": [
     "Criar canal de voz"
   ],
+  "Alcf2G": [
+    "Leia mensagens que mencionam você"
+  ],
   "Alcl/e": [
     "Vamos personalizar sua experiência"
   ],
@@ -33075,6 +33679,49 @@
   "AzBLIP": [
     "Leve-me ao meu Nitro"
   ],
+  "AzIhRB": [
+    "ouvido por ",
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " membro"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " membros"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " esta semana. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Em alta"
+        ],
+        "down": [
+          "Em baixa"
+        ],
+        "other": []
+      }
+    ]
+  ],
   "AzTwiu": [
     "Ações de tag de fórum"
   ],
@@ -33257,6 +33904,9 @@
   "B33GXN": [
     "Servidores de jogo funcionam com impulsos. Contribua para ativar um neste servidor."
   ],
+  "B39UTK": [
+    "Conectar conta do Spotify"
+  ],
   "B3OfL/": [
     "Servidores de jogo"
   ],
@@ -33354,7 +34004,7 @@
   ],
   "B5tZXw": [
     [
-      1,
+      2,
       "orbAmount"
     ],
     " Orbs resgatados no total"
@@ -33472,7 +34122,6 @@
         "orbIcon"
       ]
     ],
-    " ",
     [
       1,
       "orbAmount"
@@ -33661,6 +34310,9 @@
   ],
   "BENn/6": [
     "Todos os palcos ao vivo"
+  ],
+  "BETi5Z": [
+    "Prévia do servidor"
   ],
   "BEWw/7": [
     "toque duplo para reproduzir vídeo e ampliar"
@@ -33987,6 +34639,14 @@
   "BLqYQa": [
     "Editar método de pagamento"
   ],
+  "BLuvck": [
+    "É necessário que pelo menos ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membros do servidor compartilhem sua atividade no Spotify para que as músicas populares sejam ativadas."
+  ],
   "BLyDvO": [
     "Transmita ",
     [
@@ -34079,6 +34739,9 @@
     ],
     " para mantê-lo ativo. Expira hoje."
   ],
+  "BNSdWl": [
+    "Personalizável"
+  ],
   "BNZj9F": [
     "Você sempre pode mudar isso mais tarde nas ",
     [
@@ -34110,6 +34773,9 @@
   ],
   "BOjr7t": [
     "Apenas moderadores com permissão Convidar membros podem tornar seu palco público."
+  ],
+  "BP//Ot": [
+    "Crie uma central de servidor para você e todos os seus amigos."
   ],
   "BP8N0K": [
     "+",
@@ -34455,6 +35121,9 @@
     ],
     "!"
   ],
+  "BWpoSf": [
+    "BWpoSf"
+  ],
   "BWqf0c": [
     [
       2,
@@ -34649,6 +35318,9 @@
   "BayiAo": [
     "Config. de privacidade"
   ],
+  "BayuQI": [
+    "BayuQI"
+  ],
   "BbESsg": [
     "Detecção de voz avançada"
   ],
@@ -34785,6 +35457,14 @@
   ],
   "Be8Q5E": [
     "ディスコード desativado"
+  ],
+  "BeCUHZ": [
+    "Ative cada configuração para contribuir com ",
+    [
+      1,
+      "widgetName"
+    ],
+    ". Elas podem ser alteradas a qualquer momento nas configurações."
   ],
   "BegylZ": [
     "Ativa a integração com ",
@@ -35871,6 +36551,9 @@
       "hours"
     ],
     "h esta semana"
+  ],
+  "C0CzoH": [
+    "C0CzoH"
   ],
   "C0JUEt": [
     "Obtenha um pacote de perfil Nitro de edição limitada! Você pode usar com o Nitro. Resgate até ",
@@ -37082,6 +37765,9 @@
       ]
     ]
   ],
+  "CZ3jxp": [
+    "Mantenha notificações na tela por pelo, no mínimo, este intervalo. Notificações que permanecem por mais tempo não serão afetadas."
+  ],
   "CZ7wvG": [
     "Entrar usando e-mail"
   ],
@@ -37784,6 +38470,9 @@
   "CunCMN": [
     "Selecione um servidor"
   ],
+  "CunK+J": [
+    "Remover faixa"
+  ],
   "CuzcRY": [
     "Assistências"
   ],
@@ -38138,6 +38827,9 @@
   "D1aU+h": [
     "Tome providências para se proteger."
   ],
+  "D21l/y": [
+    "D21l/y"
+  ],
   "D29k16": [
     "Pré-visualizar um tema"
   ],
@@ -38458,6 +39150,17 @@
       "date"
     ]
   ],
+  "DC7gJB": [
+    [
+      1,
+      "fontName"
+    ],
+    " + ",
+    [
+      1,
+      "effectName"
+    ]
+  ],
   "DCHd/G": [
     "Desativar página de destino"
   ],
@@ -38538,6 +39241,9 @@
   ],
   "DFCVN+": [
     "Eu concordo com aviso do Direito de Rescisão do Discord"
+  ],
+  "DFGogO": [
+    "DFGogO"
   ],
   "DFMPWS": [
     "Créditos Nitro"
@@ -38645,6 +39351,9 @@
   "DK0FFk": [
     "Avançar no histórico de páginas"
   ],
+  "DKHhec": [
+    "Pedir para a transmitir"
+  ],
   "DKNxgB": [
     "Recolher Conteúdo do Produto"
   ],
@@ -38726,6 +39435,9 @@
   ],
   "DMeO2X": [
     "Tema de perfil"
+  ],
+  "DMie/y": [
+    "Compartilhar vantagens Nitro"
   ],
   "DMua5e": [
     "Guernsey"
@@ -39010,6 +39722,13 @@
   ],
   "DToW4e": [
     "Selecione uma imagem"
+  ],
+  "DU+Rd+": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ]
   ],
   "DU0dy/": [
     "Enviar emoji"
@@ -39356,6 +40075,13 @@
   "DdRizV": [
     "O pagamento será cobrado no começo do próximo período de cobrança."
   ],
+  "DdzvGL": [
+    [
+      1,
+      "minutes"
+    ],
+    "min no total"
+  ],
   "De/Ni1": [
     "Guildas"
   ],
@@ -39688,6 +40414,9 @@
   "DrEEC8": [
     "Antes de poder falar aqui…"
   ],
+  "DrFdII": [
+    "DrFdII"
+  ],
   "DrNm/5": [
     "Aviso: este canal tem restrição de idade."
   ],
@@ -39715,6 +40444,9 @@
   ],
   "DtFqEI": [
     "Este método de pagamento é inválido."
+  ],
+  "DtK5IG": [
+    "Ver conjunto"
   ],
   "DtspPx": [
     "Crie um servidor"
@@ -39775,13 +40507,13 @@
           [
             7
           ],
-          " impulso"
+          " impulso de "
         ],
         "other": [
           [
             7
           ],
-          " impulsos"
+          " impulsos de "
         ]
       },
       0,
@@ -40577,6 +41309,9 @@
   "EE+P0H": [
     "Convidar para voz"
   ],
+  "EE/9VX": [
+    "EE/9VX"
+  ],
   "EEfce4": [
     "Editar Produto"
   ],
@@ -40812,6 +41547,12 @@
   "EMrUHQ": [
     "Selecionar plataforma"
   ],
+  "EN+0gW": [
+    "Editar imagem da faixa"
+  ],
+  "EN7343": [
+    "EN7343"
+  ],
   "ENSuN3": [
     "Você foi convidado(a) para jogar"
   ],
@@ -40838,6 +41579,39 @@
       "ruleIndex"
     ],
     "."
+  ],
+  "EO8JM8": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " e ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " outra pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " outras pessoas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "EOUqzM": [
     "Coloque uma imagem nos seu links de convite com impulsos"
@@ -41330,6 +42104,34 @@
   "EXY1d8": [
     "Quebrando regras do servidor"
   ],
+  "EXaquk": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ],
+    " e ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " outra pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " outras pessoas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "EYR1Fa": [
     "Imagem enviada"
   ],
@@ -41432,6 +42234,9 @@
   ],
   "EbwFfR": [
     "Enviar registros"
+  ],
+  "Ec5lqb": [
+    "COMBO DE ANIVERSÁRIO DO DISCORD"
   ],
   "EcHzWI": [
     "Ouvindo em ",
@@ -41814,6 +42619,9 @@
   ],
   "ElohwE": [
     "Spam Potencial"
+  ],
+  "ElsrJC": [
+    "ElsrJC"
   ],
   "EluAd9": [
     "Acabou de parar de jogar"
@@ -43739,6 +44547,17 @@
       "username"
     ]
   ],
+  "Fb6oNP": [
+    [
+      1,
+      "text"
+    ],
+    " • ",
+    [
+      1,
+      "duration"
+    ]
+  ],
   "Fb8xx2": [
     [
       3,
@@ -43869,6 +44688,9 @@
   ],
   "FgMS6i": [
     "Todas as permissões arriscadas foram desativadas!"
+  ],
+  "FgkyO+": [
+    "Este emoji é de um pacote de emojis Nitro e está atualmente em beta."
   ],
   "Fgs8fD": [
     "Visualizar ",
@@ -44205,6 +45027,9 @@
     ],
     "."
   ],
+  "FsJVpa": [
+    "FsJVpa"
+  ],
   "FsP3VU": [
     "Nenhum ouvinte ainda"
   ],
@@ -44222,6 +45047,9 @@
   ],
   "FshAeN": [
     "Navegar"
+  ],
+  "FsyTKM": [
+    "FsyTKM"
   ],
   "FtKH49": [
     "Este servidor não tem nenhum espaço de emoji aberto!"
@@ -44295,6 +45123,13 @@
       "refillAmount"
     ],
     " por semana, agora com Nitro."
+  ],
+  "FwKQxx": [
+    "Nova atividade em #",
+    [
+      1,
+      "channelName"
+    ]
   ],
   "FwjP6W": [
     "Você tem o Nitro por mais ",
@@ -44705,6 +45540,13 @@
     ],
     "x ao assinar o Nitro. Cancele a qualquer momento."
   ],
+  "G5zCGV": [
+    "Desbloquear ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "G6+XOT": [
     "Seu desconto de ",
     [
@@ -45075,6 +45917,19 @@
   "GByLar": [
     "Configurações de Sensibilidade de Entrada"
   ],
+  "GC7N5H": [
+    "Venceu o ranking de jogos da semana passada com ",
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "min de tempo total de jogo."
+  ],
   "GCEruV": [
     "Toque duas vezes para mais detalhes"
   ],
@@ -45442,6 +46297,13 @@
     ],
     "."
   ],
+  "GJ27pD": [
+    "Algumas atividades não estão disponíveis no Brasil atualmente. Saiba mais em: ",
+    [
+      1,
+      "supportArticleUrl"
+    ]
+  ],
   "GJAp3h": [
     "Gâmbia"
   ],
@@ -45595,6 +46457,9 @@
   ],
   "GN0uv6": [
     "Dessilenciar Sons"
+  ],
+  "GN6kqM": [
+    "Cache de código"
   ],
   "GNDqtf": [
     "Desligado"
@@ -46032,6 +46897,9 @@
   ],
   "GX594D": [
     "Pessoas"
+  ],
+  "GXDPol": [
+    "Quem jogou os mais jogos únicos?"
   ],
   "GXGNi3": [
     "leagueoflegends"
@@ -46999,6 +47867,9 @@
     ],
     " dos Favoritos? As conversas nesta categoria ficarão sem categoria."
   ],
+  "GultYJ": [
+    "GultYJ"
+  ],
   "Gv/rQ6": [
     "Avatar animado e perfis personalizados"
   ],
@@ -47406,6 +48277,9 @@
   "H2M13c": [
     "Próxima chegada mensal de Orbs"
   ],
+  "H2NPrR": [
+    "Ignorar compartilhamento de vantagens Nitro"
+  ],
   "H2VdUX": [
     "Estilize seu perfil com uma tag personalizada, avatar animado e insígnia Nitro exclusiva."
   ],
@@ -47588,6 +48462,20 @@
   "H6Ny8N": [
     "Desafios ativos"
   ],
+  "H6cz/6": [
+    "Um ano de My Best Buy Plus™ (equivalente a US$29,99) grátis com o Nitro. Receba ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% de volta em recompensas para pré-vendas selecionadas dos maiores jogos da temporada. Resgate até ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "H6fRIg": [
     "A mensagem que você está tentando fixar não existe."
   ],
@@ -47626,6 +48514,9 @@
   ],
   "H8O1TK": [
     "Você está prestes a abrir este link em um navegador externo. Deseja continuar?"
+  ],
+  "H8RhX0": [
+    "Quem está no topo do ranking?"
   ],
   "H8Ri2Y": [
     "Marcou o canal como com restrição de idade"
@@ -48439,6 +49330,19 @@
   "HTJ76H": [
     "Códigos Não Correspondem"
   ],
+  "HTJgep": [
+    "Sua equipe lutou contra ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "HTsycG": [
     "Desbloqueie o Xbox Game Pass e muito mais com o Nitro"
   ],
@@ -48605,6 +49509,9 @@
       "name"
     ],
     " será oculto da sua biblioteca. Para mostrá-lo de novo, acesse a página de configurações da Biblioteca de Jogos."
+  ],
+  "HXmZlY": [
+    "Você pode personalizar o layout e conteúdos para criar uma central de servidor exclusiva para sua comunidade."
   ],
   "HXu14O": [
     "6 assinaturas do Nitro. Um plano para você e seus amigos."
@@ -49331,6 +50238,9 @@
   "HtTvXA": [
     "Surpresa, 2 semanas de Nitro agora são suas"
   ],
+  "HtUpwy": [
+    "Ver pacotes de emojis"
+  ],
   "HtVOdd": [
     "Vídeo conectado"
   ],
@@ -49489,6 +50399,13 @@
   "HwUCns": [
     "Versão de teste ativa"
   ],
+  "HwW3zP": [
+    "Menção em #",
+    [
+      1,
+      "channelName"
+    ]
+  ],
   "HwXoeC": [
     "Conecte sua conta para compartilhar estatísticas de jogo, desbloquear amigos sincronizados e muito mais!"
   ],
@@ -49563,6 +50480,9 @@
   ],
   "HyGHj7": [
     "Transmitindo no Twitch"
+  ],
+  "HyZ4FE": [
+    "Se você clicar em “Desativar”, a aba da central do servidor não aparecerá mais neste servidor. Você poderá ativá-la novamente a qualquer momento nas configurações do servidor."
   ],
   "HykynS": [
     "Mudar decoração de avatar"
@@ -49859,6 +50779,13 @@
     [
       1,
       "name"
+    ]
+  ],
+  "I4JiAQ": [
+    "Classificação ",
+    [
+      1,
+      "rank"
     ]
   ],
   "I4SYUF": [
@@ -50349,6 +51276,9 @@
       "pageNumber"
     ]
   ],
+  "IGO+tx": [
+    "IGO+tx"
+  ],
   "IGS9mT": [
     "Irã"
   ],
@@ -50563,6 +51493,9 @@
     ],
     " adicione você novamente."
   ],
+  "IK1o83": [
+    "IK1o83"
+  ],
   "IKBvFl": [
     "Exemplo mostrando um cartão de perfil com seu avatar, nome de usuário e uma bolha de status exibindo: ",
     [
@@ -50654,6 +51587,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "IMqgs9": [
+    "Primeiro na lista"
   ],
   "IMtHBW": [
     "Envie uma mensagem quando um bate-papo de voz começar."
@@ -51007,6 +51943,30 @@
       "listener_count"
     ],
     " ouvintes"
+  ],
+  "IXdbVJ": [
+    "Venceu o ranking de jogos da semana passada com ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dia"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dias"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " jogados."
   ],
   "IXk8Wz": [
     "Os anexos que você tentou enviar estão indisponíveis."
@@ -51428,6 +52388,9 @@
   "Ifb6XJ": [
     "Super-reação"
   ],
+  "IfgLzT": [
+    "Nenhuma pasta"
+  ],
   "Ifgxdy": [
     "O convite expira em ",
     [
@@ -51453,6 +52416,9 @@
   ],
   "IfqUEM": [
     "Moderador"
+  ],
+  "Ig1Waa": [
+    "Ig1Waa"
   ],
   "Ig6VDH": [
     "Populares na loja"
@@ -52483,6 +53449,9 @@
   "IzrZHz": [
     "Preços para membros da loja e itens exclusivos"
   ],
+  "IzzWNM": [
+    "Amigos com atividades ao vivo no topo"
+  ],
   "J+7D+E": [
     [
       1,
@@ -52528,6 +53497,9 @@
       1,
       "first"
     ]
+  ],
+  "J+drJN": [
+    "J+drJN"
   ],
   "J+vlIR": [
     "Abrir a loja"
@@ -52680,6 +53652,9 @@
   ],
   "J2wg+X": [
     "Reinicialização necessária para que a mudança seja feita. Gostaria de reiniciar o Discord agora?"
+  ],
+  "J3/JCl": [
+    "Loja do jogo, escolha uma página para a vitrine"
   ],
   "J3/feu": [
     "Relatório de erro desligado"
@@ -53116,6 +54091,9 @@
     ],
     "."
   ],
+  "JHcSBI": [
+    "Suas solicitações"
+  ],
   "JI7uhc": [
     "Reimagine o seu perfil com decorações de avatar"
   ],
@@ -53342,6 +54320,14 @@
       ]
     ]
   ],
+  "JNgfIL": [
+    "Proporcione a ",
+    [
+      1,
+      "recipientName"
+    ],
+    " acesso a vantagens Nitro incríveis, como perfis personalizados, emoji animados e muito mais."
+  ],
   "JNuK+L": [
     "Aviso: com base em seu hardware, a ativação de clipes pode afetar seu desempenho nos jogos. ",
     [
@@ -53432,6 +54418,9 @@
   ],
   "JRU8dq": [
     "Qual é a sua plataforma preferida?"
+  ],
+  "JSSBzo": [
+    "Compartilhe Nitro"
   ],
   "JST6jl": [
     "Obter o Nitro"
@@ -53828,6 +54817,9 @@
   "Je1FWC": [
     "Aurora"
   ],
+  "JeFo7p": [
+    "Mais jogos únicos"
+  ],
   "JeK1Wg": [
     "Jogar na DM"
   ],
@@ -53889,6 +54881,9 @@
   ],
   "Jf0C/c": [
     "Deslizar da direita para a esquerda"
+  ],
+  "Jf0OOQ": [
+    "Outro"
   ],
   "Jf8KrT": [
     "Explore o Nitro gratuitamente. Você pode se inscrever a qualquer momento para manter e desbloquear ainda mais vantagens."
@@ -54463,6 +55458,33 @@
   "K/EdV8": [
     "Nenhum"
   ],
+  "K/UZHJ": [
+    "Um ano de My Best Buy Plus™ (equivalente a US$29,99) grátis com o Nitro. Receba ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% de volta em recompensas para pré-vendas selecionadas dos maiores jogos da temporada, como Call of Duty: Modern Warfare 4 e mais. Resgate até ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Sujeito a termos e condições."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "K/hjQf": [
     "Experimente-os!"
   ],
@@ -54979,6 +56001,9 @@
       "game"
     ]
   ],
+  "KHsJlD": [
+    "KHsJlD"
+  ],
   "KHsSWK": [
     "Ocultar Configurações de Voz Avançadas"
   ],
@@ -55175,6 +56200,9 @@
   ],
   "KNhFgD": [
     "Prévia do servidor"
+  ],
+  "KO73KB": [
+    "Principais ouvintes"
   ],
   "KO88BS": [
     "Atividades"
@@ -55731,8 +56759,14 @@
       ]
     ]
   ],
+  "KcOpCm": [
+    "Editar central de servidor"
+  ],
   "KccUI1": [
     "Espectador entrou"
+  ],
+  "KcdDyT": [
+    "Fim da coluna principal"
   ],
   "Kcdk7D": [
     "Mínimo de 72x72. Proporção 1:1. PNG, JPG."
@@ -55858,6 +56892,13 @@
   ],
   "Kd6OQc": [
     "Filtro de imagem explícita"
+  ],
+  "KddZZf": [
+    "Jogando por ",
+    [
+      1,
+      "duration"
+    ]
   ],
   "Kdt0Gb": [
     "Ei, só um aviso"
@@ -56012,6 +57053,9 @@
   "KgYvrZ": [
     "Como conectar"
   ],
+  "KgeEtx": [
+    "Principais músicas"
+  ],
   "KhBgDR": [
     "Quer mesmo cancelar um impulso de servidor do seu inventário?"
   ],
@@ -56034,6 +57078,9 @@
   ],
   "KiRbLJ": [
     "Um membro que clicou neste servidor e acessou um canal."
+  ],
+  "KiYrRC": [
+    "COMBO DE ANO BISSEXTO"
   ],
   "Kj5GIT": [
     "Você receberá o cargo ",
@@ -56308,6 +57355,14 @@
   "Knf/f/": [
     "Política de privacidade"
   ],
+  "Ko3a0+": [
+    "Compartilhe sua atividade no Spotify para ajudar a desbloquear músicas populares. É necessário que pelo menos ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membros do servidor compartilhem a sua atividade."
+  ],
   "KoFi0o": [
     "por ",
     [
@@ -56450,6 +57505,9 @@
   ],
   "KrLnkE": [
     "Resumo de Atividades"
+  ],
+  "KrhX/b": [
+    "KrhX/b"
   ],
   "Ks2/3R": [
     "Arraste e solte ou ",
@@ -56776,6 +57834,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "L/NHOB": [
+    "L/NHOB"
   ],
   "L/PwZf": [
     "Link copiado!"
@@ -57235,6 +58296,9 @@
   "LBsB0a": [
     "Estes atalhos funcionam quando um item arrastável estiver em foco"
   ],
+  "LBtPWQ": [
+    "LBtPWQ"
+  ],
   "LC+S+m": [
     [
       2,
@@ -57551,6 +58615,9 @@
         ]
       ]
     ]
+  ],
+  "LKiPeX": [
+    "COMBO DE 200"
   ],
   "LKpYbi": [
     "Texto (Tópicos ativos)"
@@ -58037,6 +59104,13 @@
   "LbLP1c": [
     "Sem problemas"
   ],
+  "LbNlZd": [
+    [
+      1,
+      "packName"
+    ],
+    " removido"
+  ],
   "LbPesa": [
     "Ativa ou desativa a sobreposição."
   ],
@@ -58181,6 +59255,9 @@
   ],
   "LfeFFr": [
     "Desativar permissões arriscadas para"
+  ],
+  "LfrGGR": [
+    "LfrGGR"
   ],
   "Lfs4r+": [
     "Mudou o nome de ",
@@ -59251,6 +60328,9 @@
   "M2TbbK": [
     "Você não compartilha nenhum servidor com este aplicativo."
   ],
+  "M2b74O": [
+    "Ative três vezes a capa de jogo para dispositivos móveis do Discord para uma surpresa"
+  ],
   "M2iEy3": [
     "Permite que os membros vejam este canal."
   ],
@@ -59929,6 +61009,9 @@
   "MJYvmG": [
     "Estilize seu espaço com inúmeras combinações de cores."
   ],
+  "MJep2r": [
+    "MJep2r"
+  ],
   "MJw05f": [
     "Destinatário(a) do presente"
   ],
@@ -60546,6 +61629,9 @@
   ],
   "MXsMRk": [
     "Mensagem programada atualizada"
+  ],
+  "MXxbkw": [
+    "MXxbkw"
   ],
   "MY9/Oe": [
     "Jogo Atual"
@@ -61259,6 +62345,9 @@
   "MpFE11": [
     "App (limitado)"
   ],
+  "MpGzzH": [
+    "MpGzzH"
+  ],
   "MpO0px": [
     "Aceitar"
   ],
@@ -61649,6 +62738,9 @@
     ],
     "."
   ],
+  "N1P8Wp": [
+    "Busque mensagens nos seus servidores"
+  ],
   "N22i9F": [
     "Continue Rolando..."
   ],
@@ -61997,6 +63089,12 @@
   ],
   "N8hbZB": [
     "Outras reações"
+  ],
+  "N8nJ+T": [
+    "Clique no widget que você deseja adicionar à sua página da central do servidor e arraste-o para reposicioná-lo."
+  ],
+  "N8tPFd": [
+    "COMBO DE 10K: UAU, AINDA CONTINUA?!"
   ],
   "N95b+f": [
     "Um(a) ",
@@ -62959,6 +64057,13 @@
     ],
     " + impostos aplicáveis"
   ],
+  "NV85DR": [
+    "Reorganizar ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "NVDuUX": [
     "Ative a monetização primeiro!"
   ],
@@ -63596,6 +64701,9 @@
       "platformName"
     ]
   ],
+  "Nj8Y3C": [
+    "Confira"
+  ],
   "NjEPp7": [
     "Deseja mesmo remover essa mensagem fixada?"
   ],
@@ -64077,6 +65185,9 @@
   "Nusip4": [
     "Ocultar senha"
   ],
+  "NuujPd": [
+    "NuujPd"
+  ],
   "NuzmOA": [
     "Vamos nessa!"
   ],
@@ -64192,6 +65303,9 @@
   "NzrGEi": [
     "99,9% de Tempo de Atividade"
   ],
+  "NzvIo/": [
+    "Turbine suas pré-vendas"
+  ],
   "NzxWjb": [
     "Voltar a configurar seu servidor"
   ],
@@ -64256,6 +65370,9 @@
   ],
   "O1c02q": [
     "Postagens"
+  ],
+  "O1h3uU": [
+    "Veja o ranking"
   ],
   "O1iRT8": [
     "Falha ao enviar"
@@ -64573,6 +65690,19 @@
   "O9MiXY": [
     "Seções de marketing do Nitro"
   ],
+  "O9RvHQ": [
+    "Posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " de ",
+    [
+      1,
+      "positionCount"
+    ],
+    " na coluna lateral"
+  ],
   "O9SQ1c": [
     "Explore nossa biblioteca de widgets para compartilhar mais sobre você e seus interesses"
   ],
@@ -64625,6 +65755,9 @@
   ],
   "OBeYX/": [
     "0 minutos em Voz"
+  ],
+  "OBp3V3": [
+    "GIF, botão"
   ],
   "OBr7Cw": [
     "Opções de canal"
@@ -65022,6 +66155,9 @@
   "OLf3xn": [
     "Não é possível editar o produto"
   ],
+  "OLs0Og": [
+    "OLs0Og"
+  ],
   "OLtTrt": [
     "Estilos de nome exibido"
   ],
@@ -65304,6 +66440,9 @@
   ],
   "OTXyaf": [
     "Você terá que entrar novamente em todos os dispositivos de que sair."
+  ],
+  "OTYC2K": [
+    "Sempre mudando"
   ],
   "OTjRX9": [
     "enviado em ",
@@ -65762,6 +66901,9 @@
       ]
     ],
     " para concluir a transação."
+  ],
+  "OejyCi": [
+    "Vem aí"
   ],
   "OervdV": [
     "Foco ",
@@ -66577,6 +67719,9 @@
   "OuPkvL": [
     "Preciso de uma pausa temporária deste chat"
   ],
+  "OuZdlK": [
+    "OuZdlK"
+  ],
   "OukXZj": [
     "Mais antigos"
   ],
@@ -66615,6 +67760,9 @@
   ],
   "OvMyMd": [
     "Você está no modo teste deste aplicativo. Compras não serão cobradas."
+  ],
+  "OvTyCX": [
+    "Organizar por"
   ],
   "OvfBgA": [
     "A data selecionada é invalida."
@@ -66947,6 +68095,9 @@
   "P0wT5S": [
     "Este servidor atingiu o máximo de tópicos ativos. Arquive alguns para liberar espaço."
   ],
+  "P0wwmM": [
+    "Transmissão em andamento"
+  ],
   "P1/Erq": [
     "Canal de loja"
   ],
@@ -67045,6 +68196,29 @@
       [
         "Você acabou de impulsionar o servidor."
       ]
+    ]
+  ],
+  "P5JeeM": [
+    "Reproduzido por ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " pessoas"
+        ]
+      },
+      0,
+      "cardinal"
     ]
   ],
   "P5dSl0": [
@@ -67653,6 +68827,9 @@
   "PJgX2h": [
     "figurinha"
   ],
+  "PJn0ih": [
+    "Ative cada configuração para contribuir para o ranking. Elas podem ser alteradas a qualquer momento nas configurações."
+  ],
   "PJsjbP": [
     "Adicionou um novo emoji, ",
     [
@@ -67715,6 +68892,26 @@
   "PLcLdx": [
     "você ouviu todas as minhas opiniões polêmicas e ficou por aqui mesmo assim"
   ],
+  "PLdF3A": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com o maior número de jogos únicos jogados? Até agora, ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " está na liderança."
+  ],
   "PLk3Na": [
     "Quer deixar suas reuniões mais divertidas?"
   ],
@@ -67766,6 +68963,9 @@
   ],
   "PNIDDJ": [
     "Nada de conteúdo com restrição de idade ou obsceno. Isso inclui texto, imagens ou links que contenham nudez, sexo, violência pesada ou conteúdo graficamente perturbador."
+  ],
+  "PNMVaH": [
+    "PNMVaH"
   ],
   "PNX4NM": [
     "Você perde os impulsos de servidor inclusos, mas ainda tem algumas vantagens show de bola. Você pode voltar para o plano antigo a qualquer momento."
@@ -68041,6 +69241,9 @@
       ]
     ]
   ],
+  "PSuly6": [
+    "Executar quadro branco"
+  ],
   "PTHakm": [
     "Criar uma senha"
   ],
@@ -68221,6 +69424,13 @@
   ],
   "PXq9f1": [
     "Envios de vídeos"
+  ],
+  "PY1iDb": [
+    [
+      2,
+      "count"
+    ],
+    " pendente(s)"
   ],
   "PY4MA0": [
     "Você foi atribuído ao grupo etário Adulto pelo Discord"
@@ -68982,6 +70192,13 @@
       "date"
     ]
   ],
+  "PuaR+2": [
+    [
+      1,
+      "days"
+    ],
+    " dias restantes"
+  ],
   "Pueu11": [
     "O Android fará o possível para escolher a opção certa para o seu dispositivo."
   ],
@@ -69634,6 +70851,9 @@
   "Q9OYlM": [
     "Não foi possível conectar aos serviços Google Play. Tente novamente mais tarde."
   ],
+  "Q9TKt6": [
+    "Primeiro na categoria"
+  ],
   "Q9zFy9": [
     "Este servidor tem um visual próprio"
   ],
@@ -70035,6 +71255,9 @@
   "QNDtPC": [
     "Selecionar canal"
   ],
+  "QNVdfH": [
+    "QNVdfH"
+  ],
   "QNWJsx": [
     "Apoiar negócios e estúdios de jogos que contam com anúncios para Descobrir"
   ],
@@ -70212,6 +71435,9 @@
   "QQsaCc": [
     "Grátis"
   ],
+  "QQsnUi": [
+    "QQsnUi"
+  ],
   "QQuxIc": [
     "Experimente!"
   ],
@@ -70244,6 +71470,9 @@
   ],
   "QT+Ai7": [
     "Parece que você ainda não concluiu a missão desta recompensa!"
+  ],
+  "QT3MNq": [
+    "QT3MNq"
   ],
   "QTHa8b": [
     "agora"
@@ -70345,6 +71574,9 @@
   ],
   "QX14gI": [
     "Mais Vantagens, Mais Diversão"
+  ],
+  "QX4H2E": [
+    "Ocultar aviso"
   ],
   "QXGod1": [
     "Melhorias poderosas: envio de arquivos maiores, faixa do servidor, ícones de cargo personalizados e muito mais!"
@@ -70559,6 +71791,9 @@
   ],
   "QcJbt6": [
     "Desbloqueia mais espaços para figurinhas personalizadas"
+  ],
+  "QcmgBF": [
+    "Permitir que membros com quem você interage frequentemente recebam uma notificação quando você começar a transmitir em servidores pequenos."
   ],
   "Qd6w7T": [
     "Gostaria de banir \"",
@@ -70810,6 +72045,9 @@
   "QlyC9s": [
     "Defina reações padrão para postagens"
   ],
+  "Qm57HT": [
+    "Luta em equipe (TF)"
+  ],
   "Qm6K/s": [
     "Verifique seu e-mail"
   ],
@@ -71025,6 +72263,30 @@
   ],
   "QqTz8b": [
     "Ver mais"
+  ],
+  "QqaqBg": [
+    "Ouvido por último: ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ],
+    ", de ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "artistName"
+        ]
+      ]
+    ]
   ],
   "Qql0Xs": [
     [
@@ -71382,6 +72644,9 @@
   "QzDgMq": [
     "Acesso a dados"
   ],
+  "QzKwEQ": [
+    "Ouvir a prévia vai tirar você da tela da chamada."
+  ],
   "QzRqcq": [
     "Jogue MW4 antes com o Nitro"
   ],
@@ -71657,6 +72922,9 @@
   ],
   "R4NVKG": [
     "Enviou um vídeo em um canal de spoiler"
+  ],
+  "R4kQz6": [
+    "R4kQz6"
   ],
   "R4q5+y": [
     "Cabeça nas Nuvens"
@@ -72206,6 +73474,9 @@
   ],
   "RHP0kC": [
     "Descrição"
+  ],
+  "RHYx1k": [
+    "RHYx1k"
   ],
   "RHbfv9": [
     "Conectando-se ao PayPal"
@@ -72847,6 +74118,12 @@
       "weekday"
     ]
   ],
+  "RYvRmE": [
+    "RYvRmE"
+  ],
+  "RYxWTS": [
+    "Principais artistas"
+  ],
   "RZFCIj": [
     "Buscar por mensagens, pessoas etc."
   ],
@@ -73143,6 +74420,9 @@
       "repliedAuthor"
     ]
   ],
+  "RhpNnh": [
+    "Fofo em um minuto, surtado no próximo. Com o Nitro, o emoji perfeito está a apenas um toque de distância."
+  ],
   "RhtzFe": [
     "Anexos da mensagem"
   ],
@@ -73156,6 +74436,9 @@
       "activityName"
     ],
     " em um canal de voz"
+  ],
+  "Ri32sr": [
+    "Ri32sr"
   ],
   "Ri3o33": [
     "Só para avisar, ",
@@ -75448,6 +76731,18 @@
   "SZeUdR": [
     "Prévia da sua placa de identificação na lista de membros"
   ],
+  "Sa+h68": [
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "min"
+  ],
   "SaD/LY": [
     "Entre com seu código"
   ],
@@ -76326,6 +77621,9 @@
   "SxsBFD": [
     "Você pode nos contar mais?"
   ],
+  "Sxxqdx": [
+    "O quadro branco está ativo."
+  ],
   "Sy3qan": [
     "Filtrar mensagens de membros do servidor que você talvez não conheça"
   ],
@@ -76701,6 +77999,26 @@
   "T7AWtb": [
     "Servidor privado"
   ],
+  "T7CcFq": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com mais tempo de jogo? Até agora, ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " está na liderança."
+  ],
   "T7DUoU": [
     "Desconectar-se de ",
     [
@@ -76727,6 +78045,9 @@
       ]
     ],
     ", então só para confirmar."
+  ],
+  "T7WvbW": [
+    "T7WvbW"
   ],
   "T7aLYT": [
     "Ajude a Central de Estudantes de ",
@@ -76909,6 +78230,9 @@
       1,
       "numUsers"
     ]
+  ],
+  "TCXgZL": [
+    "Confirmar idade para entrar"
   ],
   "TD+c21": [
     "Saiba Mais"
@@ -77136,6 +78460,9 @@
   ],
   "TLkoOt": [
     "Retorne aos requisitos normais, onde pelo menos um canal padrão deve estar disponível para bate-papo."
+  ],
+  "TLlIGP": [
+    "TLlIGP"
   ],
   "TLnXx/": [
     "Destruindo"
@@ -78025,6 +79352,9 @@
   "TffOfY": [
     "Nomeie o seu tópico"
   ],
+  "Tfkx5f": [
+    "Esquadrão Miau"
+  ],
   "TflqTe": [
     "Crie um novo servidor com chat de voz e texto para seus amigos!"
   ],
@@ -78692,6 +80022,9 @@
   "TummoQ": [
     "Receba um lembrete 15 minutos antes de o Discord entrar no tempo de inatividade definido pelo responsável."
   ],
+  "Tv4xyf": [
+    "Tv4xyf"
+  ],
   "TvBS1w": [
     "Você já verificou ",
     [
@@ -78743,6 +80076,9 @@
       ]
     ],
     " para ter certeza de que está em conformidade."
+  ],
+  "Tvdb5N": [
+    "Adicionar ao seletor"
   ],
   "TvxInQ": [
     "Seus sontatos"
@@ -78994,6 +80330,14 @@
   ],
   "U0INks": [
     "Desative as notificações mal-assombradas nas configurações de usuário."
+  ],
+  "U0SqHk": [
+    "Adicionar widget: insira o widget na posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " na coluna lateral"
   ],
   "U0iMTj": [
     "Ilha Christmas"
@@ -79361,6 +80705,28 @@
       "rank"
     ]
   ],
+  "UA8cNe": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " emoji"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " emojis"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "UAJxZi": [
     "Membro"
   ],
@@ -79375,6 +80741,9 @@
   ],
   "UB03Ed": [
     "O servidor está temporariamente em modo proteção contra invasões, que vai aplicar captcha e bloqueios em entradas suspeitas."
+  ],
+  "UB21BJ": [
+    "UB21BJ"
   ],
   "UB2gG2": [
     "Discord Integrado"
@@ -79598,6 +80967,9 @@
   "UGbET9": [
     "Rebaixar"
   ],
+  "UGbmBp": [
+    "Transmitir"
+  ],
   "UGei0j": [
     [
       2,
@@ -79705,6 +81077,9 @@
   ],
   "UL177t": [
     "Permitir associação temporária"
+  ],
+  "ULK65a": [
+    "Dados insuficientes"
   ],
   "ULSdnE": [
     "Removeu castigo"
@@ -79824,6 +81199,9 @@
   "UPLpRV": [
     "Visualizar Configurações"
   ],
+  "UPLtlA": [
+    "Você não tem permissão para editar o acesso ao quadro branco."
+  ],
   "UPMwV8": [
     "Jogo mais jogado"
   ],
@@ -79876,6 +81254,9 @@
         ]
       ]
     ]
+  ],
+  "UQT3/h": [
+    "Ver detalhes do som"
   ],
   "UQbJW7": [
     "Interrompa temporariamente o envio de novas mensagens diretas entre membros no seu servidor. Amigos ainda podem enviar mensagens diretas uns aos outros, moderadores ainda podem enviar mensagens diretas para membros e seus aplicativos ainda podem enviar mensagens diretas para membros."
@@ -80106,6 +81487,9 @@
   "UV/Vtv": [
     "Combine seu humor com junções infinitas de cores. Experimente agora!"
   ],
+  "UV17wE": [
+    "Determinamos que você está no grupo de adolescentes (13-17)"
+  ],
   "UVBA9g": [
     "Quer jogar ",
     [
@@ -80148,6 +81532,9 @@
         "Seu lar Nitro"
       ]
     ]
+  ],
+  "UVkUVk": [
+    "Busque nas suas mensagens diretas"
   ],
   "UVl5Hz": [
     "Visualize mensagens personalizadas nos pedidos de amizade recebidos"
@@ -81119,6 +82506,9 @@
   "UsD2YP": [
     "O usuário não é mais membro deste servidor."
   ],
+  "UsMdAK": [
+    "UsMdAK"
+  ],
   "UsOUxY": [
     "Adicione um avatar animado, tema de perfil, imagem de faixa e muito mais."
   ],
@@ -81401,6 +82791,9 @@
   "UzDaWD": [
     "Compras de Assinaturas dos Servidores no app do iOS"
   ],
+  "UzF3CN": [
+    "UzF3CN"
+  ],
   "UzNv7u": [
     "Tudo pronto. Agora compartilhe seu evento!"
   ],
@@ -81680,6 +83073,9 @@
   "V5Qt9D": [
     "Jogar instantaneamente"
   ],
+  "V5eNx6": [
+    "Conectar Spotify"
+  ],
   "V5mNyb": [
     "Links sociais"
   ],
@@ -81920,6 +83316,9 @@
   "VBhOe2": [
     "Clique para adicionar uma nota"
   ],
+  "VBmAMg": [
+    "VBmAMg"
+  ],
   "VBnNJY": [
     "Fique com esta decoração grátis ao comprar o seu presente."
   ],
@@ -82029,6 +83428,13 @@
   "VEfKyb": [
     "Visualizar todos os comandos"
   ],
+  "VEfeux": [
+    "Do Pacote ",
+    [
+      1,
+      "packName"
+    ]
+  ],
   "VF4fZZ": [
     "Permite que os membros usem figurinhas de outros servidores neste canal, se forem membros do Discord Nitro."
   ],
@@ -82092,6 +83498,9 @@
   ],
   "VGJ9ID": [
     "Obrigado por ser um membro Nitro. Aqui está um Impulso extra por alcançar 3 meses de Nitro."
+  ],
+  "VGRZh7": [
+    "Grade"
   ],
   "VGWIAo": [
     "Habilite comandos com restrição de idade"
@@ -82400,6 +83809,13 @@
   ],
   "VOgTjy": [
     "O vídeo foi pausado no seu dispositivo para uma melhor performance"
+  ],
+  "VOmeSq": [
+    "reproduzir som ",
+    [
+      1,
+      "name"
+    ]
   ],
   "VOnnnz": [
     "Selecione até 5 canais recomendados. Sugerimos canais para que as pessoas interajam, como canais para discutir, fazer perguntas, ler notícias ou selecionar cargos."
@@ -82885,6 +84301,9 @@
       ]
     ]
   ],
+  "VcUghi": [
+    "VcUghi"
+  ],
   "VcZC22": [
     "Impossível avançar"
   ],
@@ -82980,6 +84399,15 @@
   ],
   "Ve9Ge6": [
     "Presentear Nitro"
+  ],
+  "VeAbZT": [
+    "Resgate uma assinatura de 1 ano de My Best Buy Plus . Expira em ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "VeC8vc": [
     "Idioma principal"
@@ -83096,11 +84524,17 @@
   "Veu++Q": [
     "Obtenha itens exclusivos como créditos Nitro e favoritos da loja com Orbs."
   ],
+  "VeumMD": [
+    "VeumMD"
+  ],
   "Vf2ZcR": [
     "Se esta vantagem estiver desativada, sua tag do servidor será redefinida para uma insígnia padrão."
   ],
   "Vfbar/": [
     "Efeitos de perfil e molduras"
+  ],
+  "Vfq58K": [
+    "Vfq58K"
   ],
   "VfqJvY": [
     "Tempo de inatividade até ",
@@ -83556,6 +84990,9 @@
   ],
   "VqGKm0": [
     "Este tema está disponível somente para usuários do Nitro."
+  ],
+  "VqNHoS": [
+    "Esta combinação de sons já expirou"
   ],
   "VqhxxN": [
     "Selecione um canal de Atualizações para a Comunidade"
@@ -84166,6 +85603,9 @@
       "guildName"
     ]
   ],
+  "W8E3pj": [
+    "W8E3pj"
+  ],
   "W8JtfT": [
     "Permita que amigos dos jogos enviem mensagens diretas e convites"
   ],
@@ -84192,6 +85632,28 @@
       "cardinal"
     ],
     ". Este widget não aparecerá no seu perfil até você adicionar pelo menos um jogo."
+  ],
+  "W8etVA": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " música reproduzida"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " músicas reproduzidas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "W8jOD0": [
     "Um código por compra. ",
@@ -84606,6 +86068,9 @@
   ],
   "WJisip": [
     "Toque para ver a thumbnail"
+  ],
+  "WK19hs": [
+    "WK19hs"
   ],
   "WK9r7F": [
     "Permite que os membros enviem arquivos ou mídia neste canal."
@@ -86363,6 +87828,30 @@
   "WwYgqi": [
     "Adicionar mídia"
   ],
+  "Wwu6IA": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " venceu a competição desta semana com ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de jogo."
+  ],
   "Wx7UUY": [
     "Crie um servidor para seu grupo"
   ],
@@ -86484,6 +87973,18 @@
           "rewardNameWithArticle"
         ]
       ]
+    ],
+    "."
+  ],
+  "X+VLqi": [
+    [
+      1,
+      "statQuestion"
+    ],
+    " Esta competição termina ",
+    [
+      1,
+      "endsAt"
     ],
     "."
   ],
@@ -87755,7 +89256,7 @@
     "Remover servidor"
   ],
   "XW2CuY": [
-    "Continue ganhando para desbloquear sua próxima recompensa!"
+    "Novos desafios chegam em breve. Seus Orbs estarão prontos quando você estiver."
   ],
   "XW3vjq": [
     "Nós detectamos e filtramos automaticamente mídias que podem ser sensíveis. Você pode gerenciar esse filtro nas suas configurações de Privacidade e Segurança."
@@ -87812,6 +89313,9 @@
       1,
       "position"
     ]
+  ],
+  "XXLbfv": [
+    "Restringir o acesso por cargo"
   ],
   "XXPrIs": [
     [
@@ -87888,6 +89392,9 @@
   "XYvMIX": [
     "Mostrar descrições de imagens"
   ],
+  "XZ9O/T": [
+    "XZ9O/T"
+  ],
   "XZTfav": [
     "Insira sua senha para editar sua conta."
   ],
@@ -87896,6 +89403,9 @@
   ],
   "Xa11Ep": [
     "Visualizar vantagens"
+  ],
+  "Xa1KEN": [
+    "Envie mensagens com atualizações dos seguintes widgets:"
   ],
   "XaFkil": [
     "Permite que os usuários salvem seus dispositivos e os marquem como verificados. ",
@@ -88579,6 +90089,12 @@
   "Xrcmjk": [
     "Neutro"
   ],
+  "XrpYIG": [
+    "Apenas estes cargos podem usar o quadro branco. Deixe em branco para permitir que todos o usem. As alterações são aplicadas imediatamente."
+  ],
+  "XrsUHd": [
+    "XrsUHd"
+  ],
   "Xrt5Po": [
     "Copiar link da mensagem"
   ],
@@ -88729,6 +90245,9 @@
   ],
   "XuVkkD": [
     "Últimas 24 horas"
+  ],
+  "XuYNQR": [
+    "XuYNQR"
   ],
   "XuZU7A": [
     "Nome exibido"
@@ -89225,6 +90744,9 @@
   "Y5BI39": [
     "Fixar mensagens"
   ],
+  "Y5Csm1": [
+    "Y5Csm1"
+  ],
   "Y5DOs4": [
     "Favoritar ",
     [
@@ -89254,6 +90776,20 @@
   ],
   "Y6Jo+p": [
     "Você está conectando contas rápido demais. Tente novamente mais tarde."
+  ],
+  "Y6K3qc": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com o maior número de jogos únicos jogados? Até agora, ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " está na liderança."
   ],
   "Y6Qfju": [
     "Servidor de ",
@@ -89359,6 +90895,9 @@
   "Y8ujqr": [
     "Modificar anexo"
   ],
+  "Y9/ijr": [
+    "Preferências compartilhadas"
+  ],
   "Y9DnPa": [
     "Todos"
   ],
@@ -89403,6 +90942,9 @@
   ],
   "Y9uRYB": [
     "Snapchat"
+  ],
+  "Y9wjUX": [
+    "Y9wjUX"
   ],
   "YAIIWp": [
     [
@@ -89871,6 +91413,9 @@
       "premiumGroupProductName"
     ],
     " convite cancelado"
+  ],
+  "YM9mAn": [
+    "YM9mAn"
   ],
   "YMQKXs": [
     "Mensagem bloqueada"
@@ -90717,6 +92262,9 @@
   "YkDjVM": [
     "Atalho"
   ],
+  "YkET6R": [
+    "Redefinir favoritos"
+  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -90883,6 +92431,9 @@
       "applicationName"
     ],
     " para compartilhar seu ranking, melhor herói e estatísticas no seu perfil"
+  ],
+  "YnTChn": [
+    "YnTChn"
   ],
   "Yna7E7": [
     [
@@ -91117,6 +92668,9 @@
   "YszLLx": [
     "Ativa ou desativa o modo streamer."
   ],
+  "Yt3O/L": [
+    "Yt3O/L"
+  ],
   "Yt6NkU": [
     [
       8,
@@ -91311,6 +92865,13 @@
       "cardinal"
     ]
   ],
+  "YuNVPY": [
+    "Jogado pela última vez ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "YuTEaU": [
     "Você está desatualizado"
   ],
@@ -91335,6 +92896,9 @@
   ],
   "YvJKD+": [
     "Ações de Clipes"
+  ],
+  "YvMDHm": [
+    "YvMDHm"
   ],
   "YvNhsd": [
     "Antes de ",
@@ -91475,6 +93039,9 @@
   ],
   "YzGIVF": [
     "Inclua um cargo"
+  ],
+  "Yzaoit": [
+    "Yzaoit"
   ],
   "YzjdWJ": [
     "Meus presentes"
@@ -91757,6 +93324,9 @@
   "Z2ygQt": [
     "Social & Estudos"
   ],
+  "Z2z85q": [
+    "Esta central de servidor é um rascunho. Apenas administradores do servidor podem vê-la até que seja publicada."
+  ],
   "Z33eiP": [
     "Você desligou os Destaques deste servidor"
   ],
@@ -91807,6 +93377,9 @@
   ],
   "Z4U1g/": [
     "Vou me acalmar"
+  ],
+  "Z4UD3R": [
+    "Este som é de um servidor apenas para convidados."
   ],
   "Z4ULRD": [
     "Cancelamento pendente: ",
@@ -92614,6 +94187,19 @@
   "ZMCfHc": [
     "Novidade: molduras de perfil"
   ],
+  "ZMJ8Mt": [
+    "Ouvido por último ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ]
+  ],
   "ZMTRyc": [
     "Exibir apenas vídeos"
   ],
@@ -92819,6 +94405,14 @@
   "ZQr92M": [
     "Aplicar regras do servidor (IA)"
   ],
+  "ZQxU8v": [
+    "Pelo menos ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membros do servidor precisam compartilhar sua atividade no Spotify para mostrar os principais ouvintes."
+  ],
   "ZR1Ss6": [
     "Ações de dispositivos de áudio"
   ],
@@ -92920,6 +94514,9 @@
   ],
   "ZUEGFn": [
     "Tente novamente mais tarde."
+  ],
+  "ZUGgI7": [
+    "ZUGgI7"
   ],
   "ZURqX0": [
     "Adicionar pagamento"
@@ -93190,6 +94787,9 @@
   "ZZ5jSz": [
     "Me encontre em"
   ],
+  "ZZNyeP": [
+    "ZZNyeP"
+  ],
   "ZZlox4": [
     "Este servidor está lotado."
   ],
@@ -93311,6 +94911,9 @@
       ]
     ],
     " desta série."
+  ],
+  "ZctfZ/": [
+    "COMBO DE 100"
   ],
   "ZcyFYa": [
     "Saiu da prévia do Nitro"
@@ -93560,6 +95163,9 @@
     ],
     " de desconto para seus próximos impulsos."
   ],
+  "ZiykFI": [
+    "Skelly"
+  ],
   "Zj2xQ0": [
     "O Google Pay não está disponível ou não foi configurado no seu navegador. Insira seu cartão de pagamento aqui"
   ],
@@ -93603,6 +95209,9 @@
   "ZkmC7s": [
     "Você não está sozinho(a). Se precisar de ajuda, converse com um adulto de confiança. Você também pode denunciar mensagens a qualquer momento."
   ],
+  "Zl5vPW": [
+    "Zl5vPW"
+  ],
   "ZlWXgR": [
     "Suas assinaturas serão renovadas automaticamente em ",
     [
@@ -93642,6 +95251,9 @@
   ],
   "ZmVEz/": [
     "Mostrar menos"
+  ],
+  "ZmaptE": [
+    "Caches externos"
   ],
   "Zmm6dN": [
     "Fotos"
@@ -94148,6 +95760,9 @@
   "Zw8jxn": [
     "Selecione ou insira o ID da missão"
   ],
+  "ZwDYuP": [
+    "Mais dias de jogo"
+  ],
   "ZwOSdn": [
     "Upload de figurinhas personalizadas para todos usarem"
   ],
@@ -94278,6 +95893,9 @@
   ],
   "ZzcLhc": [
     "Se erramos, confirme que você é adulto"
+  ],
+  "ZzcwNk": [
+    "Esvazia os favoritos e restaura o estado inicial."
   ],
   "ZzdgUm": [
     "Não é Possível Tornar o Canal Privado"
@@ -94467,6 +96085,9 @@
   ],
   "a0DdWJ": [
     "Quando você receber pedidos de amizade, vai poder ver todos aqui!"
+  ],
+  "a11Q57": [
+    "a11Q57"
   ],
   "a17rBk": [
     "Definir campo de e-mail obrigatório"
@@ -95257,6 +96878,9 @@
   ],
   "aPmsx3": [
     "Erro ao solicitar revisão"
+  ],
+  "aQUPiQ": [
+    "Os widgets são atualizados automaticamente com atividades recentes."
   ],
   "aQjtas": [
     "Lavanda"
@@ -96183,6 +97807,13 @@
     ],
     " não está respondendo"
   ],
+  "akg5nT": [
+    "Vantagens Nitro favoritas: ",
+    [
+      1,
+      "filterName"
+    ]
+  ],
   "al+5qH": [
     "vídeo"
   ],
@@ -96541,6 +98172,9 @@
         ]
       ]
     ]
+  ],
+  "aq6+nQ": [
+    "aq6+nQ"
   ],
   "aqN8U9": [
     "Você entrará pelo computador."
@@ -97194,6 +98828,9 @@
     "comida",
     "fruta"
   ],
+  "avpngL": [
+    "avpngL"
+  ],
   "avps/2": [
     "Obter o Nitro"
   ],
@@ -97243,6 +98880,9 @@
   ],
   "awsERJ": [
     "Reenviar teste"
+  ],
+  "awu/Sj": [
+    "awu/Sj"
   ],
   "ax4/ib": [
     "Impulsionar Servidor"
@@ -97817,6 +99457,14 @@
   "b8siyY": [
     "Atualizar"
   ],
+  "b9LwCb": [
+    "Desbloqueie seu primeiro ano do My Best Buy Plus™ sem pagar nada e ganhe ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% de volta em recompensas para pré-vendas de seleção dos maiores jogos da temporada."
+  ],
   "b9w3bO": [
     "Disponível"
   ],
@@ -98174,6 +99822,9 @@
   ],
   "bKOzux": [
     "Categorias de widget"
+  ],
+  "bKbxkA": [
+    "bKbxkA"
   ],
   "bL21zs": [
     "Depois de entrar neste canal de voz, seu modo de entrada mudará para Detecção de voz."
@@ -98701,6 +100352,9 @@
     ],
     " para mais detalhes."
   ],
+  "bZ0yGQ": [
+    "Usado para compartilhar as músicas que você está ouvindo."
+  ],
   "bZ4Okd": [
     [
       1,
@@ -99001,6 +100655,9 @@
       1,
       "emojiName"
     ]
+  ],
+  "bbQzr1": [
+    "bbQzr1"
   ],
   "bbRRNY": [
     "até o período de teste expirar"
@@ -99325,6 +100982,13 @@
   ],
   "bgL68y": [
     "Agora vocês são amigos. Diga oi!"
+  ],
+  "bgQf2H": [
+    [
+      1,
+      "minutes"
+    ],
+    "m"
   ],
   "bgU5r0": [
     "Mostra um aviso toda vez que a sobreposição abre para informar que ela está ativa."
@@ -100197,6 +101861,9 @@
   "bt75uw": [
     "Editar"
   ],
+  "btBTIw": [
+    "Gaming Leaderboard"
+  ],
   "btSGOj": [
     "Entrou na plateia"
   ],
@@ -100528,6 +102195,41 @@
   ],
   "bxcI6Y": [
     "Prévia da insígnia de Orbs no perfil"
+  ],
+  "bxcrSz": [
+    "Jogou ",
+    [
+      1,
+      "firstGame"
+    ],
+    ", ",
+    [
+      1,
+      "secondGame"
+    ],
+    " e ",
+    [
+      6,
+      "otherCount",
+      {
+        "one": [
+          "mais ",
+          [
+            7
+          ],
+          " jogo"
+        ],
+        "other": [
+          "mais ",
+          [
+            7
+          ],
+          " jogos"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "bxh/R7": [
     "Legibilidade do texto"
@@ -101179,6 +102881,9 @@
   "c9qSBR": [
     "Antes de uma data"
   ],
+  "c9wSH7": [
+    "c9wSH7"
+  ],
   "c9zdjv": [
     "Set up Community Onboarding!"
   ],
@@ -101498,6 +103203,9 @@
   "cJng7v": [
     "Natureza"
   ],
+  "cJs3+v": [
+    "cJs3+v"
+  ],
   "cK1GGY": [
     "Começar evento"
   ],
@@ -101806,6 +103514,9 @@
   ],
   "cSu80j": [
     "Ocultar janela no jogo"
+  ],
+  "cSw0mL": [
+    "cSw0mL"
   ],
   "cSyXJk": [
     "Quando desativado, apenas moderadores e quem criou o tópico podem adicionar novos membros a ele."
@@ -102313,6 +104024,9 @@
   ],
   "cbD7CX": [
     "Comece suas 2 semanas de Nitro e experimente perfis personalizados, emojis animados e muito mais!"
+  ],
+  "cbssIC": [
+    "cbssIC"
   ],
   "cbtPXy": [
     "Tema atualizado."
@@ -102963,6 +104677,9 @@
   ],
   "clQc1f": [
     "Alterar detalhes da conta"
+  ],
+  "clUNo2": [
+    "clUNo2"
   ],
   "clap": [
     "aplauso",
@@ -104308,6 +106025,13 @@
   "d/Wqvu": [
     "Pré-lançamentos"
   ],
+  "d/qbC0": [
+    [
+      1,
+      "username"
+    ],
+    " pediu para você transmitir"
+  ],
   "d04UhP": [
     "Editar texto alternativo, responder ",
     [
@@ -104320,6 +106044,9 @@
   ],
   "d0M0XI": [
     "Chegaram as figurinhas!"
+  ],
+  "d0Z8kd": [
+    "Ir para você"
   ],
   "d0gJtH": [
     "Envie arquivos maiores"
@@ -104452,6 +106179,54 @@
   ],
   "d34xi4": [
     "Permissão especial de versão inválida"
+  ],
+  "d3aX5b": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moveu ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "um canal"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " canais"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "d3kA9a": [
     "Mostre até 9 das suas redes sociais oficiais na sua página colocando os links aqui."
@@ -104724,6 +106499,14 @@
   "d9+vQ8": [
     "Obrigado pelo feedback!"
   ],
+  "d90MfZ": [
+    "mais ",
+    [
+      2,
+      "count"
+    ],
+    " na chamada de voz"
+  ],
   "d9KbHK": [
     "Promoção qualificada: ",
     [
@@ -104927,6 +106710,9 @@
   ],
   "dFgeuZ": [
     "Escolhas Populares para Orbs"
+  ],
+  "dFir5f": [
+    "dFir5f"
   ],
   "dFu8vZ": [
     [
@@ -105806,6 +107592,13 @@
       ]
     ],
     ", e seu ciclo de cobrança continuará como agendado."
+  ],
+  "dbNpK0": [
+    "Jogou ",
+    [
+      1,
+      "firstGame"
+    ]
   ],
   "dbTs+z": [
     "Qualquer um neste canal se tentará se conectar na região definida, independente de onde more. Regiões afetam a qualidade de voz e vídeo. Deixe no automático para o Discord definir o que funciona melhor."
@@ -107277,6 +109070,13 @@
   "e3Zz3F": [
     "Mostrar Prévias da transmissão"
   ],
+  "e3qAIz": [
+    "Designorar ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "e4WMvx": [
     "Levantar a mão desabilitado"
   ],
@@ -108200,6 +110000,9 @@
   "eOFvqT": [
     "Remove sua página de destino da web. Publicar a sua página novamente vai reativá-la."
   ],
+  "eOHGhL": [
+    "eOHGhL"
+  ],
   "eOIfuy": [
     "O nº do cartão é obrigatório."
   ],
@@ -108371,6 +110174,28 @@
             7
           ],
           " Autoclips"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
+  "eS6Nek": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " solicitação enviada"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " solicitações enviadas"
         ]
       },
       0,
@@ -108637,7 +110462,7 @@
     ]
   ],
   "eZhXQa": [
-    "Compartilhar minhas estatísticas com este servidor"
+    "Compartilhar minha atividade com este servidor"
   ],
   "eZmJYE": [
     "Se ativado, imagens e vídeos capturados com a câmera ao enviar uma mensagem também ficarão salvos no dispositivo"
@@ -108894,6 +110719,9 @@
   ],
   "ee7wQ7": [
     "Agora disponível com o Nitro"
+  ],
+  "eeJvfA": [
+    "Estas mensagens diretas estão vazias 🦗"
   ],
   "eeM6Gk": [
     "Gostaríamos de saber: qual foi o motivo que fez você cancelar ",
@@ -109309,6 +111137,9 @@
       ]
     ]
   ],
+  "eooiqe": [
+    "eooiqe"
+  ],
   "eotGpL": [
     "Agora você pode promover eventos de palco com vídeo e compartilhamento de tela. Servidores impulsionados podem fazer eventos maiores em palcos de vídeo (até 150 usuários no nível 2, e 300 no nível 3)."
   ],
@@ -109418,6 +111249,9 @@
         ]
       ]
     ]
+  ],
+  "er+5dl": [
+    "Turbine suas pré-vendas"
   ],
   "er+FRD": [
     "Status online: ",
@@ -109687,6 +111521,9 @@
   "eutr4P": [
     "Conte-nos um pouco sobre você"
   ],
+  "evF0PO": [
+    "Resgate seu primeiro ano de assinatura My Best Buy Plus™ grátis. US$29,99 por ano. Renovação automática. Cancele a qualquer momento."
+  ],
   "evGwDW": [
     "Rascunho — a ser publicado ",
     [
@@ -109703,6 +111540,9 @@
   ],
   "evRhwg": [
     "Atividade de DM incomum detectada"
+  ],
+  "evXB9B": [
+    "evXB9B"
   ],
   "evergreen_tree": [
     "árvore",
@@ -110160,6 +112000,9 @@
   "f41E1g": [
     "Você não pode iniciar uma atividade aqui"
   ],
+  "f4BaUg": [
+    "f4BaUg"
+  ],
   "f4M+H9": [
     "Sons de entrada"
   ],
@@ -110348,6 +112191,9 @@
   ],
   "fAW3z4": [
     "Nenhum resultado encontrado"
+  ],
+  "fAXYyg": [
+    "fAXYyg"
   ],
   "fAYU2G": [
     "Devido às permissões do sistema, os atalhos do teclado não estão disponíveis durante o jogo."
@@ -111084,6 +112930,47 @@
   "fVWxvT": [
     "Adicionar cargo"
   ],
+  "fVm1Zn": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " tomou o lugar de ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " no topo do ranking com ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de tempo de jogo."
+  ],
   "fWQTbv": [
     "Aumente o número de comunicadores semanais"
   ],
@@ -111092,6 +112979,9 @@
   ],
   "fWbIpf": [
     "Servidores populares de jogos"
+  ],
+  "fWef0G": [
+    "Fim da coluna lateral"
   ],
   "fWvX0G": [
     [
@@ -111342,6 +113232,9 @@
   ],
   "faHmO3": [
     "Esta ação removerá este anexo desta mensagem permanentemente."
+  ],
+  "fac+eE": [
+    "Nenhuma permissão"
   ],
   "facYnD": [
     "Recompensas disponíveis!"
@@ -111627,6 +113520,72 @@
   "fcYgiY": [
     "Sobre e políticas"
   ],
+  "fcmI49": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "username2Hook",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " e ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " outra pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " outras pessoas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " estão usando o quadro branco."
+  ],
   "fcopjf": [
     "Desbloquear recompensa"
   ],
@@ -111844,6 +113803,9 @@
   ],
   "fhK8hj": [
     "Recompensa do Nitro"
+  ],
+  "fhY51Q": [
+    "fhY51Q"
   ],
   "fhY6s9": [
     "Atividade"
@@ -112811,6 +114773,18 @@
     ],
     " a qualquer momento."
   ],
+  "fvtrHn": [
+    [
+      1,
+      "hours"
+    ],
+    "h ",
+    [
+      1,
+      "minutes"
+    ],
+    "min"
+  ],
   "fw2p/x": [
     "Tag do servidor: ",
     [
@@ -112983,6 +114957,9 @@
   ],
   "g+bTAg": [
     "Experimente a personalização do perfil"
+  ],
+  "g+lLUV": [
+    "Mover cargo"
   ],
   "g+sEOr": [
     "Niue"
@@ -113196,8 +115173,14 @@
   "g62IJl": [
     "concluído"
   ],
+  "g64C7b": [
+    "g64C7b"
+  ],
   "g6Dr44": [
     "Área de trabalho"
+  ],
+  "g6JzUy": [
+    "g6JzUy"
   ],
   "g6KdFv": [
     "Tipo de arquivo em anexo: ",
@@ -113786,6 +115769,9 @@
     ],
     " mês."
   ],
+  "gN0TTr": [
+    "gN0TTr"
+  ],
   "gNJHHp": [
     "Tente novamente"
   ],
@@ -114083,6 +116069,9 @@
   ],
   "gUqXQN": [
     "Confirme sua idade em outro dispositivo"
+  ],
+  "gUvhsN": [
+    "gUvhsN"
   ],
   "gUx4eu": [
     "Enviar para tópico"
@@ -114485,6 +116474,9 @@
   "ge/d+Y": [
     "produção-musical"
   ],
+  "ge88VE": [
+    "ge88VE"
+  ],
   "geFoof": [
     [
       6,
@@ -114783,6 +116775,9 @@
     ],
     "."
   ],
+  "gjL5N4": [
+    "gjL5N4"
+  ],
   "gjdiKE": [
     "Prévia"
   ],
@@ -114895,6 +116890,9 @@
   "gnkqzQ": [
     "Se esta tela aparecer mesmo depois de atualizar, entre em contato com o suporte."
   ],
+  "gnoxLY": [
+    "gnoxLY"
+  ],
   "gnsna/": [
     "Você ainda não criou nenhum cargo"
   ],
@@ -114989,6 +116987,9 @@
   ],
   "gpCRFS": [
     "Rastreamento de desempenho salvo na pasta Downloads"
+  ],
+  "gpEOaS": [
+    "gpEOaS"
   ],
   "gpSh3U": [
     "Página para baixo"
@@ -115572,11 +117573,21 @@
     ],
     "!"
   ],
+  "h+7Yx3": [
+    "Desbloqueie uma tag do servidor usando impulsos. Escolha um servidor para começar."
+  ],
   "h+Imbu": [
     "Abrir mensagens agendadas"
   ],
   "h+KPxy": [
     "Os ingressos vão estar à venda na sexta-feira às 10h!"
+  ],
+  "h+LUpk": [
+    [
+      1,
+      "percent"
+    ],
+    "%"
   ],
   "h+WsPb": [
     "Aplicado"
@@ -115789,7 +117800,7 @@
     "Receba ao comprar um presente."
   ],
   "h2qWpS": [
-    "Ganhe ",
+    "Resgate ",
     [
       8,
       "orbIconHook",
@@ -115797,7 +117808,6 @@
         "orbIcon"
       ]
     ],
-    " ",
     [
       1,
       "orbAmount"
@@ -115963,6 +117973,9 @@
   "h80cx/": [
     "Plano de impulsos mensal"
   ],
+  "h83tLO": [
+    "h83tLO"
+  ],
   "h850Ss": [
     "Config. de notificação"
   ],
@@ -116056,8 +118069,29 @@
       "count"
     ]
   ],
+  "h9P9H+": [
+    "Insira o widget na posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " na coluna lateral"
+  ],
   "h9Q1lG": [
     "Para um clube ou comunidade"
+  ],
+  "h9gDdS": [
+    "Sua equipe venceu uma luta ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "h9mGOP": [
     "Canais & Cargos"
@@ -116226,6 +118260,9 @@
   ],
   "hFYUDN": [
     "Não é possível remover fundos padrão"
+  ],
+  "hFYyGU": [
+    "Ver músicas populares"
   ],
   "hFeBkl": [
     "Abra o app de autenticação e escaneie a imagem à esquerda, usando a câmera do seu celular."
@@ -116443,6 +118480,9 @@
   ],
   "hKcgP5": [
     "Nenhum SKU disponível"
+  ],
+  "hKfSwp": [
+    "Mover canal"
   ],
   "hKsCRB": [
     "Joga isso pra lá... sacou?"
@@ -117341,6 +119381,9 @@
   "hdneL4": [
     "A remoção desta integração resultará na exclusão de qualquer aplicativo (incluindo bots e webhooks) desta página do seu servidor. Esta ação não pode ser desfeita."
   ],
+  "hdrVwP": [
+    "hdrVwP"
+  ],
   "he52LA": [
     "(Inclui ",
     [
@@ -117896,6 +119939,13 @@
   "hmKy8E": [
     "Motivo da expulsão"
   ],
+  "hmNYxk": [
+    "Remover ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "hmb311": [
     "Veja os filtros e outras configurações"
   ],
@@ -118070,6 +120120,28 @@
     "construção",
     "jardim",
     "lar"
+  ],
+  "hpAg80": [
+    [
+      6,
+      "panelCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " widget ativo"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " widgets ativos"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "hpgzEq": [
     "Denunciar"
@@ -118384,6 +120456,9 @@
   ],
   "hwPEJR": [
     "O nível foi desabilitado por um administrador"
+  ],
+  "hwY2F5": [
+    "hwY2F5"
   ],
   "hwbB7s": [
     "Filtrar mensagens a partir de uma data específica"
@@ -119627,6 +121702,9 @@
         ]
       ]
     ]
+  ],
+  "iU9tyl": [
+    "iU9tyl"
   ],
   "iUSTDT": [
     "dever-de-casa"
@@ -121076,6 +123154,9 @@
   "ixASa2": [
     "Dias"
   ],
+  "ixMwGl": [
+    "Este som pode ser usado em qualquer lugar."
+  ],
   "ixNwPL": [
     "Conta bancária adicionada em ",
     [
@@ -121207,6 +123288,13 @@
   "iz4w1M": [
     "Redefinir rotação"
   ],
+  "izBDZN": [
+    "Desbloquear ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "izMR7o": [
     "Você não pode chamar uma conta provisória"
   ],
@@ -121248,6 +123336,9 @@
   ],
   "j/5+IX": [
     "Estes são os seus canais!"
+  ],
+  "j/B2Zo": [
+    "j/B2Zo"
   ],
   "j/KRxc": [
     "Usar padrão"
@@ -121887,6 +123978,9 @@
   "jK+wdr": [
     "Mostrar mensagens personalizadas"
   ],
+  "jK2oto": [
+    "Role para a esquerda ou direita para ver outras insígnias"
+  ],
   "jKYAPu": [
     "O imput do seu regex está com problemas. Corrija os erros destacados acima. ",
     [
@@ -122246,8 +124340,52 @@
   "jTW016": [
     "Remover da Lista de Desejos"
   ],
+  "jTbTAF": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " quer assistir você jogar ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "game"
+        ]
+      ]
+    ],
+    "."
+  ],
   "jTxbHc": [
     "Insígnia de vento"
+  ],
+  "jUJ7IO": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com mais dias de jogo? Até agora, ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " está na liderança."
   ],
   "jULEDr": [
     "Ver ",
@@ -122280,6 +124418,9 @@
       ]
     ],
     " para mais informações."
+  ],
+  "jUr+wF": [
+    "Abrir no Spotify"
   ],
   "jUze6F": [
     "Aproxime para ativar o reposicionamento"
@@ -122453,6 +124594,54 @@
   ],
   "jZcIid": [
     "Use o texto-para-voz para ler mensagens para todos os membros que estão visualizando o canal nesse momento."
+  ],
+  "jZeaoW": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " moveu ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "um cargo"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " cargos"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "jZoHgI": [
     "É necessário ter duas ou mais escolhas."
@@ -124166,6 +126355,9 @@
   "kEMWrG": [
     "Modelo de um canal de discussão sobre jogos, com tags de fóruns como Eventos, Recomendações e LFG (\"Procurando Grupo\")."
   ],
+  "kEY+nX": [
+    "kEY+nX"
+  ],
   "kEcZ97": [
     [
       8,
@@ -124260,6 +126452,25 @@
   ],
   "kFwAsa": [
     "Remover anexo"
+  ],
+  "kG9XmM": [
+    "Esta competição terminou ",
+    [
+      1,
+      "endedAt"
+    ],
+    ". A próxima competição será ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nextStatName"
+        ]
+      ]
+    ],
+    "."
   ],
   "kGCHEJ": [
     "Assinatura do servidor"
@@ -124726,6 +126937,9 @@
   "kTAoEr": [
     "Ver histórico de pagamentos"
   ],
+  "kTMH3n": [
+    "kTMH3n"
+  ],
   "kTdL8X": [
     "O canal designado deve ser apenas leitura para @everyone"
   ],
@@ -124752,6 +126966,9 @@
   ],
   "kV54/Y": [
     "Benefício"
+  ],
+  "kVJZvr": [
+    "kVJZvr"
   ],
   "kVfuVu": [
     "Adicionar super-reação"
@@ -125057,6 +127274,9 @@
   ],
   "kc5n4S": [
     "Nevis"
+  ],
+  "kcAWvo": [
+    "kcAWvo"
   ],
   "kcHxi6": [
     "Sistema Operacional"
@@ -125989,6 +128209,9 @@
   "l/l/Gw": [
     "Para começar, crie uma mensagem de boas-vindas e instruções personalizadas. Você também pode mostrar aos membros páginas de recursos para perguntas frequentes, regras e muito mais."
   ],
+  "l/tCAO": [
+    "l/tCAO"
+  ],
   "l07DXK": [
     [
       8,
@@ -126113,6 +128336,9 @@
   ],
   "l3P7K0": [
     "As instruções para permitir acesso à sua câmera podem ser encontradas na Central de ajuda do Discord."
+  ],
+  "l3QzyC": [
+    "Este som é do seu servidor."
   ],
   "l3VxgG": [
     [
@@ -126303,6 +128529,9 @@
   ],
   "l6Rj+t": [
     "Não consegue encontrá-los? Tente enviar um link de convite."
+  ],
+  "l6SlkF": [
+    "l6SlkF"
   ],
   "l6Yb3T": [
     "Qual é a história de origem do seu nome de usuário?"
@@ -126608,6 +128837,9 @@
   ],
   "lE/PG3": [
     "Marcar como oficial"
+  ],
+  "lE79Lm": [
+    "Amigos organizados pelo jogo que estão jogando agora"
   ],
   "lEIwDw": [
     "Impulsos por ",
@@ -127033,6 +129265,13 @@
   "lQiCJ6": [
     "A opção Aperte para falar está habilitada, mas nenhum atalho de tecla foi definido."
   ],
+  "lQqwQi": [
+    "Entrou em ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "lQsY7B": [
     "Ativada"
   ],
@@ -127315,6 +129554,9 @@
   "lZTUPs": [
     "Fundo do vídeo"
   ],
+  "lZWCZ+": [
+    "Arquivos excluídos do backup"
+  ],
   "lZejCq": [
     "Incluir menções de @role"
   ],
@@ -127443,6 +129685,9 @@
   "lbyFG+": [
     "Desbloquear"
   ],
+  "lbzScK": [
+    "lbzScK"
+  ],
   "lcSxhB": [
     "Use seus sons favoritos por todo o Discord e muito mais com Nitro. ",
     [
@@ -127496,6 +129741,9 @@
   ],
   "leKHQz": [
     "Ainda não há opções de personalização."
+  ],
+  "leUgZw": [
+    "Emoji exclusivo Nitro"
   ],
   "leafless_tree": [
     "árvore seca",
@@ -127664,6 +129912,9 @@
   ],
   "lgHr73": [
     "Converse, transmita e relaxe"
+  ],
+  "lgKBzG": [
+    "lgKBzG"
   ],
   "lgcisd": [
     "Servidores com ",
@@ -128279,13 +130530,6 @@
       "cardinal"
     ]
   ],
-  "ltaxJz": [
-    [
-      2,
-      "streakCount"
-    ],
-    " vitórias seguidas"
-  ],
   "ltedOh": [
     "Ações de cargos nas permissões do canal"
   ],
@@ -128841,6 +131085,9 @@
   ],
   "m163cv": [
     "os chats de voz são mais aconchegantes quando você também está neles"
+  ],
+  "m19WWb": [
+    "m19WWb"
   ],
   "m1KuWd": [
     "Limite de tempo"
@@ -129782,6 +132029,9 @@
   "mRPWne": [
     "Use seus emojis personalizados em qualquer lugar e anime-os."
   ],
+  "mRPtBV": [
+    "mRPtBV"
+  ],
   "mRbUco": [
     [
       8,
@@ -129821,6 +132071,9 @@
   ],
   "mT9B49": [
     "Você enviou um presente, mas..."
+  ],
+  "mTARYx": [
+    "Ative a personalização para ingressar no ranking."
   ],
   "mTMkY2": [
     "Você precisa habilitar o nível anterior primeiro."
@@ -129890,6 +132143,9 @@
   ],
   "mVC3Cv": [
     "Parece que você já resgatou esse presente."
+  ],
+  "mVFTUg": [
+    "Pedido enviado muito recentemente"
   ],
   "mVVHjf": [
     "Abrir o Discord"
@@ -131165,6 +133421,9 @@
   "mfpJ9m": [
     "CEP"
   ],
+  "mg1NPe": [
+    "mg1NPe"
+  ],
   "mgGOT4": [
     "Recomendamos que seu assunto seja mais descritivo, já que seus ouvintes podem não saber sobre o que é seu servidor."
   ],
@@ -131546,6 +133805,9 @@
   ],
   "mmeWUF": [
     "Filtrar por: mais antigos"
+  ],
+  "mmlFSp": [
+    "mmlFSp"
   ],
   "mn/nW2": [
     "VULGO ",
@@ -132469,6 +134731,9 @@
       ]
     ]
   ],
+  "n3aRYQ": [
+    "Atualizações sobre o fim de uma competição, o início de uma nova competição e quando alguém assume a liderança durante uma competição em andamento"
+  ],
   "n3bcy8": [
     "Adicionar moderadores de palco"
   ],
@@ -132728,6 +134993,9 @@
   ],
   "nAyNSN": [
     "Usuário existente"
+  ],
+  "nAyuPp": [
+    "Pedido de transmissão"
   ],
   "nB/JNB": [
     [
@@ -133808,6 +136076,9 @@
       "duration"
     ]
   ],
+  "nXc/MQ": [
+    "Você não tem acesso."
+  ],
   "nXdbKo": [
     "Você tem acesso ao chat premium, ",
     [
@@ -134009,6 +136280,9 @@
   ],
   "naBTFO": [
     "Um funcionário do Discord me pediu para fazer isso"
+  ],
+  "naImPK": [
+    "naImPK"
   ],
   "naT1rM": [
     "Essa decoração entrou na sua coleção e pode ser usada a qualquer momento. Boas festas!"
@@ -134589,6 +136863,19 @@
   "no+FQS": [
     "O primeiro fluxo de link disponível será usado, começando no topo"
   ],
+  "no2oEG": [
+    "Sua equipe lutou contra ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "no7/g5": [
     "Página para baixo"
   ],
@@ -134735,6 +137022,9 @@
       1,
       "count"
     ]
+  ],
+  "npZ6IB": [
+    "Ver ranking"
   ],
   "npfhh0": [
     "Você precisa cancelar sua mudança de plano pendente antes de comprar impulsos."
@@ -135113,6 +137403,17 @@
       ]
     ]
   ],
+  "o/An3l": [
+    [
+      1,
+      "username"
+    ],
+    " pediu para você transmitir ",
+    [
+      1,
+      "applicationName"
+    ]
+  ],
   "o/LQMi": [
     "cal, administrador de VALORANT"
   ],
@@ -135198,6 +137499,9 @@
   ],
   "o1OjGD": [
     "Insígnia de Flor Murcha"
+  ],
+  "o1Zign": [
+    "o1Zign"
   ],
   "o1bhkD": [
     "Iniciar através do aplicativo para área de trabalho"
@@ -135459,6 +137763,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "o6mBdl": [
+    "Ver atividade recente"
   ],
   "o7DqF3": [
     "Ramo"
@@ -135942,6 +138249,9 @@
   ],
   "oHWnLy": [
     "Canais sugeridos"
+  ],
+  "oHdW+u": [
+    "Sem classificação"
   ],
   "oHh3oI": [
     "Erro ao desinstalar o Assistente do Discord: ",
@@ -137546,6 +139856,9 @@
     "lontra",
     "pesca"
   ],
+  "otwb22": [
+    "otwb22"
+  ],
   "ouHggI": [
     "Permissões gerais do canal"
   ],
@@ -138536,6 +140849,9 @@
   "pDuyi0": [
     "Permite que os membros enviem mensagens de voz."
   ],
+  "pDzipI": [
+    "Central de servidor publicada. Agora todos no servidor podem vê-la."
+  ],
   "pEAl4b": [
     "Volume da transmissão"
   ],
@@ -138884,6 +141200,9 @@
       "discountPercent"
     ],
     "% de desconto na linha de simulação da Série PRO"
+  ],
+  "pSCe5T": [
+    "pSCe5T"
   ],
   "pSZKvM": [
     "Data"
@@ -140753,6 +143072,9 @@
     "mal-humorado",
     "rosto"
   ],
+  "pp6WeD": [
+    "Selecionar cargos"
+  ],
   "ppGw/P": [
     "República"
   ],
@@ -140964,6 +143286,9 @@
   "prvWKm": [
     "Permite que os membros mandem mensagens em canais de texto e criem postagens em canais de fórum."
   ],
+  "ps4413": [
+    "ps4413"
+  ],
   "psDfFO": [
     "Visualização em galeria padrão"
   ],
@@ -141013,6 +143338,20 @@
   ],
   "pt88Vb": [
     "NOVA prévia de curta de animação"
+  ],
+  "ptD18B": [
+    "Um novo ranking começa! Quem será o vencedor desta semana com mais tempo de jogo? Até agora, ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " está na liderança."
   ],
   "ptItsj": [
     "Avatar, imagem de faixa, nome de usuário ou nome exibido, descritores de texto ou tag do servidor"
@@ -141233,6 +143572,9 @@
   "pylO3w": [
     "Loja"
   ],
+  "pypEfa": [
+    "pypEfa"
+  ],
   "pythUC": [
     "Graças a outro ser humano generoso, agora você tem acesso a vantagens aprimoradas no chat durante ",
     [
@@ -141259,6 +143601,9 @@
   ],
   "pzCe7h": [
     "Credenciais inválidas"
+  ],
+  "pzQFS9": [
+    "pzQFS9"
   ],
   "pzTFpM": [
     "Esta página não está visível para os seus membros e pode ser excluída a qualquer momento."
@@ -141632,6 +143977,22 @@
   ],
   "q7A8hP": [
     "Trabalhe conosco"
+  ],
+  "q7PYXq": [
+    [
+      1,
+      "badgeName"
+    ],
+    ", insígnia ",
+    [
+      2,
+      "position"
+    ],
+    " de ",
+    [
+      2,
+      "total"
+    ]
   ],
   "q7WNGv": [
     "Esconder links de convite"
@@ -142056,6 +144417,9 @@
   "qIZICF": [
     "Uma nova maneira de jogar juntos."
   ],
+  "qIsTEd": [
+    "qIsTEd"
+  ],
   "qJPLNa": [
     "Digite ou selecione um emoji"
   ],
@@ -142365,6 +144729,9 @@
   ],
   "qRVP1a": [
     "Área de trabalho"
+  ],
+  "qRXats": [
+    "Não está no canal de voz"
   ],
   "qRZ35t": [
     "Adicionar"
@@ -142953,6 +145320,9 @@
   "qh9t5c": [
     "O desejo deles, sua jogada"
   ],
+  "qhOt/V": [
+    "qhOt/V"
+  ],
   "qhZmhU": [
     "Assistências"
   ],
@@ -143326,6 +145696,9 @@
   "qqjm8O": [
     "Use impulsos para criar um servidor hospedado e jogar com seus amigos!"
   ],
+  "qquj6H": [
+    "qquj6H"
+  ],
   "qqyp/e": [
     "Você só pode subir ",
     [
@@ -143333,6 +145706,18 @@
       "limit"
     ],
     " arquivos de cada vez!"
+  ],
+  "qr8Cg3": [
+    "Reproduzido por ",
+    [
+      1,
+      "a"
+    ],
+    " e ",
+    [
+      1,
+      "b"
+    ]
   ],
   "qr9dEP": [
     "Announcement"
@@ -144249,6 +146634,9 @@
   "rD6EaA": [
     "Ler menos"
   ],
+  "rDWswi": [
+    "Pés Dançantes"
+  ],
   "rDjKru": [
     "Nova insígnia: ",
     [
@@ -144652,6 +147040,9 @@
   ],
   "rNGQfD": [
     "Compartilhar link da missão"
+  ],
+  "rO+7yN": [
+    "rO+7yN"
   ],
   "rO0Vix": [
     "Ou compartilhe um dispositivo"
@@ -145400,6 +147791,17 @@
     ],
     " vezes!"
   ],
+  "rbqtTJ": [
+    "Determinamos que você está no grupo de adolescentes (13-17). Se isso não estiver correto, ",
+    [
+      8,
+      "hook",
+      [
+        "confirme que você é maior de idade"
+      ]
+    ],
+    "."
+  ],
   "rbwRlf": [
     "Se você reativar o Nitro Classic, nós voltaremos a cobrar ",
     [
@@ -145731,6 +148133,9 @@
   "rhBeKe": [
     "Seu aniversário"
   ],
+  "rhDbuQ": [
+    "um jogo"
+  ],
   "rhY1Rs": [
     [
       2,
@@ -146052,6 +148457,9 @@
   ],
   "rlBMue": [
     "Alguém que você bloqueou está aqui."
+  ],
+  "rlHWVB": [
+    "rlHWVB"
   ],
   "rlNJwZ": [
     "Confirmar conexão de pai ou mãe com:"
@@ -146444,16 +148852,17 @@
       "count",
       {
         "one": [
+          ", ",
           [
             7
           ],
-          " membro"
+          " Membro"
         ],
         "other": [
           [
             7
           ],
-          " membros"
+          " Membros"
         ]
       },
       0,
@@ -147122,6 +149531,9 @@
   "s0KCgF": [
     "Ativar confetes"
   ],
+  "s0Kbif": [
+    "s0Kbif"
+  ],
   "s0N1nM": [
     "Proteção DDoS"
   ],
@@ -147338,6 +149750,9 @@
   "s5MnmC": [
     "Buscar canais"
   ],
+  "s5No7R": [
+    "Este som é de um servidor público."
+  ],
   "s5Qo8E": [
     "Bloop"
   ],
@@ -147372,6 +149787,17 @@
   ],
   "s7STcY": [
     "Termos de serviço"
+  ],
+  "s7bMT0": [
+    [
+      1,
+      "username"
+    ],
+    " está pedindo para você transmitir ",
+    [
+      1,
+      "applicationName"
+    ]
   ],
   "s7iald": [
     "Categorias"
@@ -148039,6 +150465,9 @@
   "sO+NI5": [
     "Insira seu nome"
   ],
+  "sOWu4j": [
+    "sOWu4j"
+  ],
   "sOaT2j": [
     "Confirme que quer conceder a ",
     [
@@ -148115,6 +150544,9 @@
       1,
       "price"
     ]
+  ],
+  "sQ1bDT": [
+    "sQ1bDT"
   ],
   "sQ42iT": [
     "Ao redefinir as configurações de voz, todos os usuários silenciados e seus volumes retornarão aos seus valores padrão.\nDeseja mesmo fazer isso?"
@@ -148198,6 +150630,9 @@
   "sRApon": [
     "Voltar ao aplicativo"
   ],
+  "sRCTRC": [
+    "sRCTRC"
+  ],
   "sRJGR1": [
     "Este servidor não está disponível na sua localização."
   ],
@@ -148280,6 +150715,9 @@
   ],
   "sTFApF": [
     "Desbloqueado"
+  ],
+  "sTG4TS": [
+    "sTG4TS"
   ],
   "sTo7s3": [
     "Ouça de um dispositivo compatível"
@@ -150446,6 +152884,9 @@
     "relógio",
     "tempo"
   ],
+  "stpl+C": [
+    "stpl+C"
+  ],
   "straight_ruler": [
     "régua",
     "régua reta"
@@ -150510,6 +152951,13 @@
   ],
   "suRApw": [
     "Plateia"
+  ],
+  "subXXA": [
+    [
+      1,
+      "name"
+    ],
+    " (você)"
   ],
   "suhY+Y": [
     "Configurações de Segurança"
@@ -150754,6 +153202,9 @@
   ],
   "syAApU": [
     "Cancelar regra de AutoMod"
+  ],
+  "syCNDV": [
+    "syCNDV"
   ],
   "syHjLL": [
     [
@@ -151300,6 +153751,9 @@
   ],
   "tC1pvL": [
     "Mais dicas"
+  ],
+  "tC4dgc": [
+    "tC4dgc"
   ],
   "tCQ3H8": [
     "Passo ",
@@ -153051,6 +155505,9 @@
   "toqSSG": [
     "Ajude a melhorar os modelos de spam do Discord enviando dados ao marcar mensagens como não-spam."
   ],
+  "toxuHd": [
+    "Jogue alguns jogos para ingressar no ranking!"
+  ],
   "tozlEv": [
     "Seja ",
     [
@@ -153117,6 +155574,18 @@
   ],
   "tqSSSA": [
     "Trocar de plano ou retomar sua assinatura"
+  ],
+  "tqVg4M": [
+    "Jogou ",
+    [
+      1,
+      "firstGame"
+    ],
+    " e ",
+    [
+      1,
+      "secondGame"
+    ]
   ],
   "tqtDXC": [
     "Canais vinculados"
@@ -153335,6 +155804,9 @@
   "ts6u6r": [
     "Ativar"
   ],
+  "tsPUvC": [
+    "tsPUvC"
+  ],
   "tsQOs+": [
     "Você pode resgatar ",
     [
@@ -153487,6 +155959,9 @@
     "televisão",
     "TV",
     "vídeo"
+  ],
+  "tv1NO2": [
+    "tv1NO2"
   ],
   "tv2DNy": [
     [
@@ -153844,6 +156319,9 @@
   "u0Go2s": [
     "Violar nossas políticas pode resultar em penalidades contra seu servidor, incluindo remoção do Descobrir."
   ],
+  "u0HAhn": [
+    "Compartilhe as vantagens Nitro, como uploads maiores e emojis animados."
+  ],
   "u0Ra/G": [
     "Tivemos a ideia para o Discord Nitro enquanto comíamos batatas."
   ],
@@ -153975,6 +156453,9 @@
       "appName"
     ],
     " Premium, que não está disponível para compra em dispositivos móveis."
+  ],
+  "u4QmWl": [
+    "Solicitação expirado"
   ],
   "u4RMWj": [
     [
@@ -154790,6 +157271,9 @@
   "uJAMFX": [
     "Ganhe Orbs"
   ],
+  "uJR+29": [
+    "uJR+29"
+  ],
   "uJWIj/": [
     "Continuar para o Discord"
   ],
@@ -155601,6 +158085,14 @@
   "uexPgT": [
     "Servidores populares de educação"
   ],
+  "ueza5l": [
+    "Ative o compartilhamento de atividade para ajudar a desbloquear este ranking. É necessário que pelo menos ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membros do servidor compartilhem sua atividade de jogo."
+  ],
   "ufBaba": [
     "Resgatar um Pacote Grátis até ",
     [
@@ -155853,6 +158345,9 @@
     ],
     " para verificar sua idade antes de sua conta ser desligada. Confira seu e-mail para instruções como verificarr sua idade."
   ],
+  "ukdP2q": [
+    "ukdP2q"
+  ],
   "ukdxuo": [
     "Nome"
   ],
@@ -156005,6 +158500,24 @@
       1,
       "gameName"
     ]
+  ],
+  "unVTUQ": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " venceu a competição desta semana com ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de jogo."
   ],
   "unamused": [
     "aff",
@@ -156429,6 +158942,28 @@
   "uyVrTN": [
     "Título da postagem"
   ],
+  "uytDvV": [
+    "Recompensa de código de uso único. Expira ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Sujeito a termos e condições."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "uyuIeg": [
     "Prepare seu servidor para o Descobrir"
   ],
@@ -156741,7 +159276,7 @@
     " comentário(s) positivo(s)"
   ],
   "v5a81e": [
-    "Reivindicar recompensa"
+    "Resgatar recompensa"
   ],
   "v6/z28": [
     "Não é possível excluir esta fonte de pagamento enquanto você tiver uma assinatura Nitro."
@@ -157513,6 +160048,9 @@
   "vRSCKv": [
     "Nitro Diamante"
   ],
+  "vRw5lm": [
+    "Você não pode entrar neste servidor por causa da sua faixa etária."
+  ],
   "vRzp7P": [
     "Silenciar servidor"
   ],
@@ -157622,6 +160160,9 @@
   ],
   "vWkIII": [
     "As mensagens não lidas de todos os seus canais não silenciados vão aparecer aqui. É hora de zerar sua caixa de entrada!"
+  ],
+  "vX6Vdt": [
+    "vX6Vdt"
   ],
   "vX7xid": [
     "Será agendado de ",
@@ -159796,6 +162337,9 @@
       "name"
     ]
   ],
+  "wFVx8N": [
+    "wFVx8N"
+  ],
   "wFWO6D": [
     [
       8,
@@ -159954,6 +162498,9 @@
   "wK78Qv": [
     "Você escolheu ignorar esta solicitação de mensagem. Deseja bloquear este usuário e evitar receber futuras mensagens dele?"
   ],
+  "wK7qQT": [
+    "wK7qQT"
+  ],
   "wKJfIg": [
     [
       6,
@@ -159975,6 +162522,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "wKXLfQ": [
+    "Os três melhores"
   ],
   "wKaVLC": [
     "Avaliar o seu presente"
@@ -161030,6 +163580,9 @@
       ]
     ]
   ],
+  "wkUDRj": [
+    "wkUDRj"
+  ],
   "wkYAlz": [
     "Nenhum"
   ],
@@ -161188,6 +163741,9 @@
   ],
   "wo3D3T": [
     "Aproveite descontos incríveis em qualquer - ou todos! - os itens na Loja. Apenas com Nitro."
+  ],
+  "woAZeh": [
+    "woAZeh"
   ],
   "woMjLV": [
     "Verificar seu número de telefone."
@@ -162148,6 +164704,9 @@
   "wvX+eD": [
     "Rubi"
   ],
+  "wvbB3Z": [
+    "Personalize a lista de amigos"
+  ],
   "wve4kg": [
     "Configurações de usuário (Permissão especial de versão: ",
     [
@@ -162752,6 +165311,9 @@
   "x41/Vw": [
     "Novo lançamento"
   ],
+  "x411uf": [
+    "x411uf"
+  ],
   "x4hbeZ": [
     "E-mail verificado necessário."
   ],
@@ -162882,6 +165444,9 @@
       "modKey"
     ],
     " +/-."
+  ],
+  "x9aorn": [
+    "Esta é a central de servidor"
   ],
   "x9at20": [
     "Obter jogo no Battle.net"
@@ -163511,6 +166076,27 @@
   "xKXcSu": [
     "Adicionar aos favoritos"
   ],
+  "xL7Cfe": [
+    "Ganhe seu primeiro ano de My Best Buy Plus™ (US$29,99) de graça. Receba ",
+    [
+      1,
+      "rewardPercentage"
+    ],
+    "% de volta em recompensas para pré-vendas selecionadas dos maiores jogos da temporada. ",
+    [
+      8,
+      "$link",
+      [
+        "Termos se aplicam."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "xLI+Hj": [
     "Você ainda pode desfrutar de uma recompensa para comemorar o ano:"
   ],
@@ -163639,11 +166225,14 @@
   "xO2msf": [
     "Da semana atual"
   ],
+  "xO5QzM": [
+    "Criar tag do servidor"
+  ],
   "xOE5bA": [
     "Notificações"
   ],
   "xOP5OP": [
-    "Você está por dentro"
+    "Você concluiu todos"
   ],
   "xOVEjc": [
     "Visível apenas para pessoas com acesso a este canal"
@@ -163968,6 +166557,9 @@
   "xUqheM": [
     "Desautorizar"
   ],
+  "xV2y1G": [
+    "xV2y1G"
+  ],
   "xV9hVh": [
     "Pasta do servidor"
   ],
@@ -164146,6 +166738,9 @@
   "xZkJAH": [
     "Este é o Nitro!"
   ],
+  "xZupEi": [
+    "Ver aviso"
+  ],
   "xZvFpA": [
     "Adicionar cargo"
   ],
@@ -164156,6 +166751,9 @@
     "ossos",
     "radiografia",
     "raio x"
+  ],
+  "xa55WX": [
+    "xa55WX"
   ],
   "xaCthD": [
     "Qual a sua obsessão atualmente?"
@@ -164212,6 +166810,14 @@
   "xbRNI3": [
     "Pessoas que você bloqueou ou ignorou estão aqui."
   ],
+  "xboFyi": [
+    "Insira o widget na posição ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " na coluna principal"
+  ],
   "xc+Psz": [
     "Ativar vídeo"
   ],
@@ -164238,6 +166844,9 @@
   ],
   "xcvy+3": [
     "Você removeu o seu voto"
+  ],
+  "xczAcS": [
+    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
@@ -165140,6 +167749,9 @@
   "xxvoAr": [
     "Escolha um som de notificação personalizado"
   ],
+  "xyCJYs": [
+    "Não foi possível atualizar o quadro branco. Tente novamente."
+  ],
   "xyE+Dn": [
     "É uma combinação!"
   ],
@@ -165321,6 +167933,9 @@
   ],
   "y1Wu2f": [
     "seu/sua parça"
+  ],
+  "y1neEe": [
+    "Conecte o Spotify e ajude a gerar estatísticas de música no seu servidor"
   ],
   "y29JXs": [
     "Membros do servidor"
@@ -165799,6 +168414,76 @@
   ],
   "yGTLxP": [
     "O convite não é mais válido"
+  ],
+  "yGqf0D": [
+    "por ",
+    [
+      8,
+      "memberCountHook",
+      [
+        [
+          6,
+          "memberCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " membro"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " membros"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " em ",
+    [
+      8,
+      "artistCountHook",
+      [
+        [
+          6,
+          "artistCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " artista"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " artistas"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " esta semana. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Em alta"
+        ],
+        "down": [
+          "Em baixa"
+        ],
+        "other": []
+      }
+    ]
   ],
   "yGyaIC": [
     "Contagem de caracteres"
@@ -166885,6 +169570,9 @@
   "ygslb0": [
     "Parar de tocar"
   ],
+  "yh5MKj": [
+    "yh5MKj"
+  ],
   "yhEXX7": [
     [
       2,
@@ -167417,6 +170105,9 @@
   ],
   "ytiENm": [
     "Remover imagem"
+  ],
+  "ytlaCY": [
+    "Último na pasta"
   ],
   "ytoXKr": [
     "Rede"
@@ -168800,6 +171491,90 @@
   "zUUbBM": [
     "Camarões"
   ],
+  "zUiZPF": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ],
+            [
+              [
+                1,
+                "username2OnClick"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " e ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " outra pessoa"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " outras pessoas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " estão usando o quadro branco."
+  ],
   "zUjL+R": [
     "Assine o Nitro e tenha acesso a mais de 50 jogos de PC e console com o Xbox Game Pass. ",
     [
@@ -169068,6 +171843,9 @@
   "zcKE8W": [
     "App de dispositivo móvel do Xbox instalado"
   ],
+  "zcOQPR": [
+    "zcOQPR"
+  ],
   "zcZtrU": [
     "Personalize insígnias"
   ],
@@ -169285,6 +172063,9 @@
   "zhfXbs": [
     "Sua candidatura está pendente!"
   ],
+  "zi28x1": [
+    "Luta em equipe (TF)"
+  ],
   "ziB0HF": [
     "Jogue ",
     [
@@ -169428,6 +172209,9 @@
       ]
     ]
   ],
+  "zleX9q": [
+    "Adicionar texto ou imagem"
+  ],
   "zlvNOj": [
     "Automático (segue as configurações do sistema)"
   ],
@@ -169515,6 +172299,9 @@
       "c",
       []
     ]
+  ],
+  "zn/uBN": [
+    "zn/uBN"
   ],
   "zn8/AX": [
     "Ícone"
