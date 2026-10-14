@@ -2271,9 +2271,6 @@
   "+sXN3T": [
     "Discord gali išfiltruoti žinutes su brukalu. Šios žinutės keliauja į brukalo aplanką."
   ],
-  "+sdglm": [
-    "Pralaimėjimas"
-  ],
   "+smCv9": [
     "Garsų grotuvo vietos"
   ],
@@ -7279,6 +7276,9 @@
       "recipient"
     ],
     " galės mėgautis Nitro. Tau neblogai sekasi, gal nori išsiųsti dar kam nors?"
+  ],
+  "0gqEHu": [
+    "Nusiųsk 2 savaites su serverių stiprinimais, tinkintais profiliais ir kt."
   ],
   "0gtbE8": [
     "Peržiūrėti balsą"
@@ -12395,6 +12395,23 @@
       0,
       "cardinal"
     ]
+  ],
+  "2nw1yD": [
+    "Taip padovanosi 2 savaites su tinkintais profiliais, didesnių failų įkėlimais ir kt. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Pasiektas suplanuotų žinučių limitas. Įsigyk ",
@@ -26814,9 +26831,6 @@
   "892qg1": [
     "Turi"
   ],
-  "89CDAj": [
-    "Elemento pirkimas"
-  ],
   "89CimT": [
     "Pasirink, ką matysi, kai įkeltoje arba susietoje medijoje gali būti neskelbtino turinio. ",
     [
@@ -29537,9 +29551,6 @@
   ],
   "94JbM3": [
     "Pranešti apie problemas"
-  ],
-  "94Kji7": [
-    "Žaidimas prasidėjo"
   ],
   "94QqkS": [
     "Atsiuntė vaizdą atskleidžiamojo turinio kanale"
@@ -33320,13 +33331,6 @@
   ],
   "AjBsPe": [
     "Visas ekranas (išskirtinis)"
-  ],
-  "AjNN1/": [
-    "Nužudė drakonas ",
-    [
-      1,
-      "drakeName"
-    ]
   ],
   "AjdEvM": [
     "Animuotų AVIF paveikslėlių negalima keisti, jie bus įkelti tokie, kokie yra."
@@ -40262,13 +40266,6 @@
   "DUD+5n": [
     "Serverio žymė"
   ],
-  "DUQK8U": [
-    "Pavogė drakonas ",
-    [
-      1,
-      "drakeName"
-    ]
-  ],
   "DUT5IC": [
     "Maksimalus failo dydis yra ",
     [
@@ -40924,6 +40921,22 @@
   ],
   "DrgnS+": [
     "Perki dovaną."
+  ],
+  "DrjI2v": [
+    "Netrukus gausi daugiau. Jei norisi ką nors padovanoti, visada gali padovanoti Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Pranešimą Nusiuntė ",
@@ -46468,6 +46481,9 @@
       ]
     ],
     ", kuris (-ie) seka šį kanalą. Šį pranešimą gali redaguoti arba pašalinti vėliau. Atitinkamai jis bus atnaujintas kiekviename sekančiame serveryje."
+  ],
+  "GCMMir": [
+    "Matai draugą? Pasidalyk Nitro prenumerata"
   ],
   "GCNMM8": [
     "Funkcijos Push to talk atleidimo delsa"
@@ -57205,6 +57221,9 @@
   "KXYLmI": [
     "Nežinoma kameros klaida"
   ],
+  "KXbhzo": [
+    "Palepink jį (ją) su Nitro"
+  ],
   "KXcEC9": [
     "Tvarkyti vaidmenis"
   ],
@@ -59572,6 +59591,13 @@
   ],
   "LVh3/5": [
     "Pridėti duomenis"
+  ],
+  "LVlgM4": [
+    "Padovanok Nitro ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Padovanoti ",
@@ -65457,6 +65483,9 @@
   ],
   "NkeB4/": [
     "Pagal nutylėjimą, žinutė bus išsiųsta paspaudus enter klavišą."
+  ],
+  "NkgMIP": [
+    "Padovanok 2 savaites su Nitro ir ryškesnėmis, sklandesnėmis transliacijomis, profilio pranašumais ir kt."
   ],
   "NkshQt": [
     "Anglis"
@@ -71996,9 +72025,6 @@
   ],
   "QO7rO6": [
     "Paleisti"
-  ],
-  "QOC6N4": [
-    "Šuolio atstatymas"
   ],
   "QOQlWa": [
     "Bandant nuskaityti kažkas nepavyko."
@@ -81061,6 +81087,9 @@
   ],
   "TyMJwC": [
     "Šio boto nariai negalės naudoti tol, kol įjungsi leidimus."
+  ],
+  "TyRCCM": [
+    "Užkabink draugus ir tapk grupinio pokalbio MVP."
   ],
   "TyUdka": [
     "Atsinaujink rodomą vardą, naudodamas (-a) naujus šriftus ir efektus. Tik su Nitro."
@@ -94287,6 +94316,9 @@
   "Z2MWuH": [
     "Nustatyti šią vietą kaip numatytąją"
   ],
+  "Z2Ri4D": [
+    "Atsidaryk bet kada ir peržiūrėk, kas prisijungę ir ką veikia."
+  ],
   "Z2Y4c9": [
     "Klausytojas"
   ],
@@ -94387,6 +94419,9 @@
       ]
     ],
     ", kad galėtum greitai pasiekti."
+  ],
+  "Z3LquY": [
+    "Peržiūrėk draugų veiklą"
   ],
   "Z3Vn/X": [
     "Kokį turi beprasmiškiausią talentą?"
@@ -94674,6 +94709,9 @@
   ],
   "ZBjOVT": [
     "Paliesk du kartus, kad paleistum arba trumpam sustabdytum."
+  ],
+  "ZBuqcM": [
+    "Padovanojai visus bandomuosius laikotarpius"
   ],
   "ZC3PJ2": [
     "Atmesti viską"
@@ -106199,9 +106237,6 @@
     "skrybėlė",
     "veidas"
   ],
-  "cp+kpc": [
-    "Aukštesnis lygis"
-  ],
   "cpFumO": [
     "Sveikiname!"
   ],
@@ -109708,6 +109743,9 @@
   "dzGILG": [
     "Baigti registraciją"
   ],
+  "dzQxHq": [
+    "Siųsti bandomąjį laikotarpį"
+  ],
   "dzbET7": [
     "Bus tikrinama, ar visose žinutėse nėra nepadorių vaizdų."
   ],
@@ -111496,9 +111534,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Atgijimas"
   ],
   "ebojgD": [
     "Taip, įskaičiuokite ir mane!"
@@ -120583,9 +120618,6 @@
   ],
   "hlDSV2": [
     "Nėra gautų prašymų draugauti"
-  ],
-  "hlOYoA": [
-    "Žaidimas baigėsi"
   ],
   "hlS2xq": [
     "LoFi"
@@ -135158,6 +135190,9 @@
   "n/Vzkw": [
     "Discord niekada neprašo slaptažodžio arba paskyros žetono."
   ],
+  "n/a182": [
+    "Bendrinti HD"
+  ],
   "n/aoIB": [
     "AŽ brukalo filtras (Beta versija)"
   ],
@@ -148318,6 +148353,14 @@
   "rdCyA/": [
     "Tikrinamas kelias"
   ],
+  "rdh1ou": [
+    "Padėk ",
+    [
+      1,
+      "recipientName"
+    ],
+    " transliuoti HD formatu"
+  ],
   "rdhx0q": [
     "Privalai patvirtinti savo el. paštą per 1 dieną, kad išsaugotum savo naudotojo vardą."
   ],
@@ -148564,9 +148607,6 @@
   ],
   "rhBeKe": [
     "Tavo gimimo data"
-  ],
-  "rhDbuQ": [
-    "žaidimas"
   ],
   "rhY1Rs": [
     [
@@ -150229,6 +150269,27 @@
   "s8TEkh": [
     "Nėra grupinių AŽ, kurias galima išvalyti"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " turi 10 dienų priimti bandomąjį laikotarpį – jei to nepadarys, jis bus tau grąžintas. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinoti daugiau"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Pradėti sceną"
   ],
@@ -151422,9 +151483,6 @@
   ],
   "saLMWc": [
     "Jungtis be įėjimo garso"
-  ],
-  "saS9BW": [
-    "Pralaimėjimas"
   ],
   "saZaRb": [
     "Baigti sceną"
@@ -154335,6 +154393,14 @@
   ],
   "tJp+QV": [
     "Pasimokyk iš kitų naudotojus monetizuojančių serverių"
+  ],
+  "tJvaQ8": [
+    "Nusiųsk ",
+    [
+      1,
+      "recipientName"
+    ],
+    " 2 savaites su tinkintais profiliais, temomis ir kt."
   ],
   "tJzB6F": [
     "Rodomas ne tas žaidimas"
@@ -158297,36 +158363,6 @@
   ],
   "uexPgT": [
     "Populiarūs lavinimo serveriai"
-  ],
-  "ueza5l": [
-    "Įjunk veiklos bendrinimą, kad padėtum atrakinti šią lyderių lentelę. Reikia, kad žaidimo veiklą bendrintų bent ",
-    [
-      6,
-      "memberCount",
-      {
-        "one": [
-          [
-            7
-          ],
-          " serverio narys"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " serverio nariai"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " serverio narių"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
   ],
   "ufBaba": [
     "Atsiimk nemokamą paketą iki ",
@@ -166964,9 +167000,6 @@
   ],
   "xcvy+3": [
     "Savo balsą panaikinai"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"

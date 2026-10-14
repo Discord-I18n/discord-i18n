@@ -1624,6 +1624,51 @@
   "+a5G2l": [
     "No disponible"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "+aRmAc": [
     "Inicia otro servidor de juego"
   ],
@@ -3446,6 +3491,40 @@
       "subscriptionName"
     ],
     ", perderás estas ventajas al final de tu periodo de facturación actual:"
+  ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "/K2RDH": [
     "Ver menos emojis"
@@ -18871,6 +18950,40 @@
   ],
   "5D/KEH": [
     "Tipo de suscripción"
+  ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "5DFcVl": [
     "Anualmente, el ",
@@ -37148,6 +37261,51 @@
   "CHXHFX": [
     "No está funcionando"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "CHa0vN": [
     "Producto no disponible"
   ],
@@ -40331,9 +40489,6 @@
   ],
   "DpZNJw": [
     "¡Ups! Algo salió mal."
-  ],
-  "DpZqVj": [
-    "Activar Clips automáticos"
   ],
   "Dpm2U1": [
     "El audio se entrecortaba constantemente"
@@ -44158,23 +44313,6 @@
     ],
     " + impuestos aplicables (Cancelación pendiente)"
   ],
-  "FSFi1k": [
-    "Obtén un 20% de descuento durante tus próximos 6 meses de YouTube Premium. ",
-    [
-      8,
-      "$link",
-      [
-        "Se aplican condiciones"
-      ],
-      [
-        [
-          1,
-          "helpCenterUrl"
-        ]
-      ]
-    ],
-    "."
-  ],
   "FSHHAe": [
     "Svalbard y Jan Mayen"
   ],
@@ -46183,9 +46321,6 @@
   ],
   "GHZfIJ": [
     "Elige un estilo de regalo y personaliza tu mensaje."
-  ],
-  "GHtnoW": [
-    "Consigue una oferta increíble con Nitro"
   ],
   "GHwBy5": [
     [
@@ -60891,9 +61026,6 @@
       1,
       "recipient"
     ]
-  ],
-  "MJ/VsO": [
-    "Detecta momentos que vale la pena convertir en clips durante tu sesión. Se ejecuta completamente en tu dispositivo."
   ],
   "MJHFt9": [
     "Adjunto del mensaje, ",
@@ -75775,6 +75907,9 @@
   "SI7R9I": [
     "Anima tus emojis"
   ],
+  "SI8PNw": [
+    "Crear una"
+  ],
   "SIHRfH": [
     "¡Estás a ",
     [
@@ -78152,6 +78287,9 @@
   ],
   "TDjKDm": [
     "Restablecer avatar"
+  ],
+  "TE+uDu": [
+    "Échale un vistazo"
   ],
   "TEEYwa": [
     "Vendedor mejor calificado"
@@ -80714,22 +80852,6 @@
   ],
   "UCuHM8": [
     "Ajustes de la cuenta para adolescentes"
-  ],
-  "UCzGcQ": [
-    "Detecta momentos que valen la pena grabar durante tu sesión. Se ejecuta completamente en tu dispositivo. ",
-    [
-      8,
-      "$link",
-      [
-        "Más información"
-      ],
-      [
-        [
-          1,
-          "learnMoreLink"
-        ]
-      ]
-    ]
   ],
   "UD5nn5": [
     [
@@ -87429,9 +87551,6 @@
       []
     ],
     " de inactividad."
-  ],
-  "WnnzG7": [
-    "Selecciona la cantidad de regalos"
   ],
   "Wnojv1": [
     "Ayuda a detectar archivos multimedia basados en imágenes que pueden contener material sexual explícito o sugerente para adultos."
@@ -107245,6 +107364,63 @@
     ],
     " · Borrador"
   ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "dXC/hn": [
     "año"
   ],
@@ -110730,6 +110906,9 @@
   "ec5Rdd": [
     "10 horas para jugar en la nube por mes"
   ],
+  "ecPCdG": [
+    "Membresía My Best Buy Plus"
+  ],
   "ecTJkR": [
     "Marcos de perfil"
   ],
@@ -111691,6 +111870,63 @@
   "exRczv": [
     "Tenía problemas de rendimiento"
   ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "exclamation": [
     "↑↑↑"
   ],
@@ -112130,6 +112366,46 @@
   ],
   "f6RTAM": [
     "LISTO"
+  ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Activo hace >30 d"
@@ -123381,9 +123657,6 @@
       "source"
     ]
   ],
-  "j29uJx": [
-    "Activar la grabación automática de clips"
-  ],
   "j29zCr": [
     "No puedes iniciar actividades en este canal."
   ],
@@ -133329,6 +133602,46 @@
   "mgsmfY": [
     "Este flujo se ha desactivado mediante las herramientas del desarrollador"
   ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "mhUrKS": [
     "Antes de que puedas usar el centro familiar, necesitamos verificar tu edad para que tengas una experiencia adecuada. Solo te la preguntaremos una vez."
   ],
@@ -134297,9 +134610,6 @@
   ],
   "mwJJ+f": [
     "Salir del grupo"
-  ],
-  "mwOvZQ": [
-    "Llegó una nueva recompensa de Nitro"
   ],
   "mwVXnI": [
     "Continuar sin respaldo"
@@ -138272,23 +138582,6 @@
   ],
   "oMNyYN": [
     "Cambiar cuentas"
-  ],
-  "oMk0zq": [
-    "Obtén un 20% de descuento durante tus próximos 6 meses de YouTube Premium. ",
-    [
-      8,
-      "$link",
-      [
-        "Se aplican condiciones"
-      ],
-      [
-        [
-          1,
-          "helpCenterUrl"
-        ]
-      ]
-    ],
-    "."
   ],
   "oMx98L": [
     "Empleado de Discord"
@@ -162948,9 +163241,6 @@
       "helpCenterLink"
     ],
     ")"
-  ],
-  "wUpqua": [
-    "Requiere que la grabación de clips esté activada."
   ],
   "wVBHr0": [
     "Subsistema de audio"

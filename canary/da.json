@@ -2183,9 +2183,6 @@
   "+sXN3T": [
     "Discord kan filtrere nogle beskeder ud, der indeholder spam. Disse beskeder går til din spam-indbakke."
   ],
-  "+sdglm": [
-    "Nedtur"
-  ],
   "+smCv9": [
     "Soundboard-plads"
   ],
@@ -7084,6 +7081,9 @@
       "recipient"
     ],
     " mulighed for at prøve Nitro. Det kører for dig, hvad med at sende en mere?"
+  ],
+  "0gqEHu": [
+    "Send 2 uger er med serverboosts, brugerdefinerede profiler og meget mere."
   ],
   "0gtbE8": [
     "Få forhåndsvisning af Tale"
@@ -12141,6 +12141,23 @@
       0,
       "cardinal"
     ]
+  ],
+  "2nw1yD": [
+    "De får 2 uger med brugerdefinerede profiler, større filuploads og meget mere. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Grænsen for antal planlagte beskeder er nået. Få ",
@@ -26225,9 +26242,6 @@
   "892qg1": [
     "Har"
   ],
-  "89CDAj": [
-    "Varekøb"
-  ],
   "89CimT": [
     "Vælg, hvad du vil se, når uploadet eller linket media kan indeholde følsomt indhold. ",
     [
@@ -28884,9 +28898,6 @@
   ],
   "94JbM3": [
     "Rapporter problemer"
-  ],
-  "94Kji7": [
-    "Spillet startede"
   ],
   "94QqkS": [
     "Sendte et billede i en spoiler-kanal"
@@ -32665,13 +32676,6 @@
   ],
   "AjBsPe": [
     "Fuldskærm (eksklusiv)"
-  ],
-  "AjNN1/": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake dræbt"
   ],
   "AjdEvM": [
     "Animerede AVIF-billeder kan ikke ændres og vil blive uploadet, som de er."
@@ -39313,13 +39317,6 @@
   "DUD+5n": [
     "Server-tag"
   ],
-  "DUQK8U": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake stjålet"
-  ],
   "DUT5IC": [
     "Max filstørrelse er ",
     [
@@ -39994,6 +39991,22 @@
   ],
   "DrgnS+": [
     "Du er i gang med at købe en gave."
+  ],
+  "DrjI2v": [
+    "Der kommer snart flere. Hvis du føler dig gavmild, kan du altid give Nitro i gave. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Anmeld besked postet af ",
@@ -45473,6 +45486,9 @@
       ]
     ],
     " der følger denne kanal. Du kan redigere eller slette denne besked senere, og den vil blive opdateret på hver af følgende servere."
+  ],
+  "GCMMir": [
+    "Kan du se en ven? Del Nitro"
   ],
   "GCNMM8": [
     "Tryk-og-tal udløs forsinkelse"
@@ -55980,6 +55996,9 @@
   "KXYLmI": [
     "Ukendt kamerafejl"
   ],
+  "KXbhzo": [
+    "Giv dem Nitro"
+  ],
   "KXcEC9": [
     "Administrer roller"
   ],
@@ -58233,6 +58252,13 @@
   ],
   "LVh3/5": [
     "Tilføj oplysninger"
+  ],
+  "LVlgM4": [
+    "Del Nitro med ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Giv ",
@@ -63998,6 +64024,9 @@
   ],
   "NkeB4/": [
     "Som standard vil eksterne tastaturer sende en besked ved tryk på Enter."
+  ],
+  "NkgMIP": [
+    "Del 2 uger med Nitro med skarpere streams, der kører glat, samt profilfordele og meget mere."
   ],
   "NkshQt": [
     "Trækul"
@@ -70527,9 +70556,6 @@
   ],
   "QO7rO6": [
     "Åbn"
-  ],
-  "QOC6N4": [
-    "Tryk på nulstil"
   ],
   "QOQlWa": [
     "Der gik noget galt under scanningen."
@@ -79401,6 +79427,9 @@
   ],
   "TyMJwC": [
     "Medlemmer kan ikke bruge denne bot, før du slår tilladelser til."
+  ],
+  "TyRCCM": [
+    "Vær god mod dine venner, og bliv gruppechattens MVP."
   ],
   "TyUdka": [
     "Giv dit viste navn et nyt look med nye skrifttyper og effekter. Kun med Nitro."
@@ -92426,6 +92455,9 @@
   "Z2MWuH": [
     "Gør dette til mit standardsted"
   ],
+  "Z2Ri4D": [
+    "Gå på når som helst for at se, hvem der er online, og hvad de har gang i."
+  ],
   "Z2Y4c9": [
     "Lytter"
   ],
@@ -92526,6 +92558,9 @@
       ]
     ],
     " for at få hurtigere adgang."
+  ],
+  "Z3LquY": [
+    "Se venneaktivitet"
   ],
   "Z3Vn/X": [
     "Hvad er det mest ubrugelige talent, du har?"
@@ -92802,6 +92837,9 @@
   ],
   "ZBjOVT": [
     "Tryk to gange for at afspille eller sætte på pause."
+  ],
+  "ZBuqcM": [
+    "Du har delt alle dine prøveperioder"
   ],
   "ZC3PJ2": [
     "Afvis alle"
@@ -104125,9 +104163,6 @@
     "cowgirl",
     "hat"
   ],
-  "cp+kpc": [
-    "Gå et niveau op"
-  ],
   "cpFumO": [
     "Tillykke!"
   ],
@@ -107491,6 +107526,9 @@
   "dzGILG": [
     "Afslut tilmelding"
   ],
+  "dzQxHq": [
+    "Send prøveperiode"
+  ],
   "dzbET7": [
     "Alle meddelelser bliver filtreret for eksplicitte billeder."
   ],
@@ -109265,9 +109303,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Start igen"
   ],
   "ebojgD": [
     "Ja, jeg er med!"
@@ -118219,9 +118254,6 @@
   ],
   "hlDSV2": [
     "Ingen indkommende venneanmodninger"
-  ],
-  "hlOYoA": [
-    "Spillet er slut"
   ],
   "hlS2xq": [
     "LoFi-vibes"
@@ -132673,6 +132705,9 @@
   "n/Vzkw": [
     "Discord vil aldrig bede dig om dit kodeord eller din konto-token."
   ],
+  "n/a182": [
+    "Del HD"
+  ],
   "n/aoIB": [
     "Direkte besked-spamfilter, beta"
   ],
@@ -145586,6 +145621,14 @@
   "rdCyA/": [
     "Tjekker rute"
   ],
+  "rdh1ou": [
+    "Hjælp ",
+    [
+      1,
+      "recipientName"
+    ],
+    " med at streame i HD"
+  ],
   "rdhx0q": [
     "Du skal bekræfte din e-mailadresse om 1 dag for at beholde dit brugernavn."
   ],
@@ -145801,9 +145844,6 @@
   ],
   "rhBeKe": [
     "Din fødselsdag"
-  ],
-  "rhDbuQ": [
-    "et spil"
   ],
   "rhY1Rs": [
     [
@@ -147444,6 +147484,27 @@
   "s8TEkh": [
     "Ingen gruppe-DM'er at rydde op i"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " har 10 dage til at acceptere prøveperioden, før den returneres til dig. ",
+    [
+      8,
+      "$link",
+      [
+        "Få mere at vide"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Startpodie"
   ],
@@ -148619,9 +148680,6 @@
   ],
   "saLMWc": [
     "Deltag uden tilslutningslyd"
-  ],
-  "saS9BW": [
-    "Nedtur"
   ],
   "saZaRb": [
     "Afslut podie"
@@ -151434,6 +151492,14 @@
   ],
   "tJp+QV": [
     "Lær af andre indtægtsgivende servere"
+  ],
+  "tJvaQ8": [
+    "Send ",
+    [
+      1,
+      "recipientName"
+    ],
+    " 2 uger med brugerdefinerede profiler, temaer og mere."
   ],
   "tJzB6F": [
     "Forkert spil vises"
@@ -155345,14 +155411,6 @@
   ],
   "uexPgT": [
     "Populære uddannelsesservere"
-  ],
-  "ueza5l": [
-    "Slå aktivitetsdeling til for at låse op for denne rangliste. Der skal være mindst ",
-    [
-      2,
-      "memberCount"
-    ],
-    " servermedlemmer, der deler deres spilaktivitet."
   ],
   "ufBaba": [
     "Hent et gratis bundt med ",
@@ -163952,9 +164010,6 @@
   ],
   "xcvy+3": [
     "Du har fjernet din stemme"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"

@@ -93,6 +93,9 @@
   "+18gq6": [
     "Nu pot da clic pe joc"
   ],
+  "+1CM/5": [
+    "Luptă de echipă câștigată"
+  ],
   "+1H47t": [
     "Opțiuni"
   ],
@@ -326,6 +329,9 @@
   "+6eRyq": [
     "Momentan nu există avantaje deblocate"
   ],
+  "+7+Hvl": [
+    "Citește mesajele de pe serverele tale"
+  ],
   "+78Pfm": [
     "Raportează"
   ],
@@ -378,6 +384,9 @@
   ],
   "+9QSnj": [
     "Recente"
+  ],
+  "+9TbTS": [
+    "+9TbTS"
   ],
   "+9XKWu": [
     "https://discord.gg/example"
@@ -1146,6 +1155,9 @@
   "+O9Asn": [
     "Eroare la plată"
   ],
+  "+OEqVQ": [
+    "Construiește-ți propriul hub al serverului"
+  ],
   "+OURPp": [
     "Absolut! Boost-urile pentru server sunt un mod grozav de a-ți susține serverele favorite. Când stimulezi un server, primești o pictogramă specială cu lista membrilor, un rol de boosting și o insignă de profil."
   ],
@@ -1622,6 +1634,51 @@
   "+a5G2l": [
     "Indisponibil"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    ", cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi de joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile de joc"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "+aRmAc": [
     "Lansează un alt server de jocuri"
   ],
@@ -1681,6 +1738,19 @@
   ],
   "+cGVV6": [
     "Folosite frecvent"
+  ],
+  "+cSvS8": [
+    "Poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " din ",
+    [
+      1,
+      "positionCount"
+    ],
+    " în coloana principală"
   ],
   "+caQHK": [
     "Schimbă categoria"
@@ -1992,6 +2062,9 @@
   ],
   "+o4Q7e": [
     "Ia măsuri"
+  ],
+  "+oFzYq": [
+    "+oFzYq"
   ],
   "+oNl6x": [
     "Dând clic pe „Accept”, ești de acord cu ",
@@ -2534,6 +2607,44 @@
     ],
     "."
   ],
+  "+z+JUw": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    ", ",
+    [
+      1,
+      "c"
+    ],
+    " și încă ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " persoane"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+z5dYe": [
     "Asociază-ți contul din cadrul jocului pentru a continua"
   ],
@@ -2743,6 +2854,14 @@
   ],
   "/1mWUn": [
     "Total Nitro Orbs câștigate:"
+  ],
+  "/272et": [
+    "Ai câștigat clasamentul de gaming din săptămâna trecută cu un timp total de joc de ",
+    [
+      1,
+      "minutes"
+    ],
+    "m."
   ],
   "/2Gnoa": [
     "Descriere imagine (Alt Text)"
@@ -3036,6 +3155,9 @@
   ],
   "/8WWvE": [
     "Te alături ca"
+  ],
+  "/8cdWl": [
+    "/8cdWl"
   ],
   "/8czH4": [
     "Invitație de a asculta împreună pe ",
@@ -3400,6 +3522,40 @@
     ],
     ", vei pierde următoarele avantaje la sfârșitul perioadei curente de facturare:"
   ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi de joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile de joc"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "/K2RDH": [
     "Vezi mai puține emojiuri"
   ],
@@ -3558,6 +3714,9 @@
   "/OpRAP": [
     "Deblochează-ți contul"
   ],
+  "/OtM0k": [
+    "Adaugă widgeturi în această coloană."
+  ],
   "/OywGQ": [
     "Actualizează-ți numele"
   ],
@@ -3585,6 +3744,9 @@
   ],
   "/PgrpK": [
     "Prietenii mei sunt de treabă în mod normal."
+  ],
+  "/Pkxmw": [
+    "Ultimul din categorie"
   ],
   "/Q4HRN": [
     "Anual"
@@ -3862,6 +4024,30 @@
   "/UyK0d": [
     "Guineea"
   ],
+  "/VAMco": [
+    "Ai câștigat clasamentul de gaming din săptămâna trecută cu ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc unic"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri unice"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "/VNqdD": [
     "Setările implicite ale server-ului"
   ],
@@ -3973,6 +4159,20 @@
   "/YzI63": [
     "Fără acces"
   ],
+  "/ZJIuo": [
+    "Îți place acest sunet? Nitro îți permite să folosești sunetele din ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " oriunde."
+  ],
   "/ZNT+0": [
     "Eliminarea avatarului a eșuat. Încearcă din nou mai târziu."
   ],
@@ -4018,6 +4218,9 @@
   "/b/DU7": [
     "Ai amuțit serverul"
   ],
+  "/b1eZT": [
+    "Grupează prietenii din canalele vocale"
+  ],
   "/b5nqj": [
     "Avatar resetat"
   ],
@@ -4060,6 +4263,9 @@
   ],
   "/bX4Jn": [
     "Link de invitație personalizat"
+  ],
+  "/bZ+Av": [
+    "Prietenii din același canal de voce vor fi grupați împreună"
   ],
   "/bd0Qv": [
     "Modificările se salvează automat."
@@ -4299,6 +4505,22 @@
   "/jUd2+": [
     "Nu s-a putut trimite mesajul, pentru că serverul a atins numărul maxim de postări. Eliberează spațiu arhivând o postare."
   ],
+  "/jdd/7": [
+    "Acest emoji provine dintr-un pachet de emojiuri Nitro. Se află în Beta și este disponibil doar pentru anumiți membri Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Află mai multe."
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "/jubeD": [
     "Creează un tag"
   ],
@@ -4494,6 +4716,9 @@
   "/nmBUl": [
     "Nou: sincronizarea contrastului"
   ],
+  "/nma+a": [
+    "Clasamentul se actualizează zilnic"
+  ],
   "/o1IfA": [
     "Mergi la altă instituție? ",
     [
@@ -4658,6 +4883,17 @@
   ],
   "/sYelW": [
     "pe #galerie"
+  ],
+  "/sw0JL": [
+    [
+      1,
+      "widgetName"
+    ],
+    ": ",
+    [
+      1,
+      "viewName"
+    ]
   ],
   "/tGlcj": [
     "Fișierele tale sunt prea puternice"
@@ -4909,6 +5145,9 @@
   ],
   "0+11FF": [
     "Treci la următorul nivel în măiestria emojiurilor"
+  ],
+  "0+5+Oy": [
+    "Pachete de emojiuri Nitro"
   ],
   "0+5B2Q": [
     "Discută citate minunate din istoria literaturii"
@@ -5496,6 +5735,9 @@
       []
     ]
   ],
+  "0BwmBU": [
+    "0BwmBU"
+  ],
   "0CEP6e": [
     "Overlay informații stream"
   ],
@@ -5836,6 +6078,9 @@
   ],
   "0JFpRW": [
     "Obține conținut care se poate descărca sau roluri speciale"
+  ],
+  "0JLdD3": [
+    "Mesaje de sistem din hubul serverului"
   ],
   "0JMZdz": [
     "A eliminat Înlocuire regiune"
@@ -7147,6 +7392,9 @@
       ]
     ]
   ],
+  "0kWTS7": [
+    "0kWTS7"
+  ],
   "0ki7+P": [
     "Înțeleg că eliminarea conexiunii cu contul acestui adolescent îmi va revoca accesul la informațiile despre activitatea sa pe Discord."
   ],
@@ -8103,6 +8351,9 @@
   "16SG+O": [
     "Ajustează setările personale pentru video și voce"
   ],
+  "16VZdD": [
+    "16VZdD"
+  ],
   "16aguo": [
     [
       8,
@@ -8754,6 +9005,9 @@
       ]
     ]
   ],
+  "1MXXPf": [
+    "Succes"
+  ],
   "1MYPH0": [
     "Încearcă Nitro timp de ",
     [
@@ -9265,6 +9519,13 @@
   "1bX7Tx": [
     "Abonamentul tău Nitro"
   ],
+  "1bt50t": [
+    "Ultima actualizare: ",
+    [
+      1,
+      "timestamp"
+    ]
+  ],
   "1c+xwT": [
     "Super stickere"
   ],
@@ -9300,6 +9561,9 @@
       ]
     ],
     "."
+  ],
+  "1dd6Fx": [
+    "1dd6Fx"
   ],
   "1dqa3c": [
     "Vrei să crești în nivel? Activarea urmăririi ne ajută să ne asigurăm că experiențele tale sunt relevante și merită cu adevărat! Poți renunța oricând la această opțiune din setările iOS."
@@ -10397,6 +10661,9 @@
   "2Ab4Id": [
     "Când creezi un canal pentru anunțuri, profilul serverului tău devine vizibil și pentru utilizatorii care nu sunt membri ai serverului. Poți alege setările de confidențialitate pentru profil din Setările serverului > Profil."
   ],
+  "2AoJt6": [
+    "Adaugă widgeturile pe care serverul tău le va folosi cu adevărat."
+  ],
   "2Ap8sh": [
     "Coduri de verificare"
   ],
@@ -10807,6 +11074,20 @@
   ],
   "2IY4YN": [
     "Alertă raid"
+  ],
+  "2IbyWO": [
+    "Începe un nou clasament! Cine va avea cele mai multe zile de joc săptămâna asta? Până acum ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " e în frunte."
   ],
   "2J2mKJ": [
     "Alt motiv"
@@ -11565,6 +11846,19 @@
       ]
     ],
     " Discord."
+  ],
+  "2bu+0V": [
+    "Echipa ta a câștigat o luptă de echipă ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "2cHUti": [
     "Vezi codul"
@@ -12364,6 +12658,9 @@
   "2visC6": [
     "Copiază ID-ul categoriei"
   ],
+  "2vock0": [
+    "Permisiuni legate de cererile de prietenie"
+  ],
   "2vyz+N": [
     "Această denumire va apărea numai în favoritele tale."
   ],
@@ -12586,7 +12883,7 @@
     "să-mi ziceți dacă mai e nevoie de cineva în grup"
   ],
   "2zxYCx": [
-    "Eliminare"
+    "Elimină"
   ],
   "3+LO1w": [
     "Postări mai vechi"
@@ -12609,6 +12906,9 @@
   ],
   "3+rPki": [
     "Membrilor li se cere să accepte regulamentul serverului pentru a putea vorbi."
+  ],
+  "3/DOFo": [
+    "Se actualizează zilnic, afișând ultimele 7 zile"
   ],
   "3/IlR0": [
     "Accesează setările"
@@ -12860,6 +13160,12 @@
   ],
   "35G2Mq": [
     "Setări overlay"
+  ],
+  "35nXwl": [
+    "35nXwl"
+  ],
+  "35vxnc": [
+    "Acest articol nu este momentan disponibil pentru achiziție."
   ],
   "36/RiT": [
     "Modificări ale comisioanelor creatorilor"
@@ -13904,6 +14210,9 @@
       ]
     ]
   ],
+  "3RgAlG": [
+    "Luptă de echipă câștigată"
+  ],
   "3Ru2/x": [
     "Acest sunet este de pe unul dintre serverele tale. Abonează-te la Nitro pentru a-l putea folosi oriunde."
   ],
@@ -14117,6 +14426,19 @@
   "3Uuql+": [
     "Am ales câteva canale cu multă activitate."
   ],
+  "3Uwmdt": [
+    "Mai multe opțiuni, insignă ",
+    [
+      1,
+      "position"
+    ],
+    ", ",
+    [
+      1,
+      "badgeName"
+    ],
+    ", ascunsă"
+  ],
   "3VG9s1": [
     "Se descarcă — ",
     [
@@ -14194,6 +14516,9 @@
   ],
   "3WoZBc": [
     "Gaming"
+  ],
+  "3Wq/bk": [
+    "3Wq/bk"
   ],
   "3WzxLT": [
     "Aspect redimensionare tastatură iOS"
@@ -14384,6 +14709,26 @@
       "regularPrice"
     ],
     "."
+  ],
+  "3ZnaZH": [
+    "3ZnaZH"
+  ],
+  "3Zq6FM": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " și ",
+    [
+      1,
+      "c"
+    ]
   ],
   "3Zypbv": [
     "Scoate aplicația într-o fereastră separată"
@@ -15057,6 +15402,9 @@
   "3oUE4o": [
     "Confirmă-ți vârsta"
   ],
+  "3oxlia": [
+    "Durata minimă de afișare a notificărilor"
+  ],
   "3p3/BK": [
     "Ai fost invitat să te alături unui grup de mesaje directe"
   ],
@@ -15285,6 +15633,9 @@
   ],
   "3v8kZH": [
     "Creează un tag pentru a ajuta membrii să-și organizeze postările în subcategorii. Maximum 20 de caractere."
+  ],
+  "3vALem": [
+    "3vALem"
   ],
   "3vPFQi": [
     "Nu mai afișa"
@@ -15562,6 +15913,9 @@
   ],
   "40EZaQ": [
     "Înscrie-te"
+  ],
+  "40J/QC": [
+    "40J/QC"
   ],
   "40R63o": [
     "Nu s-a putut verifica vârsta"
@@ -15899,6 +16253,13 @@
   "493lwX": [
     "Mai lent"
   ],
+  "49Jv0I": [
+    "Activează partajarea pentru a contribui la ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "49d6Nd": [
     "Activitate vocală prioritară"
   ],
@@ -16140,6 +16501,9 @@
   ],
   "4IaoCI": [
     "Filtrează toate"
+  ],
+  "4IdR/H": [
+    "4IdR/H"
   ],
   "4J2PYL": [
     "modă"
@@ -16520,6 +16884,9 @@
   "4TOv0j": [
     "Mac, mac!"
   ],
+  "4TphyY": [
+    "Insignă specială Nitro pe profil"
+  ],
   "4TuWfc": [
     "Postează pe"
   ],
@@ -16894,6 +17261,9 @@
       "username"
     ],
     " te-a invitat la chat"
+  ],
+  "4aaADG": [
+    "4aaADG"
   ],
   "4ahTBl": [
     "3. Alege un emoji"
@@ -17813,7 +18183,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului."
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului."
   ],
   "4yUkw4": [
     "Spune ce gândești cu o limită mai mare de caractere, de la ",
@@ -17839,6 +18209,9 @@
   ],
   "4yfIDk": [
     "Vezi starea cererii"
+  ],
+  "4yhYGq": [
+    "4yhYGq"
   ],
   "4yiU7x": [
     "Articol în joc"
@@ -17882,6 +18255,9 @@
   "5+2s+R": [
     "Această setare este aplicată atunci când te alături unui server nou. Nu se aplică retroactiv la serverele tale existente."
   ],
+  "5+Btln": [
+    "5+Btln"
+  ],
   "5+LPUW": [
     "Te rugăm să-ți actualizezi informațiile de plată, altfel abonamentul va expira pe ",
     [
@@ -17910,6 +18286,9 @@
       ]
     ],
     "."
+  ],
+  "5+MmpT": [
+    "5+MmpT"
   ],
   "5+RznI": [
     "Deblochează avantajele pentru server"
@@ -18363,6 +18742,13 @@
   "5AelkX": [
     "Să începem"
   ],
+  "5AjG8l": [
+    [
+      1,
+      "minutes"
+    ],
+    " m"
+  ],
   "5AkWAd": [
     "Hopa! Se pare că ți-a fost interzis accesul. Nu vei mai putea să te alături sau să interacționezi cu acest server."
   ],
@@ -18562,6 +18948,40 @@
   ],
   "5D/KEH": [
     "Tip abonament"
+  ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc unic jucat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri unice jucate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "5DFcVl": [
     "Anual pe ",
@@ -21120,6 +21540,9 @@
   "6Ecyts": [
     "Verifică-ți e-mailul, pentru că ți-am trimis un link de autentificare"
   ],
+  "6Ej9W0": [
+    "Fișiere externe"
+  ],
   "6EjGUv": [
     "Comută transcrierea"
   ],
@@ -21266,6 +21689,9 @@
   ],
   "6HXiuE": [
     "Nu s-a găsit niciun rezultat"
+  ],
+  "6Hm8C/": [
+    "6Hm8C/"
   ],
   "6HqDfT": [
     [
@@ -21561,6 +21987,13 @@
   ],
   "6RIwPI": [
     "Nu ai permisiunile necesare pentru a exclude acest utilizator."
+  ],
+  "6RMLFY": [
+    "S-a adăugat ",
+    [
+      1,
+      "packName"
+    ]
   ],
   "6RTdZA": [
     "Ți-ai pus abonamentul Nitro pe pauză până pe ",
@@ -21913,6 +22346,18 @@
   "6Y1t5P": [
     "Problemă de streaming"
   ],
+  "6Y8H0A": [
+    [
+      1,
+      "hours"
+    ],
+    "o ",
+    [
+      1,
+      "minutes"
+    ],
+    "m în total"
+  ],
   "6Y9q8d": [
     "Cum a luat naștere serverul tău și ce anume face echipa ta să fie deosebită?"
   ],
@@ -22193,6 +22638,9 @@
   "6dtcuZ": [
     "Treci cu degetul peste filă pentru a activa LaunchPad"
   ],
+  "6duFnE": [
+    "6duFnE"
+  ],
   "6dwqo0": [
     "Adaugă un beneficiu"
   ],
@@ -22219,6 +22667,9 @@
   ],
   "6eNTWe": [
     "Nu îl poți folosi cât timp acesta este dezactivat."
+  ],
+  "6ePRRb": [
+    "6ePRRb"
   ],
   "6eXLcJ": [
     "Afișează detaliile canalului"
@@ -22528,6 +22979,12 @@
         ]
       ]
     ]
+  ],
+  "6mcVBm": [
+    "Pachete noi de emojiuri cu Nitro"
+  ],
+  "6mh541": [
+    "Discord are probleme cu conectarea la apel."
   ],
   "6miRmw": [
     "Folosește boosturi pentru a debloca o temă personalizată care să dea pe spate pe oricine intră."
@@ -23577,6 +24034,9 @@
   "79MgMO": [
     "Imagine avatar"
   ],
+  "79eRJG": [
+    "79eRJG"
+  ],
   "79o/iq": [
     "Spune-ne ce joc ar trebui să fie aici"
   ],
@@ -23650,6 +24110,9 @@
   ],
   "7CrE9w": [
     "Fă-i și tu cu mâna"
+  ],
+  "7CrlYb": [
+    "Niciun joc jucat până acum"
   ],
   "7Ct0Dj": [
     "Spune-ne despre experiența ta cu procesul de raportare."
@@ -24187,6 +24650,9 @@
     ],
     " din lista de dorințe"
   ],
+  "7SqAzW": [
+    "7SqAzW"
+  ],
   "7SxW32": [
     "Trimisă ieri"
   ],
@@ -24346,6 +24812,28 @@
   ],
   "7WwLnr": [
     "Previzualizează"
+  ],
+  "7X+3f8": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " redare"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " redări"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "7XAuyg": [
     "Această invitație la ",
@@ -24767,6 +25255,48 @@
   ],
   "7hB4kg": [
     "Servere"
+  ],
+  "7hHUIS": [
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " redare"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " redări"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    ", ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "cu trend ascendent"
+        ],
+        "down": [
+          "cu trend descendent"
+        ],
+        "other": []
+      }
+    ]
   ],
   "7hRBmC": [
     "Previzualizarea decorațiunii pentru avatar: Nu este aplicată niciuna"
@@ -25630,6 +26160,9 @@
   "7yaXr8": [
     "Obține o decorațiune gratuită"
   ],
+  "7ycqkx": [
+    "7ycqkx"
+  ],
   "7ymzsL": [
     "Confirmă grupa de vârstă"
   ],
@@ -25813,6 +26346,14 @@
   ],
   "8105aL": [
     "Prea ușor"
+  ],
+  "81PK67": [
+    "E nevoie de cel puțin cel puțin ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membri ai serverului care să-și partajeze activitatea de gaming pentru a activa un clasament."
   ],
   "81cYn8": [
     "Noul folder trebuie să includă cel puțin două servere."
@@ -26328,6 +26869,9 @@
   "8HW7r9": [
     "Profilul tău per-server conține cuvinte nepermise."
   ],
+  "8Hux/D": [
+    "Conținutul și setările destinate adulților nu sunt disponibile. În rest, Discord funcționează la fel. Dacă nu este corect, confirmă-ți statutul de adult din setări."
+  ],
   "8Hvr3+": [
     "Fișiere"
   ],
@@ -26613,6 +27157,35 @@
   "8MMHYG": [
     "Acest produs nu va fi vizibil pentru membri până nu-l publici."
   ],
+  "8MO3bp": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    ", cu un timp de joc de ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
+  ],
   "8MPCVr": [
     "Nu mă interesează..."
   ],
@@ -26650,6 +27223,9 @@
       1,
       "timeAgo"
     ]
+  ],
+  "8NcF1k": [
+    "8NcF1k"
   ],
   "8O+nF7": [
     "Confirmă-ți noua adresă de e-mail"
@@ -26696,6 +27272,9 @@
       ]
     ],
     " Discord Orbs"
+  ],
+  "8Ow7Xi": [
+    "Confirmă-ți vârsta pentru a te alătura acestui server."
   ],
   "8Ox6/E": [
     "Overlay-ul vechi nu este disponibil pe acest sistem."
@@ -26903,6 +27482,9 @@
   ],
   "8UcxI6": [
     "Recuperarea contului"
+  ],
+  "8VEUZZ": [
+    "8VEUZZ"
   ],
   "8VG6IY": [
     "Copiază ID-ul tagului"
@@ -27137,6 +27719,9 @@
     ],
     " și altele"
   ],
+  "8ZSAWa": [
+    "8ZSAWa"
+  ],
   "8ZcEfj": [
     "Culori"
   ],
@@ -27157,6 +27742,9 @@
   ],
   "8a7IrV": [
     "URL-ul punctului de acces pentru autentificare a fost înregistrat"
+  ],
+  "8aHNu0": [
+    "Cel mai mult timp petrecut jucând"
   ],
   "8aJzT4": [
     "Verifică"
@@ -27243,6 +27831,9 @@
   ],
   "8c4CMX": [
     "Overlay-ul este dezactivat, deoarece clientul tău nu acceptă noul overlay."
+  ],
+  "8cGmXF": [
+    "8cGmXF"
   ],
   "8cjmTj": [
     "Mesajul tău este prea lung"
@@ -27398,6 +27989,9 @@
   ],
   "8fPiB3": [
     "Schimbările produsului au fost salvate."
+  ],
+  "8fQe3x": [
+    "Ultimul din listă"
   ],
   "8fUsYw": [
     "Editează canalul recomandat"
@@ -28173,6 +28767,28 @@
   "8w1tIR": [
     "Vorbește"
   ],
+  "8wD0Un": [
+    [
+      6,
+      "boostPrice",
+      {
+        "one": [
+          [
+            7
+          ],
+          " boost"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " boost-uri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8wXU9B": [
     "Nu mai ignora"
   ],
@@ -28209,6 +28825,9 @@
   ],
   "8xy99I": [
     "Orientarea: un mod mai bun de a acorda roluri"
+  ],
+  "8y885d": [
+    "Partajează-ți activitatea ca să intri în clasament."
   ],
   "8yEgvE": [
     "Sondajul „",
@@ -28401,6 +29020,9 @@
   ],
   "90bIv9": [
     "Importă"
+  ],
+  "90jVsn": [
+    "Prichindei"
   ],
   "91DEhs": [
     "Reducere de ",
@@ -28936,6 +29558,14 @@
     ],
     " a fost dezactivat de un administrator"
   ],
+  "9Ctu9P": [
+    "Adaugă widget: plasează widgetul pe poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " în coloana principală"
+  ],
   "9Cx+xL": [
     "Poți tasta /gif + orice pentru a găsi GIF-uri cu tema respectivă!"
   ],
@@ -29031,6 +29661,9 @@
       "names"
     ],
     ", marcate ca favorite"
+  ],
+  "9FItmd": [
+    "Cine are cele mai multe zile de joc?"
   ],
   "9FaEzi": [
     "Într-un apel"
@@ -29997,6 +30630,9 @@
       "user"
     ]
   ],
+  "9l5u6A": [
+    "Partajează când încep un stream"
+  ],
   "9l87Ih": [
     "Nitro anual ",
     [
@@ -30055,6 +30691,9 @@
       1,
       "activityName"
     ]
+  ],
+  "9mGSVS": [
+    "9mGSVS"
   ],
   "9mg7g1": [
     "Valuri curcubeu"
@@ -30137,6 +30776,9 @@
   "9p3D9p": [
     "Salvează mesajul în favorite"
   ],
+  "9paF2r": [
+    "Baze de date"
+  ],
   "9ph2v7": [
     "Actualizează-ți profilul per-server ca să participi la discuțiile acestei comunități."
   ],
@@ -30171,6 +30813,9 @@
   ],
   "9qaNva": [
     "2 boost-uri pentru server, limită de încărcare de 500 MB și nu numai!"
+  ],
+  "9qpRrY": [
+    "Primul din folder"
   ],
   "9rInzW": [
     "Este timpul să alegi: ceva dulce sau o mică răutate? Dăruiește Nitro în octombrie și alege o decorațiune înfricoșător de tare pentru avatar, pe care poți s-o păstrezi."
@@ -30421,6 +31066,9 @@
   "9tdsDk": [
     "Original"
   ],
+  "9tlK5J": [
+    "Whiteboard"
+  ],
   "9ty6yc": [
     "Marchează ca nefiind spam"
   ],
@@ -30666,6 +31314,9 @@
   ],
   "A+Fv0R": [
     "Copiază linkul canalului"
+  ],
+  "A+HRrQ": [
+    "Cine a petrecut cel mai mult timp jucând?"
   ],
   "A+I0AP": [
     "Restituit"
@@ -31080,6 +31731,9 @@
   "A8uk5J": [
     "Extrem de negative"
   ],
+  "A95Fzm": [
+    "Mută în..."
+  ],
   "A9P+dT": [
     [
       1,
@@ -31178,6 +31832,9 @@
   ],
   "ACjbTk": [
     "Widget"
+  ],
+  "ACmeFn": [
+    "ACmeFn"
   ],
   "ACyI83": [
     "Alătură-te apelului"
@@ -31290,7 +31947,7 @@
     "Ramificaţie coordonatoare"
   ],
   "AHwDIp": [
-    "Dă-le putere precomenzilor tale"
+    "Fă-ți precomenzile mai puternice"
   ],
   "AI1ZZr": [
     [
@@ -32485,6 +33142,9 @@
   "AlbZaI": [
     "Creează un canal de voce"
   ],
+  "Alcf2G": [
+    "Citește mesajele care te menționează"
+  ],
   "Alcl/e": [
     "Hai să-ți personalizăm experiența"
   ],
@@ -33052,6 +33712,48 @@
   "AzBLIP": [
     "Du-mă la Nitro"
   ],
+  "AzIhRB": [
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " membru care a ascultat"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " membri care au ascultat"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " săptămâna aceasta. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "În creștere"
+        ],
+        "down": [
+          "În scădere"
+        ],
+        "other": []
+      }
+    ]
+  ],
   "AzTwiu": [
     "Acțiuni tag forum"
   ],
@@ -33235,6 +33937,9 @@
   "B33GXN": [
     "Serverele de joc au nevoie de boosturi pentru a funcționa. Contribuie cu un boost pentru a lansa un server de joc aici."
   ],
+  "B39UTK": [
+    "Conectează-ți contul Spotify"
+  ],
   "B3OfL/": [
     "Servere de jocuri"
   ],
@@ -33332,7 +34037,7 @@
   ],
   "B5tZXw": [
     [
-      1,
+      2,
       "orbAmount"
     ],
     " Orbs revendicate în total"
@@ -33444,15 +34149,15 @@
   "B8Fxns": [
     "Obține ",
     [
-      1,
-      "orbAmount"
-    ],
-    [
       8,
       "orbIconHook",
       [
         "orbIcon"
       ]
+    ],
+    [
+      1,
+      "orbAmount"
     ],
     " Orbs"
   ],
@@ -33972,6 +34677,14 @@
   "BLqYQa": [
     "Editează metoda de plată"
   ],
+  "BLuvck": [
+    "Trebuie să existe cel puțin ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membri ai serverului care să-și partajeze activitatea de ascultare pe Spotify pentru a activa muzica în trend."
+  ],
   "BLyDvO": [
     "Fă streaming la ",
     [
@@ -34064,6 +34777,9 @@
     ],
     " înainte să expire astăzi."
   ],
+  "BNSdWl": [
+    "Personalizabil"
+  ],
   "BNZj9F": [
     "Poți oricând să-l schimbi din nou din ",
     [
@@ -34095,6 +34811,9 @@
   ],
   "BOjr7t": [
     "Numai moderatorii de podium care au permisiunea de invita membri pot face podiumul public."
+  ],
+  "BP//Ot": [
+    "Creează un hub al serverului pentru tine și toți prietenii tăi, unic și doar al vostru."
   ],
   "BP8N0K": [
     "+ încă ",
@@ -34422,6 +35141,9 @@
     ],
     "!"
   ],
+  "BWpoSf": [
+    "BWpoSf"
+  ],
   "BWqf0c": [
     "Timp rămas: ",
     [
@@ -34598,6 +35320,9 @@
   "BayiAo": [
     "Setări de confidențialitate"
   ],
+  "BayuQI": [
+    "BayuQI"
+  ],
   "BbESsg": [
     "Activitate vocală avansată"
   ],
@@ -34734,6 +35459,14 @@
   ],
   "Be8Q5E": [
     "ディスコード dezactivat"
+  ],
+  "BeCUHZ": [
+    "Activează fiecare setare pentru a contribui la ",
+    [
+      1,
+      "widgetName"
+    ],
+    ". Aceste opțiuni pot fi modificate oricând din Setări."
   ],
   "BegylZ": [
     "Activează integrarea ",
@@ -35822,6 +36555,9 @@
     ],
     " o săptămâna asta"
   ],
+  "C0CzoH": [
+    "C0CzoH"
+  ],
   "C0JUEt": [
     "Obține un pachet pentru profil Nitro în ediție limitată! Îl poți folosi cu Nitro. Revendică-l până pe ",
     [
@@ -36464,6 +37200,51 @@
   "CHXHFX": [
     "Nu funcționează"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    ", cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc unic jucat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri unice jucate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "CHa0vN": [
     "Produs indisponibil"
   ],
@@ -37031,6 +37812,9 @@
         ]
       ]
     ]
+  ],
+  "CZ3jxp": [
+    "Păstrează notificările pop-up pe ecran cel puțin atât timp. Cele care stau deja mai mult nu sunt afectate."
   ],
   "CZ7wvG": [
     "Înregistrează-te folosind o adresă de e-mail"
@@ -37733,6 +38517,9 @@
   "CunCMN": [
     "Alege un server"
   ],
+  "CunK+J": [
+    "Elimină bannerul"
+  ],
   "CuzcRY": [
     "Participare"
   ],
@@ -38085,6 +38872,9 @@
   "D1aU+h": [
     "Ia măsuri pentru a te proteja."
   ],
+  "D21l/y": [
+    "D21l/y"
+  ],
   "D29k16": [
     "Previzualizează o temă"
   ],
@@ -38405,6 +39195,17 @@
       "date"
     ]
   ],
+  "DC7gJB": [
+    [
+      1,
+      "fontName"
+    ],
+    " + ",
+    [
+      1,
+      "effectName"
+    ]
+  ],
   "DCHd/G": [
     "Dezactivează pagina de întâmpinare"
   ],
@@ -38485,6 +39286,9 @@
   ],
   "DFCVN+": [
     "Sunt de acord cu declarația Discord de renunțare la dreptul de retragere"
+  ],
+  "DFGogO": [
+    "DFGogO"
   ],
   "DFMPWS": [
     "Credit Nitro"
@@ -38676,6 +39480,9 @@
   ],
   "DMeO2X": [
     "Temă de profil"
+  ],
+  "DMie/y": [
+    "Partajează avantajele Nitro"
   ],
   "DMua5e": [
     "Guernsey"
@@ -38960,6 +39767,13 @@
   ],
   "DToW4e": [
     "Selectează o imagine"
+  ],
+  "DU+Rd+": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ]
   ],
   "DU0dy/": [
     "Încarcă emoji"
@@ -39308,6 +40122,13 @@
   "DdRizV": [
     "La începutul următoarei perioade de facturare, plata ți se va percepe prin metoda de plată specificată."
   ],
+  "DdzvGL": [
+    [
+      1,
+      "minutes"
+    ],
+    "m în total"
+  ],
   "De/Ni1": [
     "Ghilde"
   ],
@@ -39605,9 +40426,6 @@
   "DpZNJw": [
     "Ups... ceva nu a mers bine."
   ],
-  "DpZqVj": [
-    "Activează clipurile automate"
-  ],
   "Dpm2U1": [
     "S-a tot întrerupt sunetul"
   ],
@@ -39638,6 +40456,9 @@
   "DrEEC8": [
     "Înainte să poți sta de vorbă aici..."
   ],
+  "DrFdII": [
+    "DrFdII"
+  ],
   "DrNm/5": [
     "Notă: Acesta este un canal cu restricționare în funcție de vârstă."
   ],
@@ -39665,6 +40486,9 @@
   ],
   "DtFqEI": [
     "Această sursă de plată este nevalidă."
+  ],
+  "DtK5IG": [
+    "Vezi setul"
   ],
   "DtspPx": [
     "Creează un server"
@@ -40528,6 +41352,9 @@
   "EE+P0H": [
     "Invită în canalul de voce"
   ],
+  "EE/9VX": [
+    "EE/9VX"
+  ],
   "EEfce4": [
     "Editează un produs"
   ],
@@ -40764,6 +41591,12 @@
   "EMrUHQ": [
     "Selectează o platformă"
   ],
+  "EN+0gW": [
+    "Modifică imaginea bannerului"
+  ],
+  "EN7343": [
+    "EN7343"
+  ],
   "ENSuN3": [
     "Ai primit o invitație să joci"
   ],
@@ -40790,6 +41623,39 @@
       "ruleIndex"
     ],
     "."
+  ],
+  "EO8JM8": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " și încă ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " persoane"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "EOUqzM": [
     "Adaugă o imagine la linkul de invitație prin stimulare"
@@ -41283,6 +42149,34 @@
   "EXY1d8": [
     "Încălcarea regulilor serverului"
   ],
+  "EXaquk": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ],
+    " și încă ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " persoane"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "EYR1Fa": [
     "Imagine încărcată"
   ],
@@ -41770,6 +42664,9 @@
   ],
   "ElohwE": [
     "Spam potențial"
+  ],
+  "ElsrJC": [
+    "ElsrJC"
   ],
   "EluAd9": [
     "Tocmai s-a oprit din jucat"
@@ -43353,23 +44250,6 @@
     ],
     " + taxele aplicabile (anulare în curs)"
   ],
-  "FSFi1k": [
-    "Obține o reducere de 20% la următoarele tale 6 luni de YouTube Premium. ",
-    [
-      8,
-      "$link",
-      [
-        "Se aplică Termeni și Condiții"
-      ],
-      [
-        [
-          1,
-          "helpCenterUrl"
-        ]
-      ]
-    ],
-    "."
-  ],
   "FSHHAe": [
     "Svalbard și Jan Mayen"
   ],
@@ -43692,6 +44572,17 @@
       "username"
     ]
   ],
+  "Fb6oNP": [
+    [
+      1,
+      "text"
+    ],
+    " • ",
+    [
+      1,
+      "duration"
+    ]
+  ],
   "Fb8xx2": [
     [
       3,
@@ -43823,6 +44714,9 @@
   ],
   "FgMS6i": [
     "S-au dezactivat toate permisiunile cu risc!"
+  ],
+  "FgkyO+": [
+    "Acest emoji provine dintr-un pachet de emojiuri Nitro și se află momentan în Beta."
   ],
   "Fgs8fD": [
     "Vezi ",
@@ -44159,6 +45053,9 @@
     ],
     " sau una ulterioară."
   ],
+  "FsJVpa": [
+    "FsJVpa"
+  ],
   "FsP3VU": [
     "Încă nu există ascultători"
   ],
@@ -44176,6 +45073,9 @@
   ],
   "FshAeN": [
     "Răsfoiește"
+  ],
+  "FsyTKM": [
+    "FsyTKM"
   ],
   "FtKH49": [
     "Serverul nu are locuri de emojiuri disponibile!"
@@ -44249,6 +45149,13 @@
       "refillAmount"
     ],
     " săptămânal, acum cu Nitro."
+  ],
+  "FwKQxx": [
+    "Activitate nouă în #",
+    [
+      1,
+      "channelName"
+    ]
   ],
   "FwjP6W": [
     "Ai Nitro pentru încă ",
@@ -44659,6 +45566,13 @@
     ],
     "x pentru recompense când te abonezi la Nitro. Poți anula oricând."
   ],
+  "G5zCGV": [
+    "Deblochează ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "G6+XOT": [
     "Reducerea de ",
     [
@@ -45028,6 +45942,19 @@
   "GByLar": [
     "Setări sensibilitate de intrare"
   ],
+  "GC7N5H": [
+    "Ai câștigat clasamentul de gaming din săptămâna trecută cu un timp total de joc de ",
+    [
+      1,
+      "hours"
+    ],
+    "o ",
+    [
+      1,
+      "minutes"
+    ],
+    "m."
+  ],
   "GCEruV": [
     "Atinge de două ori pentru mai multe detalii"
   ],
@@ -45334,9 +46261,6 @@
   "GHZfIJ": [
     "Alege un stil de cadou și personalizează-ți mesajul."
   ],
-  "GHtnoW": [
-    "Obține o ofertă avantajoasă cu Nitro"
-  ],
   "GHwBy5": [
     [
       1,
@@ -45394,6 +46318,13 @@
       "cardinal"
     ],
     "."
+  ],
+  "GJ27pD": [
+    "Unele activități sunt momentan indisponibile în Brazilia. Detalii: ",
+    [
+      1,
+      "supportArticleUrl"
+    ]
   ],
   "GJAp3h": [
     "Gambia"
@@ -45548,6 +46479,9 @@
   ],
   "GN0uv6": [
     "Pornește sunetele"
+  ],
+  "GN6kqM": [
+    "Cache de cod"
   ],
   "GNDqtf": [
     "Dezactivat"
@@ -45985,6 +46919,9 @@
   ],
   "GX594D": [
     "Persoane"
+  ],
+  "GXDPol": [
+    "Cine a jucat cele mai multe jocuri unice?"
   ],
   "GXGNi3": [
     "leagueoflegends"
@@ -46948,6 +47885,9 @@
     ],
     " din favorite? Conversațiile din această categorie vor deveni necategorizate."
   ],
+  "GultYJ": [
+    "GultYJ"
+  ],
   "Gv/rQ6": [
     "Avatar animat și profiluri personalizate"
   ],
@@ -47357,6 +48297,9 @@
   "H2M13c": [
     "Următorul drop lunar de Orbs"
   ],
+  "H2NPrR": [
+    "Respinge „Partajează avantajele Nitro”"
+  ],
   "H2VdUX": [
     "Dă-i stil profilului tău cu un tag personalizat, un avatar animat și insigna exclusivă Nitro"
   ],
@@ -47545,7 +48488,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului. Revendică până pe ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului. Revendică până pe ",
     [
       3,
       "date",
@@ -47590,6 +48533,9 @@
   ],
   "H8O1TK": [
     "Ești pe punctul de a deschide acest link într-un browser extern. Vrei să continui?"
+  ],
+  "H8RhX0": [
+    "Cine e în fruntea clasamentului?"
   ],
   "H8Ri2Y": [
     "A marcat canalul ca restricționat în funcție de vârstă"
@@ -48399,6 +49345,19 @@
   "HTJ76H": [
     "Codurile nu se potrivesc"
   ],
+  "HTJgep": [
+    "Echipa ta a luptat ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "HTsycG": [
     "Deblochează Xbox Game Pass și nu numai cu Nitro"
   ],
@@ -48565,6 +49524,9 @@
       "name"
     ],
     " va dispărea din Biblioteca ta. Îl poți afișa din nou accesând pagina de setări a Bibliotecii de jocuri."
+  ],
+  "HXmZlY": [
+    "Poți personaliza aspectul și conținutul pentru a crea un hub al serverului unic pentru comunitatea ta."
   ],
   "HXu14O": [
     "6 abonamente Nitro. Un singur plan pentru tine și prietenii tăi."
@@ -49286,6 +50248,9 @@
   "HtTvXA": [
     "Surpriză, ai acum 2 săptămâni de Nitro"
   ],
+  "HtUpwy": [
+    "Vezi pachetele de emojiuri"
+  ],
   "HtVOdd": [
     "Video conectat"
   ],
@@ -49444,6 +50409,13 @@
   "HwUCns": [
     "Perioadă de probă activă"
   ],
+  "HwW3zP": [
+    "Mențiune în #",
+    [
+      1,
+      "channelName"
+    ]
+  ],
   "HwXoeC": [
     "Conectează-ți contul pentru a-ți partaja statisticile din joc, a debloca prietenii sincronizați și nu numai!"
   ],
@@ -49518,6 +50490,9 @@
   ],
   "HyGHj7": [
     "Transmite live pe Twitch"
+  ],
+  "HyZ4FE": [
+    "Dacă dai clic pe „Dezactivează”, fila hubului serverului nu va mai apărea pe acest server. O poți activa din nou oricând din Setările serverului."
   ],
   "HykynS": [
     "Schimbă decorațiunea pentru avatar"
@@ -49816,6 +50791,13 @@
     [
       1,
       "name"
+    ]
+  ],
+  "I4JiAQ": [
+    "Locul ",
+    [
+      1,
+      "rank"
     ]
   ],
   "I4SYUF": [
@@ -50293,6 +51275,9 @@
       "pageNumber"
     ]
   ],
+  "IGO+tx": [
+    "IGO+tx"
+  ],
   "IGS9mT": [
     "Iran"
   ],
@@ -50508,6 +51493,9 @@
     ],
     "  te adaugă din nou."
   ],
+  "IK1o83": [
+    "IK1o83"
+  ],
   "IKBvFl": [
     "Exemplu care arată un card de profil cu avatarul tău, numele de utilizator și o bulă de status care afișează: ",
     [
@@ -50598,6 +51586,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "IMqgs9": [
+    "Primul din listă"
   ],
   "IMtHBW": [
     "Trimite un mesaj atunci când a început o discuție vocală de grup."
@@ -50955,6 +51946,30 @@
       "listener_count"
     ],
     " ascultători"
+  ],
+  "IXdbVJ": [
+    "Ai câștigat clasamentul de gaming din săptămâna trecută cu ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " jucate."
   ],
   "IXk8Wz": [
     "Fișierele atașate pe care încerci să le trimiți nu sunt disponibile."
@@ -51365,6 +52380,9 @@
   "Ifb6XJ": [
     "Folosește o super-reacție"
   ],
+  "IfgLzT": [
+    "Niciun folder"
+  ],
   "Ifgxdy": [
     "Invitația expiră în ",
     [
@@ -51390,6 +52408,9 @@
   ],
   "IfqUEM": [
     "Moderator"
+  ],
+  "Ig1Waa": [
+    "Ig1Waa"
   ],
   "Ig6VDH": [
     "Popular în Magazin"
@@ -52421,6 +53442,9 @@
   "IzrZHz": [
     "Prețuri speciale și articole exclusive pentru membri în magazin"
   ],
+  "IzzWNM": [
+    "Prietenii cu activitate în desfășurare, în partea de sus"
+  ],
   "J+7D+E": [
     [
       1,
@@ -52466,6 +53490,9 @@
       1,
       "first"
     ]
+  ],
+  "J+drJN": [
+    "J+drJN"
   ],
   "J+vlIR": [
     "Deschide Magazinul"
@@ -52618,6 +53645,9 @@
   ],
   "J2wg+X": [
     "Aplicația Discord trebuie repornită pentru ca schimbarea să aibă efect. Vrei să o repornești acum?"
+  ],
+  "J3/JCl": [
+    "Magazinul de jocuri, alege o pagină a vitrinei"
   ],
   "J3/feu": [
     "Raportor de erori dezactivat"
@@ -53050,6 +54080,9 @@
     ],
     "."
   ],
+  "JHcSBI": [
+    "Cererile tale"
+  ],
   "JI7uhc": [
     "Reinventează-ți profilul cu decorațiunile pentru avatar"
   ],
@@ -53274,6 +54307,14 @@
         ]
       ]
     ]
+  ],
+  "JNgfIL": [
+    "Oferă-i lui ",
+    [
+      1,
+      "recipientName"
+    ],
+    " acces la avantaje Nitro extraordinare, cum ar fi profiluri personalizate, emojiuri animate și nu numai."
   ],
   "JNuK+L": [
     "Avertisment: date fiind specificațiile hardware-ului tău, activarea clipurilor poate afecta performanța jocului. ",
@@ -53763,6 +54804,9 @@
   ],
   "Je1FWC": [
     "Auroră"
+  ],
+  "JeFo7p": [
+    "Cele mai multe jocuri unice"
   ],
   "JeK1Wg": [
     "Joacă în mesajele directe"
@@ -54407,7 +55451,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
     [
       3,
       "date",
@@ -54943,6 +55987,9 @@
       "game"
     ]
   ],
+  "KHsJlD": [
+    "KHsJlD"
+  ],
   "KHsSWK": [
     "Ascunde setările avansate pentru voce"
   ],
@@ -55139,6 +56186,9 @@
   ],
   "KNhFgD": [
     "Previzualizarea serverului"
+  ],
+  "KO73KB": [
+    "Top ascultători"
   ],
   "KO88BS": [
     "Activități"
@@ -55694,8 +56744,14 @@
       ]
     ]
   ],
+  "KcOpCm": [
+    "Modifică hubul serverului"
+  ],
   "KccUI1": [
     "Un spectator se alătură"
+  ],
+  "KcdDyT": [
+    "Sfârșitul coloanei principale"
   ],
   "Kcdk7D": [
     "Minimum 72x72. Proporția 1:1. PNG, JPG"
@@ -55821,6 +56877,13 @@
   ],
   "Kd6OQc": [
     "Filtru pentru imagini explicite"
+  ],
+  "KddZZf": [
+    "Joacă timp de ",
+    [
+      1,
+      "duration"
+    ]
   ],
   "Kdt0Gb": [
     "Hei, o mică atenționare"
@@ -55974,6 +57037,9 @@
   ],
   "KgYvrZ": [
     "Cum să te conectezi"
+  ],
+  "KgeEtx": [
+    "Top melodii"
   ],
   "KhBgDR": [
     "Sigur vrei să anulezi un boost pentru server din inventar?"
@@ -56277,6 +57343,14 @@
   "Knf/f/": [
     "Politica de confidențialitate"
   ],
+  "Ko3a0+": [
+    "Partajează-ți activitatea de ascultare pe Spotify pentru a ajuta la deblocarea muzicii apreciate în trend. E nevoie de cel puțin ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membri ai serverului care să-și partajeze activitatea."
+  ],
   "KoFi0o": [
     "timp de ",
     [
@@ -56419,6 +57493,9 @@
   ],
   "KrLnkE": [
     "Rezumat activitate"
+  ],
+  "KrhX/b": [
+    "KrhX/b"
   ],
   "Ks2/3R": [
     "Trage un fișier și dă-i drumul sau ",
@@ -56751,6 +57828,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "L/NHOB": [
+    "L/NHOB"
   ],
   "L/PwZf": [
     "Link copiat!"
@@ -57209,6 +58289,9 @@
   ],
   "LBsB0a": [
     "Comenzile rapide funcționează atunci indici un articol care se poate glisa"
+  ],
+  "LBtPWQ": [
+    "LBtPWQ"
   ],
   "LC+S+m": [
     [
@@ -58013,6 +59096,13 @@
   "LbLP1c": [
     "Nicio problemă"
   ],
+  "LbNlZd": [
+    "S-a eliminat ",
+    [
+      1,
+      "packName"
+    ]
+  ],
   "LbPesa": [
     "Comută pentru a porni și opri overlay-ul."
   ],
@@ -58157,6 +59247,9 @@
   ],
   "LfeFFr": [
     "Dezactivează permisiunile cu risc pentru"
+  ],
+  "LfrGGR": [
+    "LfrGGR"
   ],
   "Lfs4r+": [
     "A schimbat numele din ",
@@ -59212,6 +60305,9 @@
   "M2TbbK": [
     "Nu ai servere în comun cu această aplicație."
   ],
+  "M2b74O": [
+    "Activează de trei ori coperta jocului Discord pentru mobil pentru a primi o surpriză"
+  ],
   "M2iEy3": [
     "Le permite membrilor să vizualizeze acest canal în mod implicit."
   ],
@@ -59849,9 +60945,6 @@
       "recipient"
     ]
   ],
-  "MJ/VsO": [
-    "Detectează în timp ce joci momentele care merită salvate sub formă de clipuri. Rulează numai pe dispozitivul tău."
-  ],
   "MJHFt9": [
     "Atașament mesaj, ",
     [
@@ -59874,7 +60967,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
     [
       3,
       "date",
@@ -60513,6 +61606,9 @@
   ],
   "MXsMRk": [
     "Mesajul programat a fost actualizat"
+  ],
+  "MXxbkw": [
+    "MXxbkw"
   ],
   "MY9/Oe": [
     "Jocul curent"
@@ -61194,6 +62290,9 @@
   "MpFE11": [
     "Aplicație (Limitată)"
   ],
+  "MpGzzH": [
+    "MpGzzH"
+  ],
   "MpO0px": [
     "Acceptă"
   ],
@@ -61584,6 +62683,9 @@
     ],
     "."
   ],
+  "N1P8Wp": [
+    "Caută în mesajele de pe serverele tale"
+  ],
   "N22i9F": [
     "Continuă să derulezi..."
   ],
@@ -61932,6 +63034,9 @@
   ],
   "N8hbZB": [
     "Alte reacții"
+  ],
+  "N8nJ+T": [
+    "Dă clic pe widgetul pe care vrei să-l adaugi în hubul serverului, apoi trage-l și plasează-l unde vrei."
   ],
   "N8tPFd": [
     "COMBO UAU ÎNCĂ MERGE 10K"
@@ -62897,6 +64002,13 @@
     ],
     " + taxele aplicabile"
   ],
+  "NV85DR": [
+    "Reordonează ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "NVDuUX": [
     "Activează întâi monetizarea!"
   ],
@@ -63536,6 +64648,9 @@
       "platformName"
     ]
   ],
+  "Nj8Y3C": [
+    "Aruncă o privire"
+  ],
   "NjEPp7": [
     "Sigur vrei să elimini acest mesaj fixat?"
   ],
@@ -64017,6 +65132,9 @@
   "Nusip4": [
     "Ascunde parola"
   ],
+  "NuujPd": [
+    "NuujPd"
+  ],
   "NuzmOA": [
     "Haide!"
   ],
@@ -64133,7 +65251,7 @@
     "Uptime de 99,9%"
   ],
   "NzvIo/": [
-    "Dă-le putere precomenzilor tale"
+    "Fă-ți precomenzile mai puternice"
   ],
   "NzxWjb": [
     "Reia configurarea server-ului"
@@ -64199,6 +65317,9 @@
   ],
   "O1c02q": [
     "Postări"
+  ],
+  "O1h3uU": [
+    "Vezi clasamentul"
   ],
   "O1iRT8": [
     "Încărcarea a eșuat"
@@ -64517,6 +65638,19 @@
   "O9MiXY": [
     "Secțiuni de marketing Nitro"
   ],
+  "O9RvHQ": [
+    "Poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " din ",
+    [
+      1,
+      "positionCount"
+    ],
+    " în coloana laterală"
+  ],
   "O9SQ1c": [
     "Alege din biblioteca de widget-uri ca să comunici mai multe despre tine și despre ce te interesează"
   ],
@@ -64569,6 +65703,9 @@
   ],
   "OBeYX/": [
     "0 minute în voce"
+  ],
+  "OBp3V3": [
+    "GIF, buton"
   ],
   "OBr7Cw": [
     "Opțiuni pentru canal"
@@ -64966,6 +66103,9 @@
   "OLf3xn": [
     "Nu poți edita produsul"
   ],
+  "OLs0Og": [
+    "OLs0Og"
+  ],
   "OLtTrt": [
     "Stiluri pentru numele afișat"
   ],
@@ -65249,6 +66389,9 @@
   ],
   "OTXyaf": [
     "Va trebui să te conectezi din nou la toate dispozitivele deconectate."
+  ],
+  "OTYC2K": [
+    "În continuă schimbare"
   ],
   "OTjRX9": [
     "trimisă pe ",
@@ -65708,6 +66851,9 @@
       ]
     ],
     " pentru a completa tranzacția."
+  ],
+  "OejyCi": [
+    "Urmează"
   ],
   "OervdV": [
     "Concentrare pe ",
@@ -66523,6 +67669,9 @@
   "OuPkvL": [
     "Vreau să iau temporar o pauză de la acest chat"
   ],
+  "OuZdlK": [
+    "OuZdlK"
+  ],
   "OukXZj": [
     "Cele mai vechi"
   ],
@@ -66561,6 +67710,9 @@
   ],
   "OvMyMd": [
     "Te afli în modul de testare al acestei aplicații și nu vei fi taxat."
+  ],
+  "OvTyCX": [
+    "Grupează după"
   ],
   "OvfBgA": [
     "Data selectată este nevalidă."
@@ -66995,6 +68147,29 @@
       [
         "Tocmai ai stimulat server-ul."
       ]
+    ]
+  ],
+  "P5JeeM": [
+    "Redat de ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " persoane"
+        ]
+      },
+      0,
+      "cardinal"
     ]
   ],
   "P5dSl0": [
@@ -67606,6 +68781,9 @@
   "PJgX2h": [
     "sticker"
   ],
+  "PJn0ih": [
+    "Activează fiecare setare pentru a contribui la clasament. Acestea pot fi modificate oricând din Setări."
+  ],
   "PJsjbP": [
     "A adăugat un emoji nou, ",
     [
@@ -67669,6 +68847,26 @@
   "PLcLdx": [
     "mi-ai auzit toate părerile controversate și ai rămas oricum prin preajmă"
   ],
+  "PLdF3A": [
+    "Începe un nou clasament! Cine va fi avea cele mai multe jocuri unice jucate săptămâna asta? Până acum ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " e în frunte."
+  ],
   "PLk3Na": [
     "Vrei să-ți petreci timpul și mai plăcut?"
   ],
@@ -67720,6 +68918,9 @@
   ],
   "PNIDDJ": [
     "Nu este permis conținutul obscen sau restricționat în funcție de vârstă. Aici se încadrează textele, imaginile sau linkurile care conțin nuditate, sex, violență sau orice alt conținut explicit deranjant."
+  ],
+  "PNMVaH": [
+    "PNMVaH"
   ],
   "PNX4NM": [
     "Pierzi boost-urile pentru server incluse, însă rămâi cu niște avantaje geniale. Poți schimba oricând la loc abonamentul."
@@ -67997,6 +69198,9 @@
       ]
     ]
   ],
+  "PSuly6": [
+    "Lansează Whiteboardul"
+  ],
   "PTHakm": [
     "Creează o parolă"
   ],
@@ -68193,6 +69397,13 @@
   ],
   "PXq9f1": [
     "Încărcări video"
+  ],
+  "PY1iDb": [
+    [
+      2,
+      "count"
+    ],
+    " în așteptare"
   ],
   "PY4MA0": [
     "Discord te-a plasat în grupa de vârstă Adult"
@@ -68955,6 +70166,13 @@
       "date"
     ]
   ],
+  "PuaR+2": [
+    "Timp rămas: ",
+    [
+      1,
+      "days"
+    ]
+  ],
   "Pueu11": [
     "Android va face tot posibilul pentru ca opțiunea aleasă să fie una potrivită pentru dispozitivul tău."
   ],
@@ -69607,6 +70825,9 @@
   "Q9OYlM": [
     "Nu te poți conecta la Serviciile Google Play. Așteaptă și încearcă din nou."
   ],
+  "Q9TKt6": [
+    "Primul din categorie"
+  ],
   "Q9zFy9": [
     "Acest server are propriul stil"
   ],
@@ -70022,6 +71243,9 @@
   "QNDtPC": [
     "Alege un canal"
   ],
+  "QNVdfH": [
+    "QNVdfH"
+  ],
   "QNWJsx": [
     "Susții companiile și studiourile de jocuri care se bazează pe reclame pentru a fi descoperite"
   ],
@@ -70198,6 +71422,9 @@
   "QQsaCc": [
     "Gratuit"
   ],
+  "QQsnUi": [
+    "QQsnUi"
+  ],
   "QQuxIc": [
     "Încearcă și tu!"
   ],
@@ -70230,6 +71457,9 @@
   ],
   "QT+Ai7": [
     "Se pare că nu ai îndeplinit încă misiunea care corespunde acestei recompense!"
+  ],
+  "QT3MNq": [
+    "QT3MNq"
   ],
   "QTHa8b": [
     "chiar în momentul ăsta"
@@ -70330,6 +71560,9 @@
   ],
   "QX14gI": [
     "Mai multe avantaje, mai multă distracție"
+  ],
+  "QX4H2E": [
+    "Ascunde notița"
   ],
   "QXGod1": [
     "Upgrade-uri puternice: limite mai mari de încărcare, banner pentru sever, pictograme pentru roluri personalizate și nu numai!"
@@ -70544,6 +71777,9 @@
   ],
   "QcJbt6": [
     "Deblochează mai multe locuri pentru stickere personalizate"
+  ],
+  "QcmgBF": [
+    "Permite membrilor cu care interacționezi cel mai des să primească o notificare când începi un stream pe servere mici."
   ],
   "Qd6w7T": [
     "Vrei să interzici accesul lui „",
@@ -70796,6 +72032,9 @@
   "QlyC9s": [
     "Setează o reacție implicită pentru postări"
   ],
+  "Qm57HT": [
+    "Luptă de echipă"
+  ],
   "Qm6K/s": [
     "Verifică-ți e-mail-ul"
   ],
@@ -71011,6 +72250,30 @@
   ],
   "QqTz8b": [
     "Vezi mai multe"
+  ],
+  "QqaqBg": [
+    "Ascultat ultima oară: ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ],
+    " de ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "artistName"
+        ]
+      ]
+    ]
   ],
   "Qql0Xs": [
     [
@@ -71644,6 +72907,9 @@
   "R4NVKG": [
     "A trimis un clip video într-un canal cu spoilere"
   ],
+  "R4kQz6": [
+    "R4kQz6"
+  ],
   "R4q5+y": [
     "Cu capul în nori"
   ],
@@ -72160,6 +73426,9 @@
   ],
   "RHP0kC": [
     "Descriere"
+  ],
+  "RHYx1k": [
+    "RHYx1k"
   ],
   "RHbfv9": [
     "Se face conexiunea la PayPal"
@@ -72802,6 +74071,12 @@
       "weekday"
     ]
   ],
+  "RYvRmE": [
+    "RYvRmE"
+  ],
+  "RYxWTS": [
+    "Top artiști"
+  ],
   "RZFCIj": [
     "Caută mesaje, oameni etc."
   ],
@@ -73099,6 +74374,9 @@
       "repliedAuthor"
     ]
   ],
+  "RhpNnh": [
+    "Ba dulce, ba cu pluta. Cu Nitro, emojiul perfect e acum la doar o atingere distanță."
+  ],
   "RhtzFe": [
     "Atașamente mesaj"
   ],
@@ -73112,6 +74390,9 @@
       "activityName"
     ],
     " pe un canal de voce"
+  ],
+  "Ri32sr": [
+    "Ri32sr"
   ],
   "Ri3o33": [
     "Ca să știi, ",
@@ -74521,6 +75802,9 @@
   "SI7R9I": [
     "Animează-ți emojiurile"
   ],
+  "SI8PNw": [
+    "Creează una"
+  ],
   "SIHRfH": [
     "Încă ",
     [
@@ -75372,6 +76656,18 @@
   ],
   "SZeUdR": [
     "Previzualizarea etichetei tale pentru nume în lista membrilor"
+  ],
+  "Sa+h68": [
+    [
+      1,
+      "hours"
+    ],
+    "o ",
+    [
+      1,
+      "minutes"
+    ],
+    "m"
   ],
   "SaD/LY": [
     "Autentifică-te cu codul tău"
@@ -76255,6 +77551,9 @@
   "SxsBFD": [
     "Ne poți da mai multe detalii?"
   ],
+  "Sxxqdx": [
+    "Whiteboard-ul este activ."
+  ],
   "Sy3qan": [
     "Filtrează mesajele de la membrii de pe server pe care nu îi cunoști."
   ],
@@ -76598,6 +77897,26 @@
   "T7AWtb": [
     "Server privat"
   ],
+  "T7CcFq": [
+    "Începe un nou clasament! Cine va juca cel mai mult săptămâna asta? Până acum ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " e în frunte."
+  ],
   "T7DUoU": [
     "Deconectează-te de la ",
     [
@@ -76624,6 +77943,9 @@
       ]
     ],
     ", deci ne-asigurăm că asta vrei."
+  ],
+  "T7WvbW": [
+    "T7WvbW"
   ],
   "T7aLYT": [
     "Ajută hub-ul studențesc pentru ",
@@ -76823,6 +78145,9 @@
       "numUsers"
     ]
   ],
+  "TCXgZL": [
+    "Confirmă-ți vârsta ca să te alături"
+  ],
   "TD+c21": [
     "Află mai multe"
   ],
@@ -76858,6 +78183,9 @@
   ],
   "TDjKDm": [
     "Resetează avatarul"
+  ],
+  "TE+uDu": [
+    "Încearcă și tu"
   ],
   "TEEYwa": [
     "Vânzător de top"
@@ -77049,6 +78377,9 @@
   ],
   "TLkoOt": [
     "Revino la cerințele standard, conform cărora cel puțin un canal implicit trebuie să fie disponibil pentru discuții."
+  ],
+  "TLlIGP": [
+    "TLlIGP"
   ],
   "TLnXx/": [
     "Se distruge"
@@ -77939,6 +79270,9 @@
   "TffOfY": [
     "Introdu un nume pentru firul tău"
   ],
+  "Tfkx5f": [
+    "Echipa Miau"
+  ],
   "TflqTe": [
     "Creează un server nou-nouț cu funcție de chat prin mesaje text și apeluri vocale pentru prietenii tăi!"
   ],
@@ -78600,6 +79934,9 @@
   "TummoQ": [
     "Primește o notificare cu 15 minute înainte ca Discord să devină indisponibil din cauza perioadei de inactivitate stabilită de un tutore."
   ],
+  "Tv4xyf": [
+    "Tv4xyf"
+  ],
   "TvBS1w": [
     "Ai verificat deja pe ",
     [
@@ -78651,6 +79988,9 @@
       ]
     ],
     " și să te asiguri că o respecți."
+  ],
+  "Tvdb5N": [
+    "Adaugă la selector"
   ],
   "TvxInQ": [
     "Contactele tale"
@@ -78902,6 +80242,14 @@
   ],
   "U0INks": [
     "Scoate sunetele de notificare bântuite din Setări utilizator."
+  ],
+  "U0SqHk": [
+    "Adaugă widget: plasează widgetul pe poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " în coloana laterală"
   ],
   "U0iMTj": [
     "Insula Crăciunului"
@@ -79271,6 +80619,28 @@
       "rank"
     ]
   ],
+  "UA8cNe": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " emoji"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " emojiuri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "UAJxZi": [
     "Membru"
   ],
@@ -79285,6 +80655,9 @@
   ],
   "UB03Ed": [
     "Serverul este temporar în modul de protecție împotriva raidurilor, ceea ce înseamnă că alăturările suspecte vor fi testate cu CAPTCHA și blocate."
+  ],
+  "UB21BJ": [
+    "UB21BJ"
   ],
   "UB2gG2": [
     "Comenzi integrate Discord"
@@ -79354,22 +80727,6 @@
   ],
   "UCuHM8": [
     "Setări cont adolescent"
-  ],
-  "UCzGcQ": [
-    "Detectează în timp ce joci momentele care merită salvate sub formă de clipuri. Rulează numai pe dispozitivul tău. ",
-    [
-      8,
-      "$link",
-      [
-        "Află mai multe"
-      ],
-      [
-        [
-          1,
-          "learnMoreLink"
-        ]
-      ]
-    ]
   ],
   "UD5nn5": [
     [
@@ -79618,6 +80975,9 @@
   "UL177t": [
     "Acordă temporar calitatea de membru"
   ],
+  "ULK65a": [
+    "Date insuficiente"
+  ],
   "ULSdnE": [
     "Pauză eliminată"
   ],
@@ -79736,6 +81096,9 @@
   "UPLpRV": [
     "Vezi setările"
   ],
+  "UPLtlA": [
+    "Nu ai permisiunea de a modifica accesul la Whiteboard."
+  ],
   "UPMwV8": [
     "Cel mai jucat joc"
   ],
@@ -79783,6 +81146,9 @@
       "name"
     ],
     " **"
+  ],
+  "UQT3/h": [
+    "Vezi detaliile sunetului"
   ],
   "UQbJW7": [
     "Oprește temporar mesajele directe noi, astfel încât să nu fie trimise între membri pe server. Prietenii își pot trimite în continuare mesaje directe, iar moderatorii și aplicațiile tale le pot trimite în continuare mesaje directe membrilor."
@@ -80014,6 +81380,9 @@
   "UV/Vtv": [
     "Ai combinații nesfârșite de culori pe care să le folosești cum simți tu. Încearcă-le acum!"
   ],
+  "UV17wE": [
+    "Am stabilit că faci parte din grupa de vârstă a adolescenților (13-17)"
+  ],
   "UVBA9g": [
     "Vrei să joci ",
     [
@@ -80056,6 +81425,9 @@
         "casa ta Nitro"
       ]
     ]
+  ],
+  "UVkUVk": [
+    "Caută în mesajele tale directe"
   ],
   "UVl5Hz": [
     "Previzualizează mesajele personalizate din cererile de prietenie primite"
@@ -80999,6 +82371,9 @@
   "UsD2YP": [
     "Utilizatorul nu mai este membru al acestui server."
   ],
+  "UsMdAK": [
+    "UsMdAK"
+  ],
   "UsOUxY": [
     "Adaugă an avatar animat, o temă de profil, o imagine pentru banner și nu numai."
   ],
@@ -81282,7 +82657,7 @@
     "Poți cumpăra abonamente la servere direct din aplicația iOS"
   ],
   "UzF3CN": [
-    "Dă-le putere precomenzilor tale"
+    "Fă-ți precomenzile mai puternice"
   ],
   "UzNv7u": [
     "Gata. Acum, partajează evenimentul!"
@@ -81563,6 +82938,9 @@
   "V5Qt9D": [
     "Joacă imediat"
   ],
+  "V5eNx6": [
+    "Conectează Spotify"
+  ],
   "V5mNyb": [
     "Link-uri rețele de socializare"
   ],
@@ -81801,6 +83179,9 @@
   "VBhOe2": [
     "Dă click pentru a adăuga o notiță"
   ],
+  "VBmAMg": [
+    "VBmAMg"
+  ],
   "VBnNJY": [
     "Poți păstra această decorațiune gratuită făcând un cadou."
   ],
@@ -81903,6 +83284,13 @@
   ],
   "VEfKyb": [
     "Vezi toate comenzile"
+  ],
+  "VEfeux": [
+    "Din pachetul ",
+    [
+      1,
+      "packName"
+    ]
   ],
   "VF4fZZ": [
     "Le permite membrilor să folosească stickere de pe alte servere pe acest canal, dacă au Discord Nitro."
@@ -82275,6 +83663,13 @@
   ],
   "VOgTjy": [
     "Funcția video a fost oprită temporar pe dispozitivul tău pentru a îmbunătăți performanța"
+  ],
+  "VOmeSq": [
+    "redă sunetul ",
+    [
+      1,
+      "name"
+    ]
   ],
   "VOnnnz": [
     "Selectează până la 5 canale recomandate. Îți sugerăm să incluzi canalele în care utilizatorii pot interacționa, de exemplu canale pentru discuții, întrebări, știri sau selectarea rolurilor."
@@ -82757,6 +84152,9 @@
       ]
     ]
   ],
+  "VcUghi": [
+    "VcUghi"
+  ],
   "VcZC22": [
     "Nu se poate avansa"
   ],
@@ -82977,11 +84375,17 @@
   "Veu++Q": [
     "Folosește Orbs ca să obții articole exclusive precum credite Nitro și articole favorite din Magazin."
   ],
+  "VeumMD": [
+    "VeumMD"
+  ],
   "Vf2ZcR": [
     "Dacă acest avantaj este dezactivat, tagul tău de server va reveni la insigna implicită."
   ],
   "Vfbar/": [
     "Efect și ramă pentru profil"
+  ],
+  "Vfq58K": [
+    "Vfq58K"
   ],
   "VfqJvY": [
     "Inactivitate până la ",
@@ -83439,7 +84843,7 @@
     "Tema aceasta este disponibilă doar pentru utilizatorii Nitro."
   ],
   "VqNHoS": [
-    "Această combinație de sunete nu mai este activă"
+    "Acest sunet nu mai este activ"
   ],
   "VqhxxN": [
     "Selectează un canal de actualizări comunitare"
@@ -84048,6 +85452,9 @@
       "guildName"
     ]
   ],
+  "W8E3pj": [
+    "W8E3pj"
+  ],
   "W8JtfT": [
     "Permite-le prietenilor din jocuri să trimită mesaje directe și invitații"
   ],
@@ -84074,6 +85481,28 @@
       "cardinal"
     ],
     ". Widget-ul nu-ți va apărea în profil decât după ce adaugi cel puțin un joc."
+  ],
+  "W8etVA": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " melodie redată"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " melodii redate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "W8jOD0": [
     "Un cod per achiziție. ",
@@ -84504,6 +85933,9 @@
   ],
   "WJisip": [
     "Atinge pentru a seta o imagine în miniatură"
+  ],
+  "WK19hs": [
+    "WK19hs"
   ],
   "WK9r7F": [
     "Le permite membrilor să încarce fișiere sau conținut media pe acest canal."
@@ -85986,9 +87418,6 @@
     ],
     " de inactivitate."
   ],
-  "WnnzG7": [
-    "Selectează numărul de cadouri"
-  ],
   "Wnojv1": [
     "Ajută la detectarea fișierelor media bazate pe imagini care pot conține material sexual explicit sau sugestiv care implică adulți."
   ],
@@ -86261,6 +87690,30 @@
   "WwYgqi": [
     "Adaugă fișiere media"
   ],
+  "Wwu6IA": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu un timp de joc de ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
+  ],
   "Wx7UUY": [
     "Creează un server pentru grupul tău"
   ],
@@ -86382,6 +87835,18 @@
           "rewardNameWithArticle"
         ]
       ]
+    ],
+    "."
+  ],
+  "X+VLqi": [
+    [
+      1,
+      "statQuestion"
+    ],
+    " Această competiție se încheie la ",
+    [
+      1,
+      "endsAt"
     ],
     "."
   ],
@@ -87650,7 +89115,7 @@
     "Elimină serverul"
   ],
   "XW2CuY": [
-    "Continuă să câștigi pentru a debloca următoarea recompensă!"
+    "În curând sosesc noi provocări. Când ești gata, te așteaptă niște Orbs."
   ],
   "XW3vjq": [
     "Detectăm și filtrăm automat fișierele media care pot include conținut sensibil. Poți gestiona acest filtru din setările de Confidențialitate și securitate."
@@ -87707,6 +89172,9 @@
       1,
       "position"
     ]
+  ],
+  "XXLbfv": [
+    "Restricționează accesul în funcție de rol"
   ],
   "XXPrIs": [
     [
@@ -87783,6 +89251,9 @@
   "XYvMIX": [
     "Afișează descrierile imaginilor"
   ],
+  "XZ9O/T": [
+    "XZ9O/T"
+  ],
   "XZTfav": [
     "Introdu parola pentru a-ți edita contul."
   ],
@@ -87791,6 +89262,9 @@
   ],
   "Xa11Ep": [
     "Vezi avantajul"
+  ],
+  "Xa1KEN": [
+    "Trimite mesaje cu actualizări provenite din următoarele widgeturi:"
   ],
   "XaFkil": [
     "Permite-le utilizatorilor să-ți salveze dispozitivele și să le marcheze ca verificate. ",
@@ -88470,6 +89944,12 @@
   "Xrcmjk": [
     "Neutru"
   ],
+  "XrpYIG": [
+    "Numai aceste roluri pot folosi Whiteboardul. Lasă câmpul gol ca să-l poată folosi toată lumea. Modificările se aplică imediat."
+  ],
+  "XrsUHd": [
+    "XrsUHd"
+  ],
   "Xrt5Po": [
     "Copiază link-ul mesajului"
   ],
@@ -88627,7 +90107,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului, cum ar fi Call of Duty: Modern Warfare 4 și altele. Revendică până pe ",
     [
       3,
       "date",
@@ -89127,6 +90607,9 @@
   "Y5BI39": [
     "Fixează mesajele"
   ],
+  "Y5Csm1": [
+    "Y5Csm1"
+  ],
   "Y5DOs4": [
     "Adaugă ",
     [
@@ -89157,6 +90640,20 @@
   ],
   "Y6Jo+p": [
     "Conectezi conturi prea repede. Așteaptă un pic și încearcă din nou."
+  ],
+  "Y6K3qc": [
+    "Începe un nou clasament! Cine va fi avea cele mai multe jocuri unice jucate săptămâna asta? Până acum ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " e în frunte."
   ],
   "Y6Qfju": [
     "Server-ul lui ",
@@ -89262,6 +90759,9 @@
   "Y8ujqr": [
     "Modifică atașamentul"
   ],
+  "Y9/ijr": [
+    "Preferințe partajate"
+  ],
   "Y9DnPa": [
     "Toți"
   ],
@@ -89306,6 +90806,9 @@
   ],
   "Y9uRYB": [
     "Snapchat"
+  ],
+  "Y9wjUX": [
+    "Y9wjUX"
   ],
   "YAIIWp": [
     [
@@ -89769,6 +91272,9 @@
       "premiumGroupProductName"
     ],
     " a fost anulată"
+  ],
+  "YM9mAn": [
+    "YM9mAn"
   ],
   "YMQKXs": [
     "Mesaj blocat"
@@ -90616,6 +92122,9 @@
   "YkDjVM": [
     "Scurtătură"
   ],
+  "YkET6R": [
+    "Resetează favoritele"
+  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -90782,6 +92291,9 @@
       "applicationName"
     ],
     " pentru a-ți partaja nivelul, eroul favorit și statisticile pe profil"
+  ],
+  "YnTChn": [
+    "YnTChn"
   ],
   "Yna7E7": [
     [
@@ -91016,6 +92528,9 @@
   "YszLLx": [
     "Comută pentru a activa/dezactiva Modul Streamer."
   ],
+  "Yt3O/L": [
+    "Yt3O/L"
+  ],
   "Yt6NkU": [
     [
       8,
@@ -91210,6 +92725,13 @@
       "cardinal"
     ]
   ],
+  "YuNVPY": [
+    "Jucat ultima dată ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "YuTEaU": [
     "Ai expirat"
   ],
@@ -91234,6 +92756,9 @@
   ],
   "YvJKD+": [
     "Acțiuni pentru clipuri"
+  ],
+  "YvMDHm": [
+    "YvMDHm"
   ],
   "YvNhsd": [
     "Înainte de ",
@@ -91370,6 +92895,9 @@
   ],
   "YzGIVF": [
     "Include un rol"
+  ],
+  "Yzaoit": [
+    "Yzaoit"
   ],
   "YzjdWJ": [
     "Cadourile mele"
@@ -91651,6 +93179,9 @@
   "Z2ygQt": [
     "Socializare și studii"
   ],
+  "Z2z85q": [
+    "Acest hub al serverului este o ciornă. Doar administratorii serverului îl pot vedea până la publicare."
+  ],
   "Z33eiP": [
     "Ai dezactivat elemente importante pentru acest server"
   ],
@@ -91701,6 +93232,9 @@
   ],
   "Z4U1g/": [
     "Intră în zona de relaxare"
+  ],
+  "Z4UD3R": [
+    "Acest sunet provine de pe un server accesibil doar pe bază de invitație."
   ],
   "Z4ULRD": [
     "Anulare în curs: ",
@@ -92510,6 +94044,19 @@
   "ZMCfHc": [
     "Nou: Rame pentru profil"
   ],
+  "ZMJ8Mt": [
+    "Ascultat ultima oară: ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ]
+  ],
   "ZMTRyc": [
     "Arată numai video"
   ],
@@ -92715,6 +94262,14 @@
   "ZQr92M": [
     "Pune în aplicare Regulamentul serverului (IA)"
   ],
+  "ZQxU8v": [
+    "Cel puțin ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membri ai serverului trebuie să-și partajeze activitatea de ascultare pe Spotify pentru a afișa ascultătorii de top."
+  ],
   "ZR1Ss6": [
     "Acțiuni asupra dispozitivelor audio"
   ],
@@ -92816,6 +94371,9 @@
   ],
   "ZUEGFn": [
     "Încearcă din nou mai târziu."
+  ],
+  "ZUGgI7": [
+    "ZUGgI7"
   ],
   "ZURqX0": [
     "Adaugă metodă de plată"
@@ -93087,12 +94645,12 @@
     "Mă găsești pe"
   ],
   "ZZNyeP": [
-    "Obține gratuit primul an de My Best Buy Plus™ (valorează 29,99 USD). Primește înapoi ",
+    "Obține gratuit primul an de My Best Buy Plus™ (în valoare de 29,99 USD). Primește înapoi ",
     [
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului. ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului. ",
     [
       8,
       "$link",
@@ -93480,6 +95038,9 @@
     ],
     " reducere la boost-urile cumpărate în viitor."
   ],
+  "ZiykFI": [
+    "Skelly"
+  ],
   "Zj2xQ0": [
     "Google Pay nu este disponibil sau nu a fost configurat în browser. Te rugăm să introduci aici datele cardului"
   ],
@@ -93523,6 +95084,9 @@
   "ZkmC7s": [
     "Nu trebuie să rezolvi totul pe cont propriu. Dacă ai nevoie de ajutor, vorbește cu un adult în care ai încredere. În plus, ne poți raporta mesaje în orice moment."
   ],
+  "Zl5vPW": [
+    "Zl5vPW"
+  ],
   "ZlWXgR": [
     "Abonamentele tale se vor reînnoi automat pe ",
     [
@@ -93562,6 +95126,9 @@
   ],
   "ZmVEz/": [
     "Arată mai puține"
+  ],
+  "ZmaptE": [
+    "Cache-uri externe"
   ],
   "Zmm6dN": [
     "Poze"
@@ -94067,6 +95634,9 @@
   "Zw8jxn": [
     "Selectează sau introdu ID-ul misiunii"
   ],
+  "ZwDYuP": [
+    "Cele mai multe zile de joc"
+  ],
   "ZwOSdn": [
     "Poți încărca de stickere personalizate pe care le poate folosi oricine"
   ],
@@ -94197,6 +95767,9 @@
   ],
   "ZzcLhc": [
     "Dacă am greșit, confirmă că ești adult"
+  ],
+  "ZzcwNk": [
+    "Golește lista de favorite și restabilește starea inițială."
   ],
   "ZzdgUm": [
     "Canalul nu poate deveni privat"
@@ -94386,6 +95959,9 @@
   ],
   "a0DdWJ": [
     "După ce primești cereri de prietenie, le poți accesa aici!"
+  ],
+  "a11Q57": [
+    "a11Q57"
   ],
   "a17rBk": [
     "Configurează câmpul necesar: e-mail"
@@ -95176,6 +96752,9 @@
   ],
   "aPmsx3": [
     "Eroare la solicitarea reanalizării"
+  ],
+  "aQUPiQ": [
+    "Widgeturile se actualizează automat cu cea mai recentă activitate."
   ],
   "aQjtas": [
     "Lavandă"
@@ -96103,6 +97682,13 @@
     ],
     " nu răspunde"
   ],
+  "akg5nT": [
+    "Avantajele Nitro favorite: ",
+    [
+      1,
+      "filterName"
+    ]
+  ],
   "al+5qH": [
     "videoclip"
   ],
@@ -96523,6 +98109,9 @@
         ]
       ]
     ]
+  ],
+  "aq6+nQ": [
+    "aq6+nQ"
   ],
   "aqN8U9": [
     "Te vom conecta pe Desktop."
@@ -97211,6 +98800,9 @@
     "fructe",
     "mâncare"
   ],
+  "avpngL": [
+    "avpngL"
+  ],
   "avps/2": [
     "Ia-ți Nitro"
   ],
@@ -97260,6 +98852,9 @@
   ],
   "awsERJ": [
     "Retrimite perioada de probă"
+  ],
+  "awu/Sj": [
+    "awu/Sj"
   ],
   "ax4/ib": [
     "Stimularea serverelor"
@@ -97845,7 +99440,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului."
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului."
   ],
   "b9w3bO": [
     "Online"
@@ -98204,6 +99799,9 @@
   ],
   "bKOzux": [
     "Categorii widget"
+  ],
+  "bKbxkA": [
+    "bKbxkA"
   ],
   "bL21zs": [
     "După ce te alături acestui canal de voce, modul tău de intrare se va schimba în Activitate vocală."
@@ -98727,6 +100325,9 @@
     ],
     "."
   ],
+  "bZ0yGQ": [
+    "Se folosește pentru a partaja ce melodii asculți."
+  ],
   "bZ4Okd": [
     [
       1,
@@ -99047,6 +100648,9 @@
       1,
       "c"
     ]
+  ],
+  "bbQzr1": [
+    "bbQzr1"
   ],
   "bbRRNY": [
     "până la expirarea demonstrației gratuite"
@@ -99396,6 +101000,13 @@
   ],
   "bgL68y": [
     "Acum sunteți prieteni. Trimite-i un salut!"
+  ],
+  "bgQf2H": [
+    [
+      1,
+      "minutes"
+    ],
+    " m"
   ],
   "bgU5r0": [
     "Afișează o notificare de fiecare dată când se deschide overlay-ul, ca să te anunțe că overlay-ul a devenit activ."
@@ -100348,6 +101959,9 @@
   "bt75uw": [
     "Editează"
   ],
+  "btBTIw": [
+    "Clasament de gaming"
+  ],
   "btSGOj": [
     "Te-ai alăturat publicului"
   ],
@@ -100678,6 +102292,39 @@
   ],
   "bxcI6Y": [
     "Previzualizarea insignei Orbs pe profil"
+  ],
+  "bxcrSz": [
+    "A jucat ",
+    [
+      1,
+      "firstGame"
+    ],
+    ", ",
+    [
+      1,
+      "secondGame"
+    ],
+    " și încă ",
+    [
+      6,
+      "otherCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "bxh/R7": [
     "Lizibilitate text"
@@ -101324,6 +102971,9 @@
   "c9qSBR": [
     "Înainte de o dată"
   ],
+  "c9wSH7": [
+    "c9wSH7"
+  ],
   "c9zdjv": [
     "Configurează orientarea în comunitate!"
   ],
@@ -101643,6 +103293,9 @@
   ],
   "cJng7v": [
     "Natură"
+  ],
+  "cJs3+v": [
+    "cJs3+v"
   ],
   "cK1GGY": [
     "Deschide evenimentul"
@@ -101973,6 +103626,9 @@
   ],
   "cSu80j": [
     "Ascunde fereastra în joc"
+  ],
+  "cSw0mL": [
+    "cSw0mL"
   ],
   "cSyXJk": [
     "După ce a fost dezactivat, doar moderatorii și creatorul firului pot adăuga membri noi la acesta."
@@ -102514,6 +104170,9 @@
   ],
   "cbD7CX": [
     "Începe-ți cele 2 săptămâni de Nitro și încearcă profiluri personalizate, emojiuri animate și multe altele!"
+  ],
+  "cbssIC": [
+    "cbssIC"
   ],
   "cbtPXy": [
     "Tema a fost actualizată."
@@ -103208,6 +104867,9 @@
   ],
   "clQc1f": [
     "Modifică detaliile contului"
+  ],
+  "clUNo2": [
+    "clUNo2"
   ],
   "clap": [
     "aplauda",
@@ -104797,6 +106459,9 @@
   "d0M0XI": [
     "Au sosit stickerele!"
   ],
+  "d0Z8kd": [
+    "Sari la poziția ta"
+  ],
   "d0gJtH": [
     "Încarcă fișiere mai mari"
   ],
@@ -104928,6 +106593,54 @@
   ],
   "d34xi4": [
     "Suprascriere build nevalidă"
+  ],
+  "d3aX5b": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " a mutat ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "un canal"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " canale"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "d3kA9a": [
     "Afișează-ți pe pagină până la 9 conturi oficiale de pe rețelele de socializare, adăugând linkurile aici."
@@ -105200,6 +106913,29 @@
   "d9+vQ8": [
     "Îți mulțumim pentru feedback!"
   ],
+  "d90MfZ": [
+    "încă ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " persoană pe voce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " persoane pe voce"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "d9KbHK": [
     "Eligibile pentru promoție: ",
     [
@@ -105403,6 +107139,9 @@
   ],
   "dFgeuZ": [
     "Articole populare care pot fi obținute cu Orbs"
+  ],
+  "dFir5f": [
+    "dFir5f"
   ],
   "dFu8vZ": [
     [
@@ -105967,6 +107706,63 @@
     ],
     " · Proiect"
   ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    ", cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc unic jucat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri unice jucate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "dXC/hn": [
     "an"
   ],
@@ -106297,6 +108093,13 @@
       ]
     ],
     ", iar ciclul tău de facturare va continua conform programului."
+  ],
+  "dbNpK0": [
+    "Au jucat ",
+    [
+      1,
+      "firstGame"
+    ]
   ],
   "dbTs+z": [
     "Toți cei de pe acest canal vor încerca să se conecteze la regiunea setată de tine, indiferent unde locuiesc. Regiunile afectează calitatea video și audio. Folosește setările automate și Discord va vedea care sunt cele mai bune opțiuni."
@@ -107835,6 +109638,13 @@
   "e3Zz3F": [
     "Afișează previzualizările stream-ului"
   ],
+  "e3qAIz": [
+    "Nu mai ignora pe ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "e4WMvx": [
     "Opțiune Ridică mâna dezactivată"
   ],
@@ -108758,6 +110568,9 @@
   "eOFvqT": [
     "Elimină pagina de întâmpinare de pe internet. Dacă publici din nou pagina, o vei reactiva."
   ],
+  "eOHGhL": [
+    "eOHGhL"
+  ],
   "eOIfuy": [
     "Numărul cardului este necesar."
   ],
@@ -108929,6 +110742,28 @@
             7
           ],
           " clipuri automate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
+  "eS6Nek": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " cerere trimisă"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " cereri trimise"
         ]
       },
       0,
@@ -109192,7 +111027,7 @@
     ]
   ],
   "eZhXQa": [
-    "Partajează statisticile mele cu acest server"
+    "Partajează-mi activitatea cu acest server"
   ],
   "eZmJYE": [
     "Când această setare este activată, imaginile și clipurile video făcute cu camera și trimise ca mesaj se vor salva și pe dispozitiv"
@@ -109444,6 +111279,9 @@
   "ec5Rdd": [
     "10 ore de gaming în cloud în fiecare lună"
   ],
+  "ecPCdG": [
+    "Abonament My Best Buy Plus"
+  ],
   "ecTJkR": [
     "Rame pentru profil"
   ],
@@ -109483,6 +111321,9 @@
   ],
   "ee7wQ7": [
     "Disponibile acum cu Nitro"
+  ],
+  "eeJvfA": [
+    "Acest DM este gol 🦗"
   ],
   "eeM6Gk": [
     "Poți să ne spui care a fost motivul principal pentru care ai decis să anulezi ",
@@ -109892,6 +111733,9 @@
       ]
     ]
   ],
+  "eooiqe": [
+    "eooiqe"
+  ],
   "eotGpL": [
     "Acum poți găzdui evenimente pe podium folosind video și partajarea ecranului. Serverele stimulate pot găzdui evenimente mai mari pe podiumurile video (150 de utilizatori pentru nivelul 2, 300 pentru nivelul 3)."
   ],
@@ -110003,7 +111847,7 @@
     ]
   ],
   "er+5dl": [
-    "Dă-le putere precomenzilor tale"
+    "Fă-ți precomenzile mai puternice"
   ],
   "er+FRD": [
     "Stare online: ",
@@ -110279,7 +112123,7 @@
     "Spune-ne puțin despre tine"
   ],
   "evF0PO": [
-    "Revendică gratuit primul an de abonament My Best Buy Plus™. 29,99 USD anual. Reînnoire automată. Anulează oricând."
+    "Revendică gratuit primul an de abonament My Best Buy Plus™. 29,99 USD anual. Reînnoire automată. Poți anula oricând."
   ],
   "evGwDW": [
     "Ciornă — programat să se publice pe ",
@@ -110297,6 +112141,9 @@
   ],
   "evRhwg": [
     "S-au detectat activități neobișnuite legate de mesajele directe"
+  ],
+  "evXB9B": [
+    "evXB9B"
   ],
   "evergreen_tree": [
     "arbore conifer",
@@ -110405,6 +112252,63 @@
   ],
   "exRczv": [
     "Am avut probleme de performanță"
+  ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    ", cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi de joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile de joc"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "exclamation": [
     "!",
@@ -110784,6 +112688,9 @@
   "f41E1g": [
     "Nu poți lansa o activitate aici"
   ],
+  "f4BaUg": [
+    "f4BaUg"
+  ],
   "f4M+H9": [
     "Sunete de intrare"
   ],
@@ -110866,6 +112773,46 @@
   ],
   "f6RTAM": [
     "GATA"
+  ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi de joc"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile de joc"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Activitate acum >30 z"
@@ -110972,6 +112919,9 @@
   ],
   "fAW3z4": [
     "Nu s-a găsit niciun rezultat"
+  ],
+  "fAXYyg": [
+    "fAXYyg"
   ],
   "fAYU2G": [
     "Din cauza permisiunilor de sistem, scurtăturile din tastatură nu funcționează în timpul jocului."
@@ -111709,6 +113659,47 @@
   "fVWxvT": [
     "Adaugă rol"
   ],
+  "fVm1Zn": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a preluat locul 1 în clasament de la ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    ", cu un timp de joc de ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
+  ],
   "fWQTbv": [
     "Crește numărul de persoane care comunică săptămânal"
   ],
@@ -111717,6 +113708,9 @@
   ],
   "fWbIpf": [
     "Servere populare de jocuri"
+  ],
+  "fWef0G": [
+    "Sfârșitul coloanei laterale"
   ],
   "fWvX0G": [
     [
@@ -112250,6 +114244,71 @@
   "fcYgiY": [
     "Informații și politici"
   ],
+  "fcmI49": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "username2Hook",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ]
+          ]
+        ]
+      }
+    ],
+    " și ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " altă persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " alte persoane"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " folosesc Whiteboard-ul."
+  ],
   "fdEeb5": [
     "Alătură-te apelului"
   ],
@@ -112472,6 +114531,9 @@
   ],
   "fhK8hj": [
     "Recompensă Nitro"
+  ],
+  "fhY51Q": [
+    "fhY51Q"
   ],
   "fhY6s9": [
     "Activitate"
@@ -113487,6 +115549,18 @@
     ],
     " oricând."
   ],
+  "fvtrHn": [
+    [
+      1,
+      "hours"
+    ],
+    "o ",
+    [
+      1,
+      "minutes"
+    ],
+    "m"
+  ],
   "fw2p/x": [
     "Tagul serverului: ",
     [
@@ -113656,6 +115730,9 @@
   ],
   "g+bTAg": [
     "Încearcă personalizarea profilului"
+  ],
+  "g+lLUV": [
+    "Mută rolul"
   ],
   "g+sEOr": [
     "Niue"
@@ -113869,8 +115946,14 @@
   "g62IJl": [
     "finalizat"
   ],
+  "g64C7b": [
+    "g64C7b"
+  ],
   "g6Dr44": [
     "Desktop"
+  ],
+  "g6JzUy": [
+    "g6JzUy"
   ],
   "g6KdFv": [
     "Tipul fișierului atașat: ",
@@ -114467,6 +116550,9 @@
     ],
     " luni."
   ],
+  "gN0TTr": [
+    "gN0TTr"
+  ],
   "gNJHHp": [
     "Încearcă din nou"
   ],
@@ -114749,6 +116835,9 @@
   ],
   "gUqXQN": [
     "Confirmă-ți vârsta pe alt dispozitiv"
+  ],
+  "gUvhsN": [
+    "gUvhsN"
   ],
   "gUx4eu": [
     "Încarcă pe fir"
@@ -115157,6 +117246,9 @@
   "ge/d+Y": [
     "producție-muzicală"
   ],
+  "ge88VE": [
+    "ge88VE"
+  ],
   "geFoof": [
     [
       6,
@@ -115488,6 +117580,9 @@
     ],
     "."
   ],
+  "gjL5N4": [
+    "gjL5N4"
+  ],
   "gjdiKE": [
     "Previzualizare"
   ],
@@ -115609,6 +117704,9 @@
   "gnkqzQ": [
     "Dacă vezi acest ecran și după actualizare, contactează echipa de asistență."
   ],
+  "gnoxLY": [
+    "gnoxLY"
+  ],
   "gnsna/": [
     "Nu ai creat încă niciun rol"
   ],
@@ -115707,6 +117805,9 @@
   ],
   "gpCRFS": [
     "Urmărirea performanței a fost salvată în folderul de descărcări"
+  ],
+  "gpEOaS": [
+    "gpEOaS"
   ],
   "gpSh3U": [
     "Page Down"
@@ -116287,11 +118388,21 @@
     ],
     "!"
   ],
+  "h+7Yx3": [
+    "Deblochează un tag de server cu ajutorul boost-urilor. Alege un server ca să începi."
+  ],
   "h+Imbu": [
     "Deschide mesajele programate"
   ],
   "h+KPxy": [
     "Biletele la concert intră în vânzare vineri, la ora 10:00!"
+  ],
+  "h+LUpk": [
+    [
+      1,
+      "percent"
+    ],
+    "%"
   ],
   "h+WsPb": [
     "S-a aplicat"
@@ -116510,7 +118621,6 @@
         "orbIcon"
       ]
     ],
-    " ",
     [
       1,
       "orbAmount"
@@ -116676,6 +118786,9 @@
   "h80cx/": [
     "Boost pentru server lunar"
   ],
+  "h83tLO": [
+    "h83tLO"
+  ],
   "h850Ss": [
     "Setări de notificare"
   ],
@@ -116769,8 +118882,29 @@
       "count"
     ]
   ],
+  "h9P9H+": [
+    "Plasează widgetul pe poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " în coloana laterală"
+  ],
   "h9Q1lG": [
     "De un club sau o comunitate"
+  ],
+  "h9gDdS": [
+    "Echipa ta a câștigat o luptă de echipă ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "h9mGOP": [
     "Canale și roluri"
@@ -116953,6 +119087,9 @@
   ],
   "hFYUDN": [
     "Nu poți elimina fundalurile implicite"
+  ],
+  "hFYyGU": [
+    "Afișări pentru muzica în trend"
   ],
   "hFeBkl": [
     "Deschide aplicația de autentificare și scanează imaginea din stânga folosind camera telefonului."
@@ -117170,6 +119307,9 @@
   ],
   "hKcgP5": [
     "Nu există SKU-uri disponibile"
+  ],
+  "hKfSwp": [
+    "Mută canalul"
   ],
   "hKsCRB": [
     "Băgăm la cutiuță..."
@@ -118064,6 +120204,9 @@
   "hdneL4": [
     "Eliminarea acestei integrări va duce la eliminarea de pe serverul tău a tuturor aplicațiilor (inclusiv a boților și webhook-urilor) de pe această pagină. Acțiunea este ireversibilă."
   ],
+  "hdrVwP": [
+    "hdrVwP"
+  ],
   "he52LA": [
     "(Include ",
     [
@@ -118652,6 +120795,13 @@
   "hmKy8E": [
     "Motivul pentru excludere"
   ],
+  "hmNYxk": [
+    "Elimină ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "hmb311": [
     "Vezi filtrele și alte setări"
   ],
@@ -118869,6 +121019,28 @@
     "locuință",
     "suburbie",
     "verdeață"
+  ],
+  "hpAg80": [
+    [
+      6,
+      "panelCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " widget activ"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " widgeturi active"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "hpgzEq": [
     "Raportează"
@@ -119195,6 +121367,9 @@
   ],
   "hwPEJR": [
     "Nivelul a fost dezactivat de un administrator"
+  ],
+  "hwY2F5": [
+    "hwY2F5"
   ],
   "hwbB7s": [
     "Filtrează mesajele de după o anumită dată"
@@ -120427,6 +122602,9 @@
         ]
       ]
     ]
+  ],
+  "iU9tyl": [
+    "iU9tyl"
   ],
   "iUSTDT": [
     "teme-pentru-acasă"
@@ -121915,6 +124093,9 @@
   "ixASa2": [
     "Zile"
   ],
+  "ixMwGl": [
+    "Acest sunet poate fi folosit oriunde."
+  ],
   "ixNwPL": [
     "Cont bancar adăugat pe ",
     [
@@ -122030,6 +124211,13 @@
   "iz4w1M": [
     "Resetează rotația"
   ],
+  "izBDZN": [
+    "Deblochează ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "izMR7o": [
     "Nu poți suna un cont provizoriu"
   ],
@@ -122073,6 +124261,9 @@
   ],
   "j/5+IX": [
     "Acestea sunt canalele tale!"
+  ],
+  "j/B2Zo": [
+    "j/B2Zo"
   ],
   "j/KRxc": [
     "Folosește setarea implicită"
@@ -122152,9 +124343,6 @@
       1,
       "source"
     ]
-  ],
-  "j29uJx": [
-    "Activează crearea automată a clipurilor"
   ],
   "j29zCr": [
     "Nu poți lansa Activități pe acest canal."
@@ -122712,6 +124900,9 @@
   "jK+wdr": [
     "Afișează mesajele personalizate"
   ],
+  "jK2oto": [
+    "Derulează la stânga sau la dreapta pentru a vedea alte insigne"
+  ],
   "jKYAPu": [
     "Există probleme cu expresiile tale regulate introduse. Corectează erorile evidențiate mai sus. ",
     [
@@ -123095,6 +125286,26 @@
   "jTxbHc": [
     "Insignă Vânt"
   ],
+  "jUJ7IO": [
+    "Începe un nou clasament! Cine va avea cele mai multe zile de joc săptămâna asta? Până acum ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " e în frunte."
+  ],
   "jULEDr": [
     "Vezi încă ",
     [
@@ -123126,6 +125337,9 @@
       ]
     ],
     "."
+  ],
+  "jUr+wF": [
+    "Deschide în Spotify"
   ],
   "jUze6F": [
     "Mărește imaginea pentru a permite repoziționarea"
@@ -123299,6 +125513,54 @@
   ],
   "jZcIid": [
     "Folosește funcția text-to-speech pentru a citi mesajul tuturor membrilor care vizualizează în prezent canalul."
+  ],
+  "jZeaoW": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " a mutat ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "un rol"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " roluri"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "jZoHgI": [
     "Trebuie să incluzi două sau mai multe alegeri."
@@ -125040,6 +127302,9 @@
   "kEMWrG": [
     "Exemplu de canal de discuții despre jocuri, cu tag-uri pentru forum cum ar fi Evenimente, Recomandări și Caut grup."
   ],
+  "kEY+nX": [
+    "kEY+nX"
+  ],
   "kEcZ97": [
     [
       8,
@@ -125134,6 +127399,25 @@
   ],
   "kFwAsa": [
     "Elimină atașamentul"
+  ],
+  "kG9XmM": [
+    "Această competiție s-a încheiat la ",
+    [
+      1,
+      "endedAt"
+    ],
+    ". Următoarea competiție este ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nextStatName"
+        ]
+      ]
+    ],
+    "."
   ],
   "kGCHEJ": [
     "Abonament la server"
@@ -125597,6 +127881,9 @@
   "kTAoEr": [
     "Vezi istoricul plăților"
   ],
+  "kTMH3n": [
+    "kTMH3n"
+  ],
   "kTdL8X": [
     "Canalul atribuit trebuie să fie doar pentru citire de către @everyone"
   ],
@@ -125623,6 +127910,9 @@
   ],
   "kV54/Y": [
     "Beneficiu"
+  ],
+  "kVJZvr": [
+    "kVJZvr"
   ],
   "kVfuVu": [
     "Adaugă super-reacție"
@@ -125932,6 +128222,9 @@
   ],
   "kc5n4S": [
     "Nevis"
+  ],
+  "kcAWvo": [
+    "kcAWvo"
   ],
   "kcHxi6": [
     "Sistem de operare"
@@ -126915,6 +129208,9 @@
   "l/l/Gw": [
     "Creează un mesaj de bun venit personalizat și instrucțiuni pentru primii pași. Poți și să trimiți membrii la pagini de resurse cu întrebări frecvente, regulamentul și multe altele."
   ],
+  "l/tCAO": [
+    "l/tCAO"
+  ],
   "l07DXK": [
     [
       8,
@@ -127039,6 +129335,9 @@
   ],
   "l3P7K0": [
     "Instrucțiunile pentru permiterea accesului la cameră pot fi găsite în Centrul de asistență Discord."
+  ],
+  "l3QzyC": [
+    "Acest sunet este de pe serverul tău."
   ],
   "l3VxgG": [
     [
@@ -127234,7 +129533,7 @@
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului. Revendică până pe ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului. Revendică până pe ",
     [
       3,
       "date",
@@ -127546,6 +129845,9 @@
   ],
   "lE/PG3": [
     "Marchează ca oficial"
+  ],
+  "lE79Lm": [
+    "Prietenii, grupați după jocul pe care îl joacă acum"
   ],
   "lEIwDw": [
     "Boost-urile costă ",
@@ -128261,6 +130563,9 @@
   "lZTUPs": [
     "Fundal video"
   ],
+  "lZWCZ+": [
+    "Fișiere excluse din backup"
+  ],
   "lZejCq": [
     "Include menționări @rol"
   ],
@@ -128397,6 +130702,9 @@
   "lboF5O": [
     "Adaugă o metodă de plată"
   ],
+  "lbzScK": [
+    "lbzScK"
+  ],
   "lcSxhB": [
     "Folosește-ți sunetele preferate pe Discord și primește multe alte beneficii cu Nitro. ",
     [
@@ -128450,6 +130758,9 @@
   ],
   "leKHQz": [
     "Nu există încă opțiuni de personalizare."
+  ],
+  "leUgZw": [
+    "Emojiuri exclusive Nitro"
   ],
   "leafless_tree": [
     "arid",
@@ -128639,6 +130950,9 @@
   ],
   "lgHr73": [
     "Discută, fă streaming și relaxează-te"
+  ],
+  "lgKBzG": [
+    "lgKBzG"
   ],
   "lgcisd": [
     "Serverele care au peste ",
@@ -129831,6 +132145,9 @@
   "m163cv": [
     "chaturile vocale sunt mai plăcute când ești și tu acolo"
   ],
+  "m19WWb": [
+    "m19WWb"
+  ],
   "m1KuWd": [
     "Limită de timp"
   ],
@@ -130769,6 +133086,9 @@
   "mRPWne": [
     "Folosește-ți oriunde emoji-urile personalizate și animează-le"
   ],
+  "mRPtBV": [
+    "mRPtBV"
+  ],
   "mRbUco": [
     [
       8,
@@ -130808,6 +133128,9 @@
   ],
   "mT9B49": [
     "Ai trimis un cadou, însă..."
+  ],
+  "mTARYx": [
+    "Activează personalizarea ca să intri în clasament."
   ],
   "mTMkY2": [
     "Mai întâi trebuie să activezi nivelul anterior."
@@ -132208,6 +134531,9 @@
   "mfpJ9m": [
     "Cod poștal"
   ],
+  "mg1NPe": [
+    "mg1NPe"
+  ],
   "mgGOT4": [
     "Îți recomandăm să alegi un subiect mai descriptiv, pentru ascultătorii care nu-ți știu serverul."
   ],
@@ -132258,6 +134584,46 @@
   ],
   "mgsmfY": [
     "Acest flux a fost dezactivat din instrumentele pentru dezvoltatori"
+  ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " joc unic jucat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jocuri unice jucate"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "mhUrKS": [
     "Înainte să poți accesa Centrul pentru familii, trebuie să-ți verificăm vârsta ca să-ți putem oferi o experiență adecvată. Nu-ți vom cere această informație decât o singură dată."
@@ -132600,6 +134966,9 @@
   ],
   "mmeWUF": [
     "Sortează după: cele mai vechi"
+  ],
+  "mmlFSp": [
+    "mmlFSp"
   ],
   "mn/nW2": [
     "ALIAS ",
@@ -133267,9 +135636,6 @@
   "mwJJ+f": [
     "Părăsești grupul?"
   ],
-  "mwOvZQ": [
-    "O nouă recompensă Nitro tocmai a sosit"
-  ],
   "mwVXnI": [
     "Continuă fără a crea o copie de rezervă"
   ],
@@ -133598,6 +135964,9 @@
         ]
       ]
     ]
+  ],
+  "n3aRYQ": [
+    "Actualizări când se încheie un concurs, când începe un nou concurs și când cineva preia conducerea în timpul unui concurs în desfășurare"
   ],
   "n3bcy8": [
     "Adaugă moderatori de podium"
@@ -134924,6 +137293,9 @@
       "duration"
     ]
   ],
+  "nXc/MQ": [
+    "Nu ai acces."
+  ],
   "nXdbKo": [
     "Ai chat premium, ",
     [
@@ -135125,6 +137497,9 @@
   ],
   "naBTFO": [
     "M-a rugat un angajat Discord s-o fac"
+  ],
+  "naImPK": [
+    "naImPK"
   ],
   "naT1rM": [
     "Această decorațiune face acum parte din colecția ta și poate fi folosită oricând. Sărbători fericite!"
@@ -135736,6 +138111,19 @@
   "no+FQS": [
     "Se va utiliza primul flux de asociere disponibil, începând de sus"
   ],
+  "no2oEG": [
+    "Echipa ta a luptat ",
+    [
+      1,
+      "allyKills"
+    ],
+    "-",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "no7/g5": [
     "Page Down"
   ],
@@ -135906,6 +138294,9 @@
       1,
       "count"
     ]
+  ],
+  "npZ6IB": [
+    "Afișează clasamentul"
   ],
   "npfhh0": [
     "Înainte de a cumpăra boost-uri, trebuie să anulezi acțiunea de modificare a abonamentului, care este în curs."
@@ -136374,6 +138765,9 @@
   "o1OjGD": [
     "Insignă Floare ofilită"
   ],
+  "o1Zign": [
+    "o1Zign"
+  ],
   "o1bhkD": [
     "Lansează prin Desktop App"
   ],
@@ -136631,6 +139025,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "o6mBdl": [
+    "Vezi activitatea recentă"
   ],
   "o7DqF3": [
     "Ramificație"
@@ -137118,6 +139515,9 @@
   "oHWnLy": [
     "Canale sugerate"
   ],
+  "oHdW+u": [
+    "Fără clasare"
+  ],
   "oHh3oI": [
     "Discord System Helper nu s-a putut dezinstala: ",
     [
@@ -137246,23 +139646,6 @@
   ],
   "oMNyYN": [
     "Schimbă conturile"
-  ],
-  "oMk0zq": [
-    "Obține o reducere de 20% la următoarele tale 6 luni de YouTube Premium. ",
-    [
-      8,
-      "$link",
-      [
-        "Se aplică Termeni și Condiții"
-      ],
-      [
-        [
-          1,
-          "helpCenterUrl"
-        ]
-      ]
-    ],
-    "."
   ],
   "oMx98L": [
     "Angajat Discord"
@@ -138789,6 +141172,9 @@
     "pescuit",
     "vidră"
   ],
+  "otwb22": [
+    "otwb22"
+  ],
   "ouHggI": [
     "Permisiuni generale canal"
   ],
@@ -139792,6 +142178,9 @@
   "pDuyi0": [
     "Le permite membrilor să trimită mesaje vocale."
   ],
+  "pDzipI": [
+    "Hubul serverului a fost publicat. Oricine de pe server îl poate vedea acum."
+  ],
   "pEAl4b": [
     "Volum stream"
   ],
@@ -140140,6 +142529,9 @@
       "discountPercent"
     ],
     "% reducere la linia de simulare PRO Series"
+  ],
+  "pSCe5T": [
+    "pSCe5T"
   ],
   "pSZKvM": [
     "Data"
@@ -142181,6 +144573,9 @@
     "supărare",
     "supărat"
   ],
+  "pp6WeD": [
+    "Selectează roluri"
+  ],
   "ppGw/P": [
     "Cămin"
   ],
@@ -142398,6 +144793,9 @@
   "prvWKm": [
     "Le permite membrilor să trimită mesaje pe canalele de text și să creeze postări pe canelele de tip forum."
   ],
+  "ps4413": [
+    "ps4413"
+  ],
   "psDfFO": [
     "Aspect galerie implicit"
   ],
@@ -142447,6 +144845,20 @@
   ],
   "pt88Vb": [
     "NOU Trailer de scurt-metraj de animație"
+  ],
+  "ptD18B": [
+    "Începe un nou clasament! Cine va juca cel mai mult săptămâna asta? Până acum ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " e în frunte."
   ],
   "ptItsj": [
     "Avatarul, imaginea pentru banner, numele de utilizator sau numele afișat, descrierile text sau tag-ul de server"
@@ -142685,6 +145097,9 @@
   "pylO3w": [
     "Magazin"
   ],
+  "pypEfa": [
+    "pypEfa"
+  ],
   "pythUC": [
     "Mulțumită unei alte ființe umane generoase, acum ai acces la un serviciu de chat cu avantaje sporite pentru perioada ",
     [
@@ -142711,6 +145126,9 @@
   ],
   "pzCe7h": [
     "Date de identificare nevalide"
+  ],
+  "pzQFS9": [
+    "pzQFS9"
   ],
   "pzTFpM": [
     "Această pagină nu este vizibilă pentru membri și poate fi ștearsă oricând."
@@ -143084,6 +145502,22 @@
   ],
   "q7A8hP": [
     "Lucrează cu noi"
+  ],
+  "q7PYXq": [
+    [
+      1,
+      "badgeName"
+    ],
+    ", insigna ",
+    [
+      2,
+      "position"
+    ],
+    " din ",
+    [
+      2,
+      "total"
+    ]
   ],
   "q7WNGv": [
     "Ascunde link-urile de invitație"
@@ -143507,6 +145941,9 @@
   ],
   "qIZICF": [
     "Un nou mod de a vă juca împreună."
+  ],
+  "qIsTEd": [
+    "qIsTEd"
   ],
   "qJPLNa": [
     "Scrie sau selectează un emoji"
@@ -144405,6 +146842,9 @@
   "qh9t5c": [
     "Dorințele devin cadouri"
   ],
+  "qhOt/V": [
+    "qhOt/V"
+  ],
   "qhZmhU": [
     "Participare"
   ],
@@ -144780,6 +147220,9 @@
   "qqjm8O": [
     "Folosește boosturi pentru a porni un server găzduit și a te juca cu prietenii!"
   ],
+  "qquj6H": [
+    "qquj6H"
+  ],
   "qqyp/e": [
     "Poți încărca doar ",
     [
@@ -144787,6 +147230,18 @@
       "limit"
     ],
     " fișiere în același timp!"
+  ],
+  "qr8Cg3": [
+    "Redat de ",
+    [
+      1,
+      "a"
+    ],
+    " și ",
+    [
+      1,
+      "b"
+    ]
   ],
   "qr9dEP": [
     "Anunțuri"
@@ -145704,6 +148159,9 @@
   "rD6EaA": [
     "Citește mai puțin"
   ],
+  "rDWswi": [
+    "Piciorușe vesele"
+  ],
   "rDjKru": [
     "Insignă nouă: ",
     [
@@ -146106,6 +148564,9 @@
   ],
   "rNGQfD": [
     "Partajează linkul misiunii"
+  ],
+  "rO+7yN": [
+    "rO+7yN"
   ],
   "rO0Vix": [
     "Sau partajează un dispozitiv"
@@ -146896,6 +149357,17 @@
     ],
     " ori!"
   ],
+  "rbqtTJ": [
+    "Am stabilit că faci parte din grupa de vârstă a adolescenților (13-17). Dacă nu este corect, ",
+    [
+      8,
+      "hook",
+      [
+        "cconfirmă-ți statutul de adult"
+      ]
+    ],
+    "."
+  ],
   "rbwRlf": [
     "Dacă reiei abonamentul Nitro Classic, vom începe din nou să percepem suma de ",
     [
@@ -147227,6 +149699,9 @@
   "rhBeKe": [
     "Data nașterii tale"
   ],
+  "rhDbuQ": [
+    "un joc"
+  ],
   "rhY1Rs": [
     [
       2,
@@ -147543,6 +150018,9 @@
   ],
   "rlBMue": [
     "Aici se află o persoană pe care ai blocat-o."
+  ],
+  "rlHWVB": [
+    "rlHWVB"
   ],
   "rlNJwZ": [
     "Confirmă conectarea cu părinții pentru:"
@@ -148657,6 +151135,9 @@
   "s0KCgF": [
     "Activează confeti"
   ],
+  "s0Kbif": [
+    "s0Kbif"
+  ],
   "s0N1nM": [
     "Protecție DDoS"
   ],
@@ -148868,7 +151349,7 @@
     "Caută canale"
   ],
   "s5No7R": [
-    "Acest sunet este de pe un server care poate fi descoperit."
+    "Acest sunet este de pe un server public."
   ],
   "s5Qo8E": [
     "Blup"
@@ -149577,6 +152058,9 @@
   "sO+NI5": [
     "Introdu-ți numele"
   ],
+  "sOWu4j": [
+    "sOWu4j"
+  ],
   "sOaT2j": [
     "Confirmă că vrei să-i acorzi aplicației ",
     [
@@ -149653,6 +152137,9 @@
       1,
       "price"
     ]
+  ],
+  "sQ1bDT": [
+    "sQ1bDT"
   ],
   "sQ42iT": [
     "Resetarea setărilor de voce va elimina opririle locale de microfon, precum și volumele locale.\nSigur vrei să continui?"
@@ -149735,6 +152222,9 @@
   ],
   "sRApon": [
     "Revino la aplicație"
+  ],
+  "sRCTRC": [
+    "sRCTRC"
   ],
   "sRJGR1": [
     "Acest server nu este disponibil în locația ta."
@@ -149821,6 +152311,9 @@
   ],
   "sTFApF": [
     "Deblocat"
+  ],
+  "sTG4TS": [
+    "sTG4TS"
   ],
   "sTo7s3": [
     "Ascultă de pe un dispozitiv compatibil"
@@ -152255,6 +154748,9 @@
     "oră",
     "timp"
   ],
+  "stpl+C": [
+    "stpl+C"
+  ],
   "straight_ruler": [
     "linie",
     "margine dreaptă",
@@ -152352,6 +154848,13 @@
   ],
   "suRApw": [
     "Public"
+  ],
+  "subXXA": [
+    [
+      1,
+      "name"
+    ],
+    " (Tu)"
   ],
   "suhY+Y": [
     "Configurare siguranță"
@@ -152640,6 +155143,9 @@
   ],
   "syAApU": [
     "Anulează regula pentru AutoMod"
+  ],
+  "syCNDV": [
+    "syCNDV"
   ],
   "syHjLL": [
     [
@@ -153192,6 +155698,9 @@
   ],
   "tC1pvL": [
     "Mai multe sfaturi"
+  ],
+  "tC4dgc": [
+    "tC4dgc"
   ],
   "tCQ3H8": [
     "Pasul ",
@@ -155031,6 +157540,9 @@
   "toqSSG": [
     "Contribuie la îmbunătățirea modelelor de spam ale Discord trimițând date atunci când marchezi mesajele ca nefiind spam."
   ],
+  "toxuHd": [
+    "Joacă câteva jocuri ca să intri în clasament!"
+  ],
   "tozlEv": [
     "Fă-ți ",
     [
@@ -155097,6 +157609,18 @@
   ],
   "tqSSSA": [
     "Modifică tipul de abonament sau reactivează abonamentul"
+  ],
+  "tqVg4M": [
+    "Jocuri jucate: ",
+    [
+      1,
+      "firstGame"
+    ],
+    " și ",
+    [
+      1,
+      "secondGame"
+    ]
   ],
   "tqtDXC": [
     "Canale asociate"
@@ -155338,6 +157862,9 @@
   "ts6u6r": [
     "Activează"
   ],
+  "tsPUvC": [
+    "tsPUvC"
+  ],
   "tsQOs+": [
     "Acum îți poți revendica ",
     [
@@ -155498,6 +158025,9 @@
     "televizor",
     "tv",
     "video"
+  ],
+  "tv1NO2": [
+    "tv1NO2"
   ],
   "tv2DNy": [
     [
@@ -155860,6 +158390,9 @@
   ],
   "u0Go2s": [
     "Încălcarea politicilor noaste poate duce la penalizări ale serverului tău, inclusiv la eliminarea din Descoperire."
+  ],
+  "u0HAhn": [
+    "Partajează avantajele Nitro, cum ar fi fișiere mai mari și emojiuri animate."
   ],
   "u0Ra/G": [
     "Discord Nitro este o idee care ne-a venit în timp ce mâncam cartofi la micul dejun."
@@ -156793,6 +159326,9 @@
   "uJAMFX": [
     "Obține Orbs"
   ],
+  "uJR+29": [
+    "uJR+29"
+  ],
   "uJWIj/": [
     "Continuă pe Discord"
   ],
@@ -157604,6 +160140,14 @@
   "uexPgT": [
     "Servere populare de educație"
   ],
+  "ueza5l": [
+    "Activează partajarea activității pentru a ajuta la deblocarea acestui clasament. E nevoie de cel puțin ",
+    [
+      2,
+      "memberCount"
+    ],
+    " membri ai serverului care să-și partajeze activitatea de gaming."
+  ],
   "ufBaba": [
     "Revendică un pachet gratuit până pe ",
     [
@@ -157853,6 +160397,9 @@
     ],
     " în care îți poți confirma vârsta înainte să ți se șteargă contul. Verifică-ți e-mailul pentru a vedea instrucțiunile privind procesul de verificare a vârstei."
   ],
+  "ukdP2q": [
+    "ukdP2q"
+  ],
   "ukdxuo": [
     "Nume"
   ],
@@ -158007,6 +160554,24 @@
       1,
       "gameName"
     ]
+  ],
+  "unVTUQ": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " a câștigat competiția săptămânii, cu un timp de joc de ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
   ],
   "unamused": [
     "aiurea",
@@ -158453,6 +161018,28 @@
   ],
   "uyVrTN": [
     "Titlul postării"
+  ],
+  "uytDvV": [
+    "Recompensă prin cod de unică folosință. Expiră pe ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Se aplică Condiții."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
   ],
   "uyuIeg": [
     "Pregătește-ți server-ul pentru Descoperire"
@@ -159539,6 +162126,9 @@
   "vRSCKv": [
     "Nitro Diamant"
   ],
+  "vRw5lm": [
+    "Nu te poți alătura acestui server din cauza grupei tale de vârstă."
+  ],
   "vRzp7P": [
     "Amuțește serverul"
   ],
@@ -159649,6 +162239,9 @@
   ],
   "vWkIII": [
     "Aici vor apărea mesajele necitite de pe toate canalele pe care nu le-ai amuțit. A venit momentul să ajungi la performanța inbox zero!"
+  ],
+  "vX6Vdt": [
+    "vX6Vdt"
   ],
   "vX7xid": [
     "Setarea de program va fi ",
@@ -161812,12 +164405,12 @@
     "Descoperă overlay-ul vocal pe dispozitivele mobile!"
   ],
   "wE4a/r": [
-    "Acum, câștigurile devin mega-câștiguri cu un multiplicator de ",
+    "Acum, câștigurile tale devin megacâștiguri cu un multiplicator de ",
     [
       2,
       "bonusOrbMultiplier"
     ],
-    "x la recompensele pentru Orbs."
+    "x aplicat recompenselor Orbs."
   ],
   "wEHnxW": [
     "Nicio țară găsită."
@@ -161840,6 +164433,9 @@
       1,
       "name"
     ]
+  ],
+  "wFVx8N": [
+    "wFVx8N"
   ],
   "wFWO6D": [
     [
@@ -161999,6 +164595,9 @@
   "wK78Qv": [
     "Ai ales să ignori această solicitare de mesaje. Vrei să blochezi acest utilizator pentru a-l împiedica să trimită alte mesaje?"
   ],
+  "wK7qQT": [
+    "wK7qQT"
+  ],
   "wKJfIg": [
     [
       6,
@@ -162020,6 +164619,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "wKXLfQ": [
+    "Primii trei"
   ],
   "wKaVLC": [
     "Revizuiește-ți cadoul"
@@ -162370,9 +164972,6 @@
         ]
       ]
     ]
-  ],
-  "wUpqua": [
-    "Necesită activarea creării clipurilor."
   ],
   "wVBHr0": [
     "Subsistem audio"
@@ -163149,6 +165748,9 @@
       ]
     ]
   ],
+  "wkUDRj": [
+    "wkUDRj"
+  ],
   "wkYAlz": [
     "Niciuna"
   ],
@@ -163293,6 +165895,9 @@
   ],
   "wo3D3T": [
     "Bucură-te de reduceri grozave la oricare (sau la fiecare!) articol din magazin. Doar cu Nitro."
+  ],
+  "woAZeh": [
+    "woAZeh"
   ],
   "woMjLV": [
     "Verifică-ți numărul de telefon."
@@ -164348,6 +166953,9 @@
   "wvX+eD": [
     "Rubin"
   ],
+  "wvbB3Z": [
+    "Personalizează lista de prieteni"
+  ],
   "wve4kg": [
     "Setări utilizator (Suprascriere build: ",
     [
@@ -164950,6 +167558,9 @@
   "x41/Vw": [
     "Drop nou"
   ],
+  "x411uf": [
+    "x411uf"
+  ],
   "x4hbeZ": [
     "E necesară o adresă de e-mail verificată."
   ],
@@ -165080,6 +167691,9 @@
       "modKey"
     ],
     " +/-."
+  ],
+  "x9aorn": [
+    "Bun venit în hubul serverului"
   ],
   "x9at20": [
     "Ia-ți jocul pe Battle.net"
@@ -165725,12 +168339,12 @@
     "Adaugă la favorite"
   ],
   "xL7Cfe": [
-    "Obține gratuit primul an de My Best Buy Plus™ (valorează 29,99 USD). Primește înapoi ",
+    "Obține gratuit primul an de My Best Buy Plus™ (în valoare de 29,99 USD). Primește înapoi ",
     [
       1,
       "rewardPercentage"
     ],
-    "% prin recompense la anumite precomenzi pentru cele mai mari jocuri ale sezonului. ",
+    "% sub formă de recompense la anumite precomenzi pentru cele mai mari titluri ale sezonului. ",
     [
       8,
       "$link",
@@ -165873,11 +168487,14 @@
   "xO2msf": [
     "Din cea mai recentă săptămână"
   ],
+  "xO5QzM": [
+    "Creează un tag de server"
+  ],
   "xOE5bA": [
     "Notificări"
   ],
   "xOP5OP": [
-    "Ești la zi cu toate"
+    "Ai făcut tot ce se putea"
   ],
   "xOVEjc": [
     "Vizibil doar pentru cei care au acces la acest canal"
@@ -166384,6 +169001,9 @@
   "xZkJAH": [
     "Bun venit la Nitro!"
   ],
+  "xZupEi": [
+    "Vezi notița"
+  ],
   "xZvFpA": [
     "Adaugă rol"
   ],
@@ -166394,6 +169014,9 @@
     "radiografie",
     "raze x",
     "schelet"
+  ],
+  "xa55WX": [
+    "xa55WX"
   ],
   "xaCthD": [
     "Ce te obsedează fix acum?"
@@ -166450,6 +169073,14 @@
   "xbRNI3": [
     "Mai multe persoane pe care le-ai blocat sau ignorat sunt aici."
   ],
+  "xboFyi": [
+    "Plasează widgetul pe poziția ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " în coloana principală"
+  ],
   "xc+Psz": [
     "Activează video"
   ],
@@ -166476,6 +169107,9 @@
   ],
   "xcvy+3": [
     "Ți-ai eliminat votul"
+  ],
+  "xczAcS": [
+    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
@@ -167383,6 +170017,9 @@
   "xxvoAr": [
     "Alege un sunet de notificare personalizat"
   ],
+  "xyCJYs": [
+    "Whiteboardul nu a putut fi actualizat. Încearcă din nou."
+  ],
   "xyE+Dn": [
     "Codurile se potrivesc!"
   ],
@@ -167564,6 +170201,9 @@
   ],
   "y1Wu2f": [
     "amicul tău"
+  ],
+  "y1neEe": [
+    "Conectează-te la Spotify și ajută la crearea de statistici muzicale pentru serverul tău"
   ],
   "y29JXs": [
     "Membrii server-ului"
@@ -168042,6 +170682,76 @@
   ],
   "yGTLxP": [
     "Invitația nu mai este validă"
+  ],
+  "yGqf0D": [
+    "de ",
+    [
+      8,
+      "memberCountHook",
+      [
+        [
+          6,
+          "memberCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " membru"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " membri"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    ", pentru ",
+    [
+      8,
+      "artistCountHook",
+      [
+        [
+          6,
+          "artistCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " artist ascultat"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " artiști ascultați"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " săptămâna aceasta. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "În creștere"
+        ],
+        "down": [
+          "În scădere"
+        ],
+        "other": []
+      }
+    ]
   ],
   "yGyaIC": [
     "Număr de caractere"
@@ -169136,6 +171846,9 @@
   "ygslb0": [
     "Anulează apelul"
   ],
+  "yh5MKj": [
+    "yh5MKj"
+  ],
   "yhEXX7": [
     [
       2,
@@ -169672,6 +172385,9 @@
   ],
   "ytiENm": [
     "Elimină imaginea"
+  ],
+  "ytlaCY": [
+    "Ultimul din folder"
   ],
   "ytoXKr": [
     "Rețea"
@@ -171055,6 +173771,89 @@
   "zUUbBM": [
     "Camerun"
   ],
+  "zUiZPF": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ],
+            [
+              [
+                1,
+                "username2OnClick"
+              ]
+            ]
+          ]
+        ]
+      }
+    ],
+    " și ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " altă persoană"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " alte persoane"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " folosesc Whiteboard-ul."
+  ],
   "zUjL+R": [
     "Fă upgrade la Nitro și bucură-te de peste 50 de jocuri pentru PC și consolă cu Xbox Game Pass. ",
     [
@@ -171329,6 +174128,9 @@
   "zcKE8W": [
     "Aplicație Xbox pentru mobil instalată"
   ],
+  "zcOQPR": [
+    "zcOQPR"
+  ],
   "zcZtrU": [
     "Personalizează insignele"
   ],
@@ -171547,6 +174349,9 @@
   "zhfXbs": [
     "Cererea ta este în așteptare!"
   ],
+  "zi28x1": [
+    "Luptă de echipă"
+  ],
   "ziB0HF": [
     "Joacă ",
     [
@@ -171692,6 +174497,9 @@
       ]
     ]
   ],
+  "zleX9q": [
+    "Adaugă text sau imagine"
+  ],
   "zlvNOj": [
     "Automată (folosește setările sistemului)"
   ],
@@ -171778,6 +174586,9 @@
       "c",
       []
     ]
+  ],
+  "zn/uBN": [
+    "zn/uBN"
   ],
   "zn8/AX": [
     "Pictogramă"

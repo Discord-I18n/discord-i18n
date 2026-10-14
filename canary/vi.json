@@ -1987,9 +1987,6 @@
   "+sXN3T": [
     "Discord có thể lọc ra một số tin nhắn chứa spam. Các tin nhắn này đi vào hộp thư Spam của bạn."
   ],
-  "+sdglm": [
-    "Thất bại"
-  ],
   "+smCv9": [
     "Ô Biểu Cảm Tiếng"
   ],
@@ -6387,6 +6384,9 @@
       "recipient"
     ],
     " sẽ được tận hưởng Nitro. Bạn đang làm tốt đấy, sao không gửi thêm cái nữa?"
+  ],
+  "0gqEHu": [
+    "Gửi 2 tuần Nâng Cấp Máy Chủ, hồ sơ tùy chỉnh và nhiều tính năng khác."
   ],
   "0gtbE8": [
     "Xem trước Giọng nói"
@@ -11118,6 +11118,23 @@
       "cardinal"
     ],
     " Miễn Phí"
+  ],
+  "2nw1yD": [
+    "Họ sẽ nhận được 2 tuần dùng hồ sơ tùy chỉnh, tăng dung lượng tải lên và nhiều tính năng khác. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Đã đạt giới hạn tin nhắn lên lịch. Mua ",
@@ -23880,9 +23897,6 @@
   "892qg1": [
     "Có"
   ],
-  "89CDAj": [
-    "Mua Trang Bị"
-  ],
   "89CimT": [
     "Chọn lựa những nội dung bạn nhìn thấy khi tệp tin đa phương tiện được tải lên hoặc trích dẫn liên kết có thể chứa nội dung nhạy cảm. ",
     [
@@ -26312,9 +26326,6 @@
   ],
   "94JbM3": [
     "Báo cáo sự cố"
-  ],
-  "94Kji7": [
-    "Trận đấu bắt đầu"
   ],
   "94QqkS": [
     "Đã gửi một hình ảnh trong kênh nội dung ẩn"
@@ -29751,14 +29762,6 @@
   ],
   "AjBsPe": [
     "Toàn Màn Hình (Độc Quyền)"
-  ],
-  "AjNN1/": [
-    "Rồng ",
-    [
-      1,
-      "drakeName"
-    ],
-    " Bị Tiêu Diệt"
   ],
   "AjdEvM": [
     "Không thể sửa đổi hình ảnh AVIF động và ảnh sẽ được tải lên nguyên trạng."
@@ -35956,14 +35959,6 @@
   "DUD+5n": [
     "Số Nhận Diện Máy Chủ"
   ],
-  "DUQK8U": [
-    "Rồng ",
-    [
-      1,
-      "drakeName"
-    ],
-    " Bị Cướp"
-  ],
   "DUT5IC": [
     "Kích thước tệp tối đa là ",
     [
@@ -36617,6 +36612,22 @@
   ],
   "DrgnS+": [
     "Bạn đang mua một món quà."
+  ],
+  "DrjI2v": [
+    "Sẽ sớm có thêm. Nếu cảm thấy hào phóng, bạn luôn có thể tặng Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Tin Nhắn Báo Cáo Được Đăng bởi ",
@@ -41629,6 +41640,9 @@
       ]
     ],
     " đang theo dõi kênh này. Bạn có thể sửa hoặc xóa những tin nhắn này sau, và nó cũng sẽ được cập nhật tương ứng trên từng máy chủ theo dõi kênh."
+  ],
+  "GCMMir": [
+    "Nhìn thấy một người bạn? Chia sẻ Nitro nào"
   ],
   "GCNMM8": [
     "Độ trễ Nhấn để Nói"
@@ -51259,6 +51273,9 @@
   "KXYLmI": [
     "Lỗi Camera Chưa Xác Định"
   ],
+  "KXbhzo": [
+    "Tặng họ Nitro"
+  ],
   "KXcEC9": [
     "Quản Lý Vai Trò"
   ],
@@ -53295,6 +53312,13 @@
   ],
   "LVh3/5": [
     "Thêm chi tiết"
+  ],
+  "LVlgM4": [
+    "Chia sẻ Nitro với ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Tặng ",
@@ -58645,6 +58669,9 @@
   ],
   "NkeB4/": [
     "Theo mặc định, bàn phím gắn ngoài sẽ gửi tin nhắn khi nhấn phím enter."
+  ],
+  "NkgMIP": [
+    "Chia sẻ 2 tuần Nitro để stream sắc nét hơn, mượt mà hơn, cùng các đặc quyền hồ sơ và nhiều tính năng khác."
   ],
   "NkshQt": [
     "Than Chì"
@@ -64747,9 +64774,6 @@
   ],
   "QO7rO6": [
     "Chạy"
-  ],
-  "QOC6N4": [
-    "Lật ngược tái thiết lập"
   ],
   "QOQlWa": [
     "Xảy ra lỗi khi quét."
@@ -72658,6 +72682,9 @@
   ],
   "TyMJwC": [
     "Các thành viên không thể sử dụng bot này cho đến khi bạn bật quyền."
+  ],
+  "TyRCCM": [
+    "Cho bạn bè của bạn \"nếm thử\" và trở thành MVP của nhóm trò chuyện."
   ],
   "TyUdka": [
     "Thay đổi mọi thứ với các phông chữ và hiệu ứng mới cho tên hiển thị của bạn. Chỉ có khi đăng ký Nitro."
@@ -84773,6 +84800,9 @@
   "Z2MWuH": [
     "Đặt thư mục này làm mặc định"
   ],
+  "Z2Ri4D": [
+    "Mở bất cứ lúc nào để xem ai đang trực tuyến và họ đang làm gì."
+  ],
   "Z2Y4c9": [
     "Người nghe"
   ],
@@ -84873,6 +84903,9 @@
       ]
     ],
     " để truy cập nhanh."
+  ],
+  "Z3LquY": [
+    "Xem hoạt động của bạn bè"
   ],
   "Z3Vn/X": [
     "Tài năng vô dụng nhất mà bạn có là gì?"
@@ -85118,6 +85151,9 @@
   ],
   "ZBjOVT": [
     "Nhấn đúp để phát hoặc tạm dừng."
+  ],
+  "ZBuqcM": [
+    "Bạn đã chia sẻ toàn bộ gói dùng thử của mình"
   ],
   "ZC3PJ2": [
     "Bỏ qua hết"
@@ -95631,9 +95667,6 @@
     "mũ",
     "nữ cao bồi"
   ],
-  "cp+kpc": [
-    "Tăng Cấp"
-  ],
   "cpFumO": [
     "Chúc mừng!"
   ],
@@ -98798,6 +98831,9 @@
   "dzGILG": [
     "Hoàn tất đăng ký"
   ],
+  "dzQxHq": [
+    "Gửi Gói Dùng Thử"
+  ],
   "dzbET7": [
     "Tất cả tin nhắn sẽ được lọc để phát hiện hình ảnh nhạy cảm."
   ],
@@ -100360,9 +100396,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Hồi sinh"
   ],
   "ebojgD": [
     "Có, tôi đồng ý!"
@@ -108657,9 +108690,6 @@
   ],
   "hlDSV2": [
     "Không có Yêu Cầu Kết Bạn nào"
-  ],
-  "hlOYoA": [
-    "Trận đấu kết thúc"
   ],
   "hlS2xq": [
     "LoFi"
@@ -121953,6 +121983,9 @@
   "n/Vzkw": [
     "Discord sẽ không bao giờ yêu cầu mã thông báo mật khẩu hoặc tài khoản."
   ],
+  "n/a182": [
+    "Chia sẻ HD"
+  ],
   "n/aoIB": [
     "Phiên bản Beta cho Bộ lọc Spam trong Tin Nhắn Trực Tiếp"
   ],
@@ -133806,6 +133839,14 @@
   "rdCyA/": [
     "Đang kiểm tra định tuyến"
   ],
+  "rdh1ou": [
+    "Giúp ",
+    [
+      1,
+      "recipientName"
+    ],
+    " stream ở chế độ HD"
+  ],
   "rdhx0q": [
     "Bạn phải xác minh email trong vòng 1 ngày để giữ tên người dùng của mình."
   ],
@@ -134004,9 +134045,6 @@
   ],
   "rhBeKe": [
     "Ngày sinh của bạn"
-  ],
-  "rhDbuQ": [
-    "một trò chơi"
   ],
   "rhY1Rs": [
     [
@@ -135519,6 +135557,27 @@
   "s8TEkh": [
     "Không có DM Nhóm nào để dọn dẹp"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " có 10 ngày để chấp nhận gói dùng thử trước khi gói được trả về cho bạn. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Bắt đầu Sân Khấu"
   ],
@@ -136520,9 +136579,6 @@
   ],
   "saLMWc": [
     "Tham gia không dùng âm thanh gia nhập"
-  ],
-  "saS9BW": [
-    "Thất bại"
   ],
   "saZaRb": [
     "Kết thúc Sân Khấu"
@@ -139238,6 +139294,14 @@
   ],
   "tJp+QV": [
     "Học hỏi từ những máy chủ kiếm tiền khác"
+  ],
+  "tJvaQ8": [
+    "Tặng ",
+    [
+      1,
+      "recipientName"
+    ],
+    " 2 tuần dùng hồ sơ, chủ đề tùy chỉnh và nhiều tính năng khác."
   ],
   "tJzB6F": [
     "Hiển Thị Sai Trò Chơi"
@@ -142932,14 +142996,6 @@
   ],
   "uexPgT": [
     "Máy Chủ Phổ Biến về Giáo Dục"
-  ],
-  "ueza5l": [
-    "Bật chia sẻ hoạt động để giúp mở khóa bảng xếp hạng này. Cần có ít nhất ",
-    [
-      2,
-      "memberCount"
-    ],
-    " thành viên máy chủ chia sẻ hoạt động chơi game của họ."
   ],
   "ufBaba": [
     "Nhận gói miễn phí trước ngày ",
@@ -150820,9 +150876,6 @@
   ],
   "xcvy+3": [
     "Bạn đã hủy bình chọn của mình"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
