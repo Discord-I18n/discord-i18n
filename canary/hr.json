@@ -91,6 +91,9 @@
   "+18gq6": [
     "Nisam mogao/la kliknuti na igru"
   ],
+  "+1CM/5": [
+    "Pobjeda u timskoj borbi"
+  ],
   "+1H47t": [
     "Opcije"
   ],
@@ -252,13 +255,13 @@
           [
             7
           ],
-          " minute "
+          " minutu"
         ],
         "few": [
           [
             7
           ],
-          " minute"
+          "minute"
         ],
         "other": [
           [
@@ -330,6 +333,9 @@
   "+6eRyq": [
     "Još nema otključanih posebnih pogodnosti"
   ],
+  "+7+Hvl": [
+    "Čitaj poruke na svojim serverima"
+  ],
   "+78Pfm": [
     "Prijavi"
   ],
@@ -382,6 +388,9 @@
   ],
   "+9QSnj": [
     "Nedavno"
+  ],
+  "+9TbTS": [
+    "+9TbTS"
   ],
   "+9XKWu": [
     "https://discord.gg/example"
@@ -1183,6 +1192,9 @@
   "+O9Asn": [
     "Pogreška pri plaćanju"
   ],
+  "+OEqVQ": [
+    "Izradi vlastiti hub na serveru"
+  ],
   "+OURPp": [
     "Apsolutno! Server Boostovi su odličan način za podršku svojem omiljenom serveru. Kada Boostaš server, za to dobiješ priznanje u obliku specijalne ikone Popis članova, Boosting ulogu i badge za profil."
   ],
@@ -1677,6 +1689,51 @@
   "+a5G2l": [
     "Nedostupno"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " na ljestvici provevši ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan u igri"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana u igri"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "+aRmAc": [
     "Pokreni još jedan server za igre"
   ],
@@ -1736,6 +1793,19 @@
   ],
   "+cGVV6": [
     "Često korišteno"
+  ],
+  "+cSvS8": [
+    "Položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " od ",
+    [
+      1,
+      "positionCount"
+    ],
+    " u glavnom stupcu"
   ],
   "+caQHK": [
     "Promijeni kategoriju"
@@ -2053,6 +2123,9 @@
   ],
   "+o4Q7e": [
     "Poduzmi odgovarajuće radnje"
+  ],
+  "+oFzYq": [
+    "+oFzYq"
   ],
   "+oNl6x": [
     "Klikneš li „Prihvaćam” to znači da prihvaćaš ",
@@ -2620,6 +2693,50 @@
     ],
     "."
   ],
+  "+z+JUw": [
+    "Igrali ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    ", ",
+    [
+      1,
+      "c"
+    ],
+    " i ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " druga osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih osoba"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+z5dYe": [
     "Poveži svoj račun kroz igru da nastaviš"
   ],
@@ -2842,6 +2959,14 @@
   ],
   "/1mWUn": [
     "Ukupno osvojenih Nitro orbova:"
+  ],
+  "/272et": [
+    "Pobijedio/la je na prošlotjednoj ljestvici igranja ukupno provevši ",
+    [
+      1,
+      "minutes"
+    ],
+    " min u igri."
   ],
   "/2Gnoa": [
     "Opis slike (Alt tekst)"
@@ -3135,6 +3260,9 @@
   ],
   "/8WWvE": [
     "Pristupanje kao"
+  ],
+  "/8cdWl": [
+    "/8cdWl"
   ],
   "/8czH4": [
     "Pozivnica na zajedničko slušanje na ",
@@ -3498,6 +3626,40 @@
     ],
     ", izgubit ćeš te posebne pogodnosti po završetku trenutačnog obračunskog razdoblja:"
   ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju provevši ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan u igri"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana u igri"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "/K2RDH": [
     "Prikaži manje emojija"
   ],
@@ -3656,6 +3818,9 @@
   "/OpRAP": [
     "Otključaj svoj račun"
   ],
+  "/OtM0k": [
+    "Dodaj widgete u ovaj stupac."
+  ],
   "/OywGQ": [
     "Ažuriraj svoje ime"
   ],
@@ -3683,6 +3848,9 @@
   ],
   "/PgrpK": [
     "Moji prijatelji su dobri većinu vremena."
+  ],
+  "/Pkxmw": [
+    "Posljednje u kategoriji"
   ],
   "/Q4HRN": [
     "Godišnje"
@@ -3979,6 +4147,36 @@
   "/UyK0d": [
     "Gvineja"
   ],
+  "/VAMco": [
+    "Pobijedio/la je na prošlotjednoj ljestvici igrajući ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jedinstvenu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " jedinstvene igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jedinstvenih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "/VNqdD": [
     "Zadane postavke servera"
   ],
@@ -4096,6 +4294,20 @@
   "/YzI63": [
     "Nema pristupa"
   ],
+  "/ZJIuo": [
+    "Sviđa ti se taj zvuk? Nitro ti omogućuje upotrebu zvukova ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " gdje god poželiš."
+  ],
   "/ZNT+0": [
     "Uklanjanje avatara nije uspjelo. Pokušaj ponovno kasnije."
   ],
@@ -4141,6 +4353,9 @@
   "/b/DU7": [
     "Utišao si ovaj server"
   ],
+  "/b1eZT": [
+    "Grupiraj prijatelje na glasovnom"
+  ],
   "/b5nqj": [
     "Resetiranje avatara"
   ],
@@ -4183,6 +4398,9 @@
   ],
   "/bX4Jn": [
     "Prilagođeni link pozivnice"
+  ],
+  "/bZ+Av": [
+    "Prijatelji na istom glasovnom kanalu bit će zajedno grupirani"
   ],
   "/bd0Qv": [
     "Promjene se pohranjuju automatski."
@@ -4430,6 +4648,22 @@
   "/jUd2+": [
     "Tvoja poruka nije mogla biti poslana jer je ovaj server dosegao maksimalan broj postova. Oslobodi prostor arhiviranjem postova."
   ],
+  "/jdd/7": [
+    "Ovaj emoji potječe iz paketa Nitro emojija. U Beta je fazi i dostupan je samo odabranim članovima Nitra. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više."
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "/jubeD": [
     "Napravi tag"
   ],
@@ -4641,6 +4875,9 @@
   "/nmBUl": [
     "Predstavljamo sinkronizaciju kontrasta"
   ],
+  "/nma+a": [
+    "Poredak se ažurira svakodnevno"
+  ],
   "/o1IfA": [
     "Ideš u neku drugu školu? ",
     [
@@ -4827,6 +5064,17 @@
   ],
   "/sYelW": [
     "na #showcase"
+  ],
+  "/sw0JL": [
+    [
+      1,
+      "widgetName"
+    ],
+    ": ",
+    [
+      1,
+      "viewName"
+    ]
   ],
   "/tGlcj": [
     "Tvoje datoteke su prevelike"
@@ -5078,6 +5326,9 @@
   ],
   "0+11FF": [
     "Koristi bolje emojije dok igraš"
+  ],
+  "0+5+Oy": [
+    "Paketi Nitro emojija"
   ],
   "0+5B2Q": [
     "Raspravljaj o sjajnim citatima iz povijesti književnosti"
@@ -5688,6 +5939,9 @@
       []
     ]
   ],
+  "0BwmBU": [
+    "0BwmBU"
+  ],
   "0CEP6e": [
     "Informacije o streamu u prekrivanju"
   ],
@@ -6042,6 +6296,9 @@
   ],
   "0JFpRW": [
     "Ugrabite neke sadržaje za preuzimanje ili posebne uloge"
+  ],
+  "0JLdD3": [
+    "Poruke sustava huba na serveru"
   ],
   "0JMZdz": [
     "Prekoračenje regije uklonjeno"
@@ -7390,6 +7647,9 @@
       ]
     ]
   ],
+  "0kWTS7": [
+    "0kWTS7"
+  ],
   "0ki7+P": [
     "Razumijem da će se prekidanjem veze s ovim tinejdžerom ukloniti moj pristup informacijama o njegovoj aktivnosti na Discordu."
   ],
@@ -8383,6 +8643,9 @@
   "16SG+O": [
     "Prilagodi svoje postavke glasa i videa"
   ],
+  "16VZdD": [
+    "16VZdD"
+  ],
   "16aguo": [
     [
       8,
@@ -9041,6 +9304,9 @@
       ]
     ]
   ],
+  "1MXXPf": [
+    "Uspjeh"
+  ],
   "1MYPH0": [
     "Isprobaj Nitro na ",
     [
@@ -9559,6 +9825,13 @@
   "1bX7Tx": [
     "Tvoj Nitro model"
   ],
+  "1bt50t": [
+    "Posljednje ažuriranje: ",
+    [
+      1,
+      "timestamp"
+    ]
+  ],
   "1c+xwT": [
     "Super naljepnice"
   ],
@@ -9594,6 +9867,9 @@
       ]
     ],
     "."
+  ],
+  "1dd6Fx": [
+    "1dd6Fx"
   ],
   "1dqa3c": [
     "Želiš li prijeći na višu razinu? Dopustiš li praćenje, lakše ćemo igru urediti tako da je doživiš onako kako tebi bolje odgovara i tebi je relevantnije! Možeš se isključiti kad god poželiš u postavkama iOS-a."
@@ -10715,6 +10991,9 @@
   "2Ab4Id": [
     "Izradiš li kanal za najave, profil tvojeg servera bit će vidljiv i drugima, a ne samo članovima tvojeg servera. Privatnošću profila možeš upravljati u izborniku Postavke servera > Profil."
   ],
+  "2AoJt6": [
+    "Dodaj widgete koje će tvoj server stvarno koristiti."
+  ],
   "2Ap8sh": [
     "Potvrdni kodovi"
   ],
@@ -11126,6 +11405,20 @@
   ],
   "2IY4YN": [
     "Dojava prepada"
+  ],
+  "2IbyWO": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše dana u igri? Trenutačno je ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " u vodstvu."
   ],
   "2J2mKJ": [
     "Nešto drugo"
@@ -11903,6 +12196,19 @@
       ]
     ],
     "."
+  ],
+  "2bu+0V": [
+    "Tvoj je tim pobijedio u timskoj borbi ",
+    [
+      1,
+      "allyKills"
+    ],
+    " - ",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "2cHUti": [
     "Vidi kôd"
@@ -12714,6 +13020,9 @@
   "2visC6": [
     "Kopiraj ID kategorije"
   ],
+  "2vock0": [
+    "Dozvole u vezi zahtjeva za prijateljstvom"
+  ],
   "2vyz+N": [
     "Ovo ime će se pojaviti samo u tvojim favoritima."
   ],
@@ -12968,6 +13277,9 @@
   "3+rPki": [
     "Članovi su dužni pristati na pravila servera prije nego što mogu razgovarati."
   ],
+  "3/DOFo": [
+    "Osvježava se svaki dan i prikazuje posljednjih 7 dana"
+  ],
   "3/IlR0": [
     "Otvori Postavke"
   ],
@@ -13221,6 +13533,12 @@
   ],
   "35G2Mq": [
     "Postavke overlaya"
+  ],
+  "35nXwl": [
+    "35nXwl"
+  ],
+  "35vxnc": [
+    "Ovaj predmet trenutačno nije dostupan za kupnju."
   ],
   "36/RiT": [
     "Promjene u vezi naknada za stvaratelje"
@@ -14315,6 +14633,9 @@
       ]
     ]
   ],
+  "3RgAlG": [
+    "Pobjeda u timskoj borbi"
+  ],
   "3Ru2/x": [
     "Ovaj zvuk potječe s jednog od tvojih servera. Nabavi Nitro da ga koristiš svugdje."
   ],
@@ -14529,6 +14850,19 @@
   "3Uuql+": [
     "Odabrali smo nekoliko vrlo aktivnih kanala."
   ],
+  "3Uwmdt": [
+    "Više opcija, badge ",
+    [
+      1,
+      "position"
+    ],
+    ", ",
+    [
+      1,
+      "badgeName"
+    ],
+    ", skriven"
+  ],
   "3VG9s1": [
     "Preuzimanje — ",
     [
@@ -14612,6 +14946,9 @@
   ],
   "3WoZBc": [
     "Gaming"
+  ],
+  "3Wq/bk": [
+    "3Wq/bk"
   ],
   "3WzxLT": [
     "iOS tipkovnica mijenja veličinu prikaza"
@@ -14829,6 +15166,26 @@
       "regularPrice"
     ],
     "."
+  ],
+  "3ZnaZH": [
+    "3ZnaZH"
+  ],
+  "3Zq6FM": [
+    "Igrali ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " i ",
+    [
+      1,
+      "c"
+    ]
   ],
   "3Zypbv": [
     "Izdvoji aplikaciju u zaseban prozor"
@@ -15516,6 +15873,9 @@
   "3oUE4o": [
     "Potvrdi svoju dob"
   ],
+  "3oxlia": [
+    "Minimalno trajanje obavijesti"
+  ],
   "3p3/BK": [
     "Pozvan/a si da se pridružiš privatnoj grupi"
   ],
@@ -15743,6 +16103,9 @@
   ],
   "3v8kZH": [
     "Izradi tag koji će pomoći ljudima da svoje postove organiziraju u potkategorije. Najviše 20 znakova."
+  ],
+  "3vALem": [
+    "3vALem"
   ],
   "3vPFQi": [
     "Ne prikazuj više"
@@ -16032,6 +16395,9 @@
   ],
   "40EZaQ": [
     "Upiši se"
+  ],
+  "40J/QC": [
+    "40J/QC"
   ],
   "40R63o": [
     "Nije moguće provjeriti dob"
@@ -16373,6 +16739,13 @@
   "493lwX": [
     "Sporije"
   ],
+  "49Jv0I": [
+    "Omogući dijeljenje kako bi pridonio/la widgetu ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "49d6Nd": [
     "Prioritet glasovne aktivnosti"
   ],
@@ -16626,6 +16999,9 @@
   ],
   "4IaoCI": [
     "Filtriraj sve"
+  ],
+  "4IdR/H": [
+    "4IdR/H"
   ],
   "4J2PYL": [
     "moda"
@@ -17024,6 +17400,9 @@
   "4TOv0j": [
     "Kvak"
   ],
+  "4TphyY": [
+    "Poseban Nitro badge na profilu te osobe"
+  ],
   "4TuWfc": [
     "Objaviti u"
   ],
@@ -17409,6 +17788,9 @@
       "username"
     ],
     " te poziva na chat"
+  ],
+  "4aaADG": [
+    "4aaADG"
   ],
   "4ahTBl": [
     "3. Odaberi emoji"
@@ -18358,6 +18740,9 @@
   "4yfIDk": [
     "Prikaži status zahtjeva"
   ],
+  "4yhYGq": [
+    "4yhYGq"
+  ],
   "4yiU7x": [
     "Predmet u igri"
   ],
@@ -18420,6 +18805,9 @@
   "5+2s+R": [
     "Ova postavka se primjenjuje kada se pridružiš novom serveru. Ona se ne primjenjuje retroaktivno na servere u kojima se već nalaziš."
   ],
+  "5+Btln": [
+    "5+Btln"
+  ],
   "5+LPUW": [
     "Ažuriraj svoje podatke o plaćanju inače će ti pretplata isteći ",
     [
@@ -18448,6 +18836,9 @@
       ]
     ],
     "."
+  ],
+  "5+MmpT": [
+    "5+MmpT"
   ],
   "5+RznI": [
     "Otključaj posebne pogodnosti za server"
@@ -18903,6 +19294,13 @@
   "5AelkX": [
     "Započni"
   ],
+  "5AjG8l": [
+    [
+      1,
+      "minutes"
+    ],
+    " min"
+  ],
   "5AkWAd": [
     "Opalac. Izgleda da te je banalo. Nećeš više moći pristupiti ovom serveru ili imati bilo kakav kontakt s njim."
   ],
@@ -19093,6 +19491,46 @@
   ],
   "5D/KEH": [
     "Vrsta pretplate"
+  ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju igrajući ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jedinstvenu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " jedinstvene igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jedinstvenih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "5DFcVl": [
     "Svake godine na ovaj datum: ",
@@ -21708,6 +22146,9 @@
   "6Ecyts": [
     "Potraži link za prijavu u svojoj e-pošti"
   ],
+  "6Ej9W0": [
+    "Vanjske datoteke"
+  ],
   "6EjGUv": [
     "Uključi/isključi prijepis"
   ],
@@ -21854,6 +22295,9 @@
   ],
   "6HXiuE": [
     "Nisu pronađena podudaranja"
+  ],
+  "6Hm8C/": [
+    "6Hm8C/"
   ],
   "6HqDfT": [
     [
@@ -22152,6 +22596,13 @@
   ],
   "6RIwPI": [
     "Nemaš odgovarajuće dopuštenje da izbaciš tog korisnika."
+  ],
+  "6RMLFY": [
+    "Dodano: ",
+    [
+      1,
+      "packName"
+    ]
   ],
   "6RTdZA": [
     "Pauzirao/la si svoju Nitro pretplatu do ",
@@ -22515,6 +22966,19 @@
   "6Y1t5P": [
     "Problem streaminga"
   ],
+  "6Y8H0A": [
+    "ukupno ",
+    [
+      1,
+      "hours"
+    ],
+    " h ",
+    [
+      1,
+      "minutes"
+    ],
+    " min"
+  ],
   "6Y9q8d": [
     "Kako je započeo tvoj server i što tvoju ekipu posebnom?"
   ],
@@ -22809,6 +23273,9 @@
   "6dtcuZ": [
     "Prevuci karticu da aktiviraš LaunchPad"
   ],
+  "6duFnE": [
+    "6duFnE"
+  ],
   "6dwqo0": [
     "Dodavanje povlastice"
   ],
@@ -22835,6 +23302,9 @@
   ],
   "6eNTWe": [
     "Ne možeš ga koristiti dok je onemogućen."
+  ],
+  "6ePRRb": [
+    "6ePRRb"
   ],
   "6eXLcJ": [
     "Prikaži pojedinosti kanala"
@@ -23146,6 +23616,12 @@
         ]
       ]
     ]
+  ],
+  "6mcVBm": [
+    "Novi paketi emojija uz Nitro"
+  ],
+  "6mh541": [
+    "Discord ima poteškoća pri povezivanju s pozivom."
   ],
   "6miRmw": [
     "Boostovima otključaj prilagođenu temu koju svatko vidi kada se pridruži."
@@ -24206,6 +24682,9 @@
   "79MgMO": [
     "Slika avatara"
   ],
+  "79eRJG": [
+    "79eRJG"
+  ],
   "79o/iq": [
     "Kaži nam koja bi to igra trebala biti"
   ],
@@ -24279,6 +24758,9 @@
   ],
   "7CrE9w": [
     "Uzvrati mahanje"
+  ],
+  "7CrlYb": [
+    "Još nije igrao/la nijednu igru"
   ],
   "7Ct0Dj": [
     "Podijeli s nama svoje dojmove o načinu prijavljivanja."
@@ -24829,6 +25311,9 @@
       "positionNumber"
     ]
   ],
+  "7SqAzW": [
+    "7SqAzW"
+  ],
   "7SxW32": [
     "Poslano jučer"
   ],
@@ -24997,6 +25482,34 @@
   ],
   "7WwLnr": [
     "Pretpregled"
+  ],
+  "7X+3f8": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " reprodukcija"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " reprodukcije"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " reprodukcija"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "7XAuyg": [
     "Pozivnica za ovaj model ",
@@ -25413,6 +25926,54 @@
   ],
   "7hB4kg": [
     "Serveri"
+  ],
+  "7hHUIS": [
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " reprodukcija"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " reprodukcije"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " reprodukcija"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "u rastućem trendu"
+        ],
+        "down": [
+          "u padajućem trendu"
+        ],
+        "other": []
+      }
+    ]
   ],
   "7hRBmC": [
     "Pretpregled ukrasa avatara: ništa nije primijenjeno"
@@ -26325,6 +26886,9 @@
   "7yaXr8": [
     "Zgrabi besplatan ukras"
   ],
+  "7ycqkx": [
+    "7ycqkx"
+  ],
   "7ymzsL": [
     "Potvrdi dobnu skupinu"
   ],
@@ -26508,6 +27072,14 @@
   ],
   "8105aL": [
     "Prelagano"
+  ],
+  "81PK67": [
+    "Najmanje ",
+    [
+      2,
+      "memberCount"
+    ],
+    " članova servera mora dijeliti svoju aktivnost igranja da bi im ljestvica bila omogućena."
   ],
   "81cYn8": [
     "Tvoja nova mapa mora sadržavati najmanje dva servera."
@@ -27015,6 +27587,9 @@
   "8HW7r9": [
     "Tvoj profil za određeni server sadrži nedopuštene riječi."
   ],
+  "8Hux/D": [
+    "Sadržaj i postavke namijenjeni odraslima nisu dostupni. Inače Discord radi isto. Ako to nije točno, potvrdi u postavkama da si odrasla osoba."
+  ],
   "8Hvr3+": [
     "Datoteke"
   ],
@@ -27297,6 +27872,35 @@
   "8MMHYG": [
     "Ovaj proizvod neće biti vidljiv članovima dok ga ne objaviš."
   ],
+  "8MO3bp": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " na ljestvici provevši ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
+  ],
   "8MPCVr": [
     "Ne zanima me..."
   ],
@@ -27334,6 +27938,9 @@
       1,
       "timeAgo"
     ]
+  ],
+  "8NcF1k": [
+    "8NcF1k"
   ],
   "8O+nF7": [
     "Potvrdi svoj novi email"
@@ -27380,6 +27987,9 @@
         "balance"
       ]
     ]
+  ],
+  "8Ow7Xi": [
+    "Potvrdi svoju dob da se pridružiš ovom serveru."
   ],
   "8Ox6/E": [
     "Stara verzija prekrivanja nije dostupna u ovom sustavu."
@@ -27593,6 +28203,9 @@
   ],
   "8UcxI6": [
     "Oporavak računa"
+  ],
+  "8VEUZZ": [
+    "8VEUZZ"
   ],
   "8VG6IY": [
     "Kopiraj ID oznake"
@@ -27844,6 +28457,9 @@
     ],
     " i drugi"
   ],
+  "8ZSAWa": [
+    "8ZSAWa"
+  ],
   "8ZcEfj": [
     "Boje"
   ],
@@ -27864,6 +28480,9 @@
   ],
   "8a7IrV": [
     "Registriran je URL ulazne točke veze"
+  ],
+  "8aHNu0": [
+    "Najviše vremena u igri"
   ],
   "8aJzT4": [
     "Pregled"
@@ -27950,6 +28569,9 @@
   ],
   "8c4CMX": [
     "Prekrivanje je onemogućeno jer tvoj klijent ne podržava novo prekrivanje."
+  ],
+  "8cGmXF": [
+    "8cGmXF"
   ],
   "8cjmTj": [
     "Tvoja poruka je preduga"
@@ -28105,6 +28727,9 @@
   ],
   "8fPiB3": [
     "Tvoje promjene na proizvodu su spremljene."
+  ],
+  "8fQe3x": [
+    "Posljednje na popisu"
   ],
   "8fUsYw": [
     "Uredi preporučeni kanal"
@@ -28905,6 +29530,34 @@
   "8w1tIR": [
     "Govor"
   ],
+  "8wD0Un": [
+    [
+      6,
+      "boostPrice",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Boost"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " Boosta"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Boostova"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8wXU9B": [
     "Poništi zanemarivanje"
   ],
@@ -28941,6 +29594,9 @@
   ],
   "8xy99I": [
     "Integracija: bolji način dodjeljivanja uloga"
+  ],
+  "8y885d": [
+    "Podijeli svoju aktivnost da se pridružiš ljestvici."
   ],
   "8yEgvE": [
     "Anketa „",
@@ -29140,6 +29796,9 @@
   ],
   "90bIv9": [
     "Uvezi"
+  ],
+  "90jVsn": [
+    "Mališani"
   ],
   "91DEhs": [
     [
@@ -29679,6 +30338,14 @@
     ],
     " je onemogućio administrator"
   ],
+  "9Ctu9P": [
+    "Dodaj widget: umetni widget na položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " u glavnom stupcu"
+  ],
   "9Cx+xL": [
     "Upiši /gif + bilo što da pronađeš GIF za tu temu!"
   ],
@@ -29774,6 +30441,9 @@
       "names"
     ],
     ", u favoritima"
+  ],
+  "9FItmd": [
+    "Tko je igrao najviše dana?"
   ],
   "9FaEzi": [
     "U pozivu"
@@ -30760,6 +31430,9 @@
       "user"
     ]
   ],
+  "9l5u6A": [
+    "Podijeli kad počnem streamati"
+  ],
   "9l87Ih": [
     "Nitro godišnje ",
     [
@@ -30821,6 +31494,9 @@
       1,
       "activityName"
     ]
+  ],
+  "9mGSVS": [
+    "9mGSVS"
   ],
   "9mg7g1": [
     "Lomovi svjetla"
@@ -30904,6 +31580,9 @@
   "9p3D9p": [
     "Dodaj poruku u knjižne oznake"
   ],
+  "9paF2r": [
+    "Baze podataka"
+  ],
   "9ph2v7": [
     "Ažuriraj svoj profil za određeni server i počni chatati u ovoj zajednici."
   ],
@@ -30938,6 +31617,9 @@
   ],
   "9qaNva": [
     "2 Server Boosta, prijenos 500 MB i još toga!"
+  ],
+  "9qpRrY": [
+    "Prvo u mapi"
   ],
   "9rInzW": [
     "Vrijeme je za odluku: što ćeš im darovati prije nego ih „stjeraš van”? Daruj Nitro tijekom listopada i dobit ćeš jezivo zabavan avatar ukrasa za stalno."
@@ -31194,6 +31876,9 @@
   "9tdsDk": [
     "Izvornik"
   ],
+  "9tlK5J": [
+    "Zaslonska ploča"
+  ],
   "9ty6yc": [
     "Označi kao Nije spam"
   ],
@@ -31442,6 +32127,9 @@
   ],
   "A+Fv0R": [
     "Kopiraj link kanala"
+  ],
+  "A+HRrQ": [
+    "Tko ima najviše ukupnog vremena u igri?"
   ],
   "A+I0AP": [
     "Vraćen novac"
@@ -31864,6 +32552,9 @@
   "A8uk5J": [
     "Izuzetno negativno"
   ],
+  "A95Fzm": [
+    "Premjesti u..."
+  ],
   "A9P+dT": [
     [
       1,
@@ -31962,6 +32653,9 @@
   ],
   "ACjbTk": [
     "Widget"
+  ],
+  "ACmeFn": [
+    "ACmeFn"
   ],
   "ACyI83": [
     "Pridruži se pozivu"
@@ -33318,6 +34012,9 @@
   "AlbZaI": [
     "Napravi glasovni kanal"
   ],
+  "Alcf2G": [
+    "Pročitaj poruke u kojima te spominju"
+  ],
   "Alcl/e": [
     "Prilagodimo tvoje iskustvo"
   ],
@@ -33903,6 +34600,55 @@
   "AzBLIP": [
     "Odvedi me do mojeg Nitra"
   ],
+  "AzIhRB": [
+    "poslušao ",
+    [
+      8,
+      "countHook",
+      [
+        [
+          6,
+          "count",
+          {
+            "one": [
+              [
+                7
+              ],
+              " član"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " člana"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " članova"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ovoga tjedna. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Gore"
+        ],
+        "down": [
+          "Dolje"
+        ],
+        "other": []
+      }
+    ]
+  ],
   "AzTwiu": [
     "Radnje oznaka foruma"
   ],
@@ -34091,6 +34837,9 @@
   "B33GXN": [
     "Serveri za igre pokreću se boostovima. Uključi se i pokreni jedan na ovom serveru."
   ],
+  "B39UTK": [
+    "Poveži se na Spotify račun"
+  ],
   "B3OfL/": [
     "Serveri za igre"
   ],
@@ -34173,7 +34922,7 @@
   "B5tZXw": [
     "Ukupno ",
     [
-      1,
+      2,
       "orbAmount"
     ],
     " iskorištenih orbova"
@@ -34283,7 +35032,7 @@
     ]
   ],
   "B8Fxns": [
-    "Osvoji ",
+    "Uzmi ",
     [
       8,
       "orbIconHook",
@@ -34291,12 +35040,11 @@
         "orbIcon"
       ]
     ],
-    " ",
     [
       1,
       "orbAmount"
     ],
-    " orbsa"
+    " orbova"
   ],
   "B8H+Cl": [
     "Korisnik ",
@@ -34816,6 +35564,14 @@
   "BLqYQa": [
     "Uredi način plaćanja"
   ],
+  "BLuvck": [
+    "Najmanje ",
+    [
+      2,
+      "memberCount"
+    ],
+    " članova servera mora dijeliti svoju aktivnost slušanja na Spotifyju kako bi im popularna glazba bila omogućena."
+  ],
   "BLyDvO": [
     "Streamaj ",
     [
@@ -34914,6 +35670,9 @@
     ],
     " prije nego istekne danas da bi ostao aktivan."
   ],
+  "BNSdWl": [
+    "Prilagodljivo"
+  ],
   "BNZj9F": [
     "To ćeš uvijek moći promijeniti u ",
     [
@@ -34945,6 +35704,9 @@
   ],
   "BOjr7t": [
     "Pozornicu može javnom učiniti samo onaj moderator pozornice koji ima pravo i pozivati članove."
+  ],
+  "BP//Ot": [
+    "Napravi jedinstveni hub na serveru samo za sebe i sve svoje prijatelje."
   ],
   "BP8N0K": [
     "+",
@@ -35279,6 +36041,9 @@
     ],
     "!"
   ],
+  "BWpoSf": [
+    "BWpoSf"
+  ],
   "BWqf0c": [
     "Preostalo: ",
     [
@@ -35475,6 +36240,9 @@
   "BayiAo": [
     "Postavke privatnosti"
   ],
+  "BayuQI": [
+    "BayuQI"
+  ],
   "BbESsg": [
     "Napredna glasovna aktivnost"
   ],
@@ -35623,6 +36391,14 @@
   ],
   "Be8Q5E": [
     "ディスコード onemogućeno"
+  ],
+  "BeCUHZ": [
+    "Omogući svaku postavku kako bi pridonio/la widgetu ",
+    [
+      1,
+      "widgetName"
+    ],
+    ". Možeš ih promijeniti kad poželiš u postavkama."
   ],
   "BegylZ": [
     "Omogući ",
@@ -36724,6 +37500,9 @@
     ],
     " h ovaj tjedan"
   ],
+  "C0CzoH": [
+    "C0CzoH"
+  ],
   "C0JUEt": [
     "Nabavi ograničeno izdanje Nitro kompleta za profil! Možeš ga koristiti ako imaš Nitro. Uzmi do ",
     [
@@ -37382,6 +38161,57 @@
   "CHXHFX": [
     "Ne radi"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " na ljestvici igrajući ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jedinstvenu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " jedinstvene igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jedinstvenih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "CHa0vN": [
     "Proizvod je nedostupan"
   ],
@@ -37964,6 +38794,9 @@
         ]
       ]
     ]
+  ],
+  "CZ3jxp": [
+    "Zadrži skočne obavijesti na zaslonu barem toliko. Obavijesti koje već ostaju dulje nisu zahvaćene."
   ],
   "CZ7wvG": [
     "Prebaci na prijavu putem e-pošte"
@@ -38664,6 +39497,9 @@
   "CunCMN": [
     "Odaberi server"
   ],
+  "CunK+J": [
+    "Ukloni banner"
+  ],
   "CuzcRY": [
     "Asistencija"
   ],
@@ -39036,6 +39872,9 @@
   "D1aU+h": [
     "Poduzmi odgovarajuće radnje da se zaštitiš."
   ],
+  "D21l/y": [
+    "D21l/y"
+  ],
   "D29k16": [
     "Pretpregledaj temu"
   ],
@@ -39369,6 +40208,17 @@
       "date"
     ]
   ],
+  "DC7gJB": [
+    [
+      1,
+      "fontName"
+    ],
+    " + ",
+    [
+      1,
+      "effectName"
+    ]
+  ],
   "DCHd/G": [
     "Onemogući Prihvatnu stranicu"
   ],
@@ -39449,6 +40299,9 @@
   ],
   "DFCVN+": [
     "Pristajem na Discordovo ograničenje prava na odustajanje"
+  ],
+  "DFGogO": [
+    "DFGogO"
   ],
   "DFMPWS": [
     "Nitro kredit"
@@ -39640,6 +40493,9 @@
   ],
   "DMeO2X": [
     "Tema profila"
+  ],
+  "DMie/y": [
+    "Podijeli Nitro posebne pogodnosti"
   ],
   "DMua5e": [
     "Guernsey"
@@ -39931,6 +40787,13 @@
   ],
   "DToW4e": [
     "Odaberi sliku"
+  ],
+  "DU+Rd+": [
+    "Igrao/la ",
+    [
+      1,
+      "a"
+    ]
   ],
   "DU0dy/": [
     "Prenesi emoji"
@@ -40287,6 +41150,14 @@
   "DdRizV": [
     "Tvoj će se način plaćanja teretiti na početku sljedećeg obračunskog razdoblja."
   ],
+  "DdzvGL": [
+    "ukupno ",
+    [
+      1,
+      "minutes"
+    ],
+    " min"
+  ],
   "De/Ni1": [
     "Gilde"
   ],
@@ -40619,6 +41490,9 @@
   "DrEEC8": [
     "Prije nego što možeš ovdje razgovarati..."
   ],
+  "DrFdII": [
+    "DrFdII"
+  ],
   "DrNm/5": [
     "Imaj na umu: ovaj kanal ima dobno ograničenje."
   ],
@@ -40646,6 +41520,9 @@
   ],
   "DtFqEI": [
     "Ovaj izvor sredstava je nevažeći."
+  ],
+  "DtK5IG": [
+    "Prikaži komplet"
   ],
   "DtspPx": [
     "Napravi server"
@@ -41533,6 +42410,9 @@
   "EE+P0H": [
     "Pozovi na glasovni"
   ],
+  "EE/9VX": [
+    "EE/9VX"
+  ],
   "EEfce4": [
     "Uredi proizvod"
   ],
@@ -41774,6 +42654,12 @@
   "EMrUHQ": [
     "Odaberi platformu"
   ],
+  "EN+0gW": [
+    "Uredi sliku bannera"
+  ],
+  "EN7343": [
+    "EN7343"
+  ],
   "ENSuN3": [
     "Pozvan/a si da se pridružiš igrati"
   ],
@@ -41800,6 +42686,45 @@
       "ruleIndex"
     ],
     "."
+  ],
+  "EO8JM8": [
+    "Igrali ",
+    [
+      1,
+      "a"
+    ],
+    ", ",
+    [
+      1,
+      "b"
+    ],
+    " i ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " druga osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih osoba"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "EOUqzM": [
     "Uzmi Boost pa dodaj sliku u tvoje pozivnice za server"
@@ -42307,6 +43232,40 @@
   "EXY1d8": [
     "Kršenje pravila servera"
   ],
+  "EXaquk": [
+    "Igrali ",
+    [
+      1,
+      "a"
+    ],
+    " i ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " druga osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih osoba"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "EYR1Fa": [
     "Prenesena slika"
   ],
@@ -42793,6 +43752,9 @@
   ],
   "ElohwE": [
     "Mogući spam"
+  ],
+  "ElsrJC": [
+    "ElsrJC"
   ],
   "EluAd9": [
     "Upravo je prestao/la igrati"
@@ -44078,6 +45040,9 @@
   "FIHggl": [
     "Dodaj prijatelje ili članove servera u grupne direktne poruke."
   ],
+  "FITyOf": [
+    "FITyOf"
+  ],
   "FIYcpC": [
     "Kaži nam najvažniji razlog!"
   ],
@@ -44723,6 +45688,17 @@
       "username"
     ]
   ],
+  "Fb6oNP": [
+    [
+      1,
+      "text"
+    ],
+    " • ",
+    [
+      1,
+      "duration"
+    ]
+  ],
   "Fb8xx2": [
     [
       3,
@@ -44853,6 +45829,9 @@
   ],
   "FgMS6i": [
     "Sve su opasne dozvole onemogućene!"
+  ],
+  "FgkyO+": [
+    "Ovaj emoji je iz paketa Nitro emojija i trenutačno je u beta verziji."
   ],
   "Fgs8fD": [
     "Prikaži ",
@@ -45194,6 +46173,9 @@
     ],
     " ili neki kasniji."
   ],
+  "FsJVpa": [
+    "FsJVpa"
+  ],
   "FsP3VU": [
     "Još nema slušatelja"
   ],
@@ -45211,6 +46193,9 @@
   ],
   "FshAeN": [
     "Pregledavaj"
+  ],
+  "FsyTKM": [
+    "FsyTKM"
   ],
   "FtKH49": [
     "Na ovom serveru nema slobodnih džepova za emojije!"
@@ -45284,6 +46269,13 @@
       "refillAmount"
     ],
     " tjedno, sada su dostupne uz Nitro."
+  ],
+  "FwKQxx": [
+    "Nova aktivnost na #",
+    [
+      1,
+      "channelName"
+    ]
   ],
   "FwjP6W": [
     "Imaš Nitro još ",
@@ -45707,6 +46699,13 @@
     ],
     "x nagradama. Možeš otkazati kad poželiš."
   ],
+  "G5zCGV": [
+    "Otključaj ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "G6+XOT": [
     "Tvoj popust od ",
     [
@@ -46108,6 +47107,19 @@
   "GByLar": [
     "Postavke osjetljivosti unosa"
   ],
+  "GC7N5H": [
+    "Pobijedio/la je na prošlotjednoj ljestvici igranja provevši ",
+    [
+      1,
+      "hours"
+    ],
+    " h ",
+    [
+      1,
+      "minutes"
+    ],
+    " min u igri."
+  ],
   "GCEruV": [
     "Ako te zanima više, stavi tu jedan dvodir"
   ],
@@ -46478,6 +47490,13 @@
     ],
     "."
   ],
+  "GJ27pD": [
+    "Neke aktivnosti trenutačno nisu dostupne u Brazilu. Pročitaj više: ",
+    [
+      1,
+      "supportArticleUrl"
+    ]
+  ],
   "GJAp3h": [
     "Gambija"
   ],
@@ -46615,6 +47634,9 @@
   ],
   "GN0uv6": [
     "Ukini utišavanje zvukova"
+  ],
+  "GN6kqM": [
+    "Predmemorija koda"
   ],
   "GNDqtf": [
     "Isključeno"
@@ -47043,6 +48065,9 @@
   ],
   "GX594D": [
     "Ljudi"
+  ],
+  "GXDPol": [
+    "Tko je igrao najviše jedinstvenih igara?"
   ],
   "GXGNi3": [
     "leagueoflegends"
@@ -48055,6 +49080,9 @@
     ],
     " iz favorita? Svi razgovori pod tom kategorijom više neće imati kategoriju."
   ],
+  "GultYJ": [
+    "GultYJ"
+  ],
   "Gv/rQ6": [
     "Animirani avatar i uređeni profil"
   ],
@@ -48447,6 +49475,9 @@
   "H2M13c": [
     "Sljedeći mjesečni Orbs drop"
   ],
+  "H2NPrR": [
+    "Odbaci dijeljenje Nitro posebnih pogodnosti"
+  ],
   "H2VdUX": [
     "Uredi si svoj profil s vlastitim tagom, animiranim avatarom i ekskluzivnim Nitro badgom"
   ],
@@ -48683,6 +49714,9 @@
   ],
   "H8O1TK": [
     "Otvorit ćeš poveznicu u vanjskom pregledniku. Želiš li nastaviti?"
+  ],
+  "H8RhX0": [
+    "Tko je na vrhu ljestvice?"
   ],
   "H8Ri2Y": [
     "Kanal je označen kao kanal s dobnim ograničenjem"
@@ -49508,6 +50542,19 @@
   "HTJ76H": [
     "Kodovi se ne podudaraju"
   ],
+  "HTJgep": [
+    "Tvoj je tim odigrao borbu s rezultatom ",
+    [
+      1,
+      "allyKills"
+    ],
+    " - ",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "HTsycG": [
     "Otključaj Xbox Game Pass i još toga uz Nitro"
   ],
@@ -49681,6 +50728,9 @@
       "name"
     ],
     " će biti skriven iz vaše biblioteke. Možete ga ponovo prikazati iz stranici postavki Biblioteke Igara."
+  ],
+  "HXmZlY": [
+    "Možeš prilagoditi razmještaj i sadržaj i tako izraditi jedinstveni hub na serveru za svoju zajednicu."
   ],
   "HXu14O": [
     "6 Nitro članstava. Jedna pretplata za tebe i tvoje prijatelje."
@@ -50426,6 +51476,9 @@
   "HtTvXA": [
     "Iznenađenje, 2 tjedna Nitra sada su tvoja"
   ],
+  "HtUpwy": [
+    "Prikaži pakete emojija"
+  ],
   "HtVOdd": [
     "Video povezan"
   ],
@@ -50584,6 +51637,13 @@
   "HwUCns": [
     "Aktivno probno razdoblje"
   ],
+  "HwW3zP": [
+    "Spominjanje na #",
+    [
+      1,
+      "channelName"
+    ]
+  ],
   "HwXoeC": [
     "Poveži svoj račun da možeš dijeliti statistiku iz igre, otključati sinkronizirane prijatelje i još toga!"
   ],
@@ -50664,6 +51724,9 @@
   ],
   "HyGHj7": [
     "Streaming na Twitchu"
+  ],
+  "HyZ4FE": [
+    "Ako klikneš „Onemogući”, kartica Hub na serveru više se neće prikazivati na ovom serveru. Možeš je ponovno omogućiti kad poželiš u postavkama servera."
   ],
   "HykynS": [
     "Promijeni ukras avatara"
@@ -50966,6 +52029,13 @@
     [
       1,
       "name"
+    ]
+  ],
+  "I4JiAQ": [
+    "Rang ",
+    [
+      1,
+      "rank"
     ]
   ],
   "I4SYUF": [
@@ -51450,6 +52520,9 @@
       "pageNumber"
     ]
   ],
+  "IGO+tx": [
+    "IGO+tx"
+  ],
   "IGS9mT": [
     "Iran"
   ],
@@ -51648,6 +52721,9 @@
     ],
     " ponovo ne doda."
   ],
+  "IK1o83": [
+    "IK1o83"
+  ],
   "IKBvFl": [
     "Primjer koji prikazuje karticu profila s tvojim avatarom, korisničkim imenom i oblačićem statusa koji prikazuje: ",
     [
@@ -51744,6 +52820,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "IMqgs9": [
+    "Prvo na popisu"
   ],
   "IMtHBW": [
     "Pošalji poruku kada započne glasovno druženje."
@@ -52116,6 +53195,30 @@
       "listener_count"
     ],
     " slušatelja"
+  ],
+  "IXdbVJ": [
+    "Pobijedio/la je na prošlotjednoj ljestvici igranja provevši ",
+    [
+      6,
+      "days",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " u igri."
   ],
   "IXk8Wz": [
     "Nisu dostupni ti privitci koje pokušavaš poslati."
@@ -52534,6 +53637,9 @@
   "Ifb6XJ": [
     "Pošalji super reakciju"
   ],
+  "IfgLzT": [
+    "Nema mape"
+  ],
   "Ifgxdy": [
     "Pozivnica istječe za ",
     [
@@ -52565,6 +53671,9 @@
   ],
   "IfqUEM": [
     "Moderator"
+  ],
+  "Ig1Waa": [
+    "Ig1Waa"
   ],
   "Ig6VDH": [
     "Popularno u Trgovini"
@@ -53615,6 +54724,9 @@
   "IzrZHz": [
     "Cijene za članove u trgovini i ekskluzivni predmeti"
   ],
+  "IzzWNM": [
+    "Prijatelji koji su upravo aktivni su na vrhu"
+  ],
   "J+7D+E": [
     [
       1,
@@ -53660,6 +54772,9 @@
       1,
       "first"
     ]
+  ],
+  "J+drJN": [
+    "J+drJN"
   ],
   "J+vlIR": [
     "Otvori trgovinu"
@@ -53821,6 +54936,9 @@
   ],
   "J2wg+X": [
     "Potrebno je ponovno pokretanje da bi ova promjena stupila na snagu. Želiš li odmah ponovno pokrenuti Discord?"
+  ],
+  "J3/JCl": [
+    "Trgovina u igri, odaberi stranicu izloga trgovine"
   ],
   "J3/feu": [
     "Dojavljivač bugova je isključen"
@@ -54254,6 +55372,9 @@
     ],
     " kanala."
   ],
+  "JHcSBI": [
+    "Tvoji zahtjevi"
+  ],
   "JI7uhc": [
     "Podari svojem profilu novi izgled koristeći ukrase avatara"
   ],
@@ -54486,6 +55607,14 @@
         ]
       ]
     ]
+  ],
+  "JNgfIL": [
+    "Omogući ",
+    [
+      1,
+      "recipientName"
+    ],
+    " pristup sjajnim Nitro posebnim pogodnostima poput prilagođenih profila, animiranih emojija i još mnogo toga."
   ],
   "JNuK+L": [
     "Upozorenje: ovisno o hardveru kojim raspolažeš, omogućavanje isječaka može utjecati na performanse igre. ",
@@ -54975,6 +56104,9 @@
   ],
   "Je1FWC": [
     "Polarna svjetlost"
+  ],
+  "JeFo7p": [
+    "Najviše različitih igara"
   ],
   "JeK1Wg": [
     "Reproduciraj u direktnoj poruci"
@@ -56162,6 +57294,9 @@
       "game"
     ]
   ],
+  "KHsJlD": [
+    "KHsJlD"
+  ],
   "KHsSWK": [
     "Sakrij napredne postavke glasa"
   ],
@@ -56364,6 +57499,9 @@
   ],
   "KNhFgD": [
     "Pretpregled servera"
+  ],
+  "KO73KB": [
+    "Top slušatelji"
   ],
   "KO88BS": [
     "Aktivnosti"
@@ -56928,8 +58066,14 @@
       ]
     ]
   ],
+  "KcOpCm": [
+    "Uredi hub na serveru"
+  ],
   "KccUI1": [
     "Ulazak gledatelja"
+  ],
+  "KcdDyT": [
+    "Kraj glavnog stupca"
   ],
   "Kcdk7D": [
     "Minimalna veličina: 72 x 72. Format 1:1. PNG, JPG"
@@ -57062,6 +58206,13 @@
   ],
   "Kd6OQc": [
     "Filtar eksplicitnih slika"
+  ],
+  "KddZZf": [
+    "Igra ",
+    [
+      1,
+      "duration"
+    ]
   ],
   "Kdt0Gb": [
     "Hej, jedno brzinsko upozorenje"
@@ -57222,6 +58373,9 @@
   ],
   "KgYvrZ": [
     "Kako se povezati"
+  ],
+  "KgeEtx": [
+    "Top pjesme"
   ],
   "KhBgDR": [
     "Jesi li siguran/na da želiš otkazati server boost iz svog inventara?"
@@ -57522,6 +58676,14 @@
   "Knf/f/": [
     "Pravila zaštite osobnih podataka"
   ],
+  "Ko3a0+": [
+    "Podijeli svoju aktivnost slušanja na Spotifyju da lakše otključaš popularnu glazbu. Najmanje ",
+    [
+      2,
+      "memberCount"
+    ],
+    " članova servera mora dijeliti svoju aktivnost."
+  ],
   "KoFi0o": [
     "za ",
     [
@@ -57663,6 +58825,9 @@
   ],
   "KrLnkE": [
     "Sažetak aktivnosti"
+  ],
+  "KrhX/b": [
+    "KrhX/b"
   ],
   "Ks2/3R": [
     "Povuci i ispusti ili ",
@@ -58007,6 +59172,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "L/NHOB": [
+    "L/NHOB"
   ],
   "L/PwZf": [
     "Link je kopiran!"
@@ -58462,6 +59630,9 @@
   ],
   "LBsB0a": [
     "Ovi prečaci rade kada su usmjereni na predmet koji se može povlačiti"
+  ],
+  "LBtPWQ": [
+    "LBtPWQ"
   ],
   "LC+S+m": [
     [
@@ -59263,6 +60434,13 @@
   "LbLP1c": [
     "No problem"
   ],
+  "LbNlZd": [
+    [
+      1,
+      "packName"
+    ],
+    " je uklonjen"
+  ],
   "LbPesa": [
     "Uključuje ili isključuje overlay."
   ],
@@ -59413,6 +60591,9 @@
   ],
   "LfeFFr": [
     "Onemogući opasne dozvole za"
+  ],
+  "LfrGGR": [
+    "LfrGGR"
   ],
   "Lfs4r+": [
     "Promijenio/la ime iz ",
@@ -60471,6 +61652,9 @@
   "M2TbbK": [
     "Ne dijeliš nijedan server s ovom aplikacijom."
   ],
+  "M2b74O": [
+    "Triput aktiviraj naslovnicu mobilne igre na Discordu i čeka te iznenađenje"
+  ],
   "M2iEy3": [
     "Kao zadana postavka omogućuje članovima prikazivanje ovog kanala."
   ],
@@ -61176,12 +62360,12 @@
     "Dotjeraj svoj prostor beskrajnim kombinacijama boja."
   ],
   "MJep2r": [
-    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD) besplatna je ako imaš Nitro. Ostvari ",
+    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD) besplatna je uz Nitro. Ostvari ",
     [
       1,
       "rewardPercentage"
     ],
-    " % povrata u nagradama za odabrane prednarudžbe najvećih igara sezone, kao što su Call of Duty: Modern Warfare 4 i druge. Iskoristiti do ",
+    " % povrata u nagradama na odabrane prednarudžbe najvećih igara sezone, kao što su Call of Duty: Modern Warfare 4 i druge. Iskoristiti do ",
     [
       3,
       "date",
@@ -61821,6 +63005,9 @@
   ],
   "MXsMRk": [
     "Zakazana poruka je ažurirana"
+  ],
+  "MXxbkw": [
+    "MXxbkw"
   ],
   "MY9/Oe": [
     "Trenutačna igra"
@@ -62539,6 +63726,9 @@
   "MpFE11": [
     "Aplikacija (ograničeno)"
   ],
+  "MpGzzH": [
+    "MpGzzH"
+  ],
   "MpO0px": [
     "Prihvati"
   ],
@@ -62929,6 +64119,9 @@
     ],
     "."
   ],
+  "N1P8Wp": [
+    "Traži poruke na svojim serverima"
+  ],
   "N22i9F": [
     "Nastavi listati..."
   ],
@@ -63289,6 +64482,9 @@
   ],
   "N8hbZB": [
     "Ostale reakcije"
+  ],
+  "N8nJ+T": [
+    "Klikni widget koji želiš dodati na stranicu svog huba na serveru, a zatim ga povuci i ispusti gdje želiš."
   ],
   "N8tPFd": [
     "10 TISUĆA I TO JOŠ NIJE SVE COMBO"
@@ -64273,6 +65469,13 @@
     ],
     " + važeće poreze dobivaš prilagođene emojije, veće prijenose i još toga"
   ],
+  "NV85DR": [
+    "Promijeni redoslijed uloge ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "NVDuUX": [
     "Prvo omogući monetizaciju!"
   ],
@@ -64936,6 +66139,9 @@
     ],
     " račun"
   ],
+  "Nj8Y3C": [
+    "Baci pogled"
+  ],
   "NjEPp7": [
     "Želiš li sigurno ukloniti ovu prikvačenu poruku?"
   ],
@@ -65426,6 +66632,9 @@
   "Nusip4": [
     "Sakrij lozinku"
   ],
+  "NuujPd": [
+    "NuujPd"
+  ],
   "NuzmOA": [
     "Idemo!"
   ],
@@ -65608,6 +66817,9 @@
   ],
   "O1c02q": [
     "Postovi"
+  ],
+  "O1h3uU": [
+    "Pogledaj ljestvicu"
   ],
   "O1iRT8": [
     "Učitavanje nije uspjelo"
@@ -65932,6 +67144,19 @@
   "O9MiXY": [
     "Marketinški odjeljci u vezi Nitra"
   ],
+  "O9RvHQ": [
+    "Položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " od ",
+    [
+      1,
+      "positionCount"
+    ],
+    " u bočnom stupcu"
+  ],
   "O9SQ1c": [
     "Odaberi iz naše biblioteke widgeta da podijeliš više informacija o sebi i svojim interesima"
   ],
@@ -65991,6 +67216,9 @@
   ],
   "OBeYX/": [
     "0 minuta na glasovnom"
+  ],
+  "OBp3V3": [
+    "GIF, gumb"
   ],
   "OBr7Cw": [
     "Opcije kanala"
@@ -66395,6 +67623,9 @@
   "OLf3xn": [
     "Nije moguće urediti proizvod"
   ],
+  "OLs0Og": [
+    "OLs0Og"
+  ],
   "OLtTrt": [
     "Stilovi zaslonskog imena"
   ],
@@ -66686,6 +67917,9 @@
   ],
   "OTXyaf": [
     "Na svim uređajima s kojih se odjaviš ćeš morati ponoviti prijavu."
+  ],
+  "OTYC2K": [
+    "Stalno se mijenja"
   ],
   "OTjRX9": [
     "podneseno dana ",
@@ -67149,6 +68383,9 @@
       ]
     ],
     " za dovršetak transakcije."
+  ],
+  "OejyCi": [
+    "Nadolazeće"
   ],
   "OervdV": [
     "Fokus ",
@@ -67946,6 +69183,9 @@
   "OuPkvL": [
     "Treba mi privremeni predah od tog chata"
   ],
+  "OuZdlK": [
+    "OuZdlK"
+  ],
   "OukXZj": [
     "Najstarije"
   ],
@@ -67984,6 +69224,9 @@
   ],
   "OvMyMd": [
     "Nalaziš se u testiranju ove aplikacije i neće ti se naplatiti."
+  ],
+  "OvTyCX": [
+    "Organiziraj prema"
   ],
   "OvfBgA": [
     "Tvoj odabrani datum nije dobar."
@@ -68424,6 +69667,35 @@
       [
         "Upravo si boostao server."
       ]
+    ]
+  ],
+  "P5JeeM": [
+    "Igrao/la ",
+    [
+      6,
+      "n",
+      {
+        "one": [
+          [
+            7
+          ],
+          " osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " osoba"
+        ]
+      },
+      0,
+      "cardinal"
     ]
   ],
   "P5dSl0": [
@@ -69047,6 +70319,9 @@
   "PJgX2h": [
     "naljepnica"
   ],
+  "PJn0ih": [
+    "Omogući svaku postavku da se pojaviš na ljestvici. Možeš ih promijeniti kad poželiš u postavkama."
+  ],
   "PJsjbP": [
     "Dodao/la je novi emoji, ",
     [
@@ -69109,6 +70384,26 @@
   "PLcLdx": [
     "istrpio/la si sve moje ispade i svejedno nisi nigdje otišao/la"
   ],
+  "PLdF3A": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše odigranih jedinstvenih igara? Trenutačno je ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " u vodstvu."
+  ],
   "PLk3Na": [
     "Želiš li da druženje bude zabavnije?"
   ],
@@ -69160,6 +70455,9 @@
   ],
   "PNIDDJ": [
     "Nikakav sadržaj koji ima dobno ograničenje ili prost sadržaj. To se odnosi i na tekstove, slike ili poveznice/linkove na kojima se nalaze seksualni sadržaji, golotinja, grubi nasilni sadržaji ili druge vrste slikovito uznemirujućih sadržaja."
+  ],
+  "PNMVaH": [
+    "PNMVaH"
   ],
   "PNX4NM": [
     "Gubiš boostanje servera ali neke superslatke pogodnosti ćeš zadržati. Možeš se vratiti nazad na ovaj model pretplate kada god."
@@ -69436,6 +70734,9 @@
       ]
     ]
   ],
+  "PSuly6": [
+    "Pokreni zaslonsku ploču"
+  ],
   "PTHakm": [
     "Izradi lozinku"
   ],
@@ -69622,6 +70923,13 @@
   ],
   "PXq9f1": [
     "Prijenosi videa"
+  ],
+  "PY1iDb": [
+    [
+      2,
+      "count"
+    ],
+    " na čekanju"
   ],
   "PY4MA0": [
     "Discord ti je dodijelio dobnu skupinu za odrasle"
@@ -70372,6 +71680,14 @@
       "date"
     ]
   ],
+  "PuaR+2": [
+    "Preostalo: ",
+    [
+      1,
+      "days"
+    ],
+    " dana"
+  ],
   "Pueu11": [
     "Android će dati sve od sebe da za tvoj uređaj izabere najbolju opciju."
   ],
@@ -71024,6 +72340,9 @@
   "Q9OYlM": [
     "Nije bilo moguće povezivanje s uslugama Google Playa. Pričekaj, a onda pokušaj ponovo."
   ],
+  "Q9TKt6": [
+    "Prvo u kategoriji"
+  ],
   "Q9zFy9": [
     "Ovaj server ima svoj jedinstveni izgled"
   ],
@@ -71441,6 +72760,9 @@
   "QNDtPC": [
     "Odaberi kanal"
   ],
+  "QNVdfH": [
+    "QNVdfH"
+  ],
   "QNWJsx": [
     "Podrži tvrtke i studije za razvoj igara koji publiku nastoje pridobiti glasima koje treba otkriti"
   ],
@@ -71629,6 +72951,9 @@
   "QQsaCc": [
     "Besplatno"
   ],
+  "QQsnUi": [
+    "QQsnUi"
+  ],
   "QQuxIc": [
     "Isprobaj, pogledaj!"
   ],
@@ -71661,6 +72986,9 @@
   ],
   "QT+Ai7": [
     "Izgleda da još nisi dovršio/la misiju za ovu nagradu!"
+  ],
+  "QT3MNq": [
+    "QT3MNq"
   ],
   "QTHa8b": [
     "upravo sad"
@@ -71761,6 +73089,9 @@
   ],
   "QX14gI": [
     "Više posebnih pogodnosti, više zabave"
+  ],
+  "QX4H2E": [
+    "Sakrij napomenu"
   ],
   "QXGod1": [
     "Moćna poboljšanja: veće datoteke se prenose, banner servera, svaka uloga ima svoju ikonu, a ni to nije sve!"
@@ -71975,6 +73306,9 @@
   ],
   "QcJbt6": [
     "Otvori više džepova za prilagođene naljepnice"
+  ],
+  "QcmgBF": [
+    "Dopusti članovima s kojima najviše komuniciraš da dobiju obavijest kada počneš streamati na malim serverima."
   ],
   "Qd6w7T": [
     "Želiš li banati korisnika „",
@@ -72226,6 +73560,9 @@
   "QlyC9s": [
     "Postavi zadanu reakciju na postove"
   ],
+  "Qm57HT": [
+    "Timska borba"
+  ],
   "Qm6K/s": [
     "Potvrdi svoju e-poštu"
   ],
@@ -72447,6 +73784,30 @@
   ],
   "QqTz8b": [
     "Prikaži više"
+  ],
+  "QqaqBg": [
+    "Posljednje slušano: ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ],
+    " izvođača ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "artistName"
+        ]
+      ]
+    ]
   ],
   "Qql0Xs": [
     [
@@ -73100,6 +74461,9 @@
   "R4NVKG": [
     "Poslao/la video na kanal sa spoilerima"
   ],
+  "R4kQz6": [
+    "R4kQz6"
+  ],
   "R4q5+y": [
     "Glava u oblacima"
   ],
@@ -73657,6 +75021,9 @@
   ],
   "RHP0kC": [
     "Opis"
+  ],
+  "RHYx1k": [
+    "RHYx1k"
   ],
   "RHbfv9": [
     "Povezivanje s PayPalom"
@@ -74306,6 +75673,12 @@
       "weekday"
     ]
   ],
+  "RYvRmE": [
+    "RYvRmE"
+  ],
+  "RYxWTS": [
+    "Top izvođači"
+  ],
   "RZFCIj": [
     "Traži poruke, osobe itd."
   ],
@@ -74609,6 +75982,9 @@
       "repliedAuthor"
     ]
   ],
+  "RhpNnh": [
+    "Jednu minutu je sladak, sljedeću neobuzdan. Kad imaš Nitro, od savršenog emojija dijeli te samo jedan dodir."
+  ],
   "RhtzFe": [
     "Prilozi uz poruku"
   ],
@@ -74622,6 +75998,9 @@
       "activityName"
     ],
     " u glasovnom kanalu"
+  ],
+  "Ri32sr": [
+    "Ri32sr"
   ],
   "Ri3o33": [
     [
@@ -76945,6 +78324,18 @@
   "SZeUdR": [
     "Pretpregled tvoje pločice s imenom na popisu članova"
   ],
+  "Sa+h68": [
+    [
+      1,
+      "hours"
+    ],
+    " h ",
+    [
+      1,
+      "minutes"
+    ],
+    " min"
+  ],
   "SaD/LY": [
     "Prijavi se sa svojim kôdom"
   ],
@@ -77867,6 +79258,9 @@
   "SxsBFD": [
     "Možeš li nam reći detaljnije?"
   ],
+  "Sxxqdx": [
+    "Zaslonska ploča je aktivna."
+  ],
   "Sy3qan": [
     "Filtriraj poruke od članova servera koje možda ne znaš."
   ],
@@ -78255,6 +79649,26 @@
   "T7AWtb": [
     "Privatni server"
   ],
+  "T7CcFq": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše vremena u igri? Trenutačno je ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " u vodstvu."
+  ],
   "T7DUoU": [
     "Prekini vezu s osobom ",
     [
@@ -78281,6 +79695,9 @@
       ]
     ],
     ", čisto da znaš."
+  ],
+  "T7WvbW": [
+    "T7WvbW"
   ],
   "T7aLYT": [
     "Pomozi da Učenički Hub ",
@@ -78480,6 +79897,9 @@
       "numUsers"
     ]
   ],
+  "TCXgZL": [
+    "Potvrdi svoju dob da se pridružiš"
+  ],
   "TD+c21": [
     "Doznaj više"
   ],
@@ -78515,6 +79935,9 @@
   ],
   "TDjKDm": [
     "Ponovno postavi avatar"
+  ],
+  "TE+uDu": [
+    "Pogledaj"
   ],
   "TEEYwa": [
     "Najbolje ocijenjen prodavač"
@@ -78706,6 +80129,9 @@
   ],
   "TLkoOt": [
     "Vrati se na obične preduvjete prema kojima barem jedan zadani kanal mora biti dostupan za razgovor."
+  ],
+  "TLlIGP": [
+    "TLlIGP"
   ],
   "TLnXx/": [
     "Uništavanje"
@@ -79619,6 +81045,9 @@
   "TffOfY": [
     "Unesi naziv koji će nositi tvoja nit"
   ],
+  "Tfkx5f": [
+    "Mijaukava ekipa"
+  ],
   "TflqTe": [
     "Napravi za svoje frendove sasvim novi server koji ima besplatan voice i text chat!"
   ],
@@ -80355,6 +81784,9 @@
   "TummoQ": [
     "Postavi podsjetnik 15 minuta prije nego Discord postane nedostupan zbog prekida usluge koji je odredio skrbnik."
   ],
+  "Tv4xyf": [
+    "Tv4xyf"
+  ],
   "TvBS1w": [
     "Već si verificirao/la korisnika ",
     [
@@ -80406,6 +81838,9 @@
       ]
     ],
     " kako bi bio/la siguran/na da ih ne kršiš."
+  ],
+  "Tvdb5N": [
+    "Dodaj u birač"
   ],
   "TvxInQ": [
     "Tvoji kontakti"
@@ -80657,6 +82092,14 @@
   ],
   "U0INks": [
     "Preskoči uklete zvukove obavijesti u korisničkim postavkama."
+  ],
+  "U0SqHk": [
+    "Dodaj widget: umetni widget na položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " u bočnom stupcu"
   ],
   "U0iMTj": [
     "Božićni Otok"
@@ -81023,6 +82466,28 @@
       "rank"
     ]
   ],
+  "UA8cNe": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " emoji"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " emojija"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "UAJxZi": [
     "Član"
   ],
@@ -81037,6 +82502,9 @@
   ],
   "UB03Ed": [
     "Server je privremeno u načinu zaštite od prepada koji će blokirati sumnjiva pridruživanja i postaviti im CAPTCHA zid."
+  ],
+  "UB21BJ": [
+    "UB21BJ"
   ],
   "UB2gG2": [
     "Ugrađeno na Discord"
@@ -81361,6 +82829,9 @@
   "UL177t": [
     "Dopusti privremeno članstvo"
   ],
+  "ULK65a": [
+    "Nema dovoljno podataka"
+  ],
   "ULSdnE": [
     "Timeout je skinut"
   ],
@@ -81479,6 +82950,9 @@
   "UPLpRV": [
     "Prikaži postavke"
   ],
+  "UPLtlA": [
+    "Nemaš dozvolu za uređivanje pristupa zaslonskoj ploči."
+  ],
   "UPMwV8": [
     "Najigranija igra"
   ],
@@ -81531,6 +83005,9 @@
         ]
       ]
     ]
+  ],
+  "UQT3/h": [
+    "Pogledaj pojedinosti zvuka"
   ],
   "UQbJW7": [
     "Privremeno zaustavlja slanje novih direktnih poruka između članova na tvojem serveru. Prijatelji i dalje mogu razmjenjivati direktne poruke, a moderatori i dalje mogu slati direktne poruke članovima, baš kao što i tvoje aplikacije još uvijek mogu slati direktne poruke članovima."
@@ -81762,6 +83239,9 @@
   "UV/Vtv": [
     "Uskladi raspoloženje s beskonačnim kombinacijama boja. Isprobaj odmah!"
   ],
+  "UV17wE": [
+    "Utvrdili smo da pripadaš tinejdžerskoj dobnoj skupini (13 – 17)"
+  ],
   "UVBA9g": [
     "Želi li igrati ",
     [
@@ -81804,6 +83284,9 @@
         "svoj Nitro dom"
       ]
     ]
+  ],
+  "UVkUVk": [
+    "Traži svoje direktne poruke"
   ],
   "UVl5Hz": [
     "Pretpregled personaliziranih poruka o dolaznim zahtjevima za prijateljstvom"
@@ -82797,6 +84280,9 @@
   "UsD2YP": [
     "Korisnik više nije član ovog servera."
   ],
+  "UsMdAK": [
+    "UsMdAK"
+  ],
   "UsOUxY": [
     "Dodaj animirani avatar, temu profila, sliku bannera i još toga."
   ],
@@ -83366,6 +84852,9 @@
   "V5Qt9D": [
     "Igraj odmah"
   ],
+  "V5eNx6": [
+    "Poveži se na Spotify"
+  ],
   "V5mNyb": [
     "Društveni linkovi"
   ],
@@ -83604,6 +85093,9 @@
   "VBhOe2": [
     "Klikni za dodavanje bilješke"
   ],
+  "VBmAMg": [
+    "VBmAMg"
+  ],
   "VBnNJY": [
     "Zadrži ovaj besplatni ukras uz kupnju dara."
   ],
@@ -83712,6 +85204,13 @@
   ],
   "VEfKyb": [
     "Prikaži sve naredbe"
+  ],
+  "VEfeux": [
+    "Iz paketa ",
+    [
+      1,
+      "packName"
+    ]
   ],
   "VF4fZZ": [
     "Članovima omogućuje upotrebu naljepnica s drugih servera, pod uvjetom da su to Discord Nitro članovi."
@@ -84100,6 +85599,13 @@
   ],
   "VOgTjy": [
     "Video je privremeno pauziran na tvojem uređaju kako bi performanse bile bolje"
+  ],
+  "VOmeSq": [
+    "reproduciraj zvuk ",
+    [
+      1,
+      "name"
+    ]
   ],
   "VOnnnz": [
     "Odaberi najviše 5 preporučenih kanala. Predlažemo ti da to budu kanali na kojima se ljudi mogu družiti, kanali za rasprave, postavljanje pitanja, čitanje vijesti ili odabir uloga."
@@ -84596,6 +86102,9 @@
       ]
     ]
   ],
+  "VcUghi": [
+    "VcUghi"
+  ],
   "VcZC22": [
     "Napredak nije moguć"
   ],
@@ -84840,11 +86349,17 @@
   "Veu++Q": [
     "Uzmi ekskluzive poput Nitro kredita i kupuj omiljene artikle u trgovini koristeći Orbse."
   ],
+  "VeumMD": [
+    "VeumMD"
+  ],
   "Vf2ZcR": [
     "Ako je ova posebna pogodnost onemogućena, tvoj tag servera resetirat će se na zadani badge."
   ],
   "Vfbar/": [
     "Efekt profila i okvir"
+  ],
+  "Vfq58K": [
+    "Vfq58K"
   ],
   "VfqJvY": [
     "Zastoj traje do ",
@@ -85290,7 +86805,7 @@
     "Ova je tema dostupna samo korisnicima Nitra."
   ],
   "VqNHoS": [
-    "Ova kombinacija zvukova više nije aktivna"
+    "Taj zvuk više nije aktivan"
   ],
   "VqhxxN": [
     "Odaberi neki Kanal za novosti iz zajednice"
@@ -85907,6 +87422,9 @@
       "guildName"
     ]
   ],
+  "W8E3pj": [
+    "W8E3pj"
+  ],
   "W8JtfT": [
     "Dopusti prijateljima iz igara da šalju direktne poruke i pozivnice"
   ],
@@ -85939,6 +87457,34 @@
       "cardinal"
     ],
     ". Ovaj se widget neće prikazati na tvom profilu sve dok ne dodaš barem 1 igru."
+  ],
+  "W8etVA": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " reproducirana pjesma"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " reproducirane pjesme"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " reproduciranih pjesama"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "W8jOD0": [
     "Jedan kôd po kupnji. ",
@@ -86393,6 +87939,9 @@
   ],
   "WJisip": [
     "Dodirni da bi zadao minijaturu"
+  ],
+  "WK19hs": [
+    "WK19hs"
   ],
   "WK9r7F": [
     "Članovima omogućuje prenijeti datoteke ili sadržaje u ovaj kanal."
@@ -88149,6 +89698,30 @@
   "WwYgqi": [
     "Dodaj medij"
   ],
+  "Wwu6IA": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju provevši ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
+  ],
   "Wx7UUY": [
     "Stvori server za svoju grupu"
   ],
@@ -88270,6 +89843,18 @@
           "rewardNameWithArticle"
         ]
       ]
+    ],
+    "."
+  ],
+  "X+VLqi": [
+    [
+      1,
+      "statQuestion"
+    ],
+    " Ovo natjecanje završava ",
+    [
+      1,
+      "endsAt"
     ],
     "."
   ],
@@ -89552,7 +91137,7 @@
     "Ukloni server"
   ],
   "XW2CuY": [
-    "Nastavi zarađivati da otključaš svoju sljedeću nagradu!"
+    "Novi izazovi uskoro stižu. Tvoji su orbovi spremni ako si spreman/na ti."
   ],
   "XW3vjq": [
     "Automatski otkrivamo i filtriramo medije koji mogu biti osjetljivi. Ovim filtrom možeš upravljati u postavkama Privatnosti i sigurnosti."
@@ -89609,6 +91194,9 @@
       1,
       "position"
     ]
+  ],
+  "XXLbfv": [
+    "Ograniči pristup prema ulozi"
   ],
   "XXPrIs": [
     "broj blokiranih: ",
@@ -89691,6 +91279,9 @@
   "XYvMIX": [
     "Prikaži opise slika"
   ],
+  "XZ9O/T": [
+    "XZ9O/T"
+  ],
   "XZTfav": [
     "Unesi svoju lozinku kako bi se izmjena podataka o računu omogućila."
   ],
@@ -89699,6 +91290,9 @@
   ],
   "Xa11Ep": [
     "Prikaži posebnu pogodnost"
+  ],
+  "Xa1KEN": [
+    "Šalji poruke s obavijestima iz sljedećih widgeta:"
   ],
   "XaFkil": [
     "Dopusti korisnicima da spremaju tvoje uređaje i označe ih kao verificirane. ",
@@ -90381,6 +91975,12 @@
   "Xrcmjk": [
     "Neutralno"
   ],
+  "XrpYIG": [
+    "Samo te uloge mogu koristiti zaslonsku ploču. Ostavi ovo prazno ako želiš da je svi mogu koristiti. Promjene se primjenjuju odmah."
+  ],
+  "XrsUHd": [
+    "XrsUHd"
+  ],
   "Xrt5Po": [
     "Kopiraj link poruke"
   ],
@@ -90542,12 +92142,12 @@
     "Prethodna 24 sata"
   ],
   "XuYNQR": [
-    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD), besplatno uz Nitro. Ostvari ",
+    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD) besplatna je uz Nitro. Ostvari ",
     [
       1,
       "rewardPercentage"
     ],
-    " % povrata u nagradama na odabrane prednarudžbe najvećih igara sezone, kao što su Call of Duty: Modern Warfare 4 i druge. Iskoristiti do ",
+    " % povrata u nagradama na odabrane prednarudžbe najvećih igara sezone, kao što su Call of Duty: Modern Warfare 4 i druge. Iskoristi do ",
     [
       3,
       "date",
@@ -91049,6 +92649,9 @@
   "Y5BI39": [
     "Kvačenje poruka"
   ],
+  "Y5Csm1": [
+    "Y5Csm1"
+  ],
   "Y5DOs4": [
     "Dodaj u favorite ",
     [
@@ -91078,6 +92681,20 @@
   ],
   "Y6Jo+p": [
     "Prebrzo povezuješ račune. Pričekaj trenutak i pokušaj ponovno."
+  ],
+  "Y6K3qc": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše odigranih jedinstvenih igara? Trenutačno je ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " u vodstvu."
   ],
   "Y6Qfju": [
     "Server vlasnika ",
@@ -91183,6 +92800,9 @@
   "Y8ujqr": [
     "Izmijeni prilog"
   ],
+  "Y9/ijr": [
+    "Dijeljene postavke"
+  ],
   "Y9DnPa": [
     "Sve"
   ],
@@ -91227,6 +92847,9 @@
   ],
   "Y9uRYB": [
     "Snapchat"
+  ],
+  "Y9wjUX": [
+    "Y9wjUX"
   ],
   "YAIIWp": [
     [
@@ -91699,6 +93322,9 @@
       "premiumGroupProductName"
     ],
     " je otkazana"
+  ],
+  "YM9mAn": [
+    "YM9mAn"
   ],
   "YMQKXs": [
     "Poruka je blokirana"
@@ -92560,6 +94186,9 @@
   "YkDjVM": [
     "Prečac"
   ],
+  "YkET6R": [
+    "Vrati izvorne omiljene"
+  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -92733,6 +94362,9 @@
       "applicationName"
     ],
     " putem kojeg na svojem profilu možeš podijeliti svoj renking, najboljeg junaka i statistiku"
+  ],
+  "YnTChn": [
+    "YnTChn"
   ],
   "Yna7E7": [
     [
@@ -92973,6 +94605,9 @@
   "YszLLx": [
     "Uključi ili isključi Streamer Mode."
   ],
+  "Yt3O/L": [
+    "Yt3O/L"
+  ],
   "Yt6NkU": [
     [
       8,
@@ -93167,6 +94802,13 @@
       "cardinal"
     ]
   ],
+  "YuNVPY": [
+    "Zadnji put igrano ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "YuTEaU": [
     "Nemaš najnoviju verziju"
   ],
@@ -93191,6 +94833,9 @@
   ],
   "YvJKD+": [
     "Radnje vezane uz isječke"
+  ],
+  "YvMDHm": [
+    "YvMDHm"
   ],
   "YvNhsd": [
     "Prije ",
@@ -93332,6 +94977,9 @@
   ],
   "YzGIVF": [
     "Uključi ulogu"
+  ],
+  "Yzaoit": [
+    "Yzaoit"
   ],
   "YzjdWJ": [
     "Moji darovi"
@@ -93619,6 +95267,9 @@
   "Z2ygQt": [
     "Društveno i učenje"
   ],
+  "Z2z85q": [
+    "Ovo je skica huba na serveru. Samo je administratori servera mogu vidjeti dok ne bude objavljena."
+  ],
   "Z33eiP": [
     "Isključio/la si istaknuti sadržaj za ovaj server"
   ],
@@ -93669,6 +95320,9 @@
   ],
   "Z4U1g/": [
     "Opusti se, čovječe"
+  ],
+  "Z4UD3R": [
+    "Taj zvuk potječe sa servera kojemu se pristupa samo uz pozivnicu."
   ],
   "Z4ULRD": [
     "Otkazivanje čeka na izvršenje: ",
@@ -94484,6 +96138,19 @@
   "ZMCfHc": [
     "Novo: okviri profila"
   ],
+  "ZMJ8Mt": [
+    "Posljednje slušano: ",
+    [
+      8,
+      "highlightHook",
+      [
+        [
+          1,
+          "trackTitle"
+        ]
+      ]
+    ]
+  ],
   "ZMTRyc": [
     "Prikazuje samo videe"
   ],
@@ -94689,6 +96356,14 @@
   "ZQr92M": [
     "Provedba pravila servera (AI)"
   ],
+  "ZQxU8v": [
+    "Najmanje ",
+    [
+      2,
+      "memberCount"
+    ],
+    " članova servera mora dijeliti svoju aktivnost slušanja na Spotifyju kako bi se prikazali top slušatelji."
+  ],
   "ZR1Ss6": [
     "Radnje audio uređaja"
   ],
@@ -94790,6 +96465,9 @@
   ],
   "ZUEGFn": [
     "Pokušaj ponovno kasnije."
+  ],
+  "ZUGgI7": [
+    "ZUGgI7"
   ],
   "ZURqX0": [
     "Dodaj Plaćanje"
@@ -95067,7 +96745,7 @@
     "Možeš me pronaći na"
   ],
   "ZZNyeP": [
-    "Uzmi besplatnu prvu godinu programa My Best Buy Plus™ (29,99 USD). Ostvari ",
+    "Besplatno uzmi prvu godinu programa My Best Buy Plus™ (29,99 USD). Ostvari ",
     [
       1,
       "rewardPercentage"
@@ -95474,6 +97152,9 @@
     ],
     " popusta na buduće boostove za server."
   ],
+  "ZiykFI": [
+    "Skelly"
+  ],
   "Zj2xQ0": [
     "Usluga Google Pay nije dostupna ili nije postavljena u tvojem pregledniku. Ovdje unesi svoju karticu za plaćanje"
   ],
@@ -95517,6 +97198,9 @@
   "ZkmC7s": [
     "Nisi sam/a. Ako ti treba pomoć, razgovaraj s odraslom osobom u koju imaš povjerenja. Osim toga, u svakom nam trenutku možeš prijaviti poruke."
   ],
+  "Zl5vPW": [
+    "Zl5vPW"
+  ],
   "ZlWXgR": [
     "Tvoje pretplate će se automatski obnoviti dana ",
     [
@@ -95555,6 +97239,9 @@
   ],
   "ZmVEz/": [
     "Prikaži manje"
+  ],
+  "ZmaptE": [
+    "Vanjske predmemorije"
   ],
   "Zmm6dN": [
     "Fotografije"
@@ -96055,6 +97742,9 @@
   "Zw8jxn": [
     "Odaberi ili unesi ID misije"
   ],
+  "ZwDYuP": [
+    "Najviše dana u igri"
+  ],
   "ZwOSdn": [
     "Prilagođene naljepnice u vlastitoj izradi koje mogu koristiti svi"
   ],
@@ -96164,6 +97854,9 @@
   ],
   "ZzcLhc": [
     "Ako smo pogriješili, potvrdi da si odrasla osoba"
+  ],
+  "ZzcwNk": [
+    "Prazni omiljene i vraća ih u početno stanje."
   ],
   "ZzdgUm": [
     "Nije moguće izraditi privatni kanal"
@@ -96350,6 +98043,9 @@
   ],
   "a0DdWJ": [
     "Ako imaš dolazne zahtjeve za prijateljstvom, ovdje im možeš pristupiti!"
+  ],
+  "a11Q57": [
+    "a11Q57"
   ],
   "a17rBk": [
     "Postavi traženo polje e-pošte"
@@ -97147,6 +98843,9 @@
   ],
   "aPmsx3": [
     "Pogreška prilikom zahtjeva za reviziju"
+  ],
+  "aQUPiQ": [
+    "Widgeti se automatski osvježavaju s najnovijom aktivnosti."
   ],
   "aQjtas": [
     "Lavanda"
@@ -98064,6 +99763,13 @@
     ],
     " ne reagira"
   ],
+  "akg5nT": [
+    "Omiljene Nitro posebne pogodnosti: ",
+    [
+      1,
+      "filterName"
+    ]
+  ],
   "al+5qH": [
     "video"
   ],
@@ -98426,6 +100132,9 @@
         ]
       ]
     ]
+  ],
+  "aq6+nQ": [
+    "aq6+nQ"
   ],
   "aqN8U9": [
     "Pridružit ćeš se na desktopu."
@@ -99006,6 +100715,9 @@
     "hrana",
     "voće"
   ],
+  "avpngL": [
+    "avpngL"
+  ],
   "avps/2": [
     "Uzmi Nitro"
   ],
@@ -99055,6 +100767,9 @@
   ],
   "awsERJ": [
     "Ponovno pošalji probno razdoblje"
+  ],
+  "awu/Sj": [
+    "awu/Sj"
   ],
   "ax4/ib": [
     "Boostanje servera"
@@ -99655,7 +101370,7 @@
       1,
       "rewardPercentage"
     ],
-    " % povrata u nagradama za odabrane prednarudžbe najvećih igara sezone."
+    " % povrata u nagradama na odabrane prednarudžbe najvećih igara sezone."
   ],
   "b9w3bO": [
     "Na mreži"
@@ -100014,6 +101729,9 @@
   ],
   "bKOzux": [
     "Kategorije widgeta"
+  ],
+  "bKbxkA": [
+    "bKbxkA"
   ],
   "bL21zs": [
     "Nakon što se pridružiš ovom glasovnom kanalu, tvoj način ulaza prebacuje se na glasovnu aktivnost."
@@ -100555,6 +102273,9 @@
     ],
     "."
   ],
+  "bZ0yGQ": [
+    "Služi za dijeljenje pjesama koje slušaš."
+  ],
   "bZ4Okd": [
     [
       1,
@@ -100832,6 +102553,9 @@
       1,
       "c"
     ]
+  ],
+  "bbQzr1": [
+    "bbQzr1"
   ],
   "bbRRNY": [
     "do isteka besplatne demo verzije"
@@ -101128,6 +102852,13 @@
   ],
   "bgL68y": [
     "Sada ste prijatelji. Pošalji pozdrav!"
+  ],
+  "bgQf2H": [
+    [
+      1,
+      "minutes"
+    ],
+    " min"
   ],
   "bgU5r0": [
     "Prikazuje se obavijest pri svakom otvaranju prekrivanja kako bi znao/la da je aktivno."
@@ -101965,6 +103696,9 @@
   "bt75uw": [
     "Uredi"
   ],
+  "btBTIw": [
+    "Ljestvica igranja"
+  ],
   "btSGOj": [
     "Pridružena publika"
   ],
@@ -102294,6 +104028,45 @@
   ],
   "bxcI6Y": [
     "Pretpregled badgea za orbove na profilu"
+  ],
+  "bxcrSz": [
+    "Igrao/la je ",
+    [
+      1,
+      "firstGame"
+    ],
+    ", ",
+    [
+      1,
+      "secondGame"
+    ],
+    " i ",
+    [
+      6,
+      "otherCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " drugu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "bxh/R7": [
     "Čitljivost teksta"
@@ -102976,6 +104749,9 @@
   "c9qSBR": [
     "Prije datuma"
   ],
+  "c9wSH7": [
+    "c9wSH7"
+  ],
   "c9zdjv": [
     "Postavi integraciju zajednice!"
   ],
@@ -103317,6 +105093,9 @@
   "cJng7v": [
     "Priroda"
   ],
+  "cJs3+v": [
+    "cJs3+v"
+  ],
   "cK1GGY": [
     "Pokreni Događanje"
   ],
@@ -103652,6 +105431,9 @@
   ],
   "cSu80j": [
     "Sakrij prozor u igri"
+  ],
+  "cSw0mL": [
+    "cSw0mL"
   ],
   "cSyXJk": [
     "Kad je ovo onemogućeno, samo moderator i onaj tko je nit otvorio mogu dodati nove članove u ovu nit."
@@ -104144,6 +105926,9 @@
   ],
   "cbD7CX": [
     "Započni svoje dvotjedno razdoblje Nitra i isprobaj prilagođene profile, animirane emojije i još mnogo toga!"
+  ],
+  "cbssIC": [
+    "cbssIC"
   ],
   "cbtPXy": [
     "Tema je ažurirana."
@@ -104772,6 +106557,9 @@
   ],
   "clQc1f": [
     "Promijeni detalje korisničkog računa"
+  ],
+  "clUNo2": [
+    "clUNo2"
   ],
   "clap": [
     "aplauz",
@@ -106116,6 +107904,9 @@
   "d0M0XI": [
     "Stigle naljepnice!"
   ],
+  "d0Z8kd": [
+    "Preskoči na sebe"
+  ],
   "d0gJtH": [
     "Prenosi veće datoteke"
   ],
@@ -106253,6 +108044,54 @@
   ],
   "d34xi4": [
     "Neispravno prekoračenje builda"
+  ],
+  "d3aX5b": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " premjestio/la je ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "kanal"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " kanala"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "d3kA9a": [
     "Ovdje možeš staviti do 9 linkova na svoje službene račune na društvenim medijima i tako ih prikazati."
@@ -106530,6 +108369,34 @@
   "d9+vQ8": [
     "Hvala na povratnoj informaciji!"
   ],
+  "d90MfZ": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " drugi na glasovnom"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druga na glasovnom"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih na glasovnom"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "d9KbHK": [
     "Ispunjava preduvjete za promociju, prikupljeno ",
     [
@@ -106731,6 +108598,9 @@
   ],
   "dFgeuZ": [
     "Popularni odabiri, dušu dali za Orbs"
+  ],
+  "dFir5f": [
+    "dFir5f"
   ],
   "dFu8vZ": [
     [
@@ -107314,6 +109184,69 @@
     ],
     " · Skica"
   ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " na ljestvici igrajući ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jedinstvenu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " jedinstvene igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jedinstvenih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "dXC/hn": [
     "godina"
   ],
@@ -107627,6 +109560,13 @@
       ]
     ],
     " i tvoj će se ciklus naplate nastaviti prema rasporedu."
+  ],
+  "dbNpK0": [
+    "Igrao/la je ",
+    [
+      1,
+      "firstGame"
+    ]
   ],
   "dbTs+z": [
     "Svi unutar ovog kanala pokušat će se priključiti na regiju kako je zadana po tvojem nahođenju, bez obzira odakle je tko. Regija ima veze se kvalitetom slike i zvuka. Ostaviš li to na automatski, Discord će već prokljuviti kako se postižu najbolji rezultati."
@@ -109113,6 +111053,13 @@
   "e3Zz3F": [
     "Prikaži pretpreglede streama"
   ],
+  "e3qAIz": [
+    "Poništi ignoriranje korisnika ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "e4WMvx": [
     "Dizanje ruke je onemogućeno"
   ],
@@ -110052,6 +111999,9 @@
   "eOFvqT": [
     "Uklanja tvoju prihvatnu stranicu s interneta. Opet je objavi kako bi je ponovo omogućio."
   ],
+  "eOHGhL": [
+    "eOHGhL"
+  ],
   "eOIfuy": [
     "Potreban je broj kreditne kartice."
   ],
@@ -110235,6 +112185,34 @@
             7
           ],
           " automatskih isječaka"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
+  "eS6Nek": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " izlazni zahtjev"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " izlazna zahtjeva"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " izlaznih zahtjeva"
         ]
       },
       0,
@@ -110505,7 +112483,7 @@
     ]
   ],
   "eZhXQa": [
-    "Podijeli moju statistiku s ovim serverom"
+    "Dijeli moju aktivnost s ovim serverom"
   ],
   "eZmJYE": [
     "Kada je ovo uključeno, slike i videozapisi snimljeni kamerom prilikom slanja poruke bit će spremljeni na uređaju"
@@ -110726,6 +112704,9 @@
   "ec5Rdd": [
     "10 sati igranja u oblaku svakog mjeseca"
   ],
+  "ecPCdG": [
+    "Članstvo u programu My Best Buy Plus"
+  ],
   "ecTJkR": [
     "Okviri za profile"
   ],
@@ -110765,6 +112746,9 @@
   ],
   "ee7wQ7": [
     "Sada dostupno uz Nitro"
+  ],
+  "eeJvfA": [
+    "Ova je direktna poruka prazna 🦗"
   ],
   "eeM6Gk": [
     "Možemo li pitati kako to da je pretplata ",
@@ -111158,6 +113142,9 @@
         ]
       ]
     ]
+  ],
+  "eooiqe": [
+    "eooiqe"
   ],
   "eotGpL": [
     "Sada možete organizirati događaje s pozornicom preko video povezivanja i dijeljenja zaslona. Serveri koji imaju Boostove mogu ugostiti veće događaje Video pozornice (150 korisnika za Razinu 2, 300 za Razinu 3)."
@@ -111584,6 +113571,9 @@
   "evRhwg": [
     "Otkrivena je neobična aktivnost u direktnoj poruci"
   ],
+  "evXB9B": [
+    "evXB9B"
+  ],
   "evergreen_tree": [
     "biljka",
     "božićno drvce",
@@ -111695,6 +113685,63 @@
   ],
   "exRczv": [
     "Bilo je problema s izvedbom"
+  ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " na ljestvici provevši ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan u igri"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana u igri"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "exclamation": [
     "!",
@@ -112043,6 +114090,9 @@
   "f41E1g": [
     "Ne možeš pokrenuti aktivnost ovdje"
   ],
+  "f4BaUg": [
+    "f4BaUg"
+  ],
   "f4M+H9": [
     "Ulazni zvukovi"
   ],
@@ -112125,6 +114175,46 @@
   ],
   "f6RTAM": [
     "GOTOVO"
+  ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju provevši ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dan u igri"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana u igri"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Aktivno prije više od 30 dana"
@@ -112231,6 +114321,9 @@
   ],
   "fAW3z4": [
     "Nisu pronađena podudaranja"
+  ],
+  "fAXYyg": [
+    "fAXYyg"
   ],
   "fAYU2G": [
     "Prečaci ne rade tijekom igranja zbog dozvola sustava."
@@ -112995,6 +115088,47 @@
   "fVWxvT": [
     "Dodaj ulogu"
   ],
+  "fVm1Zn": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " preuzeo/la je 1. mjesto od ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " na ljestvici provevši ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
+  ],
   "fWQTbv": [
     "Povećaj broj tjednih komunikatora"
   ],
@@ -113003,6 +115137,9 @@
   ],
   "fWbIpf": [
     "Popularni serveri za igranje"
+  ],
+  "fWef0G": [
+    "Kraj bočnog stupca"
   ],
   "fWvX0G": [
     [
@@ -113524,6 +115661,78 @@
   "fcYgiY": [
     "Više o aplikaciji i Pravila"
   ],
+  "fcmI49": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "usernameHook",
+            [
+              [
+                1,
+                "username"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "username2Hook",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " i ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " druga osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih osoba"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " koriste zaslonsku ploču."
+  ],
   "fdEeb5": [
     "Pridruži se glasovnom pozivu"
   ],
@@ -113730,6 +115939,9 @@
   ],
   "fhK8hj": [
     "Nitro nagrada"
+  ],
+  "fhY51Q": [
+    "fhY51Q"
   ],
   "fhY6s9": [
     "Aktivnost"
@@ -114655,6 +116867,18 @@
     ],
     "."
   ],
+  "fvtrHn": [
+    [
+      1,
+      "hours"
+    ],
+    " h ",
+    [
+      1,
+      "minutes"
+    ],
+    " min"
+  ],
   "fw2p/x": [
     "Tag servera: ",
     [
@@ -114824,6 +117048,9 @@
   ],
   "g+bTAg": [
     "Isprobaj prilagođavanje profila"
+  ],
+  "g+lLUV": [
+    "Pomakni ulogu"
   ],
   "g+sEOr": [
     "Niue"
@@ -115037,8 +117264,14 @@
   "g62IJl": [
     "završeno"
   ],
+  "g64C7b": [
+    "g64C7b"
+  ],
   "g6Dr44": [
     "Desktop"
+  ],
+  "g6JzUy": [
+    "g6JzUy"
   ],
   "g6KdFv": [
     "Vrsta datoteke privitka: ",
@@ -115654,6 +117887,9 @@
     ],
     " mjeseci."
   ],
+  "gN0TTr": [
+    "gN0TTr"
+  ],
   "gNJHHp": [
     "Pokušaj ponovno"
   ],
@@ -115943,6 +118179,9 @@
   ],
   "gUqXQN": [
     "Potvrdi svoju dob na drugom uređaju"
+  ],
+  "gUvhsN": [
+    "gUvhsN"
   ],
   "gUx4eu": [
     "Prenesi u nit"
@@ -116353,6 +118592,9 @@
   "ge/d+Y": [
     "glazba-produkcija"
   ],
+  "ge88VE": [
+    "ge88VE"
+  ],
   "geFoof": [
     [
       6,
@@ -116667,6 +118909,9 @@
     ],
     "."
   ],
+  "gjL5N4": [
+    "gjL5N4"
+  ],
   "gjdiKE": [
     "Pretpregled"
   ],
@@ -116781,6 +119026,9 @@
   "gnkqzQ": [
     "Ako je ažuriranje obavljeno i još uvijek dobivaš ovu poruku, javi se našoj podršci."
   ],
+  "gnoxLY": [
+    "gnoxLY"
+  ],
   "gnsna/": [
     "Još nisi kreirao/la uloge"
   ],
@@ -116867,6 +119115,9 @@
   ],
   "gpCRFS": [
     "Zapis o izvedbi spremljen je u tvoju mapu Preuzimanja"
+  ],
+  "gpEOaS": [
+    "gpEOaS"
   ],
   "gpSh3U": [
     "Page Down"
@@ -117441,11 +119692,21 @@
     ],
     "!"
   ],
+  "h+7Yx3": [
+    "Otključaj tag servera koristeći boostove. Odaberi server za početak."
+  ],
   "h+Imbu": [
     "Otvori zakazane poruke"
   ],
   "h+KPxy": [
     "Koncertne ulaznice kreću u prodaju u petak u 10:00!"
+  ],
+  "h+LUpk": [
+    [
+      1,
+      "percent"
+    ],
+    " %"
   ],
   "h+WsPb": [
     "Primijenjeno"
@@ -117674,12 +119935,11 @@
         "orbIcon"
       ]
     ],
-    " ",
     [
       1,
       "orbAmount"
     ],
-    " orbsa"
+    " orbova"
   ],
   "h2vwDd": [
     "Glasovne dozvole"
@@ -117840,6 +120100,9 @@
   "h80cx/": [
     "Boostovi servera mjesečno"
   ],
+  "h83tLO": [
+    "h83tLO"
+  ],
   "h850Ss": [
     "Postavke obavijesti"
   ],
@@ -117939,8 +120202,29 @@
       "count"
     ]
   ],
+  "h9P9H+": [
+    "Umetni widget na položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " u bočnom stupcu"
+  ],
   "h9Q1lG": [
     "Za klub ili zajednicu"
+  ],
+  "h9gDdS": [
+    "Tvoj je tim pobijedio u timskoj borbi ",
+    [
+      1,
+      "allyKills"
+    ],
+    " - ",
+    [
+      1,
+      "enemyKills"
+    ],
+    "!"
   ],
   "h9mGOP": [
     "Kanali i uloge"
@@ -118109,6 +120393,9 @@
   ],
   "hFYUDN": [
     "Zadane pozadine nije moguće ukloniti"
+  ],
+  "hFYyGU": [
+    "Prikazi popularne glazbe"
   ],
   "hFeBkl": [
     "Pokreni autentikacijsku aplikaciju i skeniraj sliku lijevo, koristeći kameru mobitela."
@@ -118333,6 +120620,9 @@
   ],
   "hKcgP5": [
     "Nijedan SKU nije dostupan"
+  ],
+  "hKfSwp": [
+    "Pomakni kanal"
   ],
   "hKsCRB": [
     "Spremamo sve na svoje mjesto..."
@@ -119209,6 +121499,9 @@
   "hdneL4": [
     "Uklanjanjem ove integracije uklonit ćeš sa svojeg servera sve aplikacije (uključujući botove i webhookove) koji su na ovoj stranici. To se ne može poništiti."
   ],
+  "hdrVwP": [
+    "hdrVwP"
+  ],
   "he52LA": [
     "(Sadrži ",
     [
@@ -119716,6 +122009,13 @@
   "hmKy8E": [
     "Razlog izbacivanja"
   ],
+  "hmNYxk": [
+    "Ukloni ",
+    [
+      1,
+      "widgetName"
+    ]
+  ],
   "hmb311": [
     "Prikaži filtre i još postavki"
   ],
@@ -119894,6 +122194,34 @@
     "kućica u cvijeću",
     "predgrađe",
     "vrt"
+  ],
+  "hpAg80": [
+    [
+      6,
+      "panelCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " widget je aktivan"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " widgeta su aktivna"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " widgeta je aktivno"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "hpgzEq": [
     "Prijavi"
@@ -120217,6 +122545,9 @@
   ],
   "hwPEJR": [
     "Razinu je onemogućio administrator"
+  ],
+  "hwY2F5": [
+    "hwY2F5"
   ],
   "hwbB7s": [
     "Filtriraj poruke nakon određenog datuma"
@@ -121480,6 +123811,9 @@
         ]
       ]
     ]
+  ],
+  "iU9tyl": [
+    "iU9tyl"
   ],
   "iUSTDT": [
     "domaća-zadaća"
@@ -122948,6 +125282,9 @@
   "ixASa2": [
     "Dani"
   ],
+  "ixMwGl": [
+    "Taj se zvuk može koristiti svugdje."
+  ],
   "ixNwPL": [
     "Bankovni račun je dodan ",
     [
@@ -123063,6 +125400,13 @@
   "iz4w1M": [
     "Resetiraj rotaciju"
   ],
+  "izBDZN": [
+    "Odblokiraj ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "izMR7o": [
     "Ne možeš zvati privremeni račun"
   ],
@@ -123105,6 +125449,9 @@
   ],
   "j/5+IX": [
     "To su tvoji kanali!"
+  ],
+  "j/B2Zo": [
+    "j/B2Zo"
   ],
   "j/KRxc": [
     "Koristi zadano"
@@ -123767,6 +126114,9 @@
   "jK+wdr": [
     "Prikaži personalizirane poruke"
   ],
+  "jK2oto": [
+    "Listaj ulijevo ili udesno za prikaz drugih badgeva"
+  ],
   "jKYAPu": [
     "Postoje problemi s tvojim unosom regexa. Ispravi gornje istaknute pogreške. ",
     [
@@ -124161,6 +126511,26 @@
   "jTxbHc": [
     "Badge s vjetrom"
   ],
+  "jUJ7IO": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše dana u igri? Trenutačno je ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " u vodstvu."
+  ],
   "jULEDr": [
     "Pogledaj ",
     [
@@ -124192,6 +126562,9 @@
       ]
     ],
     "."
+  ],
+  "jUr+wF": [
+    "Otvori na Spotifyju"
   ],
   "jUze6F": [
     "Zumiraj da omogućiš promjenu položaja"
@@ -124371,6 +126744,60 @@
   ],
   "jZcIid": [
     "Koristi tekst-u-govor kako bi pročitao/la poruku svim članovima koji trenutno pregledavaju kanal."
+  ],
+  "jZeaoW": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " premjestio/la je ",
+    [
+      6,
+      "count",
+      {
+        "=1": [
+          [
+            8,
+            "$b",
+            [
+              "ulogu"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            7
+          ],
+          " uloge"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uloga"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "jZoHgI": [
     "Moraš imati najmanje dva izbora, a može i više."
@@ -126114,6 +128541,9 @@
   "kEMWrG": [
     "Model kanala za raspravu o igrama s tagovima na forumu kao što su Događaji, Preporuke i LFG."
   ],
+  "kEY+nX": [
+    "kEY+nX"
+  ],
   "kEcZ97": [
     [
       8,
@@ -126214,6 +128644,25 @@
   ],
   "kFwAsa": [
     "Ukloni prilog"
+  ],
+  "kG9XmM": [
+    "Ovo je natjecanje završilo ",
+    [
+      1,
+      "endedAt"
+    ],
+    ". Sljedeće natjecanje je ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nextStatName"
+        ]
+      ]
+    ],
+    "."
   ],
   "kGCHEJ": [
     "Pretplata na server"
@@ -126692,6 +129141,9 @@
   "kTAoEr": [
     "Prikaži povijest plaćanja"
   ],
+  "kTMH3n": [
+    "kTMH3n"
+  ],
   "kTdL8X": [
     "Dodijeljeni kanal mora biti samo za čitanje za @everyone"
   ],
@@ -126718,6 +129170,9 @@
   ],
   "kV54/Y": [
     "Povlastica"
+  ],
+  "kVJZvr": [
+    "kVJZvr"
   ],
   "kVfuVu": [
     "Dodaj super reakciju"
@@ -127036,6 +129491,9 @@
   ],
   "kc5n4S": [
     "Nevis"
+  ],
+  "kcAWvo": [
+    "kcAWvo"
   ],
   "kcHxi6": [
     "Operacijski sustav"
@@ -127998,6 +130456,9 @@
   "l/l/Gw": [
     "Stvori prilagođenu poruku dobrodošlice i upute za prve korake. Članovima možeš pokazati i stranice resursa za Česta pitanja, Pravila i još mnogo toga."
   ],
+  "l/tCAO": [
+    "l/tCAO"
+  ],
   "l07DXK": [
     [
       8,
@@ -128122,6 +130583,9 @@
   ],
   "l3P7K0": [
     "Upute za omogućivanje pristupa tvojoj kameri možeš pronaći u Discord Centru za Pomoć."
+  ],
+  "l3QzyC": [
+    "Taj zvuk potječe s tvog servera."
   ],
   "l3VxgG": [
     [
@@ -128311,12 +130775,12 @@
     "Ne možeš ih pronaći? Pokušaj poslati link pozivnice."
   ],
   "l6SlkF": [
-    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD) besplatna je ako imaš Nitro. Ostvari ",
+    "Prva godina programa My Best Buy Plus™ (vrijednosti 29,99 USD) besplatna je uz Nitro. Ostvari ",
     [
       1,
       "rewardPercentage"
     ],
-    " % povrata u nagradama za odabrane prednarudžbe najvećih igara sezone. Iskoristiti do ",
+    " % povrata u nagradama na odabrane prednarudžbe najvećih igara sezone. Iskoristi do ",
     [
       3,
       "date",
@@ -128629,6 +131093,9 @@
   ],
   "lE/PG3": [
     "Označi kao službeno"
+  ],
+  "lE79Lm": [
+    "Prijatelji organizirani prema igri koju trenutačno igraju"
   ],
   "lEIwDw": [
     "Boost košta ",
@@ -129357,6 +131824,9 @@
   "lZTUPs": [
     "Video pozadina"
   ],
+  "lZWCZ+": [
+    "Datoteke isključene iz sigurnosne kopije"
+  ],
   "lZejCq": [
     "Uključi @role spominjanja"
   ],
@@ -129473,6 +131943,9 @@
   "lboF5O": [
     "Dodaj Plaćanje"
   ],
+  "lbzScK": [
+    "lbzScK"
+  ],
   "lcSxhB": [
     "Koristi svoje omiljene zvukove na cijelom Discordu uz Nitro koji ti nudi još mnogo toga. ",
     [
@@ -129526,6 +131999,9 @@
   ],
   "leKHQz": [
     "Za sada još nema opcija za prilagodbu."
+  ],
+  "leUgZw": [
+    "Emoji koji dolazi samo uz Nitro"
   ],
   "leafless_tree": [
     "ogoljeno",
@@ -129678,6 +132154,9 @@
   ],
   "lgHr73": [
     "Chatanje, streamanje i opuštanje"
+  ],
+  "lgKBzG": [
+    "lgKBzG"
   ],
   "lgcisd": [
     "Serveri kojima je broj članova ",
@@ -130841,6 +133320,9 @@
   "m163cv": [
     "glasovni chatovi najljepši su kada si i ti na njima"
   ],
+  "m19WWb": [
+    "m19WWb"
+  ],
   "m1KuWd": [
     "Vremensko ograničenje"
   ],
@@ -131787,6 +134269,9 @@
   "mRPWne": [
     "Koristi prilagođene emojije gdje god želiš i oživi ih animacijom"
   ],
+  "mRPtBV": [
+    "mRPtBV"
+  ],
   "mRbUco": [
     [
       8,
@@ -131826,6 +134311,9 @@
   ],
   "mT9B49": [
     "Poslao/la si dar, no ali..."
+  ],
+  "mTARYx": [
+    "Uključi personalizaciju da se pridružiš ljestvici."
   ],
   "mTMkY2": [
     "Prvo moraš omogućiti prethodnu razinu."
@@ -133108,6 +135596,9 @@
   "mfpJ9m": [
     "Poštanski broj"
   ],
+  "mg1NPe": [
+    "mg1NPe"
+  ],
   "mgGOT4": [
     "Preporučujemo da opis teme bude više opisan kako bi slušatelji mogli nešto više doznati o tvojem serveru."
   ],
@@ -133160,6 +135651,52 @@
   ],
   "mgsmfY": [
     "Ovaj je tijek onemogućen pomoću alata za developere"
+  ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju igrajući ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " jedinstvenu igru"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " jedinstvene igre"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jedinstvenih igara"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "mhUrKS": [
     "Prije nego vam omogućimo korištenje Obiteljskog centra, treba nam potvrda vaše dobi kako bismo vam mogli omogućiti uporabu naših servisa kako to i priliči. Tražit ćemo je samo jednom."
@@ -133483,6 +136020,9 @@
   ],
   "mmeWUF": [
     "Razvrstaj po: najstarije"
+  ],
+  "mmlFSp": [
+    "mmlFSp"
   ],
   "mn/nW2": [
     "AKA ",
@@ -134407,6 +136947,9 @@
         ]
       ]
     ]
+  ],
+  "n3aRYQ": [
+    "Obavijesti o završetku natjecanja, početku novog natjecanja i kada netko preuzme vodstvo tijekom aktualnog natjecanja"
   ],
   "n3bcy8": [
     "Dodaj moderatore pozornice"
@@ -135746,6 +138289,9 @@
       "duration"
     ]
   ],
+  "nXc/MQ": [
+    "Ne možeš pristupiti."
+  ],
   "nXdbKo": [
     "Za ",
     [
@@ -135977,6 +138523,9 @@
   ],
   "naBTFO": [
     "Zaposlenik Discorda me to zatražio"
+  ],
+  "naImPK": [
+    "naImPK"
   ],
   "naT1rM": [
     "Ovaj je ukras sada dio tvoje kolekcije i možeš ga koristiti kada god poželiš! Sretni blagdani!"
@@ -136567,6 +139116,19 @@
   "no+FQS": [
     "Upotrijebit će se prvi dostupan tijek za povezivanje, počevši od vrha"
   ],
+  "no2oEG": [
+    "Tvoj je tim odigrao borbu s rezultatom ",
+    [
+      1,
+      "allyKills"
+    ],
+    " - ",
+    [
+      1,
+      "enemyKills"
+    ],
+    "."
+  ],
   "no7/g5": [
     "Page Down"
   ],
@@ -136698,6 +139260,9 @@
       1,
       "count"
     ]
+  ],
+  "npZ6IB": [
+    "Prikaži ljestvicu"
   ],
   "npfhh0": [
     "Prije nego kupiš još boostova morat ćeš otkazati promjene modela pretplate."
@@ -137173,6 +139738,9 @@
   "o1OjGD": [
     "Badge s uvelim cvijetom"
   ],
+  "o1Zign": [
+    "o1Zign"
+  ],
   "o1bhkD": [
     "Pokreni putem aplikacije za Desktop"
   ],
@@ -137438,6 +140006,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "o6mBdl": [
+    "Prikaz nedavne aktivnosti"
   ],
   "o7DqF3": [
     "Odvojak"
@@ -137936,6 +140507,9 @@
   ],
   "oHWnLy": [
     "Predloženi kanali"
+  ],
+  "oHdW+u": [
+    "Bez poretka"
   ],
   "oHh3oI": [
     "Pomoćni servis za Discord nije uspješno instaliran: ",
@@ -139522,6 +142096,9 @@
     "vidra",
     "zaigranost"
   ],
+  "otwb22": [
+    "otwb22"
+  ],
   "ouHggI": [
     "Opće dozvole kanala"
   ],
@@ -140557,6 +143134,9 @@
   "pDuyi0": [
     "Članovima omogući da šalju glasovne poruke."
   ],
+  "pDzipI": [
+    "Hub na serveru je objavljen. Svatko na serveru sada ga može vidjeti."
+  ],
   "pEAl4b": [
     "Glasnoća streama"
   ],
@@ -140917,6 +143497,9 @@
       "discountPercent"
     ],
     " % popusta na asortiman za simulaciju PRO Series"
+  ],
+  "pSCe5T": [
+    "pSCe5T"
   ],
   "pSZKvM": [
     "Datum"
@@ -142724,6 +145307,9 @@
     "mačka",
     "životinja"
   ],
+  "pp6WeD": [
+    "Odaberi uloge"
+  ],
   "ppGw/P": [
     "Dom"
   ],
@@ -142919,6 +145505,9 @@
   "prvWKm": [
     "Dopusti članovima da šalju poruke u tekstualnim kanalima i stvaraju postove u kanalima foruma."
   ],
+  "ps4413": [
+    "ps4413"
+  ],
   "psDfFO": [
     "Zadani prikaz u obliku galerije"
   ],
@@ -142971,6 +145560,20 @@
   ],
   "pt88Vb": [
     "Prvi pogled na NOVI crtić"
+  ],
+  "ptD18B": [
+    "Počinje novo nadmetanje na ljestvici! Tko će biti ovotjedni pobjednik s najviše vremena u igri? Trenutačno je ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " u vodstvu."
   ],
   "ptItsj": [
     "Avatar, slika bannera, korisničko ime ili zaslonsko ime, tekstualni deskriptori ili tag servera"
@@ -143191,6 +145794,9 @@
   "pylO3w": [
     "Trgovina"
   ],
+  "pypEfa": [
+    "pypEfa"
+  ],
   "pythUC": [
     "Zahvaljujući nekom širokogrudom biću, od sada imaš pojačane chat pogodnosti u trajanju od ",
     [
@@ -143217,6 +145823,9 @@
   ],
   "pzCe7h": [
     "Nevažeće vjerodajnice"
+  ],
+  "pzQFS9": [
+    "pzQFS9"
   ],
   "pzTFpM": [
     "Stranica nije vidljiva tvojim članovima i u svakom trenutku može biti izbrisana."
@@ -143596,6 +146205,22 @@
   ],
   "q7A8hP": [
     "Radi s nama"
+  ],
+  "q7PYXq": [
+    [
+      1,
+      "badgeName"
+    ],
+    ", badge ",
+    [
+      2,
+      "position"
+    ],
+    " od ",
+    [
+      2,
+      "total"
+    ]
   ],
   "q7WNGv": [
     "Sakrij linkove pozivnica"
@@ -144019,6 +146644,9 @@
   ],
   "qIZICF": [
     "Novi način zajedničkog igranja."
+  ],
+  "qIsTEd": [
+    "qIsTEd"
   ],
   "qJPLNa": [
     "Unesi ili odaberi emoji"
@@ -144938,6 +147566,9 @@
   "qh9t5c": [
     "Njegova želja tvoja je zapovijed"
   ],
+  "qhOt/V": [
+    "qhOt/V"
+  ],
   "qhZmhU": [
     "Asistencija"
   ],
@@ -145321,6 +147952,9 @@
   "qqjm8O": [
     "Upotrijebi boostove da zagriješ hostirani server i igraj s prijateljima."
   ],
+  "qquj6H": [
+    "qquj6H"
+  ],
   "qqyp/e": [
     "Boj datoteka koje istovremeno možeš prenositi je ",
     [
@@ -145328,6 +147962,18 @@
       "limit"
     ],
     "!"
+  ],
+  "qr8Cg3": [
+    "Igrali ",
+    [
+      1,
+      "a"
+    ],
+    " i ",
+    [
+      1,
+      "b"
+    ]
   ],
   "qr9dEP": [
     "Announcement"
@@ -146278,6 +148924,9 @@
   "rD6EaA": [
     "Čitaj manje"
   ],
+  "rDWswi": [
+    "Vesela stopala"
+  ],
   "rDjKru": [
     "Novi badge: ",
     [
@@ -146694,6 +149343,9 @@
   ],
   "rNGQfD": [
     "Podijeli link misije"
+  ],
+  "rO+7yN": [
+    "rO+7yN"
   ],
   "rO0Vix": [
     "Ili podijeli uređaj"
@@ -147445,6 +150097,17 @@
     ],
     " puta!"
   ],
+  "rbqtTJ": [
+    "Utvrdili smo da pripadaš tinejdžerskoj dobnoj skupini (13 – 17). Ako to nije točno, ",
+    [
+      8,
+      "hook",
+      [
+        "potvrdi da si odrasla osoba"
+      ]
+    ],
+    "."
+  ],
   "rbwRlf": [
     "Ako sada ponovo uđeš u Nitro Classic, nastavit ćemo naplaćivati ",
     [
@@ -147760,6 +150423,9 @@
   "rhBeKe": [
     "Tvoj datum rođenja"
   ],
+  "rhDbuQ": [
+    "igra"
+  ],
   "rhY1Rs": [
     [
       2,
@@ -148064,6 +150730,9 @@
   ],
   "rlBMue": [
     "Netko koga si blokirao/la je ovdje."
+  ],
+  "rlHWVB": [
+    "rlHWVB"
   ],
   "rlNJwZ": [
     "Potvrdi vezu s roditeljem za:"
@@ -149141,6 +151810,9 @@
   "s0KCgF": [
     "Omogući konfete"
   ],
+  "s0Kbif": [
+    "s0Kbif"
+  ],
   "s0N1nM": [
     "Zaštita od DDoS napada"
   ],
@@ -149358,7 +152030,7 @@
     "Traži kanale"
   ],
   "s5No7R": [
-    "Ovaj zvuk dolazi sa servera koji je moguće otkriti."
+    "Taj zvuk potječe s javnog servera."
   ],
   "s5Qo8E": [
     "Blup"
@@ -150085,6 +152757,9 @@
   "sO+NI5": [
     "Unesi svoje ime"
   ],
+  "sOWu4j": [
+    "sOWu4j"
+  ],
   "sOaT2j": [
     "Potvrdi da si voljna ili voljan aplikaciji ",
     [
@@ -150161,6 +152836,9 @@
       1,
       "price"
     ]
+  ],
+  "sQ1bDT": [
+    "sQ1bDT"
   ],
   "sQ42iT": [
     "Resetiranje postavki glasa će resetirati sva lokalna utišavanja i glasnoće. Jesi li siguran/na da to želiš učiniti?"
@@ -150256,6 +152934,9 @@
   "sRApon": [
     "Povratak u aplikaciju"
   ],
+  "sRCTRC": [
+    "sRCTRC"
+  ],
   "sRJGR1": [
     "Ovaj server nije dostupan na tvojoj lokaciji."
   ],
@@ -150347,6 +153028,9 @@
   ],
   "sTFApF": [
     "Otključano"
+  ],
+  "sTG4TS": [
+    "sTG4TS"
   ],
   "sTo7s3": [
     "Slušaj s podržanog uređaja"
@@ -152482,6 +155166,9 @@
     "štoperica",
     "vrijeme"
   ],
+  "stpl+C": [
+    "stpl+C"
+  ],
   "straight_ruler": [
     "matematika",
     "ravnalo",
@@ -152555,6 +155242,13 @@
   ],
   "suRApw": [
     "Publika"
+  ],
+  "subXXA": [
+    [
+      1,
+      "name"
+    ],
+    " (ti)"
   ],
   "suhY+Y": [
     "Postavljanje sigurnosti"
@@ -152795,6 +155489,9 @@
   ],
   "syAApU": [
     "Otkaži AutoMod pravilo"
+  ],
+  "syCNDV": [
+    "syCNDV"
   ],
   "syHjLL": [
     [
@@ -153359,6 +156056,9 @@
   ],
   "tC1pvL": [
     "Više savjeta"
+  ],
+  "tC4dgc": [
+    "tC4dgc"
   ],
   "tCQ3H8": [
     "Korak ",
@@ -155086,6 +157786,9 @@
   "toqSSG": [
     "Pošalji podatke prilikom označavanja poruka kao one koje nisu spam i pomozi u poboljšanju Discordovih modela za spam."
   ],
+  "toxuHd": [
+    "Igraj nekoliko igara da se pridružiš ljestvici!"
+  ],
   "tozlEv": [
     "Pridruži se ",
     [
@@ -155152,6 +157855,18 @@
   ],
   "tqSSSA": [
     "Zamijeni modele ili nastavi svoju pretplatu"
+  ],
+  "tqVg4M": [
+    "Igrao/la je ",
+    [
+      1,
+      "firstGame"
+    ],
+    " i ",
+    [
+      1,
+      "secondGame"
+    ]
   ],
   "tqtDXC": [
     "Povezani kanali"
@@ -155360,6 +158075,9 @@
   "ts6u6r": [
     "Omogući"
   ],
+  "tsPUvC": [
+    "tsPUvC"
+  ],
   "tsQOs+": [
     "Sada možeš zatražiti svoj ",
     [
@@ -155511,6 +158229,9 @@
     "televizor",
     "tv",
     "video"
+  ],
+  "tv1NO2": [
+    "tv1NO2"
   ],
   "tv2DNy": [
     "Korisnik ",
@@ -155892,6 +158613,9 @@
   ],
   "u0Go2s": [
     "Kršenje naših pravila može imati za posljedicu kazne protiv tvojeg servera, među njima i uklanjanje iz Otkrivanja."
+  ],
+  "u0HAhn": [
+    "Podijeli Nitro posebne pogodnosti poput prenošenja većih datoteka i animiranih emojija."
   ],
   "u0Ra/G": [
     "Ideja za Discord Nitro pala nam je na pamet kad smo doručkovali neke njoke na tavi."
@@ -156800,6 +159524,9 @@
   "uJAMFX": [
     "Zarađuj orbove"
   ],
+  "uJR+29": [
+    "uJR+29"
+  ],
   "uJWIj/": [
     "Nastavi na Discord"
   ],
@@ -156831,7 +159558,7 @@
     "Nadogradi"
   ],
   "uKMqrF": [
-    "Greška"
+    "Pogreška"
   ],
   "uKZtC/": [
     "Šalji poruke i medijske sadržaje"
@@ -157625,6 +160352,14 @@
   "uexPgT": [
     "Popularni serveri za obrazovanje"
   ],
+  "ueza5l": [
+    "Uključi dijeljenje aktivnosti da otključaš ovu ljestvicu. Najmanje ",
+    [
+      2,
+      "memberCount"
+    ],
+    " članova servera mora dijeliti svoju aktivnost igranja."
+  ],
   "ufBaba": [
     "Uzmi besplatni komplet do ",
     [
@@ -157859,6 +160594,9 @@
     ],
     " za potvrdu svoje dobi prije nego obrišemo tvoj račun. Upute o potvrdi svoje dobi možeš pronaći u svojoj e-pošti."
   ],
+  "ukdP2q": [
+    "ukdP2q"
+  ],
   "ukdxuo": [
     "Ime"
   ],
@@ -158009,6 +160747,24 @@
       1,
       "gameName"
     ]
+  ],
+  "unVTUQ": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " pobijedio/la je u ovotjednom natjecanju provevši ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
   ],
   "unamused": [
     "čudno",
@@ -158451,6 +161207,28 @@
   ],
   "uyVrTN": [
     "Naslov posta"
+  ],
+  "uytDvV": [
+    "Nagrada s jednokratnim kodom. Istječe ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Podliježe dodatnim odredbama."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
   ],
   "uyuIeg": [
     "Pripremi svoj server za Otkrivanje"
@@ -159546,6 +162324,9 @@
   "vRSCKv": [
     "Dijamantni Nitro"
   ],
+  "vRw5lm": [
+    "Ne možeš se pridružiti ovom serveru zbog svoje dobne skupine."
+  ],
   "vRzp7P": [
     "Utišaj server"
   ],
@@ -159661,6 +162442,9 @@
   ],
   "vWkIII": [
     "Ovdje će ti se pojavljivati sve nepročitane poruke iz onih kanala koje nisi utišala/utišao. Idemo svesti taj inbox na nulu!"
+  ],
+  "vX6Vdt": [
+    "vX6Vdt"
   ],
   "vX7xid": [
     "To će biti zakazano kao ",
@@ -161856,6 +164640,9 @@
       "name"
     ]
   ],
+  "wFVx8N": [
+    "wFVx8N"
+  ],
   "wFWO6D": [
     [
       8,
@@ -162015,6 +164802,9 @@
   "wK78Qv": [
     "Tvoja je odluka ignorirati ovaj zahtjev za poruke. Želiš li blokirati ovog korisnika radi sprječavanja slanja budućih poruka?"
   ],
+  "wK7qQT": [
+    "wK7qQT"
+  ],
   "wKJfIg": [
     [
       6,
@@ -162042,6 +164832,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "wKXLfQ": [
+    "Top tri"
   ],
   "wKaVLC": [
     "Pregledaj svoj dar"
@@ -163101,6 +165894,9 @@
       ]
     ]
   ],
+  "wkUDRj": [
+    "wkUDRj"
+  ],
   "wkYAlz": [
     "Ništa"
   ],
@@ -163218,6 +166014,9 @@
   ],
   "wo3D3T": [
     "Uzmi si te ljupke popuste na bilo koji (ili svaki!) artikl u trgovini. Samo uz Nitro."
+  ],
+  "woAZeh": [
+    "woAZeh"
   ],
   "woMjLV": [
     "Verificiraj svoj telefonski broj."
@@ -164132,6 +166931,9 @@
   "wvX+eD": [
     "Rubinski"
   ],
+  "wvbB3Z": [
+    "Prilagodi popis prijatelja"
+  ],
   "wve4kg": [
     "Korisničke postavke (izričita zamjena builda: ",
     [
@@ -164775,6 +167577,9 @@
   "x41/Vw": [
     "Novi drop"
   ],
+  "x411uf": [
+    "x411uf"
+  ],
   "x4hbeZ": [
     "Potrebna je potvrđena adresa e-pošte."
   ],
@@ -164911,6 +167716,9 @@
       "modKey"
     ],
     " +/-."
+  ],
+  "x9aorn": [
+    "Dobro došao/la u hub na serveru"
   ],
   "x9at20": [
     "Nabavi igru na Battle.net"
@@ -165696,11 +168504,14 @@
   "xO2msf": [
     "Iz najsvježijeg tjedna"
   ],
+  "xO5QzM": [
+    "Izradi tag servera"
+  ],
   "xOE5bA": [
     "Obavijesti"
   ],
   "xOP5OP": [
-    "Sve ti je već poznato"
+    "Sve si ih riješio/la"
   ],
   "xOVEjc": [
     "Vidljivo samo osobama koje imaju pristup ovom kanalu"
@@ -166188,6 +168999,9 @@
   "xZkJAH": [
     "Želimo ti dobrodošlicu u Nitro!"
   ],
+  "xZupEi": [
+    "Prikaži napomenu"
+  ],
   "xZvFpA": [
     "Dodaj ulogu"
   ],
@@ -166198,6 +169012,9 @@
     "medicina",
     "rendgen",
     "rendgenska snimka"
+  ],
+  "xa55WX": [
+    "xa55WX"
   ],
   "xaCthD": [
     "Što je ono što te opsjeda ovih dana?"
@@ -166254,6 +169071,14 @@
   "xbRNI3": [
     "Osobe koje si blokirao/la ili ignorirao/la su ovdje."
   ],
+  "xboFyi": [
+    "Umetni widget na položaj ",
+    [
+      1,
+      "positionNumber"
+    ],
+    " u glavnom stupcu"
+  ],
   "xc+Psz": [
     "Omogući video"
   ],
@@ -166280,6 +169105,9 @@
   ],
   "xcvy+3": [
     "Uklonio/la si svoj glas"
+  ],
+  "xczAcS": [
+    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
@@ -167202,6 +170030,9 @@
   "xxvoAr": [
     "Odaberi prilagođeni zvuk obavijesti"
   ],
+  "xyCJYs": [
+    "Zaslonska ploča nije se mogla ažurirati. Pokušaj ponovno."
+  ],
   "xyE+Dn": [
     "Otkriveno je podudaranje!"
   ],
@@ -167390,6 +170221,9 @@
   ],
   "y1Wu2f": [
     "tvoj(a) frend(ica)"
+  ],
+  "y1neEe": [
+    "Poveži se na Spotify i pomozi u oblikovanju statistike o glazbi na svojem serveru"
   ],
   "y29JXs": [
     "Članovi servera"
@@ -167874,6 +170708,87 @@
   ],
   "yGTLxP": [
     "Pozivnica više nije važeća"
+  ],
+  "yGqf0D": [
+    [
+      8,
+      "memberCountHook",
+      [
+        [
+          6,
+          "memberCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " član"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " člana"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " članova"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " između ",
+    [
+      8,
+      "artistCountHook",
+      [
+        [
+          6,
+          "artistCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " izvođača"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " izvođača"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " izvođača"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ovoga tjedna. ",
+    [
+      5,
+      "trend",
+      {
+        "up": [
+          "Gore"
+        ],
+        "down": [
+          "Dolje"
+        ],
+        "other": []
+      }
+    ]
   ],
   "yGyaIC": [
     "Broj znakova"
@@ -168971,6 +171886,9 @@
   "ygslb0": [
     "Prestani zvati"
   ],
+  "yh5MKj": [
+    "yh5MKj"
+  ],
   "yhEXX7": [
     [
       2,
@@ -169510,6 +172428,9 @@
   ],
   "ytiENm": [
     "Ukloni sliku"
+  ],
+  "ytlaCY": [
+    "Posljednje u mapi"
   ],
   "ytoXKr": [
     "Mreža"
@@ -170918,6 +173839,96 @@
   "zUUbBM": [
     "Kamerun"
   ],
+  "zUiZPF": [
+    [
+      5,
+      "displayCount",
+      {
+        "1": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username"
+              ]
+            ],
+            [
+              [
+                1,
+                "usernameOnClick"
+              ]
+            ]
+          ],
+          ", ",
+          [
+            8,
+            "$link",
+            [
+              [
+                1,
+                "username2"
+              ]
+            ],
+            [
+              [
+                1,
+                "username2OnClick"
+              ]
+            ]
+          ],
+          ","
+        ]
+      }
+    ],
+    " i ",
+    [
+      6,
+      "additionalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " druga osoba"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " druge osobe"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " drugih osoba"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " koriste zaslonsku ploču."
+  ],
   "zUjL+R": [
     "Nadogradi na Nitro i možeš se ubaciti u 50+ PC i konzolnih igara uz Xbox Game Pass. ",
     [
@@ -171186,6 +174197,9 @@
   "zcKE8W": [
     "Mobilna Xbox aplikacija instalirana"
   ],
+  "zcOQPR": [
+    "zcOQPR"
+  ],
   "zcZtrU": [
     "Prilagodi badgeve"
   ],
@@ -171402,6 +174416,9 @@
   "zhfXbs": [
     "Tvoja prijava je na čekanju"
   ],
+  "zi28x1": [
+    "Timska borba"
+  ],
   "ziB0HF": [
     "Igraj ",
     [
@@ -171545,6 +174562,9 @@
       ]
     ]
   ],
+  "zleX9q": [
+    "Dodaj tekst ili sliku"
+  ],
   "zlvNOj": [
     "Automatski (bit će isto kao postavka sustava)"
   ],
@@ -171632,6 +174652,9 @@
       "c",
       []
     ]
+  ],
+  "zn/uBN": [
+    "zn/uBN"
   ],
   "zn8/AX": [
     "Ikona"

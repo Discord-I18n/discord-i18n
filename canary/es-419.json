@@ -1624,6 +1624,51 @@
   "+a5G2l": [
     "No disponible"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "+aRmAc": [
     "Inicia otro servidor de juego"
   ],
@@ -3446,6 +3491,40 @@
       "subscriptionName"
     ],
     ", perderás estas ventajas al final de tu periodo de facturación actual:"
+  ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "/K2RDH": [
     "Ver menos emojis"
@@ -18871,6 +18950,40 @@
   ],
   "5D/KEH": [
     "Tipo de suscripción"
+  ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "5DFcVl": [
     "Anualmente, el ",
@@ -37147,6 +37260,51 @@
   ],
   "CHXHFX": [
     "No está funcionando"
+  ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "CHa0vN": [
     "Producto no disponible"
@@ -75749,6 +75907,9 @@
   "SI7R9I": [
     "Anima tus emojis"
   ],
+  "SI8PNw": [
+    "Crear una"
+  ],
   "SIHRfH": [
     "¡Estás a ",
     [
@@ -78126,6 +78287,9 @@
   ],
   "TDjKDm": [
     "Restablecer avatar"
+  ],
+  "TE+uDu": [
+    "Échale un vistazo"
   ],
   "TEEYwa": [
     "Vendedor mejor calificado"
@@ -107200,6 +107364,63 @@
     ],
     " · Borrador"
   ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "dXC/hn": [
     "año"
   ],
@@ -110685,6 +110906,9 @@
   "ec5Rdd": [
     "10 horas para jugar en la nube por mes"
   ],
+  "ecPCdG": [
+    "Membresía My Best Buy Plus"
+  ],
   "ecTJkR": [
     "Marcos de perfil"
   ],
@@ -111646,6 +111870,63 @@
   "exRczv": [
     "Tenía problemas de rendimiento"
   ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " le quitó el primer puesto a ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " en la tabla de posiciones con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
+  ],
   "exclamation": [
     "↑↑↑"
   ],
@@ -112085,6 +112366,46 @@
   ],
   "f6RTAM": [
     "LISTO"
+  ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " día de juego"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " días de juego"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Activo hace >30 d"
@@ -133280,6 +133601,46 @@
   ],
   "mgsmfY": [
     "Este flujo se ha desactivado mediante las herramientas del desarrollador"
+  ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " ganó la competencia de esta semana con ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " partida única"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " partidas únicas"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "."
   ],
   "mhUrKS": [
     "Antes de que puedas usar el centro familiar, necesitamos verificar tu edad para que tengas una experiencia adecuada. Solo te la preguntaremos una vez."
