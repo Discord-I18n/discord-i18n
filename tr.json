@@ -1968,9 +1968,6 @@
   "+sXN3T": [
     "Discord spam içeren bazı mesajları filtreleyebilir. Bu mesajlar Spam kutuna gider."
   ],
-  "+sdglm": [
-    "Yenilgiye uğrat"
-  ],
   "+smCv9": [
     "Ses Paneli Yuvası"
   ],
@@ -6382,6 +6379,9 @@
       "recipient"
     ],
     ", Nitro'yu keyifle kullanabilecek. Süper gidiyorsun, bir tane daha göndermeye ne dersin?"
+  ],
+  "0gqEHu": [
+    "2 haftalık Sunucu Takviyesi, özel profiller ve daha fazlasını gönder."
   ],
   "0gtbE8": [
     "Sesi Önizle"
@@ -11082,6 +11082,23 @@
       "numFreeBoosts"
     ],
     " Ücretsiz Takviye"
+  ],
+  "2nw1yD": [
+    "2 hafta boyunca özel profiller, daha büyük dosya yüklemeleri ve daha fazlasını alacaklar. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Zamanlanmış mesaj sınırına ulaşıldı. ",
@@ -23895,9 +23912,6 @@
   "892qg1": [
     "Şunu içeren"
   ],
-  "89CDAj": [
-    "Eşya Satın Al"
-  ],
   "89CimT": [
     "Hassas içerik barındırıyor olabilen yüklenmiş veya bağlantısı paylaşılmış medya gördüğünde ne olacağını seç ",
     [
@@ -26321,9 +26335,6 @@
   ],
   "94JbM3": [
     "Sorunları Bildir"
-  ],
-  "94Kji7": [
-    "Oyun Başladı"
   ],
   "94QqkS": [
     "Spoiler kanalına bir görsel gönderdi"
@@ -29750,13 +29761,6 @@
   ],
   "AjBsPe": [
     "Tam Ekran (Özel)"
-  ],
-  "AjNN1/": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake Kesildi"
   ],
   "AjdEvM": [
     "Hareketli AVIF görselleri değiştirilemez ve olduğu gibi yüklenecek."
@@ -35097,6 +35101,15 @@
   "D33KHa": [
     "Bir grup geçerli DM aynı anda gönderildi"
   ],
+  "D3CWUF": [
+    "Call of Duty: Modern Warfare 4 ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    " tarihinde yayınlandığında tam tanıtımını yap"
+  ],
   "D3KNf/": [
     [
       1,
@@ -35932,13 +35945,6 @@
   "DUD+5n": [
     "Sunucu Etiketi"
   ],
-  "DUQK8U": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake Çalındı"
-  ],
   "DUT5IC": [
     "Maks dosya boyutu ",
     [
@@ -36590,6 +36596,22 @@
   ],
   "DrgnS+": [
     "Bir hediye satın alıyorsun."
+  ],
+  "DrjI2v": [
+    "Yakında daha fazlası gelecek. Cömert hissediyorsan her zaman Nitro hediye edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     [
@@ -41582,6 +41604,9 @@
       ]
     ],
     " paylaşılacak. Bu mesajı sonrasında düzenleyebilir veya silebilirsin. Mesaj, takip eden her sunucuda eş zamanlı olarak güncellenir."
+  ],
+  "GCMMir": [
+    "Bir arkadaşını mı gördün? Nitro paylaş"
   ],
   "GCNMM8": [
     "Bas-Konuş Gecikmesi"
@@ -51301,6 +51326,9 @@
   "KXYLmI": [
     "Bilinmeyen Kamera Hatası"
   ],
+  "KXbhzo": [
+    "Onlara Nitro hediye et"
+  ],
   "KXcEC9": [
     "Rolleri Yönet"
   ],
@@ -53352,6 +53380,13 @@
   ],
   "LVh3/5": [
     "Bilgi ekle"
+  ],
+  "LVlgM4": [
+    [
+      1,
+      "recipientName"
+    ],
+    " ile Nitro paylaş"
   ],
   "LVn9Qf": [
     [
@@ -58707,6 +58742,9 @@
   ],
   "NkeB4/": [
     "Varsayılan olarak, harici klavyeler enter ile mesaj gönderecek."
+  ],
+  "NkgMIP": [
+    "Daha keskin, akıcı yayınlar, ek profil avantajları ve daha fazlası için 2 haftalık Nitro paylaş."
   ],
   "NkshQt": [
     "Kömür"
@@ -64797,9 +64835,6 @@
   ],
   "QO7rO6": [
     "Başlat"
-  ],
-  "QOC6N4": [
-    "Takla Sıfırlama"
   ],
   "QOQlWa": [
     "Tarama yapmaya çalışırken bir hata oluştu."
@@ -72781,6 +72816,9 @@
   ],
   "TyMJwC": [
     "İzinleri açmadığın sürece üyeler bu botu kullanamaz."
+  ],
+  "TyRCCM": [
+    "Arkadaşlarını bir araya getir ve grup sohbetinin MVP'si ol."
   ],
   "TyUdka": [
     "Yeni yazı tipleri ve efektlerle görünen adını değiştir. Sadece Nitro'da geçerlidir."
@@ -82905,6 +82943,14 @@
   "YErysD": [
     "Alt başlığa kullanıcı eklenemedi"
   ],
+  "YEsjvt": [
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    " tarihinde Call of Duty: MW4 planı edin. Nitro'ya özel."
+  ],
   "YF35pV": [
     "Sekmeyi kaldır"
   ],
@@ -84861,6 +84907,9 @@
   "Z2MWuH": [
     "Bunu varsayılan konum yap"
   ],
+  "Z2Ri4D": [
+    "Kimlerin çevrimiçi olduğunu ve neler yaptığını görmek için istediğin zaman aç."
+  ],
   "Z2Y4c9": [
     "Dinleyici"
   ],
@@ -84961,6 +85010,9 @@
       ]
     ],
     "."
+  ],
+  "Z3LquY": [
+    "Arkadaş etkinliğini gör"
   ],
   "Z3Vn/X": [
     "Sahip olduğun en işe yaramaz yetenek nedir?"
@@ -85206,6 +85258,9 @@
   ],
   "ZBjOVT": [
     "Oynatmak ve durdurmak için çift dokun."
+  ],
+  "ZBuqcM": [
+    "Tüm denemelerini paylaştın"
   ],
   "ZC3PJ2": [
     "Tümünü kapat"
@@ -95984,9 +96039,6 @@
     "şapka",
     "yüz"
   ],
-  "cp+kpc": [
-    "Seviye Atladın"
-  ],
   "cpFumO": [
     "Tebrikler!"
   ],
@@ -99288,6 +99340,9 @@
   "dzGILG": [
     "Kaydı tamamla"
   ],
+  "dzQxHq": [
+    "Deneme Gönder"
+  ],
   "dzbET7": [
     "Tüm mesajlar sakıncalı görseller için filtrelenecek."
   ],
@@ -100834,9 +100889,6 @@
       ]
     ],
     " zamanlanmış etkinliğini güncelledi"
-  ],
-  "ebbBDl": [
-    "Yeniden Canlan"
   ],
   "ebojgD": [
     "Evet, varım!"
@@ -109487,9 +109539,6 @@
   ],
   "hlDSV2": [
     "Hiç Arkadaşlık İsteği Yok"
-  ],
-  "hlOYoA": [
-    "Oyun Bitti"
   ],
   "hlS2xq": [
     "LoFi Ortamı"
@@ -123226,6 +123275,9 @@
   "n/Vzkw": [
     "Discord senden asla şifre veya hesap tokeni istemeyecektir."
   ],
+  "n/a182": [
+    "HD paylaş"
+  ],
   "n/aoIB": [
     "DM Spam Filtresi Betası"
   ],
@@ -135382,6 +135434,13 @@
   "rdCyA/": [
     "Rota Kontrol Ediliyor"
   ],
+  "rdh1ou": [
+    [
+      1,
+      "recipientName"
+    ],
+    " kullanıcısının yayınını HD olarak yapmasına yardım et"
+  ],
   "rdhx0q": [
     "Kullanıcı adını kullanmaya devam edebilmek için e-postanı 1 gün içinde doğrulamalısın."
   ],
@@ -135620,9 +135679,6 @@
   ],
   "rhBeKe": [
     "Doğum günün"
-  ],
-  "rhDbuQ": [
-    "bir oyun"
   ],
   "rhY1Rs": [
     [
@@ -137135,6 +137191,27 @@
   "s8TEkh": [
     "Temizlenecek Grup DM'leri yok"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " kullanıcısının denemeyi sana geri dönmeden kabul etmesi için 10 günü var. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Sahneyi Başlat"
   ],
@@ -138159,9 +138236,6 @@
   ],
   "saLMWc": [
     "Giriş Sesi Olmadan Katıl"
-  ],
-  "saS9BW": [
-    "Yenilgiye uğrat"
   ],
   "saZaRb": [
     "Sahneyi Sonlandır"
@@ -141122,6 +141196,13 @@
   ],
   "tJp+QV": [
     "Diğer gelir elde eden sunuculardan öğren"
+  ],
+  "tJvaQ8": [
+    [
+      1,
+      "recipientName"
+    ],
+    " kullanıcısına 2 haftalık özel profiller, temalar ve daha fazlasını gönder."
   ],
   "tJzB6F": [
     "Yanlış Oyun Gösteriliyor"
@@ -144988,14 +145069,6 @@
   "uexPgT": [
     "Popüler Eğitim Sunucuları"
   ],
-  "ueza5l": [
-    "Bu liderlik tablosunun kilidini açmaya yardımcı olmak için Etkinlik Paylaşımı'nı aç. Oyun etkinliğini paylaşan en az ",
-    [
-      2,
-      "memberCount"
-    ],
-    " sunucu üyesi olmalı."
-  ],
   "ufBaba": [
     [
       3,
@@ -145087,6 +145160,9 @@
   ],
   "ugbhDS": [
     "Bu görevle ilgilenmiyor musun?"
+  ],
+  "ugfqKp": [
+    "Gizli: Kod Mavimor"
   ],
   "uggF7o": [
     "İki aşamalı kimlik doğrulamayı etkinleştirmeden önce hesabını doğrulamalısın."
@@ -153118,9 +153194,6 @@
   ],
   "xcvy+3": [
     "Oyunu kaldırdın"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"

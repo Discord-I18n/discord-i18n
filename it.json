@@ -2220,9 +2220,6 @@
   "+sXN3T": [
     "Discord può filtrare dei messaggi che contengono spam. Questi messaggi vanno nella casella dello spam."
   ],
-  "+sdglm": [
-    "Sconfitta"
-  ],
   "+smCv9": [
     "Slot della Soundboard"
   ],
@@ -7143,6 +7140,9 @@
       "recipient"
     ],
     " potrà godersi un po' di Nitro. Visto che ci sei, che ne dici di inviarne un altro?"
+  ],
+  "0gqEHu": [
+    "Invia 2 settimane di potenziamenti server, profili personalizzati e non solo."
   ],
   "0gtbE8": [
     "Anteprima della voce"
@@ -12217,6 +12217,22 @@
       },
       0,
       "cardinal"
+    ]
+  ],
+  "2nw1yD": [
+    "Otterrà 2 settimane di profili personalizzati, upload più grandi e molto altro. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
     ]
   ],
   "2o4lgw": [
@@ -26370,9 +26386,6 @@
   "892qg1": [
     "Include"
   ],
-  "89CDAj": [
-    "Prodotto acquistato"
-  ],
   "89CimT": [
     "Scegli cosa visualizzare quando i contenuti multimediali caricati o collegati potrebbero essere contenuti sensibili. ",
     [
@@ -29039,9 +29052,6 @@
   ],
   "94JbM3": [
     "Segnala un problema"
-  ],
-  "94Kji7": [
-    "Partita iniziata"
   ],
   "94QqkS": [
     "Ha inviato un'immagine in un canale spoiler"
@@ -32810,14 +32820,6 @@
   ],
   "AjBsPe": [
     "Schermo intero (esclusivo)"
-  ],
-  "AjNN1/": [
-    "Drago ",
-    [
-      1,
-      "drakeName"
-    ],
-    " ucciso"
   ],
   "AjdEvM": [
     "Le immagini AVIF animate non possono essere modificate e verranno caricate così come sono."
@@ -38691,6 +38693,15 @@
   "D33KHa": [
     "Diversi MD legittimi sono stati inviati contemporaneamente"
   ],
+  "D3CWUF": [
+    "Sarà rivelato il ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ", in concomitanza con l'uscita di Call of Duty: Modern Warfrare 4"
+  ],
   "D3KNf/": [
     "Community ",
     [
@@ -39575,14 +39586,6 @@
   "DUD+5n": [
     "Tag del server"
   ],
-  "DUQK8U": [
-    "Drago ",
-    [
-      1,
-      "drakeName"
-    ],
-    " rubato"
-  ],
   "DUT5IC": [
     "La dimensione massima del file è ",
     [
@@ -40259,6 +40262,22 @@
   ],
   "DrgnS+": [
     "Stai comprando un regalo."
+  ],
+  "DrjI2v": [
+    "Presto ne arriveranno altri. Se vuoi esprimere la tua generosità, puoi sempre regalare Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Segnala il messaggio di ",
@@ -45737,6 +45756,9 @@
       ]
     ],
     " questo canale. Più tardi puoi modificare o eliminare il messaggio che sarà aggiornato di conseguenza sui server interessati."
+  ],
+  "GCMMir": [
+    "Hai un amico? Condividi Nitro"
   ],
   "GCNMM8": [
     "Ritardo per il rilascio del push-to-talk"
@@ -56358,6 +56380,9 @@
   "KXYLmI": [
     "Errore camera sconosciuto"
   ],
+  "KXbhzo": [
+    "Offri Nitro"
+  ],
   "KXcEC9": [
     "Gestisci i ruoli"
   ],
@@ -58680,6 +58705,13 @@
   ],
   "LVh3/5": [
     "Aggiungi dettagli"
+  ],
+  "LVlgM4": [
+    "Condividi Nitro con ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Regala a ",
@@ -64456,6 +64488,9 @@
   ],
   "NkeB4/": [
     "Normalmente le tastiere esterne richiedono solo la pressione di Invio per inviare i messaggi."
+  ],
+  "NkgMIP": [
+    "Condividi 2 settimane di Nitro. Streaming più nitidi e fluidi, benefici per il profilo e tanto altro."
   ],
   "NkshQt": [
     "Carbone"
@@ -70998,9 +71033,6 @@
   ],
   "QO7rO6": [
     "Avvia"
-  ],
-  "QOC6N4": [
-    "Flip reset"
   ],
   "QOQlWa": [
     "Qualcosa è andato storto durante la scansione."
@@ -79817,6 +79849,9 @@
   ],
   "TyMJwC": [
     "I membri non potranno usare questo bot finché non attiverai i permessi."
+  ],
+  "TyRCCM": [
+    "Fai un favore ai tuoi amici e diventa l'MVP della chat di gruppo."
   ],
   "TyUdka": [
     "Ravviva il tuo nome visualizzato con nuovi font ed effetti. Solo con Nitro."
@@ -90792,6 +90827,15 @@
   "YErysD": [
     "Impossibile aggiungere utente al thread"
   ],
+  "YEsjvt": [
+    "Ottieni un progetto di Call of Duty: MW4 il ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ". Esclusiva Nitro."
+  ],
   "YF35pV": [
     "Rimuovi la scheda"
   ],
@@ -92883,6 +92927,9 @@
   "Z2MWuH": [
     "Imposta come posizione predefinita"
   ],
+  "Z2Ri4D": [
+    "Apri in qualsiasi momento per vedere chi è online e cosa sta facendo."
+  ],
   "Z2Y4c9": [
     "Ascoltatore"
   ],
@@ -92983,6 +93030,9 @@
       ]
     ],
     " per un accesso rapido."
+  ],
+  "Z3LquY": [
+    "Vedi l'attività degli amici"
   ],
   "Z3Vn/X": [
     "Qual è il talento più inutile che hai?"
@@ -93259,6 +93309,9 @@
   ],
   "ZBjOVT": [
     "Tocca due volte per riprodurre o mettere in pausa."
+  ],
+  "ZBuqcM": [
+    "Hai condiviso tutti i tuoi periodi di prova"
   ],
   "ZC3PJ2": [
     "Chiudi tutto"
@@ -105476,9 +105529,6 @@
     "faccina",
     "faccina con cappello da cowboy"
   ],
-  "cp+kpc": [
-    "Livello aumentato"
-  ],
   "cpFumO": [
     "Congratulazioni!"
   ],
@@ -109122,6 +109172,9 @@
   "dzGILG": [
     "Completa la registrazione"
   ],
+  "dzQxHq": [
+    "Invia periodo di prova"
+  ],
   "dzbET7": [
     "Tutti i messaggi saranno filtrati per immagini esplicite."
   ],
@@ -110920,9 +110973,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Rigenerazione"
   ],
   "ebojgD": [
     "Si, ci sto!"
@@ -120389,9 +120439,6 @@
   ],
   "hlDSV2": [
     "Nessuna richiesta di amicizia in arrivo"
-  ],
-  "hlOYoA": [
-    "Partita conclusa"
   ],
   "hlS2xq": [
     "Atmosfera LoFi"
@@ -135443,6 +135490,9 @@
   "n/Vzkw": [
     "Discord non ti chiederà mai la password o il token dell'account."
   ],
+  "n/a182": [
+    "Condividi l'alta definizione"
+  ],
   "n/aoIB": [
     "Beta filtro antispam MD"
   ],
@@ -148942,6 +148992,14 @@
   "rdCyA/": [
     "Controllo percorso"
   ],
+  "rdh1ou": [
+    "Aiuta ",
+    [
+      1,
+      "recipientName"
+    ],
+    " a trasmettere in HD"
+  ],
   "rdhx0q": [
     "Devi verificare la tua e-mail entro 1 giorno per mantenere il tuo nome utente."
   ],
@@ -149243,9 +149301,6 @@
   ],
   "rhBeKe": [
     "La tua data di nascita"
-  ],
-  "rhDbuQ": [
-    "un gioco"
   ],
   "rhY1Rs": [
     [
@@ -150992,6 +151047,27 @@
   "s8TEkh": [
     "Nessuna chat di gruppo da pulire"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " ha 10 giorni per accettare il periodo di prova prima che ti venga restituito. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Avvia palco"
   ],
@@ -152172,9 +152248,6 @@
   ],
   "saLMWc": [
     "Unisciti senza suono d'ingresso"
-  ],
-  "saS9BW": [
-    "Sconfitta"
   ],
   "saZaRb": [
     "Termina palco"
@@ -155484,6 +155557,14 @@
   ],
   "tJp+QV": [
     "Impara da altri server che monetizzano"
+  ],
+  "tJvaQ8": [
+    "Invia a ",
+    [
+      1,
+      "recipientName"
+    ],
+    " 2 settimane di profili e temi personalizzati, e molto altro!"
   ],
   "tJzB6F": [
     "Viene mostrato il gioco sbagliato"
@@ -159705,14 +159786,6 @@
   "uexPgT": [
     "Server popolari: educazione"
   ],
-  "ueza5l": [
-    "Attiva la condivisione dell'attività per contribuire a sbloccare questa classifica. È necessario che almeno ",
-    [
-      2,
-      "memberCount"
-    ],
-    " membri del server condividano la propria attività di gioco."
-  ],
   "ufBaba": [
     "Riscatta un bundle gratis entro la data ",
     [
@@ -159823,6 +159896,9 @@
   ],
   "ugbhDS": [
     "Questa missione non ti interessa?"
+  ],
+  "ugfqKp": [
+    "Secretato: codice blurple"
   ],
   "uggF7o": [
     "Devi verificare il tuo account prima di poter attivare la verifica in due passaggi."
@@ -168613,9 +168689,6 @@
   ],
   "xcvy+3": [
     "Hai rimosso il tuo voto"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"

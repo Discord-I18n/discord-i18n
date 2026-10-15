@@ -1162,9 +1162,6 @@
   "+O9Asn": [
     "Payment Error"
   ],
-  "+OEqVQ": [
-    "Build your own Server Hub"
-  ],
   "+OURPp": [
     "Absolutely! Server Boosts are a great way to support your favorite servers. When you Boost a server, you'll be recognized with a special Member List Icon, a Boosting role, and a Profile Badge."
   ],
@@ -3649,6 +3646,9 @@
   ],
   "/Lb6lb": [
     "Gibraltar"
+  ],
+  "/Ld1Ju": [
+    "Jump in"
   ],
   "/M60j0": [
     [
@@ -11009,7 +11009,7 @@
     "By creating an announcement channel, your server profile will be visible to others outside your server members. You can control Profile privacy in Server Settings > Profile."
   ],
   "2AoJt6": [
-    "Add the widgets your server will actually use."
+    "Add, edit, and remove widgets to make it feel like home."
   ],
   "2Ap8sh": [
     "Verification codes"
@@ -20137,6 +20137,9 @@
   "5VmbbF": [
     "Too many emoji"
   ],
+  "5W7HIh": [
+    "Fill it with your server’s top games, music, and inside jokes."
+  ],
   "5W9wWF": [
     "Manage Settings"
   ],
@@ -21794,6 +21797,40 @@
   ],
   "63PyJQ": [
     "Create a Channel"
+  ],
+  "63jSRx": [
+    "Open ",
+    [
+      1,
+      "store"
+    ],
+    " page, rated ",
+    [
+      1,
+      "rating"
+    ],
+    " out of 5 stars (",
+    [
+      6,
+      "rating_count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rating"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ratings"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "63uDvE": [
     "Strikethrough"
@@ -35666,7 +35703,7 @@
     " before it expires today to keep it active."
   ],
   "BNSdWl": [
-    "Customizable"
+    "Uniquely yours"
   ],
   "BNZj9F": [
     "You can always change this again in ",
@@ -35699,9 +35736,6 @@
   ],
   "BOjr7t": [
     "Only Stage moderators with Invite Members permission can make their Stage public."
-  ],
-  "BP//Ot": [
-    "Create a Server Hub for you and all of your friends that’s uniquely yours."
   ],
   "BP8N0K": [
     "+",
@@ -36261,6 +36295,9 @@
   "BayiAo": [
     "Privacy Settings"
   ],
+  "Bayri1": [
+    "Games your members are playing will show up here once there's enough gaming activity."
+  ],
   "BayuQI": [
     "BayuQI"
   ],
@@ -36730,6 +36767,25 @@
       0,
       "cardinal"
     ]
+  ],
+  "BlHpAk": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " is the new top listener!"
   ],
   "BlSW1e": [
     "Buy Profile Frame"
@@ -39090,11 +39146,17 @@
   "Cef4t7": [
     "Notify my friends in this server that I'm streaming."
   ],
+  "Cf11AE": [
+    "There’s a new top song in Popular Music."
+  ],
   "Cf5CtK": [
     "Drugs"
   ],
   "CfBo0z": [
     "What you can report:"
+  ],
+  "CfMzwe": [
+    "Ignored User"
   ],
   "CfRZBj": [
     "We don’t recognize this location. We sent a confirmation code to the phone number connected to this account. Didn't get a code? ",
@@ -42416,7 +42478,7 @@
         ]
       ]
     ],
-    " in the past week."
+    " in the past week"
   ],
   "ED4UVD": [
     "Pricing and Features"
@@ -42544,6 +42606,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "EIuDzZ": [
+    "Meet your Server Hub"
   ],
   "EIv9Wi": [
     "AutoMod Quarantine"
@@ -45314,6 +45379,9 @@
   "FM7gzD": [
     "It looks like you’re not eligible to redeem this promotion."
   ],
+  "FMGoDB": [
+    "Updates when there’s a new top song, top artist, or top listener"
+  ],
   "FMWYvb": [
     "Auto"
   ],
@@ -46400,6 +46468,9 @@
       ]
     ],
     ". It cannot be manually assigned to members. You can remove the integration to remove this role."
+  ],
+  "FurWLH": [
+    "Currently live. Turn it off anytime in Server Settings."
   ],
   "Fv3n8L": [
     "Gifts received"
@@ -47739,6 +47810,9 @@
   ],
   "GMZqSi": [
     "Stage Moderator"
+  ],
+  "GMgGSC": [
+    "Up and running"
   ],
   "GMhQcE": [
     "This perk can't be disabled within ",
@@ -50960,7 +51034,7 @@
     " will be hidden from your library. You can show it again from the Game Library settings page."
   ],
   "HXmZlY": [
-    "You can customize the layout and content to create a unique Server Hub for your community."
+    "A shared place for @everyone to see what’s happening in your server and goof around."
   ],
   "HXu14O": [
     "6 Nitro memberships. One plan for you and your friends."
@@ -51440,6 +51514,9 @@
         ]
       ]
     ]
+  ],
+  "Hk5K1P": [
+    "Ready when you are"
   ],
   "HkESOs": [
     "Updated ",
@@ -52215,6 +52292,9 @@
       "channelName"
     ],
     "!"
+  ],
+  "I3YOjC": [
+    "Blocked User"
   ],
   "I3YQeV": [
     "Upload an image under 256 KB or pick a custom emoji from this server. We recommend at least 64x64 pixels. Members will see the icon for their highest role if they have multiple roles."
@@ -53065,6 +53145,9 @@
   ],
   "IMtHBW": [
     "Send a message when a voice hangout has started."
+  ],
+  "IN1DaS": [
+    "IN1DaS"
   ],
   "INRaYb": [
     "Filter messages from members you may not know"
@@ -60577,6 +60660,9 @@
       "createdAtDate"
     ]
   ],
+  "LVy7Ug": [
+    "App Store"
+  ],
   "LVyxNH": [
     "Find your classmates in the Student Hub for your school"
   ],
@@ -63413,6 +63499,9 @@
   ],
   "Mb0cJJ": [
     "Longer messages (up to 4,000 characters)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -67247,6 +67336,9 @@
     ],
     "!"
   ],
+  "O2eErX": [
+    "Build your own Server Hub"
+  ],
   "O2hRaZ": [
     "Bounties completed!"
   ],
@@ -68280,7 +68372,7 @@
     "You'll have to log back in on all logged out devices."
   ],
   "OTYC2K": [
-    "Always changing"
+    "Always current"
   ],
   "OTjRX9": [
     "submitted on ",
@@ -69124,6 +69216,9 @@
       ]
     ],
     "."
+  ],
+  "OlxQF3": [
+    "There’s a new top listener in Popular Music."
   ],
   "Om31w8": [
     "Final price and currency will be based on your selected payment method. ",
@@ -70443,6 +70538,9 @@
   ],
   "PDsYAo": [
     "Join Waitlist"
+  ],
+  "PE4Cid": [
+    "Keep up with your crew"
   ],
   "PECB/R": [
     "Earn this badge by gifting Nitro to friends."
@@ -84222,6 +84320,13 @@
   "UewH9O": [
     "Use anytime with an active Nitro subscription."
   ],
+  "Uf5Ve7": [
+    [
+      1,
+      "serverName"
+    ],
+    " has a Server Hub now. See what everyone’s been into lately."
+  ],
   "UfBu8d": [
     "Played ",
     [
@@ -85464,6 +85569,9 @@
   ],
   "V6nAfF": [
     "We searched far and wide. Unfortunately, no results were found."
+  ],
+  "V6rllO": [
+    "Play Store"
   ],
   "V7+xhH": [
     "No apps have been installed in this server yet"
@@ -97563,6 +97671,13 @@
       "optionDescription"
     ]
   ],
+  "ZbrKrk": [
+    [
+      1,
+      "artistName"
+    ],
+    " is the new top artist!"
+  ],
   "ZbtGBm": [
     "Remove All Reactions"
   ],
@@ -99579,7 +99694,7 @@
     "Error requesting review"
   ],
   "aQUPiQ": [
-    "Widgets refresh automatically with the latest activity."
+    "Widgets refresh regularly with what’s new."
   ],
   "aQjtas": [
     "Lavender"
@@ -108857,8 +108972,14 @@
   ],
   "d/qbC0": [
     [
-      1,
-      "username"
+      8,
+      "$b",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
     ],
     " asked you to stream"
   ],
@@ -114543,6 +114664,9 @@
   ],
   "eutr4P": [
     "Tell us a bit about you"
+  ],
+  "ev0nwK": [
+    "Customize it with your server’s top games, music, and inside jokes. Now live for everyone."
   ],
   "evF0PO": [
     "Claim your first year of My Best Buy Plus™ membership free. $29.99 annually. Auto-renews. Cancel anytime."
@@ -129555,6 +129679,19 @@
   "k3q+Ru": [
     "Hide DM"
   ],
+  "k41/aX": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " is the new top listener!"
+  ],
   "k48xvV": [
     "You will not be able to change your selection after hitting confirm."
   ],
@@ -138756,6 +138893,9 @@
   ],
   "n1Pu8C": [
     "Unlock premium features for all members of your server"
+  ],
+  "n1sscC": [
+    "Member rankings will show up here once there's enough gaming activity."
   ],
   "n2I5mI": [
     "Discord is now on PlayStation!"
@@ -161125,6 +161265,14 @@
   "u1ilug": [
     "Extra room, courtesy of Nitro"
   ],
+  "u1m2hs": [
+    "(",
+    [
+      2,
+      "rating_count"
+    ],
+    ")"
+  ],
   "u1sEfz": [
     "Member"
   ],
@@ -164005,6 +164153,9 @@
   "v54NrN": [
     "Customize your gift BOX:"
   ],
+  "v59XPT": [
+    "Save to see popular games"
+  ],
   "v5O2dK": [
     "Message could not be sent"
   ],
@@ -165802,6 +165953,9 @@
     ],
     " in Voice"
   ],
+  "vloG7/": [
+    "Publish when it feels right, and turn it off anytime."
+  ],
   "vm6JNU": [
     "Discord can connect you with your friends and help them find you."
   ],
@@ -165931,6 +166085,13 @@
   ],
   "vpzyht": [
     "Pause Preview When Discord Isn’t Focused"
+  ],
+  "vqPR3w": [
+    [
+      1,
+      "trackTitle"
+    ],
+    " is the new top song!"
   ],
   "vqb+H1": [
     "See Levels & Perks"
@@ -169412,6 +169573,9 @@
   "wqHXNt": [
     "Report User Profile"
   ],
+  "wqHke4": [
+    "Save to see the leaderboard"
+  ],
   "wqU7Wm": [
     "An activity card showing @",
     [
@@ -170555,7 +170719,7 @@
     " +/-."
   ],
   "x9aorn": [
-    "Welcome to Server Hub"
+    "Welcome to your Server Hub"
   ],
   "x9at20": [
     "Get Game on Battle.net"
@@ -174826,6 +174990,9 @@
   "ygG62M": [
     "Deauthorize Application"
   ],
+  "ygm9YB": [
+    "There’s a new top artist in Popular Music."
+  ],
   "ygslb0": [
     "Stop Ringing"
   ],
@@ -177184,6 +177351,13 @@
   ],
   "zdBCIv": [
     "Get my stats!"
+  ],
+  "zdL4/T": [
+    [
+      1,
+      "rating"
+    ],
+    " / 5"
   ],
   "zdPFs9": [
     "Edit Category"

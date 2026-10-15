@@ -2228,9 +2228,6 @@
   "+sXN3T": [
     "Discord kan filtrere ut enkelte meldinger som inneholder spam. Meldingene går til spam-innboksen."
   ],
-  "+sdglm": [
-    "Nederlag"
-  ],
   "+smCv9": [
     "Lydkatalogplasser"
   ],
@@ -7145,6 +7142,9 @@
       "recipient"
     ],
     " glede av Nitro. Du er i slaget – hva med å sende en til?"
+  ],
+  "0gqEHu": [
+    "Gi bort to uker med serverboosting, egendefinerte profiler og annet."
   ],
   "0gtbE8": [
     "Hør stemmen"
@@ -12211,6 +12211,23 @@
       0,
       "cardinal"
     ]
+  ],
+  "2nw1yD": [
+    "Det blir to uker med egendefinerte profiler, opplasting av større filer og annet. ",
+    [
+      8,
+      "$link",
+      [
+        "Mer info"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Ikke plass til flere planlagte meldinger. Med ",
@@ -26272,9 +26289,6 @@
   "892qg1": [
     "Har"
   ],
-  "89CDAj": [
-    "Varekjøp"
-  ],
   "89CimT": [
     "Velg hva du skal se når du har lastet opp eller lenket til medieinnhold som kan være støtende. ",
     [
@@ -28916,9 +28930,6 @@
   ],
   "94JbM3": [
     "Rapporter problemer"
-  ],
-  "94Kji7": [
-    "Spillet har startet"
   ],
   "94QqkS": [
     "Sendte et bilde i en spoilerkanal"
@@ -32697,14 +32708,6 @@
   ],
   "AjBsPe": [
     "Fullskjerm (eksklusiv)"
-  ],
-  "AjNN1/": [
-    "Draken ",
-    [
-      1,
-      "drakeName"
-    ],
-    " ble drept"
   ],
   "AjdEvM": [
     "Animerte AVIF-bilder kan ikke endres, og de lastes opp som de er."
@@ -38498,6 +38501,14 @@
   "D33KHa": [
     "En rekke legitime DM-er ble sendt samtidig"
   ],
+  "D3CWUF": [
+    "Full avduking når Call of Duty: Modern Warfare 4 lanseres ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ]
+  ],
   "D3KNf/": [
     "Populære fellesskap innen ",
     [
@@ -39384,14 +39395,6 @@
   "DUD+5n": [
     "Servertagg"
   ],
-  "DUQK8U": [
-    "Draken ",
-    [
-      1,
-      "drakeName"
-    ],
-    " ble stjålet"
-  ],
   "DUT5IC": [
     "Maks filstørrelse er ",
     [
@@ -40068,6 +40071,22 @@
   ],
   "DrgnS+": [
     "Du kjøper en gave."
+  ],
+  "DrjI2v": [
+    "Flere kommer snart. Hvis du er i det gavmilde hjørnet, kan du gi bort Nitro i gave. ",
+    [
+      8,
+      "$link",
+      [
+        "Mer info"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Rapporter melding lagt ut av ",
@@ -45539,6 +45558,9 @@
       ]
     ],
     " som følger denne kanalen. Du kan redigere eller slette denne meldingen senere, og den oppdateres tilsvarende på hver server som følger."
+  ],
+  "GCMMir": [
+    "Ser du en venn? Gi bort Nitro"
   ],
   "GCNMM8": [
     "Forsinkelse etter slipp av trykk-og-snakk-tast"
@@ -56060,6 +56082,9 @@
   "KXYLmI": [
     "Ukjent kamerafeil"
   ],
+  "KXbhzo": [
+    "Gi Nitro i gave"
+  ],
   "KXcEC9": [
     "Administrer roller"
   ],
@@ -58332,6 +58357,13 @@
   ],
   "LVh3/5": [
     "Legg til detaljer"
+  ],
+  "LVlgM4": [
+    "Gi Nitro i gave til ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Gi ",
@@ -64074,6 +64106,9 @@
   ],
   "NkeB4/": [
     "Som standard kommer eksterne tastaturer til å sende melding når du trykker på enter."
+  ],
+  "NkgMIP": [
+    "Gi bort to uker med Nitro! Vi snakker skarpere bilder, jevnere strømming, profilfordeler og mye mer."
   ],
   "NkshQt": [
     "Kull"
@@ -70608,9 +70643,6 @@
   ],
   "QO7rO6": [
     "Start"
-  ],
-  "QOC6N4": [
-    "Nullstill flipp"
   ],
   "QOQlWa": [
     "Noe gikk galt når du prøvde å skanne."
@@ -79454,6 +79486,9 @@
   ],
   "TyMJwC": [
     "Medlemmer kan ikke bruke denne boten før du har slått på tillatelser."
+  ],
+  "TyRCCM": [
+    "Spander på vennene dine og bli gruppechattens MVP."
   ],
   "TyUdka": [
     "Frisk opp stilen med nye skrifttyper og effekter til visningsnavnet. Bare med Nitro."
@@ -90372,6 +90407,15 @@
   "YErysD": [
     "Kan ikke legge til bruker i tråd"
   ],
+  "YEsjvt": [
+    "Få en Call of Duty: MW4-tegning ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ". Bare med Nitro."
+  ],
   "YF35pV": [
     "Fjern fane"
   ],
@@ -92465,6 +92509,9 @@
   "Z2MWuH": [
     "Gjør dette til standardposisjonen min"
   ],
+  "Z2Ri4D": [
+    "Åpne dette for å se hvem som er pålogget og hva de driver med."
+  ],
   "Z2Y4c9": [
     "Lytter"
   ],
@@ -92565,6 +92612,9 @@
       ]
     ],
     " for å få rask tilgang."
+  ],
+  "Z3LquY": [
+    "Se venners aktivitet"
   ],
   "Z3Vn/X": [
     "Hva er det mest ubrukelige talentet ditt?"
@@ -92841,6 +92891,9 @@
   ],
   "ZBjOVT": [
     "Dobbelttrykk for å spille av eller sette på pause."
+  ],
+  "ZBuqcM": [
+    "Du har gitt bort alle prøveperiodene"
   ],
   "ZC3PJ2": [
     "Avvis alle"
@@ -104218,9 +104271,6 @@
     "fjes med cowboyhatt",
     "hatt"
   ],
-  "cp+kpc": [
-    "Opp i nivå"
-  ],
   "cpFumO": [
     "Gratulerer!"
   ],
@@ -107635,6 +107685,9 @@
   "dzGILG": [
     "Fullfør registreringen"
   ],
+  "dzQxHq": [
+    "Gi bort prøveperiode"
+  ],
   "dzbET7": [
     "Alle meldinger som inneholder grove bilder, filtreres."
   ],
@@ -109396,9 +109449,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Respawn"
   ],
   "ebojgD": [
     "Ja, jeg er med!"
@@ -118441,9 +118491,6 @@
   ],
   "hlDSV2": [
     "Ingen innkommende venneforespørsler"
-  ],
-  "hlOYoA": [
-    "Spillet er avsluttet"
   ],
   "hlS2xq": [
     "Lo-fi-vibber"
@@ -132874,6 +132921,9 @@
   "n/Vzkw": [
     "Discord vil aldri spørre deg om passord eller kontotoken."
   ],
+  "n/a182": [
+    "Del HD"
+  ],
   "n/aoIB": [
     "DM-spamfilter – beta"
   ],
@@ -145759,6 +145809,14 @@
   "rdCyA/": [
     "Sjekker rute"
   ],
+  "rdh1ou": [
+    "Hjelp ",
+    [
+      1,
+      "recipientName"
+    ],
+    " med å strømme i HD"
+  ],
   "rdhx0q": [
     "Du må bekrefte e-postadressen din innen 1 dag for å beholde brukernavnet."
   ],
@@ -145980,9 +146038,6 @@
   ],
   "rhBeKe": [
     "Fødselsdatoen din"
-  ],
-  "rhDbuQ": [
-    "et spill"
   ],
   "rhY1Rs": [
     [
@@ -147629,6 +147684,27 @@
   "s8TEkh": [
     "Ingen gruppe-DM-er å rydde opp i"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " må akseptere prøveperioden innen 10 dager før den sendes tilbake til deg. ",
+    [
+      8,
+      "$link",
+      [
+        "Mer info"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Start scene"
   ],
@@ -148802,9 +148878,6 @@
   ],
   "saLMWc": [
     "Bli med uten inngangslyd"
-  ],
-  "saS9BW": [
-    "Nederlag"
   ],
   "saZaRb": [
     "Avslutt scenen"
@@ -151614,6 +151687,14 @@
   ],
   "tJp+QV": [
     "Lær av andre servere som bruker inntektsgenerering"
+  ],
+  "tJvaQ8": [
+    "Gi ",
+    [
+      1,
+      "recipientName"
+    ],
+    " to uker med egendefinerte profiler, temaer og annet."
   ],
   "tJzB6F": [
     "Feil spill vises"
@@ -155542,14 +155623,6 @@
   "uexPgT": [
     "Populære skoleservere"
   ],
-  "ueza5l": [
-    "Slå på serverdeling for å bidra til å låse opp topplisten. Minst ",
-    [
-      2,
-      "memberCount"
-    ],
-    " servermedlemmer må dele spillaktivitet."
-  ],
   "ufBaba": [
     "Hent en gratis bundel innen ",
     [
@@ -155657,6 +155730,9 @@
   ],
   "ugbhDS": [
     "Ikke interessert i dette oppdraget?"
+  ],
+  "ugfqKp": [
+    "Klassifisert: kode blurple"
   ],
   "uggF7o": [
     "Du må bekrefte kontoen din før du kan aktivere to-faktors autentisering."
@@ -164101,9 +164177,6 @@
   ],
   "xcvy+3": [
     "Du har fjernet stemmen du avga"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
