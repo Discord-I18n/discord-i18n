@@ -2303,9 +2303,6 @@
   "+sXN3T": [
     "Discord can filter out some messages that contain spam. These messages go to your Spam inbox."
   ],
-  "+sdglm": [
-    "Defeat"
-  ],
   "+smCv9": [
     "Soundboard Slots"
   ],
@@ -8627,6 +8624,9 @@
   "154/bL": [
     "Server Settings"
   ],
+  "15R0kd": [
+    "Elder Dragon Stolen"
+  ],
   "15p8on": [
     "Adventure"
   ],
@@ -9949,6 +9949,9 @@
   ],
   "1hKIah": [
     "Set up your stream and have your friends grab a seat!"
+  ],
+  "1hsDpi": [
+    "Set a system messages channel in Server Settings to enable leaderboard system messages."
   ],
   "1hvuGH": [
     "Friends & Small Servers Only"
@@ -16352,6 +16355,9 @@
   "4+uqYB": [
     "Got It"
   ],
+  "4//FvS": [
+    "Swish Goal"
+  ],
   "4/6vQh": [
     "You received a timeout in ",
     [
@@ -16941,6 +16947,9 @@
       "percent"
     ],
     "% Off Nitro Yearly"
+  ],
+  "4FcF2j": [
+    "Couldn't update leaderboard system messages. Try again."
   ],
   "4FghYw": [
     "Set the explicit content filter to scan messages from ",
@@ -21208,6 +21217,9 @@
   "5smP3R": [
     "How'd the stream go?"
   ],
+  "5smZHx": [
+    "Instead of a one-time gift, you can now send Nitro that auto-renews."
+  ],
   "5spYuX": [
     "Very Negative"
   ],
@@ -22119,6 +22131,9 @@
   ],
   "6D5WVg": [
     "Oops! Something went wrong while trying to unlink this channel. Please try again later."
+  ],
+  "6DZISR": [
+    "Overtime Goal"
   ],
   "6Dl5X1": [
     "Join up to 200 servers, use your server emoji everywhere, ",
@@ -23631,7 +23646,7 @@
     ]
   ],
   "6mcVBm": [
-    "New emoji packs with Nitro"
+    "Something for every reaction"
   ],
   "6mh541": [
     "Discord is having trouble connecting to the call."
@@ -27201,11 +27216,11 @@
   "88XnXE": [
     "Upload a cover photo"
   ],
+  "88c7ds": [
+    "Sent when a competition ends, a new one begins, or someone new takes the lead. Limited to 1 system message per day."
+  ],
   "892qg1": [
     "Has"
-  ],
-  "89CDAj": [
-    "Item Purchase"
   ],
   "89CimT": [
     "Choose what you see when uploaded or linked media may contain sensitive content. ",
@@ -29964,9 +29979,6 @@
   "94JbM3": [
     "Report Issues"
   ],
-  "94Kji7": [
-    "Game Started"
-  ],
   "94QqkS": [
     "Sent an image in a spoiler channel"
   ],
@@ -30948,6 +30960,9 @@
   ],
   "9XlQ9W": [
     "This Stage will be listed in Stage Discovery. Anyone can listen in!"
+  ],
+  "9XpK+g": [
+    "Gift Nitro"
   ],
   "9XsExm": [
     "Duration"
@@ -32439,6 +32454,9 @@
       ]
     ]
   ],
+  "A4ZMJL": [
+    "Share My Activity"
+  ],
   "A4zKul": [
     "Must have at least ",
     [
@@ -33852,13 +33870,6 @@
   "AjBsPe": [
     "Fullscreen (Exclusive)"
   ],
-  "AjNN1/": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake Slain"
-  ],
   "AjdEvM": [
     "Animated AVIF images cannot be modified and will be uploaded as-is."
   ],
@@ -34348,6 +34359,9 @@
         ]
       ]
     ]
+  ],
+  "AwjiED": [
+    "Aerial Goal"
   ],
   "AwjsC9": [
     "Game Invites (Limited)"
@@ -39877,6 +39891,14 @@
   "D33KHa": [
     "A bunch of legitimate DMs were sent at the same time"
   ],
+  "D3CWUF": [
+    "Full reveal when Call of Duty: Modern Warfare 4 launches on ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ]
+  ],
   "D3KNf/": [
     "Popular ",
     [
@@ -40772,13 +40794,6 @@
   ],
   "DUD+5n": [
     "Server Tag"
-  ],
-  "DUQK8U": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake Stolen"
   ],
   "DUT5IC": [
     "Max file size is ",
@@ -42346,6 +42361,62 @@
       ]
     ],
     " to your in-game account."
+  ],
+  "ED2GDQ": [
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "memberCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " member"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " members"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " played ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "gameCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " game"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " games"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " in the past week."
   ],
   "ED4UVD": [
     "Pricing and Features"
@@ -45825,6 +45896,9 @@
     ],
     " character count limit."
   ],
+  "FcBebW": [
+    "FcBebW"
+  ],
   "FcE5RR": [
     "View ",
     [
@@ -46782,6 +46856,13 @@
   ],
   "G5FsgF": [
     "Isle of Man"
+  ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
   ],
   "G5Uvsm": [
     "Members will be asked to accept Server Rules after questions in Onboarding."
@@ -48261,6 +48342,9 @@
     ],
     ", with a controller"
   ],
+  "GZsvDx": [
+    "Popular Games"
+  ],
   "GZvXuP": [
     "Elevated permissions grant higher levels of access to server settings, and should only be granted to highly trusted mods."
   ],
@@ -48791,6 +48875,9 @@
   ],
   "Gl3Q30": [
     "Stream Actions"
+  ],
+  "Gl5dnA": [
+    "My Subscriptions"
   ],
   "GlKb5i": [
     "Back to Hub"
@@ -52196,6 +52283,9 @@
   "I5UWh9": [
     "Get Nitro, Shop items, Server Boosts, and more"
   ],
+  "I5YSwS": [
+    "Extermination"
+  ],
   "I5dYFs": [
     [
       8,
@@ -54451,6 +54541,9 @@
   "IthhpG": [
     "Xbox Game Pass Awaits"
   ],
+  "Itns5V": [
+    "Elder Dragon Slain"
+  ],
   "ItpQxk": [
     "Share Trial"
   ],
@@ -55330,6 +55423,14 @@
   ],
   "JD3HnA": [
     "This permission no longer grants the ability to bypass slowmode."
+  ],
+  "JDAHQV": [
+    "Turn on Activity Sharing to help unlock this panel. There need to be at least ",
+    [
+      2,
+      "memberCount"
+    ],
+    " server members sharing their gaming activity."
   ],
   "JDGG1l": [
     "I am still exploring the server"
@@ -56536,6 +56637,9 @@
   "Jmh6n9": [
     "No recent messages"
   ],
+  "Jmi8xl": [
+    "Backwards Goal"
+  ],
   "JmuIb5": [
     "Preview"
   ],
@@ -56940,6 +57044,9 @@
   ],
   "K0e7M9": [
     "Retry video"
+  ],
+  "K0spYL": [
+    "Start a Stream"
   ],
   "K1BAQ6": [
     "Send an Invite"
@@ -57407,6 +57514,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "KHF45W": [
+    "Psst, share Nitro with a friend"
   ],
   "KHGhHf": [
     "Report Stream Issue"
@@ -59554,6 +59664,13 @@
       ]
     ]
   ],
+  "L5nipF": [
+    [
+      1,
+      "price"
+    ],
+    "/month, cancel any time"
+  ],
   "L6623r": [
     "Mark as Message Request (Experimental)"
   ],
@@ -60721,6 +60838,14 @@
   ],
   "LeEPoH": [
     "All the content, embeds, media, and formatting will stay the same"
+  ],
+  "LeSGal": [
+    "There need to be at least ",
+    [
+      2,
+      "memberCount"
+    ],
+    " server members sharing their gaming activity to have popular games enabled."
   ],
   "LeYU4d": [
     [
@@ -62823,6 +62948,9 @@
   ],
   "MPFyJ5": [
     "Nitro subscribers get a discount on this decoration"
+  ],
+  "MPURhG": [
+    "Roblox"
   ],
   "MPaut5": [
     [
@@ -66883,6 +67011,9 @@
   "NweJI8": [
     "Open the Discord App to start this Quest"
   ],
+  "Nwj3fK": [
+    "Back to emoji picker"
+  ],
   "Nwj9v0": [
     "Last Year"
   ],
@@ -70870,6 +71001,17 @@
     ],
     "+ Members"
   ],
+  "PR7GrT": [
+    [
+      1,
+      "plan"
+    ],
+    ", ",
+    [
+      1,
+      "option"
+    ]
+  ],
   "PRBn9K": [
     "Learn more about Highlights"
   ],
@@ -73085,9 +73227,6 @@
   ],
   "QO7rO6": [
     "Launch"
-  ],
-  "QOC6N4": [
-    "Flip Reset"
   ],
   "QOQlWa": [
     "Something went wrong when trying to scan."
@@ -76685,6 +76824,9 @@
   "Rqq6To": [
     "Maple leaf badge"
   ],
+  "Rqr/Kg": [
+    "Renews yearly"
+  ],
   "Rr3MAe": [
     "Resubscribe"
   ],
@@ -77200,6 +77342,13 @@
       []
     ],
     "."
+  ],
+  "S3pnck": [
+    [
+      1,
+      "price"
+    ],
+    "/year, cancel any time"
   ],
   "S3vcRK": [
     "Removed the cover image"
@@ -79000,6 +79149,9 @@
   "ShSTDe": [
     "General"
   ],
+  "ShU4Bk": [
+    "Savior"
+  ],
   "ShzB0V": [
     "San Marino"
   ],
@@ -80570,6 +80722,9 @@
   ],
   "TOEOae": [
     "Clear after today"
+  ],
+  "TOMBAW": [
+    "TOMBAW"
   ],
   "TOPdQ9": [
     "There is no activity in this server"
@@ -84764,6 +84919,9 @@
   "Uvf9GK": [
     "Supported games"
   ],
+  "UvhjEc": [
+    "It's almost here"
+  ],
   "Uvt+p/": [
     "Add Role or Member"
   ],
@@ -86830,6 +86988,9 @@
   "Vgdusv": [
     "Profile Banner"
   ],
+  "VgkqMu": [
+    "Hat Trick"
+  ],
   "VgqIPj": [
     "You will no longer be able to access features of the \"",
     [
@@ -87299,6 +87460,9 @@
   ],
   "VshY9E": [
     "A valid Discord Auth Code is required."
+  ],
+  "VskybO": [
+    "Long Goal"
   ],
   "Vsxqmz": [
     "Get the game"
@@ -88332,6 +88496,9 @@
       "count"
     ],
     "h ago"
+  ],
+  "WJDeur": [
+    "Send one of your 2-week trials and become the group chat MVP."
   ],
   "WJFPHJ": [
     "Are you sure you don't want to enable SMS authentication or download your backup codes? Without them, you are at risk of losing your account permanently if you lose access to your authenticator app!"
@@ -90915,6 +91082,9 @@
   "XFYW1o": [
     "Searching All Users"
   ],
+  "XFZr3P": [
+    "Subscriptions"
+  ],
   "XFa6Q8": [
     "Members will be asked these questions after they join your server, on the Channels & Roles page. Use them to\nassign roles that members can pick later, like vanity roles."
   ],
@@ -91584,6 +91754,9 @@
   "XWDihq": [
     "Copy Add App URL"
   ],
+  "XWGgyF": [
+    "Bicycle Goal"
+  ],
   "XWRuOp": [
     "What’s your favorite book genre?"
   ],
@@ -91752,6 +91925,33 @@
   ],
   "XaOAdt": [
     "Sent by any of the selected types of author"
+  ],
+  "XaT+x0": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " member"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " members"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " played ",
+    [
+      1,
+      "gameName"
+    ]
   ],
   "XahSjZ": [
     [
@@ -92870,6 +93070,14 @@
   "Y//IPC": [
     "Looks like everything is tidy already."
   ],
+  "Y/4agX": [
+    "Full reveal in MW4 on ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ]
+  ],
   "Y/L0t0": [
     "invalid-channel"
   ],
@@ -93505,6 +93713,15 @@
   ],
   "YErysD": [
     "Cannot add user to thread"
+  ],
+  "YEsjvt": [
+    "Get a Call of Duty: MW4 blueprint on ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ". Exclusive to Nitro."
   ],
   "YF35pV": [
     "Remove tab"
@@ -106229,6 +106446,9 @@
   "cYBPFx": [
     "Screenshare Instagram"
   ],
+  "cYCqz8": [
+    "cYCqz8"
+  ],
   "cYX/3E": [
     "You’re restricted from using communication features on your ",
     [
@@ -107957,9 +108177,6 @@
     "cowgirl",
     "face",
     "hat"
-  ],
-  "cp+kpc": [
-    "Level Up"
   ],
   "cpFumO": [
     "Congratulations!"
@@ -111991,6 +112208,9 @@
     ],
     " from users you’ve ignored."
   ],
+  "e7pD5m": [
+    "Enable settings to contribute to Popular Games. These can be changed at any time in Settings."
+  ],
   "e8HTol": [
     "Open Discord on Desktop to unlock & configure ",
     [
@@ -113453,9 +113673,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Respawn"
   ],
   "ebojgD": [
     "Yes, count me in!"
@@ -123136,9 +123353,6 @@
   "hlDSV2": [
     "No Incoming Friend Requests"
   ],
-  "hlOYoA": [
-    "Game Ended"
-  ],
   "hlS2xq": [
     "LoFi Vibes"
   ],
@@ -126667,6 +126881,9 @@
   "j1AvqI": [
     "Personalize your profile with custom colors."
   ],
+  "j1BYbE": [
+    "Drake Slain"
+  ],
   "j1Gf2n": [
     [
       1,
@@ -128587,6 +128804,9 @@
       ]
     ],
     "?"
+  ],
+  "jkx9hR": [
+    "Just this once"
   ],
   "jl2mMw": [
     "Direct Messages, ",
@@ -132127,6 +132347,9 @@
   "l8YumU": [
     "Drip"
   ],
+  "l8nVB9": [
+    "Access emojis faster"
+  ],
   "l8rYLt": [
     "Your message is too long."
   ],
@@ -133978,6 +134201,9 @@
   ],
   "lqyAiJ": [
     "Cook Islands"
+  ],
+  "lr7Ki+": [
+    "Drake Stolen"
   ],
   "lrVuZO": [
     "Connected Apps"
@@ -138785,6 +139011,9 @@
   "n8wrn/": [
     "Set up Family Center"
   ],
+  "n9QpdG": [
+    "Own Goal"
+  ],
   "n9T3Hi": [
     "Reorder"
   ],
@@ -139732,6 +139961,17 @@
   ],
   "nRMD4J": [
     "Save the Boost?"
+  ],
+  "nRS0N2": [
+    [
+      1,
+      "plan"
+    ],
+    ": ",
+    [
+      1,
+      "price"
+    ]
   ],
   "nRbucl": [
     "direct message closed"
@@ -152305,9 +152545,6 @@
   "rhBeKe": [
     "Your birthday"
   ],
-  "rhDbuQ": [
-    "a game"
-  ],
   "rhY1Rs": [
     [
       2,
@@ -155187,6 +155424,14 @@
       "cardinal"
     ]
   ],
+  "sYJogd": [
+    "Pay ",
+    [
+      1,
+      "price"
+    ],
+    " one time"
+  ],
   "sYLCY/": [
     "Enable Monetization"
   ],
@@ -155248,9 +155493,6 @@
   ],
   "saLMWc": [
     "Join Without Entrance Sound"
-  ],
-  "saS9BW": [
-    "Defeat"
   ],
   "saZaRb": [
     "End Stage"
@@ -159974,7 +160216,7 @@
     "Help improve Discord's spam models by submitting data when marking messages as non-spam."
   ],
   "toxuHd": [
-    "Play some games to join the leaderboard!"
+    "Play some games to join the leaderboard! Progress will be shown starting tomorrow."
   ],
   "tozlEv": [
     "Join ",
@@ -160015,6 +160257,9 @@
         ]
       ]
     ]
+  ],
+  "tpVyW0": [
+    "Playmaker"
   ],
   "tpXzJ+": [
     "Nope"
@@ -160822,6 +161067,9 @@
   "u0Ra/G": [
     "We came up with the idea of Discord Nitro over morning breakfast potatoes."
   ],
+  "u0brrv": [
+    "Gift Nitro as a subscription"
+  ],
   "u0gUWt": [
     "Member"
   ],
@@ -161475,6 +161723,9 @@
       ]
     ]
   ],
+  "uDVG5O": [
+    "/ Month"
+  ],
   "uDnXXj": [
     "You do not have permissions to run commands in this channel"
   ],
@@ -161964,6 +162215,9 @@
   ],
   "uPvxqJ": [
     "Change Background"
+  ],
+  "uQOR1j": [
+    "Turn on personalization to see your played games join the rankings."
   ],
   "uQSXTO": [
     "Backup codes need to be 8 characters long and can contain only numbers and letters."
@@ -162536,14 +162790,6 @@
   "uexPgT": [
     "Popular Education Servers"
   ],
-  "ueza5l": [
-    "Turn on Activity Sharing to help unlock this leaderboard. There need to be at least ",
-    [
-      2,
-      "memberCount"
-    ],
-    " server members sharing their gaming activity."
-  ],
   "ufBaba": [
     "Claim a free bundle by ",
     [
@@ -162655,6 +162901,9 @@
   "ugbhDS": [
     "Not interested in this Quest?"
   ],
+  "ugfqKp": [
+    "Classified: Code Blurple"
+  ],
   "uggF7o": [
     "You must verify your account before you can enable two-factor authentication."
   ],
@@ -162749,6 +162998,9 @@
   ],
   "ujfP6f": [
     "Game Friend Request"
+  ],
+  "ujfS5V": [
+    "Tap to see more suggestions or swipe left to add to your message."
   ],
   "ujnXus": [
     "Food you’re craving now?"
@@ -163622,6 +163874,9 @@
   ],
   "v0eyRM": [
     "Example rules (click them!)"
+  ],
+  "v0iLIA": [
+    "Send system messages to server"
   ],
   "v15Ipv": [
     "When sync is turned on, custom themes [Beta] created on desktop may affect your mobile theme. ",
@@ -169624,6 +169879,17 @@
   "wyARgw": [
     "chat with the community"
   ],
+  "wyIs4o": [
+    "Share your gaming activity and turn on personalization to help unlock this leaderboard. It appears once ",
+    [
+      2,
+      "memberCount"
+    ],
+    " members have both settings on."
+  ],
+  "wyK5KO": [
+    "Enable activity sharing to see your played games join the rankings."
+  ],
   "wyMp1j": [
     "Find ",
     [
@@ -169727,6 +169993,9 @@
   ],
   "wzZHKl": [
     "iykyk"
+  ],
+  "wzvf9g": [
+    "/ Year"
   ],
   "wzzjk9": [
     "Refresh"
@@ -171685,9 +171954,6 @@
   "xcvy+3": [
     "You have removed your vote"
   ],
-  "xczAcS": [
-    "xczAcS"
-  ],
   "xd2XuA": [
     "Vanuatu"
   ],
@@ -173241,6 +173507,9 @@
   ],
   "yC9S5Z": [
     "Share your reason here."
+  ],
+  "yCHPPF": [
+    "Renews monthly"
   ],
   "yCKUUY": [
     "You broke Discord's rules and will lose feature access if you break them again."

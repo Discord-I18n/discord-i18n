@@ -2212,9 +2212,6 @@
   "+sXN3T": [
     "Discord voi suodattaa pois viestit, jotka ovat roskasisältöä. Näin suodatetut viestit siirtyvät Roskaposti-kansioosi."
   ],
-  "+sdglm": [
-    "Tappio"
-  ],
   "+smCv9": [
     "Äänipankin paikat"
   ],
@@ -7027,6 +7024,9 @@
       "recipient"
     ],
     " pääsee nyt nauttimaan Nitrosta. Kun olet nyt vauhdissa, kannattaisiko lähettää kokeilu jollekulle toisellekin?"
+  ],
+  "0gqEHu": [
+    "Lähetä 2 viikkoa palvelimen nostatuksia, mukautettuja profiileja ja paljon muuta."
   ],
   "0gtbE8": [
     "Koekuuntele ääni"
@@ -12028,6 +12028,23 @@
       0,
       "cardinal"
     ]
+  ],
+  "2nw1yD": [
+    "He saavat 2 viikon jakson mukautettuja profiileja, suurempia tiedostolatauksia ja paljon muuta. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Ajoitettujen viestien enimmäismäärä on täyttynyt. Hanki ",
@@ -25968,9 +25985,6 @@
   "892qg1": [
     "Sisältää"
   ],
-  "89CDAj": [
-    "Esineen osto"
-  ],
   "89CimT": [
     "Valitse, millaista mahdollisesti arkaluonteista sisältöä näet palvelimelle ladatussa tai linkitetyssä mediasisällössä. ",
     [
@@ -28614,9 +28628,6 @@
   ],
   "94JbM3": [
     "Ilmoita ongelmista"
-  ],
-  "94Kji7": [
-    "Pelin alku"
   ],
   "94QqkS": [
     "lähetti kuvan spoilerikanavalla"
@@ -32349,13 +32360,6 @@
   ],
   "AjBsPe": [
     "Koko näyttö (vain peli)"
-  ],
-  "AjNN1/": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake tapettu"
   ],
   "AjdEvM": [
     "Animoituja AVIF-kuvia ei voi muokata ja ne ladataan palvelimelle sellaisinaan."
@@ -38216,6 +38220,14 @@
   "D33KHa": [
     "Joukko oikeita yksityisviestejä lähetettiin samanaikaisesti"
   ],
+  "D3CWUF": [
+    "Varsinainen paljastus Call of Duty: Modern Warfare 4:n ilmestyessä ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ]
+  ],
   "D3KNf/": [
     "Suositut yhteisöt luokassa ",
     [
@@ -39101,13 +39113,6 @@
   "DUD+5n": [
     "Palvelimen tunniste"
   ],
-  "DUQK8U": [
-    [
-      1,
-      "drakeName"
-    ],
-    " Drake varastettu"
-  ],
   "DUT5IC": [
     "Tiedoston enimmäiskoko on ",
     [
@@ -39780,6 +39785,22 @@
   ],
   "DrgnS+": [
     "Olet ostamassa lahjaa."
+  ],
+  "DrjI2v": [
+    "Lisää on luvassa pian. Jos olet anteliaalla päällä, voit aina lahjoittaa Nitron. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Ilmianna käyttäjän ",
@@ -45212,6 +45233,9 @@
       ]
     ],
     " tätä kanavaa. Voit muokata viestiä myöhemmin tai poistaa sen. Viesti päivittyy vastaavasti kaikille seuraaville palvelimille."
+  ],
+  "GCMMir": [
+    "Näetkö kaveria? Jaa Nitro"
   ],
   "GCNMM8": [
     "Radiopuhelintilan vapautusviive"
@@ -55631,6 +55655,9 @@
   "KXYLmI": [
     "Tuntematon kameravirhe"
   ],
+  "KXbhzo": [
+    "Lahjoita Nitro"
+  ],
   "KXcEC9": [
     "Hallinnoi rooleja"
   ],
@@ -57873,6 +57900,13 @@
   ],
   "LVh3/5": [
     "Lisää tiedot"
+  ],
+  "LVlgM4": [
+    "Jaa Nitro käyttäjälle ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Lahjoita ",
@@ -63609,6 +63643,9 @@
   ],
   "NkeB4/": [
     "Ulkoiset näppäimistöt lähettävät viestin oletuksena Enter-näppäimellä."
+  ],
+  "NkgMIP": [
+    "Hän saa 2 viikon jakson Nitroa ja sen myötä terävämmät ja sulavammat striimaukset, profiilietuja ja paljon muuta."
   ],
   "NkshQt": [
     "Kivihiili"
@@ -70045,9 +70082,6 @@
   ],
   "QO7rO6": [
     "Käynnistä"
-  ],
-  "QOC6N4": [
-    "Flipin nollaus"
   ],
   "QOQlWa": [
     "Jokin meni vikaan skannausta yritettäessä."
@@ -78777,6 +78811,9 @@
   ],
   "TyMJwC": [
     "Jäsenet eivät voi käyttää tätä bottia ennen kuin otat käyttöoikeudet käyttöön."
+  ],
+  "TyRCCM": [
+    "Järjestä etuja kavereillesi ja nouse ryhmäkeskustelun MVP:ksi."
   ],
   "TyUdka": [
     "Piristä näyttönimesi ulkoasua uusilla fonteilla ja tehosteilla. Vain Nitrolla."
@@ -89611,6 +89648,15 @@
   "YErysD": [
     "Käyttäjää ei voi lisätä ketjuun"
   ],
+  "YEsjvt": [
+    "Saat Call of Duty: MW4 -asepiirustuksen ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ". Vain Nitro-tilaajille."
+  ],
   "YF35pV": [
     "Poista välilehti"
   ],
@@ -91651,6 +91697,9 @@
   "Z2MWuH": [
     "Tee tästä oletussijaintini"
   ],
+  "Z2Ri4D": [
+    "Avaa milloin tahansa niin näet, ketkä ovat paikalla ja mitä he puuhaavat."
+  ],
   "Z2Y4c9": [
     "Kuuntelija"
   ],
@@ -91751,6 +91800,9 @@
       ]
     ],
     " pikakäyttöä varten minkä tahansa kanavan tai yksityisviestiketjun pitämällä sitä painettuna."
+  ],
+  "Z3LquY": [
+    "Katso kavereiden toimintaa"
   ],
   "Z3Vn/X": [
     "Mikä on hyödyttömin kyky tai taito, joka sinulla on?"
@@ -92024,6 +92076,9 @@
   ],
   "ZBjOVT": [
     "Toista tai pysäytä kaksoisnapauttamalla"
+  ],
+  "ZBuqcM": [
+    "Olet jakanut kaikki kokeilusi"
   ],
   "ZC3PJ2": [
     "Hylkää kaikki"
@@ -103301,9 +103356,6 @@
     "hattu",
     "kasvot"
   ],
-  "cp+kpc": [
-    "Tason nosto"
-  ],
   "cpFumO": [
     "Onneksi olkoon!"
   ],
@@ -106761,6 +106813,9 @@
   "dzGILG": [
     "Viimeistele rekisteröityminen"
   ],
+  "dzQxHq": [
+    "Lähetä kokeilu"
+  ],
   "dzbET7": [
     "Arveluttavat kuvat suodatetaan pois kaikista viesteistä."
   ],
@@ -108524,9 +108579,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Uudelleenspawnaus"
   ],
   "ebojgD": [
     "Kyllä, haluan mukaan!"
@@ -117485,9 +117537,6 @@
   ],
   "hlDSV2": [
     "Ei saapuneita kaveripyyntöjä"
-  ],
-  "hlOYoA": [
-    "Pelin päätös"
   ],
   "hlS2xq": [
     "LoFi-vibat"
@@ -131784,6 +131833,9 @@
   "n/Vzkw": [
     "Discord ei koskaan kysy salasanaasi tai tilisi tunnusta."
   ],
+  "n/a182": [
+    "Jaa HD"
+  ],
   "n/aoIB": [
     "Yksityisviestien roskaviestisuodatus (beeta)"
   ],
@@ -144497,6 +144549,14 @@
   "rdCyA/": [
     "Tarkistetaan reitti"
   ],
+  "rdh1ou": [
+    "Ojenna auttava kätesi, niin ",
+    [
+      1,
+      "recipientName"
+    ],
+    " pääsee striimaamaan HD-laadulla"
+  ],
   "rdhx0q": [
     "Sinun on vahvistettava sähköpostiosoitteesi 1 päivän kuluessa, jotta säilytät käyttäjänimesi."
   ],
@@ -144737,9 +144797,6 @@
   ],
   "rhBeKe": [
     "Syntymäaikasi"
-  ],
-  "rhDbuQ": [
-    "peli"
   ],
   "rhY1Rs": [
     [
@@ -146353,6 +146410,28 @@
   "s8TEkh": [
     "Ei tyhjennettäviä ryhmäkeskusteluja"
   ],
+  "s8VHbZ": [
+    "Jos ",
+    [
+      1,
+      "recipientName"
+    ],
+    " ei lunasta kokeilua 10 päivän kuluessa, se palautuu sinulle. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Aloita esitys"
   ],
@@ -147477,9 +147556,6 @@
   ],
   "saLMWc": [
     "Liity ilman sisääntuloääntä"
-  ],
-  "saS9BW": [
-    "Tappio"
   ],
   "saZaRb": [
     "Päätä esitys"
@@ -150307,6 +150383,14 @@
   ],
   "tJp+QV": [
     "Ota oppia muilta rahallistetuilta palvelimilta"
+  ],
+  "tJvaQ8": [
+    "Katso, että ",
+    [
+      1,
+      "recipientName"
+    ],
+    " saa 2 viikon jakson mukautettuja profiileja, teemoja ja paljon muuta."
   ],
   "tJzB6F": [
     "Näkyvissä on väärä peli"
@@ -154213,14 +154297,6 @@
   "uexPgT": [
     "Suositut opetuspalvelimet"
   ],
-  "ueza5l": [
-    "Edistä tämän tulostaulukon avaamista ottamalla toiminnan jakaminen käyttöön. Vähintään ",
-    [
-      2,
-      "memberCount"
-    ],
-    " palvelimen jäsenen on jaettava pelitoimintansa."
-  ],
   "ufBaba": [
     "Lunasta ilmainen paketti ",
     [
@@ -154329,6 +154405,9 @@
   ],
   "ugbhDS": [
     "Etkö ole kiinnostunut tästä tehtävästä?"
+  ],
+  "ugfqKp": [
+    "Erittäin salainen: Koodi Sinipurppura"
   ],
   "uggF7o": [
     "Sinun täytyy vahvistaa tilisi, jotta voit ottaa kaksivaiheisen todennuksen käyttöön."
@@ -162724,9 +162803,6 @@
   ],
   "xcvy+3": [
     "Olet poistanut äänesi"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"

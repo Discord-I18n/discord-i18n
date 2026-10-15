@@ -2358,9 +2358,6 @@
   "+sXN3T": [
     "Discord može filtrirati neke poruke koje sadrže spam. Te poruke idu u tvoj sandučić za spam."
   ],
-  "+sdglm": [
-    "Poraz"
-  ],
   "+smCv9": [
     "Mjesta na zvučnoj ploči"
   ],
@@ -7464,6 +7461,9 @@
       "recipient"
     ],
     " moći će uživati u Nitru. S obzirom na to da ti je krenulo, možda da pošalješ još jedan?"
+  ],
+  "0gqEHu": [
+    "Pošalji server boostove, prilagođene profile i još mnogo toga na 2 tjedna."
   ],
   "0gtbE8": [
     "Pretpregledaj glasovni"
@@ -12643,6 +12643,23 @@
       }
     ],
     " few {Besplatna Boosta} other {Besplatnih Boostova}}"
+  ],
+  "2nw1yD": [
+    "Dobit ćeš 2 tjedna prilagođenih profila, prijenos većih datoteka i još mnogo toga. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
   ],
   "2o4lgw": [
     "Dosegnuto je ograničenje zakazanih poruka. Nabavi ",
@@ -27225,9 +27242,6 @@
   "892qg1": [
     "Ima"
   ],
-  "89CDAj": [
-    "Predmet je kupljen"
-  ],
   "89CimT": [
     "Odaberi što ćeš vidjeti kada preneseni ili povezani medij možda ima osjetljiv sadržaj. ",
     [
@@ -29975,9 +29989,6 @@
   ],
   "94JbM3": [
     "Prijavi probleme"
-  ],
-  "94Kji7": [
-    "Igra je započela"
   ],
   "94QqkS": [
     "Poslao/la sliku na kanal sa spoilerima"
@@ -33864,14 +33875,6 @@
   ],
   "AjBsPe": [
     "Cijeli zaslon (ekskluzivni)"
-  ],
-  "AjNN1/": [
-    "Zmaj ",
-    [
-      1,
-      "drakeName"
-    ],
-    " je ubijen"
   ],
   "AjdEvM": [
     "Animirane AVIF slike nije moguće mijenjati i bit će prenesene kakve jesu."
@@ -39895,6 +39898,14 @@
   "D33KHa": [
     "Gomila legitimnih direktnih poruka poslana je u isto vrijeme"
   ],
+  "D3CWUF": [
+    "Potpuno otkrivanje slijedi na dan objave igre Call of Duty: Modern Warfare 4: ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ]
+  ],
   "D3KNf/": [
     "Popularne zajednice kategorije ",
     [
@@ -40804,14 +40815,6 @@
   "DUD+5n": [
     "Tag servera"
   ],
-  "DUQK8U": [
-    "Zmaj ",
-    [
-      1,
-      "drakeName"
-    ],
-    " je ukraden"
-  ],
   "DUT5IC": [
     "Najveća dopuštena veličina datoteke je ",
     [
@@ -41501,6 +41504,22 @@
   ],
   "DrgnS+": [
     "Kupuješ poklon."
+  ],
+  "DrjI2v": [
+    "Uskoro stiže još toga. Ako se osjećaš darežljivo, možeš darovati Nitro. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "DryAnk": [
     "Prijavi poruku korisnika ",
@@ -47152,6 +47171,9 @@
       ]
     ],
     ". Kasnije možete urediti ili izbrisati ovu poruku i ona će se ažurirati na svakom sljedećem serveru."
+  ],
+  "GCMMir": [
+    "Spazio si prijatelja? Podijeli s njime Nitro"
   ],
   "GCNMM8": [
     "Vremenska odgoda nakon puštanja tipke Push to talk"
@@ -57916,6 +57938,9 @@
   "KXYLmI": [
     "Nepoznata greška kamere"
   ],
+  "KXbhzo": [
+    "Počasti tu osobu Nitrom"
+  ],
   "KXcEC9": [
     "Upravljanje ulogama"
   ],
@@ -60238,6 +60263,13 @@
   ],
   "LVh3/5": [
     "Dodaj podatke"
+  ],
+  "LVlgM4": [
+    "Podijeli Nitro s ",
+    [
+      1,
+      "recipientName"
+    ]
   ],
   "LVn9Qf": [
     "Daruj ",
@@ -66195,6 +66227,9 @@
   ],
   "NkeB4/": [
     "Po zadanom, vanjske tipkovnice će poslati poruku pritiskom na enter."
+  ],
+  "NkgMIP": [
+    "Podijeli 2 tjedna Nitra za oštrije, uglađenije streamove, posebne pogodnosti profila i još mnogo toga."
   ],
   "NkshQt": [
     "Ugljen"
@@ -72788,9 +72823,6 @@
   ],
   "QO7rO6": [
     "Pokreni"
-  ],
-  "QOC6N4": [
-    "Resetiranje salta"
   ],
   "QOQlWa": [
     "Nešto je pošlo krivo kad je pokušano skeniranje."
@@ -81915,6 +81947,9 @@
   ],
   "TyMJwC": [
     "Dok ne uključiš dozvole, članovi neće moći koristiti ovaj bot."
+  ],
+  "TyRCCM": [
+    "Počasti svoje prijatelje i postani MVP grupnog chata."
   ],
   "TyUdka": [
     "Promijeni izgled svog zaslonskog imena novim fontovima i efektima. Samo uz Nitro."
@@ -93055,6 +93090,15 @@
   "YErysD": [
     "Nije moguće dodati korisnika u nit"
   ],
+  "YEsjvt": [
+    "Nabavi blueprint za Call of Duty: MW4 ",
+    [
+      3,
+      "date",
+      "::MMMd"
+    ],
+    ". Samo ako imaš Nitro."
+  ],
   "YF35pV": [
     "Ukloni karticu"
   ],
@@ -95201,6 +95245,9 @@
   "Z2MWuH": [
     "Neka ovo bude moje zadano mjesto"
   ],
+  "Z2Ri4D": [
+    "Otvori bilo kada da vidiš tko je online i što radi."
+  ],
   "Z2Y4c9": [
     "Slušatelj"
   ],
@@ -95301,6 +95348,9 @@
       ]
     ],
     " kako bi im mogao/la brzo pristupati."
+  ],
+  "Z3LquY": [
+    "Pogledaj aktivnost prijatelja"
   ],
   "Z3Vn/X": [
     "Koji je najmanje koristan talent kojeg posjeduješ?"
@@ -95583,6 +95633,9 @@
   ],
   "ZBjOVT": [
     "Dvaput dodirni za reprodukciju ili pauzu."
+  ],
+  "ZBuqcM": [
+    "Podijelio/la si sva svoja probna razdoblja"
   ],
   "ZC3PJ2": [
     "Odbaci sve"
@@ -107268,9 +107321,6 @@
     "lice",
     "šešir"
   ],
-  "cp+kpc": [
-    "Razina gore"
-  ],
   "cpFumO": [
     "Čestitamo!"
   ],
@@ -110869,6 +110919,9 @@
   "dzGILG": [
     "Završi prijavu"
   ],
+  "dzQxHq": [
+    "Pošalji probno razdoblje"
+  ],
   "dzbET7": [
     "Sve će se poruke filtrirati u svrhu traženja eksplicitnih slika."
   ],
@@ -112694,9 +112747,6 @@
         ]
       ]
     ]
-  ],
-  "ebbBDl": [
-    "Ponovno se pojavi"
   ],
   "ebojgD": [
     "Naravno da hoću!"
@@ -121987,9 +122037,6 @@
   ],
   "hlDSV2": [
     "Nema dolaznih zahtjeva za prijateljstvom"
-  ],
-  "hlOYoA": [
-    "Igra je završila"
   ],
   "hlS2xq": [
     "LoFi Vibes"
@@ -136840,6 +136887,9 @@
   "n/Vzkw": [
     "Discord nikad neće pitati koja ti je lozinka ili token računa."
   ],
+  "n/a182": [
+    "Podijeli HD"
+  ],
   "n/aoIB": [
     "Beta verzija filtra za spam u izravnim porukama"
   ],
@@ -150159,6 +150209,14 @@
   "rdCyA/": [
     "Provjera rute"
   ],
+  "rdh1ou": [
+    "Pomozi korisniku ",
+    [
+      1,
+      "recipientName"
+    ],
+    " da streama u HD kvaliteti"
+  ],
   "rdhx0q": [
     "Moraš potvrditi svoju e-adresu u roku od jednog dana kako bi zadržao/la svoje korisničko ime."
   ],
@@ -150422,9 +150480,6 @@
   ],
   "rhBeKe": [
     "Tvoj datum rođenja"
-  ],
-  "rhDbuQ": [
-    "igra"
   ],
   "rhY1Rs": [
     [
@@ -152099,6 +152154,27 @@
   "s8TEkh": [
     "Nema grupnih direktnih poruka koje je moguće obrisati"
   ],
+  "s8VHbZ": [
+    [
+      1,
+      "recipientName"
+    ],
+    " treba prihvatiti probno razdoblje u roku od 10 dana inače će ti biti vraćeno. ",
+    [
+      8,
+      "$link",
+      [
+        "Doznaj više"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ],
+    "."
+  ],
   "s8mM8A": [
     "Započni Pozornicu"
   ],
@@ -153319,9 +153395,6 @@
   ],
   "saLMWc": [
     "Pridruži se bez ulaznog zvuka"
-  ],
-  "saS9BW": [
-    "Poraz"
   ],
   "saZaRb": [
     "Završi pozornicu"
@@ -156324,6 +156397,14 @@
   ],
   "tJp+QV": [
     "Uči od drugih monetiziranih servera"
+  ],
+  "tJvaQ8": [
+    "Pošalji korisniku ",
+    [
+      1,
+      "recipientName"
+    ],
+    " prilagođene profile, teme i još mnogo toga na 2 tjedna."
   ],
   "tJzB6F": [
     "Prikazana je pogrešna igra"
@@ -160352,14 +160433,6 @@
   "uexPgT": [
     "Popularni serveri za obrazovanje"
   ],
-  "ueza5l": [
-    "Uključi dijeljenje aktivnosti da otključaš ovu ljestvicu. Najmanje ",
-    [
-      2,
-      "memberCount"
-    ],
-    " članova servera mora dijeliti svoju aktivnost igranja."
-  ],
   "ufBaba": [
     "Uzmi besplatni komplet do ",
     [
@@ -160467,6 +160540,9 @@
   ],
   "ugbhDS": [
     "Ne zanima te ova misija?"
+  ],
+  "ugfqKp": [
+    "Povjerljivo: šifra - plavoljubičasto"
   ],
   "uggF7o": [
     "Moraš potvrditi svoj korisnički račun kako bi mogao/la koristiti dvofaktorsku autentikaciju."
@@ -169105,9 +169181,6 @@
   ],
   "xcvy+3": [
     "Uklonio/la si svoj glas"
-  ],
-  "xczAcS": [
-    "xczAcS"
   ],
   "xd2XuA": [
     "Vanuatu"
