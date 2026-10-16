@@ -1353,9 +1353,6 @@
       "applicationName"
     ]
   ],
-  "+SuGKb": [
-    "Okupi svoje najčešće korištene kanale i direktne poruke kako bi im mogao/la brzo pristupiti."
-  ],
   "+Svv46": [
     "Slobodno zaboravi svoju lozinku"
   ],
@@ -1729,7 +1726,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " i ukupno ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
   ],
   "+aRmAc": [
     "Pokreni još jedan server za igre"
@@ -1809,9 +1811,6 @@
   ],
   "+d9SH8": [
     "Prenesi glas na PlayStation"
-  ],
-  "+dSwhE": [
-    "Pretpregled favorita"
   ],
   "+dXJII": [
     "Engleski, SAD"
@@ -1950,9 +1949,6 @@
       1,
       "username"
     ]
-  ],
-  "+h9aza": [
-    "Kužim"
   ],
   "+h9nJG": [
     "Ima li još neka povlastica?"
@@ -9422,9 +9418,6 @@
   "1QHJaW": [
     "Dobrobiti za servere"
   ],
-  "1QJmIL": [
-    "Dodaj u kategoriju"
-  ],
   "1QLRYb": [
     "Prikvačeno"
   ],
@@ -10117,9 +10110,6 @@
   "1mcPhC": [
     "Ažuriraj svoju aplikaciju"
   ],
-  "1n0TGE": [
-    "Napuni svoje favorite"
-  ],
   "1n6QXB": [
     "Opremi se filtrom glasa, kaži nešto i prepusti se zabavi!"
   ],
@@ -10615,9 +10605,6 @@
   "20piMS": [
     "Pomozi da Otkrivanje servera ostane sigurno svima"
   ],
-  "20sYUU": [
-    "Uzmi Nitro"
-  ],
   "20tmSN": [
     "Mjesečni orb dropovi"
   ],
@@ -10819,9 +10806,6 @@
   ],
   "24xrGb": [
     "Nevažeći unos"
-  ],
-  "25YCHl": [
-    "Dodaj u favorite"
   ],
   "25gfQX": [
     "Nema pristupa"
@@ -12631,15 +12615,22 @@
     ],
     " ",
     [
-      5,
+      6,
       "numFreeBoosts",
       {
-        "1": [
-          "Besplatan Boost"
+        "one": [
+          "besplatan Boost"
+        ],
+        "few": [
+          "besplatna Boosta"
+        ],
+        "other": [
+          "besplatnih Boostova"
         ]
-      }
-    ],
-    " few {Besplatna Boosta} other {Besplatnih Boostova}}"
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "2nw1yD": [
     "Dobit ćeš 2 tjedna prilagođenih profila, prijenos većih datoteka i još mnogo toga. ",
@@ -14258,9 +14249,6 @@
   ],
   "3KomGa": [
     "Daruj dar Nitra"
-  ],
-  "3KruG3": [
-    "Idi na server"
   ],
   "3KwZ8n": [
     [
@@ -23541,9 +23529,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Dodaj u favorite"
-  ],
   "6klMOk": [
     "Prijava poslana za: ",
     [
@@ -25493,9 +25478,6 @@
   ],
   "7WwAXh": [
     "Podijeli svaki ključni trenutak u do 4K pri 60 fps."
-  ],
-  "7WwLnr": [
-    "Pretpregled"
   ],
   "7X+3f8": [
     [
@@ -27509,9 +27491,6 @@
   ],
   "8F6hKS": [
     "Koristi svoju lozinku"
-  ],
-  "8FO0y9": [
-    "Sakrij favorite"
   ],
   "8FZfNo": [
     [
@@ -32146,32 +32125,42 @@
     "Korisnik više nije utišan"
   ],
   "A+bT9O": [
-    "{users, plural, =1: {",
     [
-      1,
-      "user1"
-    ],
-    "} =2: {",
-    [
-      1,
-      "user1"
-    ],
-    "} i {",
-    [
-      1,
-      "user2"
-    ],
-    "} other {{",
-    [
-      1,
-      "commaSeparatedUsers"
-    ],
-    "} i {",
-    [
-      1,
-      "lastUser"
-    ],
-    "}}}"
+      6,
+      "users",
+      {
+        "=1": [
+          [
+            1,
+            "user1"
+          ]
+        ],
+        "=2": [
+          [
+            1,
+            "user1"
+          ],
+          " i ",
+          [
+            1,
+            "user2"
+          ]
+        ],
+        "other": [
+          [
+            1,
+            "commaSeparatedUsers"
+          ],
+          " i ",
+          [
+            1,
+            "lastUser"
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "A+etHx": [
     "Hvala što si dao dar ",
@@ -38207,7 +38196,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " i provevši ",
+    [
+      1,
+      "gameTime"
+    ],
+    " u igri."
   ],
   "CHa0vN": [
     "Proizvod je nedostupan"
@@ -39126,9 +39120,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Omiljeni"
-  ],
   "CgyVP+": [
     [
       8,
@@ -40018,19 +40009,6 @@
   "D7HSLJ": [
     "Ručni isječci"
   ],
-  "D7S0Zo": [
-    "Besplatni omiljeni ograničeni su na ",
-    [
-      2,
-      "count"
-    ],
-    ". Nabavi Nitro da dodaš do ",
-    [
-      2,
-      "maxCount"
-    ],
-    " kanala i direktnih poruka."
-  ],
   "D7Sngz": [
     "Korisnici kojima su upućeni pozivi"
   ],
@@ -40317,9 +40295,6 @@
   "DFSvTt": [
     "Linkovi"
   ],
-  "DFjrWw": [
-    "Desnom tipkom miša klikni bilo koji kanal ili direktnu poruku da je dodaš u favorite. Tako je jednostavno."
-  ],
   "DFlDaE": [
     "Uvezi povlastice"
   ],
@@ -40371,9 +40346,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Automatsko dodavanje niti"
   ],
   "DJ+bGu": [
     "Tvoja uloga i ikona"
@@ -44480,9 +44452,6 @@
   "F3bDaX": [
     "Događanja u privatnim kanalima bit će vidljiva samo ljudima koji mogu pristupiti u taj kanal."
   ],
-  "F3dWTe": [
-    "Odbaci predložene kanale"
-  ],
   "F3qExp": [
     "Napusti"
   ],
@@ -45688,9 +45657,6 @@
   "Fa8W1W": [
     "Pogledaj istaknute sadržaje sljedećeg stvaratelja"
   ],
-  "FaHxWl": [
-    "Ovu opciju možeš ponovo uključiti kada poželiš u postavkama."
-  ],
   "FaXGO/": [
     "- Ništa navedeno -"
   ],
@@ -45738,6 +45704,9 @@
       "maxLength"
     ],
     ")."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Prikaži još ",
@@ -46698,6 +46667,13 @@
   "G5FsgF": [
     "Isle of Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Nakon što odgovore na pitanja tijekom integracije, članovi će trebati prihvatiti Pravila servera."
   ],
@@ -47057,9 +47033,6 @@
   ],
   "G9JfLg": [
     "To uključuje usluge trećih strana kojima si dao/la dozvole za pristup svom Discord računu. Možeš pregledati što svaka aplikacija može učiniti i opozvati pristup u svakom trenutku."
-  ],
-  "G9fGlP": [
-    "Dodaj u favorite"
   ],
   "G9koyR": [
     "Promocija povodom Noći vještica: prikupljeno ",
@@ -47826,23 +47799,6 @@
     ],
     " prije nego što zatražiš ovaj dar."
   ],
-  "GR2KOG": [
-    "Tvoji favoriti će biti sačuvani čak i ako isključiš ovu opciju. ",
-    [
-      8,
-      "$link",
-      [
-        "Doznaj više"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Nova kartica"
   ],
@@ -48194,6 +48150,9 @@
       "seatLabel"
     ],
     " s kontrolerom"
+  ],
+  "GZsvDx": [
+    "Popularne igre"
   ],
   "GZvXuP": [
     "Unaprijeđena dopuštenja pružaju veće razine pristupa postavkama servera i smiju se dodjeljivati samo vrlo pouzdanim moderatorima."
@@ -51034,14 +50993,6 @@
   ],
   "HespNQ": [
     "Traži isječke"
-  ],
-  "Hevebj": [
-    "Dodaj ",
-    [
-      1,
-      "name"
-    ],
-    " u omiljene"
   ],
   "HewMzo": [
     "Reddit post, Zendesk ticket, Tweet?"
@@ -60449,14 +60400,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Dodaj u favorite (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "No problem"
   ],
@@ -61444,23 +61387,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Desnom tipkom miša klikni bilo koji kanal ili direktnu poruku i ",
-    [
-      8,
-      "$link",
-      [
-        "dodaj u svoje omiljene"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " kako bi im mogao/la brzo pristupiti."
   ],
   "LykQYk": [
     "E-mail za potvrdu"
@@ -62659,6 +62585,9 @@
   "MPFyJ5": [
     "Pretplatnici na Nitro dobivaju popust na ovaj ukras"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     "Grupa korisnika ",
     [
@@ -63112,6 +63041,9 @@
   ],
   "Mb0cJJ": [
     "Dulje poruke (do 4.000 znakova)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -67934,9 +67866,6 @@
   "OSvmfH": [
     "Pročitaj informacije o članu (nadimak, avatar, uloga, etc...) za server kojem pripadaš"
   ],
-  "OT1NK5": [
-    "Prikaži server Omiljeni"
-  ],
   "OTHOvZ": [
     "Ovoga mjeseca: ",
     [
@@ -71502,9 +71431,6 @@
   ],
   "PpoJzt": [
     "Tvoj dar"
-  ],
-  "PprSsy": [
-    "Upravljaj omiljenima"
   ],
   "PqEzn8": [
     "Nikada"
@@ -76318,9 +76244,6 @@
   "Rp2AbV": [
     "Badge s krunom"
   ],
-  "Rp35U1": [
-    "Dodaj u favorite"
-  ],
   "RpE9k7": [
     "Označi kao nepročitano"
   ],
@@ -78598,44 +78521,6 @@
   "SgjaXI": [
     "Pokreće se"
   ],
-  "SgkNaU": [
-    "Poništen je odabir ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "nijedan predmet nije odabran"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " odabrani predmet"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " odabrana predmeta"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " odabranih predmeta"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Nemaš dopuštenje za prilaganje datoteka"
   ],
@@ -80199,9 +80084,6 @@
   "TN+ZvB": [
     "Pretpregled tvojeg opisa avatara u chatu"
   ],
-  "TN4nAX": [
-    "Ukloni iz favorita"
-  ],
   "TNLcpx": [
     "sliku"
   ],
@@ -80671,9 +80553,6 @@
       ]
     ],
     " uz Nitro"
-  ],
-  "TWuDTt": [
-    "Dodaj još favorita"
   ],
   "TWz/S+": [
     "Discord te može spojiti s prijateljima i pomoći im da te pronađu. Redovito ćemo primati tvoje kontakte. ",
@@ -88731,9 +88610,6 @@
   "WaL+LA": [
     "Lijevi kutak"
   ],
-  "WaP/lz": [
-    "Dodaj najbolje kanale i direktne poruke svoje favorite kako bi im mogao/la brzo pristupi. Samo uz Nitro."
-  ],
   "WaSgzk": [
     "Postavi zadani spori način rada niti na ",
     [
@@ -89610,9 +89486,6 @@
   ],
   "WsTHkY": [
     "Prikaži Kako to funkcionira"
-  ],
-  "WsUrMD": [
-    "Popunjeno"
   ],
   "WsUuTt": [
     "Postavi"
@@ -90505,6 +90378,9 @@
   ],
   "XFYW1o": [
     "Pretraživanje svih korisnika"
+  ],
+  "XFZr3P": [
+    "Pretplate"
   ],
   "XFa6Q8": [
     "Članovima će na stranici Kanali i uloge biti postavljena ova pitanja nakon što se pridruže tvojem serveru. Koristi ih za\ndodjeljivanje uloga koje članovi mogu odabrati kasnije, poput uloga za hvalisanje."
@@ -94224,9 +94100,6 @@
   "YkDjVM": [
     "Prečac"
   ],
-  "YkET6R": [
-    "Vrati izvorne omiljene"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -95325,23 +95198,6 @@
   ],
   "Z3G+8h": [
     "Korisnici kojima su poslane poruke ili kojima su upućeni pozivi"
-  ],
-  "Z3Hdr5": [
-    "Pritisni i zadrži bilo koji kanal ili direktnu poruku i ",
-    [
-      8,
-      "$link",
-      [
-        "dodaj u svoje omiljene"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " kako bi im mogao/la brzo pristupati."
   ],
   "Z3LquY": [
     "Pogledaj aktivnost prijatelja"
@@ -97657,9 +97513,6 @@
   "ZtiU7w": [
     "Način gledatelja"
   ],
-  "Ztl9ht": [
-    "Pritisni i zadrži bilo koji kanal ili direktnu poruku da ga/je dodaš u omiljene. Tako je jednostavno."
-  ],
   "Ztu2Yo": [
     "Trajanje utišavanja"
   ],
@@ -97901,9 +97754,6 @@
   ],
   "ZzcLhc": [
     "Ako smo pogriješili, potvrdi da si odrasla osoba"
-  ],
-  "ZzcwNk": [
-    "Prazni omiljene i vraća ih u početno stanje."
   ],
   "ZzdgUm": [
     "Nije moguće izraditi privatni kanal"
@@ -98338,9 +98188,6 @@
   ],
   "a9ngnE": [
     "Tražim nova ažuriranja"
-  ],
-  "aA0vO8": [
-    "Dodaj u favorite uz Nitro"
   ],
   "aA4Vce": [
     "Opcije izlaza"
@@ -100764,9 +100611,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Uzmi Nitro"
   ],
   "avs5Vg": [
     "Koji dio ne radi dobro?"
@@ -103794,9 +103638,6 @@
   ],
   "btxSdB": [
     "Onemogućeno slušanje na serveru"
-  ],
-  "bu/mLv": [
-    "Favoriti su stigli!"
   ],
   "bu5sya": [
     [
@@ -109204,9 +109045,6 @@
   ],
   "dW6EBf": [
     "Tvoja omiljena"
-  ],
-  "dW9Kov": [
-    "Dosegnuto je ograničenje omiljenih"
   ],
   "dWTAXT": [
     "Češka kruna"
@@ -117160,9 +116998,6 @@
     ],
     " mj"
   ],
-  "g2vHYJ": [
-    "Niti kojima se pridružiš idu u kategoriju „Automatski dodane niti”."
-  ],
   "g33r/P": [
     "Poruka"
   ],
@@ -120540,9 +120375,6 @@
   ],
   "hIErU3": [
     "Nema aktivnosti u proteklih 7 dana"
-  ],
-  "hINqUs": [
-    "Trebaš li još omiljenih?"
   ],
   "hISCms": [
     "Krajnje proste ili neugodne riječi"
@@ -129102,9 +128934,6 @@
   "kQ6oLs": [
     "Zimbabve"
   ],
-  "kQL9be": [
-    "Tražili smo posvuda. Nažalost, nema rezultata. Pridruži se serveru ili pokreni direktnu poruku da dodaš svoj prvi favorit."
-  ],
   "kQN/bi": [
     "Promijeni sortiranje za medijske postove"
   ],
@@ -130380,9 +130209,6 @@
   "kxNf2n": [
     "Uskoči u chat s prijateljima putem nove kartice Poruke"
   ],
-  "kxQJ7q": [
-    "Ovdje možeš dodati najbolje kanale i direktne poruke kako bi im mogao/la brzo pristupati."
-  ],
   "kxlybP": [
     "Ažuriraj povezane uloge"
   ],
@@ -130980,6 +130806,9 @@
   ],
   "l8YumU": [
     "Kap"
+  ],
+  "l8nVB9": [
+    "Brže pristupi emojiima"
   ],
   "l8rYLt": [
     "Tvoja poruka je preduga."
@@ -136595,44 +136424,6 @@
   "mvPFbA": [
     "Na svoj server dodaj vijesti tog kanala!"
   ],
-  "mvPjcC": [
-    "Odabrano je ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "nijedan predmet nije odabran"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " odabrani predmet"
-        ],
-        "few": [
-          [
-            7
-          ],
-          " odabrana predmeta"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " odabranih predmeta"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Dodaj upozorenje"
   ],
@@ -140548,9 +140339,6 @@
   ],
   "oHVeHc": [
     "Mogući spam"
-  ],
-  "oHWnLy": [
-    "Predloženi kanali"
   ],
   "oHdW+u": [
     "Bez poretka"
@@ -152259,6 +152047,9 @@
     ],
     "."
   ],
+  "sAYgZc": [
+    "Nijedno nije odbarano"
+  ],
   "sAfT1K": [
     "Slika nije uspješno učitana."
   ],
@@ -160627,6 +160418,9 @@
   "ujfP6f": [
     "Zahtjeva za prijateljstvom u igri"
   ],
+  "ujfS5V": [
+    "Dodirni da vidiš više prijedloga ili prevuci ulijevo za dodavanje svojoj poruci."
+  ],
   "ujnXus": [
     "Za kojom hranom sada žudiš?"
   ],
@@ -162156,9 +161950,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Baci pogled"
   ],
   "vN6XpQ": [
     "Iskoristi povećani broj dopuštenih znakova, raspričaj se."
@@ -165657,9 +165448,6 @@
       ]
     ]
   ],
-  "wh+Rz1": [
-    "Tvoji omiljeni razgovori svi su na jednom mjestu."
-  ],
   "wh9c5W": [
     "Svijetlo ljubičasta"
   ],
@@ -168421,9 +168209,6 @@
   ],
   "xKUoVq": [
     "Prikaži aplikaciju"
-  ],
-  "xKXcSu": [
-    "Dodaj u favorite"
   ],
   "xL7Cfe": [
     "Besplatno uzmi prvu godinu programa My Best Buy Plus™ (29,99 USD). Ostvari ",
@@ -171613,9 +171398,6 @@
       []
     ],
     ", možda će to riješiti tvoj problem."
-  ],
-  "yYVbdv": [
-    "Otključaj s Nitrom"
   ],
   "yYbR2r": [
     "Najveći dopušteni broj negativnih recenzija: ",

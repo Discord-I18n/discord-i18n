@@ -1189,9 +1189,6 @@
     ],
     " áruházból"
   ],
-  "+SuGKb": [
-    "Egy helyre tömörítheted a leggyakrabban használt csatornákat és DM-eket, hogy gyorsan hozzájuk férj."
-  ],
   "+Svv46": [
     "Ne bajlódj jelszóval!"
   ],
@@ -1484,7 +1481,12 @@
       2,
       "value"
     ],
-    " játékkal töltött nappal."
+    " játékkal töltött nappal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "+aRmAc": [
     "További játékszerver indítása"
@@ -1563,9 +1565,6 @@
   ],
   "+d9SH8": [
     "Hang átvitele a PlayStation-konzolra"
-  ],
-  "+dSwhE": [
-    "Kedvencek előnézete"
   ],
   "+dXJII": [
     "Angol, Egyesült Államok"
@@ -1691,9 +1690,6 @@
       "username"
     ],
     " képernyője"
-  ],
-  "+h9aza": [
-    "Megértettem"
   ],
   "+h9nJG": [
     "Bármilyen más előny?"
@@ -8219,9 +8215,6 @@
   "1QHJaW": [
     "Szervereknek kínált előnyök"
   ],
-  "1QJmIL": [
-    "Hozzáadás a kategóriához"
-  ],
   "1QLRYb": [
     "Kitűzve"
   ],
@@ -8909,9 +8902,6 @@
   "1mcPhC": [
     "Frissítsd az alkalmazásodat"
   ],
-  "1n0TGE": [
-    "Töltsd meg a Kedvenceket"
-  ],
   "1n6QXB": [
     "Válassz hangszűrőt, mondj valamit, és már indulhat is a móka!"
   ],
@@ -9355,9 +9345,6 @@
   "20piMS": [
     "Segíts, hogy a Szerverfelfedezés mindenki számára biztonságos legyen"
   ],
-  "20sYUU": [
-    "Nitro beszerzése"
-  ],
   "20tmSN": [
     "Havi orbszerzemények"
   ],
@@ -9558,9 +9545,6 @@
   ],
   "24xrGb": [
     "Érvénytelen bemenet"
-  ],
-  "25YCHl": [
-    "Hozzáadás a kedvencekhez"
   ],
   "25gfQX": [
     "Nincs hozzáférés"
@@ -12589,9 +12573,6 @@
   ],
   "3KomGa": [
     "Adj ajándékba Nitro-előfizetést!"
-  ],
-  "3KruG3": [
-    "Ugrás a szerverre"
   ],
   "3KwZ8n": [
     [
@@ -20776,9 +20757,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Hozzáadás a kedvencekhez"
-  ],
   "6klMOk": [
     "Jelentés elküldve a következőről: ",
     [
@@ -22549,9 +22527,6 @@
   ],
   "7WwAXh": [
     "Minden bénázást akár 4K-ban, 60 fps sebességgel oszthatsz meg."
-  ],
-  "7WwLnr": [
-    "Előnézet"
   ],
   "7X+3f8": [
     [
@@ -24362,9 +24337,6 @@
   ],
   "8F6hKS": [
     "Saját jelszó használata"
-  ],
-  "8FO0y9": [
-    "Kedvencek elrejtése"
   ],
   "8FZfNo": [
     [
@@ -33793,7 +33765,12 @@
       2,
       "value"
     ],
-    " egyedi játékkal."
+    " egyedi játékkal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "CHa0vN": [
     "A termék nem érhető el"
@@ -34633,9 +34610,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Kedvencek"
-  ],
   "CgyVP+": [
     [
       8,
@@ -35472,19 +35446,6 @@
   "D7HSLJ": [
     "Manuális klipek"
   ],
-  "D7S0Zo": [
-    "Csak ",
-    [
-      2,
-      "count"
-    ],
-    " ingyenes kedvencként megjelölés engedélyezett. Ha megvásárlod a Nitrót, akár ",
-    [
-      2,
-      "maxCount"
-    ],
-    " csatornát és DM-et adhatsz hozzá."
-  ],
   "D7Sngz": [
     "Felhasználók, akiket felhívott"
   ],
@@ -35720,9 +35681,6 @@
   "DFSvTt": [
     "Hivatkozások"
   ],
-  "DFjrWw": [
-    "Kattints a jobb egérgombbal bármelyik csatornára vagy DM-re, hogy hozzáadd a Kedvencekhez. Ennyire egyszerű az egész."
-  ],
   "DFlDaE": [
     "Előnyök importálása"
   ],
@@ -35774,9 +35732,6 @@
       "price"
     ],
     " összeg fizetése"
-  ],
-  "DIyQIF": [
-    "Automatikusan hozzáadott gondolatmenetek"
   ],
   "DJ+bGu": [
     "A rangod és az ikonod"
@@ -39442,9 +39397,6 @@
   "F3bDaX": [
     "A privát csatornák eseményeit csak azok láthatják, akik hozzáférnek a csatornához."
   ],
-  "F3dWTe": [
-    "Javasolt csatornák elvetése"
-  ],
   "F3qExp": [
     "Kilépés"
   ],
@@ -40560,9 +40512,6 @@
   "Fa8W1W": [
     "Következő kiemelt tartalomkészítő megtekintése"
   ],
-  "FaHxWl": [
-    "Ezt bármikor visszakapcsolhatod a Beállítások pontban."
-  ],
   "FaXGO/": [
     "- Nincs megadva -"
   ],
@@ -40610,6 +40559,9 @@
       "maxLength"
     ],
     "."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     [
@@ -41471,6 +41423,13 @@
   "G5FsgF": [
     "Man-sziget"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "A beléptetés során feltett kérdések után a rendszer megkéri a tagokat, hogy fogadják el a szerverszabályokat."
   ],
@@ -41760,9 +41719,6 @@
   ],
   "G9JfLg": [
     "Olyan, külső szolgáltatások is idetartoznak, amelyeknek engedélyezted a Discord-fiókod elérését. Áttekintheted, mire jogosultak az egyes alkalmazások, és bármikor visszavonhatod a hozzáférést."
-  ],
-  "G9fGlP": [
-    "Hozzáadás a kedvencekhez"
   ],
   "G9koyR": [
     "Halloweeni promóció: ",
@@ -42475,23 +42431,6 @@
     ],
     " az ajándék igénylése előtt."
   ],
-  "GR2KOG": [
-    "A kedvenceid akkor is mentve maradnak, ha kikapcsoltra állítod ezt a váltógombot. ",
-    [
-      8,
-      "$link",
-      [
-        "További tájékoztatás"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Új lap"
   ],
@@ -42788,6 +42727,9 @@
       "seatLabel"
     ],
     "), vezérlővel"
+  ],
+  "GZsvDx": [
+    "Népszerű játékok"
   ],
   "GZvXuP": [
     "A magasabb szintű jogosultságok nagyobb mértékű hozzáférést biztosítanak a szerverbeállításokhoz, és kizárólag rendívül megbízható moderátorok számára adhatók meg."
@@ -45304,13 +45246,6 @@
   ],
   "HespNQ": [
     "Keresés a klipek között"
-  ],
-  "Hevebj": [
-    [
-      1,
-      "name"
-    ],
-    " hozzáadása a Kedvencekhez"
   ],
   "HewMzo": [
     "Reddit-bejegyzés, Zendesk-jegy, tweet?"
@@ -53695,14 +53630,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Hozzáadás a Kedvencekhez (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "Semmi probléma"
   ],
@@ -54577,23 +54504,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Kattints a jobb egérgombbal bármelyik csatornára vagy DM-re, és ",
-    [
-      8,
-      "$link",
-      [
-        "add hozzá a Kedvencekhez"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", hogy gyorsan hozzájuk férj."
   ],
   "LykQYk": [
     "Hitelesítő e-mail"
@@ -55689,6 +55599,9 @@
   "MPFyJ5": [
     "A Nitro-előfizetők kedvezményesen vásárolhatják meg ezt a dekorációt"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     [
       1,
@@ -56113,6 +56026,9 @@
   ],
   "Mb0cJJ": [
     "Hosszabb üzenetek (4000 karakterig)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -60477,9 +60393,6 @@
   "OSvmfH": [
     "Olvasd el a tagok adatait (becenév, profilkép, rang stb.) azon szerverekre vonatkozóan, amelyeknek a tagja vagy"
   ],
-  "OT1NK5": [
-    "Kedvencek szerver megjelenítése"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -63811,9 +63724,6 @@
   ],
   "PpoJzt": [
     "Az ajándékod"
-  ],
-  "PprSsy": [
-    "Kedvencek kezelése"
   ],
   "PqEzn8": [
     "Soha"
@@ -68167,9 +68077,6 @@
   "Rp2AbV": [
     "Korona jelvény"
   ],
-  "Rp35U1": [
-    "Hozzáadás a kedvencekhez"
-  ],
   "RpE9k7": [
     "Megjelölés olvasatlannak"
   ],
@@ -70154,37 +70061,6 @@
   "SgjaXI": [
     "Elindítás"
   ],
-  "SgkNaU": [
-    [
-      1,
-      "name"
-    ],
-    " kiválasztása megszüntetve. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Nincsenek kiválasztott elemek"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " elem kiválasztva"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " elem kiválasztva"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Nincs jogosultságod fájlok csatolásához"
   ],
@@ -71556,9 +71432,6 @@
   "TN+ZvB": [
     "A profilkép-dekorációd előnézetének megtekintése a csevegésben"
   ],
-  "TN4nAX": [
-    "Eltávolítás a kedvencek közül"
-  ],
   "TNLcpx": [
     "kép"
   ],
@@ -71949,9 +71822,6 @@
       ]
     ],
     " Nitróval"
-  ],
-  "TWuDTt": [
-    "További kedvencek hozzáadása"
   ],
   "TWz/S+": [
     "A Discord összeköthet barátaiddal és segíthet abban, hogy megtaláljanak. Rendszeresen megkapjuk a névjegyzékedet. ",
@@ -79254,9 +79124,6 @@
   "WaL+LA": [
     "Bal oldali pihenő"
   ],
-  "WaP/lz": [
-    "Hozzáadhatod a Kedvencekhez a kedvenc csatornáidat és DM-jeidet a gyors hozzáférés érdekében. Kizárólag a Nitróval."
-  ],
   "WaSgzk": [
     "Alapértelmezett gondolatmenet lassú módjának beállítása ",
     [
@@ -80071,9 +79938,6 @@
   ],
   "WsTHkY": [
     "A „Hogyan működik?” megjelenítése"
-  ],
-  "WsUrMD": [
-    "Tele"
   ],
   "WsUuTt": [
     "Beállítás"
@@ -80943,6 +80807,9 @@
   ],
   "XFYW1o": [
     "Keresés az összes felhasználó között"
+  ],
+  "XFZr3P": [
+    "Előfizetések"
   ],
   "XFa6Q8": [
     "A tagoknak meg kell válaszolniuk ezeket a kérdéseket a Csatornák és rangok oldalon, miután csatlakoznak a szerveredhez. A segítségükkel\nolyan rangokat rendelhetsz hozzá, amelyekből a tagok később választhatnak (például egyedi rangok)."
@@ -84257,9 +84124,6 @@
   "YkDjVM": [
     "Gyorsgomb"
   ],
-  "YkET6R": [
-    "Kedvencek visszaállítása"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -85262,23 +85126,6 @@
   ],
   "Z3G+8h": [
     "Felhasználók, akiknek üzenetet küldtél vagy felhívtál"
-  ],
-  "Z3Hdr5": [
-    "Tartsd lenyomva bármelyik csatornát vagy DM-et, és ",
-    [
-      8,
-      "$link",
-      [
-        "add hozzá a Kedvencekhez"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", hogy gyorsan hozzájuk férj."
   ],
   "Z3LquY": [
     "Barátok tevékenységének megtekintése"
@@ -87372,9 +87219,6 @@
   "ZtiU7w": [
     "Néző mód"
   ],
-  "Ztl9ht": [
-    "Nyomd meg hosszan bármelyik csatornát vagy DM-et, hogy hozzáadd a Kedvencekhez. Ennyire egyszerű az egész."
-  ],
   "Ztu2Yo": [
     "Némítás időtartama"
   ],
@@ -87622,9 +87466,6 @@
   ],
   "ZzcLhc": [
     "Ha tévedtünk, erősítsd meg, hogy felnőtt vagy"
-  ],
-  "ZzcwNk": [
-    "Kiüríti a Kedvenceket, és visszaállítja az első futtatáskori állapotot."
   ],
   "ZzdgUm": [
     "Nem lehet priváttá tenni a csatornát"
@@ -88046,9 +87887,6 @@
   ],
   "a9ngnE": [
     "Frissítések keresése"
-  ],
-  "aA0vO8": [
-    "A Nitróval hozzáadhatod a Kedvencekhez"
   ],
   "aA4Vce": [
     "Kimeneti beállítások"
@@ -90381,9 +90219,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Nitro beszerzése"
   ],
   "avs5Vg": [
     "Mi nem működik jól?"
@@ -93212,9 +93047,6 @@
   ],
   "btxSdB": [
     "Szerver süketítve"
-  ],
-  "bu/mLv": [
-    "Itt vannak a kedvencek!"
   ],
   "bu5sya": [
     [
@@ -98240,9 +98072,6 @@
   ],
   "dW6EBf": [
     "A kedvenced"
-  ],
-  "dW9Kov": [
-    "Kedvencekre vonatkozó limit elérve"
   ],
   "dWTAXT": [
     "Cseh korona"
@@ -105644,9 +105473,6 @@
     ],
     " hónapja volt aktív"
   ],
-  "g2vHYJ": [
-    "A gondolatmenetek, amelyekhez csatlakozol, az „Automatikusan hozzáadott gondolatmenetek” kategóriába kerülnek."
-  ],
   "g33r/P": [
     "Üzenet"
   ],
@@ -108725,9 +108551,6 @@
   ],
   "hIErU3": [
     "Nem észlelhető tevékenység az elmúlt 7 napban"
-  ],
-  "hINqUs": [
-    "További kedvenceket szeretnél hozzáadni?"
   ],
   "hISCms": [
     "Extrém mértékű káromkodás vagy szitkozódás"
@@ -116468,9 +116291,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "Mindenütt szétnéztünk, de sajnos nincs találat. Csatlakozz egy szerverhez, vagy indíts DM-et az első kedvenc elemed hozzáadásához."
-  ],
   "kQN/bi": [
     "Rendezés módosítása a médiabejegyzéseknél"
   ],
@@ -117616,9 +117436,6 @@
   "kxNf2n": [
     "Az új Üzenetek lapon azonnal fejest ugorhatsz a csevegésbe a barátaiddal"
   ],
-  "kxQJ7q": [
-    "Itt hozzáadhatod a kedvenc csatornáidat és DM-jeidet a gyors hozzáférés érdekében."
-  ],
   "kxlybP": [
     "Összekapcsolt rangok módosítása"
   ],
@@ -118187,6 +118004,9 @@
   ],
   "l8YumU": [
     "Csöpögős"
+  ],
+  "l8nVB9": [
+    "Gyorsabban elérheted az emotikonokat"
   ],
   "l8rYLt": [
     "Túl hosszú az üzeneted."
@@ -118951,27 +118771,16 @@
     "Comore-szigetek"
   ],
   "lW/66D": [
-    "{minutes, count} perc ",
     [
-      6,
-      "seconds",
-      {
-        "one": [
-          [
-            7
-          ],
-          " perc"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " másodperc"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
+      2,
+      "minutes"
+    ],
+    " perc ",
+    [
+      2,
+      "seconds"
+    ],
+    " másodperc"
   ],
   "lWDPcO": [
     "Képernyőkép"
@@ -123698,37 +123507,6 @@
   "mvPFbA": [
     "A csatorna frissítéseinek hozzáadása a szerveredhez."
   ],
-  "mvPjcC": [
-    [
-      1,
-      "name"
-    ],
-    " kiválasztva. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Nincsenek kiválasztott elemek"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " elem kiválasztva"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " elem kiválasztva"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Figyelmeztetés hozzáadása"
   ],
@@ -127309,9 +127087,6 @@
   ],
   "oHVeHc": [
     "Potenciális kéretlen tartalom"
-  ],
-  "oHWnLy": [
-    "Javasolt csatornák"
   ],
   "oHdW+u": [
     "Nem rangsorolt"
@@ -137972,6 +137747,9 @@
     ],
     " találsz."
   ],
+  "sAYgZc": [
+    "Semmi nincs kiválasztva"
+  ],
   "sAfT1K": [
     "Nem sikerült betölteni a képet."
   ],
@@ -145912,6 +145690,9 @@
   "ujfP6f": [
     "Játékon belüli barátkérelem"
   ],
+  "ujfS5V": [
+    "Koppints a további javaslatok megjelenítéséhez, vagy pöccints balra, ha hozzá szeretnéd adni az üzenetedhez."
+  ],
   "ujnXus": [
     "Milyen ételre vágysz?"
   ],
@@ -147337,9 +147118,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Megnézem"
   ],
   "vN6XpQ": [
     "Oszd meg gondolataidat megnövelt karakterszámban!"
@@ -150604,9 +150382,6 @@
       ]
     ]
   ],
-  "wh+Rz1": [
-    "A kedvenc beszélgetéseid – mind egy helyen."
-  ],
   "wh9c5W": [
     "Mályva"
   ],
@@ -153189,9 +152964,6 @@
   ],
   "xKUoVq": [
     "Alkalmazás megtekintése"
-  ],
-  "xKXcSu": [
-    "Hozzáadás a kedvencekhez"
   ],
   "xL7Cfe": [
     "Az első évben ingyenesen lehet a tiéd a My Best Buy Plus™ (érték: 29,99 USD). ",
@@ -156000,9 +155772,6 @@
       []
     ],
     "."
-  ],
-  "yYVbdv": [
-    "Feloldás Nitróval"
   ],
   "yYbR2r": [
     "Legfeljebb ",

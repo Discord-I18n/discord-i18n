@@ -1295,9 +1295,6 @@
     ],
     " Shop"
   ],
-  "+SuGKb": [
-    "Bring your most-used channels and DMs together for quick access."
-  ],
   "+Svv46": [
     "Forget about your password"
   ],
@@ -1653,7 +1650,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "+aRmAc": [
     "Start another game server"
@@ -1733,9 +1735,6 @@
   ],
   "+d9SH8": [
     "Transfer Voice to PlayStation"
-  ],
-  "+dSwhE": [
-    "Preview Favourites"
   ],
   "+dXJII": [
     "English, US"
@@ -1875,9 +1874,6 @@
       "username"
     ],
     "'s Screen"
-  ],
-  "+h9aza": [
-    "Got it"
   ],
   "+h9nJG": [
     "Any other benefits?"
@@ -9126,9 +9122,6 @@
   "1QHJaW": [
     "Benefits for Servers"
   ],
-  "1QJmIL": [
-    "Add to Category"
-  ],
   "1QLRYb": [
     "Pinned"
   ],
@@ -9819,9 +9812,6 @@
   "1mcPhC": [
     "Update your app"
   ],
-  "1n0TGE": [
-    "Fill up your Favourites"
-  ],
   "1n6QXB": [
     "Equip a voice filter, say something and let the fun begin!"
   ],
@@ -10298,9 +10288,6 @@
   "20piMS": [
     "Help keep Server Discovery safe for everyone"
   ],
-  "20sYUU": [
-    "Get Nitro"
-  ],
   "20tmSN": [
     "Monthly Orbs drops"
   ],
@@ -10502,9 +10489,6 @@
   ],
   "24xrGb": [
     "Invalid Input"
-  ],
-  "25YCHl": [
-    "Add to Favourites"
   ],
   "25gfQX": [
     "No Access"
@@ -13865,9 +13849,6 @@
   ],
   "3KomGa": [
     "Give the gift of Nitro"
-  ],
-  "3KruG3": [
-    "Go to Server"
   ],
   "3KwZ8n": [
     [
@@ -23000,9 +22981,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Add to Favourites"
-  ],
   "6klMOk": [
     "Report sent for: ",
     [
@@ -24918,9 +24896,6 @@
   ],
   "7WwAXh": [
     "Share every clutch moment in up to 4K at 60 fps."
-  ],
-  "7WwLnr": [
-    "Preview"
   ],
   "7X+3f8": [
     [
@@ -26876,9 +26851,6 @@
   ],
   "8F6hKS": [
     "Use your password"
-  ],
-  "8FO0y9": [
-    "Hide Favourites"
   ],
   "8FZfNo": [
     [
@@ -37361,7 +37333,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " and ",
+    [
+      1,
+      "gameTime"
+    ],
+    " of game time."
   ],
   "CHa0vN": [
     "Product Unavailable"
@@ -38265,9 +38242,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Favourites"
-  ],
   "CgyVP+": [
     [
       8,
@@ -39139,19 +39113,6 @@
   "D7HSLJ": [
     "Manual clips"
   ],
-  "D7S0Zo": [
-    "Free Favourites are limited to ",
-    [
-      2,
-      "count"
-    ],
-    ". Get Nitro to add up to ",
-    [
-      2,
-      "maxCount"
-    ],
-    " channels and DMs."
-  ],
   "D7Sngz": [
     "Users called"
   ],
@@ -39425,9 +39386,6 @@
   "DFSvTt": [
     "Links"
   ],
-  "DFjrWw": [
-    "Right-click any channel or DM to add it to Favourites. It’s that easy."
-  ],
   "DFlDaE": [
     "Import Benefits"
   ],
@@ -39479,9 +39437,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Auto-Add Threads"
   ],
   "DJ+bGu": [
     "Your role and icon"
@@ -43496,9 +43451,6 @@
   "F3bDaX": [
     "Events in private channels will only be visible to people who can access that channel."
   ],
-  "F3dWTe": [
-    "Dismiss suggested channels"
-  ],
   "F3qExp": [
     "Leave"
   ],
@@ -44694,9 +44646,6 @@
   "Fa8W1W": [
     "See next creator highlight"
   ],
-  "FaHxWl": [
-    "Turn this back on at any time in Settings."
-  ],
   "FaXGO/": [
     "- None provided -"
   ],
@@ -44744,6 +44693,9 @@
       "maxLength"
     ],
     "-character count limit."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "View ",
@@ -45687,6 +45639,13 @@
   "G5FsgF": [
     "Isle of Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Members will be asked to accept Server Rules after questions in Onboarding."
   ],
@@ -46013,9 +45972,6 @@
   ],
   "G9JfLg": [
     "These include third-party services you've given permission to access your Discord account. You can review what each app can do and revoke access anytime."
-  ],
-  "G9fGlP": [
-    "Add to Favourites"
   ],
   "G9koyR": [
     "Halloween Promo: ",
@@ -46793,23 +46749,6 @@
     ],
     " before claiming this gift."
   ],
-  "GR2KOG": [
-    "Your Favourites stay saved, even if you toggle this off. ",
-    [
-      8,
-      "$link",
-      [
-        "Learn more"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "New Tab"
   ],
@@ -47158,6 +47097,9 @@
       "seatLabel"
     ],
     ", with a controller"
+  ],
+  "GZsvDx": [
+    "Popular Games"
   ],
   "GZvXuP": [
     "Elevated permissions grant higher levels of access to server settings and should only be granted to highly trusted mods."
@@ -49945,14 +49887,6 @@
   ],
   "HespNQ": [
     "Search clips"
-  ],
-  "Hevebj": [
-    "Add ",
-    [
-      1,
-      "name"
-    ],
-    " to Favourites"
   ],
   "HewMzo": [
     "Reddit post, Zendesk ticket, Tweet?"
@@ -59255,14 +59189,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Add to Favourites (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "No problem"
   ],
@@ -60262,23 +60188,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Right-click any channel or DM and ",
-    [
-      8,
-      "$link",
-      [
-        "add to your Favourites"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for quick access."
   ],
   "LykQYk": [
     "Verification Email"
@@ -61442,6 +61351,9 @@
   "MPFyJ5": [
     "Nitro subscribers get a discount on this decoration"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     [
       1,
@@ -61894,6 +61806,9 @@
   ],
   "Mb0cJJ": [
     "Longer messages (up to 4,000 characters)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -66616,9 +66531,6 @@
   "OSvmfH": [
     "Read member info (nickname, avatar, roles etc.) for servers you belong to"
   ],
-  "OT1NK5": [
-    "Show Favourites server"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -70180,9 +70092,6 @@
   "PpoJzt": [
     "Your gift"
   ],
-  "PprSsy": [
-    "Manage Favourites"
-  ],
   "PqEzn8": [
     "Never"
   ],
@@ -73633,11 +73542,37 @@
   "RH3VAx": [
     "Must have at least ",
     [
-      8,
-      "metadataHook",
-      []
-    ],
-    " positive feedback review(s)"
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " positive feedback review"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " positive feedback reviews"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "RHAAkK": [
     "Gift Discord Nitro"
@@ -74883,9 +74818,6 @@
   ],
   "Rp2AbV": [
     "Crown badge"
-  ],
-  "Rp35U1": [
-    "Add to Favourites"
   ],
   "RpE9k7": [
     "Mark Unread"
@@ -77139,38 +77071,6 @@
   "SgjaXI": [
     "Starting"
   ],
-  "SgkNaU": [
-    "Unselected ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "No items selected"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " item selected"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " items selected"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "You don't have permission to attach files"
   ],
@@ -78688,9 +78588,6 @@
   "TN+ZvB": [
     "Preview of your avatar decoration in the chat"
   ],
-  "TN4nAX": [
-    "Remove from Favourites"
-  ],
   "TNLcpx": [
     "image"
   ],
@@ -79126,9 +79023,6 @@
       ]
     ],
     " with Nitro"
-  ],
-  "TWuDTt": [
-    "Add more Favourites"
   ],
   "TWz/S+": [
     "Discord can connect you with your friends and help them find you. Your contacts will be regularly sent to us. ",
@@ -87018,9 +86912,6 @@
   "WaL+LA": [
     "Left Lounge"
   ],
-  "WaP/lz": [
-    "Add top channels and DMs to your Favourites for quick access. Only with Nitro."
-  ],
   "WaSgzk": [
     "Set default thread slowmode to ",
     [
@@ -87912,9 +87803,6 @@
   "WsTHkY": [
     "Show How It Works"
   ],
-  "WsUrMD": [
-    "Full"
-  ],
   "WsUuTt": [
     "Set up"
   ],
@@ -88801,6 +88689,9 @@
   ],
   "XFYW1o": [
     "Searching All Users"
+  ],
+  "XFZr3P": [
+    "Subscriptions"
   ],
   "XFa6Q8": [
     "Members will be asked these questions after they join your server, on the Channels & Roles page. Use them to\nassign roles that members can pick later, like vanity roles."
@@ -92467,9 +92358,6 @@
   "YkDjVM": [
     "Shortcut"
   ],
-  "YkET6R": [
-    "Reset Favourites"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -93552,23 +93440,6 @@
   ],
   "Z3G+8h": [
     "Users messaged or called"
-  ],
-  "Z3Hdr5": [
-    "Press and hold any channel or DM and ",
-    [
-      8,
-      "$link",
-      [
-        "add to your Favourites"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for quick access."
   ],
   "Z3LquY": [
     "See friend activity"
@@ -95863,9 +95734,6 @@
   "ZtiU7w": [
     "Spectator Mode"
   ],
-  "Ztl9ht": [
-    "Press and hold any channel or DM to add it to Favourites. It’s that easy."
-  ],
   "Ztu2Yo": [
     "Mute duration"
   ],
@@ -96134,9 +96002,6 @@
   ],
   "ZzcLhc": [
     "If we’ve got it wrong, confirm that you’re an adult"
-  ],
-  "ZzcwNk": [
-    "Empties Favourites and restores its first-run state."
   ],
   "ZzdgUm": [
     "Cannot Make Channel Private"
@@ -96567,9 +96432,6 @@
   ],
   "a9ngnE": [
     "Checking for Updates"
-  ],
-  "aA0vO8": [
-    "Favourite this with Nitro"
   ],
   "aA4Vce": [
     "Output Options"
@@ -98598,9 +98460,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Get Nitro"
   ],
   "avs5Vg": [
     "What isn’t working well?"
@@ -100901,9 +100760,6 @@
   ],
   "btxSdB": [
     "Server Deafened"
-  ],
-  "bu/mLv": [
-    "Favourites are here!"
   ],
   "bu5sya": [
     [
@@ -105054,9 +104910,6 @@
   ],
   "dW6EBf": [
     "Your favourite"
-  ],
-  "dW9Kov": [
-    "Favourites limit reached"
   ],
   "dWTAXT": [
     "Czech Koruna"
@@ -111666,9 +111519,6 @@
     ],
     " months ago"
   ],
-  "g2vHYJ": [
-    "Threads you join go to an ‘Auto-Added Threads’ category."
-  ],
   "g33r/P": [
     "Message"
   ],
@@ -114760,9 +114610,6 @@
   ],
   "hIErU3": [
     "No activity over the last 7 days"
-  ],
-  "hINqUs": [
-    "Need more Favourites?"
   ],
   "hISCms": [
     "Extreme forms of swearing or cursing"
@@ -122416,9 +122263,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "We searched far and wide. Unfortunately, no results were found. Join a server or start a DM to add your first Favourite."
-  ],
   "kQN/bi": [
     "Change the sort for Media Posts"
   ],
@@ -123517,9 +123361,6 @@
   "kxNf2n": [
     "Jump into a chat with your friends in the new Messages tab"
   ],
-  "kxQJ7q": [
-    "Add top channels and DMs here for quick access."
-  ],
   "kxlybP": [
     "Update Linked Roles"
   ],
@@ -124119,6 +123960,9 @@
   ],
   "l8YumU": [
     "Drip"
+  ],
+  "l8nVB9": [
+    "Access emojis faster"
   ],
   "l8rYLt": [
     "Your message is too long."
@@ -128264,38 +128108,6 @@
   "mvPFbA": [
     "Add this channel's updates to your server!"
   ],
-  "mvPjcC": [
-    "Selected ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "No items selected"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " item selected"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " items selected"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Add Alert"
   ],
@@ -131867,9 +131679,6 @@
   ],
   "oHVeHc": [
     "Potential Spam"
-  ],
-  "oHWnLy": [
-    "Suggested Channels"
   ],
   "oHdW+u": [
     "Unranked"
@@ -141649,6 +141458,9 @@
     ],
     " for more info."
   ],
+  "sAYgZc": [
+    "None Selected"
+  ],
   "sAfT1K": [
     "Image failed to load."
   ],
@@ -143218,11 +143030,37 @@
   "sn3m7v": [
     "Must have at most ",
     [
-      8,
-      "metadataHook",
-      []
-    ],
-    " negative feedback review(s)"
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " negative feedback review"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " negative feedback reviews"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "sn5Z8t": [
     "Create a server for your community"
@@ -148113,6 +147951,9 @@
   "ujfP6f": [
     "Game Friend Request"
   ],
+  "ujfS5V": [
+    "Tap to see more suggestions or swipe left to add to your message."
+  ],
   "ujnXus": [
     "Food you’re craving now?"
   ],
@@ -149562,9 +149403,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Check it out"
   ],
   "vN6XpQ": [
     "Say what's on your mind with an increased character count."
@@ -152835,9 +152673,6 @@
       ]
     ]
   ],
-  "wh+Rz1": [
-    "Your favourite conversations, all in one place."
-  ],
   "wh9c5W": [
     "Mauve"
   ],
@@ -154877,9 +154712,6 @@
   ],
   "xKUoVq": [
     "View App"
-  ],
-  "xKXcSu": [
-    "Add to Favourites"
   ],
   "xL7Cfe": [
     "Get your first year of My Best Buy Plus™ ($29.99) free. Earn ",
@@ -158034,9 +157866,6 @@
       []
     ],
     " to see if that resolves your issue."
-  ],
-  "yYVbdv": [
-    "Unlock with Nitro"
   ],
   "yYbR2r": [
     "Must have at most ",
