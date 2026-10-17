@@ -2563,6 +2563,30 @@
     ],
     "."
   ],
+  "+y7hwg": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Every ",
+          [
+            7
+          ],
+          " minute"
+        ],
+        "other": [
+          "Every ",
+          [
+            7
+          ],
+          " minutes"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "+yF0ds": [
     "Removed ",
     [
@@ -7778,6 +7802,14 @@
   ],
   "0iUofN": [
     "Upload an image under 256kb. We recommend at least 96x96 pixels."
+  ],
+  "0ikIhz": [
+    "Last run: ",
+    [
+      1,
+      "time"
+    ],
+    ", nothing new to publish"
   ],
   "0jRosn": [
     "Channel Preferences"
@@ -25093,6 +25125,9 @@
   ],
   "71wuR0": [
     "A title is required"
+  ],
+  "71yzD9": [
+    "Loading publishing schedule…"
   ],
   "72+Sos": [
     "Manage Tiers"
@@ -44290,6 +44325,9 @@
       "cardinal"
     ]
   ],
+  "EXceox": [
+    "Could not turn on automatic publishing. Try again."
+  ],
   "EXfguE": [
     "Summarize Thread"
   ],
@@ -45209,6 +45247,9 @@
       ]
     ],
     " asked you to stream"
+  ],
+  "EuhBSG": [
+    "Turn on"
   ],
   "Eukdgl": [
     "Say it with a sticker"
@@ -51728,6 +51769,18 @@
   "HM2fjf": [
     "HM2fjf"
   ],
+  "HMNRj4": [
+    "Last run failed: ",
+    [
+      1,
+      "time"
+    ],
+    ". ",
+    [
+      1,
+      "error"
+    ]
+  ],
   "HMSHeH": [
     "Personalize your presence in different servers with unique avatar decorations and profile effects."
   ],
@@ -56584,6 +56637,9 @@
   ],
   "J7Qp1i": [
     "Malta"
+  ],
+  "J7ZMMf": [
+    "Delete schedule"
   ],
   "J7dBxa": [
     "Share Conversation"
@@ -64402,6 +64458,9 @@
       ]
     ],
     " to the group."
+  ],
+  "MMWEH2": [
+    "App preview is paused"
   ],
   "MMYAI6": [
     "Vietnamese"
@@ -72716,6 +72775,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "PPYvuv": [
+    "Launch App"
   ],
   "PPaJSw": [
     [
@@ -81173,6 +81235,14 @@
   "SmjogN": [
     "Kick All"
   ],
+  "Sn7icL": [
+    "You must be at least ",
+    [
+      1,
+      "minAge"
+    ],
+    " years old to use Discord."
+  ],
   "SnBmuY": [
     "Advanced mode: give me all the buttons and dials!"
   ],
@@ -81810,6 +81880,13 @@
   ],
   "T/Ufh9": [
     "You can't use some parts of Discord. You may be suspended if you break the rules again."
+  ],
+  "T/dCkl": [
+    "Next scheduled publish: ",
+    [
+      1,
+      "time"
+    ]
   ],
   "T0ivgQ": [
     "Sync your channel members to roles and create an exclusive experience"
@@ -84307,6 +84384,9 @@
   ],
   "TvxInQ": [
     "Your Contacts"
+  ],
+  "Tw/KaB": [
+    "Delete this publishing schedule?"
   ],
   "Tw3a/R": [
     "Ignore Suggestion"
@@ -88005,6 +88085,9 @@
   "VHmOpK": [
     "Newest"
   ],
+  "VHxerm": [
+    "Pause App"
+  ],
   "VI0jGW": [
     "Preview"
   ],
@@ -89247,6 +89330,9 @@
   ],
   "VkKicb": [
     "Clear"
+  ],
+  "VkMnR2": [
+    "Close App"
   ],
   "VkR30M": [
     "Link your Discord account with ",
@@ -99090,6 +99176,9 @@
   "ZK9IyY": [
     "Mirage"
   ],
+  "ZKd2Cw": [
+    "Resume App"
+  ],
   "ZKhtw0": [
     "Turn on to hear yourself speak in a call, or while browsing voice filters."
   ],
@@ -100785,6 +100874,9 @@
   ],
   "ZtdF0+": [
     "Unavailable"
+  ],
+  "ZtfX9V": [
+    "Automatic publishing"
   ],
   "ZtggfH": [
     "art"
@@ -102709,6 +102801,14 @@
   ],
   "aeuOoh": [
     "Activities"
+  ],
+  "aewci7": [
+    "Cron schedule: ",
+    [
+      1,
+      "expression"
+    ],
+    " (UTC)"
   ],
   "af2Tw1": [
     "Share Stream Audio"
@@ -111322,6 +111422,9 @@
   "cxFiDC": [
     "Strong Language"
   ],
+  "cxNHma": [
+    "Replaces any current schedule. Publishes run as the project owner."
+  ],
   "cxSpOM": [
     "Stream Preview"
   ],
@@ -112662,6 +112765,9 @@
   ],
   "dRhrXh": [
     "Doing this will reset your search. Are you sure you want to continue?"
+  ],
+  "dRxtva": [
+    "Something went wrong."
   ],
   "dRycVz": [
     "Uncancel Now"
@@ -127281,6 +127387,9 @@
   "i5SQ74": [
     "Well, this is awkward."
   ],
+  "i5Xp1l": [
+    "Could not delete the publishing schedule. Try again."
+  ],
   "i5f3Uo": [
     "Revert"
   ],
@@ -127761,6 +127870,9 @@
   "iKHmu0": [
     "Canceled"
   ],
+  "iKSu55": [
+    "Conjure can keep working. If it needs to check the preview, it'll auto resume."
+  ],
   "iKTrxm": [
     "NEW! Super Reactions"
   ],
@@ -127814,6 +127926,9 @@
       "cardinal"
     ],
     " here."
+  ],
+  "iLTcFU": [
+    "Try again"
   ],
   "iLTeF6": [
     "Type a plus sign before an emoji name to turn it into a reaction."
@@ -132620,6 +132735,9 @@
   ],
   "k48xvV": [
     "You will not be able to change your selection after hitting confirm."
+  ],
+  "k4IRsm": [
+    "Automatic publishing is on."
   ],
   "k4L2xu": [
     "You cannot message blocked users"
@@ -137774,6 +137892,9 @@
     ],
     "."
   ],
+  "lwN30C": [
+    "Publishing schedule deleted."
+  ],
   "lwQdjB": [
     "Get Game"
   ],
@@ -142079,6 +142200,9 @@
   ],
   "n1sscC": [
     "Member rankings will show up here once there's enough gaming activity."
+  ],
+  "n25haz": [
+    "Could not load the publishing schedule. Try again."
   ],
   "n2I5mI": [
     "Discord is now on PlayStation!"
@@ -147295,6 +147419,13 @@
   "orScqP": [
     "See all private threads created by all users"
   ],
+  "orZDqY": [
+    "First publish: ",
+    [
+      1,
+      "time"
+    ]
+  ],
   "orange_book": [
     "book",
     "education",
@@ -151157,6 +151288,9 @@
   "ptxALO": [
     "Video Background Actions"
   ],
+  "ptzKKH": [
+    "Publishing schedule"
+  ],
   "pu6/U0": [
     "CONNECTED TEENS — ",
     [
@@ -151680,6 +151814,30 @@
   "q48BrB": [
     "Review Purchase"
   ],
+  "q4AgE/": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Every ",
+          [
+            7
+          ],
+          " hour"
+        ],
+        "other": [
+          "Every ",
+          [
+            7
+          ],
+          " hours"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "q4BJSJ": [
     "Yours to keep if you dare..."
   ],
@@ -152002,6 +152160,17 @@
   ],
   "qCL3jX": [
     "Psychic badge"
+  ],
+  "qCM+Fa": [
+    [
+      1,
+      "interval"
+    ],
+    ", starting ",
+    [
+      1,
+      "time"
+    ]
   ],
   "qCQzBl": [
     "user, bot or webhook"
@@ -153679,6 +153848,9 @@
     ],
     " files at a time!"
   ],
+  "qr1iIe": [
+    "Future publishes from this schedule will stop. You can ask the agent to set another schedule."
+  ],
   "qr8Cg3": [
     "Played by ",
     [
@@ -154202,6 +154374,9 @@
   ],
   "r23NoB": [
     "Remove from Stage"
+  ],
+  "r2AEw1": [
+    "You must meet the minimum age requirement in your country to use Discord."
   ],
   "r2ptsz": [
     "Select a Channel"
@@ -159665,6 +159840,9 @@
       "percent"
     ],
     "%"
+  ],
+  "sg8WIV": [
+    "Ask the agent to set a publish schedule."
   ],
   "sgIoin": [
     "(",
@@ -166503,6 +166681,9 @@
         ]
       ]
     ]
+  ],
+  "ubcNP7": [
+    "Publishes run as the project owner. If the agent is working, publishing waits for it to finish. Runs with no new changes are skipped."
   ],
   "ubdQTt": [
     "Scheduled"
@@ -174093,6 +174274,30 @@
   "x/FIRX": [
     "Rolling..."
   ],
+  "x/G8tD": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Every ",
+          [
+            7
+          ],
+          " day"
+        ],
+        "other": [
+          "Every ",
+          [
+            7
+          ],
+          " days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "x/MGHU": [
     "Deck your profile in seasonal styles with new items in the Shop."
   ],
@@ -178007,6 +178212,13 @@
   ],
   "yM9Krm": [
     "Recent Activity"
+  ],
+  "yMA4zs": [
+    "Last published: ",
+    [
+      1,
+      "time"
+    ]
   ],
   "yMEn77": [
     [
