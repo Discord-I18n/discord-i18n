@@ -1308,9 +1308,6 @@
       "applicationName"
     ]
   ],
-  "+SuGKb": [
-    "Agrupa tus canales y MD más usados para acceder rápidamente."
-  ],
   "+Svv46": [
     "Olvida tu contraseña"
   ],
@@ -1664,7 +1661,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " y ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de tiempo de juego."
   ],
   "+aRmAc": [
     "Inicia otro servidor de juego"
@@ -1744,9 +1746,6 @@
   ],
   "+d9SH8": [
     "Transferir tu voz a PlayStation"
-  ],
-  "+dSwhE": [
-    "Previsualizar favoritos"
   ],
   "+dXJII": [
     "Inglés (EE. UU.)"
@@ -1886,9 +1885,6 @@
       1,
       "username"
     ]
-  ],
-  "+h9aza": [
-    "Entiendo"
   ],
   "+h9nJG": [
     "¿Algún otro beneficio?"
@@ -9148,9 +9144,6 @@
   "1QHJaW": [
     "Beneficios para los servidores"
   ],
-  "1QJmIL": [
-    "Añadir a categoría"
-  ],
   "1QLRYb": [
     "Fijados"
   ],
@@ -9842,9 +9835,6 @@
   "1mcPhC": [
     "Actualiza tu aplicación"
   ],
-  "1n0TGE": [
-    "Llena tus favoritos"
-  ],
   "1n6QXB": [
     "Equipa un filtro de voz, di algo, ¡y que comience la diversión!"
   ],
@@ -10323,9 +10313,6 @@
   "20piMS": [
     "Ayuda a que el descubrimiento de servidor sea un lugar seguro para todos"
   ],
-  "20sYUU": [
-    "Obtén Nitro"
-  ],
   "20tmSN": [
     "Drops mensuales de Orbs"
   ],
@@ -10527,9 +10514,6 @@
   ],
   "24xrGb": [
     "Entrada no válida"
-  ],
-  "25YCHl": [
-    "Añadir a favoritos"
   ],
   "25gfQX": [
     "No tienes acceso"
@@ -11408,6 +11392,9 @@
   ],
   "2PJ1NP": [
     "¡Regalaste una suscripción!"
+  ],
+  "2PKrQO": [
+    "Prueba esta apariencia"
   ],
   "2PuL9F": [
     "Aunque conectaste previamente tu cuenta de Xbox, reconéctate para activar nuevas funciones."
@@ -13879,9 +13866,6 @@
   ],
   "3KomGa": [
     "Regala Nitro"
-  ],
-  "3KruG3": [
-    "Ir al servidor"
   ],
   "3KwZ8n": [
     [
@@ -22952,9 +22936,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Añadir a favoritos"
-  ],
   "6klMOk": [
     "Reporte enviado para: ",
     [
@@ -24872,9 +24853,6 @@
   ],
   "7WwAXh": [
     "Comparte cada momento épico en hasta 4K a 60 fps."
-  ],
-  "7WwLnr": [
-    "Previsualizar"
   ],
   "7X+3f8": [
     [
@@ -26833,9 +26811,6 @@
   ],
   "8F6hKS": [
     "Utilizar mi contraseña"
-  ],
-  "8FO0y9": [
-    "Ocultar favoritos"
   ],
   "8FZfNo": [
     [
@@ -29223,6 +29198,9 @@
   "93hqln": [
     "Normas aceptadas"
   ],
+  "93iWsv": [
+    "Miembros de Nitro: ¡Reclamen un peluche exclusivo de Wumpus zombi con Orbs!"
+  ],
   "93tEDn": [
     "Conexión"
   ],
@@ -29401,7 +29379,39 @@
     "¡Hola, colega!"
   ],
   "98cHOp": [
-    "La eliminación expulsará a **{members, plural, =-1 {[calculando...] miembros} one {[calculando...] # miembro que no ha usado Discord en ",
+    "La eliminación expulsará a ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "members",
+          {
+            "=-1": [
+              "[calculando...] miembros"
+            ],
+            "one": [
+              "[calculando...] ",
+              [
+                7
+              ],
+              " miembro"
+            ],
+            "other": [
+              "[calculando...] ",
+              [
+                7
+              ],
+              " miembros"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " que no han usado Discord en ",
     [
       8,
       "$b",
@@ -29428,34 +29438,7 @@
         ]
       ]
     ],
-    "\ny tenga asignados solo los roles que elegiste. Es posible volver a unirse con una nueva invitación.} other\n{[calculando...] # miembros que no han usado Discord en ",
-    [
-      8,
-      "$b",
-      [
-        [
-          6,
-          "days",
-          {
-            "one": [
-              [
-                7
-              ],
-              " día"
-            ],
-            "other": [
-              [
-                7
-              ],
-              " días"
-            ]
-          },
-          0,
-          "cardinal"
-        ]
-      ]
-    ],
-    "\ny tengan asignados solo los roles que elegiste. Es posible volver a unirse con una nueva invitación."
+    "\ny no tienen ningún rol asignado. Pueden volver a unirse al servidor con una nueva invitación."
   ],
   "99GFiS": [
     "Detalles"
@@ -31286,6 +31269,9 @@
       "intervalCount"
     ],
     " meses hasta que la canceles. Puedes cancelar la suscripción en cualquier momento."
+  ],
+  "9xo1g9": [
+    "Disponible en tiendas seleccionadas, en línea y en tiendas físicas"
   ],
   "9yE8Ga": [
     "El modo lento está activado. Los miembros pueden hacer una publicación cada ",
@@ -37301,7 +37287,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " y ",
+    [
+      1,
+      "gameTime"
+    ],
+    " de tiempo de juego."
   ],
   "CHa0vN": [
     "Producto no disponible"
@@ -38206,9 +38197,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Favoritos"
-  ],
   "CgyVP+": [
     [
       8,
@@ -39081,19 +39069,6 @@
   "D7HSLJ": [
     "Clips manuales"
   ],
-  "D7S0Zo": [
-    "La versión gratuita permite hasta ",
-    [
-      2,
-      "count"
-    ],
-    " favoritos. Obtén Nitro para añadir hasta ",
-    [
-      2,
-      "maxCount"
-    ],
-    " canales y MD."
-  ],
   "D7Sngz": [
     "Usuarios que han recibido llamadas"
   ],
@@ -39367,9 +39342,6 @@
   "DFSvTt": [
     "Enlaces"
   ],
-  "DFjrWw": [
-    "Haz clic derecho en cualquier canal o MD para añadirlo a favoritos. Así de fácil."
-  ],
   "DFlDaE": [
     "Importar beneficios"
   ],
@@ -39421,9 +39393,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Creación automática de hilos"
   ],
   "DJ+bGu": [
     "Tu rol y tu ícono"
@@ -43438,9 +43407,6 @@
   "F3bDaX": [
     "Los eventos en canales privados solo serán visibles para las personas que pueden acceder a ese canal."
   ],
-  "F3dWTe": [
-    "Desestimar canales sugeridos"
-  ],
   "F3qExp": [
     "Salir"
   ],
@@ -44635,9 +44601,6 @@
   "Fa8W1W": [
     "Ver destacados del próximo creador"
   ],
-  "FaHxWl": [
-    "Puedes volver a activar esto en cualquier momento desde los ajustes."
-  ],
   "FaXGO/": [
     "- Espacio vacío -"
   ],
@@ -44685,6 +44648,9 @@
       "maxLength"
     ],
     " caracteres."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Ver ",
@@ -45626,6 +45592,13 @@
   "G5FsgF": [
     "Isla de Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Después de las preguntas de la incorporación, se les pedirá a los miembros que acepten las normas del servidor."
   ],
@@ -45952,9 +45925,6 @@
   ],
   "G9JfLg": [
     "Estos incluyen los servicios de terceros a los que les has dado permiso para acceder a tu cuenta de Discord. Puedes revisar qué puede hacer cada aplicación y anular el acceso en cualquier momento."
-  ],
-  "G9fGlP": [
-    "Añadir a favoritos"
   ],
   "G9koyR": [
     "Promoción de Halloween: ",
@@ -46731,23 +46701,6 @@
     ],
     " antes de canjear este regalo."
   ],
-  "GR2KOG": [
-    "Tus favoritos permanecen guardados, incluso si desactivas esta opción. ",
-    [
-      8,
-      "$link",
-      [
-        "Más información"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Nueva pestaña"
   ],
@@ -47096,6 +47049,9 @@
       "seatLabel"
     ],
     ", con un control"
+  ],
+  "GZsvDx": [
+    "Juegos populares"
   ],
   "GZvXuP": [
     "Los permisos elevados proporcionan niveles de acceso superiores a los ajustes del servidor, y solo deben otorgarse a moderadores de mucha confianza."
@@ -49865,14 +49821,6 @@
   ],
   "HespNQ": [
     "Buscar clips"
-  ],
-  "Hevebj": [
-    "Añade ",
-    [
-      1,
-      "name"
-    ],
-    " a favoritos"
   ],
   "HewMzo": [
     "¿Quieres publicar en Reddit, abrir un ticket en Zendesk o publicar un tweet?"
@@ -54725,6 +54673,9 @@
   "JZxxGx": [
     "Reproduce todos los mensajes en voz alta"
   ],
+  "Ja5Q8Z": [
+    "Consigue una tarjeta de regalo de Discord"
+  ],
   "JaIyFi": [
     "No puedes tener más de ",
     [
@@ -59171,14 +59122,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Añadir a favoritos (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "No hay problema"
   ],
@@ -60179,23 +60122,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Haz clic derecho en cualquier canal o MD y ",
-    [
-      8,
-      "$link",
-      [
-        "añádelo a tus favoritos"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para acceder rápidamente."
   ],
   "LykQYk": [
     "Correo de verificación"
@@ -61343,6 +61269,9 @@
   "MPFyJ5": [
     "Los suscriptores de Nitro reciben un descuento en esta decoración"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     "Grupo de ",
     [
@@ -61795,6 +61724,9 @@
   ],
   "Mb0cJJ": [
     "Mensajes más largos (hasta 4000 caracteres)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -63617,6 +63549,9 @@
   ],
   "NJFr+g": [
     "Lista"
+  ],
+  "NJLgMs": [
+    "Prueba este estilo de nombre"
   ],
   "NJm/0W": [
     "Enlace de invitación personalizado (",
@@ -66520,9 +66455,6 @@
   "OSvmfH": [
     "Leer la información de los miembros (apodo, avatar, roles, etcétera...) de los servidores a los que perteneces"
   ],
-  "OT1NK5": [
-    "Mostrar servidor de favoritos"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -68925,7 +68857,7 @@
     "sticker"
   ],
   "PJn0ih": [
-    "Activa cada ajuste para contribuir a la tabla de posiciones. Puedes cambiarlos en cualquier momento en ajustes."
+    "Activa los ajustes para contribuir a la tabla de posiciones. Puedes cambiarlos en cualquier momento en ajustes."
   ],
   "PJsjbP": [
     "Agregó un nuevo emoji, ",
@@ -70098,9 +70030,6 @@
   ],
   "PpoJzt": [
     "Tu regalo"
-  ],
-  "PprSsy": [
-    "Administra tus favoritos"
   ],
   "PqEzn8": [
     "Nunca"
@@ -73534,13 +73463,39 @@
     ]
   ],
   "RH3VAx": [
-    "Debe tener, como mínimo: ",
+    "Debe tener, como mínimo, ",
     [
-      8,
-      "metadataHook",
-      []
-    ],
-    " reseña(s) positiva(s)"
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " reseña positiva"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " reseñas positivas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "RHAAkK": [
     "Regalar Discord Nitro"
@@ -74772,9 +74727,6 @@
   ],
   "Rp2AbV": [
     "Insignia de corona"
-  ],
-  "Rp35U1": [
-    "Añadir a favoritos"
   ],
   "RpE9k7": [
     "Marcar como no leído"
@@ -77032,38 +76984,6 @@
   "SgjaXI": [
     "Arrancando"
   ],
-  "SgkNaU": [
-    "Deseleccionaste ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "No hay artículos seleccionados"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " artículo seleccionado"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " artículos seleccionados"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "No tienes permiso para adjuntar archivos"
   ],
@@ -78550,9 +78470,6 @@
   "TN+ZvB": [
     "Previsualizar tu decoración de avatar en el chat"
   ],
-  "TN4nAX": [
-    "Eliminar de favoritos"
-  ],
   "TNLcpx": [
     "imagen"
   ],
@@ -79005,9 +78922,6 @@
       ]
     ],
     " con Nitro"
-  ],
-  "TWuDTt": [
-    "Añade más favoritos"
   ],
   "TWz/S+": [
     "Discord puede conectarte con tus amigos y ayudarlos a encontrarte. Tus contactos se nos enviarán con frecuencia. ",
@@ -86852,9 +86766,6 @@
   "WaL+LA": [
     "Sala izquierda"
   ],
-  "WaP/lz": [
-    "Añade tus canales y MD principales a favoritos para un acceso rápido. Solo con Nitro."
-  ],
   "WaSgzk": [
     "Establecer el modo lento predeterminado del hilo en ",
     [
@@ -87742,9 +87653,6 @@
   "WsTHkY": [
     "Mostrar cómo funciona"
   ],
-  "WsUrMD": [
-    "Completo"
-  ],
   "WsUuTt": [
     "Configurar"
   ],
@@ -88629,6 +88537,9 @@
   ],
   "XFYW1o": [
     "Buscando a todos los usuarios"
+  ],
+  "XFZr3P": [
+    "Suscripciones"
   ],
   "XFa6Q8": [
     "Después de que se unan a tu servidor, los miembros deberán responder estas preguntas en la página de canales y roles. Úsalas para\nasignar roles que los miembros luego puedan elegir, como roles personalizados."
@@ -92279,9 +92190,6 @@
   "YkDjVM": [
     "Atajo"
   ],
-  "YkET6R": [
-    "Restablecer favoritos"
-  ],
   "YkEzAe": [
     "disney world"
   ],
@@ -93362,23 +93270,6 @@
   ],
   "Z3G+8h": [
     "Usuarios a los que llamaste o enviaste un mensaje"
-  ],
-  "Z3Hdr5": [
-    "Mantén presionado cualquier canal o MD y ",
-    [
-      8,
-      "$link",
-      [
-        "añádelo a tus favoritos"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " para acceder rápidamente."
   ],
   "Z3LquY": [
     "Ver actividad de amigos"
@@ -95643,9 +95534,6 @@
   "ZtiU7w": [
     "Modo espectador"
   ],
-  "Ztl9ht": [
-    "Mantén presionado cualquier canal o MD para añadirlo a favoritos. Así de fácil."
-  ],
   "Ztu2Yo": [
     "Duración del silencio"
   ],
@@ -95914,9 +95802,6 @@
   ],
   "ZzcLhc": [
     "Si nos equivocamos, confirma que eres mayor de edad"
-  ],
-  "ZzcwNk": [
-    "Vacía los favoritos y restablece su estado inicial."
   ],
   "ZzdgUm": [
     "No se puede hacer que el canal sea privado"
@@ -96349,9 +96234,6 @@
   ],
   "a9ngnE": [
     "Buscando actualizaciones"
-  ],
-  "aA0vO8": [
-    "Añade esto a favoritos con Nitro"
   ],
   "aA4Vce": [
     "Opciones de salida"
@@ -98796,9 +98678,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Obtén Nitro"
   ],
   "avs5Vg": [
     "¿Qué es lo que no está funcionando bien?"
@@ -101925,9 +101804,6 @@
   ],
   "btxSdB": [
     "Servidor ensordecido"
-  ],
-  "bu/mLv": [
-    "¡Aquí están los favoritos!"
   ],
   "bu5sya": [
     [
@@ -107384,9 +107260,6 @@
   ],
   "dW6EBf": [
     "Tu favorito"
-  ],
-  "dW9Kov": [
-    "Límite de favoritos alcanzado"
   ],
   "dWTAXT": [
     "Corona checa"
@@ -115379,9 +115252,6 @@
     ],
     " meses"
   ],
-  "g2vHYJ": [
-    "Los hilos a los que te unes van a una categoría de \"Hilos añadidos automáticamente\"."
-  ],
   "g33r/P": [
     "Enviar mensaje"
   ],
@@ -118728,9 +118598,6 @@
   ],
   "hIErU3": [
     "No hubo actividad en los últimos 7 días"
-  ],
-  "hINqUs": [
-    "¿Necesitas más favoritos?"
   ],
   "hISCms": [
     "Formas extremas de insultar o maldecir"
@@ -127108,9 +126975,6 @@
   "kQ6oLs": [
     "Zimbabue"
   ],
-  "kQL9be": [
-    "Buscamos por todas partes. Lamentablemente, no encontramos resultados. Únete a un servidor o empieza un MD para añadir tu primer favorito."
-  ],
   "kQN/bi": [
     "Cambiar el orden de las publicaciones de contenido multimedia"
   ],
@@ -128363,9 +128227,6 @@
   "kxNf2n": [
     "Entra a un chat con tus amigos desde la nueva pestaña de mensajes"
   ],
-  "kxQJ7q": [
-    "Añade aquí los canales y MD principales para un acceso rápido."
-  ],
   "kxlybP": [
     "Actualizar los roles vinculados"
   ],
@@ -128965,6 +128826,9 @@
   ],
   "l8YumU": [
     "Goteo"
+  ],
+  "l8nVB9": [
+    "Accede más rápido a los emojis"
   ],
   "l8rYLt": [
     "Tu mensaje es muy largo."
@@ -134608,38 +134472,6 @@
   "mvPFbA": [
     "¡Agrega las actualizaciones de este canal a tu servidor!"
   ],
-  "mvPjcC": [
-    "Seleccionaste ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "No hay artículos seleccionados"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " artículo seleccionado"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " artículos seleccionados"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Añadir alerta"
   ],
@@ -138491,9 +138323,6 @@
   ],
   "oHVeHc": [
     "Posible spam"
-  ],
-  "oHWnLy": [
-    "Canales sugeridos"
   ],
   "oHdW+u": [
     "Sin clasificación"
@@ -150289,6 +150118,9 @@
     ],
     " para obtener más información."
   ],
+  "sAYgZc": [
+    "No se seleccionó nada"
+  ],
   "sAfT1K": [
     "Se produjo un error al cargar la imagen."
   ],
@@ -150555,6 +150387,9 @@
   ],
   "sJDGZT": [
     "Crea un servidor para tu grupo de estudio"
+  ],
+  "sJHQqC": [
+    "Gástalo en Nitro, artículos de la tienda y más. Ahora disponible en tiendas seleccionadas en línea y físicas."
   ],
   "sJTwHQ": [
     "¡Solo paga ",
@@ -152611,13 +152446,39 @@
     "Qué parte de su historial de mensajes reciente se eliminará"
   ],
   "sn3m7v": [
-    "Debe tener, como máximo: ",
+    "Debe tener, como máximo, ",
     [
-      8,
-      "metadataHook",
-      []
-    ],
-    " reseña(s) negativa(s)"
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " reseña negativa"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " reseñas negativas"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "sn5Z8t": [
     "Crea un servidor para tu comunidad"
@@ -154751,6 +154612,9 @@
     ],
     " meses"
   ],
+  "tR2B53": [
+    "Cerrar promoción de la tienda de juegos"
+  ],
   "tROvHH": [
     "Cualquier contenido"
   ],
@@ -155972,6 +155836,9 @@
   ],
   "tmiYpF": [
     "Ajustes de la transmisión"
+  ],
+  "tmst3F": [
+    "El regalo perfecto para @everyone"
   ],
   "tnBalD": [
     "Tu lista de amigos está llena. ¡Te damos la bienvenida al club de élite de 1000 amigos!"
@@ -158736,6 +158603,9 @@
   "ujfP6f": [
     "Solicitud de amistad del juego"
   ],
+  "ujfS5V": [
+    "Toca para ver más sugerencias o desliza hacia la izquierda para agregarlos a tu mensaje."
+  ],
   "ujnXus": [
     "¿Qué comida me apetece ahora mismo?"
   ],
@@ -160249,9 +160119,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Échale un vistazo"
   ],
   "vN6XpQ": [
     "Exprésate con un mayor límite de caracteres."
@@ -163710,9 +163577,6 @@
       ]
     ]
   ],
-  "wh+Rz1": [
-    "Tus conversaciones favoritas, todas en un solo lugar."
-  ],
   "wh9c5W": [
     "Malva"
   ],
@@ -166424,9 +166288,6 @@
   "xKUoVq": [
     "Ver aplicación"
   ],
-  "xKXcSu": [
-    "Añadir a favoritos"
-  ],
   "xL7Cfe": [
     "Consigue gratis tu primer año de My Best Buy Plus™ ($29.99). Obtén un reembolso del ",
     [
@@ -166787,7 +166648,39 @@
     "Ocurrió un error. Inténtalo de nuevo."
   ],
   "xSDcLk": [
-    "La eliminación expulsará a **{members, plural, =-1 {[calculando...] miembros} one {[calculando...] # miembro que no ha usado Discord en ",
+    "La eliminación expulsará a ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "members",
+          {
+            "=-1": [
+              "[calculando...] miembros"
+            ],
+            "one": [
+              "[calculando...] ",
+              [
+                7
+              ],
+              " miembro"
+            ],
+            "other": [
+              "[calculando...] ",
+              [
+                7
+              ],
+              " miembros"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " que no han usado Discord en ",
     [
       8,
       "$b",
@@ -166814,34 +166707,7 @@
         ]
       ]
     ],
-    "\ny tenga asignados solo los roles que elegiste. También se incluye a quienes no tienen ningún rol asignado. Es posible volver a unirse con una nueva invitación.} other\n{[calculando...] # miembros que no han usado Discord en ",
-    [
-      8,
-      "$b",
-      [
-        [
-          6,
-          "days",
-          {
-            "one": [
-              [
-                7
-              ],
-              " día"
-            ],
-            "other": [
-              [
-                7
-              ],
-              " días"
-            ]
-          },
-          0,
-          "cardinal"
-        ]
-      ]
-    ],
-    "\ny tengan asignados solo los roles que elegiste. También se incluye a quienes no tienen ningún rol asignado. Es posible volver a unirse con una nueva invitación."
+    "\ny tienen asignados solo los roles que elegiste. También se incluye a quienes no tienen ningún rol asignado. Es posible volver a unirse con una nueva invitación."
   ],
   "xSMZuf": [
     "Cancelado"
@@ -169558,9 +169424,6 @@
       []
     ],
     " para ver si eso resuelve tu problema."
-  ],
-  "yYVbdv": [
-    "Desbloquea con Nitro"
   ],
   "yYbR2r": [
     "Debe tener, como máximo: ",

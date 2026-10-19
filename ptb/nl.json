@@ -1190,6 +1190,9 @@
       ]
     ]
   ],
+  "+Pu3G1": [
+    "spoiler"
+  ],
   "+PuO2N": [
     "Even geduld, we verbinden je opnieuw!"
   ],
@@ -1313,9 +1316,6 @@
       "applicationName"
     ],
     "-winkel"
-  ],
-  "+SuGKb": [
-    "Breng je meestgebruikte kanalen en pb's samen voor snelle toegang."
   ],
   "+Svv46": [
     "Vergeet dat wachtwoord"
@@ -1616,6 +1616,56 @@
   "+a5G2l": [
     "Niet beschikbaar"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " heeft de 1e plek in het klassement overgenomen van ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gamedag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gamedagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "+aRmAc": [
     "Start een andere gameserver"
   ],
@@ -1694,9 +1744,6 @@
   ],
   "+d9SH8": [
     "Voicechat overdragen naar PlayStation"
-  ],
-  "+dSwhE": [
-    "Voorbeeld van favorieten"
   ],
   "+dXJII": [
     "Engels, VS"
@@ -1836,9 +1883,6 @@
       1,
       "username"
     ]
-  ],
-  "+h9aza": [
-    "Begrepen"
   ],
   "+h9nJG": [
     "Nog meer voordelen?"
@@ -3436,6 +3480,45 @@
     ],
     "-abonnement opzegt, verlies je de volgende voordelen aan het einde van je huidige facturatieperiode:"
   ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " heeft deze week gewonnen met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gamedag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gamedagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "/K2RDH": [
     "Minder emoji bekijken"
   ],
@@ -4039,6 +4122,9 @@
   ],
   "/YzI63": [
     "Geen toegang"
+  ],
+  "/Z2sDF": [
+    "Klassementreeks"
   ],
   "/ZJIuo": [
     "Vind je dit geluid leuk? Met Nitro kun je de geluiden van ",
@@ -4708,6 +4794,30 @@
   ],
   "/qG8v7": [
     "Alles bekijken"
+  ],
+  "/qIck6": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " voegde ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " toe aan de server."
   ],
   "/qaauJ": [
     "Reageren met ",
@@ -8995,9 +9105,6 @@
   "1QHJaW": [
     "Voordelen voor servers"
   ],
-  "1QJmIL": [
-    "Toevoegen aan categorie"
-  ],
   "1QLRYb": [
     "Vastgepind"
   ],
@@ -9686,9 +9793,6 @@
   "1mcPhC": [
     "Je app updaten"
   ],
-  "1n0TGE": [
-    "Vul je favorieten aan"
-  ],
   "1n6QXB": [
     "Gebruik een spraakfilter, zeg iets en geniet van het resultaat!"
   ],
@@ -10150,9 +10254,6 @@
   "20piMS": [
     "Help mee om serverontdekking voor iedereen veilig te houden"
   ],
-  "20sYUU": [
-    "Neem Nitro"
-  ],
   "20tmSN": [
     "Maandelijkse Orbs-drops"
   ],
@@ -10356,9 +10457,6 @@
   ],
   "24xrGb": [
     "Ongeldige invoer"
-  ],
-  "25YCHl": [
-    "Toevoegen aan favorieten"
   ],
   "25gfQX": [
     "Geen toegang"
@@ -11238,6 +11336,9 @@
   ],
   "2PJ1NP": [
     "Je hebt een abonnement cadeau gegeven!"
+  ],
+  "2PKrQO": [
+    "Probeer deze look"
   ],
   "2PuL9F": [
     "Je hebt je Xbox-account al eens gekoppeld. Maak opnieuw verbinding om te profiteren van nieuwe functies."
@@ -13432,6 +13533,9 @@
   "3CqDxp": [
     "Servicekwaliteit High Packet Priority inschakelen"
   ],
+  "3D0GLv": [
+    "Nitro-emoji bekijken"
+  ],
   "3D5eox": [
     "HALLO ZEG! JE GAAT TE SNEL"
   ],
@@ -13701,9 +13805,6 @@
   ],
   "3KomGa": [
     "Geef Nitro cadeau"
-  ],
-  "3KruG3": [
-    "Naar server"
   ],
   "3KwZ8n": [
     [
@@ -18761,6 +18862,45 @@
   "5D/KEH": [
     "Abonnementstype"
   ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " heeft de wedstrijd van deze week gewonnen met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unieke game"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unieke games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "5DFcVl": [
     "Jaarlijks op ",
     [
@@ -22676,9 +22816,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Toevoegen aan favorieten"
-  ],
   "6klMOk": [
     "Melding verzonden voor: ",
     [
@@ -24568,9 +24705,6 @@
   ],
   "7WwAXh": [
     "Deel elk clutch-moment in tot wel 4K en 60 fps."
-  ],
-  "7WwLnr": [
-    "Voorbeeld"
   ],
   "7X+3f8": [
     [
@@ -26499,9 +26633,6 @@
   ],
   "8F6hKS": [
     "Je wachtwoord gebruiken"
-  ],
-  "8FO0y9": [
-    "Favorieten verbergen"
   ],
   "8FZfNo": [
     [
@@ -28854,6 +28985,9 @@
   "93hqln": [
     "Regels aanvaard"
   ],
+  "93iWsv": [
+    "Nitro-leden: claim een exclusieve pluchen Wumpus-zombie met Orbs!"
+  ],
   "93tEDn": [
     "Verbinding"
   ],
@@ -29406,6 +29540,18 @@
   ],
   "9GlTSj": [
     "Er is een fout opgetreden tijdens het verwijderen van je binnenkomende vriendschapsverzoeken. Probeer het later nog eens."
+  ],
+  "9Gofqp": [
+    [
+      1,
+      "name"
+    ],
+    ", ",
+    [
+      1,
+      "presence"
+    ],
+    ", profiel bekijken"
   ],
   "9GpDYK": [
     "Lichtgrijs"
@@ -30891,6 +31037,9 @@
     ],
     " maanden automatisch te blijven doen, totdat je opzegt. Prijzen kunnen worden gewijzigd, maar daarover krijg je dan bericht. Je kunt op elk moment opzeggen."
   ],
+  "9xo1g9": [
+    "Beschikbaar bij geselecteerde retailers online en in winkels"
+  ],
   "9yE8Ga": [
     "Slow-modus is ingeschakeld. Leden kunnen elke ",
     [
@@ -31505,6 +31654,13 @@
   ],
   "AERuYh": [
     "Naam voor je groep"
+  ],
+  "AEfs1D": [
+    "Naar ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "AF+Tyh": [
     "Boost deze server om voordelen te ontgrendelen"
@@ -32321,6 +32477,9 @@
   ],
   "AcBI9S": [
     "Bekijk de ledenlijst van het kanaal of de spraaktekstchat"
+  ],
+  "AcH7R7": [
+    "Er zijn snelkoppelingen geregistreerd op jouw desktop. Mogelijk is je goedkeuring vereist voor wijzigingen. Je kunt toetsen opnieuw toewijzen in je systeeminstellingen."
   ],
   "AcJ4ke": [
     "Stel uren in waarin je tiener Discord niet kan gebruiken. Die ontvangt geen meldingen en heeft in deze periode geen toegang tot Discord."
@@ -36798,6 +36957,56 @@
   "CHXHFX": [
     "Het werkt niet"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " heeft de 1e plek afgepakt van ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " in het klassement met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unieke game"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unieke games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "CHa0vN": [
     "Product niet beschikbaar"
   ],
@@ -36846,6 +37055,28 @@
   ],
   "CIsNZw": [
     "Integraties"
+  ],
+  "CJ0I6C": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " extra deelnemer"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " extra deelnemers"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "CJ30BP": [
     "Stoppen met bericht voorlezen"
@@ -37640,6 +37871,13 @@
   "Ce0ZBI": [
     "Rondewinnende kill"
   ],
+  "Ce2iXp": [
+    [
+      1,
+      "guildName"
+    ],
+    ", naar server"
+  ],
   "CeBa/4": [
     "Vervaldatum"
   ],
@@ -37699,9 +37937,6 @@
       1,
       "interval"
     ]
-  ],
-  "CgmkFJ": [
-    "Favorieten"
   ],
   "CgyVP+": [
     [
@@ -38578,19 +38813,6 @@
   "D7HSLJ": [
     "Handmatige clips"
   ],
-  "D7S0Zo": [
-    "Gratis kun je hooguit ",
-    [
-      2,
-      "count"
-    ],
-    " favorieten instellen. Koop Nitro om maximaal ",
-    [
-      2,
-      "maxCount"
-    ],
-    " kanalen en pb's toe te voegen."
-  ],
   "D7Sngz": [
     "Gebelde gebruikers"
   ],
@@ -38859,9 +39081,6 @@
   "DFSvTt": [
     "Links"
   ],
-  "DFjrWw": [
-    "Rechtsklik op een kanaal of privébericht om het toe te voegen aan je favorieten. Een kind kan de was doen."
-  ],
   "DFlDaE": [
     "Voordelen importeren"
   ],
@@ -38913,9 +39132,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Threads automatisch toevoegen"
   ],
   "DJ+bGu": [
     "Je rol en pictogram"
@@ -40773,6 +40989,25 @@
       "questName"
     ]
   ],
+  "EAkHd2": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " is toegevoegd aan de server."
+  ],
   "EApw/R": [
     "Moderatoracties"
   ],
@@ -42578,6 +42813,19 @@
   "EuXv2q": [
     "Partymodus verbergen"
   ],
+  "EuarXc": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " heeft je gevraagd om te streamen"
+  ],
   "Eukdgl": [
     "Zeg het met een sticker"
   ],
@@ -42901,9 +43149,6 @@
   ],
   "F3bDaX": [
     "Evenementen op een privékanaal zijn alleen zichtbaar voor mensen die toegang hebben tot dat kanaal."
-  ],
-  "F3dWTe": [
-    "Voorgestelde kanalen sluiten"
   ],
   "F3qExp": [
     "Vertrekken"
@@ -44099,9 +44344,6 @@
   "Fa8W1W": [
     "Naar volgende creatorhoogtepunt"
   ],
-  "FaHxWl": [
-    "Zet dit op elk moment weer aan in de instellingen."
-  ],
   "FaXGO/": [
     "- Niet opgegeven -"
   ],
@@ -44117,7 +44359,7 @@
       1,
       "text"
     ],
-    " • ",
+    " · ",
     [
       1,
       "duration"
@@ -44149,6 +44391,9 @@
       "maxLength"
     ],
     " bereikt."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Nog ",
@@ -45094,6 +45339,13 @@
   "G5FsgF": [
     "Het eiland Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Nadat de leden de onboardingvragen hebben beantwoord, wordt ze gevraagd om de serverregels te accepteren."
   ],
@@ -45403,13 +45655,10 @@
     "een activiteit"
   ],
   "G9HG5O": [
-    "Upgrade je chat"
+    "Je gebruikt de oude chatinvoer"
   ],
   "G9JfLg": [
     "Hieronder vallen ook diensten van derden die je hebt gemachtigd om toegang te krijgen tot je Discord-account. Je kunt altijd even kijken wat elke app doet en hoe je de machtiging kunt intrekken."
-  ],
-  "G9fGlP": [
-    "Toevoegen aan favorieten"
   ],
   "G9koyR": [
     "Halloweenpromo: ",
@@ -46188,23 +46437,6 @@
     ],
     " voordat je dit cadeau claimt."
   ],
-  "GR2KOG": [
-    "Je favorieten blijven opgeslagen, zelfs als je dit uitschakelt. ",
-    [
-      8,
-      "$link",
-      [
-        "Meer informatie"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Nieuw tabblad"
   ],
@@ -46553,6 +46785,9 @@
       "seatLabel"
     ],
     ", met een controller"
+  ],
+  "GZsvDx": [
+    "Populaire games"
   ],
   "GZvXuP": [
     "Verhoogde machtigingen geven een hoger toegangsniveau voor serverinstellingen. Geef ze alleen aan mods die je echt vertrouwt."
@@ -48212,6 +48447,13 @@
   "HB5Q+k": [
     "Laat mijn besturingssysteem het beslissen"
   ],
+  "HBJiRR": [
+    "Speelt ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "HBR9Q0": [
     "Je kunt nu een geanimeerde avatar gebruiken!"
   ],
@@ -49297,6 +49539,9 @@
   "Hdh7sT": [
     "Met deze instelling kunnen vrienden aan je game deelnemen zonder een verzoek te sturen."
   ],
+  "He+1tx": [
+    "SQLite - totaal"
+  ],
   "He+cmd": [
     "Servernaam niet beschikbaar"
   ],
@@ -49323,15 +49568,20 @@
   "HepAlF": [
     "Weet je zeker dat je deze sectie wilt verbergen? Je ziet je contacten niet langer in meldingen."
   ],
-  "HespNQ": [
-    "Clips zoeken"
-  ],
-  "Hevebj": [
+  "HervnJ": [
     [
       1,
-      "name"
+      "username"
     ],
-    " toevoegen aan favorieten"
+    " ligt deze week op kop in ",
+    [
+      1,
+      "statName"
+    ],
+    "!"
+  ],
+  "HespNQ": [
+    "Clips zoeken"
   ],
   "HewMzo": [
     "Reddit-post, Zendesk-ticket, Tweet?"
@@ -50341,6 +50591,9 @@
   ],
   "I509Dl": [
     "Wil ik spelen"
+  ],
+  "I5UWh9": [
+    "Krijg Nitro, winkelitems, serverboosts en meer"
   ],
   "I5dYFs": [
     [
@@ -53050,6 +53303,9 @@
   "J0dpcB": [
     "Namen weergeven"
   ],
+  "J0m3aK": [
+    "Je desktop kan deze snelkoppeling niet registreren, dus werkt de koppeling mogelijk niet op Wayland. Zorg in plaats daarvan voor één toets met optionele modifiers (bijvoorbeeld Ctrl+F9)."
+  ],
   "J0tNny": [
     "Inclusief verzoeken op grond van de Online Safety Act"
   ],
@@ -54100,6 +54356,9 @@
   "JZxxGx": [
     "Alle berichten worden hardop uitgesproken"
   ],
+  "Ja5Q8Z": [
+    "Neem een Discord-cadeaukaart mee"
+  ],
   "JaIyFi": [
     "Je kunt maximaal ",
     [
@@ -54886,12 +55145,12 @@
     "Geen"
   ],
   "K/UZHJ": [
-    "Het eerste jaar van My Best Buy Plus™ (ter waarde van $ 29,99), gratis met Nitro. Ontvang ",
+    "Het eerste jaar van My Best Buy Plus™ ($ 29,99 waarde) is gratis met Nitro. Krijg ",
     [
       1,
       "rewardPercentage"
     ],
-    "% terug in beloningen bij geselecteerde pre-orders van de grootste games van het seizoen, zoals Call of Duty: Modern Warfare 4. Verzilver vóór ",
+    "% terug in de vorm van beloningen bij geselecteerde pre-orders van de grootste games van het seizoen. Verzilveren vóór ",
     [
       3,
       "date",
@@ -54902,7 +55161,7 @@
       8,
       "$link",
       [
-        "Voorwaarden van toepassing."
+        "Voorwaarden zijn van toepassing."
       ],
       [
         [
@@ -58488,14 +58747,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Toevoegen aan favorieten (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "Geen probleem"
   ],
@@ -58879,6 +59130,19 @@
       ]
     ],
     " (belastingvrijstelling)"
+  ],
+  "LlJum4": [
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " is toegevoegd aan de server."
   ],
   "LlZaoX": [
     "De betaling voor je Nitro-abonnement is mislukt. Update alsjeblieft je betalingsinformatie."
@@ -59478,23 +59742,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Klik met de rechtermuisknop op een kanaal of privébericht om het ",
-    [
-      8,
-      "$link",
-      [
-        "toe te voegen aan je favorieten"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", zodat je er snel heen kunt."
   ],
   "LykQYk": [
     "Verificatiemail"
@@ -60659,6 +60906,9 @@
   "MPFyJ5": [
     "Nitro-abonnees krijgen korting op deze versiering"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     "Groep van ",
     [
@@ -61113,6 +61363,9 @@
   ],
   "Mb0cJJ": [
     "Langere berichten (maximaal 4.000 tekens)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -62476,6 +62729,9 @@
     ],
     "m geleden"
   ],
+  "N9U/9X": [
+    "Je wachtwoord is gereset. Log in met je nieuwe Wachtwoord."
+  ],
   "N9WJMM": [
     "Persoonlijke beoordeling aanvragen"
   ],
@@ -62898,6 +63154,9 @@
   ],
   "NJFr+g": [
     "Lijst"
+  ],
+  "NJLgMs": [
+    "Probeer deze naamstijl"
   ],
   "NJm/0W": [
     "Aangepaste uitnodigingslink (",
@@ -63406,6 +63665,9 @@
       ]
     ],
     " + van toepassing zijnde belastingen"
+  ],
+  "NV+MBV": [
+    "Je hebt geen servertags om uit te kiezen."
   ],
   "NV85DR": [
     [
@@ -65769,9 +66031,6 @@
   "OSvmfH": [
     "Bekijk lidmaatschapsinformatie (bijnaam, avatar, rollen, etc...) voor servers waarvan je deel uitmaakt"
   ],
-  "OT1NK5": [
-    "Favorieten-server tonen"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -66574,6 +66833,9 @@
   ],
   "Olc2K3": [
     "Terug naar instellingen"
+  ],
+  "OleW32": [
+    "Nieuwe, door Discord mogelijk gemaakte sociale functies zijn beschikbaar in Call of Duty: Modern Warfare 4. Upgrade je verbinding om een integrale vriendenlijst en uitnodigingen te ontgrendelen."
   ],
   "Olo8FB": [
     "Categorie"
@@ -68161,7 +68423,7 @@
     "sticker"
   ],
   "PJn0ih": [
-    "Schakel elke instelling in om bij te dragen aan het klassement. Je kunt dit op elk moment wijzigen in de instellingen."
+    "Pas je instellingen aan om mee te kunnen doen met het klassement. Je kunt dit op elk moment weer wijzigen."
   ],
   "PJsjbP": [
     "Heeft een nieuwe emoji toegevoegd, ",
@@ -68569,6 +68831,12 @@
   ],
   "PSuly6": [
     "Whiteboard starten"
+  ],
+  "PTCrUP": [
+    "Je desktop heeft deze snelkoppeling nog niet toegestaan. Keur hem goed in de algemene snelkoppelingsinstellingen van je systeem."
+  ],
+  "PTDDhW": [
+    "Als je onzichtbaar bent, wordt jouw gaming-activiteit verborgen. Ga online om mee te doen aan het klassement."
   ],
   "PTHakm": [
     "Creëer een wachtwoord"
@@ -69318,9 +69586,6 @@
   ],
   "PpoJzt": [
     "Je cadeau"
-  ],
-  "PprSsy": [
-    "Favorieten beheren"
   ],
   "PqEzn8": [
     "Nooit"
@@ -71131,6 +71396,13 @@
   ],
   "QcJbt6": [
     "Ontgrendel meer vakken voor persoonlijke stickers"
+  ],
+  "QcKHvf": [
+    [
+      1,
+      "sectionName"
+    ],
+    " uitvouwen"
   ],
   "QcmgBF": [
     "Leden waar je het meest mee omgaat toestaan om een melding te krijgen als je begint te streamen in kleine servers."
@@ -74004,9 +74276,6 @@
   "Rp2AbV": [
     "Kroonbadge"
   ],
-  "Rp35U1": [
-    "Toevoegen aan favorieten"
-  ],
   "RpE9k7": [
     "Markeren als ongelezen"
   ],
@@ -74090,6 +74359,9 @@
       "cardinal"
     ],
     "."
+  ],
+  "RqXsIs": [
+    "RqXsIs"
   ],
   "Rqmi9/": [
     "Kies de kamer die je voor je ruimte wilt gebruiken."
@@ -76200,37 +76472,6 @@
   "SgjaXI": [
     "Opstarten"
   ],
-  "SgkNaU": [
-    [
-      1,
-      "name"
-    ],
-    " gedeselecteerd. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Geen items geselecteerd"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " item geselecteerd"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " items geselecteerd"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Je hebt geen toestemming om bestanden aan te hechten"
   ],
@@ -77518,7 +77759,7 @@
     "Avatar resetten"
   ],
   "TE+uDu": [
-    "Bekijk hem nu"
+    "Check het snel"
   ],
   "TEEYwa": [
     "Hooggewaardeerde verkoper"
@@ -77554,6 +77795,13 @@
   ],
   "TFc+iF": [
     "Boven de wolken"
+  ],
+  "TFn1fS": [
+    "Stream ",
+    [
+      1,
+      "gameName"
+    ]
   ],
   "TG0QsS": [
     "Servers waarop ik dingen deel"
@@ -77753,9 +78001,6 @@
   ],
   "TN+ZvB": [
     "Voorbeeld van je avatarversiering in de chat"
-  ],
-  "TN4nAX": [
-    "Verwijderen uit favorieten"
   ],
   "TNLcpx": [
     "afbeelding"
@@ -78144,6 +78389,13 @@
   "TUKMak": [
     "Deel je activiteitsstatus in deze server"
   ],
+  "TUZ50q": [
+    "Voorbeeld ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "TUilLj": [
     "Gebruik boosts om speciale badgepakketten met thema te ontgrendelen voor je servertag!"
   ],
@@ -78209,9 +78461,6 @@
       ]
     ],
     " met Nitro"
-  ],
-  "TWuDTt": [
-    "Meer favorieten toevoegen"
   ],
   "TWz/S+": [
     "Discord kan je verbinden met je vrienden en hen helpen je te vinden. Je contactpersonen worden regelmatig naar ons gestuurd. ",
@@ -80056,6 +80305,9 @@
   ],
   "UCuHM8": [
     "Accountinstellingen voor tieners"
+  ],
+  "UD3OKX": [
+    "SQLite - vrije ruimte"
   ],
   "UD5nn5": [
     "Nog ",
@@ -81908,6 +82160,22 @@
   "UwPrKZ": [
     "Vergroot je community met serverontdekking"
   ],
+  "UwYHGm": [
+    "Meer informatie op ",
+    [
+      8,
+      "$link",
+      [
+        "onze website"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ]
+  ],
   "Uwhb1l": [
     "Voortgang volgend niveau"
   ],
@@ -83309,6 +83577,92 @@
   "VVZDBL": [
     "Helaas, deze stream telt al het maximale aantal kijkers."
   ],
+  "VW2XVd": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " verplaatste ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " naar ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "VWNyUu": [
     "Markeer waarschuwing als voltooid"
   ],
@@ -83602,7 +83956,7 @@
     "Creëer een ticket"
   ],
   "VdzwlA": [
-    "Nu inschakelen"
+    "Uitzetten"
   ],
   "Ve/y5z": [
     "Alle abonnementniveaus"
@@ -85996,9 +86350,6 @@
   "WaL+LA": [
     "Linkerlounge"
   ],
-  "WaP/lz": [
-    "Voeg topkanalen en pb's toe aan je favorieten voor snelle toegang. Alleen met Nitro."
-  ],
   "WaSgzk": [
     "Stel de standaard slow-modus van de thread in op ",
     [
@@ -86886,9 +87237,6 @@
   "WsTHkY": [
     "Laat zien hoe het werkt"
   ],
-  "WsUrMD": [
-    "Vol"
-  ],
   "WsUuTt": [
     "Instellen"
   ],
@@ -87773,6 +88121,9 @@
   ],
   "XFYW1o": [
     "Alle gebruikers zoeken"
+  ],
+  "XFZr3P": [
+    "Abonnementen"
   ],
   "XFa6Q8": [
     "Deze vragen worden gesteld aan leden als ze lid zijn geworden van je server, op de pagina Kanalen en rollen. Gebruik ze om\nrollen toe te wijzen die leden later kunnen kiezen, zoals persoonlijke rollen."
@@ -89838,6 +90189,9 @@
   "Y3fdOp": [
     "We hebben je net gemaild. Klik op de verificatielink in de e-mail om deze aankoop goed te keuren."
   ],
+  "Y3poDW": [
+    "Y3poDW"
+  ],
   "Y40Jke": [
     "Hallo, is daar iemand?"
   ],
@@ -89928,6 +90282,9 @@
       ]
     ],
     " aan de leiding."
+  ],
+  "Y6LdPr": [
+    "Verifieer je account om deze betaling te voltooien. Log in om te beginnen."
   ],
   "Y6Qfju": [
     "Server van ",
@@ -91393,9 +91750,6 @@
   "YkDjVM": [
     "Snelkoppeling"
   ],
-  "YkET6R": [
-    "Favorieten resetten"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -92463,23 +92817,6 @@
   "Z3G+8h": [
     "Gebruikers met wie berichten of gesprekken zijn uitgewisseld"
   ],
-  "Z3Hdr5": [
-    "Klik langer op een kanaal of privébericht om het ",
-    [
-      8,
-      "$link",
-      [
-        "toe te voegen aan je favorieten"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    ", zodat je er snel heen kunt."
-  ],
   "Z3LquY": [
     "Vriendenactiviteit bekijken"
   ],
@@ -92773,6 +93110,14 @@
       1,
       "colorHex"
     ]
+  ],
+  "ZCFDN+": [
+    "Heeft de laatste ",
+    [
+      2,
+      "streakCount"
+    ],
+    " weken de wedstrijden van het gamingklassement gewonnen."
   ],
   "ZCKAg8": [
     "Aanmelden"
@@ -93473,6 +93818,9 @@
   "ZPB6+J": [
     "Beschrijf jezelf in drie emoji"
   ],
+  "ZPHaPE": [
+    "Wijziging in systeeminstellingen"
+  ],
   "ZPMAlX": [
     "Weergavenaamstijl wijzigen"
   ],
@@ -93575,6 +93923,9 @@
   ],
   "ZT24In": [
     "Door foto's bladeren"
+  ],
+  "ZT58S4": [
+    "NIEUW! Geplande berichten"
   ],
   "ZTH4j4": [
     "Appsknop tonen"
@@ -93933,6 +94284,14 @@
   ],
   "ZaJksS": [
     "Pure audio: open microfoon zonder bewerking"
+  ],
+  "ZaOAtm": [
+    "Huidige leider (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
   ],
   "ZaXBoD": [
     "Gecomprimeerde bestanden worden niet ondersteund"
@@ -94727,28 +95086,15 @@
     "Aan kanaallijst toevoegen"
   ],
   "ZtUieE": [
+    "Applicatie-opdrachten werken niet met deze snelkoppeling. Schakel de snelkoppeling uit om de opdrachten weer beschikbaar te maken. Je kunt dit altijd weer wijzigen via ",
     [
       8,
-      "$p",
+      "openSettingsHook",
       [
-        "Krijg toegang tot slashopdrachten en andere geweldige manieren om te chatten door onze nieuwste functies in te schakelen."
+        "Gebruikersinstellingen > Toegankelijkheid"
       ]
     ],
-    [
-      8,
-      "$p",
-      [
-        "Je kunt altijd terug naar de oude manier van chatten via ",
-        [
-          8,
-          "openSettingsHook",
-          [
-            "Gebruikersinstellingen > Toegankelijkheid"
-          ]
-        ],
-        "."
-      ]
-    ]
+    "."
   ],
   "ZtdF0+": [
     "Niet beschikbaar"
@@ -94758,9 +95104,6 @@
   ],
   "ZtiU7w": [
     "Meekijkmodus"
-  ],
-  "Ztl9ht": [
-    "Hou een kanaal of pb ingedrukt om het toe te voegen aan favorieten. Zo makkelijk is het."
   ],
   "Ztu2Yo": [
     "Dempingsduur"
@@ -94779,6 +95122,22 @@
   ],
   "ZuXSRp": [
     "Druk lang om de badges te verbergen die je privé wilt houden."
+  ],
+  "ZuneBP": [
+    "Verzilveren in ",
+    [
+      8,
+      "$link",
+      [
+        "Factuurinstellingen"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
   ],
   "Zuo+Vd": [
     "Weet je zeker dat je ",
@@ -95016,9 +95375,6 @@
   ],
   "ZzcLhc": [
     "Als dit niet klopt, bevestig dan dat je volwassen bent"
-  ],
-  "ZzcwNk": [
-    "Verwijdert favorieten en herstelt de eerste-runstatus."
   ],
   "ZzdgUm": [
     "Kan kanaal niet privé maken"
@@ -95455,9 +95811,6 @@
   ],
   "a9ngnE": [
     "Controleren op updates"
-  ],
-  "aA0vO8": [
-    "Voeg dit toe aan je favorieten met Nitro"
   ],
   "aA4Vce": [
     "Uitvoeropties"
@@ -97940,9 +98293,6 @@
   "avpngL": [
     "avpngL"
   ],
-  "avps/2": [
-    "Neem Nitro"
-  ],
   "avs5Vg": [
     "Wat werkt er niet goed?"
   ],
@@ -98318,6 +98668,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "b2yxYL": [
+    "Bewaar je belangrijkste berichten op één plek."
   ],
   "b3+OH1": [
     "Krijg Discord Orbs bij aankopen in de game Marvel Rivals."
@@ -100954,9 +101307,6 @@
   "btxSdB": [
     "Server onhoorbaar gemaakt"
   ],
-  "bu/mLv": [
-    "Favorieten zijn gearriveerd!"
-  ],
   "bu5sya": [
     [
       6,
@@ -102354,6 +102704,9 @@
   "cOkbp/": [
     "Hoor je vrienden met de allerbeste geluidskwaliteit. Het is net of ze naast je zitten..."
   ],
+  "cOmrX4": [
+    "Log in op je account om te betalen met een andere betalingsmethode."
+  ],
   "cPQCeg": [
     "Bloemenvaas"
   ],
@@ -103265,6 +103618,9 @@
   ],
   "cgR+IK": [
     "Instagram"
+  ],
+  "cgRADC": [
+    "Je bent online! We houden je activiteit nu bij en je verschijnt morgen in het klassement."
   ],
   "cgT481": [
     "Bekijk Discords ",
@@ -105027,6 +105383,9 @@
   "cxFiDC": [
     "Grof taalgebruik"
   ],
+  "cxSpOM": [
+    "Streamvoorbeeld"
+  ],
   "cxy+zn": [
     "Voeg vrienden toe en chat direct met ze"
   ],
@@ -106382,9 +106741,6 @@
   "dW6EBf": [
     "Je favoriet"
   ],
-  "dW9Kov": [
-    "Favorietenlimiet bereikt"
-  ],
   "dWTAXT": [
     "Tsjechische kroon"
   ],
@@ -106404,6 +106760,68 @@
       "title"
     ],
     " · Concept"
+  ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " heeft de 1e plek overgenomen van ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " in het klassement met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unieke game"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unieke games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
   ],
   "dXC/hn": [
     "jaar"
@@ -107588,6 +108006,9 @@
   ],
   "dqQgZv": [
     "Geef een nieuw Nitro-lidmaatschap cadeau"
+  ],
+  "dqYuni": [
+    "Activiteit delen staat aan. We houden je activiteit nu bij en je verschijnt morgen in het klassement."
   ],
   "dqb2JZ": [
     "Standaard"
@@ -109840,6 +110261,9 @@
   "ec5Rdd": [
     "Elke maand 10 uur gamen via de cloud"
   ],
+  "ecPCdG": [
+    "Lidmaatschap My Best Buy Plus™"
+  ],
   "ecTJkR": [
     "Profiellijsten"
   ],
@@ -110805,6 +111229,68 @@
   "exRczv": [
     "Er waren prestatieproblemen"
   ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " heeft de 1e plek in het klassement overgenomen van ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gamedag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gamedagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "exclamation": [
     "!",
     "interpunctie",
@@ -111257,6 +111743,51 @@
   "f6RTAM": [
     "KLAAR"
   ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " heeft deze week gewonnen met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gamedag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gamedagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "f6YgdN": [
     "Laatst actief >30d geleden"
   ],
@@ -111549,6 +112080,13 @@
   ],
   "fG3RIg": [
     "Orbs-winkel"
+  ],
+  "fGlxFS": [
+    [
+      1,
+      "name"
+    ],
+    ", profiel bekijken"
   ],
   "fGrbRX": [
     "Er is iets fout gegaan bij het synchroniseren van je contactpersonen. Wacht even en probeer het dan opnieuw."
@@ -112625,6 +113163,9 @@
   ],
   "fbKwSs": [
     "Je kunt alle emoji's en speciale tekens gebruiken."
+  ],
+  "fbbIpP": [
+    "Streamen om te beginnen met clips maken"
   ],
   "fbcCzZ": [
     "App bekijken"
@@ -114166,9 +114707,6 @@
     ],
     " maanden geleden"
   ],
-  "g2vHYJ": [
-    "Threads waaraan je meedoet, gaan naar de categorie 'Automatisch toegevoegde Threads'."
-  ],
   "g33r/P": [
     "Bericht"
   ],
@@ -114940,7 +115478,7 @@
     "Word lid van deze server om hem toe te voegen aan je lijst en begin met praten!"
   ],
   "gOIq4P": [
-    "Deelnemen aan ",
+    "Doe mee met ",
     [
       1,
       "channel"
@@ -117371,6 +117909,108 @@
   "hElye1": [
     "Andere vermeldingen van deze SKU bekijken"
   ],
+  "hEqea3": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " verplaatste ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " gebruiker"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " gebruikers"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " naar ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "hFDcmZ": [
     [
       2,
@@ -117506,9 +118146,6 @@
   ],
   "hIErU3": [
     "Geen activiteit de afgelopen 7 dagen"
-  ],
-  "hINqUs": [
-    "Wil je meer favorieten?"
   ],
   "hISCms": [
     "Extreme scheldwoorden"
@@ -122898,6 +123535,9 @@
   "jCV1Tz": [
     "ALT"
   ],
+  "jCZgxQ": [
+    "Huidige leider van het gamingklassement van deze week."
+  ],
   "jCqvk/": [
     "Verbinding maken met je account"
   ],
@@ -123505,6 +124145,9 @@
   ],
   "jVrUnC": [
     "Webhook verwijderen"
+  ],
+  "jVv7YM": [
+    "leeftijdsgebonden"
   ],
   "jW+QO/": [
     "Partnerservers moeten voldoen aan bepaalde activiteitsvereisten. We kunnen dit niet berekenen tot je server minstens ",
@@ -124629,6 +125272,13 @@
   ],
   "js8y7t": [
     "Gebruik standaard mijn eigen thema"
+  ],
+  "jsV9yS": [
+    [
+      1,
+      "sectionName"
+    ],
+    " invouwen"
   ],
   "jsr/6e": [
     "Doorzoek berichten op grof taalgebruik en meer. ",
@@ -125895,9 +126545,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "We hebben overal gezocht. Helaas zonder resultaat. Word lid van een server of start een pb om je eerste favoriet toe te voegen."
-  ],
   "kQN/bi": [
     "Verander het sorteren van mediaposts"
   ],
@@ -127142,9 +127789,6 @@
   "kxNf2n": [
     "Chat snel met je vrienden via de nieuwe tab Berichten"
   ],
-  "kxQJ7q": [
-    "Voeg hier topkanalen en pb's toe voor snelle toegang."
-  ],
   "kxlybP": [
     "Gekoppelde rollen updaten"
   ],
@@ -127745,6 +128389,9 @@
   "l8YumU": [
     "Druipend"
   ],
+  "l8nVB9": [
+    "Snellere toegang tot emoji"
+  ],
   "l8rYLt": [
     "Je bericht is te lang."
   ],
@@ -128164,6 +128811,9 @@
   "lLDtTK": [
     "Vrienden zoeken"
   ],
+  "lLFi5U": [
+    "Opties verzamelvoorwerpen"
+  ],
   "lLFvlT": [
     "Naam"
   ],
@@ -128230,6 +128880,91 @@
   ],
   "lOAkKo": [
     "Account gedeblokkeerd"
+  ],
+  "lODaeu": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " ontkoppelde ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " gebruiker"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " gebruikers"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " van spraak (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "lOF4zR": [
     "Je profiellijst is geüpdatet!"
@@ -132502,6 +133237,51 @@
   "mgsmfY": [
     "Dit proces is uitgeschakeld via ontwikkelaarstools"
   ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " heeft de wedstrijd van deze week gewonnen met ",
+    [
+      6,
+      "value",
+      {
+        "one": [
+          [
+            7
+          ],
+          " unieke game"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " unieke games"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en ",
+    [
+      1,
+      "gameTime"
+    ],
+    " speeltijd."
+  ],
   "mhUrKS": [
     "Voor je het Familiecentrum kunt gebruiken, moeten we je leeftijd verifiëren zodat we je een geschikte ervaring kunnen bieden. We vragen je dit slechts één keer."
   ],
@@ -133385,37 +134165,6 @@
   ],
   "mvPFbA": [
     "Voeg de updates van dit kanaal toe aan je server!"
-  ],
-  "mvPjcC": [
-    [
-      1,
-      "name"
-    ],
-    " geselecteerd. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Geen items geselecteerd"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " item geselecteerd"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " items geselecteerd"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
   ],
   "mvee4V": [
     "Waarschuwing toevoegen"
@@ -137278,9 +138027,6 @@
   "oHVeHc": [
     "Potentiële spam"
   ],
-  "oHWnLy": [
-    "Voorgestelde kanalen"
-  ],
   "oHdW+u": [
     "Niet in klassement"
   ],
@@ -140066,6 +140812,9 @@
   ],
   "pKCxWP": [
     "Begonnen met zoeken"
+  ],
+  "pKLV22": [
+    "Je kunt geen activiteiten starten in kanalen met een leeftijdsbeperking."
   ],
   "pKZ4I8": [
     "Podiumkanaal (vergrendeld)"
@@ -144126,6 +144875,87 @@
       ]
     ]
   ],
+  "qXazAb": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " verplaatste ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ gebruikers"
+      ]
+    ],
+    " naar ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Standaard"
   ],
@@ -144791,6 +145621,9 @@
   "qtJKH2": [
     "Iedereen kan je helpen om je server in niveau te laten stijgen om aanpassingen en collectieve voordelen te ontgrendelen"
   ],
+  "qtKobx": [
+    "Grijp je kans en haal een cadeaukaart! Nu beschikbaar bij geselecteerde retailers online en in winkels."
+  ],
   "qtSJxb": [
     "Onbekend"
   ],
@@ -145383,6 +146216,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r6bvTh": [
+    "Blader door soortgelijke community's"
   ],
   "r6eshq": [
     "Overal Soundboard-geluiden"
@@ -148760,6 +149596,9 @@
   "s7+3um": [
     "Spelen met Xbox Game Pass"
   ],
+  "s76lNz": [
+    "Wil je je eigen servertag?"
+  ],
   "s7STcY": [
     "Servicevoorwaarden"
   ],
@@ -148906,6 +149745,9 @@
       ]
     ],
     " voor meer info."
+  ],
+  "sAYgZc": [
+    "Niets geselecteerd"
   ],
   "sAfT1K": [
     "Afbeelding kon niet worden geladen."
@@ -149172,6 +150014,9 @@
   ],
   "sJDGZT": [
     "Een server voor je studiegroep creëren"
+  ],
+  "sJHQqC": [
+    "Geef het uit aan Nitro, winkelitems, en meer. Nu beschikbaar bij geselecteerde verkopers online en in de winkel."
   ],
   "sJTwHQ": [
     "Betaal ",
@@ -153316,6 +154161,9 @@
     ],
     " maand korting"
   ],
+  "tR2B53": [
+    "Aanbieding gamewinkel afsluiten"
+  ],
   "tROvHH": [
     "Elke inhoud"
   ],
@@ -153412,6 +154260,75 @@
       "duration"
     ],
     " kun je er je profiel mee opleuken."
+  ],
+  "tTwGD8": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " ontkoppelde ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " van spraak (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "tU5fiM": [
     "Geen app geconfigureerd"
@@ -154510,6 +155427,9 @@
   ],
   "tmiYpF": [
     "Streaminstellingen"
+  ],
+  "tmst3F": [
+    "Het perfecte cadeau voor @everyone"
   ],
   "tnBalD": [
     "Je hebt het maximale aantal vrienden bereikt. Welkom bij de eliteclub van mensen met 1000 vrienden!"
@@ -157352,6 +158272,9 @@
   "ujfP6f": [
     "Vriendschapsverzoek gamevriend(in)"
   ],
+  "ujfS5V": [
+    "Tik voor meer suggesties of veeg naar links om toe te voegen aan je bericht."
+  ],
   "ujnXus": [
     "Waar heb je nu trek in?"
   ],
@@ -158881,9 +159804,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Check het snel"
   ],
   "vN6XpQ": [
     "Maak van je hart geen moordkuil met een hogere tekenlimiet."
@@ -161121,6 +162041,9 @@
   "w8gMqh": [
     "Regio"
   ],
+  "w8gzZb": [
+    "Het perfecte cadeau voor @everyone"
+  ],
   "w8j+yW": [
     "Met afbeeldingsbeschrijvingen"
   ],
@@ -162352,9 +163275,6 @@
       ]
     ],
     " gespeeld"
-  ],
-  "wh+Rz1": [
-    "Je favoriete gesprekken, allemaal op één plek."
   ],
   "wh9c5W": [
     "Mauve"
@@ -163667,6 +164587,20 @@
   "wtk08S": [
     "Spraakactiviteitmeldingen"
   ],
+  "wu2lqV": [
+    "Je desktop heeft deze actie gekoppeld aan ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "trigger"
+        ]
+      ]
+    ],
+    "."
+  ],
   "wu4gyV": [
     "Niet beschikbaar"
   ],
@@ -164418,6 +165352,42 @@
   "x68b1F": [
     "Neon"
   ],
+  "x6G/Rr": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " voegde ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " toe aan de server."
+  ],
   "x6ielD": [
     "Beveiligingscode geactiveerd! :tada:"
   ],
@@ -165110,9 +166080,6 @@
   "xKUoVq": [
     "App bekijken"
   ],
-  "xKXcSu": [
-    "Toevoegen aan favorieten"
-  ],
   "xL7Cfe": [
     "Ontvang je eerste jaar van My Best Buy Plus™ ($ 29,99) gratis. Verdien ",
     [
@@ -165667,6 +166634,9 @@
   ],
   "xYXsr6": [
     "Bevestig je leeftijd"
+  ],
+  "xYa9Y8": [
+    "Waar te koop"
   ],
   "xYhOEh": [
     "Als de streamer-modus is ingeschakeld..."
@@ -166605,6 +167575,70 @@
   ],
   "xu9k8G": [
     "Installeren van Discord-hulpprogramma geannuleerd!"
+  ],
+  "xuGjhY": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " ontkoppelde ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ gebruikers"
+      ]
+    ],
+    " van spraak (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " actie"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " acties"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "xuYQ0n": [
     "Speaker"
@@ -168246,9 +169280,6 @@
       []
     ],
     " om te zien of dat jouw probleem oplost."
-  ],
-  "yYVbdv": [
-    "Ontgrendel met Nitro"
   ],
   "yYbR2r": [
     "Mag maximaal ",
