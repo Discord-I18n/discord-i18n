@@ -1307,9 +1307,6 @@
     ],
     "-butikken"
   ],
-  "+SuGKb": [
-    "Samle kanalene og DM-ene du bruker oftest, så du får rask tilgang."
-  ],
   "+Svv46": [
     "Du kan glemme passordet ditt"
   ],
@@ -1635,7 +1632,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " og ",
+    [
+      1,
+      "gameTime"
+    ],
+    " spilletid."
   ],
   "+aRmAc": [
     "Start en annen spillserver"
@@ -1715,9 +1717,6 @@
   ],
   "+d9SH8": [
     "Overfør tale til PlayStation"
-  ],
-  "+dSwhE": [
-    "Forhåndsvis favoritter"
   ],
   "+dXJII": [
     "Engelsk, USA"
@@ -1843,9 +1842,6 @@
       "username"
     ],
     " sin skjerm"
-  ],
-  "+h9aza": [
-    "Skjønner"
   ],
   "+h9nJG": [
     "Noen andre goder?"
@@ -9038,9 +9034,6 @@
   "1QHJaW": [
     "Fordeler for servere"
   ],
-  "1QJmIL": [
-    "Legg til i kategori"
-  ],
   "1QLRYb": [
     "Festet"
   ],
@@ -9731,9 +9724,6 @@
   "1mcPhC": [
     "Oppdater appen"
   ],
-  "1n0TGE": [
-    "Fyll opp med favoritter"
-  ],
   "1n6QXB": [
     "Få på et talefilter, si noe, og la festen begynne!"
   ],
@@ -10210,9 +10200,6 @@
   "20piMS": [
     "Bidra til at Utforsk er trygt for alle"
   ],
-  "20sYUU": [
-    "Få Nitro"
-  ],
   "20tmSN": [
     "Månedlige Orbs-slipp"
   ],
@@ -10413,9 +10400,6 @@
   ],
   "24xrGb": [
     "Ugyldig inndata"
-  ],
-  "25YCHl": [
-    "Legg til i favoritter"
   ],
   "25gfQX": [
     "Ingen tilgang"
@@ -13746,9 +13730,6 @@
   ],
   "3KomGa": [
     "Nitro er en perfekt gave"
-  ],
-  "3KruG3": [
-    "Gå til server"
   ],
   "3KwZ8n": [
     [
@@ -22714,9 +22695,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Legg til i favoritter"
-  ],
   "6klMOk": [
     "Rapport sendt for: ",
     [
@@ -22847,45 +22825,64 @@
       "also",
       {
         "true": [
-          "også"
+          "også "
         ],
         "other": []
       }
     ],
-    " dele aktivitet i spill, inkludert ",
+    "dele aktivitet fra ",
     [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game1"
-        ]
-      ]
+      2,
+      "count"
     ],
-    "} other {, inkludert ",
+    " spill du spiller",
     [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game1"
+      6,
+      "nameCount",
+      {
+        "=0": [],
+        "one": [
+          ", inkludert ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game1"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          ", inkludert ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game1"
+              ]
+            ]
+          ],
+          " og ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game2"
+              ]
+            ]
+          ]
         ]
-      ]
+      },
+      0,
+      "cardinal"
     ],
-    " og ",
-    [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game2"
-        ]
-      ]
-    ],
-    "}}. Angi begrensninger for deling for hvert enkelt spill."
+    ". Angi begrensninger for deling for hvert enkelt spill."
   ],
   "6ndMcq": [
     "Du må oppdatere profilen på serveren før du kan chatte i dette fellesskapet."
@@ -24597,9 +24594,6 @@
   ],
   "7WwAXh": [
     "Del avgjørende øyeblikk i opptil 4K med 60 fps."
-  ],
-  "7WwLnr": [
-    "Forhåndsvisning"
   ],
   "7X+3f8": [
     [
@@ -26555,9 +26549,6 @@
   ],
   "8F6hKS": [
     "Bruk passordet ditt"
-  ],
-  "8FO0y9": [
-    "Skjul favoritter"
   ],
   "8FZfNo": [
     [
@@ -35533,7 +35524,12 @@
         ]
       ]
     ],
-    " + gjeldende skatter og avgifter ({count, other} er i påvente av oppsigelse)"
+    " + gjeldende skatter og avgifter (",
+    [
+      2,
+      "pendingQuantity"
+    ],
+    " er i påvente av oppsigelse)"
   ],
   "Bn1J+a": [
     "Løs inn gaven din"
@@ -36858,7 +36854,12 @@
       0,
       "cardinal"
     ],
-    "."
+    " og ",
+    [
+      1,
+      "gameTime"
+    ],
+    " spilletid."
   ],
   "CHa0vN": [
     "Produktet er utilgjengelig"
@@ -37762,9 +37763,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Favoritter"
-  ],
   "CgyVP+": [
     [
       8,
@@ -38621,19 +38619,6 @@
   "D7HSLJ": [
     "Manuelle klipp"
   ],
-  "D7S0Zo": [
-    "Maks ",
-    [
-      2,
-      "count"
-    ],
-    " gratis favoritter. Med Nitro kan du legge til opptil ",
-    [
-      2,
-      "maxCount"
-    ],
-    " kanaler og DM-er."
-  ],
   "D7Sngz": [
     "Ringt"
   ],
@@ -38903,9 +38888,6 @@
   "DFSvTt": [
     "Lenker"
   ],
-  "DFjrWw": [
-    "Høyreklikk på en kanal eller DM for å legge den til som favoritt. Så enkelt er det."
-  ],
   "DFlDaE": [
     "Importer fordeler"
   ],
@@ -38957,9 +38939,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Legg til tråder automatisk"
   ],
   "DJ+bGu": [
     "Din rolle og ditt ikon"
@@ -42946,9 +42925,6 @@
   "F3bDaX": [
     "Eventer i private kanaler er kun synlige for de som har tilgang til den aktuelle kanalen."
   ],
-  "F3dWTe": [
-    "Avvis anbefalte kanaler"
-  ],
   "F3qExp": [
     "Forlat"
   ],
@@ -44128,9 +44104,6 @@
   "Fa8W1W": [
     "Se høydepunkt fra neste skaper"
   ],
-  "FaHxWl": [
-    "Kan når som helst slås på igjen i Innstillinger."
-  ],
   "FaXGO/": [
     "– Ingen er oppgitt –"
   ],
@@ -44178,6 +44151,9 @@
       "maxLength"
     ],
     " tegn."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Vis ",
@@ -45120,6 +45096,13 @@
   "G5FsgF": [
     "Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Medlemmene blir bedt om å godta serverreglene etter å ha besvart spørsmålene i innkjøringen."
   ],
@@ -45443,9 +45426,6 @@
   ],
   "G9JfLg": [
     "Dette omfatter tredjepartstjenester du har gitt tilgang til Discord-kontoen din. Du kan når som helst se gjennom hva hver enkelt app kan gjøre, og inndra tilgangen."
-  ],
-  "G9fGlP": [
-    "Legg til i favoritter"
   ],
   "G9koyR": [
     "Halloweenkampanje: ",
@@ -46207,23 +46187,6 @@
     ],
     " før du henter denne gaven."
   ],
-  "GR2KOG": [
-    "Favorittene dine forblir lagret også hvis du slår av dette. ",
-    [
-      8,
-      "$link",
-      [
-        "Mer info"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Ny fane"
   ],
@@ -46573,6 +46536,9 @@
     ],
     " med en kontroller"
   ],
+  "GZsvDx": [
+    "Populære spill"
+  ],
   "GZvXuP": [
     "Opphøyde tillatelser gir en større grad av tilgang til serverinnstillinger og bør bare skjenkes moderatorer du har stor tillit til."
   ],
@@ -46609,40 +46575,59 @@
     "Fjernet stedet"
   ],
   "GaTAYM": [
-    "Du kan dele aktivitet i spill, inkludert ",
+    "Du kan dele aktivitet fra ",
     [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game1"
-        ]
-      ]
+      2,
+      "count"
     ],
-    "} other {, inkludert ",
+    " spill du spiller",
     [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game1"
+      6,
+      "nameCount",
+      {
+        "=0": [],
+        "one": [
+          ", inkludert ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game1"
+              ]
+            ]
+          ]
+        ],
+        "other": [
+          ", inkludert ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game1"
+              ]
+            ]
+          ],
+          " og ",
+          [
+            8,
+            "$b",
+            [
+              [
+                1,
+                "game2"
+              ]
+            ]
+          ]
         ]
-      ]
+      },
+      0,
+      "cardinal"
     ],
-    " og ",
-    [
-      8,
-      "$b",
-      [
-        [
-          1,
-          "game2"
-        ]
-      ]
-    ],
-    "}}. Angi begrensninger for deling for hvert enkelt spill."
+    ". Angi begrensninger for deling for hvert enkelt spill."
   ],
   "GaYGEd": [
     [
@@ -49307,14 +49292,6 @@
   ],
   "HespNQ": [
     "Søk i klipp"
-  ],
-  "Hevebj": [
-    "Legg til ",
-    [
-      1,
-      "name"
-    ],
-    " som favoritt"
   ],
   "HewMzo": [
     "Reddit-innlegg, Zendesk-sak, tweet?"
@@ -58530,14 +58507,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Legg til i favoritter (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "Bare hyggelig"
   ],
@@ -59513,23 +59482,6 @@
         ]
       ]
     ]
-  ],
-  "LyZZLX": [
-    "Høyreklikk på en kanal eller DM og ",
-    [
-      8,
-      "$link",
-      [
-        "legg den til som favoritt"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for å få rask tilgang."
   ],
   "LykQYk": [
     "E-postbekreftelse"
@@ -60677,6 +60629,9 @@
   "MPFyJ5": [
     "Nitro-abonnenter får rabatt på denne dekorasjonen"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     [
       1,
@@ -61114,6 +61069,9 @@
   ],
   "Mb0cJJ": [
     "Lengre meldinger (opptil 4000 tegn)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -65776,9 +65734,6 @@
   "OSvmfH": [
     "Les medlemsopplysninger (kallenavn, avatar, roller osv.) for servere du er med i"
   ],
-  "OT1NK5": [
-    "Vis server med favoritter"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -69330,9 +69285,6 @@
   ],
   "PpoJzt": [
     "Gaven din"
-  ],
-  "PprSsy": [
-    "Administrer favoritter"
   ],
   "PqEzn8": [
     "Aldri"
@@ -74037,9 +73989,6 @@
   "Rp2AbV": [
     "Kronemerke"
   ],
-  "Rp35U1": [
-    "Legg til i favoritter"
-  ],
   "RpE9k7": [
     "Merk som ulest"
   ],
@@ -76286,33 +76235,6 @@
   "SgjaXI": [
     "Starter"
   ],
-  "SgkNaU": [
-    "Fjernet ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Ingen er valgt"
-        ],
-        "other": [
-          [
-            2,
-            "count"
-          ],
-          " er valgt"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Du har ikke tillatelse til å legge ved filer"
   ],
@@ -77832,9 +77754,6 @@
   "TN+ZvB": [
     "Forhåndsvisning av avatardekorasjonen i chatten"
   ],
-  "TN4nAX": [
-    "Fjern fra favoritter"
-  ],
   "TNLcpx": [
     "bilde"
   ],
@@ -78286,9 +78205,6 @@
       ]
     ],
     " med Nitro"
-  ],
-  "TWuDTt": [
-    "Legg til flere favoritter"
   ],
   "TWz/S+": [
     "Discord kan koble deg sammen med vennene dine og hjelpe dem med å finne deg. Kontaktene dine sendes regelmessig til oss. ",
@@ -86100,9 +86016,6 @@
   "WaL+LA": [
     "Lounge til venstre"
   ],
-  "WaP/lz": [
-    "Legg til kanaler og DM-er som favoritter for å få rask tilgang. Kun med Nitro."
-  ],
   "WaSgzk": [
     "Angi saktemodus for standardtråd til ",
     [
@@ -86977,9 +86890,6 @@
   ],
   "WsTHkY": [
     "Vis Slik fungerer det"
-  ],
-  "WsUrMD": [
-    "Full"
   ],
   "WsUuTt": [
     "Sett opp"
@@ -87866,6 +87776,9 @@
   ],
   "XFYW1o": [
     "Søker etter alle brukere"
+  ],
+  "XFZr3P": [
+    "Abonnementer"
   ],
   "XFa6Q8": [
     "Medlemmene stilles disse spørsmålene etter at de blir med i serveren din, på siden Kanaler og roller. Bruk svarene som\nutgangspunkt for å tildele roller som medlemmene kan velge senere, for eksempel kosmetiske roller."
@@ -91519,9 +91432,6 @@
   "YkDjVM": [
     "Snarvei"
   ],
-  "YkET6R": [
-    "Tilbakestill favoritter"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -92589,23 +92499,6 @@
   ],
   "Z3G+8h": [
     "Meldings- og samtalemottakere"
-  ],
-  "Z3Hdr5": [
-    "Hold inne på en kanal eller DM og ",
-    [
-      8,
-      "$link",
-      [
-        "legg den til som favoritt"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " for å få rask tilgang."
   ],
   "Z3LquY": [
     "Se venners aktivitet"
@@ -94871,9 +94764,6 @@
   "ZtiU7w": [
     "Tilskuermodus"
   ],
-  "Ztl9ht": [
-    "Hold inne på en kanal eller DM for å legge den til som favoritt. Så enkelt er det."
-  ],
   "Ztu2Yo": [
     "Varighet for demping"
   ],
@@ -95142,9 +95032,6 @@
   ],
   "ZzcLhc": [
     "Hvis vi har gjort en feil, må du bekrefte at du er voksen"
-  ],
-  "ZzcwNk": [
-    "Fjerner favorittene og går tilbake til utgangspunktet."
   ],
   "ZzdgUm": [
     "Kanalen kan ikke gjøres privat"
@@ -95582,9 +95469,6 @@
   ],
   "a9ngnE": [
     "Ser etter oppdateringer"
-  ],
-  "aA0vO8": [
-    "Legg til som favoritt med Nitro"
   ],
   "aA4Vce": [
     "Utdatavalg"
@@ -97959,9 +97843,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Få Nitro"
   ],
   "avs5Vg": [
     "Hva er det som ikke fungerer bra?"
@@ -100906,9 +100787,6 @@
   ],
   "btxSdB": [
     "Serverlyden er dempet"
-  ],
-  "bu/mLv": [
-    "Nå kan du legge til favoritter!"
   ],
   "bu5sya": [
     [
@@ -106065,9 +105943,6 @@
   ],
   "dW6EBf": [
     "Favoritten din"
-  ],
-  "dW9Kov": [
-    "Ikke plass til flere favoritter"
   ],
   "dWTAXT": [
     "Tsjekkiske koruna"
@@ -113745,9 +113620,6 @@
     ],
     " måneder siden"
   ],
-  "g2vHYJ": [
-    "Tråder du blir med i, legges i kategorien «Tråder auto»."
-  ],
   "g33r/P": [
     "Melding"
   ],
@@ -117025,9 +116897,6 @@
   ],
   "hIErU3": [
     "Ingen aktivitet de foregående 7 dagene"
-  ],
-  "hINqUs": [
-    "Trenger du flere favoritter?"
   ],
   "hISCms": [
     "Ekstreme former for banning eller ukvemsord"
@@ -125305,9 +125174,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "Vi har lett overalt. Dessverre fant vi ingenting. Bli med i en server eller start en DM for å legge til din første favoritt."
-  ],
   "kQN/bi": [
     "Endre sorteringen for medieinnlegg"
   ],
@@ -126332,7 +126198,12 @@
       0,
       "cardinal"
     ],
-    " ({count, other} er i påvente av oppsigelse)"
+    " (",
+    [
+      2,
+      "pendingQuantity"
+    ],
+    " er i påvente av oppsigelse)"
   ],
   "krWQZK": [
     "Godta"
@@ -126513,9 +126384,6 @@
   ],
   "kxNf2n": [
     "Chat med venner i den nye meldingsfanen"
-  ],
-  "kxQJ7q": [
-    "Legg til kanaler og DM-er her for å få rask tilgang."
   ],
   "kxlybP": [
     "Oppdater tilknyttede roller"
@@ -127116,6 +126984,9 @@
   ],
   "l8YumU": [
     "Drypp"
+  ],
+  "l8nVB9": [
+    "Raskere tilgang til emojier"
   ],
   "l8rYLt": [
     "Meldingen din er for lang."
@@ -132648,32 +132519,6 @@
   "mvPFbA": [
     "Legg til denne kanalens oppdateringer til serveren din!"
   ],
-  "mvPjcC": [
-    [
-      1,
-      "name"
-    ],
-    " er valgt. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Ingen er valgt"
-        ],
-        "other": [
-          [
-            2,
-            "count"
-          ],
-          " er valgt"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Legg til varsel"
   ],
@@ -136461,9 +136306,6 @@
   ],
   "oHVeHc": [
     "Mulig spam"
-  ],
-  "oHWnLy": [
-    "Anbefalte kanaler"
   ],
   "oHdW+u": [
     "Ingen plassering"
@@ -147788,6 +147630,9 @@
     ],
     " hvis du vil vite mer."
   ],
+  "sAYgZc": [
+    "Ingen valgte"
+  ],
   "sAfT1K": [
     "Bilder ble ikke lastet inn."
   ],
@@ -155817,6 +155662,9 @@
   "ujfP6f": [
     "Spillvennforespørsel"
   ],
+  "ujfS5V": [
+    "Trykk hvis du vil se flere forslag, eller sveip til venstre for å bruke emojien i meldingen."
+  ],
   "ujnXus": [
     "Mat du har lyst på nå?"
   ],
@@ -157306,9 +157154,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Ta en titt"
   ],
   "vN6XpQ": [
     "Med flere tegn blir det lettere å få frem det du vil si."
@@ -160703,9 +160548,6 @@
       ]
     ]
   ],
-  "wh+Rz1": [
-    "Favorittsamtalene dine samlet på ett sted."
-  ],
   "wh9c5W": [
     "Blek lilla"
   ],
@@ -163413,9 +163255,6 @@
   ],
   "xKUoVq": [
     "Vis appen"
-  ],
-  "xKXcSu": [
-    "Legg til i favoritter"
   ],
   "xL7Cfe": [
     "Få det første året med My Best Buy Plus™ ($ 29,99) gratis. For utvalgte forhåndsbestillinger i noen av sesongens største spill får du ",
@@ -166545,9 +166384,6 @@
       []
     ],
     ", og se om det løser problemet."
-  ],
-  "yYVbdv": [
-    "Lås opp med Nitro"
   ],
   "yYbR2r": [
     "Må ha minst ",

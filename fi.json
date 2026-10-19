@@ -1292,9 +1292,6 @@
     ],
     " kaupasta"
   ],
-  "+SuGKb": [
-    "Kokoa eniten käyttämäsi kanavat ja yksityisviestiketjut samaan paikkaan, josta pääset niihin nopeasti."
-  ],
   "+Svv46": [
     "Unohda salasanasi rauhassa"
   ],
@@ -1621,7 +1618,12 @@
       2,
       "value"
     ],
-    " pelipäivällä."
+    " pelipäivällä ja ",
+    [
+      1,
+      "gameTime"
+    ],
+    " peliajalla."
   ],
   "+aRmAc": [
     "Pistä uusi pelipalvelin pystyyn"
@@ -1700,9 +1702,6 @@
   ],
   "+d9SH8": [
     "Siirrä äänet PlayStationille"
-  ],
-  "+dSwhE": [
-    "Suosikkien esikatselu"
   ],
   "+dXJII": [
     "englanti, Yhdysvallat"
@@ -1829,9 +1828,6 @@
       "username"
     ],
     " ruutu"
-  ],
-  "+h9aza": [
-    "Selvä"
   ],
   "+h9nJG": [
     "Onko muita etuja?"
@@ -8929,9 +8925,6 @@
   "1QHJaW": [
     "Palvelimien edut"
   ],
-  "1QJmIL": [
-    "Lisää luokkaan"
-  ],
   "1QLRYb": [
     "Kiinnitetty"
   ],
@@ -9620,9 +9613,6 @@
   "1mcPhC": [
     "Päivitä sovellus"
   ],
-  "1n0TGE": [
-    "Täytä suosikkisi"
-  ],
   "1n6QXB": [
     "Ota äänisuodatin käyttöön ja aloita hauskanpito sanomalla jotakin!"
   ],
@@ -10083,9 +10073,6 @@
   "20piMS": [
     "Auta pitämään palvelinhaku turvallisena kaikille"
   ],
-  "20sYUU": [
-    "Hanki Nitro"
-  ],
   "20tmSN": [
     "Kuukausittaiset orbs-dropit"
   ],
@@ -10287,9 +10274,6 @@
   ],
   "24xrGb": [
     "Virheellinen syöte"
-  ],
-  "25YCHl": [
-    "Lisää suosikkeihin"
   ],
   "25gfQX": [
     "Ei käyttöoikeutta"
@@ -10991,7 +10975,7 @@
     "Palaa myöhemmin tarkistamaan, onko tarjolla ",
     [
       1,
-      "productName"
+      "productNamePlural"
     ],
     ", josta voi saada lisää orbeja."
   ],
@@ -13547,9 +13531,6 @@
   ],
   "3KomGa": [
     "Anna Nitro lahjaksi"
-  ],
-  "3KruG3": [
-    "Siirry palvelimelle"
   ],
   "3KwZ8n": [
     [
@@ -22462,9 +22443,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Lisää suosikkeihin"
-  ],
   "6klMOk": [
     "Ilmoitus lähetetty: ",
     [
@@ -24320,9 +24298,6 @@
   ],
   "7WwAXh": [
     "Jaa jokainen huippuhetki jopa 4K-tarkkuudella ja 60 fps:n nopeudella."
-  ],
-  "7WwLnr": [
-    "Esikatselu"
   ],
   "7X+3f8": [
     [
@@ -26251,9 +26226,6 @@
   ],
   "8F6hKS": [
     "Käytä salasanaasi"
-  ],
-  "8FO0y9": [
-    "Piilota suosikit"
   ],
   "8FZfNo": [
     [
@@ -36575,6 +36547,11 @@
       0,
       "cardinal"
     ],
+    " yhteensä ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "CHa0vN": [
@@ -37467,9 +37444,6 @@
       "interval"
     ]
   ],
-  "CgmkFJ": [
-    "Suosikit"
-  ],
   "CgyVP+": [
     [
       8,
@@ -38340,19 +38314,6 @@
   "D7HSLJ": [
     "Manuaaliset leikkeet"
   ],
-  "D7S0Zo": [
-    "Suosikkeja voi olla ilmaiseksi enintään ",
-    [
-      2,
-      "count"
-    ],
-    ". Nitrolla voisit lisätä suosikeiksi jopa ",
-    [
-      2,
-      "maxCount"
-    ],
-    " kanavaa ja yksityisviestiketjua."
-  ],
   "D7Sngz": [
     "Käyttäjä, joiden kanssa puhunut"
   ],
@@ -38621,9 +38582,6 @@
   "DFSvTt": [
     "Linkit"
   ],
-  "DFjrWw": [
-    "Lisää mikä tahansa kanava tai yksityisviestiketju suosikkeihin hiiren kakkospainikkeella. Se käy niin helposti."
-  ],
   "DFlDaE": [
     "Tuo edut"
   ],
@@ -38675,9 +38633,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Automaattisesti lisätyt ketjut"
   ],
   "DJ+bGu": [
     "Roolisi ja kuvakkeesi"
@@ -40375,7 +40330,7 @@
       2,
       "intervalCount"
     ],
-    "# kuukaudeksi}}!"
+    " kuukaudeksi!"
   ],
   "E7oO8u": [
     "Tämä viesti on lukittu. Vain valvojat voivat lähettää viestejä."
@@ -42619,9 +42574,6 @@
   "F3bDaX": [
     "Yksityisten kanavien tapahtumat näkyvät vain ihmisille, jotka voivat käyttää kyseistä kanavaa."
   ],
-  "F3dWTe": [
-    "Hylkää kanavaehdotukset"
-  ],
   "F3qExp": [
     "Poistu"
   ],
@@ -43804,9 +43756,6 @@
   "Fa8W1W": [
     "Katso seuraava sisällöntuottajan kohokohta"
   ],
-  "FaHxWl": [
-    "Voittaa ottaa tämän takaisin käyttöön milloin tahansa asetuksista."
-  ],
   "FaXGO/": [
     "– Ei annettu –"
   ],
@@ -43853,6 +43802,9 @@
       "maxLength"
     ],
     " merkin enimmäismäärä on täyttynyt."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Näytä ",
@@ -44795,6 +44747,13 @@
   "G5FsgF": [
     "Mansaari"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Jäseniä pyydetään hyväksymään palvelimen säännöt, kun he ovat vastanneet perehdytyksen kysymyksiin."
   ],
@@ -45119,9 +45078,6 @@
   ],
   "G9JfLg": [
     "Nämä sisältävät myös kolmansien osapuolten palvelut, joille olet antanut Discord-tilisi käyttöluvan. Voit tarkastaa, mitä kukin sovellus voi tehdä, ja peruuttaa käyttöluvan milloin tahansa."
-  ],
-  "G9fGlP": [
-    "Lisää suosikkeihin"
   ],
   "G9koyR": [
     "Halloween-kampanja: ",
@@ -45897,23 +45853,6 @@
     ],
     " ennen tämän lahjan lunastamista."
   ],
-  "GR2KOG": [
-    "Suosikkisi pysyvät tallessa, vaikka poistat tämän käytöstä. ",
-    [
-      8,
-      "$link",
-      [
-        "Lue lisää"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Uusi välilehti"
   ],
@@ -46246,6 +46185,9 @@
       "seatLabel"
     ],
     " ohjaimen kanssa"
+  ],
+  "GZsvDx": [
+    "Suositut pelit"
   ],
   "GZvXuP": [
     "Korotetut käyttöoikeudet antavat korkeamman tason käyttöoikeudet palvelinasetuksiin, joten niitä on syytä myöntää vain erittäin luotetuille valvojille."
@@ -48985,14 +48927,6 @@
   ],
   "HespNQ": [
     "Hae leikkeitä"
-  ],
-  "Hevebj": [
-    "Lisää ",
-    [
-      1,
-      "name"
-    ],
-    " suosikkeihin"
   ],
   "HewMzo": [
     "Onko kyseessä Reddit-viesti, Zendesk-tukiviesti tai twiitti?"
@@ -58058,14 +57992,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Lisää suosikkeihin (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "Ei hätää"
   ],
@@ -59048,22 +58974,6 @@
       ]
     ],
     "."
-  ],
-  "LyZZLX": [
-    [
-      8,
-      "$link",
-      [
-        "Voit lisätä suosikkeihisi"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pikakäyttöä varten minkä tahansa kanavan tai yksityisviestiketjun napsauttamalla sitä hiiren kakkospainikkeella."
   ],
   "LykQYk": [
     "Vahvistussähköposti"
@@ -60230,6 +60140,9 @@
   "MPFyJ5": [
     "Nitro-tilaajat saavat alennuksen tästä koristeesta"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     "Käyttäjän ",
     [
@@ -60685,6 +60598,9 @@
   ],
   "Mb0cJJ": [
     "Pidemmät viestit (jopa 4 000 merkkiä)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -65297,9 +65213,6 @@
   "OSvmfH": [
     "Lue jäsentiedot (nimimerkki, avatar, roolit jne.) palvelimilta, joiden jäsen olet"
   ],
-  "OT1NK5": [
-    "Näytä suosikit palvelimella"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -68786,9 +68699,6 @@
   ],
   "PpoJzt": [
     "Lahjasi"
-  ],
-  "PprSsy": [
-    "Suosikkien hallinta"
   ],
   "PqEzn8": [
     "Ei koskaan"
@@ -73488,9 +73398,6 @@
   "Rp2AbV": [
     "Kruunumerkki"
   ],
-  "Rp35U1": [
-    "Lisää suosikkeihin"
-  ],
   "RpE9k7": [
     "Merkitse lukemattomaksi"
   ],
@@ -75658,37 +75565,6 @@
   "SgjaXI": [
     "Käynnistymässä"
   ],
-  "SgkNaU": [
-    [
-      1,
-      "name"
-    ],
-    ": valinta poistettu. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Ei valittuja kohteita"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " kohde valittu"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " kohdetta valittu"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Sinulla ei ole tiedostojen liittämisoikeutta"
   ],
@@ -77188,9 +77064,6 @@
   "TN+ZvB": [
     "Avatar-koristeesi esikatselu keskustelussa"
   ],
-  "TN4nAX": [
-    "Poista suosikeista"
-  ],
   "TNLcpx": [
     "kuva"
   ],
@@ -77626,9 +77499,6 @@
       ]
     ],
     " Nitro-tilauksella"
-  ],
-  "TWuDTt": [
-    "Lisää uusia suosikkeja"
   ],
   "TWz/S+": [
     "Discord voi yhdistää sinut kavereihisi ja auttaa kavereitasi löytämään sinut. Yhteystietosi välitetään meille säännöllisesti. ",
@@ -85423,9 +85293,6 @@
   "WaL+LA": [
     "Vasen oleskelutila"
   ],
-  "WaP/lz": [
-    "Lisää suosikkikanavasi ja ‑yksityisviestiketjusi suosikeiksesi pikakäyttöä varten. Vain Nitrolla."
-  ],
   "WaSgzk": [
     "Aseta ketjun oletusarvoisen hidastetun tilan arvoksi ",
     [
@@ -85980,12 +85847,22 @@
     "Käytetty ääni on poistettu palvelimelta, josta se on peräisin. Valitse toinen ääni."
   ],
   "WkQY/4": [
-    "Nitro sinulle ja {totalSeats, count} kaverillesi hintaan ",
+    "Nitro sinulle ja ",
+    [
+      2,
+      "totalSeats"
+    ],
+    " kaverillesi hintaan ",
     [
       1,
       "price"
     ],
-    " {discountInterval, count} kuukauden ajan"
+    " ",
+    [
+      2,
+      "discountInterval"
+    ],
+    " kuukauden ajan"
   ],
   "WkUWzx": [
     "Hypetä keskusteluja toiminnallisten animoitujen reaktioiden voimalla."
@@ -86276,9 +86153,6 @@
   ],
   "WsTHkY": [
     "Näytä toimintaperiaate"
-  ],
-  "WsUrMD": [
-    "Täynnä"
   ],
   "WsUuTt": [
     "Määritä"
@@ -87164,6 +87038,9 @@
   ],
   "XFYW1o": [
     "Haetaan kaikkia käyttäjiä"
+  ],
+  "XFZr3P": [
+    "Tilaukset"
   ],
   "XFa6Q8": [
     "Jäsenille esitetään nämä kysymykset Kanavat ja roolit ‑sivulla, kun he ovat liittyneet palvelimellesi.\nVoit määrittää näiden kysymysten avulla jäsenille heidän itse valittavissaan olevia rooleja, kuten personoituja rooleja."
@@ -90713,9 +90590,6 @@
   "YkDjVM": [
     "Näppäinkomento"
   ],
-  "YkET6R": [
-    "Nollaa suosikit"
-  ],
   "YkEzAe": [
     "disneyworld"
   ],
@@ -91778,22 +91652,6 @@
   ],
   "Z3G+8h": [
     "Käyttäjät, joiden kanssa viestinyt tai puhunut"
-  ],
-  "Z3Hdr5": [
-    [
-      8,
-      "$link",
-      [
-        "Voit lisätä suosikkeihisi"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " pikakäyttöä varten minkä tahansa kanavan tai yksityisviestiketjun pitämällä sitä painettuna."
   ],
   "Z3LquY": [
     "Katso kavereiden toimintaa"
@@ -94027,9 +93885,6 @@
   "ZtiU7w": [
     "Katselutila"
   ],
-  "Ztl9ht": [
-    "Lisää mikä tahansa kanava tai yksityisviestiketju suosikkeihin pitämällä sitä painettuna. Se käy niin helposti."
-  ],
   "Ztu2Yo": [
     "Mykistyksen kesto"
   ],
@@ -94298,9 +94153,6 @@
   ],
   "ZzcLhc": [
     "Jos tässä on tapahtunut virhe, vahvista olevasi aikuinen"
-  ],
-  "ZzcwNk": [
-    "Tyhjentää suosikit ja palauttaa alkutilan."
   ],
   "ZzdgUm": [
     "Kanavasta ei voi tehdä yksityistä"
@@ -94722,9 +94574,6 @@
   ],
   "a9ngnE": [
     "Etsitään päivityksiä"
-  ],
-  "aA0vO8": [
-    "Lisää tämä suosikkeihin Nitrolla"
   ],
   "aA4Vce": [
     "Lähtöasetukset"
@@ -97105,9 +96954,6 @@
   ],
   "avpngL": [
     "avpngL"
-  ],
-  "avps/2": [
-    "Hanki Nitro"
   ],
   "avs5Vg": [
     "Mikä ei toimi hyvin?"
@@ -100000,9 +99846,6 @@
   ],
   "btxSdB": [
     "Hiljennetty palvelimella"
-  ],
-  "bu/mLv": [
-    "Suosikit ovat täällä!"
   ],
   "bu5sya": [
     [
@@ -105175,9 +105018,6 @@
   ],
   "dW6EBf": [
     "Suosikkisi"
-  ],
-  "dW9Kov": [
-    "Suosikkien enimmäismäärä täyttynyt"
   ],
   "dWTAXT": [
     "Tšekin koruna"
@@ -112861,9 +112701,6 @@
     ],
     " kk sitten"
   ],
-  "g2vHYJ": [
-    "Ketjut, joihin liityt, siirtyvät ”Automaattisesti lisätyt ketjut” ‑luokkaan."
-  ],
   "g33r/P": [
     "Viesti"
   ],
@@ -115245,32 +115082,51 @@
     "”"
   ],
   "gztrTs": [
-    "{inviteCount, plural, =1 {Kutsu lähetetty käyttäjälle ",
     [
-      1,
-      "username1"
-    ],
-    "} =2 {Kutsu lähetetty käyttäjille ",
-    [
-      1,
-      "username1"
-    ],
-    " ja ",
-    [
-      1,
-      "username2"
-    ],
-    "} other {Kutsu lähetetty käyttäjille ",
-    [
-      1,
-      "username1"
-    ],
-    " ja ",
-    [
-      1,
-      "username2"
-    ],
-    " sekä {remaining, count} muulle käyttäjälle}}"
+      6,
+      "inviteCount",
+      {
+        "=1": [
+          "Kutsu lähetetty käyttäjälle ",
+          [
+            1,
+            "username1"
+          ]
+        ],
+        "=2": [
+          "Kutsu lähetetty käyttäjille ",
+          [
+            1,
+            "username1"
+          ],
+          " ja ",
+          [
+            1,
+            "username2"
+          ]
+        ],
+        "other": [
+          "Kutsu lähetetty käyttäjille ",
+          [
+            1,
+            "username1"
+          ],
+          " ja ",
+          [
+            1,
+            "username2"
+          ],
+          " sekä ",
+          [
+            2,
+            "remaining"
+          ],
+          " muulle käyttäjälle"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gzuVH0": [
     "Et seuraa mitään kanavia"
@@ -116069,9 +115925,6 @@
   ],
   "hIErU3": [
     "Ei toimintaa viimeisen 7 päivän aikana"
-  ],
-  "hINqUs": [
-    "Tarvitsetko lisää suosikkipaikkoja?"
   ],
   "hISCms": [
     "Erittäin voimakasta kiroilua ja sadattelua"
@@ -124293,9 +124146,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "Haimme parhaamme mukaan. Valitettavasti mitään ei löytynyt. Lisää ensimmäinen suosikkisi liittymällä palvelimelle tai aloittamalla yksityisviestiketju."
-  ],
   "kQN/bi": [
     "Vaihda mediasisältöjulkaisujen järjestystä"
   ],
@@ -125500,9 +125350,6 @@
   "kxNf2n": [
     "Voit keskustella kavereidesi kanssa uudella Viestit-välilehdellä"
   ],
-  "kxQJ7q": [
-    "Lisää suosikkikanavasi ja ‑yksityisviestiketjusi tähän pikakäyttöä varten."
-  ],
   "kxlybP": [
     "Päivitä linkitetyt roolit"
   ],
@@ -126086,6 +125933,9 @@
   ],
   "l8YumU": [
     "Tihkuva"
+  ],
+  "l8nVB9": [
+    "Käytä emojeita nopeammin"
   ],
   "l8rYLt": [
     "Viestisi on liian pitkä."
@@ -131555,37 +131405,6 @@
   "mvPFbA": [
     "Lisää tämän kanavan päivitykset palvelimellesi!"
   ],
-  "mvPjcC": [
-    [
-      1,
-      "name"
-    ],
-    " valittu. ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Ei valittuja kohteita"
-        ],
-        "one": [
-          [
-            7
-          ],
-          " kohde valittu"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " kohdetta valittu"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "mvee4V": [
     "Lisää ilmoitus"
   ],
@@ -135356,9 +135175,6 @@
   ],
   "oHVeHc": [
     "Mahdollinen roskaviesti"
-  ],
-  "oHWnLy": [
-    "Kanavaehdotukset"
   ],
   "oHdW+u": [
     "Ei rankingia"
@@ -143344,7 +143160,12 @@
       1,
       "discountedPrice"
     ],
-    " / kk {discountInterval, count} kuukauden ajan"
+    " / kk ",
+    [
+      2,
+      "discountInterval"
+    ],
+    " kuukauden ajan"
   ],
   "rD/nte": [
     "metalli"
@@ -146514,6 +146335,9 @@
       ]
     ],
     "."
+  ],
+  "sAYgZc": [
+    "Ei valintoja"
   ],
   "sAfT1K": [
     "Kuvan lataus epäonnistui."
@@ -154493,6 +154317,9 @@
   "ujfP6f": [
     "Pelikaveripyynnöt"
   ],
+  "ujfS5V": [
+    "Näytä lisää ehdotuksia napauttamalla tai lisää viestiin pyyhkäisemällä vasemmalle."
+  ],
   "ujnXus": [
     "Mitä ruokaa tekee mieli juuri nyt?"
   ],
@@ -155999,9 +155826,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Tutustu"
   ],
   "vN6XpQ": [
     "Keskustele niin pitkästi kuin haluat isomman viestin merkkimäärärajoituksen turvin."
@@ -159113,9 +158937,10 @@
             1,
             "username2"
           ],
-          " ja {remaining, count{",
+          " ja ",
           [
-            7
+            2,
+            "remaining"
           ],
           " muulle"
         ]
@@ -159414,9 +159239,6 @@
         ]
       ]
     ]
-  ],
-  "wh+Rz1": [
-    "Kaikki suosikkikeskustelusi yhdessä paikassa."
   ],
   "wh9c5W": [
     "Sinipunainen"
@@ -162042,9 +161864,6 @@
   ],
   "xKUoVq": [
     "Näytä sovellus"
-  ],
-  "xKXcSu": [
-    "Lisää suosikkeihin"
   ],
   "xL7Cfe": [
     "Saat ensimmäisen vuoden My Best Buy Plus™ -jäsenyyden (29,99 $) ilmaiseksi. Ansaitse ",
@@ -165151,9 +164970,6 @@
       []
     ],
     "."
-  ],
-  "yYVbdv": [
-    "Avaa Nitrolla"
   ],
   "yYbR2r": [
     "Palautteessa saa olla negatiivisia arvosteluja enintään ",

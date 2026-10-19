@@ -1066,6 +1066,9 @@
       ]
     ]
   ],
+  "+Pu3G1": [
+    "nội-dung-ẩn"
+  ],
   "+PuO2N": [
     "Cứ ngồi yên đó, chúng tôi đang kết nối bạn vào lại!"
   ],
@@ -1188,9 +1191,6 @@
       1,
       "applicationName"
     ]
-  ],
-  "+SuGKb": [
-    "Tập hợp các kênh và DM bạn dùng nhiều nhất lại với nhau để truy cập nhanh."
   ],
   "+Svv46": [
     "Quên mật khẩu"
@@ -1458,6 +1458,40 @@
   "+a5G2l": [
     "Không khả dụng"
   ],
+  "+aHNgn": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã giành Hạng 1 từ ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " trên bảng xếp hạng với ",
+    [
+      2,
+      "value"
+    ],
+    " ngày chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "+aRmAc": [
     "Khởi động một máy chủ trò chơi khác"
   ],
@@ -1536,9 +1570,6 @@
   ],
   "+d9SH8": [
     "Chuyển Cuộc Gọi đến PlayStation"
-  ],
-  "+dSwhE": [
-    "Xem trước Mục Ưa Thích"
   ],
   "+dXJII": [
     "Tiếng Anh, Mỹ"
@@ -1664,9 +1695,6 @@
       1,
       "username"
     ]
-  ],
-  "+h9aza": [
-    "Đã rõ"
   ],
   "+h9nJG": [
     "Có quyền lợi nào khác không?"
@@ -3166,6 +3194,29 @@
     ],
     ", bạn sẽ mất các đặc quyền này vào cuối kỳ thanh toán hiện tại:"
   ],
+  "/JyaTi": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã thắng cuộc thi tuần này với ",
+    [
+      2,
+      "value"
+    ],
+    " ngày chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "/K2RDH": [
     "Ẩn bớt emoji"
   ],
@@ -3676,6 +3727,9 @@
   ],
   "/YzI63": [
     "Không có quyền truy cập"
+  ],
+  "/Z2sDF": [
+    "Chuỗi bảng xếp hạng"
   ],
   "/ZJIuo": [
     "Bạn thích âm thanh này? Nitro cho phép bạn dùng âm thanh của ",
@@ -4237,6 +4291,30 @@
   ],
   "/qG8v7": [
     "Xem tất cả"
+  ],
+  "/qIck6": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã thêm ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " vào máy chủ."
   ],
   "/qaauJ": [
     "Tương tác với ",
@@ -8122,9 +8200,6 @@
   "1QHJaW": [
     "Quyền lợi cho Máy Chủ"
   ],
-  "1QJmIL": [
-    "Thêm vào Danh mục"
-  ],
   "1QLRYb": [
     "Đã ghim"
   ],
@@ -8801,9 +8876,6 @@
   "1mcPhC": [
     "Cập nhật ứng dụng của bạn"
   ],
-  "1n0TGE": [
-    "Lấp đầy Mục Ưa Thích của bạn"
-  ],
   "1n6QXB": [
     "Trang bị bộ lọc giọng nói, nói vài lời và để niềm vui bắt đầu!"
   ],
@@ -9248,9 +9320,6 @@
   "20piMS": [
     "Giúp Khám Phá Máy Chủ an toàn hơn cho mọi người"
   ],
-  "20sYUU": [
-    "Nhận Nitro"
-  ],
   "20tmSN": [
     "Quà tặng Orbs hàng tháng"
   ],
@@ -9452,9 +9521,6 @@
   ],
   "24xrGb": [
     "Dữ liệu nhập vào không hợp lệ"
-  ],
-  "25YCHl": [
-    "Thêm vào Ưa thích"
   ],
   "25gfQX": [
     "Không có quyền truy cập"
@@ -10265,6 +10331,9 @@
   ],
   "2PJ1NP": [
     "Bạn đã tặng một gói đăng ký!"
+  ],
+  "2PKrQO": [
+    "Thử diện mạo này"
   ],
   "2PuL9F": [
     "Mặc dù trước đó bạn đã kết nối tài khoản Xbox của mình, vui lòng kết nối lại để mở các tính năng mới."
@@ -12263,6 +12332,9 @@
   "3CqDxp": [
     "Mở Chất Lượng Cho Ưu Tiên Dịch Vụ Thông Tin"
   ],
+  "3D0GLv": [
+    "Xem emoji Nitro"
+  ],
   "3D5eox": [
     "NÀY NÀY. BÌNH TĨNH BẠN HIỀN"
   ],
@@ -12485,9 +12557,6 @@
   ],
   "3KomGa": [
     "Tặng món quà Nitro"
-  ],
-  "3KruG3": [
-    "Đi tới Máy chủ"
   ],
   "3KwZ8n": [
     [
@@ -17072,6 +17141,29 @@
   "5D/KEH": [
     "Loại Đăng Ký"
   ],
+  "5D7LjH": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã thắng cuộc thi tuần này với ",
+    [
+      2,
+      "value"
+    ],
+    " trò khác nhau đã chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "5DFcVl": [
     "Hàng năm vào ngày ",
     [
@@ -20574,9 +20666,6 @@
       ]
     ]
   ],
-  "6kk0gM": [
-    "Thêm vào Ưa thích"
-  ],
   "6klMOk": [
     "Đã gửi báo cáo cho: ",
     [
@@ -22336,9 +22425,6 @@
   ],
   "7WwAXh": [
     "Chia sẻ mọi khoảnh khắc đỉnh cao ở độ phân giải lên đến 4K 60fps."
-  ],
-  "7WwLnr": [
-    "Xem trước"
   ],
   "7X+3f8": [
     [
@@ -24149,9 +24235,6 @@
   "8F6hKS": [
     "Sử dụng mật khẩu của bạn"
   ],
-  "8FO0y9": [
-    "Ẩn Mục Ưa thích"
-  ],
   "8FZfNo": [
     "Dùng thử ",
     [
@@ -24467,8 +24550,8 @@
     ],
     " trên bảng xếp hạng với ",
     [
-      2,
-      "value"
+      1,
+      "gameTime"
     ],
     " thời gian chơi."
   ],
@@ -26300,6 +26383,9 @@
   "93hqln": [
     "Đã đồng ý với Quy định"
   ],
+  "93iWsv": [
+    "Thành viên Nitro: Nhận thú nhồi bông Zombie Wumpus độc quyền bằng Orb!"
+  ],
   "93tEDn": [
     "Kết Nối"
   ],
@@ -26785,6 +26871,18 @@
   ],
   "9GlTSj": [
     "Đã có lỗi xảy ra trong quá trình xóa yêu cầu kết bạn nhận được. Vui lòng thử lại sau."
+  ],
+  "9Gofqp": [
+    [
+      1,
+      "name"
+    ],
+    ", ",
+    [
+      1,
+      "presence"
+    ],
+    ", xem hồ sơ"
   ],
   "9GpDYK": [
     "Xám nhạt"
@@ -28209,6 +28307,9 @@
     ],
     " tháng/lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy bất cứ lúc nào."
   ],
+  "9xo1g9": [
+    "Có sẵn tại các nhà bán lẻ chọn lọc trực tuyến và tại Cửa hàng"
+  ],
   "9yE8Ga": [
     "Chế độ Chậm được bật. Thành viên có thể tạo một bài đăng ",
     [
@@ -28763,6 +28864,13 @@
   ],
   "AERuYh": [
     "Đặt tên cho nhóm của bạn"
+  ],
+  "AEfs1D": [
+    "Tới ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "AF+Tyh": [
     "Nâng cấp máy chủ này để mở khóa các đặc quyền"
@@ -29534,6 +29642,9 @@
   ],
   "AcBI9S": [
     "Chuyển đổi danh sách thành viên kênh và trò chuyện văn bản có kênh thoại"
+  ],
+  "AcH7R7": [
+    "Phím tắt bàn phím được đăng ký với máy tính để bàn của bạn. Các thay đổi có thể cần bạn phê duyệt và bạn có thể gán lại chúng trong cài đặt hệ thống."
   ],
   "AcJ4ke": [
     "Thiết lập khung giờ khi thanh thiếu niên của bạn không thể sử dụng Discord. Họ sẽ không nhận được thông báo và không thể truy cập Discord trong suốt thời gian này."
@@ -33554,6 +33665,40 @@
   "CHXHFX": [
     "Không hoạt động"
   ],
+  "CHYFwK": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã giành Hạng 1 từ ",
+    [
+      8,
+      "previousUsernameHook",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ]
+    ],
+    " trên bảng xếp hạng với ",
+    [
+      2,
+      "value"
+    ],
+    " trò khác nhau đã chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "CHa0vN": [
     "Sản Phẩm Không Khả Dụng"
   ],
@@ -33603,6 +33748,13 @@
   ],
   "CIsNZw": [
     "Tích hợp"
+  ],
+  "CJ0I6C": [
+    [
+      2,
+      "count"
+    ],
+    " người tham gia khác"
   ],
   "CJ30BP": [
     "Dừng Đọc Tin Nhắn"
@@ -34336,6 +34488,13 @@
   "Ce0ZBI": [
     "Mạng hạ gục dẫn tới thắng vòng"
   ],
+  "Ce2iXp": [
+    [
+      1,
+      "guildName"
+    ],
+    ", đi tới máy chủ"
+  ],
   "CeBa/4": [
     "Ngày hết hạn"
   ],
@@ -34395,9 +34554,6 @@
       1,
       "interval"
     ]
-  ],
-  "CgmkFJ": [
-    "Ưa thích"
   ],
   "CgyVP+": [
     [
@@ -35249,19 +35405,6 @@
   "D7HSLJ": [
     "Clip thủ công"
   ],
-  "D7S0Zo": [
-    "Ưa thích miễn phí bị giới hạn ở ",
-    [
-      2,
-      "count"
-    ],
-    ". Đăng ký Nitro để thêm lên tới ",
-    [
-      2,
-      "maxCount"
-    ],
-    " kênh và DM."
-  ],
   "D7Sngz": [
     "Người dùng đã gọi"
   ],
@@ -35498,9 +35641,6 @@
   "DFSvTt": [
     "Liên kết"
   ],
-  "DFjrWw": [
-    "Nhấp chuột phải vào kênh hoặc DM bất kỳ để thêm vào Mục Ưa Thích. Rất dễ dàng."
-  ],
   "DFlDaE": [
     "Nhập quyền lợi"
   ],
@@ -35552,9 +35692,6 @@
       1,
       "price"
     ]
-  ],
-  "DIyQIF": [
-    "Tự động thêm chủ đề"
   ],
   "DJ+bGu": [
     "Vai trò và biểu tượng của bạn"
@@ -37290,6 +37427,25 @@
       "questName"
     ]
   ],
+  "EAkHd2": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " đã được thêm vào máy chủ."
+  ],
   "EApw/R": [
     "Hoạt động điều phối viên"
   ],
@@ -38922,6 +39078,19 @@
   "EuXv2q": [
     "Ẩn Chế độ Tiệc tùng"
   ],
+  "EuarXc": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " đã yêu cầu bạn stream"
+  ],
   "Eukdgl": [
     "Nói bằng sticker"
   ],
@@ -39214,9 +39383,6 @@
   ],
   "F3bDaX": [
     "Sự kiện trong kênh riêng tư sẽ chỉ hiện cho những người có thể truy cập vào kênh đó."
-  ],
-  "F3dWTe": [
-    "Bỏ qua kênh được đề xuất"
   ],
   "F3qExp": [
     "Rời đi"
@@ -40335,9 +40501,6 @@
   "Fa8W1W": [
     "Xem tiêu điểm nhà sáng tạo tiếp theo"
   ],
-  "FaHxWl": [
-    "Bật lại tính năng này bất kỳ lúc nào trong Cài Đặt."
-  ],
   "FaXGO/": [
     "- Chưa cung cấp -"
   ],
@@ -40353,7 +40516,7 @@
       1,
       "text"
     ],
-    " • ",
+    " · ",
     [
       1,
       "duration"
@@ -40385,6 +40548,9 @@
       "maxLength"
     ],
     " ký tự."
+  ],
+  "FcBebW": [
+    "FcBebW"
   ],
   "FcE5RR": [
     "Xem thêm ",
@@ -41251,6 +41417,13 @@
   "G5FsgF": [
     "Đảo Man"
   ],
+  "G5PLYW": [
+    "+",
+    [
+      2,
+      "count"
+    ]
+  ],
   "G5Uvsm": [
     "Các thành viên sẽ được yêu cầu chấp nhận Quy Định Máy Chủ sau các câu hỏi Hướng Dẫn Làm Quen."
   ],
@@ -41530,13 +41703,10 @@
     "một Hoạt Động"
   ],
   "G9HG5O": [
-    "Nâng cấp cuộc trò chuyện của bạn"
+    "Bạn đang sử dụng khung trò chuyện kiểu cũ"
   ],
   "G9JfLg": [
     "Bao gồm các dịch vụ bên thứ ba mà bạn đã cấp quyền truy cập vào tài khoản Discord của mình. Bạn có thể xem lại những gì mỗi ứng dụng có thể làm và thu hồi quyền truy cập bất kỳ lúc nào."
-  ],
-  "G9fGlP": [
-    "Thêm vào Ưa thích"
   ],
   "G9koyR": [
     "Ưu đãi Halloween: Đã thu thập ",
@@ -42266,23 +42436,6 @@
     ],
     " trước khi nhận món quà này."
   ],
-  "GR2KOG": [
-    "Mục Ưa Thích của bạn vẫn được lưu lại, ngay cả khi bạn tắt tính năng này. ",
-    [
-      8,
-      "$link",
-      [
-        "Tìm hiểu thêm"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    "."
-  ],
   "GR7NIF": [
     "Thẻ mới"
   ],
@@ -42579,6 +42732,9 @@
       "seatLabel"
     ],
     ", cầm điều khiển"
+  ],
+  "GZsvDx": [
+    "Trò Chơi Thịnh Hành"
   ],
   "GZvXuP": [
     "Quyền hạn nâng cao sẽ cấp quyền truy cập cao hơn đối với các cài đặt máy chủ, và chỉ nên trao quyền hạn này cho những điều phối viên đáng tin cậy."
@@ -44103,6 +44259,13 @@
   "HB5Q+k": [
     "Hãy để Hệ Điều Hành của tôi quyết định"
   ],
+  "HBJiRR": [
+    "Đang chơi ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "HBR9Q0": [
     "Bây giờ bạn đã có thể sử dụng một hình đại diện hoạt hình!"
   ],
@@ -45076,6 +45239,9 @@
   "Hdh7sT": [
     "Cài đặt này cho phép bạn bè tham gia vào trò chơi của bạn mà không cần phải gửi yêu cầu xin vào."
   ],
+  "He+1tx": [
+    "SQLite tổng"
+  ],
   "He+cmd": [
     "Tên Máy Chủ Không Khả Dụng"
   ],
@@ -45102,16 +45268,20 @@
   "HepAlF": [
     "Bạn có chắc chắn muốn ẩn mục này không? Bạn sẽ không còn thấy danh bạ của mình trong Thông Báo nữa."
   ],
-  "HespNQ": [
-    "Tìm kiếm clip"
-  ],
-  "Hevebj": [
-    "Thêm ",
+  "HervnJ": [
     [
       1,
-      "name"
+      "username"
     ],
-    " vào Ưa thích"
+    " đang dẫn đầu ",
+    [
+      1,
+      "statName"
+    ],
+    " tuần này!"
+  ],
+  "HespNQ": [
+    "Tìm kiếm clip"
   ],
   "HewMzo": [
     "Bài đăng Reddit, yêu cầu Zendesk, hay Tweet?"
@@ -46066,6 +46236,9 @@
   ],
   "I509Dl": [
     "Muốn Chơi"
+  ],
+  "I5UWh9": [
+    "Nhận Nitro, vật phẩm Cửa hàng, Nâng Cấp Máy Chủ và nhiều thứ khác"
   ],
   "I5dYFs": [
     [
@@ -48472,6 +48645,9 @@
   "J0dpcB": [
     "Hiển Thị Tên"
   ],
+  "J0m3aK": [
+    "Máy tính của bạn không thể đăng ký phím tắt này, nên có thể nó sẽ không hoạt động trên Wayland. Thay vào đó, hãy lưu một phím tắt với phím bổ trợ tùy chọn (ví dụ Ctrl+F9)."
+  ],
   "J0tNny": [
     "Bao gồm các yêu cầu theo Đạo luật An toàn Trực tuyến"
   ],
@@ -49445,6 +49621,9 @@
   "JZxxGx": [
     "Đọc to tất cả tin nhắn"
   ],
+  "Ja5Q8Z": [
+    "Nhận thẻ quà tặng Discord"
+  ],
   "JaIyFi": [
     "Bạn không thể có nhiều hơn ",
     [
@@ -50238,7 +50417,7 @@
       1,
       "rewardPercentage"
     ],
-    "% phần thưởng cho đơn đặt trước những trò chơi khủng nhất mùa này như Call of Duty: Modern Warfare 4 và nhiều trò khác. Đổi trước ",
+    "% phần thưởng cho đơn đặt trước những trò chơi khủng nhất mùa này. Đổi trước ",
     [
       3,
       "date",
@@ -53470,14 +53649,6 @@
   "LbCJkt": [
     "nft"
   ],
-  "LbCa8x": [
-    "Thêm Vào Ưa Thích (",
-    [
-      2,
-      "count"
-    ],
-    ")"
-  ],
   "LbLP1c": [
     "Không vấn đề gì"
   ],
@@ -53845,6 +54016,19 @@
       ]
     ],
     " (Miễn Thuế)"
+  ],
+  "LlJum4": [
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " đã được thêm vào máy chủ."
   ],
   "LlZaoX": [
     "Thanh toán cho gói đăng ký Nitro của bạn không thành công, vui lòng cập nhật chi tiết thanh toán của bạn."
@@ -54356,23 +54540,6 @@
       ]
     ],
     " của chúng tôi."
-  ],
-  "LyZZLX": [
-    "Nhấp chuột phải vào bất kỳ kênh hoặc DM nào và ",
-    [
-      8,
-      "$link",
-      [
-        "thêm vào Ưa thích"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để truy cập nhanh."
   ],
   "LykQYk": [
     "Xác Nhận Email"
@@ -55462,6 +55629,9 @@
   "MPFyJ5": [
     "Thành viên đăng ký Nitro được giảm giá khi mua trang trí này"
   ],
+  "MPURhG": [
+    "Roblox"
+  ],
   "MPaut5": [
     "Nhóm của ",
     [
@@ -55907,6 +56077,9 @@
   ],
   "Mb0cJJ": [
     "Tin nhắn dài hơn (tối đa 4.000 ký tự)"
+  ],
+  "Mb5E6r": [
+    "Mb5E6r"
   ],
   "MbWAxk": [
     [
@@ -57214,6 +57387,9 @@
     ],
     " phút trước"
   ],
+  "N9U/9X": [
+    "Mật khẩu của bạn đã được đặt lại. Đăng nhập bằng mật khẩu mới của bạn."
+  ],
   "N9WJMM": [
     "Yêu Cầu Xem Xét Thủ Công"
   ],
@@ -57561,6 +57737,9 @@
   ],
   "NJFr+g": [
     "Dạng danh sách"
+  ],
+  "NJLgMs": [
+    "Thử phong cách tên này"
   ],
   "NJm/0W": [
     "Liên kết Mời Tùy chỉnh (",
@@ -58035,6 +58214,9 @@
       ]
     ],
     " + thuế áp dụng"
+  ],
+  "NV+MBV": [
+    "Bạn không có Thẻ máy chủ nào để chọn."
   ],
   "NV85DR": [
     "Sắp xếp lại ",
@@ -60218,9 +60400,6 @@
   "OSvmfH": [
     "Đọc phần thông tin thành viên (biệt danh, ảnh đại diện, vai trò, v.v.) để biết bạn thuộc máy chủ nào"
   ],
-  "OT1NK5": [
-    "Hiển thị máy chủ Ưa thích"
-  ],
   "OTHOvZ": [
     [
       1,
@@ -60968,6 +61147,9 @@
   ],
   "Olc2K3": [
     "Quay lại Cài Đặt"
+  ],
+  "OleW32": [
+    "Các tính năng cộng đồng mới mà Discord hỗ trợ đã có trong Call of Duty: Modern Warfare 4. Nâng cấp kết nối của bạn để mở khóa danh sách bạn bè và lời mời đồng nhất."
   ],
   "Olo8FB": [
     "Danh Mục"
@@ -62448,7 +62630,7 @@
     "sticker"
   ],
   "PJn0ih": [
-    "Bật từng cài đặt để đóng góp vào bảng xếp hạng. Bạn có thể thay đổi chúng bất cứ lúc nào trong cài đặt."
+    "Bật các cài đặt để đóng góp vào bảng xếp hạng. Bạn có thể thay đổi chúng bất cứ lúc nào trong cài đặt."
   ],
   "PJsjbP": [
     "Đã thêm một emoji mới, ",
@@ -62849,6 +63031,12 @@
   ],
   "PSuly6": [
     "Khởi chạy Whiteboard"
+  ],
+  "PTCrUP": [
+    "Máy tính bàn của bạn chưa cho phép phím tắt này. Hãy phê duyệt nó trong cài đặt phím tắt tổng thể của hệ thống."
+  ],
+  "PTDDhW": [
+    "Vô hình sẽ ẩn hoạt động chơi của bạn. Hãy Trực tuyến để tham gia bảng xếp hạng."
   ],
   "PTHakm": [
     "Tạo mật khẩu"
@@ -63552,9 +63740,6 @@
   ],
   "PpoJzt": [
     "Quà tặng của bạn"
-  ],
-  "PprSsy": [
-    "Quản lý Ưa thích"
   ],
   "PqEzn8": [
     "Không bao giờ"
@@ -65227,6 +65412,13 @@
   ],
   "QcJbt6": [
     "Mở thêm nhiều chỗ hơn cho các sticker tùy chỉnh"
+  ],
+  "QcKHvf": [
+    "Mở rộng ",
+    [
+      1,
+      "sectionName"
+    ]
   ],
   "QcmgBF": [
     "Cho phép những thành viên bạn tương tác nhiều nhất nhận thông báo khi bạn bắt đầu stream trong các máy chủ nhỏ."
@@ -67888,9 +68080,6 @@
   "Rp2AbV": [
     "Huy hiệu vương miện"
   ],
-  "Rp35U1": [
-    "Thêm vào Ưa thích"
-  ],
   "RpE9k7": [
     "Đánh Dấu Chưa Đọc"
   ],
@@ -67958,6 +68147,9 @@
       "numFreeGuildSubscriptions"
     ],
     " Nâng Cấp Máy Chủ suốt cả năm."
+  ],
+  "RqXsIs": [
+    "RqXsIs"
   ],
   "Rqmi9/": [
     "Chọn phòng bạn muốn không gian của mình sử dụng."
@@ -69828,32 +70020,6 @@
   "SgjaXI": [
     "Đang bắt đầu"
   ],
-  "SgkNaU": [
-    "Đã bỏ chọn ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Không có vật phẩm nào được chọn"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " vật phẩm đã được chọn"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
-  ],
   "SgmSo9": [
     "Bạn không có quyền đính kèm tập tin"
   ],
@@ -70970,7 +71136,7 @@
     "Đặt Lại Ảnh Đại Diện"
   ],
   "TE+uDu": [
-    "Tới xem nào"
+    "Khám phá ngay"
   ],
   "TEEYwa": [
     "Người bán có xếp hạng cao"
@@ -71006,6 +71172,13 @@
   ],
   "TFc+iF": [
     "Phía Trên Tầng Mây"
+  ],
+  "TFn1fS": [
+    "Stream ",
+    [
+      1,
+      "gameName"
+    ]
   ],
   "TG0QsS": [
     "Máy chủ tôi chia sẻ"
@@ -71204,9 +71377,6 @@
   ],
   "TN+ZvB": [
     "Xem trước trang trí ảnh đại diện của bạn trong trò chuyện"
-  ],
-  "TN4nAX": [
-    "Gỡ bỏ khỏi Ưa thích"
   ],
   "TNLcpx": [
     "hình ảnh"
@@ -71531,6 +71701,13 @@
   "TUKMak": [
     "Chia sẻ trạng thái hoạt động của bạn trong máy chủ này"
   ],
+  "TUZ50q": [
+    "Xem trước ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "TUilLj": [
     "Sử dụng Nâng Cấp để mở khóa các gói huy hiệu đặc biệt theo chủ đề cho Tag Máy Chủ của bạn!"
   ],
@@ -71596,9 +71773,6 @@
       ]
     ],
     " khi có đăng ký Nitro"
-  ],
-  "TWuDTt": [
-    "Thêm nhiều Mục Ưa Thích hơn"
   ],
   "TWz/S+": [
     "Discord có thể kết nối và giúp bạn bè của bạn tìm thấy bạn. Danh bạ của bạn sẽ được gửi cho chúng tôi thường xuyên. ",
@@ -73333,6 +73507,9 @@
   "UCuHM8": [
     "Cài đặt tài khoản thanh thiếu niên"
   ],
+  "UD3OKX": [
+    "SQLite còn trống"
+  ],
   "UD5nn5": [
     "còn lại ",
     [
@@ -75049,6 +75226,22 @@
   "UwPrKZ": [
     "Phát triển cộng đồng của bạn với Khám Phá Máy Chủ"
   ],
+  "UwYHGm": [
+    "Tìm hiểu thêm trên ",
+    [
+      8,
+      "$link",
+      [
+        "website của chúng tôi"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ]
+  ],
   "Uwhb1l": [
     "Tiến trình cấp độ tiếp theo"
   ],
@@ -76412,6 +76605,71 @@
   "VVZDBL": [
     "Xin lỗi, stream này đã đạt số lượng người xem tối đa."
   ],
+  "VW2XVd": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã di chuyển ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " tới ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
+  ],
   "VWNyUu": [
     "Đánh dấu cảnh báo đã hoàn thành"
   ],
@@ -76675,7 +76933,7 @@
     "Mở một yêu cầu"
   ],
   "VdzwlA": [
-    "Bật ngay"
+    "Tắt nó đi"
   ],
   "Ve/y5z": [
     "Tất cả các Bậc Gói Đăng Ký"
@@ -78900,9 +79158,6 @@
   "WaL+LA": [
     "Phòng chờ bên trái"
   ],
-  "WaP/lz": [
-    "Thêm các kênh và DM hàng đầu vào Mục Ưa Thích để truy cập nhanh. Chỉ có khi đăng ký Nitro."
-  ],
   "WaSgzk": [
     "Đặt chế độ chậm mặc định của luồng thành ",
     [
@@ -79698,9 +79953,6 @@
   ],
   "WsTHkY": [
     "Hiện Cách Thức Hoạt Động"
-  ],
-  "WsUrMD": [
-    "Hết Chỗ"
   ],
   "WsUuTt": [
     "Thiết lập"
@@ -80569,6 +80821,9 @@
   ],
   "XFYW1o": [
     "Tìm Kiếm Tất Cả Người Dùng"
+  ],
+  "XFZr3P": [
+    "Đăng Ký"
   ],
   "XFa6Q8": [
     "Thành viên sẽ phải trả lời các câu hỏi này trên trang Kênh & Vai trò sau khi họ gia nhập máy chủ của bạn. Dùng chúng để\nchỉ định các vai trò mà thành viên có thể chọn sau này, như các vai trò ảo."
@@ -82464,6 +82719,9 @@
   "Y3fdOp": [
     "Chúng tôi vừa gửi cho bạn một email. Nhấp vào liên kết xác thực trong email để phê duyệt thao tác mua hàng."
   ],
+  "Y3poDW": [
+    "Y3poDW"
+  ],
   "Y40Jke": [
     "Alo, có ai ở đó không?"
   ],
@@ -82540,6 +82798,9 @@
       ]
     ],
     " đang dẫn đầu."
+  ],
+  "Y6LdPr": [
+    "Xác nhận tài khoản của bạn để hoàn thành thanh toán này. Đăng nhập để bắt đầu."
   ],
   "Y6Qfju": [
     "Máy chủ của ",
@@ -83892,9 +84153,6 @@
   "YkDjVM": [
     "Lối tắt"
   ],
-  "YkET6R": [
-    "Đặt lại Ưa thích"
-  ],
   "YkEzAe": [
     "thế-giới-disney"
   ],
@@ -84898,23 +85156,6 @@
   "Z3G+8h": [
     "Người dùng đã nhắn tin hoặc gọi"
   ],
-  "Z3Hdr5": [
-    "Nhấn và giữ bất kỳ kênh hoặc DM nào và ",
-    [
-      8,
-      "$link",
-      [
-        "thêm vào Ưa thích"
-      ],
-      [
-        [
-          1,
-          "onClick"
-        ]
-      ]
-    ],
-    " để truy cập nhanh."
-  ],
   "Z3LquY": [
     "Xem hoạt động của bạn bè"
   ],
@@ -85175,6 +85416,14 @@
       1,
       "colorHex"
     ]
+  ],
+  "ZCFDN+": [
+    "Đã thắng các cuộc thi bảng xếp hạng gaming trong ",
+    [
+      2,
+      "streakCount"
+    ],
+    " tuần qua."
   ],
   "ZCKAg8": [
     "Đăng ký"
@@ -85781,6 +86030,9 @@
   "ZPB6+J": [
     "Hãy mô tả bản thân bằng ba emoji"
   ],
+  "ZPHaPE": [
+    "Thay đổi trong cài đặt hệ thống"
+  ],
   "ZPMAlX": [
     "Thay Đổi Kiểu Tên Hiển Thị"
   ],
@@ -85883,6 +86135,9 @@
   ],
   "ZT24In": [
     "Tìm Duyệt Ảnh"
+  ],
+  "ZT58S4": [
+    "MỚI! Tin nhắn được lên lịch"
   ],
   "ZTH4j4": [
     "Hiển thị nút ứng dụng"
@@ -86218,6 +86473,14 @@
   ],
   "ZaJksS": [
     "Âm thanh nguyên bản: mở mic không xử lý"
+  ],
+  "ZaOAtm": [
+    "Người dẫn đầu hiện tại (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
   ],
   "ZaXBoD": [
     "Không hỗ trợ tệp lưu trữ"
@@ -86958,28 +87221,15 @@
     "Thêm vào Danh sách kênh"
   ],
   "ZtUieE": [
+    "Lệnh ứng dụng không hoạt động khi bật tính năng này. Tắt nó để dùng lại. Bạn có thể bật lại bất cứ lúc nào trong ",
     [
       8,
-      "$p",
+      "openSettingsHook",
       [
-        "Truy cập vào lệnh Slash và các cách thức trò chuyện tuyệt vời khác bằng cách bật các tính năng mới nhất của chúng tôi."
+        "Cài đặt người dùng > Trợ Năng"
       ]
     ],
-    [
-      8,
-      "$p",
-      [
-        "Bạn luôn có thể quay lại chế độ trò chuyện truyền thống bất kỳ lúc nào bằng cách đi tới ",
-        [
-          8,
-          "openSettingsHook",
-          [
-            "Thiết Lập Người Dùng > Trợ Năng"
-          ]
-        ],
-        "."
-      ]
-    ]
+    "."
   ],
   "ZtdF0+": [
     "Không khả dụng"
@@ -86989,9 +87239,6 @@
   ],
   "ZtiU7w": [
     "Chế độ quan sát"
-  ],
-  "Ztl9ht": [
-    "Nhấn và giữ bất kỳ kênh hoặc DM nào để thêm vào Ưa thích. Đơn giản vậy thôi."
   ],
   "Ztu2Yo": [
     "Thời gian tắt âm"
@@ -87010,6 +87257,22 @@
   ],
   "ZuXSRp": [
     "Nhấn giữ để ẩn các huy hiệu bạn muốn để ở chế độ riêng tư."
+  ],
+  "ZuneBP": [
+    "Đổi quà trong ",
+    [
+      8,
+      "$link",
+      [
+        "Cài Đặt Thanh Toán"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
   ],
   "Zuo+Vd": [
     "Bạn có chắc bạn muốn xoá ",
@@ -87210,9 +87473,6 @@
   ],
   "ZzcLhc": [
     "Nếu chúng tôi nhầm, hãy xác nhận bạn là người lớn"
-  ],
-  "ZzcwNk": [
-    "Xóa Ưa thích và khôi phục trạng thái lần chạy đầu tiên."
   ],
   "ZzdgUm": [
     "Không Thể Đặt Thành Kênh Riêng Tư"
@@ -87634,9 +87894,6 @@
   ],
   "a9ngnE": [
     "Kiểm Tra Cập Nhật"
-  ],
-  "aA0vO8": [
-    "Đánh dấu ưa thích mục này bằng Nitro"
   ],
   "aA4Vce": [
     "Tùy Chọn Đầu Ra"
@@ -89921,9 +90178,6 @@
   "avpngL": [
     "avpngL"
   ],
-  "avps/2": [
-    "Nhận Nitro"
-  ],
   "avs5Vg": [
     "Những điểm gì chưa tốt?"
   ],
@@ -90255,6 +90509,9 @@
       "count"
     ],
     " DM Nhóm"
+  ],
+  "b2yxYL": [
+    "Giữ các tin nhắn quan trọng nhất của bạn ở một nơi."
   ],
   "b3+OH1": [
     "Nhận Discord Orbs khi thực hiện giao dịch mua trong trò chơi Marvel Rivals."
@@ -92637,9 +92894,6 @@
   "btxSdB": [
     "Đã tắt âm của phòng"
   ],
-  "bu/mLv": [
-    "Mục Ưa Thích đã có mặt!"
-  ],
   "bu5sya": [
     [
       2,
@@ -93887,6 +94141,9 @@
   "cOkbp/": [
     "Nghe bạn bè nói chuyện rõ nhất có thể! Như thể họ đang ở ngay bên cạnh bạn…"
   ],
+  "cOmrX4": [
+    "Để thanh toán bằng phương thức thanh toán khác, hãy đăng nhập vào tài khoản của bạn."
+  ],
   "cPQCeg": [
     "Chậu cây"
   ],
@@ -94679,6 +94936,9 @@
   ],
   "cgR+IK": [
     "Instagram"
+  ],
+  "cgRADC": [
+    "Bạn đang Trực tuyến! Chúng tôi sẽ tính hoạt động của bạn và bạn sẽ xuất hiện trên bảng xếp hạng vào ngày mai."
   ],
   "cgT481": [
     "Hãy xem xét ",
@@ -96101,6 +96361,9 @@
   "cxFiDC": [
     "Ngôn ngữ nhạy cảm"
   ],
+  "cxSpOM": [
+    "Xem trước Stream"
+  ],
   "cxy+zn": [
     "Hãy thêm bạn bè và trò chuyện trực tiếp với họ"
   ],
@@ -97329,9 +97592,6 @@
   "dW6EBf": [
     "Ưa thích của bạn"
   ],
-  "dW9Kov": [
-    "Đã đạt giới hạn Ưa thích"
-  ],
   "dWTAXT": [
     "Đồng Koruna Cộng hòa Séc"
   ],
@@ -97351,6 +97611,52 @@
       "title"
     ],
     " · Bản nháp"
+  ],
+  "dX9B32": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " đã giành Hạng 1 từ ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " trên bảng xếp hạng với ",
+    [
+      2,
+      "value"
+    ],
+    " trò khác nhau đã chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
   ],
   "dXC/hn": [
     "năm"
@@ -98457,6 +98763,9 @@
   ],
   "dqQgZv": [
     "Tặng gói thành viên Nitro mới"
+  ],
+  "dqYuni": [
+    "Chia sẻ Hoạt động đã bật. Chúng tôi sẽ tính hoạt động của bạn và bạn sẽ xuất hiện trên bảng xếp hạng vào ngày mai."
   ],
   "dqb2JZ": [
     "Tiêu chuẩn"
@@ -100414,6 +100723,9 @@
   "ec5Rdd": [
     "10 giờ chơi game trên cloud mỗi tháng"
   ],
+  "ecPCdG": [
+    "Gói thành viên My Best Buy Plus™"
+  ],
   "ecTJkR": [
     "Khung Hồ Sơ"
   ],
@@ -101270,6 +101582,52 @@
   "exRczv": [
     "Có vấn đề về hiệu năng"
   ],
+  "exTWBN": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " đã giành Hạng 1 từ ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "previousUsername"
+        ]
+      ],
+      [
+        [
+          1,
+          "previousUsernameOnClick"
+        ]
+      ]
+    ],
+    " trên bảng xếp hạng với ",
+    [
+      2,
+      "value"
+    ],
+    " ngày chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "exclamation": [
     "!",
     "cảm thán",
@@ -101677,6 +102035,35 @@
   "f6RTAM": [
     "ĐÃ XONG"
   ],
+  "f6TxHV": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " đã thắng cuộc thi tuần này với ",
+    [
+      2,
+      "value"
+    ],
+    " ngày chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "f6YgdN": [
     "Hoạt động > 30 ngày trước"
   ],
@@ -101952,6 +102339,13 @@
   ],
   "fG3RIg": [
     "Cửa Hàng Orb"
+  ],
+  "fGlxFS": [
+    [
+      1,
+      "name"
+    ],
+    ", xem hồ sơ"
   ],
   "fGrbRX": [
     "Xảy ra lỗi khi đồng bộ hóa danh bạ của bạn. Vui lòng chờ trong giây lát và thử lại sau."
@@ -102480,8 +102874,8 @@
     ],
     " trên bảng xếp hạng với ",
     [
-      2,
-      "value"
+      1,
+      "gameTime"
     ],
     " thời gian chơi."
   ],
@@ -102898,6 +103292,9 @@
   ],
   "fbKwSs": [
     "Bạn có thể sử dụng emoji và các ký tự đặc biệt."
+  ],
+  "fbbIpP": [
+    "Stream để bắt đầu Thu Clip"
   ],
   "fbcCzZ": [
     "Xem Ứng Dụng"
@@ -104280,9 +104677,6 @@
       "count"
     ],
     " tháng trước"
-  ],
-  "g2vHYJ": [
-    "Các chủ đề bạn tham gia sẽ vào danh mục \"Tự động thêm chủ đề\"."
   ],
   "g33r/P": [
     "Nhắn tin"
@@ -107189,6 +107583,66 @@
   "hElye1": [
     "Xem các danh sách khác cho SKU này"
   ],
+  "hEqea3": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã di chuyển ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "uniqueCount"
+        ],
+        " người dùng"
+      ]
+    ],
+    " tới ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
+  ],
   "hFDcmZ": [
     [
       2,
@@ -107324,9 +107778,6 @@
   ],
   "hIErU3": [
     "Không có hoạt động gì trong 7 ngày gần đây"
-  ],
-  "hINqUs": [
-    "Cần thêm lượt Ưa thích?"
   ],
   "hISCms": [
     "Các hình thức chửi thề hoặc chửi tục cực kỳ tệ"
@@ -112162,6 +112613,9 @@
   "jCV1Tz": [
     "Thay thế"
   ],
+  "jCZgxQ": [
+    "Người dẫn đầu hiện tại của bảng xếp hạng gaming tuần này."
+  ],
   "jCqvk/": [
     "Kết Nối Tài Khoản của Bạn"
   ],
@@ -112733,6 +113187,9 @@
   ],
   "jVrUnC": [
     "Xóa Webhook"
+  ],
+  "jVv7YM": [
+    "giới-hạn-độ-tuổi"
   ],
   "jW+QO/": [
     "Máy chủ Đối Tác phải đáp ứng yêu cầu cơ bản về hoạt động. Chúng tôi không thể tính toán điều này cho đến khi máy chủ của bạn có ít nhất ",
@@ -113679,6 +114136,13 @@
   ],
   "js8y7t": [
     "Sử dụng chủ đề của tôi theo mặc định"
+  ],
+  "jsV9yS": [
+    "Thu gọn ",
+    [
+      1,
+      "sectionName"
+    ]
   ],
   "jsr/6e": [
     "Sàng lọc các tin nhắn có chứa ngôn từ tục tĩu và những vi phạm khác. ",
@@ -114847,9 +115311,6 @@
   "kQ6oLs": [
     "Zimbabwe"
   ],
-  "kQL9be": [
-    "Chúng tôi đã tìm kiếm khắp nơi. Thật không may, không tìm thấy kết quả nào. Hãy tham gia một máy chủ hoặc bắt đầu một DM để thêm Mục Ưa Thích đầu tiên của bạn."
-  ],
   "kQN/bi": [
     "Thay đổi cách sắp xếp Bài Đăng Đa Phương Tiện"
   ],
@@ -115958,9 +116419,6 @@
   "kxNf2n": [
     "Nhảy vào khung trò chuyện cùng bạn bè trong thẻ Tin Nhắn mới"
   ],
-  "kxQJ7q": [
-    "Thêm các kênh và tin nhắn trực tiếp hàng đầu vào đây để truy cập nhanh."
-  ],
   "kxlybP": [
     "Cập Nhật Vai Trò Được Liên Kết"
   ],
@@ -116531,6 +116989,9 @@
   "l8YumU": [
     "Chảy Nước"
   ],
+  "l8nVB9": [
+    "Truy cập emoji nhanh hơn"
+  ],
   "l8rYLt": [
     "Tin nhắn của bạn quá dài."
   ],
@@ -116949,6 +117410,9 @@
   "lLDtTK": [
     "Tìm kiếm bạn bè"
   ],
+  "lLFi5U": [
+    "Tùy chọn Đồ sưu tầm"
+  ],
   "lLFvlT": [
     "Tên"
   ],
@@ -117014,6 +117478,49 @@
   ],
   "lOAkKo": [
     "Đã hủy chặn tài khoản"
+  ],
+  "lODaeu": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã ngắt kết nối ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "uniqueCount"
+        ],
+        " người dùng"
+      ]
+    ],
+    " khỏi kênh thoại (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
   ],
   "lOIOSK": [
     "đã chặn một tin nhắn trong ",
@@ -120941,6 +121448,35 @@
   "mgsmfY": [
     "Luồng này đã bị tắt thông qua công cụ dành cho nhà phát triển"
   ],
+  "mhO0Bz": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " đã thắng cuộc thi tuần này với ",
+    [
+      2,
+      "value"
+    ],
+    " trò khác nhau đã chơi và ",
+    [
+      1,
+      "gameTime"
+    ],
+    " thời gian chơi."
+  ],
   "mhUrKS": [
     "Trước khi có thể sử dụng Trung Tâm Gia Đình, chúng tôi cần xác minh tuổi của bạn để có thể cung cấp cho bạn những trải nghiệm phù hợp. Chúng tôi chỉ hỏi duy nhất một lần."
   ],
@@ -121757,32 +122293,6 @@
   ],
   "mvPFbA": [
     "Thêm cập nhật của kênh này vào máy chủ của bạn!"
-  ],
-  "mvPjcC": [
-    "Đã chọn ",
-    [
-      1,
-      "name"
-    ],
-    ". ",
-    [
-      6,
-      "count",
-      {
-        "=0": [
-          "Không có vật phẩm nào được chọn"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " vật phẩm đã được chọn"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    "."
   ],
   "mvee4V": [
     "Thêm cảnh báo"
@@ -125278,9 +125788,6 @@
   "oHVeHc": [
     "Khả năng Spam cao"
   ],
-  "oHWnLy": [
-    "Kênh được đề xuất"
-  ],
   "oHdW+u": [
     "Chưa có hạng"
   ],
@@ -127795,6 +128302,9 @@
   ],
   "pKCxWP": [
     "Tìm kiếm đã bắt đầu"
+  ],
+  "pKLV22": [
+    "Bạn không thể khởi chạy hoạt động trong các kênh giới hạn độ tuổi."
   ],
   "pKZ4I8": [
     "Kênh Sân Khấu (Đã khóa)"
@@ -131421,6 +131931,66 @@
       ]
     ]
   ],
+  "qXazAb": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã di chuyển ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ người dùng"
+      ]
+    ],
+    " tới ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Tiêu chuẩn"
   ],
@@ -132054,6 +132624,9 @@
   "qtJKH2": [
     "Bất kỳ ai cũng có thể giúp tăng cấp, giúp mở khóa tùy chỉnh và các đặc quyền chung trên máy chủ ưa thích của bạn"
   ],
+  "qtKobx": [
+    "Sở hữu ngay một thẻ quà tặng. Theo đúng nghĩa đen! Hiện đã có tại một số nhà bán lẻ trực tuyến và tại cửa hàng."
+  ],
   "qtSJxb": [
     "Không xác định"
   ],
@@ -132561,6 +133134,9 @@
       "count"
     ],
     " Vật Phẩm"
+  ],
+  "r6bvTh": [
+    "Duyệt các cộng đồng tương tự"
   ],
   "r6eshq": [
     "Âm thanh Biểu Cảm Tiếng ở mọi nơi"
@@ -135533,6 +136109,9 @@
   "s7+3um": [
     "Chơi với Xbox Game Pass"
   ],
+  "s76lNz": [
+    "Bạn muốn có Thẻ máy chủ của riêng mình?"
+  ],
   "s7STcY": [
     "Điều Khoản Dịch Vụ"
   ],
@@ -135677,6 +136256,9 @@
       ]
     ],
     " của chúng tôi để biết thêm thông tin."
+  ],
+  "sAYgZc": [
+    "Không Chọn Gì"
   ],
   "sAfT1K": [
     "Không tải được hình ảnh."
@@ -135911,6 +136493,9 @@
   ],
   "sJDGZT": [
     "Tạo máy chủ cho nhóm học tập của bạn"
+  ],
+  "sJHQqC": [
+    "Sử dụng nó để mua Nitro, vật phẩm Cửa hàng và hơn thế nữa. Hiện có tại các nhà bán lẻ chọn lọc trực tuyến và tại cửa hàng."
   ],
   "sJTwHQ": [
     "Chỉ trả ",
@@ -139518,6 +140103,9 @@
     ],
     " Tháng Ưu Đãi"
   ],
+  "tR2B53": [
+    "Tắt ưu đãi Cửa hàng trò chơi"
+  ],
   "tROvHH": [
     "Nội dung bất kỳ"
   ],
@@ -139613,6 +140201,54 @@
       "duration"
     ],
     " tiếp theo."
+  ],
+  "tTwGD8": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã ngắt kết nối ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " khỏi kênh thoại (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
   ],
   "tU5fiM": [
     "Chưa cấu hình ứng dụng"
@@ -140581,6 +141217,9 @@
   ],
   "tmiYpF": [
     "Cài Đặt Stream"
+  ],
+  "tmst3F": [
+    "Món quà hoàn hảo cho @everyone"
   ],
   "tnBalD": [
     "Danh sách bạn bè của bạn đã đầy rồi. Chào mừng đến với hội 1.000 bạn bè danh giá!"
@@ -143193,6 +143832,9 @@
   "ujfP6f": [
     "Yêu Cầu Kết Bạn Trong Game"
   ],
+  "ujfS5V": [
+    "Nhấp để xem thêm đề xuất hoặc vuốt sang trái để thêm vào tin nhắn của bạn."
+  ],
   "ujnXus": [
     "Món bạn đang muốn ăn lúc nào?"
   ],
@@ -144577,9 +145219,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "vN/KQ9": [
-    "Khám phá ngay"
   ],
   "vN6XpQ": [
     "Nói lên suy nghĩ với số lượng ký tự được tăng lên."
@@ -146608,6 +147247,9 @@
   "w8gMqh": [
     "Khu Vực"
   ],
+  "w8gzZb": [
+    "Quà tặng hoàn hảo cho @everyone"
+  ],
   "w8j+yW": [
     "Kèm theo mô tả hình ảnh"
   ],
@@ -147764,9 +148406,6 @@
       ]
     ],
     " gần đây"
-  ],
-  "wh+Rz1": [
-    "Tất cả các cuộc trò chuyện yêu thích của bạn, quy tụ tại cùng một nơi."
   ],
   "wh9c5W": [
     "Cẩm quỳ"
@@ -148940,6 +149579,20 @@
   "wtk08S": [
     "Thông Báo Hoạt Động Âm Thanh Voice"
   ],
+  "wu2lqV": [
+    "Máy tính của bạn đã gán thao tác này cho ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "trigger"
+        ]
+      ]
+    ],
+    "."
+  ],
   "wu4gyV": [
     "Không mở bán"
   ],
@@ -149580,6 +150233,42 @@
   "x68b1F": [
     "Neon"
   ],
+  "x6G/Rr": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " đã thêm ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " vào máy chủ."
+  ],
   "x6ielD": [
     "Đã kích hoạt mã bảo mật! :tada:"
   ],
@@ -150187,9 +150876,6 @@
   "xKUoVq": [
     "Xem Ứng Dụng"
   ],
-  "xKXcSu": [
-    "Thêm vào Ưa thích"
-  ],
   "xL7Cfe": [
     "Nhận năm đầu tiên My Best Buy Plus™ (29,99 USD) miễn phí. Nhận lại ",
     [
@@ -150723,6 +151409,9 @@
   ],
   "xYXsr6": [
     "Xác nhận độ tuổi của bạn"
+  ],
+  "xYa9Y8": [
+    "Mua ở đâu"
   ],
   "xYhOEh": [
     "Nếu Chế Độ Streamer được bật..."
@@ -151564,6 +152253,49 @@
   ],
   "xu9k8G": [
     "Đã hủy cài đặt Trợ Lý Hệ Thống Discord!"
+  ],
+  "xuGjhY": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " đã ngắt kết nối ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ người dùng"
+      ]
+    ],
+    " khỏi kênh thoại (",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "count"
+        ],
+        " hành động"
+      ]
+    ],
+    ")"
   ],
   "xuYQ0n": [
     "Người nói"
@@ -153033,9 +153765,6 @@
       []
     ],
     " để xem có thể khắc phục được vấn đề của bạn hay không."
-  ],
-  "yYVbdv": [
-    "Mở khóa với Nitro"
   ],
   "yYbR2r": [
     "Phải đạt tối đa ",
