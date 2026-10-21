@@ -1171,6 +1171,9 @@
       ]
     ]
   ],
+  "+Pu3G1": [
+    "spoileri"
+  ],
   "+PuO2N": [
     "Odota rauhassa, muodostamme yhteyttä uudelleen!"
   ],
@@ -1621,12 +1624,12 @@
       2,
       "value"
     ],
-    " pelipäivällä ja ",
+    " pelipäivällä. Hän käytti pelaamiseen ",
     [
       1,
       "gameTime"
     ],
-    " peliajalla."
+    "."
   ],
   "+aRmAc": [
     "Pistä uusi pelipalvelin pystyyn"
@@ -2804,6 +2807,13 @@
   "/2ed37": [
     "Salli yksityisviestit"
   ],
+  "/2nToO": [
+    "Esikatsele ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "/2yRSB": [
     "Uudet jäsenet"
   ],
@@ -3445,12 +3455,17 @@
         ]
       ]
     ],
-    " vei tämän viikon nimiinsä ",
+    " vei tämän viikon kilpailun nimiinsä ",
     [
       2,
       "value"
     ],
-    " pelipäivällä."
+    " pelipäivällä. Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
   ],
   "/K2RDH": [
     "Näytä vähemmän emojeja"
@@ -3993,6 +4008,9 @@
   ],
   "/YzI63": [
     "Ei käyttöoikeutta"
+  ],
+  "/Z2sDF": [
+    "Tulostaulukkoputki"
   ],
   "/ZJIuo": [
     "Tykkäätkö tästä äänestä? Nitrolla voit käyttää palvelimen ",
@@ -4647,6 +4665,30 @@
   ],
   "/qG8v7": [
     "Näytä kaikki"
+  ],
+  "/qIck6": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " on lisännyt palvelimeen sovelluksen ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    "."
   ],
   "/qaauJ": [
     "Reagoi tällä: ",
@@ -11130,6 +11172,9 @@
   "2PJ1NP": [
     "Olet antanut tilauksen lahjaksi!"
   ],
+  "2PKrQO": [
+    "Kokeile tätä ulkoasua"
+  ],
   "2PuL9F": [
     "Olet yhdistänyt Xbox-tilisi aiemmin, mutta yhdistämällä sen uudelleen saat uusia ominaisuuksia käyttöösi."
   ],
@@ -13263,6 +13308,9 @@
   ],
   "3CqDxp": [
     "Ota pakettien priorisoinnin laatutaso"
+  ],
+  "3D0GLv": [
+    "Näytä Nitro-emojit"
   ],
   "3D5eox": [
     "RAUHOITU VÄHÄN. TUO ON IHAN LIIKAA"
@@ -18553,7 +18601,7 @@
         ]
       ]
     ],
-    " vei tämän viikon nimiinsä pelaamalla ",
+    " vei tämän viikon kilpailun nimiinsä pelaamalla ",
     [
       6,
       "value",
@@ -18573,6 +18621,11 @@
       },
       0,
       "cardinal"
+    ],
+    ". Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
     ],
     "."
   ],
@@ -20777,6 +20830,9 @@
   "64tF+W": [
     "Vähintään yksi vastaus tarvitaan"
   ],
+  "64uynN": [
+    "Saat kaiken!"
+  ],
   "655Uny": [
     "Luo tunniste, jonka palvelimesi jäsenet voivat näyttää nimensä ohessa. Kaikki palvelimesi ulkopuoliset pääsevät tarkastelemaan ",
     [
@@ -20961,6 +21017,9 @@
   ],
   "6AXirz": [
     "Discord on luonut leikkeet osasta näistä automaattisesti puolestasi."
+  ],
+  "6AbN1y": [
+    "6AbN1y"
   ],
   "6Af/cw": [
     "Ota yhteyttä huoltajaasi, jos haluat muuttaa tätä asetusta."
@@ -22089,7 +22148,7 @@
     "Suosittu"
   ],
   "6bWeWP": [
-    "Lue lisää"
+    "Lisätietoja"
   ],
   "6bgVlq": [
     [
@@ -28580,6 +28639,9 @@
   "93hqln": [
     "Säännöt hyväksytty"
   ],
+  "93iWsv": [
+    "Nitro-jäsenet: lunasta eksklusiivinen zombi-Wumpus-pehmolelu orbeilla!"
+  ],
   "93tEDn": [
     "Yhteys"
   ],
@@ -29147,6 +29209,18 @@
   ],
   "9GlTSj": [
     "Saapuneita kaveripyyntöjäsi tyhjennettäessä ilmeni virhe. Yritä uudelleen myöhemmin!"
+  ],
+  "9Gofqp": [
+    [
+      1,
+      "name"
+    ],
+    ", ",
+    [
+      1,
+      "presence"
+    ],
+    ", näytä profiili"
   ],
   "9GpDYK": [
     "Vaaleanharmaa"
@@ -30640,6 +30714,9 @@
     ],
     " kuukauden välein, kunnes perut tilauksen. Hinnat voivat muuttua, mutta muutoksista ilmoitetaan etukäteen. Voit perua tilauksen milloin tahansa."
   ],
+  "9xo1g9": [
+    "Saatavana valituilta jälleenmyyjiltä verkossa ja myymälöissä"
+  ],
   "9yE8Ga": [
     "Etanatila on käytössä. Jäsenet voivat luoda vain yhden julkaisun joka ",
     [
@@ -31218,6 +31295,13 @@
   ],
   "AERuYh": [
     "Ryhmäsi nimi"
+  ],
+  "AEfs1D": [
+    "Siirry tänne: ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "AF+Tyh": [
     "Avaa palvelimelle etuja nostattamalla sitä"
@@ -32038,6 +32122,9 @@
   ],
   "AcBI9S": [
     "Vaihda kanavan jäsenluettelon tai puhekanavan tekstichatin tila"
+  ],
+  "AcH7R7": [
+    "Näppäinkomennot rekisteröidään työpöytäsovellukseesi. Muutokset saattavat vaatia hyväksyntäsi, ja voit määrittää ne uudelleen järjestelmän asetuksista."
   ],
   "AcJ4ke": [
     "Aseta tunnit, joiden aikana teinisi ei voi käyttää Discordia. Hän ei saa tänä aikana ilmoituksia eikä voi käyttää Discordia."
@@ -36556,7 +36643,7 @@
       0,
       "cardinal"
     ],
-    " yhteensä ",
+    ". Hän käytti pelaamiseen ",
     [
       1,
       "gameTime"
@@ -36612,6 +36699,28 @@
   ],
   "CIsNZw": [
     "Integroinnit"
+  ],
+  "CJ0I6C": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " muu osallistuja"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " muuta osallistujaa"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "CJ30BP": [
     "Lopeta puhe"
@@ -37392,6 +37501,13 @@
   ],
   "Ce0ZBI": [
     "Kierroksen voittotappo"
+  ],
+  "Ce2iXp": [
+    [
+      1,
+      "guildName"
+    ],
+    ", siirry palvelimelle"
   ],
   "CeBa/4": [
     "Vanhenemispäivä"
@@ -40107,6 +40223,9 @@
   "E1r98z": [
     "Kaveripyyntö on hylätty."
   ],
+  "E1sPHw": [
+    "E1sPHw"
+  ],
   "E215W7": [
     [
       6,
@@ -40457,6 +40576,25 @@
       1,
       "questName"
     ]
+  ],
+  "EAkHd2": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " on lisätty palvelimeen."
   ],
   "EApw/R": [
     "Valvojatoiminta"
@@ -42248,6 +42386,19 @@
   "EuXv2q": [
     "Piilota juhlatila"
   ],
+  "EuarXc": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " pyysi sinua striimaamaan"
+  ],
   "Eukdgl": [
     "Sano se tarralla"
   ],
@@ -43786,7 +43937,7 @@
       1,
       "text"
     ],
-    " • ",
+    " · ",
     [
       1,
       "duration"
@@ -45089,7 +45240,7 @@
     "toiminta"
   ],
   "G9HG5O": [
-    "Päivitä keskustelusi"
+    "Käytät vanhanmallista keskustelusyötettä"
   ],
   "G9JfLg": [
     "Nämä sisältävät myös kolmansien osapuolten palvelut, joille olet antanut Discord-tilisi käyttöluvan. Voit tarkastaa, mitä kukin sovellus voi tehdä, ja peruuttaa käyttöluvan milloin tahansa."
@@ -47858,6 +48009,13 @@
   "HB5Q+k": [
     "Anna käyttöjärjestelmän päättää"
   ],
+  "HBJiRR": [
+    "Pelaa: ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "HBR9Q0": [
     "Voit nyt käyttää animoitua avataria!"
   ],
@@ -48914,6 +49072,9 @@
   "Hdh7sT": [
     "Tällä asetuksella voit sallia kavereidesi liittymisen peliisi ilman kutsua."
   ],
+  "He+1tx": [
+    "SQLite yhteensä"
+  ],
   "He+cmd": [
     "Palvelimen nimi ei saatavana"
   ],
@@ -48939,6 +49100,18 @@
   ],
   "HepAlF": [
     "Haluatko varmasti piilottaa tämän osion? Et näe enää kontaktejasi ilmoituksissa."
+  ],
+  "HervnJ": [
+    [
+      1,
+      "statName"
+    ],
+    ": ",
+    [
+      1,
+      "username"
+    ],
+    " pitää kärkisijaa tällä viikolla!"
   ],
   "HespNQ": [
     "Hae leikkeitä"
@@ -49966,6 +50139,9 @@
   ],
   "I509Dl": [
     "Haluan pelata"
+  ],
+  "I5UWh9": [
+    "Hanki Nitro, kaupan tuotteita, palvelimen nostatuksia ja paljon muuta"
   ],
   "I5dYFs": [
     [
@@ -52625,6 +52801,9 @@
   "J0dpcB": [
     "Näytä nimet"
   ],
+  "J0m3aK": [
+    "Työpöytäsovelluksesi ei voi rekisteröidä tätä näppäinkomentoa, joten se ei välttämättä toimi Waylandissa. Tallenna sen sijaan yksi näppäin valinnaisilla määrityksillä (esimerkiksi Ctrl+F9)."
+  ],
   "J0tNny": [
     "Sisältää Online Safety Act ‑lain mukaiset pyynnöt"
   ],
@@ -53672,6 +53851,9 @@
   "JZxxGx": [
     "Puhu kaikki viestit ääneen"
   ],
+  "Ja5Q8Z": [
+    "Hanki Discord-lahjakortti"
+  ],
   "JaIyFi": [
     "Suosikkeja voi olla enintään ",
     [
@@ -54474,7 +54656,7 @@
       1,
       "rewardPercentage"
     ],
-    " % takaisin palkintoina kauden isoimpien pelien, kuten Call of Duty: Modern Warfare 4:n, valikoiduista ennakkotilauksista ja monesta muusta. Lunasta ",
+    " % takaisin palkintoina kauden isoimpien pelien valikoiduista ennakkotilauksista ja paljon muuta. Lunasta ",
     [
       3,
       "date",
@@ -54512,6 +54694,9 @@
   ],
   "K0e7M9": [
     "Yritä videota uudelleen"
+  ],
+  "K0spYL": [
+    "Käynnistä striimi"
   ],
   "K1URjQ": [
     "Hallinnoi palvelinkeskuksesi asetuksia."
@@ -57823,6 +58008,9 @@
     ],
     ",\njos sinulla on ongelmia tai kysymyksiä!"
   ],
+  "LUOF3v": [
+    "LUOF3v"
+  ],
   "LUo0Q8": [
     "Kutsukanava"
   ],
@@ -58162,6 +58350,9 @@
   "LfCBZG": [
     "Sähköposti vaaditaan"
   ],
+  "LfEwvz": [
+    "Käytössä"
+  ],
   "LfeFFr": [
     "Poista riskialttiit käyttöoikeudet roolilta"
   ],
@@ -58393,6 +58584,19 @@
       ]
     ],
     " (veroton)"
+  ],
+  "LlJum4": [
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " on lisätty palvelimeen."
   ],
   "LlZaoX": [
     "Nitro-tilausmaksun veloittaminen epäonnistui. Päivitä maksutiedot."
@@ -61970,6 +62174,9 @@
     ],
     " min sitten"
   ],
+  "N9U/9X": [
+    "Salasanasi on nollattu. Kirjaudu sisään uudella salasanallasi."
+  ],
   "N9WJMM": [
     "Pyydä manuaalista tarkistusta"
   ],
@@ -62391,6 +62598,9 @@
   ],
   "NJFr+g": [
     "Luettelo"
+  ],
+  "NJLgMs": [
+    "Kokeile tätä nimityyliä"
   ],
   "NJm/0W": [
     "Mukautettu kutsulinkki (",
@@ -62914,6 +63124,9 @@
       ]
     ],
     " + veloitettavat verot"
+  ],
+  "NV+MBV": [
+    "Palvelimen tunnisteita ei ole valittavissa."
   ],
   "NV85DR": [
     "Järjestä ",
@@ -66028,6 +66241,9 @@
   "Olc2K3": [
     "Palaa asetuksiin"
   ],
+  "OleW32": [
+    "Discordin tukemat uudet sosiaaliset ominaisuudet ovat käytettävissä Call of Duty: Modern Warfare 4:ssä. Avaa yhtenäinen kaveriluettelo ja kutsut päivittämällä yhteytesi."
+  ],
   "Olo8FB": [
     "Luokka"
   ],
@@ -67584,7 +67800,7 @@
     "tarra"
   ],
   "PJn0ih": [
-    "Ota kukin asetus käyttöön, niin osallistut tulostaulukkoon. Voit tehdä muutoksia milloin tahansa asetuksista."
+    "Ota asetukset käyttöön, niin voit osallistua tulostaulukkoon. Voit tehdä muutoksia milloin tahansa asetuksista."
   ],
   "PJx5+Z": [
     "Pelin päivittäminen ei onnistunut. Varmista, että peli on suljettu, ja yritä sitten uudelleen."
@@ -67972,6 +68188,12 @@
   ],
   "PSuly6": [
     "Käynnistä piirtotaulu"
+  ],
+  "PTCrUP": [
+    "Työpöytäsovelluksesi ei ole vielä hyväksynyt tätä näppäinkomentoa. Hyväksy se järjestelmäsi yleisten näppäinkomentojen asetuksista."
+  ],
+  "PTDDhW": [
+    "Näkymättömänä ollessasi pelitoimintasi piilotetaan. Siirry online-tilaan, jos haluat liittyä mukaan tulostaulukkoon."
   ],
   "PTHakm": [
     "Luo salasana"
@@ -70495,6 +70717,13 @@
   ],
   "QcJbt6": [
     "Avaa lisäpaikkoja mukautettuja tarroja varten"
+  ],
+  "QcKHvf": [
+    "Laajenna ",
+    [
+      1,
+      "sectionName"
+    ]
   ],
   "QcmgBF": [
     "Salli ilmoitus pienillä palvelimilla aloittamistasi striimauksista sellaisille jäsenille, joiden kanssa olet eniten vuorovaikutuksessa."
@@ -73491,6 +73720,9 @@
     ],
     " ovat käytettävissäsi ympäri vuoden."
   ],
+  "RqXsIs": [
+    "RqXsIs"
+  ],
   "Rqmi9/": [
     "Valitse huone, jota haluat tilasi käyttävän."
   ],
@@ -74532,6 +74764,9 @@
   ],
   "SI7R9I": [
     "Animoi emojisi"
+  ],
+  "SI8PNw": [
+    "Luo tunniste"
   ],
   "SIHRfH": [
     [
@@ -76883,6 +77118,13 @@
   "TFc+iF": [
     "Pilvien yllä"
   ],
+  "TFn1fS": [
+    "Striimaa peliä ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "TG0QsS": [
     "Palvelimet, joille tieto jaetaan"
   ],
@@ -77450,6 +77692,13 @@
   ],
   "TUKMak": [
     "Jaa toimintasi tilanasi tällä palvelimella"
+  ],
+  "TUZ50q": [
+    "Esikatsele ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "TUilLj": [
     "Avaa erikoisteemojen mukaisia merkkipakkauksia palvelimen tunnistetta varten nostatuksilla!"
@@ -79355,6 +79604,9 @@
   "UCuHM8": [
     "Teinin tiliasetukset"
   ],
+  "UD3OKX": [
+    "SQLite vapaana"
+  ],
   "UD5nn5": [
     [
       6,
@@ -81185,6 +81437,22 @@
   "UwPrKZ": [
     "Kasvata yhteisöäsi palvelinhaun avulla"
   ],
+  "UwYHGm": [
+    "Lue lisää ",
+    [
+      8,
+      "$link",
+      [
+        "verkkosivuiltamme"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ]
+  ],
   "Uwhb1l": [
     "Seuraavan tason edistyminen"
   ],
@@ -82586,6 +82854,92 @@
   "VVZDBL": [
     "Pahoittelut, mutta tässä striimissä on jo maksimimäärä katselijoita."
   ],
+  "VW2XVd": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " siirsi käyttäjän ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " kanavalle ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "VWNyUu": [
     "Merkitse hälytys käsitellyksi"
   ],
@@ -82897,7 +83251,7 @@
     "Avaa tukiviesti"
   ],
   "VdzwlA": [
-    "Ota käyttöön nyt"
+    "Poista se käytöstä"
   ],
   "Ve/y5z": [
     "Kaikki tilaustasot"
@@ -83507,7 +83861,7 @@
     "Tämä teema on vain Nitro-tilaajien käytettävissä."
   ],
   "VqNHoS": [
-    "Tämä ääni ei enää ole aktiivinen"
+    "Tämä äänikombo ei enää ole aktiivinen"
   ],
   "VqhxxN": [
     "Valitse yhteisöpäivitysten kanava"
@@ -89111,6 +89465,9 @@
   "Y3fdOp": [
     "Olemme lähettäneet sähköpostiisi viestin. Valtuuta ostos napsauttamalla siinä olevaa linkkiä."
   ],
+  "Y3poDW": [
+    "Y3poDW"
+  ],
   "Y40Jke": [
     "Haloo, ketään paikalla?"
   ],
@@ -89187,6 +89544,9 @@
       ]
     ],
     "."
+  ],
+  "Y6LdPr": [
+    "Vahvista tilisi, jotta voit suorittaa tämän maksun. Aloita kirjautumalla sisään."
   ],
   "Y6Qfju": [
     "Käyttäjän ",
@@ -91959,6 +92319,14 @@
       "colorHex"
     ]
   ],
+  "ZCFDN+": [
+    "Voitto pelitulostaulukon viimeisen ",
+    [
+      2,
+      "streakCount"
+    ],
+    " viikon kisoissa."
+  ],
   "ZCKAg8": [
     "Rekisteröidy"
   ],
@@ -92648,6 +93016,9 @@
   "ZPB6+J": [
     "Kuvaile itseäsi kolmella emojilla"
   ],
+  "ZPHaPE": [
+    "Muuta järjestelmäasetuksista"
+  ],
   "ZPMAlX": [
     "Vaihda näyttönimen tyyli"
   ],
@@ -92751,6 +93122,9 @@
   ],
   "ZT24In": [
     "Selaa kuvia"
+  ],
+  "ZT58S4": [
+    "UUTTA! Ajoitetut viestit"
   ],
   "ZTH4j4": [
     "Näytä sovelluspainike"
@@ -93093,6 +93467,14 @@
   ],
   "ZaJksS": [
     "Käsittelemätön ääni: avoin mikrofoni ilman mitään muokkauksia"
+  ],
+  "ZaOAtm": [
+    "Tällä hetkellä kärjessä (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
   ],
   "ZaXBoD": [
     "Arkistotiedostot eivät ole tuettuja"
@@ -93870,28 +94252,15 @@
     "Lisää kanavaluetteloon"
   ],
   "ZtUieE": [
+    "Sovelluksen komennot eivät toimi sen kanssa. Saat ne takaisin poistamalla sen käytöstä. Voit ottaa sen uudelleen käyttöön milloin tahansa kohdassa ",
     [
       8,
-      "$p",
+      "openSettingsHook",
       [
-        "Hanki käyttöösi vinoviivakomennot ja muut mainiot keinot keskustella ottamalla uusimmat ominaisuutemme käyttöön."
+        "Käyttäjäasetukset > Helppokäyttöisyys"
       ]
     ],
-    [
-      8,
-      "$p",
-      [
-        "Voit palata vanhoihin asetuksiisi milloin tahansa valitsemalla ",
-        [
-          8,
-          "openSettingsHook",
-          [
-            "Käyttäjäasetukset > Helppokäyttöisyys"
-          ]
-        ],
-        "."
-      ]
-    ]
+    "."
   ],
   "ZtdF0+": [
     "Ei käytettävissä"
@@ -93919,6 +94288,22 @@
   ],
   "ZuXSRp": [
     "Piilota yksityisiksi haluamasi merkit painamalla pitkään."
+  ],
+  "ZuneBP": [
+    "Lunasta ",
+    [
+      8,
+      "$link",
+      [
+        "laskutusasetuksista"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
   ],
   "Zuo+Vd": [
     "Haluatko varmasti, että ",
@@ -97345,6 +97730,9 @@
       "count"
     ],
     " ryhmäkeskustelusta"
+  ],
+  "b2yxYL": [
+    "Pidä tärkeimmät viestisi yhdessä paikassa."
   ],
   "b3+OH1": [
     "Kerää Discord orbseja pelinsisäisistä Marvel Rivals -ostoista."
@@ -101236,6 +101624,9 @@
   "cOkbp/": [
     "Kuuntele kavereitasi parhaalla äänenlaaduilla. Ihan kuin he juttelisivat aivan vieressäsi..."
   ],
+  "cOmrX4": [
+    "Kirjaudu tilillesi, jos haluat maksaa toisella maksutavalla."
+  ],
   "cPQCeg": [
     "Kasviruukku"
   ],
@@ -102107,6 +102498,9 @@
   ],
   "cgR+IK": [
     "Instagram"
+  ],
+  "cgRADC": [
+    "Olet online-tilassa! Laskemme toimintaasi parhaillaan, ja näyt tulostaulukossa huomenna."
   ],
   "cgT481": [
     "Discordin ",
@@ -103664,6 +104058,9 @@
   "cxFiDC": [
     "Voimakasta kielenkäyttöä"
   ],
+  "cxSpOM": [
+    "Striimin esikatselu"
+  ],
   "cxy+zn": [
     "Lisää kavereita ja keskustele suoraan heidän kanssaan"
   ],
@@ -105111,6 +105508,11 @@
       0,
       "cardinal"
     ],
+    ". Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "dXC/hn": [
@@ -106232,6 +106634,9 @@
   ],
   "dqQgZv": [
     "Lahjoita uusi Nitro-jäsenyys"
+  ],
+  "dqYuni": [
+    "Toiminnan jakaminen on käytössä. Laskemme toimintaasi parhaillaan, ja näyt tulostaulukossa huomenna."
   ],
   "dqb2JZ": [
     "Vakio"
@@ -108438,7 +108843,7 @@
     "10 tuntia pilvipelaamista joka kuukausi"
   ],
   "ecPCdG": [
-    "My Best Buy Plus -jäsenyys"
+    "My Best Buy Plus™ -jäsenyys"
   ],
   "ecTJkR": [
     "Profiilikehykset"
@@ -109443,7 +109848,12 @@
       2,
       "value"
     ],
-    " pelipäivällä."
+    " pelipäivällä. Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
   ],
   "exclamation": [
     "huutomerkki",
@@ -109884,12 +110294,17 @@
         ]
       ]
     ],
-    " vei tämän viikon nimiinsä ",
+    " vei tämän viikon kilpailun nimiinsä ",
     [
       2,
       "value"
     ],
-    " pelipäivällä."
+    " pelipäivällä. Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
+    ],
+    "."
   ],
   "f6YgdN": [
     "Aktiivinen yli 30 pv sitten"
@@ -110183,6 +110598,13 @@
   ],
   "fG3RIg": [
     "Orbs-kauppa"
+  ],
+  "fGlxFS": [
+    [
+      1,
+      "name"
+    ],
+    ", näytä profiili"
   ],
   "fGrbRX": [
     "Jokin meni vikaan yhteystietojesi synkronoinnissa. Odota hetki ja yritä uudelleen."
@@ -111251,6 +111673,9 @@
   ],
   "fbKwSs": [
     "Voit käyttää emojeja ja kaikkia erikoismerkkejä."
+  ],
+  "fbbIpP": [
+    "Aloita leikkeenmuodostus striimaamalla"
   ],
   "fbcCzZ": [
     "Näytä sovellus"
@@ -113489,7 +113914,7 @@
     "Liity tälle palvelimelle, niin se lisätään luetteloosi ja voit alkaa keskustella!"
   ],
   "gOIq4P": [
-    "Liity kanavalle ",
+    "Liity: ",
     [
       1,
       "channel"
@@ -115803,6 +116228,108 @@
   ],
   "hElye1": [
     "Katso muut tämän SKU-paketit listaukset"
+  ],
+  "hEqea3": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " siirsi ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " käyttäjän"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " käyttäjää"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " kanavalle ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "hFDcmZ": [
     [
@@ -121007,7 +121534,7 @@
     "Syöttölaitteesi äänenvoimakkuus näyttää olevan asetettuna nollaksi Windows-asetuksissa. Korjataan asia!"
   ],
   "j4n5/K": [
-    "Lue lisää"
+    "Lisätietoja"
   ],
   "j4qu8n": [
     "Vahvistusviesti lähetetty uudelleen, tarkista sähköpostisi."
@@ -121259,6 +121786,9 @@
   ],
   "jCV1Tz": [
     "ALT-kuvaus"
+  ],
+  "jCZgxQ": [
+    "Kuluvan viikon pelitulostaulukon tämänhetkinen kärkinimi."
   ],
   "jCqvk/": [
     "Yhdistä tilisi"
@@ -121865,6 +122395,9 @@
   ],
   "jVrUnC": [
     "Webhookin poisto"
+  ],
+  "jVv7YM": [
+    "ikärajoitettu"
   ],
   "jW+QO/": [
     "Kumppanipalvelimien on täytettävä tietyt aktiivisuusvaatimukset. Niitä ei voida laskea, ennen kuin palvelimellasi on vähintään ",
@@ -122957,6 +123490,13 @@
   ],
   "js8y7t": [
     "Käytä oletuksena omaa teemaa"
+  ],
+  "jsV9yS": [
+    "Tiivistä ",
+    [
+      1,
+      "sectionName"
+    ]
   ],
   "jsr/6e": [
     "Seulo viestit, joissa on esimerkiksi säädytöntä kielenkäyttöä. ",
@@ -126419,6 +126959,9 @@
   "lLDtTK": [
     "Hae kavereita"
   ],
+  "lLFi5U": [
+    "Keräilytuotevalinnat"
+  ],
   "lLFvlT": [
     "Nimi"
   ],
@@ -126484,6 +127027,63 @@
   ],
   "lOAkKo": [
     "Tilin esto poistettu"
+  ],
+  "lODaeu": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " katkaisi ",
+    [
+      2,
+      "uniqueCount"
+    ],
+    " käyttäjän yhteyden puhekanavaan (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "lOF4zR": [
     "Profiilikehyksesi on päivitetty."
@@ -130612,7 +131212,7 @@
         ]
       ]
     ],
-    " vei tämän viikon nimiinsä pelaamalla ",
+    " vei tämän viikon kilpailun nimiinsä pelaamalla ",
     [
       6,
       "value",
@@ -130632,6 +131232,11 @@
       },
       0,
       "cardinal"
+    ],
+    ". Hän käytti pelaamiseen ",
+    [
+      1,
+      "gameTime"
     ],
     "."
   ],
@@ -137928,6 +138533,9 @@
   "pKCxWP": [
     "Haku aloitettu"
   ],
+  "pKLV22": [
+    "Ikärajoitetuissa kanavissa ei voi käynnistää toimintoja."
+  ],
   "pKZ4I8": [
     "Esityskanava (lukittu)"
   ],
@@ -138590,6 +139198,9 @@
   ],
   "pdaUSE": [
     "Xbox Game Pass sisältyy nyt Nitro-tilaukseen"
+  ],
+  "pe/6Ma": [
+    "Pois käytöstä"
   ],
   "pe0fpS": [
     "Vaihda kauden ",
@@ -140214,6 +140825,9 @@
   "pxwdrA": [
     "Käy palvelimella"
   ],
+  "py5vQi": [
+    "py5vQi"
+  ],
   "pyRNXJ": [
     "Ota sovelluksen ",
     [
@@ -141752,6 +142366,87 @@
       ]
     ]
   ],
+  "qXazAb": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " siirsi ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ käyttäjää"
+      ]
+    ],
+    " kanavalle ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Vakio"
   ],
@@ -142385,6 +143080,9 @@
   "qtJKH2": [
     "Kuka tahansa voi auttaa suosikkipalvelintasi nostamaan tasoa ja avaamaan mukautuksia sekä yhteisiä etuja"
   ],
+  "qtKobx": [
+    "Nappaa lahjakortti mukaan. Kirjaimellisesti! Nyt saatavana valituilta jälleenmyyjiltä verkossa ja myymälöissä."
+  ],
   "qtSJxb": [
     "Tuntematon"
   ],
@@ -142990,6 +143688,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r6bvTh": [
+    "Selaa samankaltaisia yhteisöjä"
   ],
   "r6eshq": [
     "Äänipankin äänet kaikkialla"
@@ -146232,7 +146933,7 @@
     "Hae kanavia"
   ],
   "s5No7R": [
-    "Tämä ääni on peräisin julkiselta palvelimelta."
+    "Tämä ääni on etsittävissä olevalta palvelimelta."
   ],
   "s5Qo8E": [
     "Pulina"
@@ -146265,6 +146966,9 @@
   ],
   "s7+3um": [
     "Pelaa Xbox Game Passilla"
+  ],
+  "s76lNz": [
+    "Haluatko oman palvelimen tunnisteen?"
   ],
   "s7STcY": [
     "Palveluehdot"
@@ -146683,6 +147387,9 @@
   ],
   "sJDGZT": [
     "Luo palvelin opintopiiriäsi varten"
+  ],
+  "sJHQqC": [
+    "Käytä se Nitroon, kaupan tuotteisiin ja muuhun. Nyt saatavana valituilta jälleenmyyjiltä verkossa ja myymälöissä."
   ],
   "sJTwHQ": [
     "Maksa vain ",
@@ -150505,6 +151212,9 @@
     ],
     " kuukauden alennus"
   ],
+  "tR2B53": [
+    "Sulje pelikaupan kampanja"
+  ],
   "tROvHH": [
     "Kaikki sisältö"
   ],
@@ -150600,6 +151310,75 @@
       "duration"
     ],
     "."
+  ],
+  "tTwGD8": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " katkaisi käyttäjän ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " yhteyden puhekanavaan (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "tU5fiM": [
     "Sovellusta ei ole määritetty"
@@ -151530,6 +152309,9 @@
     "tavaramerkki",
     "TM"
   ],
+  "tm4caj": [
+    "tm4caj"
+  ],
   "tmE73r": [
     "Tarvitsetko tilin?"
   ],
@@ -151606,6 +152388,9 @@
   ],
   "tmiYpF": [
     "Striimausasetukset"
+  ],
+  "tmst3F": [
+    "Tätä täydellistä lahjaa @everyone osaa arvostaa"
   ],
   "tnBalD": [
     "Kaveriluettelosi on maksimaalisen suuri. Tervetuloa 1 000 kaverin omaajien eliittijoukkoon!"
@@ -155033,6 +155818,13 @@
       "cardinal"
     ]
   ],
+  "uyJSNf": [
+    "Liity: ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "uyVrTN": [
     "Foorumiviestin otsikko"
   ],
@@ -158128,6 +158920,9 @@
   "w8gMqh": [
     "Alue"
   ],
+  "w8gzZb": [
+    "Tätä täydellistä lahjaa @everyone osaa arvostaa"
+  ],
   "w8j+yW": [
     "Kuvien kuvauksilla"
   ],
@@ -160514,6 +161309,20 @@
   "wtk08S": [
     "Puheaktiivisuusilmoitukset"
   ],
+  "wu2lqV": [
+    "Työpöytäsovelluksessasi tämä toiminto on sidottu aktivointiin ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "trigger"
+        ]
+      ]
+    ],
+    "."
+  ],
   "wu4gyV": [
     "Ei saatavana"
   ],
@@ -161280,6 +162089,42 @@
   "x68b1F": [
     "Neon"
   ],
+  "x6G/Rr": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " on lisännyt palvelimeen sovelluksen ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    "."
+  ],
   "x6ielD": [
     "Suojausavain aktivoitu! :tada:"
   ],
@@ -161540,6 +162385,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "xDMrVa": [
+    "xDMrVa"
   ],
   "xDRab3": [
     "Mukauta profiiliasi"
@@ -162495,6 +163343,9 @@
   "xYXsr6": [
     "Vahvista ikäsi"
   ],
+  "xYa9Y8": [
+    "Mistä sen voi ostaa"
+  ],
   "xYhOEh": [
     "Jos striimaustila on käytössä..."
   ],
@@ -163412,6 +164263,70 @@
   ],
   "xu9k8G": [
     "Discord-järjestelmäavustimen asennus peruutettu!"
+  ],
+  "xuGjhY": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " katkaisi ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ käyttäjän"
+      ]
+    ],
+    " yhteyden puhekanavaan (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toiminto"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " toimintoa"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "xuYQ0n": [
     "Kaiutin"
@@ -164883,6 +165798,9 @@
   ],
   "yTPprb": [
     "Kaksi hahmoa nauttimassa jäätelöstä yhdessä"
+  ],
+  "yTYUJw": [
+    "yTYUJw"
   ],
   "yTa+di": [
     "Varoitus"
