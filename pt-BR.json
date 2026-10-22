@@ -320,7 +320,7 @@
     "Nenhuma vantagem desbloqueada ainda"
   ],
   "+7+Hvl": [
-    "Leia mensagens nos seus servidores"
+    "Ler mensagens nos seus servidores"
   ],
   "+78Pfm": [
     "Denunciar"
@@ -2874,6 +2874,13 @@
   "/2ed37": [
     "Permitir mensagens diretas"
   ],
+  "/2nToO": [
+    "Prévia ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "/2yRSB": [
     "Novos membros"
   ],
@@ -4628,7 +4635,7 @@
     "Você tem certeza?"
   ],
   "/lMTzd": [
-    "Ativo agora"
+    "Ativos agora"
   ],
   "/lQiX/": [
     "Não se esqueça de salvar suas alterações!"
@@ -5123,9 +5130,6 @@
   ],
   "/x7DVG": [
     "Disponíveis"
-  ],
-  "/xb5AU": [
-    "Gaste Orbs em itens exclusivos ou escolha seus itens favoritos da loja"
   ],
   "/xvEMy": [
     "Temas coloridos"
@@ -5948,6 +5952,9 @@
       ]
     ],
     "."
+  ],
+  "0F4Peo": [
+    "Orbs ganhos"
   ],
   "0F5Jyt": [
     "Tente novamente"
@@ -9594,7 +9601,7 @@
     "Seu Plano Nitro"
   ],
   "1bt50t": [
-    "Última atualização: ",
+    "Última atualização ",
     [
       1,
       "timestamp"
@@ -16340,7 +16347,7 @@
     "Mais devagar"
   ],
   "49Jv0I": [
-    "Ative o compartilhamento para contribuir com ",
+    "Disponilize o compartilhamento com ",
     [
       1,
       "widgetName"
@@ -21355,6 +21362,9 @@
   "64tF+W": [
     "Pelo menos uma resposta é necessária"
   ],
+  "64uynN": [
+    "Tudo é seu!"
+  ],
   "64zUhb": [
     "Adquira itens de ",
     [
@@ -21548,7 +21558,7 @@
     "O Discord criou alguns clipes automaticamente para você."
   ],
   "6AbN1y": [
-    "6AbN1y"
+    "Destaque-se desde a sua primeira partida. Resgate o exclusivo projeto Código Azoxo."
   ],
   "6Af/cw": [
     "Consulte seu responsável para mudar esta configuração para você."
@@ -23933,6 +23943,9 @@
   "7/ux15": [
     "Parar spam de @everyone"
   ],
+  "7/xnly": [
+    "Jogar"
+  ],
   "70CJbT": [
     "OFICIAL"
   ],
@@ -24862,7 +24875,7 @@
     "Conecte sua conta do YouTube para conceder cargos automaticamente no servidor aos membros do seu canal. Crie uma experiência exclusiva para seus membros mais dedicados. A integração com o YouTube só está disponível para canais parceiros."
   ],
   "7TxNKE": [
-    "Dias"
+    "dia(s)"
   ],
   "7U/3ng": [
     "Nitro"
@@ -25911,7 +25924,7 @@
     "URL (opcional)"
   ],
   "7pATiR": [
-    "Horas"
+    "hora(s)"
   ],
   "7pNhXe": [
     "Flash automático"
@@ -30768,7 +30781,7 @@
     ]
   ],
   "9l5u6A": [
-    "Compartilhe quando eu começar a transmitir"
+    "Avisar quando eu começar uma transmissão"
   ],
   "9l87Ih": [
     "Nitro anual ",
@@ -31205,7 +31218,7 @@
     "Original"
   ],
   "9tlK5J": [
-    "Whiteboard"
+    "Quadro branco"
   ],
   "9ty6yc": [
     "Não é spam"
@@ -33276,7 +33289,7 @@
     "Criar canal de voz"
   ],
   "Alcf2G": [
-    "Leia mensagens que mencionam você"
+    "Ler mensagens que mencionam você"
   ],
   "Alcl/e": [
     "Vamos personalizar sua experiência"
@@ -35620,7 +35633,7 @@
     "ディスコード desativado"
   ],
   "BeCUHZ": [
-    "Ative cada configuração para contribuir com ",
+    "Ative as configurações que deseja disponibilizar para ",
     [
       1,
       "widgetName"
@@ -40873,17 +40886,6 @@
   "E+SM6T": [
     "Sem aplicativos autorizados"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Clique com o botão direito em qualquer mensagem e selecione ",
     [
@@ -40999,7 +41001,7 @@
     "Pedido de amizade ignorado."
   ],
   "E1sPHw": [
-    "E1sPHw"
+    "Carregue Nitro junto com o seu equipamento"
   ],
   "E215W7": [
     [
@@ -45221,13 +45223,6 @@
   ],
   "Fqqbhg": [
     "Este link leva a um usuário ao qual você não tem acesso."
-  ],
-  "FquTfm": [
-    "Cor principal do tema: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Controle o volume dos sons são para você. Vá para as configurações do servidor para editar os sons do servidor."
@@ -53837,6 +53832,9 @@
   "J0XdJ4": [
     "Remover esse emoji o excluirá do seu servidor."
   ],
+  "J0YWRq": [
+    "Crie sua própria tag do servidor"
+  ],
   "J0dpcB": [
     "Exibir nomes"
   ],
@@ -55760,6 +55758,9 @@
   ],
   "K0e7M9": [
     "Reproduzir vídeo novamente"
+  ],
+  "K0spYL": [
+    "Iniciar uma transmissão"
   ],
   "K1URjQ": [
     "Gerencie suas configurações na central do servidor."
@@ -59157,7 +59158,13 @@
     ]
   ],
   "LUOF3v": [
-    "LUOF3v"
+    "Resgate um projeto exclusivo do Nitro para Call of Duty: Modern Warfare 4. Resgate até ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
   ],
   "LUo0Q8": [
     "Canal de convite"
@@ -59512,6 +59519,9 @@
   ],
   "LfCBZG": [
     "E-mail necessário"
+  ],
+  "LfEwvz": [
+    "Ativada"
   ],
   "LfeFFr": [
     "Desativar permissões arriscadas para"
@@ -62899,9 +62909,6 @@
   "MyJpJT": [
     "Solicitação pendente"
   ],
-  "MyO0sh": [
-    "O tipo forte e silencioso."
-  ],
   "MylOvg": [
     "Ver todos os níveis"
   ],
@@ -63022,7 +63029,7 @@
     "."
   ],
   "N1P8Wp": [
-    "Busque mensagens nos seus servidores"
+    "Buscar nas mensagens nos seus servidores"
   ],
   "N22i9F": [
     "Continue Rolando..."
@@ -66048,9 +66055,6 @@
   "OBCR+p": [
     "Ver mais"
   ],
-  "OBeYX/": [
-    "0 minutos em Voz"
-  ],
   "OBp3V3": [
     "GIF, botão"
   ],
@@ -68932,7 +68936,7 @@
     "Hmm... Sem resultados"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Recompensa de Call of Duty: MW4"
   ],
   "PFxxJa": [
     "Se o seu jogo estiver rodando e não puder se conectar ao Discord, tente ver os registros do seu jogo para depuração"
@@ -69126,19 +69130,7 @@
     "figurinha"
   ],
   "PJn0ih": [
-    "Ative configurações para contribuir para o ranking. Elas podem ser alteradas a qualquer momento nas configurações."
-  ],
-  "PJsjbP": [
-    "Adicionou um novo emoji, ",
-    [
-      1,
-      "emoji"
-    ],
-    " em ",
-    [
-      1,
-      "guildName"
-    ]
+    "Ative as configurações que deseja disponibilizar para o ranking. Elas podem ser alteradas a qualquer momento nas configurações."
   ],
   "PJx5+Z": [
     "Ah, não, a atualização do jogo falhou. Certifique-se de que o jogo foi encerrado e tente novamente."
@@ -71874,7 +71866,7 @@
     "Mais Vantagens, Mais Diversão"
   ],
   "QX4H2E": [
-    "Ocultar aviso"
+    "Ocultar nota"
   ],
   "QXGod1": [
     "Melhorias poderosas: envio de arquivos maiores, faixa do servidor, ícones de cargo personalizados e muito mais!"
@@ -73283,6 +73275,9 @@
   ],
   "R5uhUE": [
     "Aproveite conversas mais organizadas com a nova aba Servidores"
+  ],
+  "R6Ksr9": [
+    "Resgatado"
   ],
   "R6LxVf": [
     "Notificações desativadas"
@@ -81811,7 +81806,7 @@
     ]
   ],
   "UVkUVk": [
-    "Busque nas suas mensagens diretas"
+    "Buscar nas suas mensagens diretas"
   ],
   "UVl5Hz": [
     "Visualize mensagens personalizadas nos pedidos de amizade recebidos"
@@ -88152,9 +88147,6 @@
   ],
   "WuwCWi": [
     "Servidores"
-  ],
-  "Wv7HLS": [
-    "Novos drops, só pra você!"
   ],
   "Wvc/I+": [
     "Bom dia,"
@@ -102284,7 +102276,7 @@
     "Editar"
   ],
   "btBTIw": [
-    "Gaming Leaderboard"
+    "Ranking de jogos"
   ],
   "btSGOj": [
     "Entrou na plateia"
@@ -107769,7 +107761,7 @@
     "Selecionar um idioma principal"
   ],
   "dXR9qI": [
-    "Minutos"
+    "minuto(s)"
   ],
   "dXdgno": [
     [
@@ -111331,6 +111323,9 @@
       1,
       "rank"
     ]
+  ],
+  "ehbzo8": [
+    "Desbloqueie Recompensas"
   ],
   "ehmVyX": [
     "Criar pasta"
@@ -131008,13 +131003,6 @@
   "lnk2NQ": [
     "Visitados recentemente"
   ],
-  "lo6H6+": [
-    "Conectar com ",
-    [
-      1,
-      "gameName"
-    ]
-  ],
   "loYGC/": [
     "Ver ",
     [
@@ -135651,9 +135639,6 @@
   ],
   "n6G1ue": [
     "Não altere o e-mail da sua conta. O Discord nunca vai pedir para você fazer isso!"
-  ],
-  "n6G8gI": [
-    "O que eu posso comprar com Orbs?"
   ],
   "n6I6k4": [
     "Uhu! Aceitar presente"
@@ -142522,6 +142507,9 @@
   "pdaUSE": [
     "O Xbox Game Pass agora está incluído no Nitro"
   ],
+  "pe/6Ma": [
+    "Desativado"
+  ],
   "pe0fpS": [
     "Habilitar detalhes das transações do período de ",
     [
@@ -144349,7 +144337,7 @@
     "Visitar servidor"
   ],
   "py5vQi": [
-    "py5vQi"
+    "Obtenha um projeto no Call of Duty: Modern Warfare 4, exclusivo para assinantes do Nitro."
   ],
   "pyRNXJ": [
     "Ative recursos adicionais no servidor ",
@@ -145984,9 +145972,6 @@
   "qY82lX": [
     "Nome"
   ],
-  "qYAzOp": [
-    "Desbloqueie recursos sociais, como amigos sincronizados, mensagens e ainda mais!"
-  ],
   "qYKftX": [
     "teste gratuito ativado"
   ],
@@ -146080,6 +146065,13 @@
   ],
   "qbJ96B": [
     "Concluído!"
+  ],
+  "qbJihM": [
+    "Editar a recompensa grátis selecionada, ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Ir para o link"
@@ -149756,7 +149748,7 @@
           [
             7
           ],
-          " Membros"
+          " membros"
         ]
       },
       0,
@@ -156338,7 +156330,13 @@
     "símbolo de marca registrada"
   ],
   "tm4caj": [
-    "tm4caj"
+    "Resgate um projeto exclusivo do Nitro para Call of Duty: Modern Warfare 4. Expira em ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "tmE73r": [
     "Precisando de uma conta?"
@@ -159939,6 +159937,13 @@
       },
       0,
       "cardinal"
+    ]
+  ],
+  "uyJSNf": [
+    "Entrar em ",
+    [
+      1,
+      "guildName"
     ]
   ],
   "uyVrTN": [
@@ -166703,7 +166708,7 @@
     ]
   ],
   "xDMrVa": [
-    "xDMrVa"
+    "Código Azoxo"
   ],
   "xDRab3": [
     "Personalize seu perfil"
@@ -167304,13 +167309,6 @@
   "xOg4SP": [
     "Webhooks"
   ],
-  "xOnm4z": [
-    "Cor de realce do tema: ",
-    [
-      1,
-      "colorLabel"
-    ]
-  ],
   "xOscRh": [
     "Remover categoria"
   ],
@@ -167788,7 +167786,7 @@
     "Este é o Nitro!"
   ],
   "xZupEi": [
-    "Ver aviso"
+    "Ver nota"
   ],
   "xZvFpA": [
     "Adicionar cargo"
@@ -168867,6 +168865,9 @@
   ],
   "xyO7AD": [
     "Pressione enter para colocar sua nota. Pressione esc para cancelar."
+  ],
+  "xyVEtZ": [
+    "Mensagem de teste piloto de tradução"
   ],
   "xyYt8A": [
     "Ordenar e ver"
@@ -170175,7 +170176,7 @@
     "Dois personagens se deliciando com sorvete"
   ],
   "yTYUJw": [
-    "yTYUJw"
+    "Obtenha um projeto exclusivo no MW4, apenas com Nitro."
   ],
   "yTa+di": [
     "Aviso"
@@ -173320,7 +173321,7 @@
     ]
   ],
   "zleX9q": [
-    "Adicionar texto ou imagem"
+    "Adicione texto ou imagem"
   ],
   "zlvNOj": [
     "Automático (segue as configurações do sistema)"

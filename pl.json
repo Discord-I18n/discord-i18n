@@ -2932,6 +2932,13 @@
   "/2ed37": [
     "Zezwalaj na prywatne wiadomości"
   ],
+  "/2nToO": [
+    "Podgląd ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "/2yRSB": [
     "Nowi członkowie"
   ],
@@ -5254,9 +5261,6 @@
   "/x7DVG": [
     "Dostępne"
   ],
-  "/xb5AU": [
-    "Wydaj Orbs, aby zdobyć przedmioty specjalne, albo kup je w sklepie"
-  ],
   "/xvEMy": [
     "Kolory motywu"
   ],
@@ -6072,6 +6076,9 @@
   ],
   "0F/ZzX": [
     "Ten serwer wymaga, by jego członkowie z uprawnieniami do moderacji mieli włączone uwierzytelnienie wieloskładnikowe. Nie możesz podejmować żadnych działań moderatorskich, dopóki go nie włączysz."
+  ],
+  "0F4Peo": [
+    "Zdobyte Orbs"
   ],
   "0F5Jyt": [
     "Prosimy spróbować ponownie"
@@ -21798,6 +21805,9 @@
   "64tF+W": [
     "Wymagana jest przynajmniej jedna odpowiedź"
   ],
+  "64uynN": [
+    "Dla Ciebie!"
+  ],
   "655Uny": [
     "Stwórz tag, który członkowie Twojego serwera mogą wyświetlać obok swojej nazwy! Każdy spoza serwera może zobaczyć Twój ",
     [
@@ -21984,7 +21994,7 @@
     "Discord automatycznie utworzył dla Ciebie kilka klipów."
   ],
   "6AbN1y": [
-    "6AbN1y"
+    "Wyróżnij się z tłumu już od pierwszego meczu. Odbierz ekskluzywny schemat Code Blurple."
   ],
   "6Af/cw": [
     "Skontaktuj się ze swoim opiekunem, aby zmienił to ustawienie dla Ciebie."
@@ -24411,6 +24421,9 @@
   ],
   "7/ux15": [
     "Zatrzymaj spamowanie @everyone"
+  ],
+  "7/xnly": [
+    "Graj"
   ],
   "70CJbT": [
     "OFICJALNE"
@@ -41621,17 +41634,6 @@
   "E+SM6T": [
     "Brak autoryzowanych aplikacji"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Kliknij dowolną wiadomość prawym przyciskiem myszy i wybierz ",
     [
@@ -41746,7 +41748,7 @@
     "Zaproszenie do znajomych zostało zignorowane."
   ],
   "E1sPHw": [
-    "E1sPHw"
+    "Dodaj Nitro do swojego zestawu"
   ],
   "E215W7": [
     [
@@ -46078,13 +46080,6 @@
   ],
   "Fqqbhg": [
     "To łącze prowadzi do użytkownika, do którego nie masz dostępu."
-  ],
-  "FquTfm": [
-    "Główny kolor motywu: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Pozwala regulować głośność, z jaką dźwięki są u Ciebie odtwarzane. Przejdź do ustawień serwera, aby edytować jego dźwięki."
@@ -54907,6 +54902,9 @@
   "J0XdJ4": [
     "Usunięcie tego emoji spowoduje usunięcie go z Twojego serwera."
   ],
+  "J0YWRq": [
+    "Stwórz własny tag serwera"
+  ],
   "J0dpcB": [
     "Pokazuj nazwy"
   ],
@@ -56845,6 +56843,9 @@
   ],
   "K0e7M9": [
     "Spróbuj odtworzyć wideo ponownie"
+  ],
+  "K0spYL": [
+    "Rozpocznij stream"
   ],
   "K1URjQ": [
     "Zarządzaj ustawieniami centrum serwera."
@@ -60310,7 +60311,13 @@
     ]
   ],
   "LUOF3v": [
-    "LUOF3v"
+    "Odbierz ekskluzywny schemat do Call of Duty: Modern Warfare 4 dostępny tylko z Nitro. Zrealizuj do ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
   ],
   "LUo0Q8": [
     "Kanał zaproszeń"
@@ -60684,6 +60691,9 @@
   ],
   "LfCBZG": [
     "Wymagany adres e-mail"
+  ],
+  "LfEwvz": [
+    "Włączone"
   ],
   "LfeFFr": [
     "Wyłącz ryzykowne uprawnienia dla:"
@@ -64059,9 +64069,6 @@
   "MyJpJT": [
     "Prośba oczekuje na rozpatrzenie"
   ],
-  "MyO0sh": [
-    "Typ silnego i cichego."
-  ],
   "MylOvg": [
     "Wyświetl wszystkie poziomy"
   ],
@@ -67290,9 +67297,6 @@
   "OBCR+p": [
     "Pokaż więcej"
   ],
-  "OBeYX/": [
-    "0 minut na kanałach głosowych"
-  ],
   "OBp3V3": [
     "GIF, przycisk"
   ],
@@ -70235,7 +70239,7 @@
     "Hmm… brak wyników"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Nagroda Call of Duty: MW4"
   ],
   "PFxxJa": [
     "Jeśli gra działa, ale nie może połączyć się z Discordem, sprawdź dzienniki gry w celu debugowania"
@@ -70436,18 +70440,6 @@
   ],
   "PJn0ih": [
     "Włącz ustawienia, aby brać udział w tabeli liderów. Możesz je zmienić w dowolnym momencie w Ustawieniach."
-  ],
-  "PJsjbP": [
-    "Dodano nowe emoji, ",
-    [
-      1,
-      "emoji"
-    ],
-    ", na serwerze ",
-    [
-      1,
-      "guildName"
-    ]
   ],
   "PJx5+Z": [
     "O nie, nie udało nam się zaktualizować gry. Upewnij się, że gra jest wyłączona i spróbuj ponownie."
@@ -74692,6 +74684,9 @@
   ],
   "R5uhUE": [
     "Korzystaj z lepszej organizacji rozmów dzięki nowej karcie Serwery"
+  ],
+  "R6Ksr9": [
+    "Zdobyte"
   ],
   "R6LxVf": [
     "Powiadomienia wyłączone"
@@ -89866,9 +89861,6 @@
   ],
   "WuwCWi": [
     "Serwery"
-  ],
-  "Wv7HLS": [
-    "Nowe dropy specjalnie dla Ciebie"
   ],
   "Wvc/I+": [
     "Dzień dobry,"
@@ -133604,13 +133596,6 @@
   "lnk2NQ": [
     "Ostatnio odwiedzone"
   ],
-  "lo6H6+": [
-    "Połącz się z ",
-    [
-      1,
-      "gameName"
-    ]
-  ],
   "loYGC/": [
     "Zobacz ",
     [
@@ -138413,9 +138398,6 @@
   ],
   "n6G1ue": [
     "Nie zmieniaj adresu e-mail na swoim koncie. Discord nigdy Cię o to nie poprosi!"
-  ],
-  "n6G8gI": [
-    "Co można zdobyć za Orbs?"
   ],
   "n6I6k4": [
     "Juhu! Przyjmij prezent"
@@ -145445,6 +145427,9 @@
   "pdaUSE": [
     "Xbox Game Pass jest teraz zawarty w Nitro"
   ],
+  "pe/6Ma": [
+    "Wył."
+  ],
   "pe0fpS": [
     "Przełącz szczegóły okresu transakcji dla ",
     [
@@ -147364,7 +147349,7 @@
     "Odwiedź serwer"
   ],
   "py5vQi": [
-    "py5vQi"
+    "Zdobądź ekskluzywny schemat do Call of Duty: Modern Warfare 4 stworzony specjalnie dla członków Nitro."
   ],
   "pyRNXJ": [
     "Włącz dodatkowe funkcje na serwerze ",
@@ -149040,9 +149025,6 @@
   "qY82lX": [
     "Nazwa"
   ],
-  "qYAzOp": [
-    "Odblokuj funkcje społecznościowe, takie jak zsynchronizowanych znajomych, wiadomości i jeszcze więcej!"
-  ],
   "qYKftX": [
     "aktywowano darmowy okres próbny"
   ],
@@ -149136,6 +149118,13 @@
   ],
   "qbJ96B": [
     "Zakończ!"
+  ],
+  "qbJihM": [
+    "Edytuj wybraną darmową nagrodę, ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Przejdź do linku"
@@ -159775,7 +159764,13 @@
     "znak towarowy"
   ],
   "tm4caj": [
-    "tm4caj"
+    "Odbierz ekskluzywny schemat do Call of Duty: Modern Warfare 4 dostępny tylko z Nitro. Wygasa ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "tmE73r": [
     "Potrzebujesz konta?"
@@ -163395,6 +163390,13 @@
       },
       0,
       "cardinal"
+    ]
+  ],
+  "uyJSNf": [
+    "Dołącz do ",
+    [
+      1,
+      "guildName"
     ]
   ],
   "uyVrTN": [
@@ -170432,7 +170434,7 @@
     "  s"
   ],
   "xDMrVa": [
-    "xDMrVa"
+    "Code Blurple"
   ],
   "xDRab3": [
     "Personalizuj swój profil"
@@ -171067,13 +171069,6 @@
   ],
   "xOg4SP": [
     "Webhooki"
-  ],
-  "xOnm4z": [
-    "Kolor akcentu motywu: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "xOscRh": [
     "Usuń kategorię"
@@ -172672,6 +172667,9 @@
   "xyO7AD": [
     "Naciśnij Enter, aby umieścić tu notatkę. Naciśnij Escape, aby anulować."
   ],
+  "xyVEtZ": [
+    "Wiadomość testowa pilota tłumaczeń"
+  ],
   "xyYt8A": [
     "Sortuj i wyświetl"
   ],
@@ -174008,7 +174006,7 @@
     "Dwie postacie cieszące się lodami"
   ],
   "yTYUJw": [
-    "yTYUJw"
+    "Zdobądź ekskluzywny schemat do MW4 – tylko z Nitro."
   ],
   "yTa+di": [
     "Ostrzeżenie"

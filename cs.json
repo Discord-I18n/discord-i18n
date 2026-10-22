@@ -1245,6 +1245,9 @@
       ]
     ]
   ],
+  "+Pu3G1": [
+    "spoiler"
+  ],
   "+PuO2N": [
     "Vydrž, dostaneme tě zpět!"
   ],
@@ -1688,7 +1691,7 @@
         ]
       ]
     ],
-    " přebral/a 1. místo od ",
+    " přebral/a 1. místo od ",
     [
       8,
       "previousUsernameHook",
@@ -1699,7 +1702,7 @@
         ]
       ]
     ],
-    " v žebříčku s ",
+    " v žebříčku s ",
     [
       6,
       "value",
@@ -1708,19 +1711,19 @@
           [
             7
           ],
-          " herním dnem"
+          " herním dnem"
         ],
         "other": [
           [
             7
           ],
-          " herními dny"
+          " herními dny"
         ]
       },
       0,
       "cardinal"
     ],
-    " a herním časem ",
+    " a odehraným časem ",
     [
       1,
       "gameTime"
@@ -2900,6 +2903,13 @@
   "/2ed37": [
     "Povolit přímé zprávy"
   ],
+  "/2nToO": [
+    "Ukázka prostředku ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "/2yRSB": [
     "Noví členové"
   ],
@@ -3567,6 +3577,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "/K2RDH": [
@@ -4176,6 +4191,9 @@
   ],
   "/YzI63": [
     "Žádný přístup"
+  ],
+  "/Z2sDF": [
+    "Série v žebříčku"
   ],
   "/ZJIuo": [
     "Líbí se ti tento zvuk? Discord Nitro ti umožní používat zvuky ze serveru ",
@@ -4864,6 +4882,31 @@
   "/qG8v7": [
     "Zobrazit vše"
   ],
+  "/qIck6": [
+    "Uživatel ",
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " přidal aplikaci ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " na server."
+  ],
   "/qaauJ": [
     "Reagovat smajlíkem ",
     [
@@ -5132,9 +5175,6 @@
   ],
   "/x7DVG": [
     "K dispozici"
-  ],
-  "/xb5AU": [
-    "Vyměň Orbs za exkluzivní položky nebo si vyber ze svého oblíbeného zboží v Obchodě"
   ],
   "/xvEMy": [
     "Barevné motivy"
@@ -5961,6 +6001,9 @@
   ],
   "0F/ZzX": [
     "Tento server vyžaduje, aby členové s administrátorskými právy měli zapnuté vícefázové ověřování. Dokud ho nepovolíš, nebudeš moct provádět akce správce."
+  ],
+  "0F4Peo": [
+    "Získané Orbs"
   ],
   "0F5Jyt": [
     "Zkus to prosím znovu"
@@ -11556,6 +11599,9 @@
   "2PJ1NP": [
     "Daroval/a jsi předplatné!"
   ],
+  "2PKrQO": [
+    "Vyzkoušej tento vzhled"
+  ],
   "2PuL9F": [
     "Přestože máš Xbox připojený již z dřívějška, připoj ho znovu, ať můžeš využívat nové funkce."
   ],
@@ -13802,6 +13848,9 @@
   ],
   "3CqDxp": [
     "Povolit vysokou prioritu paketů pro kvalitu služeb"
+  ],
+  "3D0GLv": [
+    "Zobrazit smajlíky Nitra"
   ],
   "3D5eox": [
     "JDEŠ NA TO DOST ZOSTRA"
@@ -19264,6 +19313,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "5DFcVl": [
@@ -21547,6 +21601,9 @@
   "64tF+W": [
     "Musíš zadat alespoň jednu odpověď"
   ],
+  "64uynN": [
+    "Je to celé tvoje!"
+  ],
   "655Uny": [
     "Vytvoř štítek, který členové tvého serveru mohou zobrazit vedle svého jména! Všichni mimo tvůj server můžou zobrazit tvůj ",
     [
@@ -21753,6 +21810,9 @@
   ],
   "6AXirz": [
     "Discord ti automaticky pořídil nějaké klipy."
+  ],
+  "6AbN1y": [
+    "Vyčnívej z davu už od první bitvy. Vyzvedni si exkluzivní plán Kód Modrofialová."
   ],
   "6Af/cw": [
     "Domluvte se s tvým zákonným zástupcem na změně tohoto nastavení."
@@ -24221,6 +24281,9 @@
   ],
   "7/ux15": [
     "Přestaň spamovat s rolí @everyone"
+  ],
+  "7/xnly": [
+    "Hrát"
   ],
   "70CJbT": [
     "OFICIÁLNÍ"
@@ -29651,6 +29714,9 @@
   "93hqln": [
     "Souhlasil/a s pravidly"
   ],
+  "93iWsv": [
+    "Členové Nitra: vyzvedněte si exkluzivního plyšového zombie Wumpuse za Orbs!"
+  ],
   "93tEDn": [
     "Připojení"
   ],
@@ -30250,6 +30316,18 @@
   ],
   "9GlTSj": [
     "Při pokusu o vymazání příchozích žádostí o přátelství došlo k chybě. Zkus to znovu později."
+  ],
+  "9Gofqp": [
+    [
+      1,
+      "name"
+    ],
+    ", ",
+    [
+      1,
+      "presence"
+    ],
+    ", zobrazit profil"
   ],
   "9GpDYK": [
     "Světle šedá"
@@ -31756,6 +31834,9 @@
     ],
     " měs., dokud předplatné nezrušíš. Ceny se mohou po předchozím oznámení měnit. Předplatné můžeš zrušit kdykoli."
   ],
+  "9xo1g9": [
+    "K dispozici u vybraných prodejců online a v kamenných prodejnách"
+  ],
   "9yE8Ga": [
     "Je zapnutý pomalý režim. Členové mohou vytvořit jeden příspěvek za ",
     [
@@ -32383,6 +32464,13 @@
   ],
   "AERuYh": [
     "Pojmenuj svou skupinu"
+  ],
+  "AEfs1D": [
+    "Přejít na server ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "AF+Tyh": [
     "Vylepši tento server a získej výhody"
@@ -33215,6 +33303,9 @@
   ],
   "AcBI9S": [
     "Přepnout seznam členů kanálu nebo textový chat v hlasovém kanálu"
+  ],
+  "AcH7R7": [
+    "Klávesové zkratky jsou zaregistrovány na počítači. Změny mohou vyžadovat tvé schválení a v nastavení systému je můžeš přemapovat."
   ],
   "AcJ4ke": [
     "Nastav hodiny, kdy tvůj teenager nemůže používat Discord. Během této doby nebude dostávat oznámení a nebude mít přístup k Discordu."
@@ -37760,7 +37851,7 @@
         ]
       ]
     ],
-    " přebral/a 1. místo od ",
+    " přebral/a 1. místo od ",
     [
       8,
       "previousUsernameHook",
@@ -37771,7 +37862,7 @@
         ]
       ]
     ],
-    " v žebříčku s ",
+    " v žebříčku s ",
     [
       6,
       "value",
@@ -37780,19 +37871,19 @@
           [
             7
           ],
-          " jedinečnou odehranou hrou"
+          " jedinečnou odehranou hrou"
         ],
         "other": [
           [
             7
           ],
-          " jedinečnými odehranými hrami"
+          " jedinečnými odehranými hrami"
         ]
       },
       0,
       "cardinal"
     ],
-    " a herním časem ",
+    " a odehraným časem ",
     [
       1,
       "gameTime"
@@ -37848,6 +37939,34 @@
   ],
   "CIsNZw": [
     "Propojení"
+  ],
+  "CJ0I6C": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " další účastník"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " další účastníci"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dalších účastníků"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "CJ30BP": [
     "Zastavit čtení zprávy"
@@ -38665,6 +38784,13 @@
   ],
   "Ce0ZBI": [
     "Vítězné zabití v kole"
+  ],
+  "Ce2iXp": [
+    [
+      1,
+      "guildName"
+    ],
+    ", přejít na server"
   ],
   "CeBa/4": [
     "Konec platnosti"
@@ -41260,17 +41386,6 @@
   "E+SM6T": [
     "Žádné autorizované aplikace"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Klikni pravým tlačítkem na libovolnou zprávu a vyber ",
     [
@@ -41384,6 +41499,9 @@
   ],
   "E1r98z": [
     "Žádost o přátelství byla ignorována."
+  ],
+  "E1sPHw": [
+    "Přidej si do výbavy Discord Nitro"
   ],
   "E215W7": [
     [
@@ -41797,6 +41915,26 @@
       1,
       "questName"
     ]
+  ],
+  "EAkHd2": [
+    "Aplikace ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " byla přidána na server."
   ],
   "EApw/R": [
     "Akce moderátora"
@@ -43642,6 +43780,19 @@
   "EuXv2q": [
     "Skrýt party režim"
   ],
+  "EuarXc": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " tě žádá o streamování"
+  ],
   "Eukdgl": [
     "Řekni to samolepkou"
   ],
@@ -45209,7 +45360,7 @@
       1,
       "text"
     ],
-    " • ",
+    " · ",
     [
       1,
       "duration"
@@ -45640,13 +45791,6 @@
   ],
   "Fqqbhg": [
     "Tento odkaz směřuje na uživatele, ke kterému nemáš přístup."
-  ],
-  "FquTfm": [
-    "Hlavní barva motivu: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Nastav si, jak hlasité zvuky chceš mít. Přejdi do nastavení serveru a uprav si zvuky serveru."
@@ -46541,7 +46685,7 @@
     "aktivitě"
   ],
   "G9HG5O": [
-    "Upgraduj svůj chat"
+    "Používáš zastaralý vstup chatu"
   ],
   "G9JfLg": [
     "Patří sem služby třetích stran, které od tebe mají oprávnění přistupovat k tvému účtu na Discordu. Kdykoli můžeš zkontrolovat, co ta která aplikace může dělat, a přístup odvolat."
@@ -49405,6 +49549,13 @@
   "HB5Q+k": [
     "Ať rozhodne můj operační systém"
   ],
+  "HBJiRR": [
+    "Hraje ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "HBR9Q0": [
     "Teď můžeš používat animovaný avatar!"
   ],
@@ -50522,6 +50673,9 @@
   "Hdh7sT": [
     "Toto nastavení umožní přátelům připojit se k tvé hře, aniž by museli posílat žádosti."
   ],
+  "He+1tx": [
+    "SQLite celkem"
+  ],
   "He+cmd": [
     "Název serveru není dostupný"
   ],
@@ -50547,6 +50701,18 @@
   ],
   "HepAlF": [
     "Opravdu chceš skrýt tuto sekci? Neuvidíš pak své kontakty v oznámeních."
+  ],
+  "HervnJ": [
+    [
+      1,
+      "username"
+    ],
+    " tento týden vede ",
+    [
+      1,
+      "statName"
+    ],
+    "!"
   ],
   "HespNQ": [
     "Hledat klipy"
@@ -51604,6 +51770,9 @@
   ],
   "I509Dl": [
     "Chci si zahrát"
+  ],
+  "I5UWh9": [
+    "Pořiď si Nitro, položky z Obchodu, vylepšení serveru a další libůstky"
   ],
   "I5dYFs": [
     [
@@ -54331,8 +54500,14 @@
   "J0XdJ4": [
     "Když tento smajlík odebereš, odebere se rovnou z celého serveru."
   ],
+  "J0YWRq": [
+    "Vytvoř si vlastní štítek serveru"
+  ],
   "J0dpcB": [
     "Zobrazit jména"
+  ],
+  "J0m3aK": [
+    "Tvůj počítač nemůže tuto zkratku zaregistrovat, takže ve Waylandu nemusí fungovat. Místo toho nahraj jeden klíč s volitelnými modifikátory (například Ctrl + F9)."
   ],
   "J0tNny": [
     "Zahrnuje žádosti podle zákona o online bezpečnosti"
@@ -55398,6 +55573,9 @@
   "JZxxGx": [
     "Číst všechny zprávy nahlas"
   ],
+  "Ja5Q8Z": [
+    "Získej dárkovou kartu Discordu"
+  ],
   "JaIyFi": [
     "Maximální počet oblíbených je ",
     [
@@ -56204,7 +56382,7 @@
       1,
       "rewardPercentage"
     ],
-    " % zpět v odměnách za vybrané předobjednávky největších her sezóny, jako je například Call of Duty: Modern Warfare 4 a další. Uplatni do ",
+    " % zpět v odměnách za vybrané předobjednávky největších her sezóny a další věci. Uplatni do ",
     [
       3,
       "date",
@@ -56242,6 +56420,9 @@
   ],
   "K0e7M9": [
     "Opakovat video"
+  ],
+  "K0spYL": [
+    "Zahájit stream"
   ],
   "K1URjQ": [
     "Spravuj nastavení svého centra serveru."
@@ -59761,6 +59942,15 @@
       ]
     ]
   ],
+  "LUOF3v": [
+    "Vyzvedni si exkluzivní plán pro Call of Duty: Modern Warfare 4 díky Nitru. Máš čas do ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "LUo0Q8": [
     "Pozvánka do kanálu"
   ],
@@ -60134,6 +60324,9 @@
   "LfCBZG": [
     "Vyžaduje e-mail"
   ],
+  "LfEwvz": [
+    "Zapnuto"
+  ],
   "LfeFFr": [
     "Zakázat riskantní oprávnění pro"
   ],
@@ -60365,6 +60558,20 @@
       ]
     ],
     " (bez daně)"
+  ],
+  "LlJum4": [
+    "Aplikace ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " byla přidána na server."
   ],
   "LlZaoX": [
     "Platba za předplatné Nitro se nezdařila, aktualizuj prosím své platební údaje."
@@ -63508,9 +63715,6 @@
   "MyJpJT": [
     "Nevyřízená žádost"
   ],
-  "MyO0sh": [
-    "Výrazně tichý typ."
-  ],
   "MylOvg": [
     "Zobrazit všechny úrovně"
   ],
@@ -64014,6 +64218,9 @@
     ],
     " min nazpět"
   ],
+  "N9U/9X": [
+    "Tvoje heslo bylo obnoveno. Přihlas se svým novým heslem."
+  ],
   "N9WJMM": [
     "Žádost o ruční kontrolu"
   ],
@@ -64458,6 +64665,9 @@
   ],
   "NJFr+g": [
     "Seznam"
+  ],
+  "NJLgMs": [
+    "Vyzkoušej tento styl jména"
   ],
   "NJm/0W": [
     "Vlastní zvací odkaz (",
@@ -64975,6 +65185,9 @@
       ]
     ],
     " + příslušné daně"
+  ],
+  "NV+MBV": [
+    "Nemáš žádné štítky serveru k výběru."
   ],
   "NV85DR": [
     "Změnit pořadí ",
@@ -66677,9 +66890,6 @@
   "OBCR+p": [
     "Zobrazit více"
   ],
-  "OBeYX/": [
-    "0 minut v hlasových kanálech"
-  ],
   "OBp3V3": [
     "GIF, tlačítko"
   ],
@@ -68189,6 +68399,9 @@
   "Olc2K3": [
     "Zpět do nastavení"
   ],
+  "OleW32": [
+    "Nové funkce sociálních sítí od Discordu jsou dostupné v Call of Duty: Modern Warfare 4. Upgraduj své připojení a odemkni sjednocený seznam přátel a pozvánky."
+  ],
   "Olo8FB": [
     "Kategorie"
   ],
@@ -69632,7 +69845,7 @@
     "Hm… Nic jsme nenašli"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Odměna Call of Duty: MW4"
   ],
   "PFxxJa": [
     "Pokud je tvá hra spuštěná a nemůže se připojit k Discordu, zkus zobrazit protokoly hry, kde najdeš informace potřebné k ladění"
@@ -69827,19 +70040,7 @@
     "samolepka"
   ],
   "PJn0ih": [
-    "Povol každou položku nastavení, která prospěje tomuto žebříčku. Své volby můžeš kdykoli změnit v sekci Nastavení."
-  ],
-  "PJsjbP": [
-    "Přidává nový smajlík ",
-    [
-      1,
-      "emoji"
-    ],
-    " v klanu ",
-    [
-      1,
-      "guildName"
-    ]
+    "Povol nastavení, která prospějí tomuto žebříčku. Své volby můžeš kdykoli změnit v sekci Nastavení."
   ],
   "PJx5+Z": [
     "Ale ne! Nepodařilo se nám hru aktualizovat. Ujisti se, že je hra zavřená, a zkus to znovu."
@@ -70251,6 +70452,12 @@
   ],
   "PSuly6": [
     "Spustit tabuli"
+  ],
+  "PTCrUP": [
+    "Tato zkratka na počítači zatím není povolená. Schval ji v nastavení globálních zkratek systému."
+  ],
+  "PTDDhW": [
+    "Neviditelnost skryje tvoji herní aktivitu. Přejdi online a zapoj se do žebříčku."
   ],
   "PTHakm": [
     "Vytvoř si heslo"
@@ -72848,6 +73055,13 @@
   "QcJbt6": [
     "Odemkni další pozice pro vlastní samolepky"
   ],
+  "QcKHvf": [
+    "Rozbalit ",
+    [
+      1,
+      "sectionName"
+    ]
+  ],
   "QcmgBF": [
     "Umožni uživatelům, se kterými nejvíc komunikuješ, aby dostávali oznámení, když začneš streamovat na malých serverech."
   ],
@@ -74075,6 +74289,9 @@
   ],
   "R5uhUE": [
     "Užij si lépe organizovaný chat díky nové záložce Servery"
+  ],
+  "R6Ksr9": [
+    "Vyzvednuto"
   ],
   "R6LxVf": [
     "Oznámení jsou vypnutá"
@@ -75904,6 +76121,9 @@
       "numFreeGuildSubscriptions"
     ],
     " vylepšení serveru po celý rok."
+  ],
+  "RqXsIs": [
+    "RqXsIs"
   ],
   "Rqmi9/": [
     "Vyber místnost, kterou chceš použít pro svůj prostor."
@@ -79477,6 +79697,13 @@
   "TFc+iF": [
     "Nad mraky"
   ],
+  "TFn1fS": [
+    "Streamovat ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "TG0QsS": [
     "Servery, se kterými sdílím"
   ],
@@ -80084,6 +80311,13 @@
   ],
   "TUKMak": [
     "Sdílet svůj stav aktivity na tomto serveru"
+  ],
+  "TUZ50q": [
+    "Ukázka prostředku ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "TUilLj": [
     "Používej vylepšení a odemkni speciální tematické balíčky odznaků na štítek serveru!"
@@ -82083,6 +82317,9 @@
   "UCuHM8": [
     "Nastavení účtu pro teenagery"
   ],
+  "UD3OKX": [
+    "SQLite zdarma"
+  ],
   "UD5nn5": [
     [
       6,
@@ -83971,6 +84208,22 @@
   "UwPrKZ": [
     "Rozšiřuj svou komunitu pomocí Vyhledávání serverů"
   ],
+  "UwYHGm": [
+    "Další informace najdeš ",
+    [
+      8,
+      "$link",
+      [
+        "na našem webu"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ]
+  ],
   "Uwhb1l": [
     "Postup na další úroveň"
   ],
@@ -85374,6 +85627,105 @@
   "VVZDBL": [
     "Omlouváme se, stream dosáhl maximálního počtu sledujících."
   ],
+  "VW2XVd": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " přesunul člena ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " do kanálu ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "VWNyUu": [
     "Označit výstrahu za dokončenou"
   ],
@@ -85701,7 +86053,7 @@
     "Otevřít lístek"
   ],
   "VdzwlA": [
-    "Povolit nyní"
+    "Vypni to"
   ],
   "Ve/y5z": [
     "Všechny úrovně předplatného"
@@ -86305,7 +86657,7 @@
     "Tento motiv je dostupný pouze uživatelům Nitra."
   ],
   "VqNHoS": [
-    "Tento zvuk už není aktivní"
+    "Toto zvukové kombo už není aktivní"
   ],
   "VqhxxN": [
     "Vyber kanál novinek z komunity"
@@ -89165,9 +89517,6 @@
   ],
   "WuwCWi": [
     "Servery"
-  ],
-  "Wv7HLS": [
-    "Čerstvé novinky právě pro tebe"
   ],
   "WvAqZA": [
     "Získáváš vzhled zdarma"
@@ -92130,6 +92479,9 @@
   "Y3fdOp": [
     "Právě jsme ti poslali e-mail. Autorizuj svůj nákup kliknutím na ověřovací odkaz v zaslané zprávě."
   ],
+  "Y3poDW": [
+    "Y3poDW"
+  ],
   "Y40Jke": [
     "Haló, je tam někdo?"
   ],
@@ -92226,6 +92578,9 @@
       ]
     ],
     "."
+  ],
+  "Y6LdPr": [
+    "Ověř svůj účet a dokonči tuto platbu. Přihlas se a pusť se do toho."
   ],
   "Y6Qfju": [
     "Server uživatele ",
@@ -95106,6 +95461,14 @@
       "colorHex"
     ]
   ],
+  "ZCFDN+": [
+    "Vítěz posledních ",
+    [
+      2,
+      "streakCount"
+    ],
+    " týdnů klání v herním žebříčku."
+  ],
   "ZCKAg8": [
     "Registrace"
   ],
@@ -95866,6 +96229,9 @@
   "ZPB6+J": [
     "Popiš se třemi smajlíky"
   ],
+  "ZPHaPE": [
+    "Změnit v nastavení systému"
+  ],
   "ZPMAlX": [
     "Změnit styl zobrazovaného jména"
   ],
@@ -95968,6 +96334,9 @@
   ],
   "ZT24In": [
     "Procházet fotky"
+  ],
+  "ZT58S4": [
+    "NOVINKA! Naplánované zprávy"
   ],
   "ZTH4j4": [
     "Zobrazit tlačítko aplikací"
@@ -96332,6 +96701,14 @@
   ],
   "ZaJksS": [
     "Čistý zvuk: otevřený mikrofon bez úprav"
+  ],
+  "ZaOAtm": [
+    "Aktuální lídr (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
   ],
   "ZaXBoD": [
     "Soubory archivů nejsou podporovány"
@@ -97141,28 +97518,15 @@
     "Přidat na seznam kanálů"
   ],
   "ZtUieE": [
+    "Příkazy aplikace s tímhle nefungují. Vypni to, aby se zase zobrazily. Kdykoli to můžeš znovu zapnout v části ",
     [
       8,
-      "$p",
+      "openSettingsHook",
       [
-        "Získej přístup k /příkazům a dalším skvělým vychytávkám pro chat – jednoduše povol naše nejnovější funkce."
+        "Uživatelská nastavení > Přístupnost"
       ]
     ],
-    [
-      8,
-      "$p",
-      [
-        "Pokud budeš chtít, kdykoli se můžeš vrátit zpět k původnímu chatu v sekci ",
-        [
-          8,
-          "openSettingsHook",
-          [
-            "Uživatelská nastavení > Přístupnost"
-          ]
-        ],
-        "."
-      ]
-    ]
+    "."
   ],
   "ZtdF0+": [
     "Nedostupné"
@@ -97190,6 +97554,22 @@
   ],
   "ZuXSRp": [
     "Dlouhým stisknutím skryješ odznaky, které chceš mít soukromé."
+  ],
+  "ZuneBP": [
+    "Uplatni v ",
+    [
+      8,
+      "$link",
+      [
+        "Nastavení fakturace"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
   ],
   "Zuo+Vd": [
     "Opravdu chceš odstranit ",
@@ -100952,6 +101332,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "b2yxYL": [
+    "Měj své nejdůležitější zprávy na jednom místě."
   ],
   "b3+OH1": [
     "Získej Discord Orbs při nákupech ve hře Marvel Rivals."
@@ -105535,6 +105918,9 @@
   "cOkbp/": [
     "Poslouchej své přátele v té nejvyšší kvalitě. Bude to, jako by seděli hned vedle tebe…"
   ],
+  "cOmrX4": [
+    "Pokud chceš platit jinou platební metodou, přihlas se ke svému účtu."
+  ],
   "cPQCeg": [
     "Květináč"
   ],
@@ -106565,6 +106951,9 @@
   ],
   "cgR+IK": [
     "Instagram"
+  ],
+  "cgRADC": [
+    "Jsi online! Teď počítáme tvou aktivitu a zítra se objevíš v žebříčku."
   ],
   "cgT481": [
     "Přečti si ",
@@ -108763,6 +109152,9 @@
   "cxFiDC": [
     "Vulgární jazyk"
   ],
+  "cxSpOM": [
+    "Náhled streamu"
+  ],
   "cxy+zn": [
     "Přidej si přátele a bav se s nimi napřímo."
   ],
@@ -110240,6 +110632,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "dXC/hn": [
@@ -111560,6 +111957,9 @@
   ],
   "dqQgZv": [
     "Daruj nové členství Nitro"
+  ],
+  "dqYuni": [
+    "Sdílení aktivity je zapnuto. Teď počítáme tvou aktivitu a zítra se objevíš v žebříčku."
   ],
   "dqb2JZ": [
     "Standardní"
@@ -113930,7 +114330,7 @@
     "10 hodin hraní v cloudu každý měsíc"
   ],
   "ecPCdG": [
-    "Moje členství Best Buy Plus"
+    "Členství My Best Buy Plus™"
   ],
   "ecTJkR": [
     "Rámečky profilu"
@@ -115009,6 +115409,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "exclamation": [
@@ -115531,6 +115936,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "f6YgdN": [
@@ -115827,6 +116237,13 @@
   ],
   "fG3RIg": [
     "Orbs obchod"
+  ],
+  "fGlxFS": [
+    [
+      1,
+      "name"
+    ],
+    ", zobrazit profil"
   ],
   "fGrbRX": [
     "Něco se pokazilo při synchronizaci tvých kontaktů. Počkej prosím chvilku a zkus to znovu."
@@ -117052,6 +117469,9 @@
   ],
   "fbKwSs": [
     "Můžeš používat smajlíky a speciální znaky."
+  ],
+  "fbbIpP": [
+    "Streamuj a začni vytvářet klipy"
   ],
   "fbcCzZ": [
     "Zobrazit aplikaci"
@@ -122250,6 +122670,133 @@
   ],
   "hElye1": [
     "Zobrazit další položky pro toto SKU"
+  ],
+  "hEqea3": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " přesunul ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatele"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatele"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatelů"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " do kanálu ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "hFDcmZ": [
     [
@@ -128263,6 +128810,9 @@
   "jCV1Tz": [
     "ALT"
   ],
+  "jCZgxQ": [
+    "Aktuální lídr herního žebříčku tohoto týdne."
+  ],
   "jCqvk/": [
     "Propoj svůj účet"
   ],
@@ -128881,6 +129431,9 @@
   ],
   "jVrUnC": [
     "Odstranit webhook"
+  ],
+  "jVv7YM": [
+    "s věkovým omezením"
   ],
   "jW+QO/": [
     "Partnerské servery musí splňovat základní požadavky na aktivitu. Ty však nemůžeme vypočítat, dokud tvůj server nebude mít alespoň ",
@@ -130084,6 +130637,13 @@
   ],
   "js8y7t": [
     "Ve výchozím nastavení používat můj motiv"
+  ],
+  "jsV9yS": [
+    "Sbalit ",
+    [
+      1,
+      "sectionName"
+    ]
   ],
   "jsr/6e": [
     "Filtrovat zprávy obsahující vulgární výrazy a podobný obsah. ",
@@ -133726,6 +134286,9 @@
   "lLDtTK": [
     "Hledat přátele"
   ],
+  "lLFi5U": [
+    "Varianty sběratelského předmětu"
+  ],
   "lLFvlT": [
     "Název"
   ],
@@ -133791,6 +134354,116 @@
   ],
   "lOAkKo": [
     "Účet byl odblokován"
+  ],
+  "lODaeu": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " odpojil ",
+    [
+      6,
+      "uniqueCount",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatele"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatele"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " uživatelů"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " z hlasového kanálu (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "lOF4zR": [
     "Tvůj rámeček profilu se aktualizoval!"
@@ -133891,7 +134564,7 @@
     "Funkce Push-to-talk je zapnuta, ale není nastavena žádná klávesová zkratka."
   ],
   "lQqwQi": [
-    "Připojen/a k serveru ",
+    "Připojen/a k serveru ",
     [
       1,
       "guildName"
@@ -134975,13 +135648,6 @@
   ],
   "lnk2NQ": [
     "Nedávno navštívené"
-  ],
-  "lo6H6+": [
-    "Připojit se s ",
-    [
-      1,
-      "gameName"
-    ]
   ],
   "loYGC/": [
     "Zobrazit ",
@@ -138793,6 +139459,11 @@
       0,
       "cardinal"
     ],
+    " a odehraným časem ",
+    [
+      1,
+      "gameTime"
+    ],
     "."
   ],
   "mhUrKS": [
@@ -140331,9 +141002,6 @@
   ],
   "n6G1ue": [
     "Neměň e-mail u svého účtu. Discord tě o to nikdy nebude žádat!"
-  ],
-  "n6G8gI": [
-    "Co můžu za Orbs získat?"
   ],
   "n6I6k4": [
     "Juchů! Přijmout dárek"
@@ -146818,6 +147486,9 @@
   "pKCxWP": [
     "Hledání zahájeno"
   ],
+  "pKLV22": [
+    "V kanálech s věkovým omezením nemůžeš spouštět aktivity."
+  ],
   "pKZ4I8": [
     "Řečnický kanál (uzamčený)"
   ],
@@ -147561,6 +148232,9 @@
   ],
   "pdaUSE": [
     "Xbox Game Pass je nyní součástí předplatného Discord Nitro"
+  ],
+  "pe/6Ma": [
+    "Vypnuto"
   ],
   "pe0fpS": [
     "Přepnout podrobnosti transakčního období pro ",
@@ -149854,6 +150528,9 @@
   "pxwdrA": [
     "Navštívit server"
   ],
+  "py5vQi": [
+    "Získej exkluzivní plán do Call of Duty: Modern Warfare 4 vytvořený jen pro členy Nitra."
+  ],
   "pyRNXJ": [
     "Povolit další funkce na serveru ",
     [
@@ -151418,6 +152095,100 @@
       ]
     ]
   ],
+  "qXazAb": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " přesunul ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ uživatelů"
+      ]
+    ],
+    " do kanálu ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Standardní"
   ],
@@ -151432,9 +152203,6 @@
   ],
   "qY82lX": [
     "Jméno"
-  ],
-  "qYAzOp": [
-    "Odemkni funkce sociálních sítí, jako jsou synchronizovaní přátelé, zprávy a ještě víc!"
   ],
   "qYKftX": [
     "bylo aktivováno bezplatné zkušební období"
@@ -151529,6 +152297,13 @@
   ],
   "qbJ96B": [
     "Hotovo!"
+  ],
+  "qbJihM": [
+    "Upravit vybranou odměnu zdarma, ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Přejít na odkaz"
@@ -152092,6 +152867,9 @@
   ],
   "qtJKH2": [
     "Každý může tvému oblíbenému serveru pomoct dosáhnout vyšších úrovní a odemykat další nastavení a kolektivní vylepšení"
+  ],
+  "qtKobx": [
+    "Čapni dárkovou kartu. Doslova! Nyní k dispozici u vybraných prodejců online a v kamenných prodejnách."
   ],
   "qtSJxb": [
     "Neznámý"
@@ -152692,6 +153470,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "r6bvTh": [
+    "Procházej podobné komunity"
   ],
   "r6eshq": [
     "Zvuky ze soundboardu kdekoli"
@@ -156397,7 +157178,7 @@
     "Hledat kanály"
   ],
   "s5No7R": [
-    "Tento zvuk pochází z veřejného serveru."
+    "Tento zvuk pochází z vyhledatelného serveru."
   ],
   "s5Qo8E": [
     "Prasknutí"
@@ -156430,6 +157211,9 @@
   ],
   "s7+3um": [
     "Hraj s Xbox Game Pass"
+  ],
+  "s76lNz": [
+    "Chceš vlastní štítek serveru?"
   ],
   "s7STcY": [
     "Podmínky využívání služeb"
@@ -156860,6 +157644,9 @@
   ],
   "sJDGZT": [
     "Vytvoř server pro svou studijní skupinu"
+  ],
+  "sJHQqC": [
+    "Vyměň za Nitro, položky v Obchodě a další věcičky. Nyní k dispozici u vybraných prodejců online a v kamenných prodejnách."
   ],
   "sJTwHQ": [
     "Plať pouhých ",
@@ -161669,6 +162456,9 @@
       "numMonths"
     ]
   ],
+  "tR2B53": [
+    "Zavřít nabídku herního obchodu"
+  ],
   "tROvHH": [
     "Jakýkoliv obsah"
   ],
@@ -161765,6 +162555,88 @@
       "duration"
     ],
     "."
+  ],
+  "tTwGD8": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " odpojil člena ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " z hlasového kanálu (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
   ],
   "tU5fiM": [
     "Není nakonfigurována žádná aplikace"
@@ -162933,6 +163805,15 @@
     "značka ochranné známky",
     "znak ochranné známky"
   ],
+  "tm4caj": [
+    "Vyzvedni si exkluzivní plán pro Call of Duty: Modern Warfare 4 díky Nitru. Nabídka platí do ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
+  ],
   "tmE73r": [
     "Potřebuješ účet?"
   ],
@@ -163004,6 +163885,9 @@
   ],
   "tmiYpF": [
     "Nastavení streamu"
+  ],
+  "tmst3F": [
+    "Dokonalý dárek pro @everyone"
   ],
   "tnBalD": [
     "Do tvého seznamu už se nevejdou žádní přátelé. Vítej v elitním klubu s 1 000 přáteli!"
@@ -166815,6 +167699,13 @@
       "cardinal"
     ]
   ],
+  "uyJSNf": [
+    "Připojit se ke kanálu ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "uyVrTN": [
     "Název příspěvku"
   ],
@@ -170027,6 +170918,9 @@
   "w8gMqh": [
     "Oblast"
   ],
+  "w8gzZb": [
+    "Dokonalý dárek pro @everyone"
+  ],
   "w8j+yW": [
     "S popisy obrázků"
   ],
@@ -173077,6 +173971,20 @@
   "wtk08S": [
     "Oznámení o hlasové aktivitě"
   ],
+  "wu2lqV": [
+    "Tvůj počítač má tuto akci svázanou s ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "trigger"
+        ]
+      ]
+    ],
+    "."
+  ],
   "wu4gyV": [
     "Nedostupné"
   ],
@@ -173868,6 +174776,43 @@
   "x68b1F": [
     "Neonový"
   ],
+  "x6G/Rr": [
+    "Uživatel ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " přidal aplikaci ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " na server."
+  ],
   "x6ielD": [
     "Bezpečnostní klíč aktivován! :tada:"
   ],
@@ -174154,6 +175099,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "xDMrVa": [
+    "Kód Modrofialová"
   ],
   "xDRab3": [
     "Přizpůsob si svůj profil"
@@ -174793,13 +175741,6 @@
   "xOg4SP": [
     "Notifikační služby (Webhooks)"
   ],
-  "xOnm4z": [
-    "Barva zvýraznění motivu: ",
-    [
-      1,
-      "colorLabel"
-    ]
-  ],
   "xOscRh": [
     "Odebrat kategorii"
   ],
@@ -175177,6 +176118,9 @@
   ],
   "xYXsr6": [
     "Potvrď svůj věk"
+  ],
+  "xYa9Y8": [
+    "Kde koupit"
   ],
   "xYhOEh": [
     "Pokud je streamovací režim povolen…"
@@ -176156,6 +177100,83 @@
   "xu9k8G": [
     "Instalace systémového pomocníka Discordu byla zrušena!"
   ],
+  "xuGjhY": [
+    "Uživatel ",
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " odpojil ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ uživatelů"
+      ]
+    ],
+    " z hlasového kanálu (",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "few": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akce"
+            ]
+          ]
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ],
+              " akcí"
+            ]
+          ]
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ")"
+  ],
   "xuYQ0n": [
     "Reproduktor"
   ],
@@ -176345,6 +177366,9 @@
   ],
   "xyO7AD": [
     "Stiskem klávesy Enter sem vložíš svou poznámku. Stiskem klávesy Esc ji zrušíš."
+  ],
+  "xyVEtZ": [
+    "Testovací zpráva pro pilotní překlad"
   ],
   "xyYt8A": [
     "Seřadit a zobrazit"
@@ -177694,6 +178718,9 @@
   ],
   "yTPprb": [
     "Dvě postavy společně si vychutnávající zmrzlinu"
+  ],
+  "yTYUJw": [
+    "Získej svůj exkluzivní plán do MW4, pouze s Nitrem."
   ],
   "yTa+di": [
     "Varování"

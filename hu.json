@@ -1069,6 +1069,9 @@
       ]
     ]
   ],
+  "+Pu3G1": [
+    "spoiler"
+  ],
   "+PuO2N": [
     "Maradj a helyeden, visszacsatlakoztatunk!"
   ],
@@ -2556,6 +2559,13 @@
   "/2ed37": [
     "Közvetlen üzenetek engedélyezése"
   ],
+  "/2nToO": [
+    [
+      1,
+      "guildName"
+    ],
+    " előnézetének megtekintése"
+  ],
   "/2yRSB": [
     "Új tagok"
   ],
@@ -3204,12 +3214,17 @@
         ]
       ]
     ],
-    " megnyerte a heti versenyt ",
+    " megnyerte az e heti versenyt ",
     [
       2,
       "value"
     ],
-    " játéknappal."
+    " játéknappal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "/K2RDH": [
     "Kevesebb emotikon megtekintése"
@@ -3721,6 +3736,9 @@
   ],
   "/YzI63": [
     "Nincs hozzáférés"
+  ],
+  "/Z2sDF": [
+    "Ranglistaszéria"
   ],
   "/ZJIuo": [
     "Tetszik ez a hang? A Nitróval bárhol használhatod a(z) ",
@@ -4297,6 +4315,30 @@
   "/qG8v7": [
     "Összes megtekintése"
   ],
+  "/qIck6": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " hozzáadta a(z) ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " alkalmazást a szerverhez."
+  ],
   "/qaauJ": [
     "Reagálás ezzel: ",
     [
@@ -4551,9 +4593,6 @@
   ],
   "/x7DVG": [
     "Elérhető"
-  ],
-  "/xb5AU": [
-    "Az orbokat exkluzív tartalmakra vagy az áruházi kedvenceidre költheted"
   ],
   "/xvEMy": [
     "Színtémák"
@@ -5258,6 +5297,9 @@
   ],
   "0F/ZzX": [
     "Ez a szerver többlépcsős hitelesítést követel meg a moderálási jogosultsággal rendelkező tagoktól. Ennek az engedélyezéséig nem végezhetsz moderálási műveleteket."
+  ],
+  "0F4Peo": [
+    "Megszerzett orbok"
   ],
   "0F5Jyt": [
     "Próbáld újra"
@@ -10356,6 +10398,9 @@
   "2PJ1NP": [
     "Egy előfizetést kaptál ajándékba!"
   ],
+  "2PKrQO": [
+    "Megjelenés kipróbálása"
+  ],
   "2PuL9F": [
     "Bár korábban már csatlakoztattad az Xbox-fiókodat, csatlakoztasd újra, hogy engedélyezd az új funkciókat."
   ],
@@ -12353,6 +12398,9 @@
   ],
   "3CqDxp": [
     "QoS magas prioritású csomagok engedélyezése"
+  ],
+  "3D0GLv": [
+    "Nitro-emotikonok megtekintése"
   ],
   "3D5eox": [
     "HÉKÁS, NYUGODJ LE!"
@@ -17218,7 +17266,12 @@
       2,
       "value"
     ],
-    " egyedi játékkal."
+    " egyedi játékkal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "5DFcVl": [
     "Évente ekkor: ",
@@ -19288,6 +19341,9 @@
   "64tF+W": [
     "Legalább egy válasz megadása kötelező"
   ],
+  "64uynN": [
+    "Mind a tiéd!"
+  ],
   "655Uny": [
     "Létrehozhatsz egy címkét, amelyet a szervertagok megjeleníthetnek a nevük mellett! A szervereden kívül bárki megtekintheti a ",
     [
@@ -19456,6 +19512,9 @@
   ],
   "6AXirz": [
     "A Discord automatikusan klipet készített ezek közül néhányról neked."
+  ],
+  "6AbN1y": [
+    "Az első mérkőzéstől kezdve kitűnhetsz a tömegből. Igényeld az exkluzív Blurple kód tervrajzot."
   ],
   "6Af/cw": [
     "Egyeztess a gondviselőddel, hogy módosítsa nálad ezt a beállítást."
@@ -21586,6 +21645,9 @@
   ],
   "7/ux15": [
     "Kéretlen levelek megszüntetése itt: @everyone"
+  ],
+  "7/xnly": [
+    "Játszás"
   ],
   "70CJbT": [
     "HIVATALOS"
@@ -26494,6 +26556,9 @@
   "93hqln": [
     "Szabályok elfogadva"
   ],
+  "93iWsv": [
+    "Nitro-tagok: orbokkal igényelhettek egy exkluzív Zombi Wumpus plüsst!"
+  ],
   "93tEDn": [
     "Kapcsolat"
   ],
@@ -26978,6 +27043,18 @@
   ],
   "9GlTSj": [
     "Hiba a bejövő barátkérelmek eltávolítása során. Próbáld újra később."
+  ],
+  "9Gofqp": [
+    [
+      1,
+      "name"
+    ],
+    ", ",
+    [
+      1,
+      "presence"
+    ],
+    ", profil megtekintése"
   ],
   "9GpDYK": [
     "Világosszürke"
@@ -28390,6 +28467,9 @@
     ],
     " havonta automatikusan megtegye, amíg le nem mondod az előfizetést. Az árak változhatnak – erről viszont minden esetben tájékoztatást nyújtunk. Bármikor lemondhatod."
   ],
+  "9xo1g9": [
+    "Már elérhetők bizonyos üzletekben és online kiskereskedőknél"
+  ],
   "9yE8Ga": [
     "Lassított mód engedélyezve. A tagok egy bejegyzést hozhatnak létre ",
     [
@@ -28941,6 +29021,13 @@
   ],
   "AERuYh": [
     "A csoportod neve"
+  ],
+  "AEfs1D": [
+    "Ugrás a következőre: ",
+    [
+      1,
+      "guildName"
+    ]
   ],
   "AF+Tyh": [
     "Gyorsítsd fel ezt a szervert jutalmak feloldásához"
@@ -29707,6 +29794,9 @@
   ],
   "AcBI9S": [
     "Csatornataglista vagy szöveges hangcsevegés ki/be"
+  ],
+  "AcH7R7": [
+    "A billentyűparancsok regisztrálása az asztalon történik. Előfordulhat, hogy a változtatásokat jóvá kell hagynod, és újra leképezheted őket a rendszerbeállításaidnál."
   ],
   "AcJ4ke": [
     "Beállíthatsz olyan órákat, amikor a tizenéves gyermeked nem használhatja a Discordot. Ebben az időszakban nem fog értesítéseket kapni, és nem férhet hozzá a Discordhoz."
@@ -33833,6 +33923,13 @@
   "CIsNZw": [
     "Integráció"
   ],
+  "CJ0I6C": [
+    [
+      2,
+      "count"
+    ],
+    " további résztvevő"
+  ],
   "CJ30BP": [
     "Üzenet felolvasásának leállítása"
   ],
@@ -34561,6 +34658,13 @@
   ],
   "Ce0ZBI": [
     "Kör – Győztes kill"
+  ],
+  "Ce2iXp": [
+    [
+      1,
+      "guildName"
+    ],
+    ", ugrás a szerverre"
   ],
   "CeBa/4": [
     "Lejárat dátuma"
@@ -37038,17 +37142,6 @@
   "E+SM6T": [
     "Nincs engedélyezett alkalmazás"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Kattints a jobb egérgombbal bármelyik üzenetre, majd koppints a következőre: ",
     [
@@ -37162,6 +37255,9 @@
   ],
   "E1r98z": [
     "Barátkérelem figyelmen kívül lett hagyva."
+  ],
+  "E1sPHw": [
+    "A Nitróval feldobhatod a felszerelésedet"
   ],
   "E215W7": [
     [
@@ -37498,6 +37594,26 @@
       "questName"
     ],
     " küldetés"
+  ],
+  "EAkHd2": [
+    "A(z) ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " hozzá lett adva a szerverhez."
   ],
   "EApw/R": [
     "Moderátori műveletek"
@@ -39122,6 +39238,19 @@
   "EuXv2q": [
     "Buli mód elrejtése"
   ],
+  "EuarXc": [
+    [
+      8,
+      "usernameHook",
+      [
+        [
+          1,
+          "username"
+        ]
+      ]
+    ],
+    " megkért, hogy közvetíts"
+  ],
   "Eukdgl": [
     "Matricával fejezheted ki"
   ],
@@ -40545,7 +40674,7 @@
       1,
       "text"
     ],
-    " • ",
+    " · ",
     [
       1,
       "duration"
@@ -40953,13 +41082,6 @@
   ],
   "Fqqbhg": [
     "Ez a hivatkozás olyan felhasználóra mutat, akihez nem rendelkezel hozzáféréssel."
-  ],
-  "FquTfm": [
-    "Téma elsődleges színe: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Szabályozhatod, hogy mennyire legyenek hangosak nálad a hangok. Lépj a Szerverbeállítások területre, és szerkeszd a szerverhangokat."
@@ -41733,7 +41855,7 @@
     "egy tevékenység"
   ],
   "G9HG5O": [
-    "Fejleszd tovább a csevegés által kínált élményt"
+    "A régebbi csevegésbevitelt használod"
   ],
   "G9JfLg": [
     "Olyan, külső szolgáltatások is idetartoznak, amelyeknek engedélyezted a Discord-fiókod elérését. Áttekintheted, mire jogosultak az egyes alkalmazások, és bármikor visszavonhatod a hozzáférést."
@@ -44263,6 +44385,13 @@
   "HB5Q+k": [
     "Hadd döntse el az operációs rendszer"
   ],
+  "HBJiRR": [
+    "Ezzel játszik: ",
+    [
+      1,
+      "name"
+    ]
+  ],
   "HBR9Q0": [
     "Most már használhatsz animált profilképet!"
   ],
@@ -45236,6 +45365,9 @@
   "Hdh7sT": [
     "Ez a beállítás lehetővé teszi a barátaidnak, hogy kérelem küldése nélkül csatlakozzanak a játékodhoz."
   ],
+  "He+1tx": [
+    "SQLite – Összesen"
+  ],
   "He+cmd": [
     "A szerver neve nem érhető el"
   ],
@@ -45261,6 +45393,19 @@
   ],
   "HepAlF": [
     "Biztosan el szeretnéd rejteni a kiválasztottakat? Ezután nem fogod látni a kapcsolataidat az Értesítések területen."
+  ],
+  "HervnJ": [
+    "A héten ",
+    [
+      1,
+      "username"
+    ],
+    " vezet itt: ",
+    [
+      1,
+      "statName"
+    ],
+    "!"
   ],
   "HespNQ": [
     "Keresés a klipek között"
@@ -46216,6 +46361,9 @@
   ],
   "I509Dl": [
     "Játszani szeretnék"
+  ],
+  "I5UWh9": [
+    "Megszerezheted a Nitrót, és többek között termékeket és szervergyorsításokat vásárolhatsz"
   ],
   "I5dYFs": [
     [
@@ -48623,8 +48771,14 @@
   "J0XdJ4": [
     "Ha eltávolítod az emotikont, a rendszer el fogja távolítani a szerverről."
   ],
+  "J0YWRq": [
+    "Saját szervercímke létrehozása"
+  ],
   "J0dpcB": [
     "Nevek megjelenítése"
+  ],
+  "J0m3aK": [
+    "Az asztalon nem regisztrálható ez a parancsikon, ezért lehetséges, hogy nem működik a Waylanden. Rögzíts helyette egy billentyűt opcionális módosítókkal (pl. Ctrl+F9)."
   ],
   "J0tNny": [
     "Magában foglalja az Online Safety Act részeként beküldött kéréseket"
@@ -49612,6 +49766,9 @@
   "JZxxGx": [
     "Az összes üzenet felolvasása hangosan"
   ],
+  "Ja5Q8Z": [
+    "Lecsaphatsz egy Discord-ajándékkártyára"
+  ],
   "JaIyFi": [
     "Nem lehet több mint ",
     [
@@ -50393,7 +50550,7 @@
       1,
       "rewardPercentage"
     ],
-    "%-ot kaphatsz vissza jutalmak formájában a szezon legnépszerűbb játékainak (többek között például a Call of Duty: Modern Warfare 4) egyes előrendeléseiből. Beváltási határidő: ",
+    "%-ot kaphatsz vissza jutalmak formájában többek között a szezon legnépszerűbb játékainak egyes előrendeléseiből. Beváltási határidő: ",
     [
       3,
       "date",
@@ -50431,6 +50588,9 @@
   ],
   "K0e7M9": [
     "Újrapróbálkozás a videóval"
+  ],
+  "K0spYL": [
+    "Élő közvetítés indítása"
   ],
   "K1URjQ": [
     "Kezelheted a Szerverközpontod beállításait."
@@ -53471,6 +53631,15 @@
       ]
     ]
   ],
+  "LUOF3v": [
+    "Kizárólag Nitróval elérhető Call of Duty: Modern Warfare 4-tervrajzot igényelhetsz. Beváltási határidő: ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
+  ],
   "LUo0Q8": [
     "Csatorna meghívója"
   ],
@@ -53787,6 +53956,9 @@
   "LfCBZG": [
     "E-mail-cím szükséges"
   ],
+  "LfEwvz": [
+    "Engedélyezett"
+  ],
   "LfeFFr": [
     "Kockázatos jogosultságok letiltása a következőnél:"
   ],
@@ -54017,6 +54189,20 @@
       ]
     ],
     " (adómentes)"
+  ],
+  "LlJum4": [
+    "A(z) ",
+    [
+      8,
+      "appNameHook",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ]
+    ],
+    " hozzá lett adva a szerverhez."
   ],
   "LlZaoX": [
     "Nem sikerült a Nitro-előfizetésed befizetése, kérjük, frissítsd a fizetési adataidat."
@@ -56908,9 +57094,6 @@
   "MyJpJT": [
     "Függőben lévő kérés"
   ],
-  "MyO0sh": [
-    "A híres erős, hallgatag típus."
-  ],
   "MylOvg": [
     "Az összes szint megtekintése"
   ],
@@ -57355,6 +57538,9 @@
     ],
     " perccel ezelőtt"
   ],
+  "N9U/9X": [
+    "Sikeresen visszaállítottad a jelszavadat. Jelentkezz be az új jelszavaddal."
+  ],
   "N9WJMM": [
     "Manuális ellenőrzés kérése"
   ],
@@ -57744,6 +57930,9 @@
   ],
   "NJFr+g": [
     "Lista"
+  ],
+  "NJLgMs": [
+    "Névstílus kipróbálása"
   ],
   "NJm/0W": [
     "Egyedi meghívó link (",
@@ -58219,6 +58408,9 @@
       ]
     ],
     " összegért (+ a vonatkozó adók)"
+  ],
+  "NV+MBV": [
+    "Nincsenek szervercímkék, amelyekből választhatnál."
   ],
   "NV85DR": [
     "A(z) ",
@@ -59793,9 +59985,6 @@
   "OBCR+p": [
     "Továbbiak megtekintése"
   ],
-  "OBeYX/": [
-    "0 hangcsatornákon töltött perc"
-  ],
   "OBp3V3": [
     "GIF, gomb"
   ],
@@ -61183,6 +61372,9 @@
   "Olc2K3": [
     "Vissza a beállításokhoz"
   ],
+  "OleW32": [
+    "Új, Discord által támogatott közösségi funkciók érhetők el a Call of Duty: Modern Warfare 4 játékhoz. Frissítsd a kapcsolatodat az egységesített barátlista és meghívók feloldásához."
+  ],
   "Olo8FB": [
     "Kategória"
   ],
@@ -62477,7 +62669,7 @@
     "Hmm… Nincs találat"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Call of Duty: MW4 jutalom"
   ],
   "PFxxJa": [
     "Ha a játék fut, és nem tud kapcsolódni a Discordhoz, próbáld meg megtekinteni a játék naplóit a hibakereséshez"
@@ -62656,19 +62848,7 @@
     "matrica"
   ],
   "PJn0ih": [
-    "Engedélyezd az egyes beállításokat, hogy hozzájáruljanak a ranglistához. Ezeket bármikor módosíthatod a Beállítások menüpontban."
-  ],
-  "PJsjbP": [
-    "Új emotikont (",
-    [
-      1,
-      "emoji"
-    ],
-    ") adott hozzá itt: ",
-    [
-      1,
-      "guildName"
-    ]
+    "Engedélyezd a beállításokat, hogy hozzájáruljanak a ranglistához. Ezeket bármikor módosíthatod a Beállítások menüpontban."
   ],
   "PJx5+Z": [
     "Ó, nem, nem sikerült frissíteni a játékot. Ellenőrizd, hogy a játék be van-e zárva, majd próbáld újra."
@@ -63049,6 +63229,12 @@
   ],
   "PSuly6": [
     "Interaktív tábla elindítása"
+  ],
+  "PTCrUP": [
+    "Az asztalodon még nem lett engedélyezve ez a parancsikon. Hagyd jóvá a rendszered globális parancsikon-beállításainál."
+  ],
+  "PTDDhW": [
+    "Láthatatlan módban a rendszer elrejti a játéktevékenységedet. Válts online állapotra, ha csatlakozni szeretnél a ranglistához."
   ],
   "PTHakm": [
     "Jelszó létrehozása"
@@ -65441,6 +65627,13 @@
   "QcJbt6": [
     "További helyek feloldása egyedi matricáknak"
   ],
+  "QcKHvf": [
+    [
+      1,
+      "sectionName"
+    ],
+    " kibontása"
+  ],
   "QcmgBF": [
     "Engedélyezheted, hogy értesítést kapjanak azok a tagok, akikkel a legtöbbször lépsz interakcióba, amikor kis szervereken indítasz élő közvetítést."
   ],
@@ -66550,6 +66743,9 @@
   ],
   "R5uhUE": [
     "Az új Szerverek lappal rendezettebbé válik a csevegés"
+  ],
+  "R6Ksr9": [
+    "Igényelve"
   ],
   "R6LxVf": [
     "Értesítések letiltva"
@@ -68192,6 +68388,9 @@
       "cardinal"
     ],
     " egész évben!"
+  ],
+  "RqXsIs": [
+    "RqXsIs"
   ],
   "Rqmi9/": [
     "Válaszd ki, milyen szoba legyen használatban a helyeden."
@@ -71236,7 +71435,7 @@
     "Profilkép visszaállítása"
   ],
   "TE+uDu": [
-    "Nézd meg"
+    "Megnézem"
   ],
   "TEEYwa": [
     "Kiváló értékelésű eladó"
@@ -71272,6 +71471,13 @@
   ],
   "TFc+iF": [
     "A fellegek felett"
+  ],
+  "TFn1fS": [
+    [
+      1,
+      "gameName"
+    ],
+    " közvetítése"
   ],
   "TG0QsS": [
     "Szerverek, amelyekkel információkat osztok meg"
@@ -71794,6 +72000,13 @@
   ],
   "TUKMak": [
     "Oszd meg a tevékenységállapotodat ezen a szerveren"
+  ],
+  "TUZ50q": [
+    [
+      1,
+      "guildName"
+    ],
+    " előnézetének megtekintése"
   ],
   "TUilLj": [
     "A gyorsítások segítségével különleges, tematikus jelvénycsomagokat oldhatsz fel a szervercímkédhez!"
@@ -73593,6 +73806,9 @@
   "UCuHM8": [
     "Tinédzserfiók-beállítások"
   ],
+  "UD3OKX": [
+    "SQLite – Ingyenes"
+  ],
   "UD5nn5": [
     [
       2,
@@ -75309,6 +75525,23 @@
   "UwPrKZ": [
     "Növeld meg közösséged szerverfelfedezéssel"
   ],
+  "UwYHGm": [
+    "További tájékoztatást a ",
+    [
+      8,
+      "$link",
+      [
+        "webhelyünkön"
+      ],
+      [
+        [
+          1,
+          "websiteUrl"
+        ]
+      ]
+    ],
+    " találsz"
+  ],
   "Uwhb1l": [
     "Előrelépés a következő szintre"
   ],
@@ -76673,6 +76906,72 @@
   "VVZDBL": [
     "Sajnos ez a közvetítés elérte a maximális nézőszámot."
   ],
+  "VW2XVd": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " áthelyezte ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " tagot ide: ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
+  ],
   "VWNyUu": [
     "Riasztás megjelölése befejezettként"
   ],
@@ -76940,7 +77239,7 @@
     "Nyiss egy bejegyzést"
   ],
   "VdzwlA": [
-    "Engedélyezés most"
+    "Kikapcsolás"
   ],
   "Ve/y5z": [
     "Összes előfizetési szint"
@@ -77518,7 +77817,7 @@
     "Ez a téma csak Nitro-felhasználók számára érhető el."
   ],
   "VqNHoS": [
-    "Ez a hang már nem aktív"
+    "Ez a hangkombó már nem aktív"
   ],
   "VqhxxN": [
     "Válassz ki egy közösségi frissítések csatornát"
@@ -80034,9 +80333,6 @@
   ],
   "WuwCWi": [
     "Szerverek"
-  ],
-  "Wv7HLS": [
-    "Új szerzemények, csak neked"
   ],
   "WvAqZA": [
     "Ingyenes dekorációt szereztél"
@@ -82737,6 +83033,9 @@
   "Y3fdOp": [
     "Küldtünk egy e-mailt. Kattints az e-mailben található hivatkozásra a vásárlás hitelesítéséhez!"
   ],
+  "Y3poDW": [
+    "Y3poDW"
+  ],
   "Y40Jke": [
     "Hahó, van itt valaki?"
   ],
@@ -82812,6 +83111,9 @@
       ]
     ],
     " vezet."
+  ],
+  "Y6LdPr": [
+    "A fizetés végrehajtásához hitelesítsd a fiókodat. Első lépésként jelentkezz be."
   ],
   "Y6Qfju": [
     [
@@ -85429,6 +85731,14 @@
       "colorHex"
     ]
   ],
+  "ZCFDN+": [
+    "Megnyerte az elmúlt ",
+    [
+      2,
+      "streakCount"
+    ],
+    " hétnyi játékranglista-versenyt."
+  ],
   "ZCKAg8": [
     "Regisztráció"
   ],
@@ -86032,6 +86342,9 @@
   "ZPB6+J": [
     "Mutasd be magad három emotikonnal"
   ],
+  "ZPHaPE": [
+    "Módosítás a rendszerbeállításoknál"
+  ],
   "ZPMAlX": [
     "Megjelenített név stílusának módosítása"
   ],
@@ -86134,6 +86447,9 @@
   ],
   "ZT24In": [
     "Fotók tallózása"
+  ],
+  "ZT58S4": [
+    "ÚJDONSÁG! Ütemezett üzenetek"
   ],
   "ZTH4j4": [
     "Alkalmazásgomb megjelenítése"
@@ -86474,6 +86790,14 @@
   ],
   "ZaJksS": [
     "Színtiszta hang: „open mic” feldolgozás nélkül"
+  ],
+  "ZaOAtm": [
+    "Jelenlegi vezető (",
+    [
+      1,
+      "statName"
+    ],
+    ")"
   ],
   "ZaXBoD": [
     "Az archív fájlok nem támogatottak"
@@ -87228,28 +87552,15 @@
     "Csatornalistához adás"
   ],
   "ZtUieE": [
+    "Az alkalmazásparancsok nem működnek vele. Kapcsold ki a visszaszerzésükhöz. Bármikor visszaállíthatod a következő menüpontban: ",
     [
       8,
-      "$p",
+      "openSettingsHook",
       [
-        "Az új funkciók engedélyezésével perjeles parancsokhoz és egyéb izgalmas csevegési jellemzőkhöz férhetsz hozzá."
+        "Felhasználói beállítások > Kisegítő lehetőségek"
       ]
     ],
-    [
-      8,
-      "$p",
-      [
-        "A ",
-        [
-          8,
-          "openSettingsHook",
-          [
-            "Felhasználói beállítások > Kisegítő lehetőségek"
-          ]
-        ],
-        " pontban bármikor visszaállíthatod a régi csevegési élményt."
-      ]
-    ]
+    "."
   ],
   "ZtdF0+": [
     "Nem érhető el"
@@ -87277,6 +87588,22 @@
   ],
   "ZuXSRp": [
     "Nyomd meg hosszan, ha el szeretnéd rejteni a privátnak szánt jelvényeket."
+  ],
+  "ZuneBP": [
+    "Beváltás a ",
+    [
+      8,
+      "$link",
+      [
+        "Számlázási beállításoknál"
+      ],
+      [
+        [
+          1,
+          "onBillingSettingsClick"
+        ]
+      ]
+    ]
   ],
   "Zuo+Vd": [
     "Biztos vagy benne, hogy törölni szeretnéd ezt: ",
@@ -90592,6 +90919,9 @@
       "count"
     ],
     " elhagyott csoportos DM"
+  ],
+  "b2yxYL": [
+    "Egy helyen tárolhatod a legfontosabb üzeneteket."
   ],
   "b3+OH1": [
     "Játékon belüli Discord-orbokat kaphatsz a Marvel Rivals-vásárlásokért."
@@ -94374,6 +94704,9 @@
   "cOkbp/": [
     "Hallgasd a barátaidat a legnagyobb felbontásban. Ez olyan, mintha közvetlenül melletted lennének..."
   ],
+  "cOmrX4": [
+    "Ha másik fizetési móddal szeretnél fizetni, jelentkezz be a fiókodba."
+  ],
   "cPQCeg": [
     "Növényváza"
   ],
@@ -95194,6 +95527,9 @@
   ],
   "cgR+IK": [
     "Instagram"
+  ],
+  "cgRADC": [
+    "Online állapotú vagy! Már számoljuk a tevékenységeidet, és holnap meg fogsz jelenni a ranglistán."
   ],
   "cgT481": [
     "A Discord ",
@@ -96872,6 +97208,9 @@
   "cxFiDC": [
     "Kemény fogalmazás"
   ],
+  "cxSpOM": [
+    "Közvetítés előnézete"
+  ],
   "cxy+zn": [
     "Barátok hozzáadása és közvetlen csevegés velük"
   ],
@@ -98173,7 +98512,12 @@
       2,
       "value"
     ],
-    " egyedi játékkal."
+    " egyedi játékkal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "dXC/hn": [
     "év"
@@ -99338,6 +99682,9 @@
   ],
   "dqQgZv": [
     "Új Nitro-tagságot ajándékozhatsz"
+  ],
+  "dqYuni": [
+    "A tevékenységmegosztás be van kapcsolva. Már számoljuk a tevékenységeidet, és holnap meg fogsz jelenni a ranglistán."
   ],
   "dqb2JZ": [
     "Szabványos"
@@ -101329,7 +101676,7 @@
     "10 órányi felhőbeli játék minden hónapban"
   ],
   "ecPCdG": [
-    "My Best Buy Plus-tagság"
+    "My Best Buy Plus™-tagság"
   ],
   "ecTJkR": [
     "Profilkeretek"
@@ -102254,7 +102601,12 @@
       2,
       "value"
     ],
-    " játékkal töltött nappal."
+    " játékkal töltött nappal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "exclamation": [
     "felkiáltás",
@@ -102690,12 +103042,17 @@
         ]
       ]
     ],
-    " megnyerte a heti versenyt ",
+    " megnyerte az e heti versenyt ",
     [
       2,
       "value"
     ],
-    " játéknappal."
+    " játéknappal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "f6YgdN": [
     "Aktív: >30 nappal ezelőtt"
@@ -102972,6 +103329,13 @@
   ],
   "fG3RIg": [
     "Orbok áruháza"
+  ],
+  "fGlxFS": [
+    [
+      1,
+      "name"
+    ],
+    ", profil megtekintése"
   ],
   "fGrbRX": [
     "A kapcsolataid szinkronizálása során valami hiba történt. Várj egy kicsit, majd próbáld meg újra."
@@ -103986,6 +104350,9 @@
   ],
   "fbKwSs": [
     "Emotikonokat és különleges karaktereket is használhatsz."
+  ],
+  "fbbIpP": [
+    "Közvetíts a klipkészítés megkezdéséhez"
   ],
   "fbcCzZ": [
     "Alkalmazás megtekintése"
@@ -106235,12 +106602,11 @@
     "Csatlakozz ehhez a szerverhez, ezzel hozzáadod a listádhoz és kezdhetsz beszélgetni!"
   ],
   "gOIq4P": [
-    "Csatlakozás a(z) ",
+    "Csatlakozás: ",
     [
       1,
       "channel"
-    ],
-    " csatornához"
+    ]
   ],
   "gOOPaG": [
     "Üdv újra!"
@@ -108465,6 +108831,68 @@
   ],
   "hElye1": [
     "Egyéb listázás megtekintése ehhez az SKU-hoz"
+  ],
+  "hEqea3": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " áthelyezett ",
+    [
+      2,
+      "uniqueCount"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "felhasználót"
+      ]
+    ],
+    " ide: ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
   ],
   "hFDcmZ": [
     [
@@ -113670,6 +114098,9 @@
   "jCV1Tz": [
     "ALT"
   ],
+  "jCZgxQ": [
+    "Az e heti játékranglista jelenlegi vezetője."
+  ],
   "jCqvk/": [
     "A fiókod összekapcsolása"
   ],
@@ -114238,6 +114669,9 @@
   ],
   "jVrUnC": [
     "Webhook törlése"
+  ],
+  "jVv7YM": [
+    "korhatáros"
   ],
   "jW+QO/": [
     "A Partnerszervereknek meg kell felelniük az alapvető aktivitási követelményeknek. Ezt nem tudjuk kiszámolni, amíg a szervernek nincs legalább ",
@@ -115210,6 +115644,13 @@
   ],
   "js8y7t": [
     "Saját téma alapértelmezett használata"
+  ],
+  "jsV9yS": [
+    [
+      1,
+      "sectionName"
+    ],
+    " összecsukása"
   ],
   "jsr/6e": [
     "A káromkodást és egyebeket tartalmazó üzenetek szűrése. ",
@@ -118514,6 +118955,9 @@
   "lLDtTK": [
     "Barátok keresése"
   ],
+  "lLFi5U": [
+    "Gyűjthető elemekre vonatkozó beállítások"
+  ],
   "lLFvlT": [
     "Név"
   ],
@@ -118579,6 +119023,51 @@
   ],
   "lOAkKo": [
     "Fiók tiltása feloldva"
+  ],
+  "lODaeu": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " leválasztott ",
+    [
+      2,
+      "uniqueCount"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "felhasználót"
+      ]
+    ],
+    " a hangcsatornáról (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
   ],
   "lOF4zR": [
     "Frissült a profilkereted!"
@@ -119562,13 +120051,6 @@
   ],
   "lnk2NQ": [
     "Közelmúltban meglátogatott"
-  ],
-  "lo6H6+": [
-    "Hozzákapcsolás a következőhöz: ",
-    [
-      1,
-      "gameName"
-    ]
   ],
   "loYGC/": [
     "Az ",
@@ -122700,7 +123182,12 @@
       2,
       "value"
     ],
-    " egyedi játékkal."
+    " egyedi játékkal és ",
+    [
+      1,
+      "gameTime"
+    ],
+    " játékidővel."
   ],
   "mhUrKS": [
     "Mielőtt használhatnád a Családi központot, hitelesítenünk kell az életkorodat, hogy megfelelő élményben legyen részed. Ezt csak egyszer fogjuk kérni tőled."
@@ -123997,9 +124484,6 @@
   ],
   "n6G1ue": [
     "Ne módosítsd a fiókodhoz tartozó e-mail-címet. A Discord soha nem kér ilyesmire!"
-  ],
-  "n6G8gI": [
-    "Mit kaphatok az orbokért?"
   ],
   "n6I6k4": [
     "Húú! Fogadd el az ajándékot"
@@ -129759,6 +130243,9 @@
   "pKCxWP": [
     "Keresés elindítva"
   ],
+  "pKLV22": [
+    "Nem indíthatsz el tevékenységeket korhatáros csatornákon."
+  ],
   "pKZ4I8": [
     "Pódiumcsatorna (zárolva)"
   ],
@@ -130369,6 +130856,9 @@
   ],
   "pdaUSE": [
     "Az Xbox Game Pass már a Nitro részét képezi"
+  ],
+  "pe/6Ma": [
+    "Letiltva"
   ],
   "pe0fpS": [
     "Tranzakciós időszak részleteinek ki- vagy bekapcsolása a következőnél: ",
@@ -132053,6 +132543,9 @@
   "pxwdrA": [
     "Szerver meglátogatása"
   ],
+  "py5vQi": [
+    "Megszerezheted a Call of Duty: Modern Warfare 4-hez kapcsolódó exkluzív tervrajzot, amely kifejezetten Nitro-tagoknak készült."
+  ],
   "pyRNXJ": [
     "További funkciók engedélyezése a(z) ",
     [
@@ -133492,6 +133985,67 @@
       ]
     ]
   ],
+  "qXazAb": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " áthelyezett ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ felhasználót"
+      ]
+    ],
+    " ide: ",
+    [
+      8,
+      "channelHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "channel"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
+  ],
   "qXeYHw": [
     "Szabványos"
   ],
@@ -133506,9 +134060,6 @@
   ],
   "qY82lX": [
     "Név"
-  ],
-  "qYAzOp": [
-    "Többek között olyan közösségi funkciókat oldhatsz fel, mint a szinkronizált barátok és az üzenetek!"
   ],
   "qYKftX": [
     "ingyenes próbaidőszak aktiválva"
@@ -133603,6 +134154,13 @@
   ],
   "qbJ96B": [
     "Befejeződött!"
+  ],
+  "qbJihM": [
+    "A kiválasztott ingyenes jutalom szerkesztése: ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Ugrás a linkre"
@@ -134121,6 +134679,9 @@
   "qtJKH2": [
     "Bárki segíthet kedvenc szervered szintlépésében, illetve a testreszabások és kollektív jutalmak feloldásában"
   ],
+  "qtKobx": [
+    "Ajándékkártyára csaphatsz le. Szó szerint! Már elérhetők bizonyos üzletekben és online kiskereskedőknél."
+  ],
   "qtSJxb": [
     "Ismeretlen"
   ],
@@ -134627,6 +135188,9 @@
       "count"
     ],
     " elem"
+  ],
+  "r6bvTh": [
+    "Hasonló közösségek böngészése"
   ],
   "r6eshq": [
     "Soundboard-hangok mindenütt"
@@ -137672,7 +138236,7 @@
     "Csatornák keresése"
   ],
   "s5No7R": [
-    "Ez a hang egy nyilvános szerverről származik."
+    "Ez a hang egy felfedezhető szerverről származik."
   ],
   "s5Qo8E": [
     "Pukk"
@@ -137704,6 +138268,9 @@
   ],
   "s7+3um": [
     "Játék az Xbox Game Pass használatával"
+  ],
+  "s76lNz": [
+    "Szeretnél saját szervercímkét?"
   ],
   "s7STcY": [
     "Szolgáltatási feltételek"
@@ -138089,6 +138656,9 @@
   ],
   "sJDGZT": [
     "Hozz létre egy szervert a tanulócsoportod számára"
+  ],
+  "sJHQqC": [
+    "Nitróra költheted, és többek között termékeket vásárolhatsz. Már elérhetők bizonyos üzletekben és online kiskereskedőknél."
   ],
   "sJTwHQ": [
     "Mindössze ",
@@ -141933,6 +142503,9 @@
     ],
     " hónap kedvezmény"
   ],
+  "tR2B53": [
+    "Játékáruház-promóció bezárása"
+  ],
   "tROvHH": [
     "Bármely tartalom"
   ],
@@ -142028,6 +142601,55 @@
       "duration"
     ],
     " során büszkén megvillanthatod a profilodon."
+  ],
+  "tTwGD8": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " leválasztotta ",
+    [
+      8,
+      "memberHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "member"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " tagot a hangcsatornáról (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
   ],
   "tU5fiM": [
     "Nincs konfigurált alkalmazás"
@@ -143000,6 +143622,15 @@
     "tm",
     "védjegy"
   ],
+  "tm4caj": [
+    "Kizárólag Nitróval elérhető Call of Duty: Modern Warfare 4-tervrajzot igényelhetsz. Lejárati idő: ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
+  ],
   "tmE73r": [
     "Nincs még felhasználói fiókod?"
   ],
@@ -143071,6 +143702,9 @@
   ],
   "tmiYpF": [
     "Közvetítés beállításai"
+  ],
+  "tmst3F": [
+    "@everyone számára tökéletes ajándék"
   ],
   "tnBalD": [
     "Kialakítottad a barátaid listáját. Üdv az elit 1000 barát klubban!"
@@ -146361,6 +146995,13 @@
       "cardinal"
     ]
   ],
+  "uyJSNf": [
+    "Csatlakozás: ",
+    [
+      1,
+      "guildName"
+    ]
+  ],
   "uyVrTN": [
     "Bejegyzés címe"
   ],
@@ -149283,6 +149924,9 @@
   "w8gMqh": [
     "Régió"
   ],
+  "w8gzZb": [
+    "@everyone számára tökéletes ajándék"
+  ],
   "w8j+yW": [
     "Képleírásokkal"
   ],
@@ -151783,6 +152427,20 @@
   "wtk08S": [
     "Hangtevékenység-értesítések"
   ],
+  "wu2lqV": [
+    "Az asztalodon ez a művelet a következőhöz van kötve: ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "trigger"
+        ]
+      ]
+    ],
+    "."
+  ],
   "wu4gyV": [
     "Nem érhető el"
   ],
@@ -152443,6 +153101,42 @@
   "x68b1F": [
     "Neon"
   ],
+  "x6G/Rr": [
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "username"
+        ]
+      ],
+      [
+        [
+          1,
+          "usernameOnClick"
+        ]
+      ]
+    ],
+    " hozzáadta a(z) ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "appName"
+        ]
+      ],
+      [
+        [
+          1,
+          "appNameOnClick"
+        ]
+      ]
+    ],
+    " alkalmazást a szerverhez."
+  ],
   "x6ielD": [
     "Biztonsági kulcs aktiválva! :tada:"
   ],
@@ -152688,6 +153382,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "xDMrVa": [
+    "Blurple kód"
   ],
   "xDRab3": [
     "Tedd egyedivé a profilodat"
@@ -153251,13 +153948,6 @@
   "xOg4SP": [
     "Webhookok"
   ],
-  "xOnm4z": [
-    "Téma kiemelési színe: ",
-    [
-      1,
-      "colorLabel"
-    ]
-  ],
   "xOscRh": [
     "Kategória eltávolítása"
   ],
@@ -153599,6 +154289,9 @@
   ],
   "xYXsr6": [
     "Az életkorod megerősítése"
+  ],
+  "xYa9Y8": [
+    "Hol vásárolható meg?"
   ],
   "xYhOEh": [
     "Ha engedélyezve van a Közvetítő mód…"
@@ -154443,6 +155136,50 @@
   "xu9k8G": [
     "Discord-rendszersegéd telepítése megszakítva!"
   ],
+  "xuGjhY": [
+    [
+      8,
+      "userHook",
+      [
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "user"
+            ]
+          ]
+        ]
+      ]
+    ],
+    " leválasztott ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "uniqueCount"
+        ],
+        "+ felhasználót"
+      ]
+    ],
+    " a hangcsatornáról (",
+    [
+      2,
+      "count"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        "művelet"
+      ]
+    ],
+    ")"
+  ],
   "xuYQ0n": [
     "Beszélő"
   ],
@@ -154611,6 +155348,9 @@
   ],
   "xyO7AD": [
     "Az Enter gombbal tudod elhelyezni ide a megjegyzésedet. Az Escape billentyűvel pedig vissza tudod vonni."
+  ],
+  "xyVEtZ": [
+    "Fordítási pilot tesztüzenet"
   ],
   "xyYt8A": [
     "Rendezés és megtekintés"
@@ -155728,6 +156468,9 @@
   ],
   "yTPprb": [
     "Két együtt fagyizó karakter"
+  ],
+  "yTYUJw": [
+    "Megszerezheted az exkluzív MW4-tervrajzodat – kizárólag a Nitróval."
   ],
   "yTa+di": [
     "Figyelmeztetés"
