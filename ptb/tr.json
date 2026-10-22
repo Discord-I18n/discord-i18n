@@ -300,7 +300,7 @@
     "Henüz hiçbir avantaj açılmadı"
   ],
   "+7+Hvl": [
-    "Sunucularındaki mesajları oku"
+    "Sunucularındaki mesajları okuma"
   ],
   "+78Pfm": [
     "Bildir"
@@ -2333,7 +2333,7 @@
       2,
       "n"
     ],
-    " kişi oynadı"
+    " kişi oynattı"
   ],
   "+z5dYe": [
     "Devam etmek için hesabını oyun üzerinden bağla"
@@ -5250,6 +5250,9 @@
   ],
   "0F/ZzX": [
     "Bu sunucuda, moderasyon yetkileri bulunan üyelerin Çok Aşamalı Doğrulamaya sahip olmaları gerekir. Bunu tekrar etkinleştirmeden hiçbir moderasyon işlemi yapamazsın."
+  ],
+  "0F4Peo": [
+    "Kazanılan Orbs"
   ],
   "0F5Jyt": [
     "Lütfen tekrar dene"
@@ -13337,7 +13340,7 @@
       1,
       "c"
     ],
-    " oynadı"
+    " oynattı"
   ],
   "3Zypbv": [
     "Uygulamayı ayrı pencerede göster"
@@ -19377,7 +19380,7 @@
     "Discord bunlardan bazılarını senin için otomatik olarak kırptı."
   ],
   "6AbN1y": [
-    "6AbN1y"
+    "İlk maçından itibaren kalabalığın arasından sıyrıl. Özel Kod Mavimor planını al."
   ],
   "6Af/cw": [
     "Vasinle giriş yaparak bu ayarı senin için değiştirmesini sağla."
@@ -21528,6 +21531,9 @@
   "7/ux15": [
     "@everyone spam'ini durdur"
   ],
+  "7/xnly": [
+    "Oyna"
+  ],
   "70CJbT": [
     "RESMÎ"
   ],
@@ -21830,7 +21836,7 @@
     "Sen de el salla"
   ],
   "7CrlYb": [
-    "Henüz oyun oynamadın"
+    "Henüz oyun oynamadı"
   ],
   "7Ct0Dj": [
     "Bize bildirme deneyiminden bahset."
@@ -26260,7 +26266,7 @@
     "İçe Aktar"
   ],
   "90jVsn": [
-    "Küçük Adamlar"
+    "Küçük İnsanlar"
   ],
   "91DEhs": [
     [
@@ -30018,7 +30024,7 @@
     "Ses Kanalı Oluştur"
   ],
   "Alcf2G": [
-    "Senden bahseden mesajları oku"
+    "Senden bahseden mesajları okuma"
   ],
   "Alcl/e": [
     "Hadi deneyimini özelleştirelim"
@@ -30514,19 +30520,26 @@
   "AzIhRB": [
     "Bu hafta ",
     [
-      2,
-      "count"
+      8,
+      "countHook",
+      [
+        [
+          2,
+          "count"
+        ],
+        " üye"
+      ]
     ],
-    " üye tarafından dinlendi. ",
+    " tarafından dinlendi. ",
     [
       5,
       "trend",
       {
         "up": [
-          "Yukarı"
+          "Yükselişte"
         ],
         "down": [
-          "Aşağı"
+          "Düşüşte"
         ],
         "other": []
       }
@@ -36090,7 +36103,7 @@
       1,
       "a"
     ],
-    " oynadı"
+    " oynattı"
   ],
   "DU0dy/": [
     "Emoji Yükle"
@@ -36986,17 +36999,6 @@
   "E+SM6T": [
     "Yetkili Uygulama Yok"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Herhangi bir mesaja sağ tıkla ve ",
     [
@@ -37113,7 +37115,7 @@
     "Arkadaşlık isteği reddedildi."
   ],
   "E1sPHw": [
-    "E1sPHw"
+    "Nitro'yu ekipmanına ekle"
   ],
   "E215W7": [
     [
@@ -37850,7 +37852,7 @@
       2,
       "n"
     ],
-    " kişi oynadı"
+    " kişi oynattı"
   ],
   "EOUqzM": [
     "Takviyeyle davet bağlantına bir görsel ekle"
@@ -38325,7 +38327,7 @@
       2,
       "n"
     ],
-    " kişi oynadı"
+    " kişi oynattı"
   ],
   "EYR1Fa": [
     "Görsel yükle"
@@ -40930,13 +40932,6 @@
   ],
   "Fqqbhg": [
     "Bu erişimin olmayan bir kullanıcının bağlantısı."
-  ],
-  "FquTfm": [
-    "Tema Birincil Rengi: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Seslerin senin için ne kadar yüksek olmasını istediğini ayarla. Sunucu seslerini ayarlamak için sunucu ayarlarına git."
@@ -48689,6 +48684,9 @@
   "J0XdJ4": [
     "Emojiyi buradan kaldırman durumunda sunucudan da kalkacak."
   ],
+  "J0YWRq": [
+    "Kendi Sunucu Etiketini Oluştur"
+  ],
   "J0dpcB": [
     "Adları Görüntüle"
   ],
@@ -53569,7 +53567,13 @@
     " inceleyin"
   ],
   "LUOF3v": [
-    "LUOF3v"
+    "Nitro'ya özel bir Call of Duty: Modern Warfare 4 planını al. ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    " tarihine kadar kullan."
   ],
   "LUo0Q8": [
     "Kanalı davet et"
@@ -57125,7 +57129,7 @@
     " kısmında seçtiğin arkadaşların ve sunucularla paylaşılır."
   ],
   "N1P8Wp": [
-    "Sunucularındaki mesajları ara"
+    "Sunucularındaki mesajları arama"
   ],
   "N22i9F": [
     "Kaydırmaya devam et..."
@@ -62178,7 +62182,7 @@
       2,
       "n"
     ],
-    " kişi oynadı"
+    " kişi oynattı"
   ],
   "P5dSl0": [
     "Gölge rengi"
@@ -62565,7 +62569,7 @@
     "Hmm... Sonuç Yok"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Call of Duty: MW4 Ödülü"
   ],
   "PFxxJa": [
     "Oyunun çalışıyorsa ve Discord'a bağlanamıyorsa, oyunun günlüklerini görüntüleyerek hata ayıklamayı dene"
@@ -66607,6 +66611,9 @@
   ],
   "R5uhUE": [
     "Yeni Sunucular sekmesiyle daha düzenli sohbet mesajlarının tadını çıkar"
+  ],
+  "R6Ksr9": [
+    "Alındı"
   ],
   "R6LxVf": [
     "Bildirimler Devre Dışı"
@@ -70699,7 +70706,7 @@
     "Bize daha fazla bilgi verebilir misin?"
   ],
   "Sxxqdx": [
-    "Whiteboard etkin."
+    "Beyaz tahta etkin."
   ],
   "Sy3qan": [
     "Tanımıyor olabileceğin sunucu üyelerinden gelen mesajları filtrele."
@@ -72289,7 +72296,7 @@
     "Alt başlığının adını yaz"
   ],
   "Tfkx5f": [
-    "Meow Squad"
+    "Kedi Takımı"
   ],
   "TflqTe": [
     "Dostların için sesli ve yazılı sohbeti olan yepyeni bir sunucu oluştur!"
@@ -74012,7 +74019,7 @@
     "Ayarları Görüntüle"
   ],
   "UPLtlA": [
-    "Whiteboard erişimini düzenleme iznin yok."
+    "Beyaz tahta erişimini düzenleme iznin yok."
   ],
   "UPMwV8": [
     "En çok oynanan oyun"
@@ -74346,7 +74353,7 @@
     ]
   ],
   "UVkUVk": [
-    "Direkt mesajlarını ara"
+    "Direkt mesajlarını arama"
   ],
   "UVl5Hz": [
     "Gelen arkadaşlık isteklerindeki kişiselleştirilmiş mesajları ön izle"
@@ -80332,7 +80339,7 @@
       1,
       "endsAt"
     ],
-    " içinde sona eriyor."
+    " tarihinde sona eriyor."
   ],
   "X+mXeq": [
     "Ekran Paylaşımı İzinleri"
@@ -82281,7 +82288,7 @@
     "Nötr"
   ],
   "XrpYIG": [
-    "Yalnızca bu roller Whiteboard'u kullanabilir. Herkesin kullanabilmesi için bunu boş bırak. Değişiklikler hemen uygulanır."
+    "Yalnızca bu roller ’ıubeyaz tahtayı kullanabilir. Herkesin kullanabilmesi için bunu boş bırak. Değişiklikler hemen uygulanır."
   ],
   "XrsUHd": [
     "XrsUHd"
@@ -86929,7 +86936,7 @@
     " indirim kazandın."
   ],
   "ZiykFI": [
-    "Skelly"
+    "İskeletçikler"
   ],
   "Zj2xQ0": [
     "Google Pay kullanılamıyor veya tarayıcında kurulu değil. Lütfen ödeme kartını buraya gir"
@@ -93497,7 +93504,7 @@
       2,
       "otherCount"
     ],
-    " oyun oynandı"
+    " oyunu oynadı"
   ],
   "bxh/R7": [
     "Metin Okunabilirliği"
@@ -104013,7 +104020,7 @@
       2,
       "additionalCount"
     ],
-    " kişi Whiteboard'u kullanıyor."
+    " kişi beyaz tahtayı kullanıyor."
   ],
   "fcopjf": [
     "Ödülü Aç"
@@ -108457,7 +108464,7 @@
     "Varsayılan arka planlar kaldırılamaz"
   ],
   "hFYyGU": [
-    "Popüler Müzik görüntülemeleri"
+    "Popüler Müzik görüntüleme Seçenekleri"
   ],
   "hFeBkl": [
     "Doğrulama uygulamasını aç ve telefonunun kamerasını kullanarak soldaki resmi tara."
@@ -115980,7 +115987,7 @@
       1,
       "endedAt"
     ],
-    " önce sona erdi. Bir sonraki yarışma ",
+    " tarihinde sona erdi. Bir sonraki yarışma ",
     [
       8,
       "$b",
@@ -119548,13 +119555,6 @@
   ],
   "lnk2NQ": [
     "Son Ziyaretler"
-  ],
-  "lo6H6+": [
-    [
-      1,
-      "gameName"
-    ],
-    " ile bağlan"
   ],
   "loYGC/": [
     [
@@ -132110,7 +132110,7 @@
     "Sunucuyu Ziyaret Et"
   ],
   "py5vQi": [
-    "py5vQi"
+    "Yalnızca Nitro üyelerine özel Call of Duty: Modern Warfare 4 planını al."
   ],
   "pyRNXJ": [
     [
@@ -133620,9 +133620,6 @@
   "qY82lX": [
     "Ad"
   ],
-  "qYAzOp": [
-    "Senkronize arkadaşlar, mesajlar ve daha fazlası gibi sosyal özellikleri aç!"
-  ],
   "qYKftX": [
     "ücretsiz deneme sürümü etkinleştirildi"
   ],
@@ -133716,6 +133713,13 @@
   ],
   "qbJ96B": [
     "Tamamlandı!"
+  ],
+  "qbJihM": [
+    "Seçili ücretsiz ödülü düzenle, ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Bağlantıya git"
@@ -134201,7 +134205,7 @@
       1,
       "b"
     ],
-    " oynadı"
+    " oynattı"
   ],
   "qr9dEP": [
     "Duyuru"
@@ -143159,7 +143163,13 @@
     "ticari marka işareti"
   ],
   "tm4caj": [
-    "tm4caj"
+    "Nitro'ya özel bir Call of Duty: Modern Warfare 4 planını al. ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    " tarihinde sona erecek."
   ],
   "tmE73r": [
     "Bir hesaba mı ihtiyacın var?"
@@ -152834,7 +152844,7 @@
     "  saniye"
   ],
   "xDMrVa": [
-    "xDMrVa"
+    "Kod Mavimor"
   ],
   "xDRab3": [
     "Profilini özelleştir"
@@ -153407,13 +153417,6 @@
   ],
   "xOg4SP": [
     "Webhook'lar"
-  ],
-  "xOnm4z": [
-    "Tema Vurgu Rengi: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "xOscRh": [
     "Kategoriyi Kaldır"
@@ -154820,6 +154823,9 @@
   "xyO7AD": [
     "Notunu buraya yerleştirmek için Enter tuşuna bas. İptal etmek için Escape tuşuna bas."
   ],
+  "xyVEtZ": [
+    "Çeviri pilot testi mesajı"
+  ],
   "xyYt8A": [
     "Sırala ve Görüntüle"
   ],
@@ -155433,24 +155439,38 @@
   "yGqf0D": [
     "Bu hafta ",
     [
-      2,
-      "artistCount"
+      8,
+      "artistCountHook",
+      [
+        [
+          2,
+          "artistCount"
+        ],
+        " sanatçı"
+      ]
     ],
-    " sanatçı özelinde ",
+    " özelinde ",
     [
-      2,
-      "memberCount"
+      8,
+      "memberCountHook",
+      [
+        [
+          2,
+          "memberCount"
+        ],
+        " üye"
+      ]
     ],
-    " üye.. ",
+    ".. ",
     [
       5,
       "trend",
       {
         "up": [
-          "Yukarı"
+          "Yükselişte"
         ],
         "down": [
-          "Aşağı"
+          "Düşüşte"
         ],
         "other": []
       }
@@ -155944,7 +155964,7 @@
     "Dondurma yemenin keyfini çıkaran iki karakter"
   ],
   "yTYUJw": [
-    "yTYUJw"
+    "Özel MW4 planını yalnızca Nitro ile al."
   ],
   "yTa+di": [
     "Uyarı"
@@ -158234,7 +158254,7 @@
       2,
       "additionalCount"
     ],
-    " kişi Whiteboard'u kullanıyor."
+    " kişi ’ıubeyaz tahtayı kullanıyor."
   ],
   "zUjL+R": [
     "Nitro'ya yükselt ve Xbox Game Pass ile 50'den fazla PC ve konsol oyununu keşfet. ",

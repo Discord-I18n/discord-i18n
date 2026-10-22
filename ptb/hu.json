@@ -5298,6 +5298,9 @@
   "0F/ZzX": [
     "Ez a szerver többlépcsős hitelesítést követel meg a moderálási jogosultsággal rendelkező tagoktól. Ennek az engedélyezéséig nem végezhetsz moderálási műveleteket."
   ],
+  "0F4Peo": [
+    "Megszerzett orbok"
+  ],
   "0F5Jyt": [
     "Próbáld újra"
   ],
@@ -19511,7 +19514,7 @@
     "A Discord automatikusan klipet készített ezek közül néhányról neked."
   ],
   "6AbN1y": [
-    "6AbN1y"
+    "Az első mérkőzéstől kezdve kitűnhetsz a tömegből. Igényeld az exkluzív Blurple kód tervrajzot."
   ],
   "6Af/cw": [
     "Egyeztess a gondviselőddel, hogy módosítsa nálad ezt a beállítást."
@@ -21642,6 +21645,9 @@
   ],
   "7/ux15": [
     "Kéretlen levelek megszüntetése itt: @everyone"
+  ],
+  "7/xnly": [
+    "Játszás"
   ],
   "70CJbT": [
     "HIVATALOS"
@@ -37136,17 +37142,6 @@
   "E+SM6T": [
     "Nincs engedélyezett alkalmazás"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Kattints a jobb egérgombbal bármelyik üzenetre, majd koppints a következőre: ",
     [
@@ -37262,7 +37257,7 @@
     "Barátkérelem figyelmen kívül lett hagyva."
   ],
   "E1sPHw": [
-    "E1sPHw"
+    "A Nitróval feldobhatod a felszerelésedet"
   ],
   "E215W7": [
     [
@@ -41087,13 +41082,6 @@
   ],
   "Fqqbhg": [
     "Ez a hivatkozás olyan felhasználóra mutat, akihez nem rendelkezel hozzáféréssel."
-  ],
-  "FquTfm": [
-    "Téma elsődleges színe: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Szabályozhatod, hogy mennyire legyenek hangosak nálad a hangok. Lépj a Szerverbeállítások területre, és szerkeszd a szerverhangokat."
@@ -48783,6 +48771,9 @@
   "J0XdJ4": [
     "Ha eltávolítod az emotikont, a rendszer el fogja távolítani a szerverről."
   ],
+  "J0YWRq": [
+    "Saját szervercímke létrehozása"
+  ],
   "J0dpcB": [
     "Nevek megjelenítése"
   ],
@@ -53641,7 +53632,13 @@
     ]
   ],
   "LUOF3v": [
-    "LUOF3v"
+    "Kizárólag Nitróval elérhető Call of Duty: Modern Warfare 4-tervrajzot igényelhetsz. Beváltási határidő: ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
   ],
   "LUo0Q8": [
     "Csatorna meghívója"
@@ -62672,7 +62669,7 @@
     "Hmm… Nincs találat"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Call of Duty: MW4 jutalom"
   ],
   "PFxxJa": [
     "Ha a játék fut, és nem tud kapcsolódni a Discordhoz, próbáld meg megtekinteni a játék naplóit a hibakereséshez"
@@ -66746,6 +66743,9 @@
   ],
   "R5uhUE": [
     "Az új Szerverek lappal rendezettebbé válik a csevegés"
+  ],
+  "R6Ksr9": [
+    "Igényelve"
   ],
   "R6LxVf": [
     "Értesítések letiltva"
@@ -120052,13 +120052,6 @@
   "lnk2NQ": [
     "Közelmúltban meglátogatott"
   ],
-  "lo6H6+": [
-    "Hozzákapcsolás a következőhöz: ",
-    [
-      1,
-      "gameName"
-    ]
-  ],
   "loYGC/": [
     "Az ",
     [
@@ -132551,7 +132544,7 @@
     "Szerver meglátogatása"
   ],
   "py5vQi": [
-    "py5vQi"
+    "Megszerezheted a Call of Duty: Modern Warfare 4-hez kapcsolódó exkluzív tervrajzot, amely kifejezetten Nitro-tagoknak készült."
   ],
   "pyRNXJ": [
     "További funkciók engedélyezése a(z) ",
@@ -134068,9 +134061,6 @@
   "qY82lX": [
     "Név"
   ],
-  "qYAzOp": [
-    "Többek között olyan közösségi funkciókat oldhatsz fel, mint a szinkronizált barátok és az üzenetek!"
-  ],
   "qYKftX": [
     "ingyenes próbaidőszak aktiválva"
   ],
@@ -134164,6 +134154,13 @@
   ],
   "qbJ96B": [
     "Befejeződött!"
+  ],
+  "qbJihM": [
+    "A kiválasztott ingyenes jutalom szerkesztése: ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Ugrás a linkre"
@@ -143626,7 +143623,13 @@
     "védjegy"
   ],
   "tm4caj": [
-    "tm4caj"
+    "Kizárólag Nitróval elérhető Call of Duty: Modern Warfare 4-tervrajzot igényelhetsz. Lejárati idő: ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "tmE73r": [
     "Nincs még felhasználói fiókod?"
@@ -153381,7 +153384,7 @@
     ]
   ],
   "xDMrVa": [
-    "xDMrVa"
+    "Blurple kód"
   ],
   "xDRab3": [
     "Tedd egyedivé a profilodat"
@@ -153944,13 +153947,6 @@
   ],
   "xOg4SP": [
     "Webhookok"
-  ],
-  "xOnm4z": [
-    "Téma kiemelési színe: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "xOscRh": [
     "Kategória eltávolítása"
@@ -155353,6 +155349,9 @@
   "xyO7AD": [
     "Az Enter gombbal tudod elhelyezni ide a megjegyzésedet. Az Escape billentyűvel pedig vissza tudod vonni."
   ],
+  "xyVEtZ": [
+    "Fordítási pilot tesztüzenet"
+  ],
   "xyYt8A": [
     "Rendezés és megtekintés"
   ],
@@ -156471,7 +156470,7 @@
     "Két együtt fagyizó karakter"
   ],
   "yTYUJw": [
-    "yTYUJw"
+    "Megszerezheted az exkluzív MW4-tervrajzodat – kizárólag a Nitróval."
   ],
   "yTa+di": [
     "Figyelmeztetés"

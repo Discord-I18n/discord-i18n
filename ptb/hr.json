@@ -6116,6 +6116,9 @@
   "0F/ZzX": [
     "Ovaj server zahtijeva da članovi s ovlastima za moderiranje imaju višefaktorsku autentifikaciju. Ne možeš ništa moderirati dok je ne omogućiš."
   ],
+  "0F4Peo": [
+    "Osvojeni orbovi"
+  ],
   "0F5Jyt": [
     "Molimo pokušaj ponovno"
   ],
@@ -22078,7 +22081,7 @@
     "Discord je neke od njih za tebe automatski izrezao."
   ],
   "6AbN1y": [
-    "6AbN1y"
+    "Istakni se iz mase već od prve borbe. Preuzmi ekskluzivni nacrt Code Blurple."
   ],
   "6Af/cw": [
     "Želiš li promijeniti ovu postavku za sebe, obrati se svojem skrbniku."
@@ -24496,6 +24499,9 @@
   ],
   "7/ux15": [
     "Zaustavi @everyone spam"
+  ],
+  "7/xnly": [
+    "Igraj"
   ],
   "70CJbT": [
     "SLUŽBENO"
@@ -41840,17 +41846,6 @@
   "E+SM6T": [
     "Nema ovlaštenih aplikacija"
   ],
-  "E+mIJ+": [
-    [
-      1,
-      "label"
-    ],
-    ": ",
-    [
-      1,
-      "value"
-    ]
-  ],
   "E+qms7": [
     "Desnom tipkom miša klikni bilo koju poruku i odaberi ",
     [
@@ -41966,7 +41961,7 @@
     "Zahtjev za prijateljstvom je ignoriran."
   ],
   "E1sPHw": [
-    "E1sPHw"
+    "Dodaj Nitro u svoju opremu"
   ],
   "E215W7": [
     [
@@ -46272,13 +46267,6 @@
   ],
   "Fqqbhg": [
     "Ova poveznica vodi na korisnika kojem nemaš pristup."
-  ],
-  "FquTfm": [
-    "Primarna boja teme: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "FrC28a": [
     "Upravljaj glasnoćom zvukova koje čuješ. Idi u postavke servera i uredi zvukove servera."
@@ -55029,6 +55017,9 @@
   "J0XdJ4": [
     "Ukloniš li taj emoji, uklonit će se s tvojeg servera."
   ],
+  "J0YWRq": [
+    "Izradi vlastiti tag servera"
+  ],
   "J0dpcB": [
     "Prikaz imena"
   ],
@@ -60391,7 +60382,13 @@
     ]
   ],
   "LUOF3v": [
-    "LUOF3v"
+    "Preuzmi nacrt za Call of Duty: Modern Warfare 4 koji dolazi samo uz Nitro. Iskoristi do ",
+    [
+      3,
+      "date",
+      "short"
+    ],
+    "."
   ],
   "LUo0Q8": [
     "Kanal pozivnice"
@@ -70311,7 +70308,7 @@
     "Hmm... Nema rezultata"
   ],
   "PFtZV6": [
-    "PFtZV6"
+    "Nagrada za Call of Duty: MW4"
   ],
   "PFxxJa": [
     "Ako tvoja igra radi i ne može se povezati s Discordom, pregledaj zapisnike igre da ukloniš programske pogreške"
@@ -74705,6 +74702,9 @@
   ],
   "R5uhUE": [
     "Nova kartica Server omogućuje ti uživanje u organiziranijem chatanju"
+  ],
+  "R6Ksr9": [
+    "Zatraženo"
   ],
   "R6LxVf": [
     "Obavijesti onemogućene"
@@ -132983,13 +132983,6 @@
   "lnk2NQ": [
     "Nedavno posjećeno"
   ],
-  "lo6H6+": [
-    "Poveži se s igrom ",
-    [
-      1,
-      "gameName"
-    ]
-  ],
   "loYGC/": [
     "Prikaži ",
     [
@@ -146297,7 +146290,7 @@
     "Posjeti server"
   ],
   "py5vQi": [
-    "py5vQi"
+    "Preuzmi ekskluzivni nacrt za Call of Duty: Modern Warfare 4 izrađen samo za članove Nitra."
   ],
   "pyRNXJ": [
     "Omogući dodatne značajke na serveru ",
@@ -147965,9 +147958,6 @@
   "qY82lX": [
     "Ime"
   ],
-  "qYAzOp": [
-    "Otključaj društvene značajke poput sinkroniziranih prijatelja, poruka i još toga!"
-  ],
   "qYKftX": [
     "besplatno probno razdoblje je aktivirano"
   ],
@@ -148061,6 +148051,13 @@
   ],
   "qbJ96B": [
     "Gotovooooo!"
+  ],
+  "qbJihM": [
+    "Uredi odabranu besplatnu nagradu, ",
+    [
+      1,
+      "rewardName"
+    ]
   ],
   "qbSCqj": [
     "Idi na poveznicu"
@@ -158369,7 +158366,13 @@
     "znak"
   ],
   "tm4caj": [
-    "tm4caj"
+    "Preuzmi nacrt za Call of Duty: Modern Warfare 4 koji dolazi samo uz Nitro. Istječe ",
+    [
+      3,
+      "expirationDate",
+      "short"
+    ],
+    "."
   ],
   "tmE73r": [
     "Trebaš račun?"
@@ -168711,7 +168714,7 @@
     ]
   ],
   "xDMrVa": [
-    "xDMrVa"
+    "Code Blurple"
   ],
   "xDRab3": [
     "Uredi svoj profil"
@@ -169333,13 +169336,6 @@
   ],
   "xOg4SP": [
     "Webhookovi"
-  ],
-  "xOnm4z": [
-    "Boja naglaska teme: ",
-    [
-      1,
-      "colorLabel"
-    ]
   ],
   "xOscRh": [
     "Ukloni kategoriju"
@@ -170906,6 +170902,9 @@
   "xyO7AD": [
     "Pritisni Enter da ovdje postaviš svoju napomenu. Pritisni Escape za poništavanje."
   ],
+  "xyVEtZ": [
+    "Poruka za probu prijevoda"
+  ],
   "xyYt8A": [
     "Sortiraj i prikaži"
   ],
@@ -172253,7 +172252,7 @@
     "Dva lika zajedno uživaju u sladoledu"
   ],
   "yTYUJw": [
-    "yTYUJw"
+    "Samo uz Nitro možeš preuzeti svoj ekskluzivni nacrt za MW4."
   ],
   "yTa+di": [
     "Upozorenje"
