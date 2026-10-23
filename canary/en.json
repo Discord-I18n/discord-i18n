@@ -1457,6 +1457,9 @@
   "+VhwRe": [
     "Hero"
   ],
+  "+VqXVO": [
+    "Anyone you share with can use this app once published."
+  ],
   "+W59o5": [
     "We were unable to load your Widgets. Please try again later."
   ],
@@ -13218,6 +13221,9 @@
   "2rN4Xk": [
     "You can always change this later!"
   ],
+  "2rQ7Zf": [
+    "This game isn't open right now. Check back soon!"
+  ],
   "2rUo/p": [
     "Playing for ",
     [
@@ -18695,6 +18701,15 @@
   "4hd8UN": [
     "Toggle mute"
   ],
+  "4hoFk3": [
+    "Must have watched at least ",
+    [
+      8,
+      "metadataHook",
+      []
+    ],
+    " films"
+  ],
   "4huCnC": [
     "Jump to next summary"
   ],
@@ -23508,6 +23523,28 @@
   "6SE3L3": [
     "Edit Webhook"
   ],
+  "6SIEpt": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " film logged this year"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " films logged this year"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "6SVTt7": [
     "Mild Cartoon Violence"
   ],
@@ -25157,6 +25194,15 @@
   ],
   "6wKpiV": [
     "Trying to navigate to a specific Channel or Server"
+  ],
+  "6wOYUY": [
+    "Must have logged at least ",
+    [
+      8,
+      "metadataHook",
+      []
+    ],
+    " films this year"
   ],
   "6wPmjo": [
     "Developer may see your IP address while you use this application."
@@ -57519,6 +57565,9 @@
   "JJogjm": [
     "Call"
   ],
+  "JJsanW": [
+    "Films Watched"
+  ],
   "JJzx48": [
     "Drag and drop or click to upload ",
     [
@@ -67340,6 +67389,9 @@
   ],
   "NENZhS": [
     "Adjust Settings"
+  ],
+  "NEPcoi": [
+    "Publish your app"
   ],
   "NEXim3": [
     "Members must accept rules before they can talk or DM"
@@ -101273,6 +101325,9 @@
   "ZkOo1U": [
     "You’re awesome, just like this gift. Enjoy!"
   ],
+  "ZkQ7rP": [
+    "This game was just updated. Check out the latest rewards, then try again."
+  ],
   "ZkWzXG": [
     "Last changed on ",
     [
@@ -107980,6 +108035,42 @@
   "br8H2N": [
     "View as Role does not reflect a role's voice restrictions, including priority speaker and suppression."
   ],
+  "brEM45": [
+    "Must have logged at least ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " film"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " films"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " this year"
+  ],
   "brPQ5U": [
     "Minimize Activity"
   ],
@@ -112884,6 +112975,9 @@
   ],
   "d8WVXB": [
     "Widget already added"
+  ],
+  "d8lNBq": [
+    "A service we rely on is busy right now."
   ],
   "d8o6lc": [
     "Get Nitro"
@@ -118230,6 +118324,9 @@
         ]
       ]
     ]
+  ],
+  "esTM8y": [
+    "Shared with"
   ],
   "esVyo6": [
     "Playback is On"
@@ -127007,6 +127104,19 @@
   "heQSO4": [
     "heQSO4"
   ],
+  "heUoTj": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "value"
+        ]
+      ]
+    ],
+    " Films Logged This Year"
+  ],
   "head_bandage": [
     "bandage",
     "face",
@@ -129794,6 +129904,9 @@
         ]
       ]
     ]
+  ],
+  "iaqt14": [
+    "Films Logged This Year"
   ],
   "ib/bsX": [
     "By purchasing a Nitro subscription, you agree to our ",
@@ -134157,6 +134270,9 @@
   ],
   "kAeDcK": [
     "Buy Profile Effect"
+  ],
+  "kAfbEN": [
+    "Published"
   ],
   "kAlUsy": [
     "Trending"
@@ -152659,6 +152775,41 @@
     "rock",
     "ttyl"
   ],
+  "puprVb": [
+    "Must have watched at least ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " film"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " films"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "purple_circle": [
     "circle",
     "purple"
@@ -163165,6 +163316,28 @@
   "szESVF": [
     "Review Applications"
   ],
+  "szM3Fw": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " film watched"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " films watched"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "szTA8E": [
     "Edit Profile Actions"
   ],
@@ -163319,6 +163492,9 @@
   ],
   "t1Lele": [
     "Added a custom description option for Resource pages"
+  ],
+  "t1R7Rt": [
+    "A service we rely on took too long to answer."
   ],
   "t1SOId": [
     [
@@ -175341,6 +175517,19 @@
   "wunKKA": [
     "Click to remove"
   ],
+  "wvFh8m": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "value"
+        ]
+      ]
+    ],
+    " Films Watched"
+  ],
   "wvJwYs": [
     "Fewer Than ",
     [
@@ -181201,6 +181390,9 @@
   ],
   "yr9TTf": [
     "Remove from Wishlist"
+  ],
+  "yreXyD": [
+    "A service we rely on failed."
   ],
   "ysbNDc": [
     "Vaporizing"
