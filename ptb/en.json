@@ -1457,6 +1457,9 @@
   "+VhwRe": [
     "Hero"
   ],
+  "+VqXVO": [
+    "Anyone you share with can use this app once published."
+  ],
   "+W59o5": [
     "We were unable to load your Widgets. Please try again later."
   ],
@@ -2783,7 +2786,7 @@
     "Your app hit a problem while starting. Close the overlay and open it again to retry."
   ],
   "/++Pf+": [
-    "Pick at least one game, or turn on All games."
+    "Pick a game or choose all games."
   ],
   "/+7xky": [
     [
@@ -5439,6 +5442,9 @@
   "/xIz7G": [
     "Enable mod queue"
   ],
+  "/xryus": [
+    "Reward Unlocked!"
+  ],
   "/xvEMy": [
     "Color Themes"
   ],
@@ -5979,9 +5985,6 @@
       1,
       "path"
     ]
-  ],
-  "08PzLy": [
-    "Not in a server"
   ],
   "08U+YO": [
     "Your profile card is switched off"
@@ -7063,6 +7066,22 @@
       "cardinal"
     ]
   ],
+  "0S9HY8": [
+    "Your project needs new server permissions to work. ",
+    [
+      8,
+      "$link",
+      [
+        "Review permissions"
+      ],
+      [
+        [
+          1,
+          "onReview"
+        ]
+      ]
+    ]
+  ],
   "0SLl/G": [
     "Connect your Discord account in ",
     [
@@ -7457,6 +7476,13 @@
   ],
   "0b3YRn": [
     "Subscribe to Nitro"
+  ],
+  "0b8eR1": [
+    "Spend Orbs. Unlock a Discount on ",
+    [
+      1,
+      "applicationName"
+    ]
   ],
   "0bDcBs": [
     "No changes since the previous publish."
@@ -12945,6 +12971,9 @@
   "2l9beT": [
     "Personalize your notification sounds!"
   ],
+  "2ld2SU": [
+    "All Rewards Unlocked!"
+  ],
   "2lfjU+": [
     "Unlock social features and in-game ways to connect with your Discord friends!"
   ],
@@ -13169,6 +13198,9 @@
   "2pAkDA": [
     "Bookmarks"
   ],
+  "2pDCXO": [
+    "You need to approve new server permissions for your project for it to function properly."
+  ],
   "2pECgi": [
     "Make this place, your space"
   ],
@@ -13204,6 +13236,9 @@
   ],
   "2rN4Xk": [
     "You can always change this later!"
+  ],
+  "2rQ7Zf": [
+    "This game isn't open right now. Check back soon!"
   ],
   "2rUo/p": [
     "Playing for ",
@@ -13306,13 +13341,6 @@
   ],
   "2s7kEm": [
     "Shared Trending Topic"
-  ],
-  "2sBOnp": [
-    [
-      1,
-      "name"
-    ],
-    ", not in a server yet"
   ],
   "2sbWEg": [
     "Get started"
@@ -14875,9 +14903,6 @@
       "numMembers"
     ]
   ],
-  "3PBFN6": [
-    "Reset Override"
-  ],
   "3PHxo8": [
     "Toggle GIF picker"
   ],
@@ -14972,9 +14997,6 @@
       "cardinal"
     ],
     "."
-  ],
-  "3QFps8": [
-    "No server yet"
   ],
   "3QIvxd": [
     "tech"
@@ -18682,6 +18704,15 @@
   "4hd8UN": [
     "Toggle mute"
   ],
+  "4hoFk3": [
+    "Must have watched at least ",
+    [
+      8,
+      "metadataHook",
+      []
+    ],
+    " films"
+  ],
   "4huCnC": [
     "Jump to next summary"
   ],
@@ -20600,6 +20631,9 @@
   "5PoYts": [
     "From clubs, to study groups, to game nights, there’s a place for you."
   ],
+  "5PqGKy": [
+    "None of your servers have Conjure turned on right now."
+  ],
   "5Q/fLO": [
     "Select all channels"
   ],
@@ -20944,9 +20978,6 @@
   ],
   "5YsmGI": [
     "Activity sharing is paused"
-  ],
-  "5Z2qmz": [
-    "EXTEND PERK"
   ],
   "5Z5sgj": [
     "Keep up with book news"
@@ -22380,8 +22411,14 @@
   "6/x9LD": [
     "Conjured by ",
     [
-      1,
-      "name"
+      8,
+      "$b",
+      [
+        [
+          1,
+          "name"
+        ]
+      ]
     ]
   ],
   "6/yars": [
@@ -23282,9 +23319,6 @@
   "6LxbQM": [
     "Quests aren’t available on Meta VR headsets"
   ],
-  "6MCxAy": [
-    "Channel is currently muted"
-  ],
   "6MEAAy": [
     "Verify by\n",
     [
@@ -23494,6 +23528,28 @@
   ],
   "6SE3L3": [
     "Edit Webhook"
+  ],
+  "6SIEpt": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " film logged this year"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " films logged this year"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "6SVTt7": [
     "Mild Cartoon Violence"
@@ -25145,6 +25201,15 @@
   "6wKpiV": [
     "Trying to navigate to a specific Channel or Server"
   ],
+  "6wOYUY": [
+    "Must have logged at least ",
+    [
+      8,
+      "metadataHook",
+      []
+    ],
+    " films this year"
+  ],
   "6wPmjo": [
     "Developer may see your IP address while you use this application."
   ],
@@ -25433,7 +25498,7 @@
     "We can't reach your email which could impact access to your account."
   ],
   "74Afoq": [
-    "Search games"
+    "Search for a game"
   ],
   "74JctW": [
     "Description"
@@ -26880,6 +26945,23 @@
   ],
   "7gxe9o": [
     "Select options list opened"
+  ],
+  "7h8GUv": [
+    "Played ",
+    [
+      1,
+      "firstGame"
+    ],
+    ", ",
+    [
+      1,
+      "secondGame"
+    ],
+    " and ",
+    [
+      1,
+      "thirdGame"
+    ]
   ],
   "7hB4kg": [
     "Servers"
@@ -30180,9 +30262,6 @@
   "8qJAeT": [
     "Remind me later"
   ],
-  "8qJtGr": [
-    "You need to accept the new permissions to message your project’s bot."
-  ],
   "8qKd+J": [
     "Add a webhook to:"
   ],
@@ -32127,6 +32206,9 @@
   ],
   "9bEWZJ": [
     "Ratings"
+  ],
+  "9bJYWN": [
+    "Soundboard muted by you"
   ],
   "9bYj+G": [
     "Stream Stopped"
@@ -41511,6 +41593,9 @@
       "effectName"
     ]
   ],
+  "DCCcdz": [
+    "Claim Rewards"
+  ],
   "DCHd/G": [
     "Disable landing page"
   ],
@@ -42727,9 +42812,6 @@
   ],
   "DnsJE8": [
     "Your friends haven't met their friends yet - time for a legendary crossover! ⚡️"
-  ],
-  "DnsyEc": [
-    "Active"
   ],
   "Do2lxE": [
     "Avatar Decoration Preview: ",
@@ -46457,6 +46539,9 @@
       "cardinal"
     ],
     " to show off your gameplays! This widget won’t show up on your profile until you add at least 1 clip."
+  ],
+  "FExK4w": [
+    "Review Permissions"
   ],
   "FF6/+B": [
     "Receive emails with helpful advice on how to use Discord and information on lesser known features."
@@ -57483,6 +57568,9 @@
   "JJogjm": [
     "Call"
   ],
+  "JJsanW": [
+    "Films Watched"
+  ],
   "JJzx48": [
     "Drag and drop or click to upload ",
     [
@@ -60304,6 +60392,14 @@
   ],
   "KcOpCm": [
     "Edit Server Hub"
+  ],
+  "KcU3c+": [
+    "You've unlocked ",
+    [
+      2,
+      "discountPercent"
+    ],
+    "% off any one item"
   ],
   "KccUI1": [
     "Viewer Join"
@@ -67297,6 +67393,9 @@
   "NENZhS": [
     "Adjust Settings"
   ],
+  "NEPcoi": [
+    "Publish your app"
+  ],
   "NEXim3": [
     "Members must accept rules before they can talk or DM"
   ],
@@ -68139,6 +68238,14 @@
       ]
     ]
   ],
+  "NWcb7k": [
+    "One-time ",
+    [
+      2,
+      "discountPercent"
+    ],
+    "% off applied to all items"
+  ],
   "NWhYJg": [
     "Server Owner"
   ],
@@ -68727,24 +68834,6 @@
   "NiTd0e": [
     "Voice Settings"
   ],
-  "NiXcSi": [
-    "Start one just for you, or in ",
-    [
-      6,
-      "count",
-      {
-        "one": [
-          "this server"
-        ],
-        "other": [
-          "one of these servers"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    ":"
-  ],
   "NiqSMj": [
     "clothing"
   ],
@@ -68897,6 +68986,9 @@
       ]
     ],
     " is streaming. Watch in overlay"
+  ],
+  "NmSe9v": [
+    "Rewards Unlocked!"
   ],
   "NmpnsP": [
     "Gift someone Nitro Basic to give them access to custom emoji & stickers anywhere, bigger file uploads, and more. ",
@@ -73501,6 +73593,9 @@
   "PTPbjx": [
     "Unable to copy image"
   ],
+  "PTYULU": [
+    "Unmute App"
+  ],
   "PTebCR": [
     "Scheduled for ",
     [
@@ -74159,6 +74254,14 @@
   ],
   "Plcu02": [
     "You can upload your message as a file instead."
+  ],
+  "Pld6Sd": [
+    "Subscribe to Nitro and unlock a ",
+    [
+      2,
+      "discountPercent"
+    ],
+    "% discount with your Orbs"
   ],
   "PlhJTk": [
     "The IT solution"
@@ -77140,6 +77243,9 @@
   ],
   "R/1GpG": [
     "You'll be joined on PlayStation."
+  ],
+  "R/F7xs": [
+    "Mute App"
   ],
   "R/FK4A": [
     "Leave Activity"
@@ -91540,6 +91646,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Claim Reward"
+  ],
   "WK9r7F": [
     "Allows members to upload files or media in this channel."
   ],
@@ -94075,9 +94184,6 @@
   ],
   "XDpS4K": [
     "Dismiss"
-  ],
-  "XE+JXX": [
-    "Gathering your conjured projects…"
   ],
   "XE8axA": [
     [
@@ -101207,6 +101313,9 @@
   "ZkOo1U": [
     "You’re awesome, just like this gift. Enjoy!"
   ],
+  "ZkQ7rP": [
+    "This game was just updated. Check out the latest rewards, then try again."
+  ],
   "ZkWzXG": [
     "Last changed on ",
     [
@@ -104210,6 +104319,14 @@
     "unhappy",
     "what",
     "wow"
+  ],
+  "anpjzy": [
+    "Nitro Exclusive: Unlock a one-time ",
+    [
+      2,
+      "discountPercent"
+    ],
+    "% discount with Orbs!"
   ],
   "anqaFd": [
     "Limited-time"
@@ -107686,6 +107803,9 @@
   "bnNxW1": [
     "Your profile just got more flexible! Choose to share with friends only, everyone, or somewhere in between."
   ],
+  "bnVYYC": [
+    "New project"
+  ],
   "bnnNER": [
     [
       1,
@@ -107905,6 +108025,42 @@
   ],
   "br8H2N": [
     "View as Role does not reflect a role's voice restrictions, including priority speaker and suppression."
+  ],
+  "brEM45": [
+    "Must have logged at least ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " film"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " films"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " this year"
   ],
   "brPQ5U": [
     "Minimize Activity"
@@ -108517,6 +108673,9 @@
   ],
   "c+7oa7": [
     "Edit Security Actions"
+  ],
+  "c+8IMp": [
+    "Conjure isn’t available"
   ],
   "c+JVEB": [
     [
@@ -110890,22 +111049,6 @@
   "cjQOKb": [
     "Pop"
   ],
-  "cjZvW9": [
-    "Not sure what to do next? ",
-    [
-      8,
-      "$link",
-      [
-        "Inspire me."
-      ],
-      [
-        [
-          1,
-          "onInspire"
-        ]
-      ]
-    ]
-  ],
   "cjmnm6": [
     "Add Nitro to Wishlist"
   ],
@@ -111818,6 +111961,9 @@
   ],
   "cqIdqZ": [
     "All purchases your teen made in the last week including Shop and subscriptions. Nitro subscriptions are shown in the week when they are billed to your account."
+  ],
+  "cqWCNY": [
+    "This overlay only runs in these games:"
   ],
   "cqWE2Z": [
     "Go to Server"
@@ -112810,6 +112956,9 @@
   ],
   "d8WVXB": [
     "Widget already added"
+  ],
+  "d8lNBq": [
+    "A service we rely on is busy right now."
   ],
   "d8o6lc": [
     "Get Nitro"
@@ -114289,7 +114438,7 @@
     "Add App Actions"
   ],
   "dbuk9m": [
-    "All games"
+    "Run in all games"
   ],
   "dc+LW4": [
     [
@@ -118157,6 +118306,9 @@
       ]
     ]
   ],
+  "esTM8y": [
+    "Shared with"
+  ],
   "esVyo6": [
     "Playback is On"
   ],
@@ -118983,9 +119135,6 @@
   ],
   "f5hd9P": [
     "Why was this server locked?"
-  ],
-  "f5o5pk": [
-    "Start one just for you. To start one in a server, you need Manage Server and Manage Channels somewhere Conjure is switched on."
   ],
   "f6Ngwm": [
     [
@@ -124183,6 +124332,9 @@
   "gnoxLY": [
     "gnoxLY"
   ],
+  "gnsPOt": [
+    "Search servers"
+  ],
   "gnsna/": [
     "You haven't created any roles yet"
   ],
@@ -124197,6 +124349,9 @@
   ],
   "gnwxvT": [
     "In-app icon"
+  ],
+  "gnzLwZ": [
+    "Make your own apps, games, and more."
   ],
   "go1e4x": [
     "Claim Gift"
@@ -126858,17 +127013,6 @@
   "hcw4mx": [
     "Allow members to change this channel's permissions."
   ],
-  "hd+GF1": [
-    [
-      1,
-      "name"
-    ],
-    ", in ",
-    [
-      1,
-      "server"
-    ]
-  ],
   "hd0b7t": [
     "Show menu"
   ],
@@ -126932,6 +127076,19 @@
   ],
   "heQSO4": [
     "heQSO4"
+  ],
+  "heUoTj": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "value"
+        ]
+      ]
+    ],
+    " Films Logged This Year"
   ],
   "head_bandage": [
     "bandage",
@@ -129721,6 +129878,9 @@
       ]
     ]
   ],
+  "iaqt14": [
+    "Films Logged This Year"
+  ],
   "ib/bsX": [
     "By purchasing a Nitro subscription, you agree to our ",
     [
@@ -131511,6 +131671,32 @@
   "jBSYCD": [
     "saved image"
   ],
+  "jBW+An": [
+    "With Nitro, spend Orbs to unlock a ",
+    [
+      1,
+      "applicationName"
+    ],
+    " Shop discount. Ends ",
+    [
+      1,
+      "endDate"
+    ],
+    ". ",
+    [
+      8,
+      "$link",
+      [
+        "Terms apply."
+      ],
+      [
+        [
+          1,
+          "termsUrl"
+        ]
+      ]
+    ]
+  ],
   "jBZSQl": [
     "Monitor messages, Forum posts, and threads for potentially spammy content or activity. (Support for English only)"
   ],
@@ -131819,6 +132005,9 @@
   ],
   "jNY1FO": [
     "Help a server unlock great perks with Server Boosts. Purchase at any time — we'll do the math and prorate it."
+  ],
+  "jNgHOu": [
+    "Spend Orbs to unlock a discount for your next purchase"
   ],
   "jNphKT": [
     "Unfollow Channel Category"
@@ -134054,6 +134243,9 @@
   ],
   "kAeDcK": [
     "Buy Profile Effect"
+  ],
+  "kAfbEN": [
+    "Published"
   ],
   "kAlUsy": [
     "Trending"
@@ -139483,6 +139675,9 @@
   "m2jsnw": [
     "Bot gateway (Preview)"
   ],
+  "m2zEFB": [
+    "You've acquired Nitro Credit!"
+  ],
   "m371Mx": [
     "Item already owned."
   ],
@@ -143889,6 +144084,9 @@
       ]
     ],
     "."
+  ],
+  "nEv677": [
+    "All games"
   ],
   "nF0dYJ": [
     "How can we improve?"
@@ -149575,9 +149773,6 @@
       "cardinal"
     ]
   ],
-  "p8lFfK": [
-    "Idle"
-  ],
   "p9KOsc": [
     "Gifting is only available for Nitro (Nitro Basic coming soon)"
   ],
@@ -152553,6 +152748,41 @@
     "rock",
     "ttyl"
   ],
+  "puprVb": [
+    "Must have watched at least ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " film"
+        ],
+        "other": [
+          [
+            8,
+            "$b",
+            [
+              [
+                7
+              ]
+            ]
+          ],
+          " films"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "purple_circle": [
     "circle",
     "purple"
@@ -152734,13 +152964,6 @@
   ],
   "pycxTr": [
     "Members of this server can pay to Boost it, and admins use those Boosts to unlock new features."
-  ],
-  "pyh2pa": [
-    [
-      1,
-      "name"
-    ],
-    ", not in a server"
   ],
   "pyhS3j": [
     "The outline on my body was fuzzy or had a halo"
@@ -153445,6 +153668,18 @@
       ]
     ],
     " are typing..."
+  ],
+  "qD8TVH": [
+    "Reward ",
+    [
+      1,
+      "current"
+    ],
+    " of ",
+    [
+      1,
+      "total"
+    ]
   ],
   "qDAX++": [
     "Only Stage moderators can see this • ",
@@ -159674,9 +159909,6 @@
   "sFgmNy": [
     "Video File"
   ],
-  "sFiGNz": [
-    "Create"
-  ],
   "sFokBp": [
     "The Gifting Badge"
   ],
@@ -161867,9 +162099,6 @@
   "snNYS+": [
     "Clip Options"
   ],
-  "snY8uu": [
-    "Nothing conjured yet"
-  ],
   "snail": [
     "animal",
     "escargot",
@@ -163047,6 +163276,28 @@
   "szESVF": [
     "Review Applications"
   ],
+  "szM3Fw": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " film watched"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " films watched"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "szTA8E": [
     "Edit Profile Actions"
   ],
@@ -163201,6 +163452,9 @@
   ],
   "t1Lele": [
     "Added a custom description option for Resource pages"
+  ],
+  "t1R7Rt": [
+    "A service we rely on took too long to answer."
   ],
   "t1SOId": [
     [
@@ -175223,6 +175477,19 @@
   "wunKKA": [
     "Click to remove"
   ],
+  "wvFh8m": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "value"
+        ]
+      ]
+    ],
+    " Films Watched"
+  ],
   "wvJwYs": [
     "Fewer Than ",
     [
@@ -175577,6 +175844,14 @@
   ],
   "x+/nmN": [
     "Add a title"
+  ],
+  "x+5mCs": [
+    "Congrats on the ",
+    [
+      1,
+      "gameName"
+    ],
+    " run, you've unlocked every reward."
   ],
   "x+Dvyo": [
     [
@@ -177247,6 +177522,14 @@
   "xU8RDk": [
     "Disabling risky permissions..."
   ],
+  "xUeO0j": [
+    "Congrats on the ",
+    [
+      1,
+      "gameName"
+    ],
+    " run, keep playing to unlock the next reward."
+  ],
   "xUi3BL": [
     "Purchase"
   ],
@@ -178325,9 +178608,6 @@
   ],
   "xu0raH": [
     "Building a music app?"
-  ],
-  "xu1I8B": [
-    "Review new permissions"
   ],
   "xu9k8G": [
     "Discord System Helper install cancelled."
@@ -181067,6 +181347,9 @@
   ],
   "yr9TTf": [
     "Remove from Wishlist"
+  ],
+  "yreXyD": [
+    "A service we rely on failed."
   ],
   "ysbNDc": [
     "Vaporizing"
