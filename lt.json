@@ -2421,6 +2421,13 @@
   "+v5zsT": [
     "Pritaikymo neįgaliesiems nustatymuose rinkis sumažintą judėjimą ir išjungsi animacijas."
   ],
+  "+v889h": [
+    "Liko ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Kai prisijungsi prie balso kanalo, pateksi į savo paskutinį rodinį: svetainę arba tinklelį – ne visada į svetainę. Svetainė yra beta versijos funkcija."
   ],
@@ -2593,7 +2600,7 @@
         "Spausdamas (-a) „Prenumeruoti,“ įsigyji automatinį pakartotinį prenumeravimą"
       ]
     ],
-    ". Nuo šiandien kas mėnesį mokėsi ir taikomus mokesčius, nebent turi kažkokių kreditų ar nuolaidų tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Ją atšaukti gali bet kada savo nustatymų puslapyje. Ši prekė siūloma programėlės kūrėjui ir gali būti naudojama tik su šia programėle. Taikomos ",
+    ". Nuo šiandien kas mėnesį mokėsi nurodytą sumą ir taikomus mokesčius – arba mažiau, jei turi taikytinų kreditų ir nuolaidų – tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Atšaukti gali bet kada, tai padarysi nustatymuose. Ši prekė siūloma šios programėlės kūrėjo ir gali būti naudojama tik su šia programėle. Taikomos ",
     [
       8,
       "$link",
@@ -2615,12 +2622,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " arba peržiūrėk mūsų ",
+    " arba peržvelk mūsų ",
     [
       8,
       "$link",
       [
-        "Prenumeratos DUK"
+        "Prenumeratų DUK"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -6088,7 +6095,7 @@
       1,
       "interval"
     ],
-    " nuo tavo Google Play sąskaitos nuskaičiuosime mokestį, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Prenumeratą gali atšaukti bet kada, likus ne daugiau kaip 24 valandoms iki einamojo laikotarpio pabaigos, tai padarysi Google Play Store nustatymuose."
+    " nuo tavo Google Play sąskaitos nuskaičiuosime mokestį, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Prenumeratą gali atšaukti bet kada, ne vėliau kaip likus 24 valandoms iki einamojo laikotarpio pabaigos, tai padarysi Google Play parduotuvės nustatymuose."
   ],
   "0HGnUV": [
     "Kvadratas"
@@ -8477,6 +8484,13 @@
   ],
   "15p8on": [
     "Nuotykių"
+  ],
+  "16+Zv5": [
+    [
+      1,
+      "name"
+    ],
+    " švenčia Discord metines!"
   ],
   "16/3Bi": [
     "Grafinė medija"
@@ -11731,18 +11745,19 @@
         "Spausdamas (-a) „Prenumeruoti,“ įsigyji automatinį pakartotinį prenumeravimą"
       ]
     ],
-    ". Nuo šiandien mokėsi ",
+    ". Nuo šiandien ",
     [
       8,
       "$b",
       [
+        "mokėsi ",
         [
           1,
           "subtotalRate"
         ]
       ]
     ],
-    " ir taikomus mokesčius, nebent turi kažkokių kreditų ar nuolaidų tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Ją atšaukti gali bet kada savo nustatymų puslapyje. Ši prekė siūloma programėlės kūrėjui ir gali būti naudojama tik su šia programėle. Taikomos ",
+    " ir taikomus mokesčius – arba mažiau, jei turi taikytinų kreditų ir nuolaidų – tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Atšaukti gali bet kada, tai padarysi nustatymuose. Ši prekė siūloma šios programėlės kūrėjo ir gali būti naudojama tik su šia programėle. Taikomos ",
     [
       8,
       "$link",
@@ -11764,12 +11779,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " arba peržiūrėk mūsų ",
+    " arba peržvelk mūsų ",
     [
       8,
       "$link",
       [
-        "Prenumeratos DUK"
+        "Prenumeratų DUK"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -25984,6 +25999,40 @@
   "7nF/S/": [
     "Skirta tik išvaizdai. Puikiai tinka norint suteikti nariams etikečių ar spalvą."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " švenčia jau ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " metus"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " metus"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " metų"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Discord platformoje! Padovanok dovaną ir prisidėk prie šventės!"
+  ],
   "7nKAXx": [
     "Atlikta"
   ],
@@ -28114,6 +28163,9 @@
   ],
   "8YK70c": [
     "Oi, kažkas negerai..."
+  ],
+  "8YMgb/": [
+    "Su Discord metinėmis!"
   ],
   "8ZA50K": [
     "Reikia nurodyti draugo naudotojo vardą ir žymę. Atmink, kad naudotojo varde skiriamos didžiosios ir mažosios raidės."
@@ -32233,6 +32285,9 @@
       ]
     ],
     " valdiklį"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Grupės pavadinimas"
@@ -39415,6 +39470,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Kažkas iš tavo draugų Discorde jau atšventė dar vienų metų sukaktį! Nusiųsk dovaną arba GIF ir padėk atšvęsti!"
   ],
   "D1YcNp": [
     "Reikia žaidimo serverio, kad galėtum žaisti su draugais? Susikurk ir tvarkyk tokį serverį Discord platformoje naudodamas (-a) stiprinimus."
@@ -47529,6 +47587,9 @@
   ],
   "GX594D": [
     "Žmones"
+  ],
+  "GX91jv": [
+    "Per greitai! Šiek tiek luktelėk ir bandyk dar kartą."
   ],
   "GXDPol": [
     "Kas žaidė daugiausia skirtingų žaidimų?"
@@ -57346,6 +57407,22 @@
   "KXk3AU": [
     "Pasirink vieną iš parinkčių"
   ],
+  "KXodvL": [
+    "Netinkamas mokėjimo šaltinio atsiskaitymo adresas. Atnaujink mokėjimo šaltinį arba atsiskaitymo adresą ir bandyk dar kartą. ",
+    [
+      8,
+      "$link",
+      [
+        "Sužinok daugiau"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Medijų įrašo autoriaus (-ės) pseudoportretas"
   ],
@@ -59646,9 +59723,6 @@
   ],
   "LSNOYf": [
     "Jokios programėlės ar komandos neatitiko tavo paieškos"
-  ],
-  "LSoXK5": [
-    "(Neprivaloma) Noriu gauti el. laiškus su Discord naujienomis, patarimais ir specialiais pasiūlymais. Stebime, ką atidarai ir spusteli, kad žinotume, kas tau naudinga."
   ],
   "LT5TnZ": [
     "Per"
@@ -70068,6 +70142,9 @@
   "PTPbjx": [
     "Nepavyko nukopijuoti vaizdo"
   ],
+  "PTYULU": [
+    "Išjungti programėlės nutildymą"
+  ],
   "PTebCR": [
     "Prasidės ",
     [
@@ -73589,6 +73666,9 @@
   "R/1GpG": [
     "Būsi prijungtas (-a) per PlayStation."
   ],
+  "R/F7xs": [
+    "Nutildyti programėlę"
+  ],
   "R/FK4A": [
     "Palikti veiklą"
   ],
@@ -73961,6 +74041,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Naujos Discord metinės!"
   ],
   "R87Y2K": [
     "Bus nustatyta ",
@@ -74920,6 +75003,9 @@
   ],
   "RVX1zT": [
     "Grafinės medijos filtras"
+  ],
+  "RVYbK6": [
+    "Slėpti piktogramą"
   ],
   "RVfNGU": [
     "Prisijungti prie serverio"
@@ -79724,6 +79810,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Discord metinių piktograma"
+  ],
   "TTIocg": [
     "Laukiama prisijungimo..."
   ],
@@ -81823,6 +81912,9 @@
   "UB3hKo": [
     "Neatitinki reikalavimų"
   ],
+  "UB8tME": [
+    "Švęsk ir visą dieną puikuokis piktograma šalia savo vardo!"
+  ],
   "UBBwwF": [
     "Pervadink savo raktą"
   ],
@@ -82724,7 +82816,7 @@
     "Neperjungti"
   ],
   "UYcJ48": [
-    "Apžvalga"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Įsigyk Discord dovanų kortelę iš atitinkamo pardavėjo, tada apsilankyk adresu discord.com/redeem ir prisijunk prie savo Discord paskyros. Švelniai nutrink folijos dangą kortelės antroje pusėje, kad pamatytum kodą, o jei turi skaitmeninę kortelę, kodą rasi el. laiške. Vadovaukis ekrane pateikiamais nurodymais ir dovanų kortelės likutį perkelsi iš kortelės į savo sąskaitos likutį."
@@ -86718,7 +86810,7 @@
       1,
       "interval"
     ],
-    " nuo tavo Apple ID sąskaitos nuskaičiuosime mokestį, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Prenumeratą gali atšaukti bet kada, likus ne daugiau kaip 24 valandoms iki einamojo laikotarpio pabaigos, tai padarysi App Store nustatymuose."
+    " nuo tavo Apple ID sąskaitos nuskaičiuosime mokestį, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Prenumeratą gali atšaukti bet kada, ne vėliau kaip likus 24 valandoms iki einamojo laikotarpio pabaigos, tai padarysi App Store nustatymuose."
   ],
   "W7e/z1": [
     [
@@ -87274,6 +87366,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Atsiimti apdovanojimą"
+  ],
   "WK9r7F": [
     "Nariams leidžiama įkelti failų ar medijos į šį kanalą."
   ],
@@ -87758,9 +87853,6 @@
   ],
   "WVbpcy": [
     "Pridėk aprašą"
-  ],
-  "WViBDk": [
-    "Stebime el. laiškų atidarymus ir spustelėjimus, kad matytume, kas naudinga, ir pagerintume siunčiamus el. laiškus."
   ],
   "WVq3Lr": [
     [
@@ -90907,6 +90999,9 @@
   "Xjlbvs": [
     "Pridėti Draugus į AŽ"
   ],
+  "XkE3ZV": [
+    "Peržiūrėti"
+  ],
   "XkIWkk": [
     "Ar tikrai?"
   ],
@@ -91695,6 +91790,9 @@
   ],
   "Xz2njA": [
     "Laikinai nutildyti narį"
+  ],
+  "Xz3o7I": [
+    "Discord metinės"
   ],
   "XzBNbS": [
     [
@@ -139025,7 +139123,7 @@
       1,
       "intervalCount"
     ],
-    " mėn. mokėsi ir taikomus mokesčius, nebent turi kažkokių kreditų ar nuolaidų tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Ją atšaukti gali bet kada savo nustatymų puslapyje. Ši prekė siūloma programėlės kūrėjui ir gali būti naudojama tik su šia programėle. Taikomos ",
+    " mėn. mokėsi nurodytą sumą ir taikomus mokesčius – arba mažiau, jei turi taikytinų kreditų ir nuolaidų – tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Atšaukti gali bet kada, tai padarysi nustatymuose. Ši prekė siūloma šios programėlės kūrėjo ir gali būti naudojama tik su šia programėle. Taikomos ",
     [
       8,
       "$link",
@@ -139047,12 +139145,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " arba peržiūrėk mūsų ",
+    " arba peržvelk mūsų ",
     [
       8,
       "$link",
       [
-        "Prenumeratos DUK"
+        "Prenumeratų DUK"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -145344,9 +145442,6 @@
   "qFsx5q": [
     "Rodyti įspėjimus asmeninėse žinutėse"
   ],
-  "qGDEON": [
-    "Būk pirmas (-a) šio serverio stiprintojas 🥇"
-  ],
   "qGIfWn": [
     "Dėkui, kad pranešei! Tokie atsiliepimai mums padeda tobulinti veiklas."
   ],
@@ -148698,6 +148793,14 @@
   "rYfJop": [
     "Aukšta (P1)"
   ],
+  "rZ36t1": [
+    "Jau ",
+    [
+      2,
+      "years"
+    ],
+    " metų Discorde! Nusiųsk Nitro arba GIF kaip dovaną ir taip atšvęsk!"
+  ],
   "rZEEvU": [
     "Dūk smagiau su garsiniais jaustukais [(Beta versija)]"
   ],
@@ -150553,16 +150656,6 @@
   ],
   "s+9CQY": [
     "Scenos kanalas"
-  ],
-  "s+HTdX": [
-    "Stiprinimai padeda visiems gauti pranašumų! O tu kaip stiprintojas (-a) gausi specialią vaidmens spalvą ir ženklelį. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Peržiūrėti visus pranašumus"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Paleisti žaidimą"
@@ -155903,6 +155996,36 @@
   "tdDpJj": [
     "Kiti atsiliepimai"
   ],
+  "tdF5fb": [
+    "Jau ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " metus"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " metus"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " metų"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " naudojiesi Discord – skaičiuojame toliau! Šiandien šalia savo vardo rodyk piktogramą. Bet kada gali tai pakeisti savo profilyje."
+  ],
   "tdgcf1": [
     "Gali valdyti tam tikrus paauglio (-ės) paskyros nustatymus, kurių jis (ji) savarankiškai valdyti negali."
   ],
@@ -160363,6 +160486,35 @@
   ],
   "v7HbiQ": [
     "Jokių prisijungusių draugų šiuo metu nėra. Užsuk vėliau!"
+  ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " metai"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " metai"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " metų"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " platformoje Discord"
   ],
   "v7iYnP": [
     "Pasirodys Netrukus"
@@ -169292,7 +169444,7 @@
         "Spausdamas (-a) „Prenumeruoti,“ įsigyji automatinį pakartotinį prenumeravimą"
       ]
     ],
-    ". Nuo šiandien kasmet mokėsi ir taikomus mokesčius, nebent turi kažkokių kreditų ar nuolaidų tol, kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Ją atšaukti gali bet kada savo nustatymų puslapyje. Ši prekė siūloma programėlės kūrėjui ir gali būti naudojama tik su šia programėle. Taikomos ",
+    ". Nuo šiandien kasmet mokėsi nurodytą sumą ir taikomus mokesčius – arba mažiau, jei turi taikytinų kreditų ir nuolaidų – kol atšauksi. Kainos gali keistis, tau apie tai pranešime. Atšaukti gali bet kada, tai padarysi nustatymuose. Ši prekė siūloma šios programėlės kūrėjo ir gali būti naudojama tik su šia programėle. Taikomos ",
     [
       8,
       "$link",
@@ -169314,12 +169466,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " arba peržiūrėk mūsų ",
+    " arba peržvelk mūsų ",
     [
       8,
       "$link",
       [
-        "Prenumeratos DUK"
+        "Prenumeratų DUK"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -170218,9 +170370,6 @@
   ],
   "yV2FLL": [
     "Praleisti 10 sekundžių"
-  ],
-  "yVIm/G": [
-    "Netinkamas mokėjimo šaltinio atsiskaitymo adresas. Atnaujink savo mokėjimo šaltinį arba atsiskaitymo adresą ir bandyk dar kartą."
   ],
   "yVQ1Qm": [
     "Pokalbio elgesys"

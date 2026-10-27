@@ -2391,6 +2391,13 @@
   "+v5zsT": [
     "Desactiva las animaciones con la opción de movimiento reducido en los ajustes de accesibilidad."
   ],
+  "+v889h": [
+    "Quedan ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Al unirte a un canal de voz, se mostrará tu última vista utilizada, ya sea una sala o cuadrícula, en lugar de acceder siempre la sala. La sala es una función Beta."
   ],
@@ -4871,7 +4878,7 @@
     "Problemas al usar Alt + Tab"
   ],
   "/sGXPr": [
-    "¡Oye! Estás comprando una suscripción recurrente, lo que significa que te cobraremos hoy y todos los meses hasta que canceles la suscripción. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
+    "¡Oye! Estás comprando una suscripción recurrente, lo que significa que te cobraremos hoy y todos los meses hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
   ],
   "/sHnXc": [
     "Ingresa el código de Discord enviado por SMS"
@@ -6046,7 +6053,7 @@
       1,
       "interval"
     ],
-    " hasta que canceles tu suscripción. Puedes cancelarla en cualquier momento hasta 24 horas antes de que finalice tu periodo actual desde los ajustes de Google Play Store."
+    " hasta que canceles tu suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento hasta 24 horas antes de que finalice tu periodo actual desde los ajustes de Google Play Store."
   ],
   "0HGnUV": [
     "Dodgeball"
@@ -8108,15 +8115,15 @@
         ]
       ]
     ],
-    " a tu método de pago y seguiremos cobrándote ",
+    " a tu método de pago y seguiremos cobrándote cada ",
     [
       8,
       "$b",
       [
-        "anualmente"
+        "año"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde tu página de ajustes."
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento desde tu página de ajustes."
   ],
   "0yAqqN": [
     "No puedes añadir al usuario a la publicación"
@@ -8385,6 +8392,14 @@
   ],
   "15p8on": [
     "Aventura"
+  ],
+  "16+Zv5": [
+    "¡",
+    [
+      1,
+      "name"
+    ],
+    " celebra su aniversario en Discord!"
   ],
   "16/3Bi": [
     "Archivo gráfico"
@@ -9741,7 +9756,7 @@
     "Sobrescrituras de miembros y roles"
   ],
   "1jPMeG": [
-    "Solo tú puedes ver tu punto de control (a menos que decidas compartirlo). ",
+    "Solo tú puedes ver tu Checkpoint (a menos que decidas compartirlo). ",
     [
       8,
       "learnMoreHook",
@@ -12281,7 +12296,7 @@
       1,
       "price"
     ],
-    " / mes + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " / mes + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -25849,6 +25864,34 @@
   "7nF/S/": [
     "Solo cambia la apariencia. Ideal para asignar etiquetas o colores a los miembros."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " está celebrando ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord. ¡Envíale un regalo para celebrarlo!"
+  ],
   "7nKAXx": [
     "Listo"
   ],
@@ -27865,6 +27908,9 @@
   "8YK70c": [
     "¡Vaya! Algo salió mal..."
   ],
+  "8YMgb/": [
+    "¡Feliz aniversario en Discord!"
+  ],
   "8ZA50K": [
     "Necesitarás tanto su nombre de usuario como su etiqueta. Ten en cuenta que el nombre de usuario distingue entre mayúsculas y minúsculas."
   ],
@@ -28417,7 +28463,7 @@
     "El servidor ha limitado quién puede ver este perfil."
   ],
   "8mqr6Q": [
-    "¡Llegaste a un punto de control!"
+    "¡Llegaste a un Checkpoint!"
   ],
   "8msQQO": [
     "¿Algo no está bien?"
@@ -31414,12 +31460,12 @@
       1,
       "price"
     ],
-    " y a seguir cobrando automáticamente cada ",
+    " del método de pago indicado y a seguir cobrando automáticamente cada ",
     [
       1,
       "intervalCount"
     ],
-    " meses hasta que la canceles. Puedes cancelar la suscripción en cualquier momento."
+    " meses hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento."
   ],
   "9xo1g9": [
     "Disponible en tiendas seleccionadas, en línea y en tiendas físicas"
@@ -32029,6 +32075,9 @@
         "activado"
       ]
     ]
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Nombre de tu grupo"
@@ -34235,12 +34284,12 @@
       8,
       "$b",
       [
-        "Si haces clic en “",
+        "Al hacer clic en \"",
         [
           1,
           "primaryText"
         ],
-        "”, reanudarás una suscripción recurrente."
+        "\", continuarás con una suscripción recurrente."
       ]
     ],
     " Se te cobrará ",
@@ -34248,7 +34297,7 @@
       1,
       "rate"
     ],
-    " + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. Cancela en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -34262,7 +34311,7 @@
         ]
       ]
     ],
-    ". ¿Tienes alguna pregunta? ",
+    ". ¿Tienes preguntas? ",
     [
       8,
       "$link",
@@ -37179,15 +37228,15 @@
         ]
       ]
     ],
-    " a tu método de pago y seguiremos cobrándote ",
+    " a tu método de pago y seguiremos cobrándote cada ",
     [
       8,
       "$b",
       [
-        "mensualmente"
+        "mes"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde tu página de ajustes."
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento desde tu página de ajustes."
   ],
   "C9rUO8": [
     "Autorización emitida el ",
@@ -38273,7 +38322,7 @@
     ]
   ],
   "CdU/PF": [
-    "Punto de control"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Tenemos algunos cambios geniales para Discord (y probablemente algunas correcciones de errores). Actualiza para continuar."
@@ -39104,6 +39153,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "¡Una de tus amistades lleva otro año en Discord! ¡Envíale un regalo o un GIF para que lo celebre!"
   ],
   "D1YcNp": [
     "¿Necesitas un servidor de juegos para jugar con tus amigos? Crea y administra uno en Discord con mejoras."
@@ -44588,7 +44640,7 @@
         ]
       ]
     ],
-    ". Esta es una suscripción recurrente, lo que significa que te cobraremos a tu cuenta hoy y cada mes hasta que decidas cancelarla."
+    ". Esta es una suscripción recurrente, lo que significa que te cobraremos a tu cuenta hoy y cada mes hasta que decidas cancelarla. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto."
   ],
   "FSZVIR": [
     "Agregar la etiqueta, ",
@@ -45294,7 +45346,7 @@
       1,
       "intervalCount"
     ],
-    " meses hasta que canceles la suscripción. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
+    " meses hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
   ],
   "Fqqbhg": [
     "Este enlace dirige a un usuario al que no tienes acceso."
@@ -47205,6 +47257,9 @@
   ],
   "GX594D": [
     "Personas"
+  ],
+  "GX91jv": [
+    "¡Vas demasiado rápido! Espera un poco y vuelve a intentarlo."
   ],
   "GXDPol": [
     "¿Quién jugó a la mayor cantidad de juegos únicos?"
@@ -49795,7 +49850,7 @@
     "Enviar solicitud de amistad"
   ],
   "HWnMTQ": [
-    "Enviaste su punto de control"
+    "Envió su Checkpoint"
   ],
   "HWuskv": [
     "Banear usuario"
@@ -51610,7 +51665,7 @@
     "Nunca animar"
   ],
   "IGzFc5": [
-    "¡Oye! Estás comprando una suscripción recurrente, lo que significa que te cobraremos hoy y cada año hasta que canceles la suscripción. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
+    "¡Oye! Estás comprando una suscripción recurrente, lo que significa que te cobraremos hoy y todos los años hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. ¡Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes!"
   ],
   "IH7RMF": [
     "Debes formar parte de este servidor durante al menos ",
@@ -57027,6 +57082,22 @@
   "KXk3AU": [
     "Selecciona una opción a continuación"
   ],
+  "KXodvL": [
+    "La dirección de facturación del método de pago no es válida. Actualiza tu método de pago o tu dirección de facturación e inténtalo de nuevo. ",
+    [
+      8,
+      "$link",
+      [
+        "Más información"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Avatar del autor de la publicación de contenido multimedia"
   ],
@@ -59289,9 +59360,6 @@
   "LSNOYf": [
     "Ninguna aplicación o comando coincide con tu búsqueda"
   ],
-  "LSoXK5": [
-    "(Opcional) Envíame correos con actualizaciones, consejos y ofertas especiales de Discord. Registramos las aperturas y los clics para saber qué es útil."
-  ],
   "LT5TnZ": [
     "Durante"
   ],
@@ -60495,7 +60563,7 @@
       1,
       "rate"
     ],
-    " + impuestos aplicables en la fecha indicada arriba, menos cualquier crédito o descuento aplicable, hasta que la canceles. Cancela en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " + impuestos aplicables a partir de la fecha indicada anteriormente, menos cualquier crédito o descuento aplicable, hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -60509,7 +60577,7 @@
         ]
       ]
     ],
-    ". ¿Tienes alguna pregunta? ",
+    ". ¿Tienes preguntas? ",
     [
       8,
       "$link",
@@ -66083,15 +66151,15 @@
         ]
       ]
     ],
-    " a tu método de pago y seguiremos cobrándote ",
+    " a tu método de pago y seguiremos cobrándote cada ",
     [
       8,
       "$b",
       [
-        "anualmente"
+        "año"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde tu página de ajustes."
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento desde tu página de ajustes."
   ],
   "O7ouXO": [
     "Crear o unirse a un servidor"
@@ -69737,6 +69805,9 @@
   "PTPbjx": [
     "No es posible copiar la imagen"
   ],
+  "PTYULU": [
+    "Desactivar silencio de la aplicación"
+  ],
   "PTebCR": [
     "Programado para ",
     [
@@ -73219,6 +73290,9 @@
   "R/1GpG": [
     "Te unirás en PlayStation."
   ],
+  "R/F7xs": [
+    "Silenciar aplicación"
+  ],
   "R/FK4A": [
     "Abandonar la actividad"
   ],
@@ -73584,6 +73658,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "¡Nuevo aniversario de Discord!"
   ],
   "R87Y2K": [
     "Se programará de ",
@@ -74509,6 +74586,9 @@
   ],
   "RVX1zT": [
     "Filtro de archivos multimedia gráficos"
+  ],
+  "RVYbK6": [
+    "Ocultar ícono"
   ],
   "RVfNGU": [
     "Unirse al servidor"
@@ -79238,6 +79318,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Ícono de aniversario de Discord"
+  ],
   "TTIocg": [
     "Esperando para conexión..."
   ],
@@ -80219,7 +80302,7 @@
         " meses"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde tu página de ajustes."
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento desde tu página de ajustes."
   ],
   "Tn7Koo": [
     "Activar monetización"
@@ -81259,6 +81342,9 @@
   "UB3hKo": [
     "No cumple los requisitos"
   ],
+  "UB8tME": [
+    "Luce un ícono junto a tu nombre durante el día para celebrar."
+  ],
   "UBBwwF": [
     "Renombra tu clave"
   ],
@@ -82128,13 +82214,13 @@
     "No cambiar"
   ],
   "UYcJ48": [
-    "Punto de control"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Compra una tarjeta de regalo de Discord en un comercio adherido, luego visita discord.com/redeem e inicia sesión en tu cuenta de Discord. Raspa suavemente el papel plateado en el reverso de la tarjeta para ver tu código, o busca el código en tu correo electrónico si es una tarjeta de regalo digital. Sigue las indicaciones en pantalla y el saldo se acreditará automáticamente en cuenta."
   ],
   "UYjWa5": [
-    "Vuelve a ver tu punto de control en cualquier momento hasta el 15 de enero."
+    "Vuelve a ver tu Checkpoint en cualquier momento hasta el 15 de enero."
   ],
   "UYq7+O": [
     "Borrar permisos"
@@ -86093,7 +86179,7 @@
       1,
       "interval"
     ],
-    " hasta que canceles tu suscripción. Puedes cancelarla en cualquier momento hasta 24 horas antes de que finalice tu periodo actual desde los ajustes de la App Store."
+    " hasta que canceles tu suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento hasta 24 horas antes de que finalice tu periodo actual desde los ajustes de la App Store."
   ],
   "W7e/z1": [
     "¡",
@@ -86647,6 +86733,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Reclamar recompensa"
+  ],
   "WK9r7F": [
     "Permite que los miembros suban archivos o contenido multimedia en este canal."
   ],
@@ -87172,9 +87261,6 @@
   ],
   "WVbpcy": [
     "Añadir una biografía"
-  ],
-  "WViBDk": [
-    "Registramos las aperturas y los clics de correos electrónicos para ver qué es útil y mejorar los correos que enviamos."
   ],
   "WVq3Lr": [
     [
@@ -89960,7 +90046,7 @@
       0,
       "cardinal"
     ],
-    " en esta llamada. La patrulla de ancho de banda me ha pedido que te desconecte para ahorrar ancho de banda. ¡Eso no crece en los árboles!"
+    " solo en esta llamada. La patrulla de ancho de banda me ha pedido que te desconecte para ahorrar ancho de banda. ¡Eso no crece en los árboles!"
   ],
   "XYt3Al": [
     "Listo"
@@ -90325,6 +90411,9 @@
   ],
   "Xjlbvs": [
     "Añadir amigos a MD"
+  ],
+  "XkE3ZV": [
+    "Explorar"
   ],
   "XkIWkk": [
     "¿Confirmas?"
@@ -91070,6 +91159,9 @@
   ],
   "Xz2njA": [
     "Miembro suspendido"
+  ],
+  "Xz3o7I": [
+    "Aniversario de Discord"
   ],
   "XzBNbS": [
     [
@@ -98589,7 +98681,7 @@
       1,
       "rate"
     ],
-    " + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. Cancela en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -98603,7 +98695,7 @@
         ]
       ]
     ],
-    ". ¿Tienes alguna pregunta? ",
+    ". ¿Tienes preguntas? ",
     [
       8,
       "$link",
@@ -118040,7 +118132,7 @@
     "visor"
   ],
   "goiR2u": [
-    "Punto de control 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "agujero",
@@ -121320,7 +121412,7 @@
     "Ahora puedes conversar en este servidor. ¡Gracias por tu paciencia!"
   ],
   "hrGTjG": [
-    "Si haces clic en “Confirmar descuento”, aceptas continuar con tu suscripción recurrente a Nitro. Se te cobrará ",
+    "Al hacer clic en \"Confirmar descuento\", aceptas continuar con tu suscripción recurrente a Nitro. Se te cobrará ",
     [
       1,
       "discountedPrice"
@@ -121361,12 +121453,12 @@
       1,
       "billingPeriod"
     ],
-    " hasta que canceles. Cancela en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. ",
     [
       8,
       "$link",
       [
-        "condiciones de los servicios de pago"
+        "Se aplican las condiciones de los servicios de pago"
       ],
       [
         [
@@ -123987,7 +124079,7 @@
     "Suspender miembros"
   ],
   "ir6nEQ": [
-    "Tu punto de control"
+    "Tu Checkpoint"
   ],
   "irDT8W": [
     "¿Está fallando el micrófono? Quizás sea una interferencia. O quizás sea otra cosa…"
@@ -125276,7 +125368,7 @@
       1,
       "price"
     ],
-    " y a seguir cobrando automáticamente cada año hasta que la canceles. Puedes cancelar la suscripción en cualquier momento."
+    " del método de pago indicado y a seguir cobrando automáticamente cada año hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento."
   ],
   "jQ1plj": [
     "Texto (Limitado)"
@@ -128620,7 +128712,7 @@
     "vestimenta"
   ],
   "kimsIr": [
-    "Punto de control no disponible"
+    "Checkpoint no disponible"
   ],
   "kiqvHd": [
     "Se detectó un dispositivo certificado"
@@ -132275,7 +132367,7 @@
       1,
       "price"
     ],
-    " del método de pago indicado y a seguir cobrando automáticamente cada mes hasta que la canceles. Puedes cancelar la suscripción en cualquier momento."
+    " del método de pago indicado y a seguir cobrando automáticamente cada mes hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento."
   ],
   "m2GEpP": [
     "Captura y comparte tus mejores momentos de juegos, todo en un solo lugar."
@@ -132807,7 +132899,7 @@
     "\"?"
   ],
   "mIG7/G": [
-    "Cargando tu punto de control"
+    "Cargando tu Checkpoint"
   ],
   "mIL6Jb": [
     "Sigue los pasos para completar la vinculación de tu cuenta."
@@ -138901,7 +138993,7 @@
       1,
       "intervalCount"
     ],
-    " meses hasta que la canceles. Puedes cancelar la suscripción en cualquier momento en Ajustes de usuario > Suscripciones, y los cargos anteriores no serán reembolsados a menos que la ley lo exija. Esta compra la ofrece el desarrollador de esta actividad y solo puedes acceder a ella y usarla si formas parte de la actividad."
+    " meses hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento en Ajustes de usuario > Suscripciones, y los cargos anteriores no serán reembolsados a menos que la ley lo exija. Esta compra la ofrece el desarrollador de esta actividad y solo puedes acceder a ella y usarla si formas parte de la actividad."
   ],
   "o96qbc": [
     "Volver a suscribirte a tu servidor de juego"
@@ -139994,7 +140086,7 @@
     ]
   ],
   "od48B0": [
-    "Muestra tu punto de control de 2025"
+    "Muestra tu Checkpoint de 2025"
   ],
   "odDw+z": [
     "Controles de edición del perfil"
@@ -145465,9 +145557,6 @@
   "qFsx5q": [
     "Mostrar alertas en mensajes directos"
   ],
-  "qGDEON": [
-    "Sé el primero en mejorar este servidor 🥇"
-  ],
   "qGIfWn": [
     "¡Gracias por tu opinión! Los comentarios como el tuyo nos ayudan a mejorar las actividades."
   ],
@@ -147565,7 +147654,7 @@
     ]
   ],
   "r8GEbK": [
-    "Abrir punto de control"
+    "Abrir Checkpoint"
   ],
   "r90Wgo": [
     "A estos servidores les vendría bien una mejora"
@@ -148681,6 +148770,30 @@
   "rYfJop": [
     "Alta (P1)"
   ],
+  "rZ36t1": [
+    "¡",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord! ¡Envíale Nitro o un GIF para celebrarlo!"
+  ],
   "rZEEvU": [
     "Aumenta la diversión con los emojis con sonido [Beta]"
   ],
@@ -148983,15 +149096,15 @@
         ]
       ]
     ],
-    " a tu método de pago y seguiremos cobrándote ",
+    " a tu método de pago y seguiremos cobrándote cada ",
     [
       8,
       "$b",
       [
-        "mensualmente"
+        "mes"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde tu página de ajustes."
+    " hasta que canceles la suscripción. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelarla en cualquier momento desde tu página de ajustes."
   ],
   "rc6+/s": [
     "Pestaña de inicio"
@@ -150671,16 +150784,6 @@
   ],
   "s+9CQY": [
     "Canal de escenario"
-  ],
-  "s+HTdX": [
-    "¡Las mejoras ayudan a desbloquear ventajas para todos! También obtendrás un color de rol y una insignia especial por ser un booster. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Ver todas las ventajas"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Iniciar juego"
@@ -156210,6 +156313,29 @@
   "tdDpJj": [
     "Otros comentarios"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " y contando. ¡Luce un ícono junto a tu nombre por hoy! Puedes cambiarlo cuando quieras en tu perfil."
+  ],
   "tdgcf1": [
     "Puedes gestionar ciertos ajustes para la cuenta de tu adolescente que él o ella no puede editar por su cuenta."
   ],
@@ -160680,6 +160806,29 @@
   "v7HbiQ": [
     "No hay amigos en línea en este momento. ¡Vuelve más tarde!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord"
+  ],
   "v7iYnP": [
     "Próximamente"
   ],
@@ -165118,7 +165267,7 @@
     "Suscripción de usuario"
   ],
   "wnuxp5": [
-    "¡Llegaste a un punto de control!"
+    "¡Llegaste a un Checkpoint!"
   ],
   "wo3D3T": [
     "Consigue descuentos increíbles en cualquier artículo de la tienda (¡o en todos!). Solo con Nitro."
@@ -168735,7 +168884,7 @@
       1,
       "price"
     ],
-    " / mes + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " / mes + impuestos aplicables a partir de hoy, menos cualquier crédito o descuento aplicable, hasta que la canceles. El precio de la suscripción puede variar, pero, en ese caso, te notificaremos al respecto. Puedes cancelar la suscripción en cualquier momento desde tu página de ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -170387,9 +170536,6 @@
   ],
   "yV2FLL": [
     "Avanza 10 segundos"
-  ],
-  "yVIm/G": [
-    "Dirección de facturación de método de pago no válida. Actualiza tu método de pago o dirección de facturación e inténtalo de nuevo."
   ],
   "yVQ1Qm": [
     "Comportamiento en el chat"

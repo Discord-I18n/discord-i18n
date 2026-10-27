@@ -2138,6 +2138,13 @@
   "+v5zsT": [
     "Tắt hiệu ứng động bằng tùy chọn Giảm Hiệu Ứng Động trong Cài Đặt Trợ Năng."
   ],
+  "+v889h": [
+    "Còn ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Khi bạn tham gia một kênh thoại, bạn sẽ vào chế độ xem ở lần gần nhất, là Phòng khách hoặc Dạng lưới, thay vì lúc nào cũng là Phòng khách. Phòng khách là một tính năng beta."
   ],
@@ -5365,7 +5372,7 @@
       1,
       "interval"
     ],
-    " một lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy đăng ký tại bất kỳ thời điểm nào trong vòng 24 tiếng đồng hồ trước khi thời hạn hiện tại kết thúc trong cài đặt Cửa Hàng Google Play."
+    " một lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy đăng ký tại bất kỳ thời điểm nào, chậm nhất là 24 giờ trước khi thời hạn hiện tại kết thúc trong cài đặt Cửa Hàng Google Play."
   ],
   "0HGnUV": [
     "Dodgeball"
@@ -7486,6 +7493,14 @@
   ],
   "15p8on": [
     "Phiêu lưu"
+  ],
+  "16+Zv5": [
+    "Đến ngày kỷ niệm Discord của ",
+    [
+      1,
+      "name"
+    ],
+    " rồi!"
   ],
   "16/3Bi": [
     "Nội dung đa phương tiện đồ họa"
@@ -10588,10 +10603,10 @@
       8,
       "$b",
       [
-        "Bằng việc nhấn vào \"Đăng ký\", bạn sẽ mua một gói đăng ký định kỳ"
+        "Khi nhấn vào \"Đăng ký\", bạn sắp mua một gói đăng ký định kỳ."
       ]
     ],
-    ". Bạn sẽ bị tính phí ",
+    " Bạn sẽ bị tính phí ",
     [
       8,
       "$b",
@@ -10602,7 +10617,7 @@
         ]
       ]
     ],
-    " cộng thêm thuế áp dụng bắt đầu từ hôm nay, có thể thanh toán từ tín dụng hoặc ưu đãi khuyến mãi của bạn nếu có, cho đến khi bạn hủy gói đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy bất kỳ lúc nào trong trang Cài Đặt. Giao dịch mua này do nhà phát triển ứng dụng này cung cấp và chỉ có thể sử dụng trong ứng dụng này. ",
+    " cộng thêm thuế áp dụng kể từ hôm nay, trừ đi mọi khoản tín dụng hoặc ưu đãi áp dụng, cho đến khi bạn hủy gói đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy đăng ký bất kỳ lúc nào tại trang Cài Đặt. Giao dịch mua này do nhà phát triển ứng dụng này cung cấp và chỉ có thể sử dụng trong ứng dụng này. ",
     [
       8,
       "$link",
@@ -10618,13 +10633,13 @@
       8,
       "$link",
       [
-        "Liên hệ với chúng tôi"
+        "Hãy liên hệ với chúng tôi"
       ],
       [
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " hoặc tới xem ",
+    " hoặc xem ",
     [
       8,
       "$link",
@@ -23318,6 +23333,18 @@
   "7nF/S/": [
     "Chỉ để trang trí. Tuyệt khi gán nhãn hoặc màu sắc cho các thành viên."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " đang ăn mừng ",
+    [
+      2,
+      "years"
+    ],
+    " năm trên Discord! Hãy gửi tặng họ một món quà để ăn mừng!"
+  ],
   "7nKAXx": [
     "Xong"
   ],
@@ -25138,6 +25165,9 @@
   ],
   "8YK70c": [
     "Chà, có gì đó không ổn..."
+  ],
+  "8YMgb/": [
+    "Chúc mừng ngày kỷ niệm trên Discord!"
   ],
   "8ZA50K": [
     "Bạn cần phải có cả tên người dùng và số nhận diện của họ. Hãy nhớ rằng tên người dùng có phân biệt chữ in hoa và chữ thường."
@@ -28998,6 +29028,9 @@
       ]
     ],
     " công cụ"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Đặt tên cho nhóm của bạn"
@@ -35421,6 +35454,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Bạn của bạn vừa có thêm một năm trên Discord! Hãy gửi quà hoặc GIF để giúp họ ăn mừng!"
   ],
   "D1YcNp": [
     "Cần một máy chủ trò chơi để chơi với bạn bè? Tạo và quản lý một máy chủ trên Discord với Nâng Cấp."
@@ -42861,6 +42897,9 @@
   ],
   "GX594D": [
     "Mọi người"
+  ],
+  "GX91jv": [
+    "Quá nhanh! Vui lòng chờ một chút và thử lại sau nhé."
   ],
   "GXDPol": [
     "Ai đã chơi nhiều trò chơi khác nhau nhất?"
@@ -51767,6 +51806,22 @@
   "KXk3AU": [
     "Chọn một tùy chọn bên dưới"
   ],
+  "KXodvL": [
+    "Địa chỉ thanh toán của nguồn thanh toán không hợp lệ. Vui lòng cập nhật nguồn thanh toán hoặc địa chỉ thanh toán rồi thử lại. ",
+    [
+      8,
+      "$link",
+      [
+        "Tìm hiểu thêm"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Ảnh đại diện người tạo bài đăng đa phương tiện"
   ],
@@ -53757,9 +53812,6 @@
   ],
   "LSNOYf": [
     "Không có ứng dụng hoặc câu lệnh khớp với tìm kiếm của bạn"
-  ],
-  "LSoXK5": [
-    "(Không bắt buộc) Gửi cho tôi email về các cập nhật Discord, mẹo và ưu đãi đặc biệt. Chúng tôi theo dõi lượt mở và lượt nhấp để biết nội dung nào hữu ích."
   ],
   "LT5TnZ": [
     "Trong khoảng thời gian"
@@ -63417,6 +63469,9 @@
   "PTPbjx": [
     "Không thể sao chép hình ảnh"
   ],
+  "PTYULU": [
+    "Bỏ Tắt Âm Báo Ứng Dụng"
+  ],
   "PTebCR": [
     "Lên lịch cho ",
     [
@@ -66638,6 +66693,9 @@
   "R/1GpG": [
     "Bạn sẽ được tham gia trên PlayStation."
   ],
+  "R/F7xs": [
+    "Tắt Âm Báo Ứng Dụng"
+  ],
   "R/FK4A": [
     "Rời Hoạt động"
   ],
@@ -66988,6 +67046,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Kỷ niệm Discord mới!"
   ],
   "R87Y2K": [
     "Tác vụ này sẽ được lên lịch là từ ",
@@ -67827,6 +67888,9 @@
   ],
   "RVX1zT": [
     "Bộ Lọc Hình Ảnh Đa Phương Tiện"
+  ],
+  "RVYbK6": [
+    "Ẩn biểu tượng"
   ],
   "RVfNGU": [
     "Tham Gia Máy Chủ"
@@ -72001,6 +72065,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Biểu tượng kỷ niệm Discord"
+  ],
   "TTIocg": [
     "Đang đợi kết nối..."
   ],
@@ -73872,6 +73939,9 @@
   ],
   "UB3hKo": [
     "Chưa đạt đủ yêu cầu"
+  ],
+  "UB8tME": [
+    "Khoe biểu tượng bên cạnh tên trong ngày để ăn mừng!"
   ],
   "UBBwwF": [
     "Đổi tên mã của bạn"
@@ -78545,7 +78615,7 @@
       1,
       "interval"
     ],
-    " một lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy đăng ký tại bất kỳ thời điểm nào trong vòng 24 tiếng đồng hồ trước khi thời hạn hiện tại kết thúc trong cài đặt App Store."
+    " một lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Bạn có thể hủy đăng ký tại bất kỳ thời điểm nào, chậm nhất là 24 giờ trước khi thời hạn hiện tại kết thúc trong cài đặt App Store."
   ],
   "W7e/z1": [
     [
@@ -79002,6 +79072,9 @@
   ],
   "WK19hs": [
     "WK19hs"
+  ],
+  "WK589K": [
+    "Nhận phần thưởng"
   ],
   "WK9r7F": [
     "Cho phép thành viên tải lên tệp hoặc tệp media trong kênh này."
@@ -79466,9 +79539,6 @@
   ],
   "WVbpcy": [
     "Thêm tiểu sử"
-  ],
-  "WViBDk": [
-    "Chúng tôi theo dõi việc mở và nhấp vào email để xem nội dung nào hữu ích và cải thiện các email chúng tôi gửi."
   ],
   "WVq3Lr": [
     [
@@ -82372,6 +82442,9 @@
   "Xjlbvs": [
     "Thêm bạn bè vào DM"
   ],
+  "XkE3ZV": [
+    "Khám Phá Ngay"
+  ],
   "XkIWkk": [
     "Bạn chắc chứ?"
   ],
@@ -83018,6 +83091,9 @@
   ],
   "Xz2njA": [
     "Thành viên bị hạn chế"
+  ],
+  "Xz3o7I": [
+    "Kỷ niệm Discord"
   ],
   "XzBNbS": [
     [
@@ -132108,9 +132184,6 @@
   "qFsx5q": [
     "Hiện cảnh báo trong tin nhắn trực tiếp"
   ],
-  "qGDEON": [
-    "Hãy là người đầu tiên Nâng Cấp máy chủ này 🥇"
-  ],
   "qGIfWn": [
     "Cảm ơn bạn đã chia sẻ! Phản hồi của bạn sẽ giúp chúng tôi cải thiện Hoạt Động tốt hơn."
   ],
@@ -135004,6 +135077,13 @@
   "rYfJop": [
     "Cao (P1)"
   ],
+  "rZ36t1": [
+    [
+      2,
+      "years"
+    ],
+    " năm trên Discord rồi! Hãy gửi tặng họ Nitro hoặc GIF để ăn mừng!"
+  ],
   "rZEEvU": [
     "Thêm niềm vui với Emoji Âm Thanh [Beta]"
   ],
@@ -136653,16 +136733,6 @@
   ],
   "s+9CQY": [
     "Kênh Sân Khấu"
-  ],
-  "s+HTdX": [
-    "Nâng Cấp giúp mở khóa các đặc quyền cho tất cả mọi người! Bạn cũng sẽ nhận được một màu vai trò đặc biệt và huy hiệu khi trở thành Người Nâng Cấp. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Xem tất cả các đặc quyền"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Khởi chạy trò chơi"
@@ -141541,6 +141611,13 @@
   "tdDpJj": [
     "Phản hồi khác"
   ],
+  "tdF5fb": [
+    [
+      2,
+      "years"
+    ],
+    " năm rồi, và còn tiếp tục! Hãy hiển thị biểu tượng bên cạnh tên bạn trong hôm nay. Bạn có thể chỉnh sửa mục này bất cứ lúc nào trong hồ sơ."
+  ],
   "tdgcf1": [
     "Bạn có thể quản lý một số cài đặt nhất định cho tài khoản của thanh thiếu niên và trẻ không thể tự chỉnh sửa cài đặt đó."
   ],
@@ -145631,6 +145708,13 @@
   ],
   "v7HbiQ": [
     "Không có bạn bè nào trực tuyến vào lúc này. Hãy quay lại sau!"
+  ],
+  "v7QDUk": [
+    [
+      2,
+      "years"
+    ],
+    " năm trên Discord"
   ],
   "v7iYnP": [
     "Sắp ra mắt"
@@ -154590,9 +154674,6 @@
   ],
   "yV2FLL": [
     "Tua nhanh 10 giây"
-  ],
-  "yVIm/G": [
-    "Địa chỉ thanh toán của nguồn thanh toán không hợp lệ. Vui lòng cập nhật nguồn thanh toán hoặc địa chỉ thanh toán rồi thử lại."
   ],
   "yVQ1Qm": [
     "Hành Vi Trò Chuyện"
