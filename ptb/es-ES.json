@@ -2395,6 +2395,13 @@
   "+v5zsT": [
     "Desactiva las animaciones con Movimiento reducido, en Ajustes de accesibilidad."
   ],
+  "+v889h": [
+    "Tiempo restante: ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Cuando te unas a un canal de voz, accederás a tu última vista, ya sea la sala de estar o el techo de rejilla, en vez de siempre la sala de espera. La sala de espera es una función beta."
   ],
@@ -4912,7 +4919,7 @@
     "Problemas al usar alt-tab para cambiar de pestaña"
   ],
   "/sGXPr": [
-    "¡Ey! Eso que vas a comprar es una suscripción periódica, lo que significa que te cobraremos hoy y lo seguiremos haciendo mensualmente hasta que canceles la suscripción. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
+    "¡Ey! Eso que vas a comprar es una suscripción periódica, lo que significa que te cobraremos hoy y lo seguiremos haciendo mensualmente hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
   ],
   "/sHnXc": [
     "Introduce el código SMS de Discord"
@@ -6081,12 +6088,12 @@
     "¡Prueba a enviar otro!"
   ],
   "0HG5pG": [
-    "Al pulsar \"Obtener Nitro\", aceptas las Condiciones del Servicio y las Condiciones de los Servicios de Pago. Esta es una suscripción periódica. El pago se cobrará hoy a tu cuenta de Google Play y cada ",
+    "Al hacer clic en «Obtener Nitro», aceptas las Condiciones del Servicio y las Condiciones de los Servicios de Pago. Esta es una suscripción periódica. El pago se cobrará hoy a tu cuenta de Google Play y cada ",
     [
       1,
       "interval"
     ],
-    " hasta que la canceles. Puedes cancelarla en cualquier momento hasta 24 horas antes de que termine tu periodo actual de facturación en los Ajustes de Google Play."
+    " hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento hasta 24 horas antes de que termine tu periodo actual de facturación en los ajustes de Google Play Store."
   ],
   "0HGnUV": [
     "Dodgeball"
@@ -8160,7 +8167,7 @@
         "anualmente"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde la página de Ajustes."
+    " hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento desde la página de Ajustes."
   ],
   "0yAqqN": [
     "No puedes añadir a este usuario a la publicación"
@@ -8429,6 +8436,14 @@
   ],
   "15p8on": [
     "Aventura"
+  ],
+  "16+Zv5": [
+    "¡Es el aniversario de ",
+    [
+      1,
+      "name"
+    ],
+    " en Discord!"
   ],
   "16/3Bi": [
     "Contenido multimedia gráfico"
@@ -12331,7 +12346,7 @@
       1,
       "price"
     ],
-    " al mes, más impuestos aplicables, a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Puedes cancelar tu suscripción en cualquier momento desde la página de ajustes. Se aplican las ",
+    " al mes, más impuestos aplicables, a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -25942,6 +25957,35 @@
   "7nF/S/": [
     "Podrás mejorar la apariencia. Es muy útil para poner etiquetas o colores a los miembros."
   ],
+  "7nFo+/": [
+    "¡",
+    [
+      1,
+      "name"
+    ],
+    " celebra ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord! ¡Envíale un regalo para celebrarlo!"
+  ],
   "7nKAXx": [
     "Listo"
   ],
@@ -27979,6 +28023,9 @@
   ],
   "8YK70c": [
     "Ups, algo ha fallado..."
+  ],
+  "8YMgb/": [
+    "¡Feliz aniversario en Discord!"
   ],
   "8ZA50K": [
     "Necesitarás su nombre de usuario y una etiqueta. Ten en cuenta que el nombre de usuario distingue entre mayúsculas y minúsculas."
@@ -31546,7 +31593,7 @@
       1,
       "intervalCount"
     ],
-    " meses hasta que la canceles. Puedes cancelarla en cualquier momento."
+    " meses hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento."
   ],
   "9xo1g9": [
     "Ya disponible en tiendas físicas y en línea seleccionadas"
@@ -32153,6 +32200,9 @@
       ]
     ],
     " el widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Nombre de tu grupo"
@@ -34376,7 +34426,7 @@
           1,
           "primaryText"
         ],
-        "», reanudarás una suscripción periódica."
+        "», reanudas una suscripción periódica."
       ]
     ],
     " Se te hará un cobro de ",
@@ -34384,7 +34434,7 @@
       1,
       "rate"
     ],
-    " más impuestos aplicables a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Puedes cancelarla en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " más impuestos aplicables a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -37324,7 +37374,7 @@
         "mensualmente"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde la página de Ajustes."
+    " hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento desde la página de Ajustes."
   ],
   "C9rUO8": [
     "Fecha de autorización: ",
@@ -39270,6 +39320,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "¡Alguien de tu lista de amigos cumple otro año en Discord! ¡Envíale un regalo o un GIF para celebrarlo!"
   ],
   "D1YcNp": [
     "¿Necesitas un servidor de juego para jugar con amigos? Crea y gestiona uno en Discord mediante mejoras."
@@ -44748,7 +44801,7 @@
         ]
       ]
     ],
-    ". Esta es una suscripción periódica, así que te cobraremos el pago en tu cuenta hoy y cada mes hasta que la canceles."
+    ". Esta es una suscripción periódica, así que te cobraremos el pago en tu cuenta hoy y cada mes hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti."
   ],
   "FSZVIR": [
     "Añadir la etiqueta, ",
@@ -45454,7 +45507,7 @@
       1,
       "intervalCount"
     ],
-    " meses hasta que canceles la suscripción. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
+    " meses hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
   ],
   "Fqqbhg": [
     "Este enlace lleva a un usuario al que no tienes acceso."
@@ -47370,6 +47423,9 @@
   ],
   "GX594D": [
     "Gente"
+  ],
+  "GX91jv": [
+    "¡Demasiado rápido! Espera un poco y vuelve a intentarlo."
   ],
   "GXDPol": [
     "¿Quién ha jugado a más juegos únicos?"
@@ -51822,7 +51878,7 @@
     "Movimiento nunca"
   ],
   "IGzFc5": [
-    "¡Ey! Eso que vas a comprar es una suscripción periódica, lo que significa que te cobraremos hoy y lo seguiremos haciendo anualmente hasta que canceles la suscripción. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
+    "¡Ey! Eso que vas a comprar es una suscripción periódica, lo que significa que te cobraremos hoy y lo seguiremos haciendo anualmente hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. ¡Pero puedes cancelarla en cualquier momento desde la página de Ajustes!"
   ],
   "IH7RMF": [
     "Debes ser miembro durante al menos ",
@@ -57247,6 +57303,22 @@
   "KXk3AU": [
     "Selecciona una opción a continuación"
   ],
+  "KXodvL": [
+    "La dirección de facturación del método de pago no es válida. Actualiza tu método de pago o la dirección de facturación y vuelve a intentarlo. ",
+    [
+      8,
+      "$link",
+      [
+        "Más información"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Avatar del autor de la publicación multimedia"
   ],
@@ -59523,9 +59595,6 @@
   "LSNOYf": [
     "No hay ninguna aplicación ni comando que coincida con tu búsqueda"
   ],
-  "LSoXK5": [
-    "(Opcional) Envíame correos con actualizaciones, consejos y ofertas especiales de Discord. Hacemos un seguimiento de las aperturas y los clics para saber qué es útil."
-  ],
   "LT5TnZ": [
     "Durante"
   ],
@@ -60727,7 +60796,7 @@
           1,
           "primaryText"
         ],
-        "», estás adquiriendo una suscripción periódica."
+        "», adquieres una suscripción periódica."
       ]
     ],
     " Se te hará un cobro de ",
@@ -60735,7 +60804,7 @@
       1,
       "rate"
     ],
-    " más impuestos aplicables a partir de la fecha mostrada arriba, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Puedes cancelarla en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " más impuestos aplicables en la fecha que se muestra arriba, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -66353,7 +66422,7 @@
         "anualmente"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde la página de Ajustes."
+    " hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento desde la página de Ajustes."
   ],
   "O7ouXO": [
     "Crear o unirse a un servidor"
@@ -70008,6 +70077,9 @@
   "PTPbjx": [
     "No se puede copiar la imagen"
   ],
+  "PTYULU": [
+    "Habilitar notificaciones de aplicación"
+  ],
   "PTebCR": [
     "Programado para las ",
     [
@@ -73490,6 +73562,9 @@
   "R/1GpG": [
     "Te unirás en PlayStation."
   ],
+  "R/F7xs": [
+    "Deshabilitar notificaciones de aplicación"
+  ],
   "R/FK4A": [
     "Abandonar actividad"
   ],
@@ -73855,6 +73930,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "¡Nuevo aniversario de Discord!"
   ],
   "R87Y2K": [
     "Se programará de ",
@@ -74762,6 +74840,9 @@
   ],
   "RVX1zT": [
     "Filtro de contenido multimedia gráfico"
+  ],
+  "RVYbK6": [
+    "Ocultar icono"
   ],
   "RVfNGU": [
     "Unirse al servidor"
@@ -79490,6 +79571,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Icono del aniversario de Discord"
+  ],
   "TTIocg": [
     "Esperando conexión..."
   ],
@@ -80465,7 +80549,7 @@
         " meses"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde la página de Ajustes."
+    " hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento desde la página de Ajustes."
   ],
   "Tn7Koo": [
     "Habilitar monetización"
@@ -81507,6 +81591,9 @@
   "UB3hKo": [
     "No se cumplen los requisitos"
   ],
+  "UB8tME": [
+    "¡Luce un icono junto a tu nombre durante el día para celebrarlo!"
+  ],
   "UBBwwF": [
     "Cambia el nombre de tu llave"
   ],
@@ -82397,7 +82484,7 @@
     "No cambiar"
   ],
   "UYcJ48": [
-    "Check Point"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Compra una tarjeta de regalo de Discord en un minorista participante, luego visita discord.com/redeem e inicia sesión en tu cuenta de Discord. Rasca suavemente la capa de papel de aluminio del reverso de la tarjeta para revelar tu código o localiza el código en tu correo en caso de tarjetas de regalo digitales. Sigue las instrucciones que se muestran en pantalla y el saldo de tu tarjeta de regalo se transferirá de la tarjeta al saldo de tu cuenta."
@@ -86477,12 +86564,12 @@
     "Disponible en aplicación"
   ],
   "W7WodG": [
-    "Al pulsar \"Obtener Nitro\", aceptas las Condiciones del Servicio y las Condiciones de los Servicios de Pago. Esta es una suscripción periódica. El pago se cobrará hoy a tu cuenta de Apple ID y cada ",
+    "Al hacer clic en «Obtener Nitro», aceptas las Condiciones del Servicio y las Condiciones de los Servicios de Pago. Esta es una suscripción periódica. El pago se cobrará hoy a tu cuenta de Apple ID y cada ",
     [
       1,
       "interval"
     ],
-    " hasta que la canceles. Puedes cancelarla en cualquier momento hasta 24 horas antes de que termine tu periodo actual de facturación en los Ajustes de la App Store."
+    " hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento hasta 24 horas antes de que termine tu periodo actual de facturación en los ajustes del App Store."
   ],
   "W7e/z1": [
     "¡",
@@ -87036,6 +87123,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Obtener recompensa"
+  ],
   "WK9r7F": [
     "Permite a los miembros subir archivos o contenido multimedia en este canal."
   ],
@@ -87561,9 +87651,6 @@
   ],
   "WVbpcy": [
     "Añadir una biografía"
-  ],
-  "WViBDk": [
-    "Hacemos un seguimiento de las aperturas y los clics de correo para ver qué es útil y mejorar los correos que enviamos."
   ],
   "WVq3Lr": [
     [
@@ -90715,6 +90802,9 @@
   "Xjlbvs": [
     "Añadir amigos a MD"
   ],
+  "XkE3ZV": [
+    "Echa un vistazo"
+  ],
   "XkIWkk": [
     "¿Seguro?"
   ],
@@ -91454,6 +91544,9 @@
   ],
   "Xz2njA": [
     "Aislar temporalmente a un miembro"
+  ],
+  "Xz3o7I": [
+    "Aniversario de Discord"
   ],
   "XzBNbS": [
     [
@@ -98973,7 +99066,7 @@
           1,
           "primaryText"
         ],
-        "», estás adquiriendo una suscripción periódica."
+        "», adquieres una suscripción periódica."
       ]
     ],
     " Se te hará un cobro de ",
@@ -98981,7 +99074,7 @@
       1,
       "rate"
     ],
-    " más impuestos aplicables a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Puedes cancelarla en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " más impuestos aplicables a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -107872,7 +107965,7 @@
       1,
       "name"
     ],
-    " en el siguiente directorio y ejecutarlo desde la pestaña de la biblioteca una vez termine. ¡Esperamos que lo disfrutes!"
+    " a continuación y ejecutarlo desde la pestaña de la biblioteca una vez termine. ¡Esperamos que lo disfrutes!"
   ],
   "dVS92c": [
     "Eliminar emoji"
@@ -120722,7 +120815,7 @@
     "Ya puedes hablar en este servidor. ¡Gracias por tu paciencia!"
   ],
   "hrGTjG": [
-    "Al hacer clic en «Confirmar descuento», aceptas continuar con tu suscripción Nitro periódica. Se te cobrará ",
+    "Al hacer clic en «Confirmar descuento», aceptas continuar con tu suscripción periódica Nitro. Se te harán cargos de ",
     [
       1,
       "discountedPrice"
@@ -120753,7 +120846,7 @@
       0,
       "cardinal"
     ],
-    " y después ",
+    ", y después de ",
     [
       1,
       "fullPrice"
@@ -120763,7 +120856,7 @@
       1,
       "billingPeriod"
     ],
-    " hasta que decidas cancelar. Puedes cancelarla en cualquier momento desde tu página de ajustes. Se aplican las ",
+    " hasta que decidas cancelarla. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -124660,7 +124753,7 @@
       1,
       "price"
     ],
-    " al método de pago proporcionado y a que siga haciéndolo automáticamente cada año hasta que la canceles. Puedes cancelarla en cualquier momento."
+    " al método de pago proporcionado y a que siga haciéndolo automáticamente cada año hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento."
   ],
   "jQ1plj": [
     "Texto (limitado)"
@@ -131641,7 +131734,7 @@
       1,
       "price"
     ],
-    " al método de pago proporcionado y a que siga haciéndolo automáticamente cada mes hasta que la canceles. Puedes cancelarla en cualquier momento."
+    " al método de pago proporcionado y a que siga haciéndolo automáticamente cada mes hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento."
   ],
   "m2GEpP": [
     "Captura y comparte tus mejores momentos de juego en un solo lugar."
@@ -138128,7 +138221,7 @@
       1,
       "intervalCount"
     ],
-    " meses hasta que la canceles. Puedes cancelar tu suscripción en cualquier momento en Ajustes de usuario > Suscripciones. Los pagos previos no se reembolsarán, a no ser que así lo requiera la ley. El desarrollador de esta actividad te ofrece esta compra y solo puedes acceder a ella y utilizarla cuando estás en esta actividad."
+    " meses hasta que la canceles. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento en Ajustes de usuario > Suscripciones. Los pagos previos no se reembolsarán, a no ser que así lo requiera la ley. El desarrollador de esta actividad te ofrece esta compra y solo puedes acceder a ella y utilizarla cuando estás en esta actividad."
   ],
   "o96qbc": [
     "Vuelve a suscribirte a tu servidor de juego"
@@ -144264,9 +144357,6 @@
   "qFsx5q": [
     "Mostrar alertas en los mensajes directos"
   ],
-  "qGDEON": [
-    "Sé la primera persona en mejorar este servidor 🥇"
-  ],
   "qGIfWn": [
     "¡Gracias por compartir! Opiniones como la tuya nos ayudan a mejorar las actividades."
   ],
@@ -147572,6 +147662,30 @@
   "rYfJop": [
     "Alta (P1)"
   ],
+  "rZ36t1": [
+    "¡",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord! ¡Regálale Nitro o un GIF para celebrarlo!"
+  ],
   "rZEEvU": [
     "Aumenta la diversión con la [beta] de emojis de sonido"
   ],
@@ -147837,7 +147951,7 @@
         "mensualmente"
       ]
     ],
-    " hasta que canceles la suscripción. Puedes cancelarla en cualquier momento desde la página de Ajustes."
+    " hasta que canceles la suscripción. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelarla en cualquier momento desde la página de Ajustes."
   ],
   "rc6+/s": [
     "Pestaña de inicio"
@@ -149402,16 +149516,6 @@
   ],
   "s+9CQY": [
     "Canal de escenario"
-  ],
-  "s+HTdX": [
-    "¡La mejora ayuda a desbloquear ventajas para todos! También recibirás un color de rol y una insignia especiales por ser un usuario que mejora. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Ver todas las ventajas."
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Iniciar juego"
@@ -154584,6 +154688,29 @@
   "tdDpJj": [
     "Otros comentarios"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " y sumando. Luce un icono junto a tu nombre durante el día. Puedes cambiarlo en cualquier momento desde tu perfil."
+  ],
   "tdgcf1": [
     "Puedes gestionar determinados ajustes de la cuenta de tu adolescente que no podrá modificar por su cuenta."
   ],
@@ -158972,6 +159099,29 @@
   ],
   "v7HbiQ": [
     "No hay amigos en línea en este momento. ¡Vuelve más tarde!"
+  ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " en Discord"
   ],
   "v7iYnP": [
     "Próximamente"
@@ -167035,7 +167185,7 @@
       1,
       "price"
     ],
-    " al mes, más impuestos aplicables, a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Puedes cancelar tu suscripción en cualquier momento desde la página de ajustes. Se aplican las ",
+    " al mes, más impuestos aplicables, a partir de hoy, descontando cualquier crédito o descuento aplicable, hasta que decidas cancelar. Los precios están sujetos a cambio previo aviso a ti. Puedes cancelar tu suscripción en cualquier momento desde la página de Ajustes. Se aplican las ",
     [
       8,
       "$link",
@@ -168760,9 +168910,6 @@
   ],
   "yV2FLL": [
     "Avanzar 10 segundos"
-  ],
-  "yVIm/G": [
-    "Dirección de facturación del método de pago no válida. Actualiza tu método de pago o tu dirección de facturación y vuelve a intentarlo."
   ],
   "yVQ1Qm": [
     "Comportamiento del chat"

@@ -2403,6 +2403,13 @@
   "+v5zsT": [
     "Dezactivează animațiile folosind Mișcare redusă din setările de Accesibilitate."
   ],
+  "+v889h": [
+    "Timp rămas: ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Când te alături unui canal de voce folosești cel mai recent stil de afișare, fie că este living sau grilă, în loc să folosești mereu livingul. Livingul este o funcție Beta."
   ],
@@ -8368,6 +8375,14 @@
   "15p8on": [
     "Aventură"
   ],
+  "16+Zv5": [
+    "Aniversare pe Discord pentru ",
+    [
+      1,
+      "name"
+    ],
+    "!"
+  ],
   "16/3Bi": [
     "Conținut media obscen"
   ],
@@ -9716,7 +9731,7 @@
     "Excepții de roluri și membri"
   ],
   "1jPMeG": [
-    "Numai tu poți vedea checkpointul tău (cu excepția cazului în care alegi să-l partajezi). ",
+    "Numai tu poți vedea Checkpoint-ul tău (cu excepția cazului în care alegi să-l partajezi). ",
     [
       8,
       "learnMoreHook",
@@ -25735,6 +25750,34 @@
   "7nF/S/": [
     "E vorba pur și simplu de aspect. Permisiunea perfectă pentru etichetarea sau acordarea de culori membrilor."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " sărbătorește ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " pe Discord! Trimite-i un cadou ca să sărbătorești!"
+  ],
   "7nKAXx": [
     "Gata"
   ],
@@ -27759,6 +27802,9 @@
   "8YK70c": [
     "Ups, ceva nu a mers bine..."
   ],
+  "8YMgb/": [
+    "La mulți ani pe Discord!"
+  ],
   "8ZA50K": [
     "Îți trebuie atât numele de utilizator, cât și tag-ul. Reține faptul că numele de utilizator este sensibil la literele mari și mici."
   ],
@@ -28311,7 +28357,7 @@
     "Serverul a setat limite pentru cine poate vedea acest profil."
   ],
   "8mqr6Q": [
-    "Ai deblocat un checkpoint"
+    "Ai deblocat un Checkpoint"
   ],
   "8msQQO": [
     "Ceva nu pare în regulă?"
@@ -31929,6 +31975,9 @@
       ]
     ],
     " widget-ul"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Numele grupului tău"
@@ -38969,6 +39018,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Unul dintre prietenii tăi a mai petrecut un an pe Discord! Trimite-i un cadou sau un GIF ca să sărbătorească!"
   ],
   "D1YcNp": [
     "Vrei un server de jocuri pe care să te joci cu prietenii? Creează și gestionează unul pe Discord folosind boosturi."
@@ -47030,6 +47082,9 @@
   "GX594D": [
     "Persoane"
   ],
+  "GX91jv": [
+    "Prea repede! Așteaptă puțin și încearcă din nou."
+  ],
   "GXDPol": [
     "Cine a jucat cele mai multe jocuri unice?"
   ],
@@ -49627,7 +49682,7 @@
     "Trimite o cerere de prietenie"
   ],
   "HWnMTQ": [
-    "Și-a trimis checkpointul"
+    "Și-a trimis Checkpoint-ul"
   ],
   "HWuskv": [
     "Interzi accesul utilizatorului"
@@ -56748,6 +56803,22 @@
   "KXk3AU": [
     "Selectează o opțiune mai jos"
   ],
+  "KXodvL": [
+    "Adresa de facturare asociată sursei de plată este nevalidă. Actualizează sursa de plată sau adresa de facturare și încearcă din nou. ",
+    [
+      8,
+      "$link",
+      [
+        "Află mai multe"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Avatar autor al postării media"
   ],
@@ -59000,9 +59071,6 @@
   ],
   "LSNOYf": [
     "Nicio aplicație sau comandă nu corespunde căutării tale"
-  ],
-  "LSoXK5": [
-    "(Opțional) Îți trimitem e-mailuri cu actualizări legate de Discord, sfaturi și oferte speciale. Urmărim deschiderile și clicurile pentru a afla ce-ți este util."
   ],
   "LT5TnZ": [
     "Pe durata"
@@ -69372,6 +69440,9 @@
   "PTPbjx": [
     "Nu s-a putut copia imaginea"
   ],
+  "PTYULU": [
+    "Reactivează notificările din aplicație"
+  ],
   "PTebCR": [
     "Programat pe ",
     [
@@ -72837,6 +72908,9 @@
   "R/1GpG": [
     "Te vom conecta pe PlayStation."
   ],
+  "R/F7xs": [
+    "Dezactivează notificările din aplicație"
+  ],
   "R/FK4A": [
     "Părăsește activitatea"
   ],
@@ -73202,6 +73276,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "O nouă aniversare pe Discord!"
   ],
   "R87Y2K": [
     "Setarea de program va fi ",
@@ -74112,6 +74189,9 @@
   ],
   "RVX1zT": [
     "Filtru pentru conținut media grafic"
+  ],
+  "RVYbK6": [
+    "Ascunde pictograma"
   ],
   "RVfNGU": [
     "Alătură-te serverului"
@@ -78822,6 +78902,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Pictograma aniversării pe Discord"
+  ],
   "TTIocg": [
     "Se așteaptă conexiunea..."
   ],
@@ -80827,6 +80910,9 @@
   "UB3hKo": [
     "Cerințe neîndeplinite"
   ],
+  "UB8tME": [
+    "Afișează o pictogramă lângă numele tău pentru o zi, ca să sărbătorești!"
+  ],
   "UBBwwF": [
     "Redenumește-ți cheia"
   ],
@@ -81694,7 +81780,7 @@
     "Cumpără un card cadou Discord de la un comerciant participant, apoi accesează discord.com/redeem și autentifică-te în contul Discord. Răzuiește ușor folia de pe spatele cardului pentru a dezvălui codul sau, în cazul cardurilor cadou digitale, găsește codul pe adresa de e-mail. Urmează instrucțiunile de pe ecran, iar soldul cardului ți se va transfera automat în cont."
   ],
   "UYjWa5": [
-    "Poți să-ți revizualizezi Checkpointul oricând dorești, până pe 15 ianuarie."
+    "Poți să-ți revizualizezi Checkpoint-ul oricând dorești, până pe 15 ianuarie."
   ],
   "UYq7+O": [
     "Șterge permisiunile"
@@ -86204,6 +86290,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Revendică recompensa"
+  ],
   "WK9r7F": [
     "Le permite membrilor să încarce fișiere sau conținut media pe acest canal."
   ],
@@ -86724,9 +86813,6 @@
   ],
   "WVbpcy": [
     "Adaugă un profil"
-  ],
-  "WViBDk": [
-    "Urmărim deschiderile și clicurile din e-mailuri pentru a vedea ce este util și a îmbunătăți e-mail-urile pe care le trimitem."
   ],
   "WVq3Lr": [
     [
@@ -89837,6 +89923,9 @@
   "Xjlbvs": [
     "Adaugă prieteni în conversația prin mesaje directe"
   ],
+  "XkE3ZV": [
+    "Descoperă"
+  ],
   "XkIWkk": [
     "Sigur?"
   ],
@@ -90576,6 +90665,9 @@
   ],
   "Xz2njA": [
     "Pune pe pauză membru"
+  ],
+  "Xz3o7I": [
+    "Aniversare Discord"
   ],
   "XzBNbS": [
     [
@@ -124277,7 +124369,7 @@
     "Punere membri pe pauză"
   ],
   "ir6nEQ": [
-    "Checkpointul tău"
+    "Checkpoint-ul tău"
   ],
   "irDT8W": [
     "Microfonul a luat-o razna? Poate e un bug. Sau poate e altceva…"
@@ -133275,7 +133367,7 @@
     "’?"
   ],
   "mIG7/G": [
-    "Checkpointul tău se încarcă"
+    "Checkpoint-ul tău se încarcă"
   ],
   "mIL6Jb": [
     "Urmează pașii pentru a finaliza conectarea la cont."
@@ -140693,7 +140785,7 @@
     ]
   ],
   "od48B0": [
-    "Partajează-ți checkpointul 2025"
+    "Partajează-ți Checkpoint-ul 2025"
   ],
   "odDw+z": [
     "Funcții pentru editarea profilului"
@@ -146376,9 +146468,6 @@
   "qFsx5q": [
     "Afișează alertele în mesajele directe"
   ],
-  "qGDEON": [
-    "Oferă primul boost pentru acest server 🥇"
-  ],
   "qGIfWn": [
     "Îți mulțumim! Feedback-ul ne ajută să îmbunătățim activitățile."
   ],
@@ -148562,7 +148651,7 @@
     ]
   ],
   "r8GEbK": [
-    "Deschide checkpointul"
+    "Deschide Checkpoint-ul"
   ],
   "r90Wgo": [
     "Aceste servere au nevoie de un boost"
@@ -149679,6 +149768,29 @@
   ],
   "rYfJop": [
     "Ridicată (P1)"
+  ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " pe Discord! Fă-i cadou Nitro sau trimite-i un GIF ca să sărbătorești!"
   ],
   "rZEEvU": [
     "Distrează-te mai mult cu Soundmoji [Beta]"
@@ -151690,16 +151802,6 @@
   ],
   "s+9CQY": [
     "Canal podium"
-  ],
-  "s+HTdX": [
-    "Boosturile ajută la deblocarea avantajelor pentru toată lumea! Vei obține și o culoare specială pentru rol și o insignă de booster. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Vezi toate avantajele"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Lansează jocul"
@@ -157496,6 +157598,29 @@
   "tdDpJj": [
     "Alt feedback"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " și numărătoarea continuă! Afișează o pictogramă lângă numele tău pentru o zi. Poți schimba oricând setarea din profil."
+  ],
   "tdgcf1": [
     "Poți gestiona anumite setări ale contului copilului tău adolescent pe care nu le poate modifica pe cont propriu."
   ],
@@ -162147,6 +162272,29 @@
   "v7HbiQ": [
     "Nu ai prieteni online acum. Revino mai târziu!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " pe Discord"
+  ],
   "v7iYnP": [
     "Disponibil în curând"
   ],
@@ -166641,7 +166789,7 @@
     "Abonament utilizator"
   ],
   "wnuxp5": [
-    "Ai deblocat un checkpoint!"
+    "Ai deblocat un Checkpoint!"
   ],
   "wo3D3T": [
     "Bucură-te de reduceri grozave la oricare (sau la fiecare!) articol din magazin. Doar cu Nitro."
@@ -172226,9 +172374,6 @@
   ],
   "yV2FLL": [
     "Sari înainte 10 secunde"
-  ],
-  "yVIm/G": [
-    "Adresa de facturare pentru sursa de plată nu este validă. Actualizează-ți sursa de plată sau adresa de facturare și încearcă din nou."
   ],
   "yVQ1Qm": [
     "Comportamentul chat-ului"

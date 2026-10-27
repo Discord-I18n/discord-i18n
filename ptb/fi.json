@@ -2335,6 +2335,13 @@
   "+v5zsT": [
     "Poista animaatiot käytöstä helppokäyttöisyysasetusten Hillityt liikkeet ‑asetuksella."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " jäljellä"
+  ],
   "+vMoL1": [
     "Kun liityt puhekanavalle, se näkyy edellisen käyttökertasi perusteella joko Olohuone- tai Ruudukko-näkymänä. Olohuone ei ole vakionäkymä ja se on beetaominaisuus."
   ],
@@ -8182,6 +8189,14 @@
   "15p8on": [
     "Seikkailu"
   ],
+  "16+Zv5": [
+    "Käyttäjän ",
+    [
+      1,
+      "name"
+    ],
+    " Discord-merkkipäivä!"
+  ],
   "16/3Bi": [
     "Järkyttävää mediasisältöä"
   ],
@@ -9525,7 +9540,7 @@
     "Rooli- ja jäsenohitukset"
   ],
   "1jPMeG": [
-    "Vain sinä näet tallennuspisteesi (ellet valitse sitä jaettavaksi). ",
+    "Vain sinä näet Checkpointisi (ellet valitse sitä jaettavaksi). ",
     [
       8,
       "learnMoreHook",
@@ -25199,6 +25214,18 @@
   "7nF/S/": [
     "Vain ulkoasun säätämiseen. Sopii nimiöiden tai värien määrittämiseen jäsenille."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " juhlistaa ",
+    [
+      2,
+      "years"
+    ],
+    " vuoden Discord-taivaltaan! Lähetä hänelle lahja juhlan kunniaksi!"
+  ],
   "7nKAXx": [
     "Valmis"
   ],
@@ -27168,6 +27195,9 @@
   "8YK70c": [
     "Hups, jokin meni pieleen..."
   ],
+  "8YMgb/": [
+    "Hyvää Discord-vuosipäivää!"
+  ],
   "8ZA50K": [
     "Tarvitset tätä varten sekä käyttäjänimen että tagin. Huomaa, että kirjainkoko on merkitsevä käyttäjänimessä."
   ],
@@ -27721,7 +27751,7 @@
     "Palvelin on rajoittanut sitä, ketkä voivat nähdä tämän profiilin."
   ],
   "8mqr6Q": [
-    "Olet saavuttanut tallennuspisteen"
+    "Olet saavuttanut Checkpointin"
   ],
   "8msQQO": [
     "Onko jokin vialla?"
@@ -31292,6 +31322,9 @@
       ]
     ],
     " pienoisohjelman"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Ryhmäsi nimi"
@@ -37455,7 +37488,7 @@
     ]
   ],
   "CdU/PF": [
-    "Tallennuspiste"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Meillä on Discordiin makeita muutoksia (ja pari bugiakin on varmaan korjattu). Jatka päivittämällä."
@@ -38286,6 +38319,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Kaverillesi tuli taas yksi vuosi Discordissa täyteen! Lähetä hänelle lahja tai GIF-animaatio juhlan kunniaksi!"
   ],
   "D1YcNp": [
     "Tarvitsetko pelipalvelimen kavereiden kanssa pelaamista varten? Voit luoda sen ja hallita sitä Discordissa nostatuksia käyttämällä."
@@ -46232,6 +46268,9 @@
   "GX594D": [
     "Ihmiset"
   ],
+  "GX91jv": [
+    "Liian nopeaa toimintaa! Odota hetki, ja yritä sitten uudelleen."
+  ],
   "GXDPol": [
     "Kuka on pelannut laajimman kirjon eri pelejä?"
   ],
@@ -48802,7 +48841,7 @@
     "Lähetä kaveripyyntö"
   ],
   "HWnMTQ": [
-    "Lähetti tallennuspisteensä"
+    "Lähetti Checkpointinsa"
   ],
   "HWuskv": [
     "Anna käyttäjälle porttikielto"
@@ -55780,6 +55819,22 @@
   "KXk3AU": [
     "Valitse vaihtoehto alta"
   ],
+  "KXodvL": [
+    "Maksutapaan liitetty laskutusosoite ei kelpaa. Päivitä maksutapasi tai laskutusosoitteesi ja yritä uudelleen. ",
+    [
+      8,
+      "$link",
+      [
+        "Lue lisää"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Mediajulkaisun laatijan avatar"
   ],
@@ -56069,7 +56124,7 @@
     "Hei, pikainen muistutus"
   ],
   "Ke+kz5": [
-    "Alueesi lainsäädäntö edellyttää, että teini-ikäisten (13–16-vuotiaiden) käyttäjien on yhdistettävä tiliinsä huoltaja. Olet tehnyt ",
+    "Alueesi lainsäädäntö edellyttää, että teini-ikäisten (13–16-vuotiaiden) käyttäjien on yhdistettävä tiliinsä huoltaja. Sinulla on ",
     [
       6,
       "pendingCount",
@@ -56078,7 +56133,7 @@
           [
             7
           ],
-          " odottavan yhdistämispyynnön"
+          " odottava yhdistämispyyntö"
         ],
         "other": [
           [
@@ -57954,9 +58009,6 @@
   ],
   "LSNOYf": [
     "Mikään sovellus tai komento ei vastaa hakuasi"
-  ],
-  "LSoXK5": [
-    "(Valinnainen) Lähetä minulle sähköpostitse Discord-päivityksiä, vinkkejä ja erikoistarjouksia. Seuraamme sähköpostien avauksia ja klikkauksia, ja sen perusteella näemme, mistä on hyötyä."
   ],
   "LT5TnZ": [
     "Aikana"
@@ -68192,6 +68244,9 @@
   "PTPbjx": [
     "Kuvaa ei voida kopioida"
   ],
+  "PTYULU": [
+    "Poista sovelluksen mykistys"
+  ],
   "PTebCR": [
     "Ajoitettu alkamisaika: ",
     [
@@ -71595,6 +71650,9 @@
   "R/1GpG": [
     "Sinut yhdistetään PlayStation-laitteella."
   ],
+  "R/F7xs": [
+    "Mykistä sovellus"
+  ],
   "R/FK4A": [
     "Poistu toiminnasta"
   ],
@@ -71961,6 +72019,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Uusi Discord-merkkipäivä!"
   ],
   "R87Y2K": [
     "Tämä aikataulutetaan seuraavaan päivään ajalle ",
@@ -72902,6 +72963,9 @@
   ],
   "RVX1zT": [
     "Graafisen median suodatin"
+  ],
+  "RVYbK6": [
+    "Piilota kuvake"
   ],
   "RVfNGU": [
     "Liity palvelimelle"
@@ -77545,6 +77609,9 @@
   "TSTgyL": [
     "Wumpusjää"
   ],
+  "TSuiJ/": [
+    "Discord-vuosipäiväkuvake"
+  ],
   "TTIocg": [
     "Odotetaan yhteyttä..."
   ],
@@ -79534,6 +79601,9 @@
   "UB3hKo": [
     "Vaatimuksia ei ole täytetty"
   ],
+  "UB8tME": [
+    "Juhlista päivää näyttämällä kuvaketta nimesi vieressä päivän ajan!"
+  ],
   "UBBwwF": [
     "Nimeä avainkoodi uudelleen"
   ],
@@ -80419,13 +80489,13 @@
     "Älä vaihda"
   ],
   "UYcJ48": [
-    "Tallennuspiste"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Osta Discord-lahjakortti kampanjaan osallistuvalta jälleenmyyjältä, siirry sitten sivulle discord.com/redeem ja kirjaudu siellä Discord-tilillesi. Raaputa lahjakortin takana olevaa raaputuspintaa varovasti niin, että koodi tulee näkyviin, tai etsi koodi sähköpostiisi saamastasi vahvistusviestistä, jos kyseessä on digitaalinen lahjakortti. Toimi näkyviin tulevien ohjeiden mukaan, niin lahjakorttisi saldo siirretään kortilta tilillesi."
   ],
   "UYjWa5": [
-    "Tallennuspisteesi on katseltavissa milloin tahansa 15.1. asti."
+    "Checkpointisi on katseltavissa milloin tahansa 15.1. asti."
   ],
   "UYq7+O": [
     "Tyhjennä käyttöoikeudet"
@@ -82298,7 +82368,7 @@
     "Poista palvelinhaku käytöstä"
   ],
   "VHI4+Y": [
-    "Mikrofonisi on aktiivisena vain, kun pidät määritettyä näppäintä painettuna. Rajoitettu radiopuhelintila toimii vain, kun selaimen välilehti on auki. ",
+    "Mikrofonisi on aktiivisena vain, kun pidät määritettyä näppäintä painettuna. Rajoitettu radiopuhelintila toimii vain, kun selaimen välilehti on aktiivinen. ",
     [
       8,
       "$link",
@@ -82312,7 +82382,7 @@
         ]
       ]
     ],
-    "työpöytäsovellus, jos haluat käyttää radiopuhelintilaa kaikkialla järjestelmässä."
+    " työpöytäsovellus, jos haluat käyttää radiopuhelintilaa kaikkialla järjestelmässä."
   ],
   "VHLp+u": [
     "Manuaalinen vahvistus (",
@@ -84918,6 +84988,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Lunasta palkinto"
+  ],
   "WK9r7F": [
     "Jäsenet voivat ladata tiedostoja tai mediasisältöä tälle kanavalle."
   ],
@@ -85425,9 +85498,6 @@
   ],
   "WVbpcy": [
     "Lisää biografia"
-  ],
-  "WViBDk": [
-    "Seuraamme sähköpostien avauksia ja klikkauksia, ja sen perusteella näemme, mistä on hyötyä ja kuinka sähköpostejamme voisi parantaa."
   ],
   "WVq3Lr": [
     [
@@ -88499,6 +88569,9 @@
   "Xjlbvs": [
     "Lisää kavereita keskusteluun"
   ],
+  "XkE3ZV": [
+    "Tutustu"
+  ],
   "XkIWkk": [
     "Oletko varma?"
   ],
@@ -89208,6 +89281,9 @@
   ],
   "Xz2njA": [
     "Aseta jäsen jäähylle"
+  ],
+  "Xz3o7I": [
+    "Discord-merkkipäivä"
   ],
   "XzBNbS": [
     [
@@ -115060,7 +115136,7 @@
     "uimalasit"
   ],
   "goiR2u": [
-    "Tallennuspiste 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "golf",
@@ -120848,7 +120924,7 @@
     "Jäsenten aikakatkaisu"
   ],
   "ir6nEQ": [
-    "Tallennuspisteesi"
+    "Checkpointisi"
   ],
   "irDT8W": [
     "Kohiseeko mikrofoni? Se voi olla häiriötä. Tai jotakin muuta…"
@@ -125401,7 +125477,7 @@
     "vaatteet"
   ],
   "kimsIr": [
-    "Tallennuspiste ei ole saatavana"
+    "Checkpoint ei ole saatavana"
   ],
   "kiqvHd": [
     "Sertifioitu laite havaittu"
@@ -129500,7 +129576,7 @@
     "?"
   ],
   "mIG7/G": [
-    "Ladataan tallennuspistettäsi"
+    "Ladataan Checkpointiasi"
   ],
   "mIL6Jb": [
     "Yhdistä tilisi ohjeiden mukaisesti."
@@ -136488,7 +136564,7 @@
     ]
   ],
   "od48B0": [
-    "Esittele vuoden 2025 tallennuspisteesi"
+    "Esittele vuoden 2025 Checkpointisi"
   ],
   "odDw+z": [
     "Profiilin muokkausvalinnat"
@@ -141581,9 +141657,6 @@
   "qFsx5q": [
     "Näytä hälytykset yksityisviesteissä"
   ],
-  "qGDEON": [
-    "Ole ensimmäinen, joka nostattaa tätä palvelinta 🥇"
-  ],
   "qGIfWn": [
     "Kiitos tästä! Kaltaisesi palautteen antajat auttavat meitä parantamaan toimintoja."
   ],
@@ -143732,7 +143805,7 @@
     " markkinointisisältö"
   ],
   "r8GEbK": [
-    "Avaa tallennuspiste"
+    "Avaa Checkpoint"
   ],
   "r90Wgo": [
     "Nämä palvelimet voisivat hyötyä nostatuksesta"
@@ -144820,6 +144893,29 @@
   ],
   "rYfJop": [
     "Suuri (P1)"
+  ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " vuosi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " vuotta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Discordissa! Lähetä hänelle Nitroa tai GIF-animaatio juhlan kunniaksi!"
   ],
   "rZEEvU": [
     "Nosta hauskuus uudelle tasolle ääniemojeilla [Beetaominaisuus]"
@@ -146627,16 +146723,6 @@
   ],
   "s+9CQY": [
     "Esityskanava"
-  ],
-  "s+HTdX": [
-    "Nostatukset auttavat avaamaan etuja kaikille. Nostattajana saat roolin erikoisvärin ja merkin. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Näytä kaikki edut"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Käynnistä peli"
@@ -151794,6 +151880,29 @@
   "tdDpJj": [
     "Muu palaute"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " vuosi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " vuotta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " ja vuosia kertyy lisää! Näytä vuosipäiväkuvake nimesi vieressä päivän ajan. Muokkaa tätä milloin tahansa profiilissasi."
+  ],
   "tdgcf1": [
     "Voit hallita osaa teinisi tilin asetuksista, joita he eivät voi muokata itse."
   ],
@@ -156194,6 +156303,29 @@
   "v7HbiQ": [
     "Kavereitasi ei ole tällä hetkellä online-tilassa. Tarkista tilanne myöhemmin!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " vuosi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " vuotta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Discordissa"
+  ],
   "v7iYnP": [
     "Tulossa pian"
   ],
@@ -160538,7 +160670,7 @@
     "Käyttäjätilaus"
   ],
   "wnuxp5": [
-    "Olet saavuttanut tallennuspisteen!"
+    "Olet saavuttanut Checkpointin!"
   ],
   "wo3D3T": [
     "Hyödynnä makeat alennukset kaikista kaupan tuotteista! Vain Nitrolla."
@@ -165828,9 +165960,6 @@
   ],
   "yV2FLL": [
     "Siirry eteenpäin 10 sekuntia"
-  ],
-  "yVIm/G": [
-    "Virheellinen maksutavan laskutusosoite. Päivitä maksutapatietosi tai laskutusosoitteesi ja yritä uudelleen."
   ],
   "yVQ1Qm": [
     "Keskustelun toiminta"

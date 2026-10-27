@@ -2424,6 +2424,13 @@
   "+v5zsT": [
     "Wyłącz animacje przy pomocy opcji Redukcja ruchu w ustawieniach dostępności."
   ],
+  "+v889h": [
+    "Pozostało ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Po dołączeniu do kanału głosowego trafisz do ostatnio używanego widoku – Salonu lub Siatki – zamiast zawsze do Salonu. Salon to funkcja w wersji beta."
   ],
@@ -8645,6 +8652,13 @@
   "15p8on": [
     "Przygodowe"
   ],
+  "16+Zv5": [
+    [
+      1,
+      "name"
+    ],
+    " obchodzi rocznicę na Discordzie!"
+  ],
   "16/3Bi": [
     "Multimedia nasycone przemocą"
   ],
@@ -9997,7 +10011,7 @@
     "Nadpisania ról i członków"
   ],
   "1jPMeG": [
-    "Tylko Ty możesz zobaczyć swój punkt kontrolny (chyba że zdecydujesz się go udostępnić). ",
+    "Tylko Ty możesz zobaczyć swój Checkpoint (chyba że zdecydujesz się go udostępnić). ",
     [
       8,
       "learnMoreHook",
@@ -26429,6 +26443,40 @@
   "7nF/S/": [
     "Dotyczy wyłącznie wyglądu. Doskonale nadaje się do umieszczania etykiet lub oznaczania członków kolorami."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " świętuje ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " lata"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " lat"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordzie! Wyślij tej osobie prezent z tej okazji!"
+  ],
   "7nKAXx": [
     "Gotowe"
   ],
@@ -28504,6 +28552,9 @@
   "8YK70c": [
     "Ups, coś poszło nie tak..."
   ],
+  "8YMgb/": [
+    "Wszystkiego najlepszego z okazji rocznicy na Discordzie!"
+  ],
   "8ZA50K": [
     "Potrzebujesz zarówno nazwy użytkownika, jak i tagu znajomego. Pamiętaj, że w nazwach użytkownika rozróżnia się wielkość liter."
   ],
@@ -29067,7 +29118,7 @@
     "Serwer wprowadził ograniczenia, kto może zobaczyć ten profil."
   ],
   "8mqr6Q": [
-    "Osiągnąłeś(-aś) punkt kontrolny"
+    "Osiągnąłeś(-aś) Checkpoint"
   ],
   "8msQQO": [
     "Coś nie gra?"
@@ -32755,6 +32806,9 @@
       ]
     ],
     " widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Nazwa Twojej grupy"
@@ -39143,7 +39197,7 @@
     ]
   ],
   "CdU/PF": [
-    "Punkt kontrolny"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Mamy parę świetnych zmian do Discorda (i mamy nadzieję, że załataliśmy kilka bugów). Zaktualizuj, aby kontynuować."
@@ -39986,6 +40040,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Ktoś z Twoich znajomych ma za sobą kolejny rok na Discordzie! Wyślij tej osobie prezent lub GIF-a, aby pomóc w świętowaniu!"
   ],
   "D1YcNp": [
     "Potrzebujesz serwera gry, żeby grać ze znajomymi? Stwórz go i zarządzaj nim na Discordzie dzięki wzmocnieniom."
@@ -48300,6 +48357,9 @@
   "GX594D": [
     "Buźki i osoby"
   ],
+  "GX91jv": [
+    "Za szybko! Zaczekaj chwilkę i spróbuj ponownie."
+  ],
   "GXDPol": [
     "Kto zagrał w najwięcej różnych gier?"
   ],
@@ -50956,7 +51016,7 @@
     "Wyślij zaproszenie do znajomych"
   ],
   "HWnMTQ": [
-    "Wysłał(-a) swój punkt kontrolny"
+    "Wysłał(-a) swój Checkpoint"
   ],
   "HWuskv": [
     "Użytkownik do zbanowania"
@@ -58341,6 +58401,22 @@
   "KXk3AU": [
     "Wybierz opcję poniżej"
   ],
+  "KXodvL": [
+    "Adres rozliczeniowy powiązany ze źródłem płatności jest nieprawidłowy. Zaktualizuj źródło płatności lub adres rozliczeniowy i spróbuj ponownie. ",
+    [
+      8,
+      "$link",
+      [
+        "Dowiedz się więcej"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Awatar autora posta multimedialnego"
   ],
@@ -60673,9 +60749,6 @@
   ],
   "LSNOYf": [
     "Brak aplikacji lub poleceń pasujących do Twojego wyszukiwania"
-  ],
-  "LSoXK5": [
-    "(Opcjonalnie) Wysyłaj mi e-maile z nowościami, wskazówkami i ofertami specjalnymi od Discorda. Śledzimy otwarcia i kliknięcia, aby wiedzieć, co jest przydatne."
   ],
   "LT5TnZ": [
     "Podczas"
@@ -71310,6 +71383,9 @@
   "PTPbjx": [
     "Nie można skopiować obrazu"
   ],
+  "PTYULU": [
+    "Wyłącz wyciszenie aplikacji"
+  ],
   "PTebCR": [
     "Zaplanowano na ",
     [
@@ -74867,6 +74943,9 @@
   "R/1GpG": [
     "Dołączysz do gry na PlayStation."
   ],
+  "R/F7xs": [
+    "Wycisz aplikację"
+  ],
   "R/FK4A": [
     "Opuść aktywność"
   ],
@@ -75240,6 +75319,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nowa rocznica na Discordzie!"
   ],
   "R87Y2K": [
     "Zostanie to zaplanowane jako ",
@@ -76201,6 +76283,9 @@
   ],
   "RVX1zT": [
     "Filtr drastycznych multimediów"
+  ],
+  "RVYbK6": [
+    "Ukryj ikonę"
   ],
   "RVfNGU": [
     "Dołącz do serwera"
@@ -81050,6 +81135,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Ikona rocznicy na Discordzie"
+  ],
   "TTIocg": [
     "Oczekiwanie na połączenie…"
   ],
@@ -83128,6 +83216,9 @@
   "UB3hKo": [
     "Nie spełniono wymagań"
   ],
+  "UB8tME": [
+    "Pochwal się ikoną obok swojej nazwy przez cały dzień!"
+  ],
   "UBBwwF": [
     "Zmień nazwę swojego klucza/kodu"
   ],
@@ -84024,13 +84115,13 @@
     "Nie przełączaj"
   ],
   "UYcJ48": [
-    "Punkt kontrolny"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Kup kartę podarunkową Discorda u jednego z uczestniczących sprzedawców, a następnie wejdź na discord.com/redeem i zaloguj się na swoje konto Discorda. Delikatnie zdrap folię z tyłu karty, aby odkryć kod, lub znajdź go w wiadomości e-mail w przypadku cyfrowych kart podarunkowych. Postępuj zgodnie z instrukcjami na ekranie, a środki z karty podarunkowej zostaną przeniesione na saldo Twojego konta."
   ],
   "UYjWa5": [
-    "Obejrzyj ponownie swój punkt kontrolny w dowolnym momencie do 15 stycznia."
+    "Obejrzyj ponownie swój Checkpoint w dowolnym momencie do 15 stycznia."
   ],
   "UYq7+O": [
     "Wyczyść uprawnienia"
@@ -88777,6 +88868,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Odbierz nagrodę"
+  ],
   "WK9r7F": [
     "Pozwala członkom na przesyłanie plików lub elementów multimedialnych na tym kanale."
   ],
@@ -89302,9 +89396,6 @@
   ],
   "WVbpcy": [
     "Dodaj dane o użytkowniku"
-  ],
-  "WViBDk": [
-    "Śledzimy otwarcia e-maili i kliknięcia, aby sprawdzać, co jest przydatne, i ulepszać wysyłane przez nas wiadomości."
   ],
   "WVq3Lr": [
     [
@@ -92504,6 +92595,9 @@
   "Xjlbvs": [
     "Dodaj znajomych do rozmowy prywatnej"
   ],
+  "XkE3ZV": [
+    "Wypróbuj"
+  ],
   "XkIWkk": [
     "Na pewno?"
   ],
@@ -93258,6 +93352,9 @@
   ],
   "Xz2njA": [
     "Nałóż przerwę na członka"
+  ],
+  "Xz3o7I": [
+    "Rocznica na Discordzie"
   ],
   "XzBNbS": [
     [
@@ -120708,7 +120805,7 @@
     "zjazd"
   ],
   "goiR2u": [
-    "Punkt kontrolny 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "flaga w dołku",
@@ -126941,7 +127038,7 @@
     "Nałóż przerwę na członków"
   ],
   "ir6nEQ": [
-    "Twój punkt kontrolny"
+    "Twój Checkpoint"
   ],
   "irDT8W": [
     "Szumy w mikrofonie? To mogą być zakłócenia. A może coś innego…"
@@ -131633,7 +131730,7 @@
     "ubranie"
   ],
   "kimsIr": [
-    "Punkt kontrolny niedostępny"
+    "Checkpoint niedostępny"
   ],
   "kiqvHd": [
     "Wykryto certyfikowane urządzenie"
@@ -135999,7 +136096,7 @@
     "” – usunąć?"
   ],
   "mIG7/G": [
-    "Ładowanie Twojego punktu kontrolnego"
+    "Ładowanie Twojego Checkpointu"
   ],
   "mIL6Jb": [
     "Postępuj zgodnie z instrukcjami, aby sfinalizować połączenie konta."
@@ -143463,7 +143560,7 @@
     ]
   ],
   "od48B0": [
-    "Pokaż swój punkt kontrolny na rok 2025"
+    "Pokaż swój Checkpoint na rok 2025"
   ],
   "odDw+z": [
     "Sterowanie edycją profilu"
@@ -149081,9 +149178,6 @@
   "qFsx5q": [
     "Pokazuj powiadomienia w prywatnych wiadomościach"
   ],
-  "qGDEON": [
-    "Bądź pierwszą osobą, która wzmocni ten serwer 🥇"
-  ],
   "qGIfWn": [
     "Dziękujemy za wiadomość! Dzięki tego rodzaju feedbackowi możemy usprawnić nasze aktywności."
   ],
@@ -151306,7 +151400,7 @@
     ]
   ],
   "r8GEbK": [
-    "Otwórz punkt kontrolny"
+    "Otwórz Checkpoint"
   ],
   "r90Wgo": [
     "Tym serwerom przydałoby się wzmocnienie"
@@ -152491,6 +152585,42 @@
   ],
   "rYfJop": [
     "Błąd o wysokim priorytecie (P1)"
+  ],
+  "rZ36t1": [
+    "Już ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " lata"
+        ],
+        "many": [
+          [
+            7
+          ],
+          " lat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " roku"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordzie! Podaruj tej osobie Nitro lub GIF-a, żeby uczcić tę okazję!"
   ],
   "rZEEvU": [
     "Podkręć zabawę z funkcją audioemoji [w wersji beta]"
@@ -154496,16 +154626,6 @@
   ],
   "s+9CQY": [
     "Kanał tymczasowy"
-  ],
-  "s+HTdX": [
-    "Wzmacnianie pomaga odblokować korzyści dla wszystkich! Otrzymasz również specjalny kolor roli i odznakę za bycie osobą wzmacniającą. ",
-    [
-      8,
-      "viewAllPerks",
-      [
-        "Zobacz wszystkie korzyści"
-      ]
-    ]
   ],
   "s+J8Dl": [
     "Uruchom grę"
@@ -160155,6 +160275,35 @@
   "tdDpJj": [
     "Inne uwagi"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " lata"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " lat"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " i liczymy dalej! Pochwal się dziś ikoną obok swojego imienia. Zmień to w dowolnym momencie na swoim profilu."
+  ],
   "tdgcf1": [
     "Możesz zarządzać określonymi ustawieniami konta Twojego nastoletniego dziecka, których nie może edytować samodzielnie."
   ],
@@ -164756,6 +164905,35 @@
   "v7HbiQ": [
     "W tej chwili żaden z Twoich znajomych nie jest dostępny. Sprawdź później!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " lata"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " lat"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordzie"
+  ],
   "v7iYnP": [
     "Już wkrótce"
   ],
@@ -169267,7 +169445,7 @@
     "Subskrypcja użytkownika"
   ],
   "wnuxp5": [
-    "Osiągnąłeś(-aś) punkt kontrolny!"
+    "Osiągnąłeś(-aś) Checkpoint!"
   ],
   "wo3D3T": [
     "Skorzystaj ze wspaniałych zniżek na każdy przedmiot w sklepie. Tylko z Nitro."
@@ -175038,9 +175216,6 @@
   ],
   "yV2FLL": [
     "Przewiń 10 sekund do przodu"
-  ],
-  "yVIm/G": [
-    "Nieprawidłowy adres rozliczeniowy źródła płatności. Zaktualizuj swoje źródło płatności lub adres rozliczeniowy i spróbuj ponownie."
   ],
   "yVQ1Qm": [
     "Zachowanie czatu"
