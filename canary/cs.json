@@ -2444,6 +2444,13 @@
   "+v5zsT": [
     "V nastavení přístupnosti můžeš pomocí položky redukce animací vypnout animace."
   ],
+  "+v889h": [
+    "Zbývá ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Když se připojíš do hlasového kanálu, nastaví se ti naposledy použité zobrazení – Obývací pokoj nebo Mřížka – místo aby se vždy zobrazil Obývací pokoj. Obývací pokoj je funkce v Beta verzi."
   ],
@@ -8511,6 +8518,13 @@
   "15p8on": [
     "Adventura"
   ],
+  "16+Zv5": [
+    [
+      1,
+      "name"
+    ],
+    " slaví výročí na Discordu!"
+  ],
   "16/3Bi": [
     "Grafická média"
   ],
@@ -9868,7 +9882,7 @@
     "Prioritní pravidla pro role a členy"
   ],
   "1jPMeG": [
-    "Jenom ty vidíš svůj kontrolní bod (pokud nezapneš jeho sdílení). ",
+    "Jenom ty vidíš svůj Checkpoint (pokud nezapneš jeho sdílení). ",
     [
       8,
       "learnMoreHook",
@@ -26164,6 +26178,40 @@
   "7nF/S/": [
     "Tohle je jenom o vzhledu. Můžeš členům přidávat štítky a barvy."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " slaví na Discordu už ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " roky"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " let"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "! Pošli dárek na oslavu!"
+  ],
   "7nKAXx": [
     "Hotovo"
   ],
@@ -28235,6 +28283,9 @@
   "8YK70c": [
     "Jej, něco se pokazilo…"
   ],
+  "8YMgb/": [
+    "Všechno nejlepší k výročí na Discordu!"
+  ],
   "8ZA50K": [
     "Budeš potřebovat jejich uživatelské jméno a tag. U uživatelského jména záleží na velikosti písmen."
   ],
@@ -28785,7 +28836,7 @@
     "Server omezil, kdo může vidět tento profil."
   ],
   "8mqr6Q": [
-    "Podařilo se ti zdolat kontrolní bod"
+    "Podařilo se ti zdolat Checkpoint"
   ],
   "8msQQO": [
     "Něco v nepořádku?"
@@ -32458,6 +32509,9 @@
         "zapnut"
       ]
     ]
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Pojmenuj svou skupinu"
@@ -38735,7 +38789,7 @@
     ]
   ],
   "CdU/PF": [
-    "Kontrolní bod"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Máme pro Discord pár super novinek (a asi taky jednu dvě opravy chyb). Než budeš pokračovat, proveď aktualizaci."
@@ -39558,6 +39612,9 @@
       "deviceType"
     ],
     "."
+  ],
+  "D1CSNP": [
+    "Někdo z tvých přátel slaví další rok na Discordu! Pošli dárek nebo GIF a pomoz s oslavou!"
   ],
   "D1YcNp": [
     "Potřebuješ herní server na hraní s přáteli? Vytvoř a spravuj ho na Discordu díky vylepšením."
@@ -47737,6 +47794,9 @@
   "GX594D": [
     "Lidé"
   ],
+  "GX91jv": [
+    "Moc rychlé! Počkej chvilku a zkus to znovu."
+  ],
   "GXDPol": [
     "Kdo hrál nejvíce jedinečných her?"
   ],
@@ -50413,7 +50473,7 @@
     "Odeslat žádost o přátelství"
   ],
   "HWnMTQ": [
-    "Odeslali své kontrolní body"
+    "Odeslali svůj Checkpoint"
   ],
   "HWuskv": [
     "Zabanovat uživatele"
@@ -57561,6 +57621,22 @@
   ],
   "KXk3AU": [
     "Vyber některou z možností níže"
+  ],
+  "KXodvL": [
+    "Fakturační adresa u tohoto způsobu platby není platná. Aktualizuj způsob platby nebo fakturační adresu a zkus to znovu. ",
+    [
+      8,
+      "$link",
+      [
+        "Další informace"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Avatar autora příspěvku obsahujícího média"
@@ -70459,6 +70535,9 @@
   "PTPbjx": [
     "Obrázek se nepodařilo zkopírovat"
   ],
+  "PTYULU": [
+    "Zrušit ztlumení aplikace"
+  ],
   "PTebCR": [
     "Naplánováno na ",
     [
@@ -73982,6 +74061,9 @@
   "R/1GpG": [
     "Připojíš se na konzoli PlayStation."
   ],
+  "R/F7xs": [
+    "Ztlumit aplikaci"
+  ],
   "R/FK4A": [
     "Opustit aktivitu"
   ],
@@ -74354,6 +74436,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Novinka: výročí na Discordu!"
   ],
   "R87Y2K": [
     "Tohle bude další den naplánováno jako ",
@@ -75316,6 +75401,9 @@
   ],
   "RVX1zT": [
     "Filtr grafických médií"
+  ],
+  "RVYbK6": [
+    "Skryj ikonu"
   ],
   "RVfNGU": [
     "Přidat se k serveru"
@@ -76564,7 +76652,7 @@
     "Umožňuje členům na těchto kanálech přejmenovávat vlákna a příspěvky, odstraňovat je, zavírat a zapínat pro ně pomalý režim. Členové taky můžou zobrazovat soukromá vlákna."
   ],
   "S383hM": [
-    "Okouzlující. Divoký. Přitažlivý. Ať už máš jakýkoli vkus, kup si a získej své oblíbené styly pro svůj profil a pro každou příležitost."
+    "Okouzlující. Divoký. Dychtivý. Ať už máš jakýkoli vkus, kup si a získej své oblíbené styly pro svůj profil a pro každou příležitost."
   ],
   "S3fdq7": [
     "Jste přáteli ",
@@ -80136,6 +80224,9 @@
   "TSTgyL": [
     "Mražený Wumpus"
   ],
+  "TSuiJ/": [
+    "Ikona výročí na Discordu"
+  ],
   "TTIocg": [
     "Čekání na připojení…"
   ],
@@ -82248,6 +82339,9 @@
   "UB3hKo": [
     "Požadavky nejsou splněny"
   ],
+  "UB8tME": [
+    "Pochlub se na oslavu ikonou vedle svého jména po celý den!"
+  ],
   "UBBwwF": [
     "Přejmenuj svůj klíč"
   ],
@@ -83167,13 +83261,13 @@
     "Nepřepínat"
   ],
   "UYcJ48": [
-    "Kontrolní bod"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Kup si dárkovou kartu Discord u participujícího prodejce, potom navštiv discord.com/redeem a přihlas se ke svému účtu Discord. Opatrně setři vrstvu na zadní straně karty a objev svůj kód. V případě digitálních dárkových karet najdeš kód ve svém e-mailu. Postupuj podle pokynů na obrazovce – zůstatek ze tvé dárkové karty se připíše k zůstatku na tvém účtu."
   ],
   "UYjWa5": [
-    "Pouštěj si svůj kontrolní bod kdykoli až do 15. ledna."
+    "Pouštěj si svůj Checkpoint kdykoli až do 15. ledna."
   ],
   "UYq7+O": [
     "Vymazat oprávnění"
@@ -87785,6 +87879,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Vyzvednout odměnu"
+  ],
   "WK9r7F": [
     "Umožní členům sdílet v tomto kanále soubory nebo média."
   ],
@@ -91492,6 +91589,9 @@
   "Xjlbvs": [
     "Přidejte přátele do PZ"
   ],
+  "XkE3ZV": [
+    "Chci to omrknout"
+  ],
   "XkIWkk": [
     "Vážně to tak chceš?"
   ],
@@ -92207,6 +92307,9 @@
   ],
   "Xz2njA": [
     "Pauza pro člena"
+  ],
+  "Xz3o7I": [
+    "Výročí na Discordu"
   ],
   "XzBNbS": [
     [
@@ -121303,7 +121406,7 @@
     "svařovat"
   ],
   "goiR2u": [
-    "Kontrolní bod 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "červená vlajka",
@@ -127820,7 +127923,7 @@
     "Dávat členům pauzu"
   ],
   "ir6nEQ": [
-    "Tvůj kontrolní bod"
+    "Tvůj Checkpoint"
   ],
   "irDT8W": [
     "Praskání v mikrofonu? Může jít o rušení. Nebo to může být i něco jiného…"
@@ -129883,7 +129986,7 @@
       1,
       "perkName"
     ],
-    " jako samostatné výhody. Přístup tvého serveru k této výhodě skončí ",
+    " jako samostatného vylepšení. Přístup tvého serveru k tomuto vylepšení skončí ",
     [
       1,
       "endDate"
@@ -129894,25 +129997,25 @@
       "boostCount",
       {
         "one": [
-          "Svou ",
-          [
-            7
-          ],
-          " výhodu"
-        ],
-        "few": [
           "Své ",
           [
             7
           ],
-          " výhody"
+          " vylepšení"
+        ],
+        "few": [
+          "Svá ",
+          [
+            7
+          ],
+          " vylepšení"
         ],
         "other": [
           "Svých ",
           [
             7
           ],
-          " výhod"
+          " vylepšení"
         ]
       },
       0,
@@ -132584,7 +132687,7 @@
     "yukata"
   ],
   "kimsIr": [
-    "Kontrolní bod není k dispozici"
+    "Checkpoint není k dispozici"
   ],
   "kiqvHd": [
     "Zjištěno certifikované zařízení"
@@ -137194,7 +137297,7 @@
     "“?"
   ],
   "mIG7/G": [
-    "Načítám tvůj kontrolní bod"
+    "Načítám tvůj Checkpoint"
   ],
   "mIL6Jb": [
     "Postupuj podle těchto kroků a dokonči propojení svého účtu."
@@ -145150,7 +145253,7 @@
     ]
   ],
   "od48B0": [
-    "Ukaž svůj kontrolní bod 2025"
+    "Ukaž svůj Checkpoint 2025"
   ],
   "odDw+z": [
     "Ovládací prvky pro úpravu profilu"
@@ -153495,7 +153598,7 @@
     ]
   ],
   "r8GEbK": [
-    "Otevřít kontrolní bod"
+    "Otevřít Checkpoint"
   ],
   "r90Wgo": [
     "Tyto servery by měly použít vylepšení"
@@ -154654,6 +154757,36 @@
   ],
   "rYfJop": [
     "Vysoká (P1)"
+  ],
+  "rZ36t1": [
+    "Už ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " roky"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " let"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordu! Pošli jako dárek Nitro nebo GIF a oslav to!"
   ],
   "rZEEvU": [
     "Rozjeď zábavu se zvukovými smajlíky [beta verze]"
@@ -163117,6 +163250,36 @@
   "tdDpJj": [
     "Jiná zpětná vazba"
   ],
+  "tdF5fb": [
+    "Už ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " roky"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " let"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " – a další přibývají! Pochlub se na dnešek ikonou vedle jména. Kdykoli to můžeš změnit ve svém profilu."
+  ],
   "tdgcf1": [
     "Určitá nastavení účtu svého teenagera můžeš spravovat, aniž by je tvůj teenager mohl sám upravit."
   ],
@@ -168066,6 +168229,35 @@
   "v7HbiQ": [
     "Momentálně nejsou žádní přátelé online. Zkus to znovu později!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " roky"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " let"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordu"
+  ],
   "v7iYnP": [
     "Již brzy"
   ],
@@ -172755,7 +172947,7 @@
     "Uživatelské předplatné"
   ],
   "wnuxp5": [
-    "Podařilo se ti zdolat kontrolní bod!"
+    "Podařilo se ti zdolat Checkpoint!"
   ],
   "wo3D3T": [
     "Využij parádní slevy na kteroukoli položku v obchodu – anebo klidně na všechny! Pouze s Nitrem."

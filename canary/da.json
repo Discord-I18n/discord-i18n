@@ -2351,6 +2351,13 @@
   "+v5zsT": [
     "Slå animationer fra med Reduceret bevægelse i Tilgængelighedsindstillinger."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " tilbage"
+  ],
   "+vMoL1": [
     "Når du deltager i en stemmekanal, kommer du ind i din sidste sete - enten i Stuen eller på Netværket - i stedet for altid i stuen. Stuen er en beta-funktion."
   ],
@@ -8326,6 +8333,14 @@
   "15p8on": [
     "Adventure"
   ],
+  "16+Zv5": [
+    "Discord-jubilæum for ",
+    [
+      1,
+      "name"
+    ],
+    "!"
+  ],
   "16/3Bi": [
     "Grafiske medier"
   ],
@@ -9680,7 +9695,7 @@
     "Rolle- og medlemstilsidesættelser"
   ],
   "1jPMeG": [
-    "Kun du kan se dit checkpoint (medmindre du vælger at dele det). ",
+    "Kun du kan se dit Checkpoint (medmindre du vælger at dele det). ",
     [
       8,
       "learnMoreHook",
@@ -25679,6 +25694,18 @@
   "7nF/S/": [
     "Bare for et syns skyld. Genialt til at give labels og farver til medlemmer."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " fejrer ",
+    [
+      2,
+      "years"
+    ],
+    " år på Discord! Send en gave til dem for at fejre det!"
+  ],
   "7nKAXx": [
     "Færdig"
   ],
@@ -27670,6 +27697,9 @@
   "8YK70c": [
     "Hovsa, noget gik galt…"
   ],
+  "8YMgb/": [
+    "Tillykke med dit Discord-jubilæum!"
+  ],
   "8ZA50K": [
     "Du har brug for både deres brugernavn og et tag. Husk venligst på, at brugernavnet er case-sensitivt."
   ],
@@ -28219,7 +28249,7 @@
     "Serveren har begrænset, hvem der kan se denne profil."
   ],
   "8mqr6Q": [
-    "Du har nået et checkpoint"
+    "Du har nået et Checkpoint"
   ],
   "8msQQO": [
     "Noget galt?"
@@ -31841,6 +31871,9 @@
       ]
     ],
     " widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Navnet på din gruppe"
@@ -38813,6 +38846,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Din ven har været på Discord i endnu et år! Send dem en gave eller en GIF for at fejre det!"
   ],
   "D1YcNp": [
     "Har du brug for en spilserver til at spille med venner? Opret og administrer en på Discord med boosts."
@@ -46877,6 +46913,9 @@
   "GX594D": [
     "Mennesker"
   ],
+  "GX91jv": [
+    "For hurtigt! Vent lidt, og prøv igen."
+  ],
   "GXDPol": [
     "Hvem har spillet flest unikke spil?"
   ],
@@ -49449,7 +49488,7 @@
     "Send venneanmodning"
   ],
   "HWnMTQ": [
-    "Sendte deres kontrolpunkt"
+    "Sendte deres Checkpoint"
   ],
   "HWuskv": [
     "Bandlys bruger"
@@ -56612,6 +56651,22 @@
   ],
   "KXk3AU": [
     "Vælg en valgmulighed nedenfor"
+  ],
+  "KXodvL": [
+    "Betalingskildens faktureringsadresse er ugyldig. Opdater betalingskilden eller faktureringsadressen, og prøv igen. ",
+    [
+      8,
+      "$link",
+      [
+        "Læs mere"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Medieopslags forfatters avatar"
@@ -69192,6 +69247,9 @@
   "PTPbjx": [
     "Kunne ikke kopiere billede"
   ],
+  "PTYULU": [
+    "Ophæv stumhed for App"
+  ],
   "PTebCR": [
     "Planlagt til ",
     [
@@ -72674,6 +72732,9 @@
   "R/1GpG": [
     "Du vil blive tilsluttet på PlayStation."
   ],
+  "R/F7xs": [
+    "Gør app stum"
+  ],
   "R/FK4A": [
     "Forlad aktivitet"
   ],
@@ -73039,6 +73100,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nyt Discord-jubilæum!"
   ],
   "R87Y2K": [
     "Dette vil blive planlagt som ",
@@ -73979,6 +74043,9 @@
   ],
   "RVX1zT": [
     "Filter for grafiske medier"
+  ],
+  "RVYbK6": [
+    "Skjul ikon"
   ],
   "RVfNGU": [
     "Join serveren"
@@ -78739,6 +78806,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Discord-jubilæumsikon"
+  ],
   "TTIocg": [
     "Afventer forbindelse ..."
   ],
@@ -78863,7 +78933,7 @@
     "Discord har ikke adgang til dette foto."
   ],
   "TUHyoA": [
-    "Når du booster en server, låser du op for fordele til alle på den server. Du kan administrere dine boosts her (du kan tilføje, fjerne og annuller. Du skal bare huske, at der er en nødkølingsperiode på syv dage). ",
+    "Når du booster en server, låser du op for fordele til alle på den server. Du kan administrere dine boosts her (du kan tilføje, fjerne og annullere – husk bare, at der er en nødkølingsperiode på syv dage). ",
     [
       8,
       "$link",
@@ -80765,6 +80835,9 @@
   "UB3hKo": [
     "Krav ikke opfyldt"
   ],
+  "UB8tME": [
+    "Vis et ikon ved siden af dit navn frem i dag for at fejre det!"
+  ],
   "UBBwwF": [
     "Omdøb din nøgle"
   ],
@@ -81646,7 +81719,7 @@
     "Køb et gavekort til Discord hos en udvalgt forhandler, og gå derefter ind på discord.com/redeem, og log ind på din Discord-konto. Skrab forsigtigt foliet af på bagsiden af kortet for at vise din kode, eller find koden i din e-mail, hvis det er et digitalt gavekort. Følg vejledningen på skærmen for at overføre din saldoen fra gavekortet til din konto."
   ],
   "UYjWa5": [
-    "Se dit checkpoint igen når som helst indtil 15. januar."
+    "Se dit Checkpoint igen når som helst indtil 15. januar."
   ],
   "UYq7+O": [
     "Ryd tilladelser"
@@ -86240,6 +86313,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Indløs belønning"
+  ],
   "WK9r7F": [
     "Giver medlemmer mulighed for at uploade filer eller medier i denne kanal."
   ],
@@ -89914,6 +89990,9 @@
   "Xjlbvs": [
     "Tilføj venner til DM"
   ],
+  "XkE3ZV": [
+    "Tjek det ud"
+  ],
   "XkIWkk": [
     "Er du sikker?"
   ],
@@ -90658,6 +90737,9 @@
   ],
   "Xz2njA": [
     "Sæt medlem på timeout"
+  ],
+  "Xz3o7I": [
+    "Discord-jubilæum"
   ],
   "XzBNbS": [
     [
@@ -122701,7 +122783,7 @@
     "Sæt medlemmer på timeout"
   ],
   "ir6nEQ": [
-    "Dit checkpoint"
+    "Dit Checkpoint"
   ],
   "irDT8W": [
     "Støj på mikrofonen? Det kan være interferens. Det kan være noget andet …"
@@ -131458,7 +131540,7 @@
     "'?"
   ],
   "mIG7/G": [
-    "Indlæser dit checkpoint"
+    "Indlæser dit Checkpoint"
   ],
   "mIL6Jb": [
     "Følg trinene for at gennemføre oprettelse af forbindelse til konto."
@@ -138607,7 +138689,7 @@
     ]
   ],
   "od48B0": [
-    "Vis dit checkpoint for 2025"
+    "Vis dit Checkpoint for 2025"
   ],
   "odDw+z": [
     "Profilredigeringsværktøjer"
@@ -146063,7 +146145,7 @@
     ]
   ],
   "r8GEbK": [
-    "Åbn checkpoint"
+    "Åbn Checkpoint"
   ],
   "r90Wgo": [
     "Disse servere kunne trænge til et boost"
@@ -147146,6 +147228,13 @@
   ],
   "rYfJop": [
     "Høj (P1)"
+  ],
+  "rZ36t1": [
+    [
+      2,
+      "years"
+    ],
+    " år på Discord! Giv dem Nitro eller en GIF i gave for at fejre det!"
   ],
   "rZEEvU": [
     "Skru op for morskaben med Soundmoji [Beta]"
@@ -154154,6 +154243,13 @@
   "tdDpJj": [
     "Anden feedback"
   ],
+  "tdF5fb": [
+    [
+      2,
+      "years"
+    ],
+    " år – og flere kommer til! Vis et ikon ved siden af dit navn i dag. Du kan ændre det når som helst på din profil."
+  ],
   "tdgcf1": [
     "Du kan administrere visse indstillinger for din teenagers konto, som de ikke selv kan redigere."
   ],
@@ -158533,6 +158629,13 @@
   "v7HbiQ": [
     "Der er ingen venner online på nuværende tidspunkt. Kom tilbage senere!"
   ],
+  "v7QDUk": [
+    [
+      2,
+      "years"
+    ],
+    " år på Discord"
+  ],
   "v7iYnP": [
     "Kommer snart"
   ],
@@ -162887,7 +162990,7 @@
     "Brugerabonnement"
   ],
   "wnuxp5": [
-    "Du har nået et checkpoint!"
+    "Du har nået et Checkpoint!"
   ],
   "wo3D3T": [
     "Få rare rabatter på enhver – eller alle – varer i Shoppen. Kun med Nitro."

@@ -2383,6 +2383,13 @@
   "+v5zsT": [
     "Deaktiviere Animationen mit reduzierter Bewegung in den Zugriffseinstellungen."
   ],
+  "+v889h": [
+    "Noch ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Wenn du einem Sprachkanal beitrittst, landest du in deiner zuletzt genutzten Ansicht, entweder dem Wohnzimmer oder dem Raster, statt immer im Wohnzimmer. Das Wohnzimmer ist ein Beta-Feature."
   ],
@@ -4905,7 +4912,7 @@
     "Probleme beim Drücken von „Alt“ + „Tab“"
   ],
   "/sGXPr": [
-    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben, und ihn danach monatlich abbuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
+    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben, und ihn danach monatlich abbuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
   ],
   "/sHnXc": [
     "Discord-SMS-Code eingeben"
@@ -6083,7 +6090,7 @@
       1,
       "interval"
     ],
-    " belastet, bis du dein Abonnement kündigst. Du kannst jederzeit bis zu 24 Stunden vor Ablauf des aktuellen Zeitraums in den Google Play Store-Einstellungen kündigen."
+    " belastet, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit bis zu 24 Stunden vor Ablauf des aktuellen Zeitraums in den Google Play Store-Einstellungen kündigen."
   ],
   "0HGnUV": [
     "Völkerball"
@@ -8123,7 +8130,7 @@
     "Freunde einladen"
   ],
   "0y5kAG": [
-    "Wenn du dich für Nitro entscheidest, buchen dir über die gewünschte Zahlungsmethode ",
+    "Wenn du dich für Nitro entscheidest, buchen wir über die gewünschte Zahlungsmethode ",
     [
       8,
       "$b",
@@ -8142,7 +8149,7 @@
         ]
       ]
     ],
-    " ab, bis du dein Abonnement kündigst. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
+    " ab, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
   ],
   "0yAqqN": [
     "Benutzer kann nicht zum Post hinzugefügt werden"
@@ -8412,6 +8419,14 @@
   ],
   "15p8on": [
     "Abenteuer"
+  ],
+  "16+Zv5": [
+    "Das Discord-Jubiläum von ",
+    [
+      1,
+      "name"
+    ],
+    "!"
   ],
   "16/3Bi": [
     "Gewaltverherrlichende Medien"
@@ -12291,7 +12306,7 @@
       1,
       "price"
     ],
-    " plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
+    "/Monat plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
     [
       8,
       "$link",
@@ -25751,6 +25766,34 @@
   "7nF/S/": [
     "Das ist nur zum Schönaussehen. Kann verwendet werden, um Mitgliedern Kennzeichnungen oder Farben zu geben."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " feiert ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Jahr"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Jahre"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " auf Discord! Schick ein Geschenk zum Feiern!"
+  ],
   "7nKAXx": [
     "Fertig"
   ],
@@ -27723,6 +27766,9 @@
   ],
   "8YK70c": [
     "Ups, da ist etwas schiefgelaufen …"
+  ],
+  "8YMgb/": [
+    "Alles Gute zum Discord-Jubiläum!"
   ],
   "8ZA50K": [
     "Du brauchst den Benutzernamen und Tag deines Freundes. Achte bei Benutzernamen auf Groß- und Kleinschreibung."
@@ -31220,17 +31266,17 @@
         ]
       ]
     ],
-    " zu. Das Nitro- und das Server-Boost-Abonnement sind sich automatisch wiederholende Abonnements. Du ermächtigst Discord, die angegebene Zahlungsmethode sofort und danach alle ",
+    " zu. Das Nitro- und das Server-Boost-Abonnement sind sich automatisch wiederholende Abonnements. Du ermächtigst Discord, sofort und danach alle ",
     [
       1,
       "intervalCount"
     ],
-    " Monate ",
+    " Monate ",
     [
       1,
       "price"
     ],
-    " zu belasten, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit kündigen."
+    " unter der angegebenen Zahlungsart abzubuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit kündigen."
   ],
   "9xo1g9": [
     "Bei ausgewählten Händlern online und im Einzelhandel verfügbar"
@@ -31849,6 +31895,9 @@
         "aktiviert"
       ]
     ]
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Name für deine Gruppe"
@@ -34075,12 +34124,12 @@
         "“ klickst, setzt du ein sich wiederholendes Abonnement fort."
       ]
     ],
-    " Wir berechnen dir ab heute ",
+    " Dir wird ab heute ",
     [
       1,
       "rate"
     ],
-    " plus anfallende Steuern abzüglich aller anwendbaren Credits oder Rabatte, bis du das Abo kündigst. Du kannst dein Abonnement jederzeit über deine Einstellungen kündigen. ",
+    " plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
     [
       8,
       "$link",
@@ -34094,7 +34143,7 @@
         ]
       ]
     ],
-    " gelten. Noch Fragen? ",
+    ". Irgendwelche Fragen? ",
     [
       8,
       "$link",
@@ -37018,7 +37067,7 @@
         ]
       ]
     ],
-    " ab, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit in den Account-Einstellungen kündigen."
+    " ab, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
   ],
   "C9rUO8": [
     "Autorisiert am ",
@@ -38955,6 +39004,9 @@
       "deviceType"
     ],
     " zu übertragen"
+  ],
+  "D1CSNP": [
+    "Jemand aus deinem Freundeskreis hat ein weiteres Jahr auf Discord geschafft! Schick der Person ein Geschenk oder GIF zum Feiern!"
   ],
   "D1YcNp": [
     "Du brauchst einen Spielserver, um mit Freunden zu spielen? Erstelle und verwalte einen auf Discord mit Boosts."
@@ -44393,7 +44445,7 @@
     "Nitro Classic"
   ],
   "FSPTDI": [
-    "Durch Klicken auf „Abonnieren“ stimmst du den ",
+    "Wenn du auf „Abonnieren“ klickst, stimmst du den ",
     [
       8,
       "$link",
@@ -44407,7 +44459,7 @@
         ]
       ]
     ],
-    " und ",
+    " und den ",
     [
       8,
       "$link",
@@ -44421,7 +44473,7 @@
         ]
       ]
     ],
-    " zu. Dies ist ein sich wiederholendes Abonnement, was bedeutet, dass wir heute dein Konto belasten und danach jeden Monat abbuchen, bis du dein Abonnement kündigst."
+    " zu. Dies ist ein sich wiederholendes Abonnement, was bedeutet, dass wir heute dein Konto belasten und danach jeden Monat abbuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden."
   ],
   "FSZVIR": [
     "Tag ",
@@ -45124,12 +45176,12 @@
     "Lokaler Koop"
   ],
   "Fqjihk": [
-    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben und ihn danach alle ",
+    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben, und ihn danach alle ",
     [
       1,
       "intervalCount"
     ],
-    " Monate abbuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
+    " Monate abbuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
   ],
   "Fqqbhg": [
     "Dieser Link führt zu einem Benutzer, auf den du keinen Zugriff hast."
@@ -47019,6 +47071,9 @@
   ],
   "GX594D": [
     "Personen"
+  ],
+  "GX91jv": [
+    "Zu schnell! Bitte warte ein wenig und versuch’s dann nochmal."
   ],
   "GXDPol": [
     "Wer hat die meisten unterschiedlichen Spiele gespielt?"
@@ -51422,7 +51477,7 @@
     "Nie animieren"
   ],
   "IGzFc5": [
-    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben, und ihn danach jährlich abbuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
+    "Hey! Du bist gerade dabei, ein sich automatisch wiederholendes Abonnement abzuschließen. Das bedeutet, dass wir heute den Abopreis erheben, und ihn danach jährlich abbuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement allerdings jederzeit in deinen Account-Einstellungen kündigen."
   ],
   "IH7RMF": [
     "Du musst seit mindestens ",
@@ -56784,6 +56839,22 @@
   "KXk3AU": [
     "Wähle unten eine Option aus"
   ],
+  "KXodvL": [
+    "Die Rechnungsadresse für diese Zahlungsmethode ist ungültig. Bitte aktualisiere deine Zahlungsmethode oder Rechnungsadresse und versuche es erneut. ",
+    [
+      8,
+      "$link",
+      [
+        "Mehr erfahren"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Avatar des Medienpost-Verfassers"
   ],
@@ -60241,12 +60312,12 @@
       8,
       "$b",
       [
-        "Indem du auf „",
+        "Durch Klicken auf „",
         [
           1,
           "primaryText"
         ],
-        "“ klickst, erwirbst du ein sich wiederholendes Abonnement."
+        "“ erwirbst du ein sich wiederholendes Abonnement."
       ]
     ],
     " Wir berechnen dir ab dem oben angegebenen Datum ",
@@ -60254,7 +60325,7 @@
       1,
       "rate"
     ],
-    " plus anfallende Steuern abzüglich aller anwendbaren Credits oder Rabatte, bis du das Abo kündigst. Du kannst dein Abonnement jederzeit über deine Einstellungen kündigen. ",
+    " plus anfallende Steuern abzüglich aller anwendbaren Credits oder Rabatte, bis du das Abo kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
     [
       8,
       "$link",
@@ -60268,7 +60339,7 @@
         ]
       ]
     ],
-    " gelten. Noch Fragen? ",
+    ". Irgendwelche Fragen? ",
     [
       8,
       "$link",
@@ -65866,7 +65937,7 @@
         ]
       ]
     ],
-    " ab, bis du dein Abonnement kündigst. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
+    " ab, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
   ],
   "O7ouXO": [
     "Server erstellen oder betreten"
@@ -69497,6 +69568,9 @@
   "PTPbjx": [
     "Bild kann nicht kopiert werden"
   ],
+  "PTYULU": [
+    "Stummschaltung der App aufheben"
+  ],
   "PTebCR": [
     "Für ",
     [
@@ -72951,6 +73025,9 @@
   "R/1GpG": [
     "Du wirst auf PlayStation verbunden."
   ],
+  "R/F7xs": [
+    "App stummschalten"
+  ],
   "R/FK4A": [
     "Aktivität beenden"
   ],
@@ -73314,6 +73391,9 @@
       ]
     ],
     " anzeigen."
+  ],
+  "R852HS": [
+    "Neu: Discord-Jubiläum!"
   ],
   "R87Y2K": [
     "Wird als ",
@@ -74255,6 +74335,9 @@
   ],
   "RVX1zT": [
     "Filter für gewaltverherrlichende Medien"
+  ],
+  "RVYbK6": [
+    "Icon ausblenden"
   ],
   "RVfNGU": [
     "Server beitreten"
@@ -78996,6 +79079,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Discord-Jubiläums-Icon"
+  ],
   "TTIocg": [
     "Wird verbunden …"
   ],
@@ -79968,7 +80054,7 @@
         ]
       ]
     ],
-    " ab, bis du dein Abonnement kündigst. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
+    " ab, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
   ],
   "Tn7Koo": [
     "Monetarisierung aktivieren"
@@ -80990,6 +81076,9 @@
   ],
   "UB3hKo": [
     "Voraussetzungen nicht erfüllt"
+  ],
+  "UB8tME": [
+    "Zeig zur Feier des Tages stolz ein Icon neben deinem Namen!"
   ],
   "UBBwwF": [
     "Benenne deinen Schlüssel um"
@@ -85999,7 +86088,7 @@
       1,
       "interval"
     ],
-    " belastet, bis du dein Abonnement kündigst. Du kannst jederzeit bis zu 24 Stunden vor Ablauf des aktuellen Zeitraums in den App Store-Einstellungen kündigen."
+    " belastet, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit bis zu 24 Stunden vor Ablauf des aktuellen Zeitraums in den App Store-Einstellungen kündigen."
   ],
   "W7e/z1": [
     [
@@ -86535,6 +86624,9 @@
   ],
   "WK19hs": [
     "WK19hs"
+  ],
+  "WK589K": [
+    "Belohnung beanspruchen"
   ],
   "WK9r7F": [
     "Erlaubt Mitgliedern, Dateien oder Medien in diesem Kanal hochzuladen."
@@ -90226,6 +90318,9 @@
   "Xjlbvs": [
     "Freunde zu Direktnachricht hinzufügen"
   ],
+  "XkE3ZV": [
+    "Mehr erfahren"
+  ],
   "XkIWkk": [
     "Sicher?"
   ],
@@ -90966,6 +91061,9 @@
   ],
   "Xz2njA": [
     "Mitglied in Timeout schicken"
+  ],
+  "Xz3o7I": [
+    "Discord-Jubiläum"
   ],
   "XzBNbS": [
     [
@@ -98541,20 +98639,20 @@
       8,
       "$b",
       [
-        "Indem du auf „",
+        "Durch Klicken auf „",
         [
           1,
           "primaryText"
         ],
-        "“ klickst, erwirbst du ein sich wiederholendes Abonnement."
+        "“ erwirbst du ein sich wiederholendes Abonnement."
       ]
     ],
-    " Wir berechnen dir ab heute ",
+    " Dir wird ab heute ",
     [
       1,
       "rate"
     ],
-    " plus anfallende Steuern abzüglich aller anwendbaren Credits oder Rabatte, bis du das Abo kündigst. Du kannst dein Abonnement jederzeit über deine Einstellungen kündigen. ",
+    " plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
     [
       8,
       "$link",
@@ -98568,7 +98666,7 @@
         ]
       ]
     ],
-    " gelten. Noch Fragen? ",
+    ". Irgendwelche Fragen? ",
     [
       8,
       "$link",
@@ -121131,7 +121229,7 @@
       1,
       "billingPeriod"
     ],
-    " bis zur Kündigung. Du kannst dein Abonnement jederzeit über deine Einstellungen kündigen. ",
+    " bis zur Kündigung. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit über deine Einstellungen kündigen. ",
     [
       8,
       "$link",
@@ -125047,7 +125145,7 @@
       1,
       "price"
     ],
-    " unter der angegebenen Zahlungsart abzubuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit kündigen."
+    " unter der angegebenen Zahlungsart abzubuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit kündigen."
   ],
   "jQ1plj": [
     "Text (begrenzt)"
@@ -132177,7 +132275,7 @@
       1,
       "price"
     ],
-    " unter der angegebenen Zahlungsart abzubuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit kündigen."
+    " unter der angegebenen Zahlungsart abzubuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit kündigen."
   ],
   "m2GEpP": [
     "Halte deine besten Gaming-Momente fest und teile sie mit anderen, alles an einem Ort."
@@ -138850,7 +138948,7 @@
       1,
       "intervalCount"
     ],
-    " Monate abbuchen, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit unter Benutzereinstellungen > Abonnements kündigen, und vorherige Gebühren werden nicht erstattet, außer das Gesetz sieht dies vor. Dieser Kauf wird vom Entwickler dieser Aktivität angeboten und kann nur in dieser Aktivität verwendet werden."
+    " Monate abbuchen, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement jederzeit unter Benutzereinstellungen > Abonnements kündigen, und vorherige Gebühren werden nicht erstattet, außer das Gesetz sieht dies vor. Dieser Kauf wird vom Entwickler dieser Aktivität angeboten und kann nur in dieser Aktivität verwendet werden."
   ],
   "o96qbc": [
     "Deinen Spielserver erneut abonnieren"
@@ -148695,6 +148793,29 @@
   "rYfJop": [
     "Hoch (P1)"
   ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Jahr"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Jahre"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " auf Discord! Schenk der Person Nitro oder ein GIF zum Feiern!"
+  ],
   "rZEEvU": [
     "Dreh mit Soundmojis den Spaß auf [Beta]"
   ],
@@ -148980,7 +149101,7 @@
         ]
       ]
     ],
-    " ab, bis du dein Abonnement kündigst. Du kannst dein Abonnement jederzeit in den Account-Einstellungen kündigen."
+    " ab, bis du dein Abonnement kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abonnement in den Account-Einstellungen jederzeit kündigen."
   ],
   "rc6+/s": [
     "Home-Tab"
@@ -156090,6 +156211,29 @@
   "tdDpJj": [
     "Sonstiges Feedback"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Jahr"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Jahre"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " und es geht weiter! Trag für einen Tag ein Icon neben deinem Namen. Du kannst es jederzeit in deinem Profil ändern."
+  ],
   "tdgcf1": [
     "Sie können bestimmte Einstellungen für den Account Ihres Jugendlichen verwalten, die er nicht selbst bearbeiten kann."
   ],
@@ -160570,6 +160714,29 @@
   ],
   "v7HbiQ": [
     "Momentan sind keine Freunde online. Schau später wieder vorbei!"
+  ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Jahr"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Jahre"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " auf Discord"
   ],
   "v7iYnP": [
     "Bald verfügbar"
@@ -168699,7 +168866,7 @@
       1,
       "price"
     ],
-    "/Monat plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
+    "/Monat plus anfallender Steuern abzüglich aller anwendbaren Credits oder Rabatte berechnet, bis du das Abo kündigst. Preise können mit vorheriger Ankündigung geändert werden. Du kannst dein Abo jederzeit in deinen Einstellungen kündigen. Es gelten die ",
     [
       8,
       "$link",

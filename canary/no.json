@@ -2351,6 +2351,13 @@
   "+v5zsT": [
     "Velg redusert bevegelse i tilgjengelighetsinnstillingene for å slå av animasjon."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " IGJEN"
+  ],
   "+vMoL1": [
     "Når du blir med i en talekanal, brukes visningen du benyttet sist: enten stua eller rutenettet – ikke automatisk stua. Stua er betainnhold."
   ],
@@ -2512,10 +2519,10 @@
       8,
       "$b",
       [
-        "Ved å klikke på «Abonner» tegner du et løpende abonnement"
+        "Ved å klikke på «Abonner» tegner du et løpende abonnement."
       ]
     ],
-    ". Du belastes månedlig fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret uten varsel. Du kan si opp når som helst fra innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
+    " Du belastes månedlig fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
     [
       8,
       "$link",
@@ -2537,12 +2544,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " eller se ",
+    " eller gå til ",
     [
       8,
       "$link",
       [
-        "vanlige spørsmål om abonnementer"
+        "listen over vanlige abonnementsrelaterte spørsmål"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -4855,7 +4862,7 @@
     "Alt+Tab-problemer"
   ],
   "/sGXPr": [
-    "Hei! Det du kjøper, er et løpende abonnement. Det betyr at vi belaster deg i dag og fortsetter å belaste deg månedlig inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
+    "Hei! Det du kjøper, er et løpende abonnement. Det betyr at vi belaster deg i dag og fortsetter å belaste deg månedlig inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "/sHnXc": [
     "Angi SMS-koden for Discord"
@@ -5992,7 +5999,7 @@
       1,
       "interval"
     ],
-    " frem til du sier opp. Prisene kan bli endret uten varsel. For å avslutte abonnementet etter den inneværende perioden må du gå til Google Play Butikk-innstillingene og si opp senest 24 timer før perioden er over."
+    " frem til du sier opp. Prisene kan bli endret med varsel til deg. For å avslutte abonnementet etter den inneværende perioden må du gå til Google Play Butikk-innstillingene og si opp senest 24 timer før perioden er over."
   ],
   "0HGnUV": [
     "Kanonball"
@@ -8036,7 +8043,7 @@
         "årlig"
       ]
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan gå til Innstillinger og si opp abonnementet når du vil."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "0yAqqN": [
     "Kan ikke legge til bruker i innlegg"
@@ -8287,6 +8294,14 @@
   ],
   "15p8on": [
     "Adventure"
+  ],
+  "16+Zv5": [
+    "Discord-jubileum for ",
+    [
+      1,
+      "name"
+    ],
+    "!"
   ],
   "16/3Bi": [
     "Grafisk medieinnhold"
@@ -11559,10 +11574,10 @@
       8,
       "$b",
       [
-        "Ved å klikke på «Abonner» tegner du et løpende abonnement"
+        "Ved å klikke på «Abonner» tegner du et løpende abonnement."
       ]
     ],
-    ". Du belastes ",
+    " Du belastes ",
     [
       8,
       "$b",
@@ -11573,7 +11588,7 @@
         ]
       ]
     ],
-    ", pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret uten varsel. Du kan si opp når som helst fra innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
+    ", pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
     [
       8,
       "$link",
@@ -11595,12 +11610,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " eller se ",
+    " eller gå til ",
     [
       8,
       "$link",
       [
-        "vanlige spørsmål om abonnementer"
+        "listen over vanlige abonnementsrelaterte spørsmål"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -12164,7 +12179,7 @@
       1,
       "price"
     ],
-    " per måned pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst på innstillingssiden. ",
+    " per måned pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. ",
     [
       8,
       "$link",
@@ -25523,6 +25538,23 @@
   "7nF/S/": [
     "Bare for utseende. Supert for å gi medlemmer etiketter eller farger."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " feirer ",
+    [
+      2,
+      "years"
+    ],
+    " år på Discord! Send ",
+    [
+      1,
+      "name"
+    ],
+    " en gave for å feire!"
+  ],
   "7nKAXx": [
     "Ferdig"
   ],
@@ -27508,6 +27540,9 @@
   ],
   "8YK70c": [
     "Oops, noe gikk galt …"
+  ],
+  "8YMgb/": [
+    "Gratulerer med Discord-jubileet!"
   ],
   "8ZA50K": [
     "Du trenger både vedkommendes brukernavn og tagg. Husk at det skilles mellom små og store bokstaver i brukernavnet."
@@ -31030,7 +31065,7 @@
       1,
       "intervalCount"
     ],
-    ". måned, frem til du avslutter. Prisene kan bli endret uten varsel. Du kan avslutte når som helst."
+    ". måned, frem til du avslutter. Prisene kan bli endret med varsel til deg. Du kan avslutte når som helst."
   ],
   "9xo1g9": [
     "Kan kjøpes hos utvalgte forhandlere på nett og i butikk"
@@ -31646,6 +31681,9 @@
       ]
     ],
     " kontrollprogrammet"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Navn på gruppen din"
@@ -33827,7 +33865,7 @@
       1,
       "rate"
     ],
-    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst på innstillingssiden. ",
+    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. ",
     [
       8,
       "$link",
@@ -36670,7 +36708,7 @@
         "månedlig"
       ]
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan gå til Innstillinger og si opp abonnementet når du vil."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "C9rUO8": [
     "Autorisert ",
@@ -38591,6 +38629,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Vennen din har vært på Discord i enda et år! Send en gave eller en GIF til vennen din for å feire!"
   ],
   "D1YcNp": [
     "Trenger du en spillserver for å spille med venner? Bruk boostere for å opprette og administrere en på Discord."
@@ -43991,7 +44032,7 @@
         ]
       ]
     ],
-    ". Dette er et løpende abonnement, og vi belaster kontoen din i dag og hver måned inntil du sier opp abonnementet. Prisene kan bli endret uten varsel."
+    ". Dette er et løpende abonnement, og vi belaster kontoen din i dag og hver måned inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg."
   ],
   "FSZVIR": [
     "Legg til tagg, ",
@@ -44697,7 +44738,7 @@
       1,
       "intervalCount"
     ],
-    ". måned inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
+    ". måned inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "Fqqbhg": [
     "Dette er en lenke til en bruker du ikke har tilgang til."
@@ -46582,6 +46623,9 @@
   ],
   "GX594D": [
     "Mennesker"
+  ],
+  "GX91jv": [
+    "For fort! Vent litt og prøv igjen."
   ],
   "GXDPol": [
     "Hvem har spilt flest ulike spill?"
@@ -50966,7 +51010,7 @@
     "Aldri animasjon"
   ],
   "IGzFc5": [
-    "Hei! Det du kjøper, er et løpende abonnement. Det betyr at vi belaster deg i dag og fortsetter å belaste deg årlig inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
+    "Hei! Det du kjøper, er et løpende abonnement. Det betyr at vi belaster deg i dag og fortsetter å belaste deg årlig inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan imidlertid gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "IH7RMF": [
     "Du må ha vært medlem i minst ",
@@ -56250,6 +56294,22 @@
   "KXk3AU": [
     "Velg et alternativ under"
   ],
+  "KXodvL": [
+    "Faktureringsadressen knyttet til betalingskilden er ugyldig. Oppdater betalingskilden eller faktureringsadressen, og prøv på nytt. ",
+    [
+      8,
+      "$link",
+      [
+        "Finn ut mer"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Forfatteravatar til medieinnlegg"
   ],
@@ -59633,7 +59693,7 @@
       1,
       "rate"
     ],
-    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst på innstillingssiden. ",
+    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. ",
     [
       8,
       "$link",
@@ -65146,7 +65206,7 @@
         "årlig"
       ]
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan gå til Innstillinger og si opp abonnementet når du vil."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "O7ouXO": [
     "Opprett eller bli med i en server"
@@ -68753,6 +68813,9 @@
   "PTPbjx": [
     "Bildet kan ikke kopieres"
   ],
+  "PTYULU": [
+    "Opphev demping av app"
+  ],
   "PTebCR": [
     "Planlagt til ",
     [
@@ -72200,6 +72263,9 @@
   "R/1GpG": [
     "Du blir med på PlayStation."
   ],
+  "R/F7xs": [
+    "Demp app"
+  ],
   "R/FK4A": [
     "Forlat aktivitet"
   ],
@@ -72565,6 +72631,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nytt Discord-jubileum!"
   ],
   "R87Y2K": [
     "Dette blir lagt inn fra ",
@@ -73506,6 +73575,9 @@
   ],
   "RVX1zT": [
     "Filter for grafisk medieinnhold"
+  ],
+  "RVYbK6": [
+    "Skjul ikonet"
   ],
   "RVfNGU": [
     "Bli med i server"
@@ -78248,6 +78320,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Discord-jubileumsikon"
+  ],
   "TTIocg": [
     "Venter på forbindelse …"
   ],
@@ -79215,7 +79290,7 @@
         ". måned"
       ]
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan gå til Innstillinger og si opp abonnementet når du vil."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "Tn7Koo": [
     "Aktiver inntektsgenerering"
@@ -80253,6 +80328,9 @@
   "UB3hKo": [
     "Krav ikke innfridd"
   ],
+  "UB8tME": [
+    "Vis fram et ikon ved siden av navnet ditt for å feire dagen!"
+  ],
   "UBBwwF": [
     "Gi nøkkelen et nytt navn"
   ],
@@ -81121,7 +81199,7 @@
     "Ikke bytt"
   ],
   "UYcJ48": [
-    "Check Point"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Kjøp et Discord-gavekort hos en deltakende forhandler, gå til discord.com/redeem og logg på Discord-kontoen din. Skrap forsiktig av folien bakpå kortet for å se koden. For digitale gavekort finner du koden i e-posten. Følg instruksjonene på skjermen, så settes saldoen på gavekortet inn på kontoen din."
@@ -85106,7 +85184,7 @@
       1,
       "interval"
     ],
-    " frem til du sier opp. Prisene kan bli endret uten varsel. For å avslutte abonnementet etter den inneværende perioden må du gå til App Store-innstillingene og si opp senest 24 timer før perioden er over."
+    " frem til du sier opp. Prisene kan bli endret med varsel til deg. For å avslutte abonnementet etter den inneværende perioden må du gå til App Store-innstillingene og si opp senest 24 timer før perioden er over."
   ],
   "W7e/z1": [
     [
@@ -85622,6 +85700,9 @@
   ],
   "WK19hs": [
     "WK19hs"
+  ],
+  "WK589K": [
+    "Hent premie"
   ],
   "WK9r7F": [
     "Lar medlemmer laste opp filer eller medieinnhold i denne kanalen."
@@ -89224,6 +89305,9 @@
   "Xjlbvs": [
     "Legg til venner til DM"
   ],
+  "XkE3ZV": [
+    "Ta en titt"
+  ],
   "XkIWkk": [
     "Er du sikker?"
   ],
@@ -89969,6 +90053,9 @@
   ],
   "Xz2njA": [
     "Gi medlem timeout"
+  ],
+  "Xz3o7I": [
+    "Discord-jubileum"
   ],
   "XzBNbS": [
     [
@@ -97463,7 +97550,7 @@
       1,
       "rate"
     ],
-    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst på innstillingssiden. ",
+    " pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. ",
     [
       8,
       "$link",
@@ -115990,7 +116077,7 @@
     "svømming"
   ],
   "goiR2u": [
-    "Kontrollpunkt 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "golf",
@@ -119211,7 +119298,7 @@
       1,
       "billingPeriod"
     ],
-    " etter det frem til du sier opp. Prisene kan bli endret uten varsel. Du kan når som helst si opp på innstillingssiden. ",
+    " etter det frem til du sier opp. Prisene kan bli endret med varsel til deg. Du kan når som helst si opp på innstillingssiden. ",
     [
       8,
       "$link",
@@ -123138,7 +123225,7 @@
       1,
       "price"
     ],
-    ", og til å fortsette å gjøre det automatisk hvert år, frem til du avslutter. Prisene kan bli endret uten varsel. Du kan avslutte når som helst."
+    ", og til å fortsette å gjøre det automatisk hvert år, frem til du avslutter. Prisene kan bli endret med varsel til deg. Du kan avslutte når som helst."
   ],
   "jQ1plj": [
     "Tekst (begrenset)"
@@ -130029,7 +130116,7 @@
       1,
       "price"
     ],
-    ", og til å fortsette å gjøre det automatisk hver måned, frem til du avslutter. Prisene kan bli endret uten varsel. Du kan avslutte når som helst."
+    ", og til å fortsette å gjøre det automatisk hver måned, frem til du avslutter. Prisene kan bli endret med varsel til deg. Du kan avslutte når som helst."
   ],
   "m2GEpP": [
     "Spill inn og del de beste spilløyeblikkene – alt på ett sted."
@@ -136569,7 +136656,7 @@
       1,
       "intervalCount"
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst under Brukerinnstillinger > Abonnementer. Tidligere belastninger refunderes ikke med mindre det er pålagt i henhold til lov. Dette kjøpet tilbys av en utvikler av denne aktiviteten og kan kun åpnes og brukes når du er i denne aktiviteten."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst under Brukerinnstillinger > Abonnementer. Tidligere belastninger refunderes ikke med mindre det er pålagt i henhold til lov. Dette kjøpet tilbys av en utvikler av denne aktiviteten og kan kun åpnes og brukes når du er i denne aktiviteten."
   ],
   "o96qbc": [
     "Abonner på spillserveren din på nett"
@@ -136699,15 +136786,15 @@
       8,
       "$b",
       [
-        "Ved å klikke på «Abonner» tegner du et løpende abonnement"
+        "Ved å klikke på «Abonner» tegner du et løpende abonnement."
       ]
     ],
-    ". Du belastes hver ",
+    " Du belastes hver ",
     [
       1,
       "intervalCount"
     ],
-    ". måned fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret uten varsel. Du kan si opp når som helst fra innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
+    ". måned fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
     [
       8,
       "$link",
@@ -136729,12 +136816,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " eller se ",
+    " eller gå til ",
     [
       8,
       "$link",
       [
-        "vanlige spørsmål om abonnementer"
+        "listen over vanlige abonnementsrelaterte spørsmål"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"
@@ -146142,6 +146229,13 @@
   "rYfJop": [
     "Høy (P1)"
   ],
+  "rZ36t1": [
+    [
+      2,
+      "years"
+    ],
+    " år på Discord! Gi dem Nitro eller en GIF i gave for å feire!"
+  ],
   "rZEEvU": [
     "Ta moroa til neste nivå med soundmojier i [beta]"
   ],
@@ -146404,7 +146498,7 @@
         "månedlig"
       ]
     ],
-    " inntil du sier opp abonnementet. Prisene kan bli endret uten varsel. Du kan gå til Innstillinger og si opp abonnementet når du vil."
+    " inntil du sier opp abonnementet. Prisene kan bli endret med varsel til deg. Du kan gå til Innstillinger og si opp abonnementet når du vil."
   ],
   "rc6+/s": [
     "Hjem-fane"
@@ -153161,6 +153255,13 @@
   "tdDpJj": [
     "Andre tilbakemeldinger"
   ],
+  "tdF5fb": [
+    [
+      2,
+      "years"
+    ],
+    " år – og det blir flere! Vis et ikon ved siden av navnet ditt i dag. Du kan endre dette når som helst i profilen din."
+  ],
   "tdgcf1": [
     "Du kan styre enkelte innstillinger på tenåringens konto, og tenåringen kan da ikke endre disse på egen hånd."
   ],
@@ -157523,6 +157624,13 @@
   ],
   "v7HbiQ": [
     "Ingen av vennene dine er pålogget. Sjekk igjen senere!"
+  ],
+  "v7QDUk": [
+    [
+      2,
+      "years"
+    ],
+    " år på Discord"
   ],
   "v7iYnP": [
     "Kommer snart"
@@ -165552,7 +165660,7 @@
       1,
       "price"
     ],
-    " per måned pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret uten varsel. Du kan si opp abonnementet når som helst på innstillingssiden. ",
+    " per måned pluss skatter og avgifter (ikke medregnet eventuelle rabatter eller kreditter) frem til du avslutter abonnementet. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. ",
     [
       8,
       "$link",
@@ -166343,10 +166451,10 @@
       8,
       "$b",
       [
-        "Ved å klikke på «Abonner» tegner du et løpende abonnement"
+        "Ved å klikke på «Abonner» tegner du et løpende abonnement."
       ]
     ],
-    ". Du belastes årlig fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret uten varsel. Du kan si opp når som helst fra innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
+    " Du belastes årlig fra i dag, pluss gjeldende skatter og avgifter og minus eventuelle kreditter eller rabatter, frem til du sier opp. Prisene kan bli endret med varsel til deg. Du kan si opp abonnementet når som helst på innstillingssiden. Dette kjøpet tilbys av utvikleren av denne appen, og det kan kun brukes med denne appen. ",
     [
       8,
       "$link",
@@ -166368,12 +166476,12 @@
         "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000118612"
       ]
     ],
-    " eller se ",
+    " eller gå til ",
     [
       8,
       "$link",
       [
-        "vanlige spørsmål om abonnementer"
+        "listen over vanlige abonnementsrelaterte spørsmål"
       ],
       [
         "https://support.discord.com/hc/en-us/articles/360017693772-Managing-Subscriptions-and-Billing-FAQ"

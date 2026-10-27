@@ -2378,6 +2378,13 @@
   "+v5zsT": [
     "Désactive les animations grâce au paramètre de mouvement réduit dans les paramètres d’accessibilité."
   ],
+  "+v889h": [
+    "Temps restant : ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Lorsque tu rejoins un salon vocal, tu retrouves ton dernier affichage, qu'il s'agisse de la Salle commune ou de la Grille, au lieu de toujours arriver dans la Salle commune. La Salle commune est une fonctionnalité bêta."
   ],
@@ -8361,6 +8368,14 @@
   ],
   "15p8on": [
     "Aventure"
+  ],
+  "16+Zv5": [
+    "C’est l’anniversaire de ",
+    [
+      1,
+      "name"
+    ],
+    " sur Discord !"
   ],
   "16/3Bi": [
     "Contenu média violent"
@@ -25745,6 +25760,32 @@
   "7nF/S/": [
     "Pour le style. Idéal pour attribuer une étiquette ou une couleur aux membres."
   ],
+  "7nFo+/": [
+    "Ça fait ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          "un an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ans"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " que ",
+    [
+      1,
+      "name"
+    ],
+    " est sur Discord, ça se fête ! Envoie-lui un cadeau pour célébrer ça !"
+  ],
   "7nKAXx": [
     "Terminé"
   ],
@@ -27741,6 +27782,9 @@
   ],
   "8YK70c": [
     "Oups, une erreur s'est produite..."
+  ],
+  "8YMgb/": [
+    "Joyeux anniversaire sur Discord !"
   ],
   "8ZA50K": [
     "Il te faudra son nom d'utilisateur ainsi qu'un tag. Attention, le nom d'utilisateur est sensible à la casse."
@@ -31894,6 +31938,9 @@
       ]
     ],
     " le widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Nom pour ton groupe"
@@ -38984,6 +39031,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Une personne de ton cercle d’amis a passé une année de plus sur Discord ! Envoie-lui un cadeau ou un GIF pour fêter ça !"
   ],
   "D1YcNp": [
     "Besoin d'un serveur de jeu pour jouer avec des ami(e)s ? Crée et gères-en un sur Discord avec des boosts."
@@ -47025,6 +47075,9 @@
   ],
   "GX594D": [
     "Personnes"
+  ],
+  "GX91jv": [
+    "Tu vas trop vite ! Attends quelques instants et réessaie."
   ],
   "GXDPol": [
     "Qui a joué au plus grand nombre de jeux différents ?"
@@ -56801,6 +56854,22 @@
   ],
   "KXk3AU": [
     "Choisis une option ci-dessous"
+  ],
+  "KXodvL": [
+    "L’adresse de facturation associée à ta source de paiement est invalide. Mets à jour ta source de paiement ou ton adresse de facturation, puis réessaie. ",
+    [
+      8,
+      "$link",
+      [
+        "En savoir plus"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Avatar de l'auteur du post média"
@@ -69420,6 +69489,9 @@
   "PTPbjx": [
     "Impossible de copier l'image"
   ],
+  "PTYULU": [
+    "Activer les notifications de l'application"
+  ],
   "PTebCR": [
     "Prévu pour ",
     [
@@ -72872,6 +72944,9 @@
   "R/1GpG": [
     "Tu te connecteras sur PlayStation."
   ],
+  "R/F7xs": [
+    "Désactiver les notifications de l'application"
+  ],
   "R/FK4A": [
     "Quitter l'activité"
   ],
@@ -73237,6 +73312,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nouvel anniversaire sur Discord !"
   ],
   "R87Y2K": [
     "Ce sera prévu de ",
@@ -74156,6 +74234,9 @@
   ],
   "RVX1zT": [
     "Filtre de contenu média violent"
+  ],
+  "RVYbK6": [
+    "Masquer l’icône"
   ],
   "RVfNGU": [
     "Rejoindre le serveur"
@@ -78915,6 +78996,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Icône d’anniversaire Discord"
+  ],
   "TTIocg": [
     "En attente de connexion..."
   ],
@@ -80936,6 +81020,9 @@
   "UB3hKo": [
     "Conditions non remplies"
   ],
+  "UB8tME": [
+    "Affiche fièrement une icône à côté de ton nom pour la journée !"
+  ],
   "UBBwwF": [
     "Renomme ta clé"
   ],
@@ -81821,7 +81908,7 @@
     "Ne pas changer"
   ],
   "UYcJ48": [
-    "Check Point"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Achète une carte-cadeau Discord chez une enseigne participante, puis rends-toi sur discord.com/redeem et connecte-toi à ton compte Discord. Gratte doucement la pellicule argentée au dos de la carte pour révéler ton code, ou retrouve le code dans ton e-mail pour les cartes-cadeaux numériques. Suis les indications à l'écran et le solde de ta carte passera de la carte au solde de ton compte."
@@ -86446,6 +86533,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Récupérer la récompense"
+  ],
   "WK9r7F": [
     "Permet aux membres d'envoyer des fichiers ou médias dans ce salon."
   ],
@@ -90098,6 +90188,9 @@
   "Xjlbvs": [
     "Ajouter des amis au groupe privé"
   ],
+  "XkE3ZV": [
+    "En profiter"
+  ],
   "XkIWkk": [
     "Vraiment ?"
   ],
@@ -90838,6 +90931,9 @@
   ],
   "Xz2njA": [
     "Exclure temporairement un membre"
+  ],
+  "Xz3o7I": [
+    "Anniversaire sur Discord"
   ],
   "XzBNbS": [
     [
@@ -140122,7 +140218,7 @@
     ]
   ],
   "od48B0": [
-    "Affiche ton checkpoint 2025"
+    "Affiche ton Checkpoint 2025"
   ],
   "odDw+z": [
     "Commandes de modification de profil"
@@ -148880,6 +148976,29 @@
   "rYfJop": [
     "Élevée (P1)"
   ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ans"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " sur Discord ! Envoie-lui Nitro ou un GIF pour fêter ça !"
+  ],
   "rZEEvU": [
     "Amuse-toi bien avec Soundmoji [bêta]"
   ],
@@ -156344,6 +156463,29 @@
   "tdDpJj": [
     "Autres commentaires"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ans"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " et ce n’est pas fini ! Affiche une icône à côté de ton nom pour la journée. Tu peux modifier ce choix à tout moment depuis ton profil."
+  ],
   "tdgcf1": [
     "Vous pouvez gérer certains paramètres pour le compte de votre ado qu'il ou elle ne peut pas modifier par lui-même ou elle-même."
   ],
@@ -160855,6 +160997,29 @@
   ],
   "v7HbiQ": [
     "Il n'y a aucun ami en ligne pour le moment. Reviens plus tard !"
+  ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ans"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " sur Discord"
   ],
   "v7iYnP": [
     "À venir"

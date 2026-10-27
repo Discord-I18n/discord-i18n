@@ -2121,6 +2121,13 @@
   "+v5zsT": [
     "Erişilebilirlik Ayarları'ndan Azaltılmış Hareketlilik ile animasyonları kapat."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " KALDI"
+  ],
   "+vMoL1": [
     "Bir ses kanalına katıldığında her zaman Oturma Odası yerine son görüntülene, yani Oturma Odası veya Izgaraya gideceksin. Oturma Odası bir beta özelliğidir."
   ],
@@ -7485,6 +7492,13 @@
   ],
   "15p8on": [
     "Macera"
+  ],
+  "16+Zv5": [
+    [
+      1,
+      "name"
+    ],
+    " için Discord yıl dönümü!"
   ],
   "16/3Bi": [
     "Rahatsız Edici Medya"
@@ -23336,6 +23350,18 @@
   "7nF/S/": [
     "Yalnızca görünüş için. Üyelere etiket veya renk vermek için harika."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " Discord'da ",
+    [
+      2,
+      "years"
+    ],
+    " yılını kutluyor! Kutlamak için ona bir hediye gönder!"
+  ],
   "7nKAXx": [
     "Bitti"
   ],
@@ -25162,6 +25188,9 @@
   ],
   "8YK70c": [
     "Tüh, bir şey yanlış gitti..."
+  ],
+  "8YMgb/": [
+    "Discord yıl dönümün kutlu olsun!"
   ],
   "8ZA50K": [
     "Hem kullanıcı adına hem de etiketine ihtiyacın olacak. Kullanıcı adının büyük-küçük harflere duyarlı olduğunu da unutma."
@@ -29013,6 +29042,9 @@
         "etkinleştirildi"
       ]
     ]
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Grubunun adı"
@@ -35402,6 +35434,9 @@
     ],
     " hesabını yeniden bağla"
   ],
+  "D1CSNP": [
+    "Arkadaşın Discord'da bir yılı daha geride bıraktı! Kutlamasına yardımcı olmak için ona bir hediye ya da GIF gönder!"
+  ],
   "D1YcNp": [
     "Arkadaşlarınla oynayabileceğin bir oyun sunucusuna mı ihtiyacın var? Discord üzerinde Takviyeleri kullanarak bir sunucu oluştur ve yönet."
   ],
@@ -41769,7 +41804,12 @@
         ]
       ]
     ],
-    " tutarında ücretlendirileceksin. Sonrasında aboneliğin ",
+    " tutarında ücretlendirileceksin. Sonrasında aboneliğin her ",
+    [
+      1,
+      "billingPeriod"
+    ],
+    " için ",
     [
       8,
       "$b",
@@ -41780,12 +41820,7 @@
         ]
       ]
     ],
-    " başına ",
-    [
-      1,
-      "billingPeriod"
-    ],
-    " süresince yenilenecek."
+    " tutarında yenilenecek."
   ],
   "G8NPz6": [
     "Bir sunucuda yaklaşan bir etkinlik var"
@@ -42836,6 +42871,9 @@
   ],
   "GX594D": [
     "İnsanlar"
+  ],
+  "GX91jv": [
+    "Çok hızlı! Biraz bekle ve tekrar dene."
   ],
   "GXDPol": [
     "En benzersiz oyunları kim oynadı?"
@@ -51818,6 +51856,22 @@
   ],
   "KXk3AU": [
     "Aşağıdan bir seçenek seç"
+  ],
+  "KXodvL": [
+    "Ödeme kaynağının fatura adresi geçersiz. Lütfen ödeme kaynağını veya fatura adresini güncelle ve tekrar dene. ",
+    [
+      8,
+      "$link",
+      [
+        "Daha fazla bilgi edin"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Medya gönderisi yazar avatarı"
@@ -63487,6 +63541,9 @@
   "PTPbjx": [
     "Resim kopyalanamıyor"
   ],
+  "PTYULU": [
+    "Uygulamanın Susturmasını Kaldır"
+  ],
   "PTebCR": [
     [
       1,
@@ -66690,6 +66747,9 @@
   "R/1GpG": [
     "PlayStation'dan katılacaksın."
   ],
+  "R/F7xs": [
+    "Uygulamayı Sustur"
+  ],
   "R/FK4A": [
     "Etkinlikten Ayrıl"
   ],
@@ -67042,6 +67102,9 @@
       ]
     ],
     " gör."
+  ],
+  "R852HS": [
+    "Yeni Discord yıl dönümü!"
   ],
   "R87Y2K": [
     "Bu, ertesi gün ",
@@ -67897,6 +67960,9 @@
   ],
   "RVX1zT": [
     "Rahatsız Edici Medya Filtresi"
+  ],
+  "RVYbK6": [
+    "Simgeyi gizle"
   ],
   "RVfNGU": [
     "Sunucuya Katıl"
@@ -69077,7 +69143,7 @@
     "Üyelerin bu kanallarda alt başlıkları ve gönderileri yeniden adlandırmasına, silmesine, kapatmasına ve yavaş moda sokmasına izin ver. Üyeler, ayrıca özel alt başlıkları da görüntüleyebilirler."
   ],
   "S383hM": [
-    "Etkileyici. Vahşi. Aç. Stilin ne olursa olsun, profilin için her duruma uygun en sevdiğin tarzları satın al ve topla. Sadece Nitro ile mümkün."
+    "Etkileyici. Vahşi. Aç. Stilin ne olursa olsun, profilin için her duruma uygun en sevdiğin tarzları satın al ve topla."
   ],
   "S3fdq7": [
     [
@@ -72112,6 +72178,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Discord yıl dönümü simgesi"
+  ],
   "TTIocg": [
     "Bağlantı bekleniyor..."
   ],
@@ -73999,6 +74068,9 @@
   ],
   "UB3hKo": [
     "Gereksinimler karşılanmıyor"
+  ],
+  "UB8tME": [
+    "Kutlamak için bir günlüğüne adının yanında bir simge göster!"
   ],
   "UBBwwF": [
     "Tuşunu yeniden adlandır"
@@ -79095,6 +79167,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Ödülü Al"
+  ],
   "WK9r7F": [
     "Üyelerin bu kanala dosya yükleyebilmesini sağlar."
   ],
@@ -82465,6 +82540,9 @@
   "Xjlbvs": [
     "DM'ye Arkadaş Ekle"
   ],
+  "XkE3ZV": [
+    "Göz at"
+  ],
   "XkIWkk": [
     "Emin misin?"
   ],
@@ -83110,6 +83188,9 @@
   ],
   "Xz2njA": [
     "Üyeye zamanaşımı uygula"
+  ],
+  "Xz3o7I": [
+    "Discord yıl dönümü"
   ],
   "XzBNbS": [
     [
@@ -136524,6 +136605,14 @@
   "rYfJop": [
     "Yüksek (P1)"
   ],
+  "rZ36t1": [
+    "Discord'da ",
+    [
+      2,
+      "years"
+    ],
+    " yıl! Kutlamak için ona Nitro hediye et ya da bir GIF gönder!"
+  ],
   "rZEEvU": [
     "Soundmoji [Beta] ile eğlenceyi artır"
   ],
@@ -143386,6 +143475,13 @@
   "tdDpJj": [
     "Diğer Geri Bildirimler"
   ],
+  "tdF5fb": [
+    [
+      2,
+      "years"
+    ],
+    " yıl oldu, devamı da geliyor! Bugünlüğüne adının yanında bir simge göster. Bunu profilinden istediğin zaman değiştirebilirsin."
+  ],
   "tdgcf1": [
     "Çocuğunun hesabında kendi başına düzenleyemediği belirli ayarları yönetebilirsin."
   ],
@@ -147661,6 +147757,14 @@
   ],
   "v7HbiQ": [
     "Şu anda çevrim içi arkadaş yok. Daha sonra tekrar kontrol et!"
+  ],
+  "v7QDUk": [
+    "Discord'da ",
+    [
+      2,
+      "years"
+    ],
+    " yıl"
   ],
   "v7iYnP": [
     "Çok Yakında"

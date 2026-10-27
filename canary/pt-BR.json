@@ -2397,6 +2397,13 @@
   "+v5zsT": [
     "Desative animações com Movimento Reduzido em configurações de Acessibilidade."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " restantes"
+  ],
   "+vMoL1": [
     "Ao entrar em um canal de voz, você acessará o modo de visualização utilizado pela última vez (Sala de Estar ou Grade), em vez entrar na Sala de Estar por definição. A Sala de Estar é um recurso beta."
   ],
@@ -8437,6 +8444,14 @@
   "15p8on": [
     "Aventura"
   ],
+  "16+Zv5": [
+    "É o aniversário de ",
+    [
+      1,
+      "name"
+    ],
+    " no Discord!"
+  ],
   "16/3Bi": [
     "Mídia gráfica"
   ],
@@ -9791,7 +9806,7 @@
     "Permissões especiais de membros e cargos"
   ],
   "1jPMeG": [
-    "Apenas você pode ver seu Ponto de Verificação (a menos que você escolha compartilhá-lo). ",
+    "Apenas você pode ver seu Checkpoint (a menos que você escolha compartilhá-lo). ",
     [
       8,
       "learnMoreHook",
@@ -25939,6 +25954,34 @@
   "7nF/S/": [
     "Só pela aparência. Ótimo para dar marcações e cores aos membros."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " está comemorando ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " ano"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anos"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " no Discord! Envie um presente para celebrar!"
+  ],
   "7nKAXx": [
     "Pronto"
   ],
@@ -27953,6 +27996,9 @@
   "8YK70c": [
     "Ops, algo deu errado..."
   ],
+  "8YMgb/": [
+    "Feliz aniversário no Discord!"
+  ],
   "8ZA50K": [
     "Você precisará do nome de usuário e de uma tag dele. Lembre-se de que o nome de usuário diferencia maiúsculas de minúsculas."
   ],
@@ -28501,7 +28547,7 @@
     "O servidor limitou quem pode ver este Perfil."
   ],
   "8mqr6Q": [
-    "Você alcançou um Ponto de Verificação"
+    "Você alcançou um Checkpoint"
   ],
   "8msQQO": [
     "Algo errado?"
@@ -32130,6 +32176,9 @@
     ],
     " o widget"
   ],
+  "AEDeza": [
+    "AEDeza"
+  ],
   "AERuYh": [
     "Nomeie seu grupo"
   ],
@@ -33884,7 +33933,7 @@
     "Estes são os seus canais"
   ],
   "AyC74I": [
-    "Sua assinatura Nitro termina em ",
+    "Sua assinatura Nitro termina ",
     [
       6,
       "daysLeft",
@@ -38394,7 +38443,7 @@
     ]
   ],
   "CdU/PF": [
-    "Ponto de controle"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Fizemos algumas mudanças maneiras no Discord (e talvez uma correção de bug ou outra). Atualize para continuar."
@@ -39232,6 +39281,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Alguém com quem você tem amizade completou mais um ano no Discord! Envie um presente ou GIF para comemorar com essa pessoa!"
   ],
   "D1YcNp": [
     "Quer um servidor particular para jogar com seus amigos? Crie e gerencie um no Discord com impulsos."
@@ -47362,6 +47414,9 @@
   "GX594D": [
     "Pessoas"
   ],
+  "GX91jv": [
+    "Pisa no freio, Zé! Espera um pouco e tenta de novo."
+  ],
   "GXDPol": [
     "Quem jogou os mais jogos únicos?"
   ],
@@ -49978,7 +50033,7 @@
     "Enviar pedido de amizade"
   ],
   "HWnMTQ": [
-    "Enviou o Ponto de controle deles"
+    "Enviou o Checkpoint deles"
   ],
   "HWuskv": [
     "Banir usuário"
@@ -57231,6 +57286,22 @@
   ],
   "KXk3AU": [
     "Selecione uma opção abaixo"
+  ],
+  "KXodvL": [
+    "O endereço de cobrança do seu método de pagamento é inválido. Atualize seu método de pagamento ou o endereço de cobrança e tente novamente. ",
+    [
+      8,
+      "$link",
+      [
+        "Saiba mais"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Avatar do(a) autor(a) da postagem"
@@ -69971,6 +70042,9 @@
   "PTPbjx": [
     "Não foi possível copiar a imagem"
   ],
+  "PTYULU": [
+    "Dessilenciar app"
+  ],
   "PTebCR": [
     "Agendar para ",
     [
@@ -73438,6 +73512,9 @@
   "R/1GpG": [
     "Você entrará pelo PlayStation."
   ],
+  "R/F7xs": [
+    "Silenciar app"
+  ],
   "R/FK4A": [
     "Sair da atividade"
   ],
@@ -73803,6 +73880,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Novo aniversário no Discord!"
   ],
   "R87Y2K": [
     "Será agendado de ",
@@ -74741,6 +74821,9 @@
   ],
   "RVX1zT": [
     "Filtro de mídia gráfica"
+  ],
+  "RVYbK6": [
+    "Ocultar ícone"
   ],
   "RVfNGU": [
     "Entrar no servidor"
@@ -76002,7 +76085,7 @@
     "Permite que os membros renomeiem, excluam, fechem e ativem o modo lento dos tópicos e postagens nestes canais. Eles também podem ver tópicos privados."
   ],
   "S383hM": [
-    "Envolvente. Feroz. Voraz. Seja qual for a sua vibe, compre e colete seus estilos favoritos para o seu perfil em qualquer ocasião. Apenas com o Nitro."
+    "Envolvente. Feroz. Voraz. Seja qual for a sua vibe, compre e colete seus estilos favoritos para o seu perfil em qualquer ocasião."
   ],
   "S3fdq7": [
     "Amizade de ",
@@ -79505,6 +79588,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Ícone de aniversário do Discord"
+  ],
   "TTIocg": [
     "Esperando conexão…"
   ],
@@ -81516,6 +81602,9 @@
   "UB3hKo": [
     "Requisitos não cumpridos"
   ],
+  "UB8tME": [
+    "Mostre um ícone ao lado do seu nome para comemorar por um dia!"
+  ],
   "UBBwwF": [
     "Renomeie sua chave"
   ],
@@ -82404,13 +82493,13 @@
     "Não mudar"
   ],
   "UYcJ48": [
-    "Ponto de Verificação"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Compre um cartão de presente do Discord em um revendedor participante, depois visite discord.com/resgatar e entre na sua conta do Discord. Raspe a cobertura metálica na parte de trás do cartão para suavemente revelar o código, ou o encontre no e-mail para cartões de presente digitais. Siga as instruções na tela e o saldo do seu cartão de presente será transferido do cartão para o saldo da sua conta."
   ],
   "UYjWa5": [
-    "Reveja o seu Ponto do Controle a qualquer momento até 15 de janeiro."
+    "Reveja o seu Checkpoint a qualquer momento até 15 de janeiro."
   ],
   "UYq7+O": [
     "Limpar permissões"
@@ -84343,7 +84432,7 @@
         ]
       ]
     ],
-    " o pedido para o app para área de trabalho para obter o Aperte para Falar em todo o sistema."
+    " o app para área de trabalho para obter o Aperte para Falar em todo o sistema."
   ],
   "VHLp+u": [
     "Verificação Manual (",
@@ -87036,6 +87125,9 @@
   ],
   "WK19hs": [
     "WK19hs"
+  ],
+  "WK589K": [
+    "Reivindicar recompensa"
   ],
   "WK9r7F": [
     "Permite que os membros enviem arquivos ou mídia neste canal."
@@ -90713,6 +90805,9 @@
   "Xjlbvs": [
     "Adicionar amigos à DM"
   ],
+  "XkE3ZV": [
+    "Conferir"
+  ],
   "XkIWkk": [
     "Você tem certeza?"
   ],
@@ -91452,6 +91547,9 @@
   ],
   "Xz2njA": [
     "Membro de castigo"
+  ],
+  "Xz3o7I": [
+    "Aniversário no Discord"
   ],
   "XzBNbS": [
     [
@@ -118337,7 +118435,7 @@
     "soldagem"
   ],
   "goiR2u": [
-    "Ponto de controle de 2025"
+    "Checkpoint 2025"
   ],
   "golf": [
     "bandeira",
@@ -124426,7 +124524,7 @@
     "Membros de castigo"
   ],
   "ir6nEQ": [
-    "Seu Ponto de Verificação"
+    "Seu Checkpoint"
   ],
   "irDT8W": [
     "Estática no microfone? Pode ser interferência. Ou outra coisa…"
@@ -129098,7 +129196,7 @@
     "vestir"
   ],
   "kimsIr": [
-    "Ponto de Verificação Indisponível"
+    "Checkpoint Indisponível"
   ],
   "kiqvHd": [
     "Dispositivo certificado detectado"
@@ -133344,7 +133442,7 @@
     "”?"
   ],
   "mIG7/G": [
-    "Carregando seu Ponto de Verificação"
+    "Carregando seu Checkpoint"
   ],
   "mIL6Jb": [
     "Siga estes passos para completar a conexão da sua conta."
@@ -140600,7 +140698,7 @@
     ]
   ],
   "od48B0": [
-    "Exiba seu Ponto de Verificação de 2025"
+    "Exiba seu Checkpoint de 2025"
   ],
   "odDw+z": [
     "Controles de edição de perfil"
@@ -148198,7 +148296,7 @@
     ]
   ],
   "r8GEbK": [
-    "Abrir Ponto de Verificação"
+    "Abrir Checkpoint"
   ],
   "r90Wgo": [
     "Estes servidores precisam de um impulso"
@@ -149313,6 +149411,29 @@
   ],
   "rYfJop": [
     "Alta (P1)"
+  ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " ano no Discord!"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anos no Discord!"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Envie Nitro ou um GIF de presente para comemorar!"
   ],
   "rZEEvU": [
     "Aumente a diversão com Áudioemojis [Beta]"
@@ -156683,6 +156804,29 @@
   "tdDpJj": [
     "Outros comentários"
   ],
+  "tdF5fb": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " ano"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anos"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " e contando! Mostre um ícone ao lado do seu nome durante o dia. Edite isso a qualquer momento no seu perfil."
+  ],
   "tdgcf1": [
     "Você pode gerenciar algumas configurações da conta do seu adolescente que ele não poderá editar por conta própria."
   ],
@@ -161238,6 +161382,29 @@
   "v7HbiQ": [
     "Não há Amigos online no momento. Volte mais tarde!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " ano"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anos"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " no Discord"
+  ],
   "v7iYnP": [
     "Em breve"
   ],
@@ -165656,7 +165823,7 @@
     "Assinatura do usuário"
   ],
   "wnuxp5": [
-    "Você alcançou um Ponto de Verificação!"
+    "Você alcançou um Checkpoint!"
   ],
   "wo3D3T": [
     "Aproveite descontos incríveis em qualquer - ou todos! - os itens na Loja. Apenas com Nitro."
@@ -168906,7 +169073,7 @@
     "Erro desconhecido"
   ],
   "xf5S6P": [
-    "Reduza a saturação de cores dentro do app para pessoas com sensibilidade a cores. Isso não afeta a saturação de imagem, videochamada, cores dos cargos ou outros conteúdos de usuário."
+    "Reduza a saturação de cores dentro do app para pessoas com sensibilidade a cores. Isso não afeta a saturação de imagem, vídeo, cores dos cargos ou outros conteúdos de usuário."
   ],
   "xf9ePm": [
     "Obtenha acesso exclusivo a algumas funcionalidades inéditas antes de serem lançadas para todos."

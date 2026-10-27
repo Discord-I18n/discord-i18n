@@ -2388,6 +2388,13 @@
   "+v5zsT": [
     "Disattiva le animazioni con l'opzione Animazione ridotta nelle Impostazioni dell'accessibilità."
   ],
+  "+v889h": [
+    "RESTANO ",
+    [
+      1,
+      "timeLeft"
+    ]
+  ],
   "+vMoL1": [
     "Quando ti unisci a un canale vocale, accederai all'ultima visualizzazione usata (\"Salotto\" o \"a griglia\"), invece che sempre al Salotto. Salotto è una funzionalità in Beta."
   ],
@@ -8399,6 +8406,14 @@
   ],
   "15p8on": [
     "Avventura"
+  ],
+  "16+Zv5": [
+    "È l’anniversario di ",
+    [
+      1,
+      "name"
+    ],
+    " su Discord!"
   ],
   "16/3Bi": [
     "Contenuti multimediali espliciti"
@@ -25826,6 +25841,34 @@
   "7nF/S/": [
     "Solo per bellezza. È perfetto per assegnare etichette o colori ai membri."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " festeggia ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " anno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " su Discord! Invia un regalo per festeggiare!"
+  ],
   "7nKAXx": [
     "Fatto"
   ],
@@ -27819,6 +27862,9 @@
   ],
   "8YK70c": [
     "Ops, qualcosa è andato storto..."
+  ],
+  "8YMgb/": [
+    "Buon anniversario su Discord!"
   ],
   "8ZA50K": [
     "Avrai bisogno del nome utente e del tag. Ricorda di fare attenzione alle maiuscole."
@@ -31984,6 +32030,9 @@
       ]
     ],
     " il widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Nome del tuo gruppo"
@@ -39084,6 +39133,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Qualcuno tra i tuoi amici ha raggiunto un altro anno su Discord! Invia un regalo o una GIF per festeggiare insieme!"
   ],
   "D1YcNp": [
     "Hai bisogno di un server di gioco per giocare con gli amici? Creane e gestiscine uno su Discord con i potenziamenti."
@@ -47176,6 +47228,9 @@
   ],
   "GX594D": [
     "Persone"
+  ],
+  "GX91jv": [
+    "Troppo veloce! Aspetta un po' e riprova."
   ],
   "GXDPol": [
     "Chi ha giocato al maggior numero di giochi differenti?"
@@ -57026,6 +57081,22 @@
   "KXk3AU": [
     "Seleziona un'opzione qui sotto"
   ],
+  "KXodvL": [
+    "L'indirizzo di fatturazione associato alla fonte di pagamento non è valido. Aggiorna la fonte di pagamento o l'indirizzo di fatturazione e riprova. ",
+    [
+      8,
+      "$link",
+      [
+        "Scopri di più"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
+  ],
   "KXz3XB": [
     "Avatar dell'autore del post multimediale"
   ],
@@ -62346,7 +62417,7 @@
     "Usare la sintesi vocale"
   ],
   "Mg843t": [
-    "Ricevi notifiche per MD o richieste di partecipazione che superano i numeri usuali per il tuo server. Ogni notifica conterrà informazioni riguardo all'attività, tra cui il lasso di tempo e il numero approssimativo di membri o MD."
+    "Ricevi notifiche per MD o attività di unione al server che superano i numeri usuali per il tuo server. Ogni notifica conterrà informazioni riguardo all'attività, tra cui il lasso di tempo e il numero approssimativo di accessi al server o MD."
   ],
   "Mgpxiw": [
     "Imposta uno stato del canale"
@@ -69694,6 +69765,9 @@
   "PTPbjx": [
     "Impossibile copiare l'immagine"
   ],
+  "PTYULU": [
+    "Disattiva silenziamento app"
+  ],
   "PTebCR": [
     "In programma per le ",
     [
@@ -73180,6 +73254,9 @@
   "R/1GpG": [
     "Ti connetteremo su PlayStation."
   ],
+  "R/F7xs": [
+    "Silenzia app"
+  ],
   "R/FK4A": [
     "Lascia l'attività"
   ],
@@ -73546,6 +73623,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nuovo anniversario di Discord!"
   ],
   "R87Y2K": [
     "Verrà programmato dalle ",
@@ -74484,6 +74564,9 @@
   ],
   "RVX1zT": [
     "Filtro dei contenuti multimediali espliciti"
+  ],
+  "RVYbK6": [
+    "Nascondi icona"
   ],
   "RVfNGU": [
     "Unisciti al server"
@@ -79191,6 +79274,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Icona dell'anniversario di Discord"
+  ],
   "TTIocg": [
     "In attesa della connessione..."
   ],
@@ -81201,6 +81287,9 @@
   ],
   "UB3hKo": [
     "Requisiti non soddisfatti"
+  ],
+  "UB8tME": [
+    "Per festeggiare, sfoggia un’icona accanto al tuo nome per un giorno!"
   ],
   "UBBwwF": [
     "Rinomina la tua chiave"
@@ -86729,6 +86818,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Riscatta ricompensa"
+  ],
   "WK9r7F": [
     "Consente ai membri di caricare file o media in questo canale."
   ],
@@ -90395,6 +90487,9 @@
   "Xjlbvs": [
     "Aggiungi amici al messaggio diretto"
   ],
+  "XkE3ZV": [
+    "Dai un'occhiata"
+  ],
   "XkIWkk": [
     "Confermi?"
   ],
@@ -91138,6 +91233,9 @@
   ],
   "Xz2njA": [
     "Membri in Time out"
+  ],
+  "Xz3o7I": [
+    "Anniversario di Discord"
   ],
   "XzBNbS": [
     [
@@ -126999,14 +127097,14 @@
       "boostCount",
       {
         "one": [
-          "il tuo beneficio"
+          "il tuo potenziamento"
         ],
         "other": [
           "i tuoi ",
           [
             7
           ],
-          " benefici"
+          " potenziamenti"
         ]
       },
       0,
@@ -150481,6 +150579,29 @@
   "rYfJop": [
     "Alta (P1)"
   ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " anno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " su Discord! Regala loro Nitro o una GIF per festeggiare!"
+  ],
   "rZEEvU": [
     "Divertimento a tutto volume con la [Beta] delle Soundmoji"
   ],
@@ -158291,6 +158412,30 @@
   "tdDpJj": [
     "Altri feedback"
   ],
+  "tdF5fb": [
+    "Sono già ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " anno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " e si continua! Sfoggia un'icona accanto al tuo nome per oggi. Puoi cambiarla in qualsiasi momento dal tuo profilo."
+  ],
   "tdgcf1": [
     "Puoi gestire alcune impostazioni dell'account del tuo adolescente che non può modificare da solo."
   ],
@@ -162951,6 +163096,29 @@
   ],
   "v7HbiQ": [
     "Al momento non ci sono amici online. Riprova più tardi!"
+  ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " anno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " su Discord"
   ],
   "v7iYnP": [
     "In arrivo"
@@ -170789,7 +170957,7 @@
     "Errore sconosciuto"
   ],
   "xf5S6P": [
-    "Riduce la saturazione dei colori nell'app, per chi soffre di sensibilità cromatica. Non ha effetto automatico sulla saturazione di immagini, video, ruoli e altri contenuti forniti dagli utenti."
+    "Riduce la saturazione dei colori nell'app, per chi soffre di sensibilità cromatica. Non influisce sulla saturazione di immagini, video, colori dei ruoli e altri contenuti forniti dagli utenti."
   ],
   "xf9ePm": [
     "Ottieni l'accesso esclusivo a determinate nuove funzionalità prima che siano disponibili per tutti."

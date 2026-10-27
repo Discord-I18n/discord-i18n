@@ -2481,6 +2481,13 @@
   "+v5zsT": [
     "U postavkama pristupačnosti isključi opciju Smanjeni pokreti."
   ],
+  "+v889h": [
+    [
+      1,
+      "timeLeft"
+    ],
+    " PREOSTALO"
+  ],
   "+vMoL1": [
     "Kada se pridružiš glasovnom kanalu, otvorit će se tvoj posljednji prikaz, Dnevna soba ili Rešetka, umjesto da se uvijek otvara Dnevna soba. Dnevna soba značajka je u beta verziji."
   ],
@@ -8660,6 +8667,14 @@
   "15p8on": [
     "Avanturu"
   ],
+  "16+Zv5": [
+    "Obljetnica na Discordu za ",
+    [
+      1,
+      "name"
+    ],
+    "!"
+  ],
   "16/3Bi": [
     "Eksplicitni medijski sadržaji"
   ],
@@ -10022,7 +10037,7 @@
     "Prekoračenja uloga i članova"
   ],
   "1jPMeG": [
-    "Samo ti možeš vidjeti svoju kontrolnu točku (osim ako je odlučiš podijeliti). ",
+    "Samo ti možeš vidjeti svoj Checkpoint (osim ako ga odlučiš podijeliti). ",
     [
       8,
       "learnMoreHook",
@@ -26452,6 +26467,40 @@
   "7nF/S/": [
     "Samo izgleda radi. Odlično dođe kada trebaš članovima odijeliti oznake ili boje."
   ],
+  "7nFo+/": [
+    [
+      1,
+      "name"
+    ],
+    " slavi ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " godinu"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " godine"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " godina"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordu! Pošalji im poklon i proslavi s njima!"
+  ],
   "7nKAXx": [
     "Gotovo"
   ],
@@ -28501,6 +28550,9 @@
   "8YK70c": [
     "Ups, nešto je pošlo po zlu..."
   ],
+  "8YMgb/": [
+    "Sretna obljetnica na Discordu!"
+  ],
   "8ZA50K": [
     "Trebat će ti i korisničko ime i tag. Imaj na umu da je kod korisničkog imena razlika između malih i velikih slova bitna."
   ],
@@ -29059,7 +29111,7 @@
     "Server je ograničio tko može vidjeti ovaj profil."
   ],
   "8mqr6Q": [
-    "Dosegao/la si kontrolnu točku"
+    "Dosegao/la si Checkpoint"
   ],
   "8msQQO": [
     "Nešto nije u redu?"
@@ -32763,6 +32815,9 @@
       ]
     ],
     " widget"
+  ],
+  "AEDeza": [
+    "AEDeza"
   ],
   "AERuYh": [
     "Ime tvoje grupe"
@@ -39133,7 +39188,7 @@
     ]
   ],
   "CdU/PF": [
-    "Kontrolna točka"
+    "Checkpoint"
   ],
   "CdgX+y": [
     "Promijenili smo par stvarčica na Discordu (i vjerojatno ispravili par pogrešaka). Ažuriraj za nastavak."
@@ -39983,6 +40038,9 @@
       1,
       "deviceType"
     ]
+  ],
+  "D1CSNP": [
+    "Još jedna godina na Discordu za nekoga od tvojih prijatelja! Pošalji dar ili GIF i pridruži se proslavi!"
   ],
   "D1YcNp": [
     "Trebaš server za igre koje ćeš igrati s prijateljima? Izradi i upravljaj njime na Discordu koristeći boostove."
@@ -48188,6 +48246,9 @@
   "GX594D": [
     "Ljudi"
   ],
+  "GX91jv": [
+    "Prebrzo! Pričekaj malo i pokušaj ponovo."
+  ],
   "GXDPol": [
     "Tko je igrao najviše jedinstvenih igara?"
   ],
@@ -50842,7 +50903,7 @@
     "Pošalji zahtjev za prijateljstvom"
   ],
   "HWnMTQ": [
-    "Poslao/la je svoju kontrolnu točku"
+    "Poslao/la je svoj Checkpoint"
   ],
   "HWuskv": [
     "Bananje korisnika"
@@ -58081,6 +58142,22 @@
   ],
   "KXk3AU": [
     "Odaberi neku opciju u nastavku"
+  ],
+  "KXodvL": [
+    "Adresa za naplatu za ovaj način plaćanja nije valjana. Ažuriraj način plaćanja ili adresu za naplatu pa pokušaj ponovno. ",
+    [
+      8,
+      "$link",
+      [
+        "Saznaj više"
+      ],
+      [
+        [
+          1,
+          "helpdeskArticle"
+        ]
+      ]
+    ]
   ],
   "KXz3XB": [
     "Avatar autora medijskog posta"
@@ -70916,6 +70993,9 @@
   "PTPbjx": [
     "Nije moguće kopirati sliku"
   ],
+  "PTYULU": [
+    "Ukini utišavanje aplikacije"
+  ],
   "PTebCR": [
     "Zakazano za ",
     [
@@ -74392,6 +74472,9 @@
   "R/1GpG": [
     "Pridružit ćeš se na PlayStationu."
   ],
+  "R/F7xs": [
+    "Utišaj obavijesti aplikacije"
+  ],
   "R/FK4A": [
     "Napusti aktivnost"
   ],
@@ -74764,6 +74847,9 @@
       ]
     ],
     "."
+  ],
+  "R852HS": [
+    "Nova obljetnica na Discordu!"
   ],
   "R87Y2K": [
     "To će biti zakazano kao ",
@@ -75722,6 +75808,9 @@
   ],
   "RVX1zT": [
     "Filtar za eksplicitne medijske sadržaje"
+  ],
+  "RVYbK6": [
+    "Sakrij ikonu"
   ],
   "RVfNGU": [
     "Pridruži se serveru"
@@ -80586,6 +80675,9 @@
   "TSTgyL": [
     "Wumpice"
   ],
+  "TSuiJ/": [
+    "Ikona obljetnice na Discordu"
+  ],
   "TTIocg": [
     "Čeka se uspostava veze..."
   ],
@@ -82679,6 +82771,9 @@
   "UB3hKo": [
     "Uvjeti nisu ispunjeni"
   ],
+  "UB8tME": [
+    "Istakni ikonu uz svoje ime na jedan dan i proslavi!"
+  ],
   "UBBwwF": [
     "Promijeni naziv svog ključa"
   ],
@@ -83575,13 +83670,13 @@
     "Nemoj prebacivat'"
   ],
   "UYcJ48": [
-    "Kontrolna točka"
+    "Checkpoint"
   ],
   "UYe11k": [
     "Kupi Discord darovnu karticu kod prodavača koji sudjeluje u programu, zatim posjeti discord.com/redeem i prijavi se na svoj Discord račun. Nježno ogrebi foliju na poleđini kartice da otkriješ svoj kôd ili pronađi kôd u svojoj e-pošti za digitalne darovne kartice. Prati upute na zaslonu i saldo s tvoje kartice prenijet će se s kartice na tvoj račun."
   ],
   "UYjWa5": [
-    "Ponovno pogledaj svoju kontrolnu točku kad poželiš, ali to moraš napraviti do 15. siječnja."
+    "Ponovno pogledaj svoj Checkpoint kad poželiš, ali to moraš napraviti do 15. siječnja."
   ],
   "UYq7+O": [
     "Počisti dopuštenja"
@@ -88221,6 +88316,9 @@
   "WK19hs": [
     "WK19hs"
   ],
+  "WK589K": [
+    "Uzmi nagradu"
+  ],
   "WK9r7F": [
     "Članovima omogućuje prenijeti datoteke ili sadržaje u ovaj kanal."
   ],
@@ -91874,6 +91972,9 @@
   "Xjlbvs": [
     "Dodaj prijatelje u izravnu poruku"
   ],
+  "XkE3ZV": [
+    "Baci pogled"
+  ],
   "XkIWkk": [
     "Sigurno?"
   ],
@@ -92629,6 +92730,9 @@
   ],
   "Xz2njA": [
     "Timeout za člana"
+  ],
+  "Xz3o7I": [
+    "Obljetnica na Discordu"
   ],
   "XzBNbS": [
     [
@@ -119416,7 +119520,7 @@
     "zaštitne naočale"
   ],
   "goiR2u": [
-    "Kontrolna točka 2025."
+    "Checkpoint 2025."
   ],
   "golf": [
     "golf",
@@ -125459,7 +125563,7 @@
     "Timeoutirati članove"
   ],
   "ir6nEQ": [
-    "Tvoja kontrolna točka"
+    "Tvoj Checkpoint"
   ],
   "irDT8W": [
     "Šumi ti mikrofon? Možda su samo smetnje. A možda je nešto drugo…"
@@ -130199,7 +130303,7 @@
     "udobna odjeća"
   ],
   "kimsIr": [
-    "Kontrolna točka nije dostupna"
+    "Checkpoint nije dostupan"
   ],
   "kiqvHd": [
     "Certificirani uređaj otkriven"
@@ -134430,7 +134534,7 @@
     "?"
   ],
   "mIG7/G": [
-    "Učitavamo tvoju kontrolu točku"
+    "Učitavamo tvoj Checkpoint"
   ],
   "mIL6Jb": [
     "Postupi po uputama i dovrši spajanje svojeg računa."
@@ -141657,7 +141761,7 @@
     ]
   ],
   "od48B0": [
-    "Pokaži svima svoju kontrolnu točku za 2025."
+    "Pokaži svima svoj Checkpoint za 2025."
   ],
   "odDw+z": [
     "Kontrole za uređivanje profila"
@@ -149286,7 +149390,7 @@
     ]
   ],
   "r8GEbK": [
-    "Otvori kontrolnu točku"
+    "Otvori Checkpoint"
   ],
   "r90Wgo": [
     "Ovim bi serverima dobro došao boost"
@@ -150446,6 +150550,35 @@
   ],
   "rYfJop": [
     "Visok (P1)"
+  ],
+  "rZ36t1": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " godina"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " godine"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " godina"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordu! Pošalji im Nitro ili GIF za proslavu!"
   ],
   "rZEEvU": [
     "Podigni zabavu na višu razinu uz [Beta] verziju zvučnih emojija"
@@ -157800,6 +157933,36 @@
   "tdDpJj": [
     "Druge povratne informacije"
   ],
+  "tdF5fb": [
+    "Na Discordu si već ",
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " godinu"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " godine"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " godina"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " – i brojimo dalje! Prikaži ikonu uz svoje ime na taj dan. To možeš urediti u bilo kojem trenutku na svom profilu."
+  ],
   "tdgcf1": [
     "Možeš upravljati određenim postavkama za račun svog tinejdžera koje ni on sam ne može uređivati."
   ],
@@ -162304,6 +162467,35 @@
   "v7HbiQ": [
     "Trenutačno nema prijatelja online. Provjeri kasnije!"
   ],
+  "v7QDUk": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " godina"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " godine"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " godina"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " na Discordu"
+  ],
   "v7iYnP": [
     "Dolazi uskoro"
   ],
@@ -166731,7 +166923,7 @@
     "Korisnička pretplata"
   ],
   "wnuxp5": [
-    "Dosegao/la si kontrolnu točku!"
+    "Dosegao/la si Checkpoint!"
   ],
   "wo3D3T": [
     "Uzmi si te ljupke popuste na bilo koji (ili svaki!) artikl u trgovini. Samo uz Nitro."
