@@ -464,6 +464,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Erneut versuchen"
+  ],
   "+Af+Vw": [
     "Community-Server müssen deutlich sichtbare Regeln bzw. Richtlinien für Mitglieder haben. Bitte wähle den Kanal aus, der diese beinhaltet."
   ],
@@ -27294,12 +27297,11 @@
     "Ersetzen zusätzliche Vorteile das aktuelle System der Server-Level?"
   ],
   "8N0BHR": [
-    "Vor ",
+    "Aktiv ",
     [
       1,
       "timeAgo"
-    ],
-    " aktiv"
+    ]
   ],
   "8NcF1k": [
     "8NcF1k"
@@ -56146,9 +56148,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "Ordne deine Lieblingssounds neu an!"
-  ],
   "KG/ynf": [
     "Hoppla …"
   ],
@@ -59114,6 +59113,9 @@
   ],
   "LSNOYf": [
     "Keine Apps oder Befehle entsprechen deiner Suche"
+  ],
+  "LSoXK5": [
+    "(Optional) Ich möchte per E-Mail Benachrichtigungen zu Updates, Tipps und Spezialangeboten von Discord erhalten. Wir verfolgen Öffnungen und Klicks, um herauszufinden, was nützlich ist."
   ],
   "LT5TnZ": [
     "Während"
@@ -68357,9 +68359,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Passe die Reihenfolge deiner Lieblingssounds per Drag & Drop so an, wie es dir gefällt."
-  ],
   "P/KFXz": [
     "Nur damit du es weißt: In dieser Stage sind Personen, die du blockiert oder ignoriert hast."
   ],
@@ -69567,9 +69566,6 @@
   ],
   "PTPbjx": [
     "Bild kann nicht kopiert werden"
-  ],
-  "PTYULU": [
-    "Stummschaltung der App aufheben"
   ],
   "PTebCR": [
     "Für ",
@@ -73024,9 +73020,6 @@
   ],
   "R/1GpG": [
     "Du wirst auf PlayStation verbunden."
-  ],
-  "R/F7xs": [
-    "App stummschalten"
   ],
   "R/FK4A": [
     "Aktivität beenden"
@@ -87158,6 +87151,9 @@
   "WVbpcy": [
     "Füg eine Bio hinzu"
   ],
+  "WViBDk": [
+    "Wir verfolgen E-Mail-Öffnungen und Klicks, um herauszufinden, was nützlich ist, und um die E-Mails zu verbessern, die wir senden."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -88676,6 +88672,49 @@
   ],
   "X3Ekj8": [
     "Nitro-exklusiv"
+  ],
+  "X3Qd8c": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Jahr"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Jahre"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Monat"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Monate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     [
@@ -160490,6 +160529,28 @@
   ],
   "v/wmOB": [
     "Sobald es geschlossen ist, kannst du dieses Tutorial nicht mehr öffnen."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Geschenk"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Geschenke"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Wir haben einen Bestätigungslink an ",

@@ -466,6 +466,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Prøv igen"
+  ],
   "+Af+Vw": [
     "Community-servere skal have tydeligt opsatte serverregler eller retningslinjer for medlemmer. Vælg den kanal, der er vært for disse."
   ],
@@ -55962,9 +55965,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "Omarranger dine yndlingslyde!"
-  ],
   "KG/ynf": [
     "Hovsa"
   ],
@@ -58875,6 +58875,9 @@
   ],
   "LSNOYf": [
     "Ingen apps eller kommandoer matcher din søgning"
+  ],
+  "LSoXK5": [
+    "(Valgfrit) Send mig e-mails med Discord-opdateringer, tips og særtilbud. Vi sporer, hvad du åbner og klikker på for at se, hvad du finder nyttigt."
   ],
   "LT5TnZ": [
     "Under"
@@ -68049,9 +68052,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Træk og slip dine yndlingslyde i den rækkefølge, du ønsker."
-  ],
   "P/KFXz": [
     "Bare så du ved det, så er personer, du har blokeret eller ignoreret, på denne scene."
   ],
@@ -69246,9 +69246,6 @@
   ],
   "PTPbjx": [
     "Kunne ikke kopiere billede"
-  ],
-  "PTYULU": [
-    "Ophæv stumhed for App"
   ],
   "PTebCR": [
     "Planlagt til ",
@@ -72731,9 +72728,6 @@
   ],
   "R/1GpG": [
     "Du vil blive tilsluttet på PlayStation."
-  ],
-  "R/F7xs": [
-    "Gør app stum"
   ],
   "R/FK4A": [
     "Forlad aktivitet"
@@ -86841,6 +86835,9 @@
   "WVbpcy": [
     "Tilføj en biografi"
   ],
+  "WViBDk": [
+    "Vi sporer, hvilke e-mails du åbner, og hvad du klikker på for at se, hvad du finder nyttigt."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -88356,6 +88353,33 @@
   ],
   "X3Ekj8": [
     "Nitro eksklusiv"
+  ],
+  "X3Qd8c": [
+    [
+      2,
+      "years"
+    ],
+    " år, ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     [
@@ -158404,6 +158428,28 @@
   ],
   "v/wmOB": [
     "Du kan ikke åbne vejledningen igen, når den først er blevet lukket."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Gave"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Gaver"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Vi har sendt et bekræftelseslink til ",

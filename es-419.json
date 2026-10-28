@@ -465,6 +465,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Intenta de nuevo"
+  ],
   "+Af+Vw": [
     "Los servidores de comunidad deben tener normas o directivas del servidor claramente publicadas para los miembros. Selecciona el canal en el que se encuentra este contenido."
   ],
@@ -27412,7 +27415,7 @@
     "¿Las ventajas adicionales están reemplazando al sistema actual a nivel de servidor?"
   ],
   "8N0BHR": [
-    "Activo hace ",
+    "Activo ",
     [
       1,
       "timeAgo"
@@ -56392,9 +56395,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "¡Reordena tus sonidos favoritos!"
-  ],
   "KG/ynf": [
     "Ups"
   ],
@@ -59360,6 +59360,9 @@
   "LSNOYf": [
     "Ninguna aplicación o comando coincide con tu búsqueda"
   ],
+  "LSoXK5": [
+    "(Opcional) Envíame correos con actualizaciones, consejos y ofertas especiales de Discord. Registramos las aperturas y los clics para saber qué es útil."
+  ],
   "LT5TnZ": [
     "Durante"
   ],
@@ -60010,7 +60013,7 @@
     "Falló el pago de tu suscripción Nitro, actualiza tus detalles de pago."
   ],
   "Llo/Ia": [
-    "Headbang"
+    "Sacudida"
   ],
   "Lm2nFc": [
     "Seleccionar amigos"
@@ -68594,9 +68597,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Arrastra y suelta tus sonidos favoritos en el orden que quieras."
-  ],
   "P/KFXz": [
     "Solo para que sepas, las personas que has bloqueado o ignorado se encuentran en este escenario."
   ],
@@ -69804,9 +69804,6 @@
   ],
   "PTPbjx": [
     "No es posible copiar la imagen"
-  ],
-  "PTYULU": [
-    "Desactivar silencio de la aplicación"
   ],
   "PTebCR": [
     "Programado para ",
@@ -73290,9 +73287,6 @@
   "R/1GpG": [
     "Te unirás en PlayStation."
   ],
-  "R/F7xs": [
-    "Silenciar aplicación"
-  ],
   "R/FK4A": [
     "Abandonar la actividad"
   ],
@@ -74359,7 +74353,7 @@
     " la descripción del servidor"
   ],
   "RP8HFf": [
-    "Monkey Bars"
+    "Barras"
   ],
   "RPIwEb": [
     "Utiliza este marco de perfil de bonificación con una suscripción Nitro activa."
@@ -87262,6 +87256,9 @@
   "WVbpcy": [
     "Añadir una biografía"
   ],
+  "WViBDk": [
+    "Registramos las aperturas y los clics de correos electrónicos para ver qué es útil y mejorar los correos que enviamos."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -88775,6 +88772,49 @@
   ],
   "X3Ekj8": [
     "Exclusiva de Nitro"
+  ],
+  "X3Qd8c": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mes"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     "Se suspendió a ",
@@ -144746,7 +144786,7 @@
     "Usar sonidos externos"
   ],
   "pwbAIk": [
-    "Mainframe"
+    "Tarjeta madre"
   ],
   "pwkxYF": [
     "Sigue por aquí para desbloquear tu primera insignia de Nitro en ",
@@ -155150,7 +155190,7 @@
     " en el servidor."
   ],
   "t9Les4": [
-    "Journal"
+    "Periódico"
   ],
   "t9ZX/I": [
     "Webhooks"
@@ -160580,6 +160620,28 @@
   ],
   "v/wmOB": [
     "Si cierras el tutorial, no podrás abrirlo de nuevo."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " regalo"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " regalos"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Hemos enviado un enlace de confirmación a ",
