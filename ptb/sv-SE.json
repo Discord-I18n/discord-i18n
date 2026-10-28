@@ -461,6 +461,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Försök igen"
+  ],
   "+Af+Vw": [
     "Communityservrar måste ha klara och tydliga serverregler och/eller riktlinjer för medlemmar. Välj värdkanal för detta."
   ],
@@ -55679,9 +55682,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "Ordna om dina favoritljud!"
-  ],
   "KG/ynf": [
     "Hoppsan"
   ],
@@ -58581,6 +58581,9 @@
   ],
   "LSNOYf": [
     "Inga appar eller kommandon matchar din sökning"
+  ],
+  "LSoXK5": [
+    "(Valfritt) Skicka mejl till mig med Discord-uppdateringar, tips och specialerbjudanden. Vi spårar öppningar och klick för att se vad som är relevant."
   ],
   "LT5TnZ": [
     "Under"
@@ -67744,9 +67747,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Dra och släpp dina favoritljud i valfri ordning."
-  ],
   "P/KFXz": [
     "Bara så att du vet, det finns personer i det här podiet som du har blockerat eller ignorerat."
   ],
@@ -68938,9 +68938,6 @@
   ],
   "PTPbjx": [
     "Kunde inte kopiera bild"
-  ],
-  "PTYULU": [
-    "Sluta tysta appen"
   ],
   "PTebCR": [
     "Schemalagt till ",
@@ -72426,9 +72423,6 @@
   ],
   "R/1GpG": [
     "Ansluter via PlayStation."
-  ],
-  "R/F7xs": [
-    "Tysta appen"
   ],
   "R/FK4A": [
     "Lämna aktivitet"
@@ -86500,6 +86494,9 @@
   "WVbpcy": [
     "Lägg till en biografi"
   ],
+  "WViBDk": [
+    "Vi spårar mejlöppningar och klick för att se vad som är relevant och förbättra mejlen vi skickar."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -88012,6 +88009,33 @@
   ],
   "X3Ekj8": [
     "Bara i Nitro"
+  ],
+  "X3Qd8c": [
+    [
+      2,
+      "years"
+    ],
+    " år, ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " månad"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månader"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     [
@@ -156627,6 +156651,28 @@
   ],
   "v/wmOB": [
     "Du kommer inte att kunna öppna den här handledningen igen om du stänger den."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gåva"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gåvor"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Vi har skickat en bekräftelselänk till ",

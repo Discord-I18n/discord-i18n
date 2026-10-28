@@ -472,6 +472,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Probeer het opnieuw"
+  ],
   "+Af+Vw": [
     "Communityservers moeten duidelijk geplaatste serverregels en/of -richtlijnen voor leden bevatten. Selecteer het kanaal dat dit host."
   ],
@@ -56023,9 +56026,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "Zet je favoriete geluiden in een andere volgorde!"
-  ],
   "KG/ynf": [
     "Oei"
   ],
@@ -58953,6 +58953,9 @@
   ],
   "LSNOYf": [
     "Er zijn geen apps of opdrachten die aan je zoekopdracht voldoen"
+  ],
+  "LSoXK5": [
+    "(Optioneel) We sturen je e-mails met Discord-updates, tips en speciale aanbiedingen. We volgen welke je opent en waar je op klikt om het interessant te maken."
   ],
   "LT5TnZ": [
     "Op"
@@ -68144,9 +68147,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Sleep je favoriete geluiden naar de gewenste volgorde en zet ze neer."
-  ],
   "P/KFXz": [
     "Dat je het even weet: er zijn door jou geblokkeerde of genegeerde personen aanwezig in dit podiumkanaal."
   ],
@@ -69335,9 +69335,6 @@
   ],
   "PTPbjx": [
     "Kan afbeelding niet kopiëren"
-  ],
-  "PTYULU": [
-    "App dempen opheffen"
   ],
   "PTebCR": [
     "Gepland voor ",
@@ -72824,9 +72821,6 @@
   ],
   "R/1GpG": [
     "Je gaat meedoen op PlayStation."
-  ],
-  "R/F7xs": [
-    "App dempen"
   ],
   "R/FK4A": [
     "Stoppen met activiteit"
@@ -86832,6 +86826,9 @@
   "WVbpcy": [
     "Een biografie toevoegen"
   ],
+  "WViBDk": [
+    "We houden bij of je e-mails opent en waar je op klikt om te zien wat nuttig is en om onze e-mails te verbeteren."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -88330,6 +88327,33 @@
   ],
   "X3Ekj8": [
     "Exclusief voor Nitro"
+  ],
+  "X3Qd8c": [
+    [
+      2,
+      "years"
+    ],
+    " jaar, ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     [
@@ -160197,6 +160221,28 @@
   ],
   "v/wmOB": [
     "Je kunt de tutorial daarna niet nog eens starten."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " cadeau"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " cadeaus"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "We hebben een bevestigingslink verzonden naar: ",

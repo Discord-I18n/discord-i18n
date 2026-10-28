@@ -454,6 +454,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Spróbuj ponownie"
+  ],
   "+Af+Vw": [
     "Serwery społeczności muszą mieć wyraźnie przedstawione zasady lub wytyczne dotyczące serwera, które obowiązują członków. Wybierz kanał, na którym znajdą się te treści."
   ],
@@ -57719,9 +57722,6 @@
       ]
     ]
   ],
-  "KFcQy8": [
-    "Zmień kolejność ulubionych dźwięków!"
-  ],
   "KG/ynf": [
     "Ojojoj"
   ],
@@ -60749,6 +60749,9 @@
   ],
   "LSNOYf": [
     "Brak aplikacji lub poleceń pasujących do Twojego wyszukiwania"
+  ],
+  "LSoXK5": [
+    "(Opcjonalnie) Wysyłaj mi e-maile z nowościami, wskazówkami i ofertami specjalnymi od Discorda. Śledzimy otwarcia i kliknięcia, aby wiedzieć, co jest przydatne."
   ],
   "LT5TnZ": [
     "Podczas"
@@ -70142,9 +70145,6 @@
       "cardinal"
     ]
   ],
-  "P/1x7s": [
-    "Przeciągnij i upuść ulubione dźwięki w dowolnej kolejności."
-  ],
   "P/KFXz": [
     "Uwaga: zablokowane lub zignorowane przez Ciebie osoby są na tym podium."
   ],
@@ -71382,9 +71382,6 @@
   ],
   "PTPbjx": [
     "Nie można skopiować obrazu"
-  ],
-  "PTYULU": [
-    "Wyłącz wyciszenie aplikacji"
   ],
   "PTebCR": [
     "Zaplanowano na ",
@@ -74942,9 +74939,6 @@
   ],
   "R/1GpG": [
     "Dołączysz do gry na PlayStation."
-  ],
-  "R/F7xs": [
-    "Wycisz aplikację"
   ],
   "R/FK4A": [
     "Opuść aktywność"
@@ -89397,6 +89391,9 @@
   "WVbpcy": [
     "Dodaj dane o użytkowniku"
   ],
+  "WViBDk": [
+    "Śledzimy otwarcia e-maili i kliknięcia, aby sprawdzać, co jest przydatne, i ulepszać wysyłane przez nas wiadomości."
+  ],
   "WVq3Lr": [
     [
       1,
@@ -90925,6 +90922,61 @@
   ],
   "X3Ekj8": [
     "Tylko w Nitro"
+  ],
+  "X3Qd8c": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " lata"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " lat"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " miesiąc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " miesiące"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " miesięcy"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     "Wobec użytkownika ",
@@ -164680,6 +164732,34 @@
   ],
   "v/wmOB": [
     "Po zamknięciu tego samouczka nie będzie można go ponownie otworzyć."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " prezent"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " prezenty"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " prezentów"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Wysłaliśmy link potwierdzający na adres: ",
