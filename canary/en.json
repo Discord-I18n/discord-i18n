@@ -498,6 +498,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Try Again"
+  ],
   "+Af+Vw": [
     "Community Servers must have clearly posted server rules and/or guidelines for members. Please select the channel that hosts this."
   ],
@@ -2038,6 +2041,9 @@
       "days"
     ],
     " days"
+  ],
+  "+kpQ3v": [
+    "Skipped. You can pin it later from a voice channel's settings."
   ],
   "+kxafn": [
     "Activity Sharing Off"
@@ -6432,6 +6438,9 @@
     ],
     " ago"
   ],
+  "0GsO43": [
+    "<1 month"
+  ],
   "0H5OT2": [
     "Try sending another one!"
   ],
@@ -10735,6 +10744,9 @@
       "eventName"
     ],
     "\""
+  ],
+  "1vVBAw": [
+    "This app will become the landing experience when people join the channel."
   ],
   "1vbbee": [
     "See What's in Shop"
@@ -16037,6 +16049,9 @@
   "3hj4kU": [
     "Choose from a variety of additional voices to express yourself and have even more fun during calls."
   ],
+  "3horqQ": [
+    "Safari blocked the pop-up window. Allow pop-ups for Discord, then try again."
+  ],
   "3hz51F": [
     "Slowmode is enabled. Members can send one message every ",
     [
@@ -19309,6 +19324,9 @@
   ],
   "4wcdE/": [
     "Add to Favorites"
+  ],
+  "4we2oA": [
+    "Show Pop-up Window Again"
   ],
   "4wv+DE": [
     "Back to Chat Preview"
@@ -33870,10 +33888,25 @@
   ],
   "ABMKx3": [
     [
-      2,
-      "members"
-    ],
-    " Members"
+      6,
+      "members",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Member"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Members"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "ABeVsS": [
     "Slowspell"
@@ -46536,6 +46569,9 @@
   "FCXUu0": [
     "Match All"
   ],
+  "FCbNa3": [
+    "The pop-up window closed before you pressed Continue."
+  ],
   "FCkEB/": [
     "Allow someone to add you if they have your contact information saved in their phone contacts."
   ],
@@ -47369,6 +47405,9 @@
   ],
   "FYFpps": [
     "Bundles"
+  ],
+  "FYI3qr": [
+    "Pin"
   ],
   "FYKGsL": [
     "Display details on profile"
@@ -52568,6 +52607,9 @@
   "HQVS/L": [
     "Invite Only"
   ],
+  "HQciZk": [
+    "Waiting for you to press Continue in the pop-up window."
+  ],
   "HQdHg6": [
     "The captcha failed. Please try again."
   ],
@@ -56682,6 +56724,9 @@
   "Iw03yW": [
     "Session attempts per turn"
   ],
+  "Iw0l8o": [
+    "Not now"
+  ],
   "Iw2TUW": [
     "You couldn't claim this gift because someone else beat you to the punch. That's jazz baby!"
   ],
@@ -58001,6 +58046,9 @@
     ],
     "."
   ],
+  "JR4xVI": [
+    "Open Pop-up Window"
+  ],
   "JR5+A0": [
     "Get cool rewards for becoming a Booster!"
   ],
@@ -58113,6 +58161,9 @@
   ],
   "JVLP57": [
     "Let members support you and the server. Monetization for all types of creators and community organizers."
+  ],
+  "JVUsIY": [
+    "There's no voice channel here you can manage. You can pin it later from a channel's settings."
   ],
   "JVW4UN": [
     [
@@ -58461,6 +58512,9 @@
   ],
   "Jec90d": [
     "Deaths"
+  ],
+  "Jecn0l": [
+    "Safari keeps activities from staying signed in until you allow it. Open the pop-up window, then press Continue in it. You won't need to do this again until you quit Safari."
   ],
   "Jepb5L": [
     "Bundle includes: ",
@@ -84411,6 +84465,22 @@
   "Tcul4T": [
     "No available servers"
   ],
+  "Td1mlg": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Make channel private"
+        ],
+        "other": [
+          "Make channels private"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "Td4Sf4": [
     "I couldn’t recall our conversation just now. It’s still saved; check back in a moment."
   ],
@@ -86160,6 +86230,9 @@
   ],
   "UFHNtO": [
     "Nevermind, keep Nitro"
+  ],
+  "UGAfl9": [
+    "Pin to a voice channel?"
   ],
   "UGIjx9": [
     "Role is locked because it is a higher rank than your highest role."
@@ -93515,6 +93588,9 @@
     ],
     "."
   ],
+  "WtSSb8": [
+    "One more step for Safari"
+  ],
   "Wu8BK2": [
     "Something went wrong! Please try again later."
   ],
@@ -93920,6 +93996,49 @@
   ],
   "X3Ekj8": [
     "Nitro exclusive"
+  ],
+  "X3Qd8c": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " year"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " years"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     [
@@ -113100,6 +113219,9 @@
   "d7AN7W": [
     "Create a new channel"
   ],
+  "d7EeAm": [
+    "Couldn't pin your app to that voice channel. Try again, or do it from the channel's settings."
+  ],
   "d7PYNq": [
     "Connect to live audio for group conversations"
   ],
@@ -123173,6 +123295,13 @@
   ],
   "gKcrqM": [
     "Suggested"
+  ],
+  "gKe6Lw": [
+    "Pinned to ",
+    [
+      1,
+      "channelName"
+    ]
   ],
   "gKmKP0": [
     "Expire After"
@@ -138349,6 +138478,9 @@
   "lapGDx": [
     "Offer ends June 20."
   ],
+  "lapk3f": [
+    "Reminder updated."
+  ],
   "large_blue_diamond": [
     "blue",
     "diamond",
@@ -151234,6 +151366,9 @@
   ],
   "peE8ad": [
     "You must be at least eighteen years old to view this channel. Are you over eighteen and willing to see adult content?"
+  ],
+  "peOi1H": [
+    "Voice channel"
   ],
   "peZtJo": [
     "Automatically capture gaming moments with Auto Clips."
@@ -169718,6 +169853,28 @@
   ],
   "v/wmOB": [
     "You won't be able to reopen this tutorial once it's closed."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " gift"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gifts"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "We've sent a confirmation link to ",

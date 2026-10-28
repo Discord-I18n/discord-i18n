@@ -465,6 +465,9 @@
       "username"
     ]
   ],
+  "+AbHxM": [
+    "Intenta de nuevo"
+  ],
   "+Af+Vw": [
     "Los servidores de comunidad deben tener normas o directivas del servidor claramente publicadas para los miembros. Selecciona el canal en el que se encuentra este contenido."
   ],
@@ -27412,7 +27415,7 @@
     "¿Las ventajas adicionales están reemplazando al sistema actual a nivel de servidor?"
   ],
   "8N0BHR": [
-    "Activo hace ",
+    "Activo ",
     [
       1,
       "timeAgo"
@@ -60010,7 +60013,7 @@
     "Falló el pago de tu suscripción Nitro, actualiza tus detalles de pago."
   ],
   "Llo/Ia": [
-    "Headbang"
+    "Sacudida"
   ],
   "Lm2nFc": [
     "Seleccionar amigos"
@@ -74350,7 +74353,7 @@
     " la descripción del servidor"
   ],
   "RP8HFf": [
-    "Monkey Bars"
+    "Barras"
   ],
   "RPIwEb": [
     "Utiliza este marco de perfil de bonificación con una suscripción Nitro activa."
@@ -88769,6 +88772,49 @@
   ],
   "X3Ekj8": [
     "Exclusiva de Nitro"
+  ],
+  "X3Qd8c": [
+    [
+      6,
+      "years",
+      {
+        "one": [
+          [
+            7
+          ],
+          " año"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " años"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", ",
+    [
+      6,
+      "months",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mes"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " meses"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "X3Wvwj": [
     "Se suspendió a ",
@@ -144740,7 +144786,7 @@
     "Usar sonidos externos"
   ],
   "pwbAIk": [
-    "Mainframe"
+    "Tarjeta madre"
   ],
   "pwkxYF": [
     "Sigue por aquí para desbloquear tu primera insignia de Nitro en ",
@@ -155144,7 +155190,7 @@
     " en el servidor."
   ],
   "t9Les4": [
-    "Journal"
+    "Periódico"
   ],
   "t9ZX/I": [
     "Webhooks"
@@ -160574,6 +160620,28 @@
   ],
   "v/wmOB": [
     "Si cierras el tutorial, no podrás abrirlo de nuevo."
+  ],
+  "v01Jn+": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " regalo"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " regalos"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "v01XgL": [
     "Hemos enviado un enlace de confirmación a ",
