@@ -502,7 +502,7 @@
     "Try Again"
   ],
   "+Af+Vw": [
-    "Community Servers must have clearly posted server rules and/or guidelines for members. Please select the channel that hosts this."
+    "Optionally select a channel for your server rules or guidelines, or choose None."
   ],
   "+Anbp9": [
     "Servers"
@@ -10491,9 +10491,6 @@
   "1lWxux": [
     "Already have an account? Log in"
   ],
-  "1m22ZB": [
-    "Notifications"
-  ],
   "1m6qcO": [
     "Early Access"
   ],
@@ -13936,9 +13933,6 @@
   "32u1Dx": [
     "All servers"
   ],
-  "32yow9": [
-    "Custom"
-  ],
   "330TCc": [
     "This is how others see you. You can use special characters and emoji."
   ],
@@ -15285,6 +15279,40 @@
   "3TVY/R": [
     "Rewards"
   ],
+  "3TZUIw": [
+    [
+      1,
+      "underageMessage"
+    ],
+    " You have ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "days",
+          {
+            "one": [
+              [
+                7
+              ],
+              " day"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " days"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " to verify your age before your account will be deleted."
+  ],
   "3TeauK": [
     "Additional Perks are new features you can unlock directly with Boosts, separate from your server's Boost Level. Currently, there are two available: Enhanced Role Styles (which add gradient and holographic effects to roles) and Server Tags (4-character identifiers members can display on their profiles across Discord). Unlike traditional server levels, these perks can be unlocked individually without reaching specific level thresholds."
   ],
@@ -15731,36 +15759,6 @@
       "platforms_info"
     ]
   ],
-  "3axQdB": [
-    "You have ",
-    [
-      8,
-      "$b",
-      [
-        [
-          6,
-          "days",
-          {
-            "one": [
-              [
-                7
-              ],
-              " day"
-            ],
-            "other": [
-              [
-                7
-              ],
-              " days"
-            ]
-          },
-          0,
-          "cardinal"
-        ]
-      ]
-    ],
-    " to verify your age before your account will be deleted. Check your email for instructions on verifying your age."
-  ],
   "3b//lO": [
     "Reset to default"
   ],
@@ -15887,6 +15885,9 @@
   ],
   "3eTjcV": [
     "Widget"
+  ],
+  "3eYXNh": [
+    "Dragon"
   ],
   "3ej1LT": [
     "Custom theme preview"
@@ -18504,9 +18505,6 @@
       ]
     ],
     "."
-  ],
-  "4bP2ZZ": [
-    "Push notification and ping sound"
   ],
   "4bhpIV": [
     "Manifest ETag"
@@ -30601,6 +30599,9 @@
     ],
     " before you can jump to their message."
   ],
+  "8tJXmQ": [
+    "Fire"
+  ],
   "8tUpD8": [
     "Members with this permission can send text-to-speech messages by starting a message with /tts. These messages\ncan be heard by everyone focused on the channel."
   ],
@@ -38076,6 +38077,9 @@
   "BkbUPM": [
     "Manage Plan"
   ],
+  "Bkkno0": [
+    "Valorant"
+  ],
   "Bkmk4Y": [
     "Something went wrong loading verification methods. Please try again."
   ],
@@ -39258,13 +39262,6 @@
   ],
   "C7jhpn": [
     "Redo (⇧⌘Z)"
-  ],
-  "C7m4oh": [
-    "You are not seeing any notifications or unread badges until ",
-    [
-      1,
-      "endTime"
-    ]
   ],
   "C8/T2E": [
     "Choose a file"
@@ -41052,7 +41049,7 @@
     "See All Nitro Perks"
   ],
   "CwC/ll": [
-    "Community Servers are larger spaces built around shared interests. Enabling Community requires setting up safety settings, Rules and Updates channels, and moderation settings."
+    "Community Servers are larger spaces built around shared interests. Enabling Community requires setting up safety settings, an Updates channel, and moderation settings."
   ],
   "CwGuEx": [
     "Start Intro Quest"
@@ -41208,17 +41205,6 @@
   ],
   "D+qW0J": [
     "Allows members to use commands from applications in these channels, including slash commands and context menu commands."
-  ],
-  "D+rEw6": [
-    "You have ",
-    [
-      8,
-      "$b",
-      [
-        "14 days"
-      ]
-    ],
-    " to verify your age before your account will be deleted. Check your email for instructions on verifying your age."
   ],
   "D/157Y": [
     "Block"
@@ -42405,6 +42391,9 @@
       "cosponsorName"
     ],
     " are trying to reach certain kinds of Discord users."
+  ],
+  "DVCXzm": [
+    "Confirm New Price"
   ],
   "DVDvCD": [
     "Sent an invite to join voice"
@@ -45270,9 +45259,6 @@
   ],
   "Ej3B3Y": [
     "Share Link"
-  ],
-  "EjLobP": [
-    "announcements"
   ],
   "EjVVI7": [
     "Follow us for more updates!"
@@ -50565,6 +50551,9 @@
   "Ghp2/B": [
     "Sound"
   ],
+  "GiTC5a": [
+    "Unlimited"
+  ],
   "GiVd2Q": [
     "Get ",
     [
@@ -52841,9 +52830,6 @@
       ]
     ],
     " to participate in this quest."
-  ],
-  "HVah/3": [
-    "All Messages"
   ],
   "HVoKZ5": [
     "Once enabled, getting a role will not bypass a member through verification and Rules. To manually verify members, you can right click a user and select Verify Member, or use the Members tab."
@@ -56322,9 +56308,6 @@
   "InbJ8x": [
     "Selected Stage"
   ],
-  "IngcUv": [
-    "Muting prevents unread badges and notifications from appearing unless you are mentioned."
-  ],
   "InzMn3": [
     "Request sent ",
     [
@@ -56523,6 +56506,9 @@
   ],
   "IqqJNI": [
     "Message Details"
+  ],
+  "Iqr6uY": [
+    "Your Marvel Strike Force account is now connected. Open the game to instantly redeem your power cores."
   ],
   "IquUXd": [
     "You accepted ",
@@ -56756,6 +56742,9 @@
   ],
   "Iw0l8o": [
     "Not now"
+  ],
+  "Iw0mSJ": [
+    "Shop Now"
   ],
   "Iw2TUW": [
     "You couldn't claim this gift because someone else beat you to the punch. That's jazz baby!"
@@ -58988,9 +58977,6 @@
   "JrcRaE": [
     "Clip Info"
   ],
-  "JrySi3": [
-    "Channel Notification Overrides"
-  ],
   "Js8cK3": [
     "Incoming Call..."
   ],
@@ -59186,7 +59172,7 @@
     "DM Spam Filter"
   ],
   "JzbSEY": [
-    "@Mentions + Unreads"
+    "@mentions + Unreads"
   ],
   "Jzd+z/": [
     "Choose a name for your new key"
@@ -61816,6 +61802,9 @@
   "L1N2gh": [
     "Get on Steam"
   ],
+  "L1TjUO": [
+    "Flowers"
+  ],
   "L1TvXF": [
     "artist"
   ],
@@ -62100,6 +62089,9 @@
   ],
   "L8Xfoo": [
     "Add Widget"
+  ],
+  "L8hb2E": [
+    "Goth"
   ],
   "L8jjfu": [
     "If the message is pinned or not"
@@ -72467,6 +72459,9 @@
       "maxUploadPremium"
     ]
   ],
+  "OyM4SV": [
+    "Choose a server to build this app for. The app won’t be shared until you publish."
+  ],
   "OysjL/": [
     "Invalid two-factor code"
   ],
@@ -73831,6 +73826,9 @@
   ],
   "PTHakm": [
     "Create a password"
+  ],
+  "PTIP7V": [
+    "Get started"
   ],
   "PTPbjx": [
     "Unable to copy image"
@@ -77610,9 +77608,6 @@
   "R1f9RT": [
     "Favorite anime lately?"
   ],
-  "R1j5+4": [
-    "Choose when you receive a notification from this channel."
-  ],
   "R1ogUj": [
     "Dominican Republic"
   ],
@@ -77901,9 +77896,6 @@
   ],
   "R98xD5": [
     "Password is required."
-  ],
-  "R9Ej96": [
-    "Notifications Presets"
   ],
   "R9GHya": [
     "Disable"
@@ -79632,9 +79624,6 @@
     ],
     "."
   ],
-  "RpQgm5": [
-    "Highlighted channel name and half dot"
-  ],
   "RpRAZD": [
     "linkFrom"
   ],
@@ -80581,6 +80570,9 @@
   "SBd+Bs": [
     "< 1H LEFT"
   ],
+  "SCAPTL": [
+    "Mentions + Unreads"
+  ],
   "SCIaWK": [
     "Calls you had in 1:1 DMs and group chats in the last week."
   ],
@@ -81428,7 +81420,7 @@
     " to send messages."
   ],
   "SU9K9U": [
-    "Don’t see the server you want? You might not have the right permissions."
+    "Don’t see a server you want? You might not have the right permissions."
   ],
   "SULyIO": [
     "Tower Defense"
@@ -83659,6 +83651,14 @@
   "TMNjFm": [
     "fileType"
   ],
+  "TMNpew": [
+    "Welcome to ",
+    [
+      1,
+      "guildName"
+    ],
+    "!"
+  ],
   "TMukAN": [
     "Add an additional layer of protection to your account with a Security Key."
   ],
@@ -85158,9 +85158,6 @@
   "TqGhOh": [
     "Show Off Your Style"
   ],
-  "Tqd1Af": [
-    "Unread Badges"
-  ],
   "TqdOvC": [
     "My Servers"
   ],
@@ -85646,6 +85643,9 @@
   ],
   "U/bLzU": [
     "Inspire me"
+  ],
+  "U/irIt": [
+    "Who took my jet ski?"
   ],
   "U/uodt": [
     "You must complete the verification steps required by this server."
@@ -89046,6 +89046,13 @@
   "VGJ9ID": [
     "Thanks for being a Nitro member. Here’s an extra Boost for reaching 3 months of Nitro."
   ],
+  "VGLEq/": [
+    "@mentions + Unreads for ",
+    [
+      1,
+      "channelName"
+    ]
+  ],
   "VGRZh7": [
     "Grid"
   ],
@@ -91328,6 +91335,19 @@
   "W6fjkS": [
     "They will still be ignored"
   ],
+  "W6zWaK": [
+    "Get ",
+    [
+      1,
+      "powerCoreQuantity"
+    ],
+    " power cores and ",
+    [
+      1,
+      "orbQuantity"
+    ],
+    " Orbs when you link your Marvel Strike Force account"
+  ],
   "W7AF4C": [
     "Gift ",
     [
@@ -91437,6 +91457,9 @@
       "cardinal"
     ],
     ". This Widget won't show up on your profile until you add at least 1 game."
+  ],
+  "W8Q9fy": [
+    "Your device is on silent, so app sound is off"
   ],
   "W8etVA": [
     [
@@ -92616,9 +92639,6 @@
   "WYj55Y": [
     "Go to original server"
   ],
-  "WYyzI5": [
-    "that’s the annoying part yea lol it’s sooooo chunky"
-  ],
   "WZ+NyG": [
     "Surprise Me"
   ],
@@ -93092,9 +93112,6 @@
         "* Choose the numbers in your username"
       ]
     ]
-  ],
-  "Wgpwpp": [
-    "general"
   ],
   "WhR38i": [
     "Invite friends to the Student Hub for your school"
@@ -94115,9 +94132,6 @@
   ],
   "X4p5uH": [
     "You got a promotion code!"
-  ],
-  "X4wWUi": [
-    "None"
   ],
   "X56QcF": [
     "Name"
@@ -100258,6 +100272,9 @@
   "ZH9aP4": [
     "Private channels"
   ],
+  "ZHHx6R": [
+    "Cats"
+  ],
   "ZHLGSL": [
     "Don't scan any media content. (I trust everyone)"
   ],
@@ -100842,9 +100859,6 @@
   ],
   "ZSbbMJ": [
     "Find support"
-  ],
-  "ZSkXJY": [
-    "Server is currently muted"
   ],
   "ZSt4Tt": [
     "Join servers to hang out with friends and explore new communities."
@@ -103128,9 +103142,6 @@
   ],
   "aGdB3E": [
     "Top perks you can unlock with Boosting"
-  ],
-  "aGpJPX": [
-    "Gift cards can only be redeemed in the country they were purchased in. To redeem, your account's Country/Region setting must match the gift card's currency."
   ],
   "aHB11f": [
     "Thanks for reporting your issue! Feedback like yours helps us improve Video Backgrounds"
@@ -106671,6 +106682,13 @@
   "bRqiqa": [
     "Back to Server Subscriptions Settings"
   ],
+  "bRwRwX": [
+    "Shop for ",
+    [
+      1,
+      "option"
+    ]
+  ],
   "bRz3uW": [
     "Pause Instead"
   ],
@@ -109991,6 +110009,9 @@
   "cLmmeY": [
     "Log Out All Known Devices"
   ],
+  "cLuoAc": [
+    "You're all set. Jump in and say hi."
+  ],
   "cM1H0K": [
     "Cancel Subscription"
   ],
@@ -112887,7 +112908,7 @@
     "Navigate to settings"
   ],
   "d+41qJ": [
-    "A participant in the call you joined has clipping enabled, your voice may be recorded."
+    "Someone has Clips turned on. Your voice may be recorded."
   ],
   "d+6kzl": [
     "Welcome to the Student Hub for ",
@@ -115107,16 +115128,6 @@
   "dhXay8": [
     "Hornwick"
   ],
-  "dhj1ZQ": [
-    [
-      8,
-      "$b",
-      [
-        "Platform pro tip."
-      ]
-    ],
-    " Just a heads up, you can only view and spend your balance on the desktop app or web browser."
-  ],
   "di/pXR": [
     "Mix and match styles to create an unforgettable display name."
   ],
@@ -117322,9 +117333,6 @@
     ],
     " total members"
   ],
-  "eP8yWU": [
-    "Disabled when notification is set to all messages"
-  ],
   "ePFYOS": [
     "Cancel your pending membership change to enable this tier."
   ],
@@ -117722,6 +117730,9 @@
   ],
   "eYHh+z": [
     "Cancel Invite"
+  ],
+  "eYMbUC": [
+    "Popular Searches"
   ],
   "eYP6UV": [
     [
@@ -120501,6 +120512,14 @@
     ],
     " of game time."
   ],
+  "fVtsJF": [
+    "Get ",
+    [
+      1,
+      "powerCoreQuantity"
+    ],
+    " power cores when you link your Marvel Strike Force account"
+  ],
   "fWQTbv": [
     "Increase number of weekly communicators"
   ],
@@ -121605,6 +121624,36 @@
   "fjcCk5": [
     "Message sent!"
   ],
+  "fjqIZp": [
+    "You have ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "days",
+          {
+            "one": [
+              [
+                7
+              ],
+              " day"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " days"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " to verify your age before your account will be deleted."
+  ],
   "fk1/bX": [
     "Incoming Call"
   ],
@@ -121821,6 +121870,9 @@
       ]
     ],
     " the explicit content filter"
+  ],
+  "fmT3tT": [
+    "Open Game"
   ],
   "fmm9jo": [
     "This subscription was purchased on desktop, please change your payment method there."
@@ -122946,9 +122998,6 @@
   ],
   "g9SiE+": [
     "Sexual Themes"
-  ],
-  "g9VImh": [
-    "random"
   ],
   "g9s+dA": [
     "Expires in ",
@@ -126420,9 +126469,6 @@
   "hIhAM3": [
     "Upcoming Downgrade"
   ],
-  "hIt/Nm": [
-    "Search the shop"
-  ],
   "hIvh1W": [
     "Purchase Server Boosts"
   ],
@@ -127051,9 +127097,6 @@
       "username"
     ]
   ],
-  "hZrr6k": [
-    "All Messages"
-  ],
   "hZt7Uf": [
     "Get a limited-edition Nitro profile bundle! Yours to use with Nitro. Claim by 9/30. ",
     [
@@ -127169,23 +127212,6 @@
     "face",
     "hamster",
     "pet"
-  ],
-  "hanRXM": [
-    "Digital gift cards are available in the US at select retailers. Physical cards are coming soon, check out our ",
-    [
-      8,
-      "$link",
-      [
-        "Help Center"
-      ],
-      [
-        [
-          1,
-          "helpCenterLink"
-        ]
-      ]
-    ],
-    " for the latest on where to buy."
   ],
   "hand_splayed": [
     "finger",
@@ -130467,9 +130493,6 @@
   "idIaSI": [
     "Portugal"
   ],
-  "idXSbI": [
-    "This will update unread badges to all messages"
-  ],
   "identification_card": [
     "card",
     "credentials",
@@ -133222,6 +133245,9 @@
     ],
     ")"
   ],
+  "jcB6Kg": [
+    "Anime"
+  ],
   "jcHF+3": [
     "System notifications"
   ],
@@ -135421,6 +135447,9 @@
   "kTtf7o": [
     "Discord does not have access to your contacts"
   ],
+  "kU4Y9v": [
+    "Your Marvel Strike Force account is now connected. Head to the Shop, or open the game to instantly redeem your power cores."
+  ],
   "kUEnxN": [
     "Listening"
   ],
@@ -136998,9 +137027,6 @@
       "skuName"
     ],
     ". Claim your gift before they're gone! Wahoooo!!!"
-  ],
-  "l3doVX": [
-    "You are changing settings manually."
   ],
   "l3hWP6": [
     "Delete Server"
@@ -143995,6 +144021,9 @@
   "n1sscC": [
     "Member rankings will show up here once there's enough gaming activity."
   ],
+  "n2+e09": [
+    "Unlock social features like linked channels and sharing your gameplay with friends."
+  ],
   "n25haz": [
     "Could not load the publishing schedule. Try again."
   ],
@@ -150563,9 +150592,6 @@
     ],
     " starter channels, great job!"
   ],
-  "pGn/bJ": [
-    "Nothing"
-  ],
   "pHEnV5": [
     "Download the Discord app to connect with your teens!"
   ],
@@ -154743,9 +154769,6 @@
     ],
     "."
   ],
-  "qSq0tD": [
-    "Lone Wanderer"
-  ],
   "qSyzdd": [
     "Intense Violence"
   ],
@@ -157521,6 +157544,14 @@
   ],
   "rUK0kk": [
     "Toggle soundboard"
+  ],
+  "rUQUKX": [
+    "You claimed ",
+    [
+      1,
+      "powerCoreQuantity"
+    ],
+    " power cores!"
   ],
   "rUYLJ4": [
     "Choose a file"
@@ -164334,9 +164365,6 @@
   "tFbcuM": [
     "Animated avatar, banner, and profile theme"
   ],
-  "tFqP/P": [
-    "You are not seeing any notifications or unread badges."
-  ],
   "tFvYm+": [
     "If you join, they will still be blocked."
   ],
@@ -166518,9 +166546,6 @@
   ],
   "ttkBhy": [
     "Canceled"
-  ],
-  "tu+ZWJ": [
-    "Mention Only"
   ],
   "tu/tr8": [
     "Finish setting up your server!"
@@ -169063,40 +169088,6 @@
   ],
   "ukbS3E": [
     "Disabling this game server will permanently delete the game instance and all data hosted in the server. This action can’t be undone. If needed, you can download the server’s files from the game panel before proceeding."
-  ],
-  "ukclM1": [
-    [
-      1,
-      "underageMessage"
-    ],
-    " You have ",
-    [
-      8,
-      "$b",
-      [
-        [
-          6,
-          "days",
-          {
-            "one": [
-              [
-                7
-              ],
-              " day"
-            ],
-            "other": [
-              [
-                7
-              ],
-              " days"
-            ]
-          },
-          0,
-          "cardinal"
-        ]
-      ]
-    ],
-    " to verify your age before your account will be deleted. Check your email for instructions on verifying your age."
   ],
   "ukdP2q": [
     "ukdP2q"
@@ -179668,9 +179659,6 @@
     ],
     " to capture a clip while gaming."
   ],
-  "y59NJm": [
-    "@Mentions"
-  ],
   "y5FgMk": [
     "Image File"
   ],
@@ -181566,6 +181554,19 @@
     ],
     " or more."
   ],
+  "yl/vO0": [
+    "You claimed ",
+    [
+      1,
+      "powerCoreQuantity"
+    ],
+    " power cores and ",
+    [
+      1,
+      "orbQuantity"
+    ],
+    " Orbs!"
+  ],
   "yl1iMm": [
     "Custom Theme"
   ],
@@ -182040,9 +182041,6 @@
   "yxVsBJ": [
     "Upload a file"
   ],
-  "yxiV9W": [
-    "Customize"
-  ],
   "yxqMCD": [
     "Update Required"
   ],
@@ -182513,26 +182511,6 @@
   ],
   "z9qAt9": [
     "You need to be friends to add them to a group DM."
-  ],
-  "z9qozJ": [
-    [
-      8,
-      "$p",
-      [
-        "You are now a member of"
-      ]
-    ],
-    [
-      8,
-      "$p",
-      [
-        [
-          1,
-          "guildName"
-        ],
-        "!"
-      ]
-    ]
   ],
   "z9znpa": [
     "Want to stream ",
@@ -184383,9 +184361,6 @@
   ],
   "zstmkn": [
     "Render Markdown"
-  ],
-  "ztO+l+": [
-    "Use Presets"
   ],
   "ztXW8V": [
     "Use ",
