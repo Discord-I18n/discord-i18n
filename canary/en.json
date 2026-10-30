@@ -4897,7 +4897,7 @@
     "Don't forget to save your changes!"
   ],
   "/lWYYS": [
-    "Set 3-5 tasks for your new members to do. Get them to ",
+    "Optionally add up to 5 tasks for your new members to do. Get them to ",
     [
       8,
       "$b",
@@ -5925,6 +5925,9 @@
   ],
   "06syeU": [
     "Do you have an invite?"
+  ],
+  "07XimM": [
+    "Attachments only"
   ],
   "07lzz7": [
     "Boosting is unavailable while Nitro credits are active"
@@ -15888,9 +15891,6 @@
   ],
   "3eTjcV": [
     "Widget"
-  ],
-  "3eYXNh": [
-    "Dragon"
   ],
   "3ej1LT": [
     "Custom theme preview"
@@ -30608,9 +30608,6 @@
     ],
     " before you can jump to their message."
   ],
-  "8tJXmQ": [
-    "Fire"
-  ],
   "8tUpD8": [
     "Members with this permission can send text-to-speech messages by starting a message with /tts. These messages\ncan be heard by everyone focused on the channel."
   ],
@@ -38100,9 +38097,6 @@
   ],
   "BkbUPM": [
     "Manage Plan"
-  ],
-  "Bkkno0": [
-    "Valorant"
   ],
   "Bkmk4Y": [
     "Something went wrong loading verification methods. Please try again."
@@ -46185,6 +46179,9 @@
   "F3+Xei": [
     "Resize Friends List"
   ],
+  "F3GyfJ": [
+    "Collect 4 items and unlock an exclusive Avatar Decoration before it's gone."
+  ],
   "F3bDaX": [
     "Events in private channels will only be visible to people who can access that channel."
   ],
@@ -46769,9 +46766,6 @@
   ],
   "FGzLkK": [
     "No team selected for this server. Please select a team so we can send you payments."
-  ],
-  "FH2Udn": [
-    "Add Preview Bot"
   ],
   "FHBa/1": [
     "Custom Color"
@@ -47524,6 +47518,9 @@
   ],
   "FZ2J3Y": [
     "Join the Student Hub for any school you’re attending."
+  ],
+  "FZIHQN": [
+    "Reload"
   ],
   "FZL5Q5": [
     "Play ",
@@ -59079,7 +59076,7 @@
     "New Clips"
   ],
   "JuhUTS": [
-    "You must have a welcome message and at least 3 To Do tasks."
+    "You must have a welcome message and valid channels for any To Do tasks."
   ],
   "Juk17F": [
     "Now you can long press the plus button and tap ",
@@ -61833,9 +61830,6 @@
   "L1N2gh": [
     "Get on Steam"
   ],
-  "L1TjUO": [
-    "Flowers"
-  ],
   "L1TvXF": [
     "artist"
   ],
@@ -62120,9 +62114,6 @@
   ],
   "L8Xfoo": [
     "Add Widget"
-  ],
-  "L8hb2E": [
-    "Goth"
   ],
   "L8jjfu": [
     "If the message is pinned or not"
@@ -78159,6 +78150,13 @@
     ],
     "'s friend request."
   ],
+  "REnNUn": [
+    [
+      1,
+      "count"
+    ],
+    " queued"
+  ],
   "REr5AI": [
     "Moderators must have two-factor authentication enabled to ban, kick, or timeout members and delete messages. Only the server owner can change this setting if they have 2FA enabled."
   ],
@@ -91121,6 +91119,9 @@
   "W+cPjG": [
     "Use a global right to left gesture to activate Launch Pad that you activate from the right edge (on Android this may conflict with system gestures if you have them enabled and while this keeps swipe to reply enabled, there may be conflicts we still need to fix)."
   ],
+  "W+la29": [
+    "Show more"
+  ],
   "W/A4Qp": [
     "View Channel"
   ],
@@ -98186,6 +98187,9 @@
   "YV89pN": [
     "Your heart's been aching, but you're too shy to say it"
   ],
+  "YVFKfP": [
+    "Approve permissions"
+  ],
   "YVFRoA": [
     "User Blocked"
   ],
@@ -100367,9 +100371,6 @@
   "ZH9aP4": [
     "Private channels"
   ],
-  "ZHHx6R": [
-    "Cats"
-  ],
   "ZHLGSL": [
     "Don't scan any media content. (I trust everyone)"
   ],
@@ -101309,6 +101310,9 @@
   ],
   "ZYQ2zU": [
     "Enjoy 7 days of HD streaming, on us!"
+  ],
+  "ZYdpp7": [
+    "Deadpool/Wolverine"
   ],
   "ZZ5jSz": [
     "Find me on"
@@ -106774,13 +106778,6 @@
   "bRqiqa": [
     "Back to Server Subscriptions Settings"
   ],
-  "bRwRwX": [
-    "Shop for ",
-    [
-      1,
-      "option"
-    ]
-  ],
   "bRz3uW": [
     "Pause Instead"
   ],
@@ -108631,6 +108628,9 @@
   ],
   "brtoLr": [
     "Experimental"
+  ],
+  "brw6oR": [
+    "Interaction Info"
   ],
   "bs+W8E": [
     "There are still pending members that haven't passed your screen."
@@ -116626,6 +116626,9 @@
       "perk"
     ],
     " - no level required"
+  ],
+  "e8XOnl": [
+    "For this app to function, you need to approve some permissions first."
   ],
   "e8hzDQ": [
     "Unmute ",
@@ -128854,6 +128857,9 @@
   "hzg6Tk": [
     "Manage Server Privacy"
   ],
+  "hzgPbZ": [
+    "Queued messages"
+  ],
   "i+986w": [
     "Friends List Options"
   ],
@@ -133363,9 +133369,6 @@
       "count"
     ],
     ")"
-  ],
-  "jcB6Kg": [
-    "Anime"
   ],
   "jcHF+3": [
     "System notifications"
@@ -144645,6 +144648,9 @@
     ],
     ". They can also @mention all roles, even if the role's \"Allow anyone to mention this role\" permission is disabled."
   ],
+  "nEMoeN": [
+    "Show less"
+  ],
   "nEOg1N": [
     "Delete Post"
   ],
@@ -145210,6 +145216,9 @@
   ],
   "nOqJcX": [
     "Unable to add filter"
+  ],
+  "nOrtg9": [
+    "Itch"
   ],
   "nOtPMM": [
     "You cannot modify this permission because none of your roles have it."
@@ -170958,30 +170967,6 @@
   "vPw6j0": [
     "Tell us about your video backgrounds experience."
   ],
-  "vPwmA0": [
-    "You must have ",
-    [
-      6,
-      "numChattableChannels",
-      {
-        "one": [
-          [
-            7
-          ],
-          " channel"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " channels"
-        ]
-      },
-      0,
-      "cardinal"
-    ],
-    " new members can talk in"
-  ],
   "vQC6vR": [
     "Sync this account"
   ],
@@ -174125,7 +174110,7 @@
     "If you leave, they will still be ignored."
   ],
   "wXFbgZ": [
-    "You must have a welcome message and at least 3 To Do tasks."
+    "You must have a welcome message and valid channels for any To Do tasks."
   ],
   "wXKj8c": [
     "Sao Tome and Principe"
@@ -177245,6 +177230,9 @@
   ],
   "xDRab3": [
     "Customize your profile"
+  ],
+  "xDtQAQ": [
+    "Fandom"
   ],
   "xE9WGt": [
     "Want to use this emoji everywhere? Join the server."
