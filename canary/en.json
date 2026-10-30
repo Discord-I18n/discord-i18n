@@ -18478,14 +18478,6 @@
   "4ahTBl": [
     "3. Pick an emoji"
   ],
-  "4b2ByP": [
-    "Then ",
-    [
-      1,
-      "regularPrice"
-    ],
-    "/month"
-  ],
   "4bDptI": [
     "Blocked"
   ],
@@ -27010,6 +27002,9 @@
       "count"
     ]
   ],
+  "7ff2Gs": [
+    "Top trending games"
+  ],
   "7gBhmO": [
     "No roles were found."
   ],
@@ -27233,18 +27228,6 @@
   ],
   "7j5bMU": [
     "Cancel Subscription"
-  ],
-  "7j70dP": [
-    "Save ",
-    [
-      2,
-      "percent"
-    ],
-    "% on ",
-    [
-      1,
-      "premiumGroupProductName"
-    ]
   ],
   "7jN3FC": [
     "You will be able to hear each other"
@@ -31489,6 +31472,9 @@
   ],
   "9BGJ1m": [
     "Reply Member List Search"
+  ],
+  "9BIezJ": [
+    "Plays"
   ],
   "9BRB6M": [
     "Want to start your own? ",
@@ -43616,6 +43602,13 @@
   "E5v/a/": [
     "Cannot disable risky permissions because this would revoke your own permissions."
   ],
+  "E5vkHs": [
+    "Because you played ",
+    [
+      1,
+      "gameName"
+    ]
+  ],
   "E62dXo": [
     "Failed to connect your ",
     [
@@ -44728,6 +44721,30 @@
       ]
     ],
     " to get your reward."
+  ],
+  "ESu5eZ": [
+    [
+      1,
+      "name"
+    ],
+    " is live in ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "server"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpenServer"
+        ]
+      ]
+    ],
+    ", but its commands didn’t update. Publish again to retry."
   ],
   "ETCmRa": [
     "You need to set a text channel that is accessible to all members before setting a Custom Invite Link."
@@ -49247,13 +49264,6 @@
   ],
   "GEuu/O": [
     "(Elevated) Granted By"
-  ],
-  "GEwdVw": [
-    [
-      2,
-      "percent"
-    ],
-    "% Off"
   ],
   "GF433I": [
     "Support the server"
@@ -57990,6 +58000,9 @@
   "JM7Y2D": [
     "Voice message recording stopped because Discord wasn't active."
   ],
+  "JMTGC3": [
+    "Games your friends are into"
+  ],
   "JMWqry": [
     "Join the Conversation"
   ],
@@ -63957,6 +63970,26 @@
       "number"
     ]
   ],
+  "LuS8a/": [
+    "Your changes are live in ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "server"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpenServer"
+        ]
+      ]
+    ],
+    "."
+  ],
   "LuYDy3": [
     "Set a unique sound for ",
     [
@@ -68452,6 +68485,9 @@
   ],
   "NTq0AZ": [
     "View all of your friends and direct messages, or start a new private conversation."
+  ],
+  "NTv8WZ": [
+    "Games"
   ],
   "NU7Dex": [
     [
@@ -74233,6 +74269,9 @@
   "Pc5IQC": [
     "Failed to verify your birthday, please try again"
   ],
+  "Pc6FRV": [
+    "Jump back in"
+  ],
   "PcOdvX": [
     "Update Customization Question"
   ],
@@ -76874,9 +76913,6 @@
       ]
     ]
   ],
-  "Qk6r1a": [
-    "Show only"
-  ],
   "QkGMP3": [
     "Sí"
   ],
@@ -79420,6 +79456,9 @@
   "RiiKV0": [
     "You can't make an invite for that channel. Let's try another one!"
   ],
+  "Rism7w": [
+    "Featured"
+  ],
   "Rj1Qys": [
     "Early Access"
   ],
@@ -81612,6 +81651,9 @@
   ],
   "SVParY": [
     "Loading finished"
+  ],
+  "SVexhg": [
+    "Game"
   ],
   "SW3lpH": [
     "Don't leave"
@@ -90386,6 +90428,9 @@
   "Vfbar/": [
     "Profile Effect & Frame"
   ],
+  "Vfebhe": [
+    "Show Only"
+  ],
   "Vfq58K": [
     "Vfq58K"
   ],
@@ -98612,6 +98657,9 @@
   "YicFbD": [
     "Something else"
   ],
+  "YieJl5": [
+    "Theme"
+  ],
   "YieyPi": [
     "Remove Stage moderator from channel."
   ],
@@ -101954,6 +102002,30 @@
   "ZmwvDc": [
     "Age-Restricted Channel"
   ],
+  "ZnQW4S": [
+    [
+      1,
+      "name"
+    ],
+    " is live in ",
+    [
+      8,
+      "$link",
+      [
+        [
+          1,
+          "server"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpenServer"
+        ]
+      ]
+    ],
+    ", but its channel wasn’t added."
+  ],
   "ZnbiGS": [
     "Something broke on our end. Your work so far is saved."
   ],
@@ -103187,6 +103259,9 @@
   ],
   "aDZSuz": [
     "Toggle media keyboard"
+  ],
+  "aDZysP": [
+    "Item Type"
   ],
   "aE02Rz": [
     "Reset Nickname"
@@ -119927,6 +120002,9 @@
   "fBmhE9": [
     "Adventuring pays off. Enjoy the additional time with your premium perks."
   ],
+  "fBsbex": [
+    "Official server"
+  ],
   "fBsloy": [
     "Oops!"
   ],
@@ -121617,6 +121695,9 @@
   ],
   "fhY6s9": [
     "Activity"
+  ],
+  "fi04zk": [
+    "Rank"
   ],
   "fi3UQN": [
     "Show Game Library"
@@ -132483,9 +132564,6 @@
   ],
   "jK+wdr": [
     "Show personalized messages"
-  ],
-  "jK2oto": [
-    "Scroll left or right to view other badges"
   ],
   "jKYAPu": [
     "There are issues with your regex input. Please correct the highlighted errors above. ",
@@ -150598,6 +150676,37 @@
     ],
     "/month. Cancel anytime."
   ],
+  "pC8Q1+": [
+    "Gift cards can only be redeemed in the country they were purchased in. To redeem, your account's ",
+    [
+      8,
+      "$link",
+      [
+        "Country/Region"
+      ],
+      [
+        [
+          1,
+          "countryRegionLink"
+        ]
+      ]
+    ],
+    " setting must match the gift card's currency. One exception: gift cards priced in euros can be redeemed in any country that uses euros. Make sure to ",
+    [
+      8,
+      "$link",
+      [
+        "check"
+      ],
+      [
+        [
+          1,
+          "giftCardAvailabilityLink"
+        ]
+      ]
+    ],
+    " which countries Discord gift cards are available in before purchasing."
+  ],
   "pCBti+": [
     "Your account is scheduled to self-destruct soon."
   ],
@@ -154105,22 +154214,6 @@
   "q7A8hP": [
     "Work With Us"
   ],
-  "q7PYXq": [
-    [
-      1,
-      "badgeName"
-    ],
-    ", badge ",
-    [
-      2,
-      "position"
-    ],
-    " of ",
-    [
-      2,
-      "total"
-    ]
-  ],
   "q7WNGv": [
     "Hide Invite Links"
   ],
@@ -155939,6 +156032,9 @@
     ],
     "."
   ],
+  "qpGTIa": [
+    "Play with your friends"
+  ],
   "qpWnyC": [
     "Go to settings"
   ],
@@ -156955,33 +157051,6 @@
       ]
     ]
   ],
-  "rCpGVA": [
-    [
-      1,
-      "discountedPrice"
-    ],
-    "/month for ",
-    [
-      6,
-      "discountInterval",
-      {
-        "one": [
-          [
-            7
-          ],
-          " month"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " months"
-        ]
-      },
-      0,
-      "cardinal"
-    ]
-  ],
   "rD/nte": [
     "metal"
   ],
@@ -157970,6 +158039,9 @@
   ],
   "raP9dM": [
     "Active"
+  ],
+  "raRLQb": [
+    "Trending games"
   ],
   "raRxxT": [
     "Unusual DM activity detected"
@@ -164153,9 +164225,6 @@
   "t1T3kD": [
     "Copy friend link"
   ],
-  "t1Ztrp": [
-    "Themes"
-  ],
   "t1qXlK": [
     "Tab bar"
   ],
@@ -168289,6 +168358,13 @@
       ]
     ],
     "."
+  ],
+  "uL4ClK": [
+    [
+      2,
+      "count"
+    ],
+    " new"
   ],
   "uL4oBf": [
     "Bar"
