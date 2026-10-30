@@ -4985,8 +4985,20 @@
     ],
     " published to ",
     [
-      1,
-      "server"
+      8,
+      "$link",
+      [
+        [
+          1,
+          "server"
+        ]
+      ],
+      [
+        [
+          1,
+          "onOpenServer"
+        ]
+      ]
     ],
     "."
   ],
@@ -6443,6 +6455,9 @@
   ],
   "0H5OT2": [
     "Try sending another one!"
+  ],
+  "0H6Cdy": [
+    "Without a moderator channel, raid alerts and lockdown notices won't be delivered."
   ],
   "0HG5pG": [
     "By clicking “Get Nitro” you agree to the Terms of Service and Paid Services Terms. This is a recurring subscription. We'll charge your Google Play account today and every ",
@@ -33403,6 +33418,9 @@
   "9yh+dM": [
     "Give them a high five!"
   ],
+  "9zBM8L": [
+    "A service we depend on hit its limit. Your work so far is saved."
+  ],
   "9zwziY": [
     "Remove Nameplate"
   ],
@@ -56255,6 +56273,9 @@
   "IlXyd0": [
     "New members must verify their phone number"
   ],
+  "Im1k9X": [
+    "Show more…"
+  ],
   "ImAOh5": [
     "name@school.edu"
   ],
@@ -65243,6 +65264,13 @@
     ],
     "?"
   ],
+  "MLgoex": [
+    "In use by ",
+    [
+      1,
+      "appName"
+    ]
+  ],
   "MLiD1e": [
     "Roles matching ",
     [
@@ -66503,9 +66531,6 @@
   ],
   "MmIrpf": [
     "WOAH THERE. WAY TOO SPICY"
-  ],
-  "MmWif0": [
-    "Other projects"
   ],
   "MmcIbA": [
     "This downgrade takes effect at your next renewal."
@@ -81743,6 +81768,34 @@
   ],
   "SY4sdZ": [
     "ICYMI"
+  ],
+  "SY6j5V": [
+    "In use by ",
+    [
+      1,
+      "appName"
+    ],
+    " and ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " other app"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " other apps"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "SY9tyI": [
     "Remind Friends"
@@ -97498,6 +97551,9 @@
   "YH7PkD": [
     "silent"
   ],
+  "YHDMK6": [
+    "Shared projects"
+  ],
   "YHOXWy": [
     [
       8,
@@ -101880,6 +101936,9 @@
   "ZmwvDc": [
     "Age-Restricted Channel"
   ],
+  "ZnbiGS": [
+    "Something broke on our end. Your work so far is saved."
+  ],
   "ZnkeXs": [
     "Key removed!"
   ],
@@ -105510,7 +105569,7 @@
     "What isn't working well?"
   ],
   "avt0ax": [
-    "Something went wrong."
+    "Something unexpected went wrong. Your work so far is saved."
   ],
   "avyV7P": [
     "Ignore"
@@ -113451,7 +113510,7 @@
     "Widget already added"
   ],
   "d8lNBq": [
-    "A service we rely on is busy right now."
+    "A service we depend on hit its limit. Your work so far is saved."
   ],
   "d8o6lc": [
     "Get Nitro"
@@ -122973,13 +123032,6 @@
     [
       1,
       "fileType"
-    ]
-  ],
-  "g6TP7T": [
-    "Remix ",
-    [
-      1,
-      "name"
     ]
   ],
   "g6dipd": [
@@ -138538,6 +138590,9 @@
   "lXHojr": [
     "Resend message"
   ],
+  "lXJ+cv": [
+    "Select a channel to turn on Activity Alerts."
+  ],
   "lXPbJb": [
     "Product Type"
   ],
@@ -141323,6 +141378,9 @@
   "mUT8bO": [
     "Ready your airhorns! You can now drop into voice channels in style with Soundboard sound. Now available on Nitro."
   ],
+  "mUYiYm": [
+    "Create an editable copy of this app to use as-is or customize."
+  ],
   "mUbulW": [
     "You are receiving notifications from all messages in this server, but you can override it here"
   ],
@@ -141633,7 +141691,7 @@
     "Some roles were not mentioned or added to the thread."
   ],
   "maL0+X": [
-    "Where should your remix live?"
+    "Where do you want to put it?"
   ],
   "maMtqM": [
     "Nitro credits give you Nitro for a limited amount of time."
@@ -164059,7 +164117,7 @@
     "Added a custom description option for Resource pages"
   ],
   "t1R7Rt": [
-    "A service we rely on took too long to answer."
+    "A service we depend on stopped responding. Your work so far is saved."
   ],
   "t1SOId": [
     [
@@ -164552,28 +164610,6 @@
           "handleOnAgeGatedContentHook"
         ]
       ]
-    ]
-  ],
-  "tHMW7U": [
-    [
-      6,
-      "count",
-      {
-        "one": [
-          [
-            7
-          ],
-          " unread project"
-        ],
-        "other": [
-          [
-            7
-          ],
-          " unread projects"
-        ]
-      },
-      0,
-      "cardinal"
     ]
   ],
   "tHT/Vt": [
@@ -181982,7 +182018,7 @@
     "Remove from Wishlist"
   ],
   "yreXyD": [
-    "A service we rely on failed."
+    "A service we depend on is down. Your work so far is saved."
   ],
   "ysbNDc": [
     "Vaporizing"
