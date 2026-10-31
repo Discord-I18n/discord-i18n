@@ -1748,6 +1748,9 @@
   "+f0bXQ": [
     "Skicka ett slumpmässigt välkomstmeddelande när någon ansluter till servern."
   ],
+  "+fIPjg": [
+    "Unna dig Nitro eller utforska butiken för att hitta något du gillar."
+  ],
   "+fPCTZ": [
     "Se till att du inte har angett ditt lösenord eller någon annan känslig information."
   ],
@@ -3305,6 +3308,9 @@
   "/F7Z2y": [
     "Totalt"
   ],
+  "/FQWfA": [
+    "Gåvokortssaldo"
+  ],
   "/FWKKC": [
     "Du kan visa dem när som helst"
   ],
@@ -4100,6 +4106,9 @@
   ],
   "/YEoH2": [
     "Den här servern är åldersbegränsad i din region. Vi har fastställt att du tillhör en åldersgrupp som omfattas av begränsningen. Om vi har gjort ett misstag kan du bekräfta igen."
+  ],
+  "/YovOw": [
+    "Samlingsföremål"
   ],
   "/YuDAs": [
     "Ansluten"
@@ -6858,6 +6867,37 @@
   "0ZkNDU": [
     "Det gick inte att ta bort tagg"
   ],
+  "0Zl+Xt": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Köper du ett föremål från spelbutiken i ",
+    [
+      1,
+      "applicationName"
+    ],
+    " innebär det att du köper en begränsad licens för att använda föremålet i det listade spelet. Köpet är inte återbetalningsbart. Föremålet kommer att levereras av utvecklaren direkt i spelet. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Berätta gärna vad du tycker om den nya applayouten."
   ],
@@ -8173,6 +8213,9 @@
   ],
   "11e3sB": [
     "Håll i lektioner, erbjud läxhjälp och studera tillsammans."
+  ],
+  "11g67A": [
+    "Nästa förlängning"
   ],
   "11oKq+": [
     "Cypern"
@@ -10517,6 +10560,9 @@
   "26oeP8": [
     "Ange en anledning."
   ],
+  "26tjwd": [
+    "Lös in gåvokort"
+  ],
   "26uMPL": [
     "Sjukt grym!!"
   ],
@@ -11348,6 +11394,29 @@
   ],
   "2PKrQO": [
     "Prova den här looken"
+  ],
+  "2PiTTi": [
+    "Gåva till ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Du har anslutit ditt Xbox-konto förut, men gör det igen för att få de nya funktionerna."
@@ -12361,6 +12430,77 @@
   "2pG5Ga": [
     "Prenumerera"
   ],
+  "2pNIbI": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” registrerar du dig för en löpande prenumeration. Du kommer att debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag. När din provperiod tar slut ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " debiteras du ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus tillämpliga skatter var ",
+    [
+      1,
+      "interval"
+    ],
+    " tills du avbryter prenumerationen. Priser kan ändras. Vi skickar en påminnelse innan din provperiod tar slut. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Ändrat bakgrund för Upptäck servrar"
   ],
@@ -12813,6 +12953,9 @@
   "2zGdAW": [
     "Pröva Nitro!"
   ],
+  "2zUa6I": [
+    "Prenumeration"
+  ],
   "2zdDw5": [
     "Genom att klicka på ”",
     [
@@ -12934,6 +13077,9 @@
   ],
   "30+sih": [
     "Anmälningar delade av dig"
+  ],
+  "302Ck/": [
+    "Din betalningsmetod har sparats"
   ],
   "302tKP": [
     "Skaffa föremål"
@@ -15114,6 +15260,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "ZIP-/postnummer"
+  ],
   "3jprCb": [
     "Det gick inte att behandla ändringen på grund av en väntande betalning."
   ],
@@ -15125,6 +15274,9 @@
   ],
   "3k4hTU": [
     "Inaktivera aktivitetsdelning?"
+  ],
+  "3kMstB": [
+    "Dina sparade betalningsmetoder matchar inte ditt nuvarande land/din nuvarande region. Om du lägger till en ny uppdateras ditt land/din region."
   ],
   "3kVEg0": [
     "Om du lämnar kan du gå med i en annan grupplan först efter att nedkylningsperioden på ",
@@ -15623,6 +15775,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Engångsgåva"
   ],
   "3x/M9Z": [
     "Butiken publicerades ",
@@ -16298,6 +16453,37 @@
   ],
   "4EGMWL": [
     "Stäng stream"
+  ],
+  "4EZ0L7": [
+    "Genom att klicka på ett köpalternativ nedan godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Köper du ett föremål från Butiken innebär det att du köper en begränsad licens för att använda detta föremål på Discord. Läs mer i avsnittet ”Virtuella varor” ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Detta köp är inte återbetalningsbart. Föremålet blir tillgängligt omedelbart i inställningarna för din användarprofil."
   ],
   "4Egr5O": [
     "Lås upp varenda emoji och använd dem var som helst med Nitro."
@@ -18564,6 +18750,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Nästa förlängning ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -19740,6 +19934,9 @@
   "5dX4UM": [
     "Ingen GIF:are matchar din sökning."
   ],
+  "5dmUS+": [
+    "Jag godkänner omedelbar leverans av mitt digitala köp och är medveten om att jag förlorar rätten till en återbetalning, utom i de fall som anges i återbetalningspolicyn, när köpet är slutfört."
+  ],
   "5dxvxs": [
     "Jag vet inte hur jag ska göra klart det"
   ],
@@ -19872,6 +20069,51 @@
   ],
   "5fZHp3": [
     "Skicka inbjudan"
+  ],
+  "5fbNBX": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". När du hämtar ett föremål från ",
+    [
+      1,
+      "applicationName"
+    ],
+    " betyder det att du hämtar en begränsad licens för att använda detta föremål på Discord. Läs mer ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Inlösen av Orbs återbetalas inte. Detta föremål kommer att levereras av utvecklaren direkt i spelet. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Se full beskrivning"
@@ -21230,6 +21472,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " har lagts till på ditt konto"
   ],
   "66YyBJ": [
     "En avatardekoration för att piffa upp din Discord-profil. Behåll den med Nitro!"
@@ -23604,6 +23853,9 @@
   "6yrpFR": [
     "Byt\nikon"
   ],
+  "6zCzw1": [
+    "Det gick inte att lägga till den här betalningsmetoden. Försök igen eller använd en annan betalningsmetod."
+  ],
   "6zFA/T": [
     "Väldigt, väldigt tidigt"
   ],
@@ -24288,6 +24540,9 @@
   ],
   "7LL+Fw": [
     "USA"
+  ],
+  "7LeLN4": [
+    "Nitro-provperiod tillämpad"
   ],
   "7LgVmt": [
     "Granska säkerhetstips"
@@ -25745,6 +26000,9 @@
   "7qbp3B": [
     "… mer"
   ],
+  "7r4HPu": [
+    "Bekräfta och betala"
+  ],
   "7r4OKg": [
     "Tillåt synkade prenumeranter att använda dina anpassade emotikoner för Twitch i Discord."
   ],
@@ -25806,6 +26064,14 @@
   ],
   "7sW4h1": [
     "Ingen med det namnet kunde hittas."
+  ],
+  "7sYIBL": [
+    "Genom ge bort ett år sparar du ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Snyggt drag!"
   ],
   "7spYft": [
     "Uppdatera betalningsmetoden"
@@ -26595,6 +26861,25 @@
   "8CVUrV": [
     "Gratis Nitro-provperiod"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "månad"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månader"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Detta blir en engångsavgift för tiden som valts. Du kommer inte att debiteras varje år."
   ],
@@ -26880,6 +27165,14 @@
   ],
   "8Joh+p": [
     "Tala från podium"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " med Nitro"
   ],
   "8JzOBn": [
     "Standardkanaler behöver ",
@@ -27899,6 +28192,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Varje månad"
+  ],
   "8gpzp6": [
     "Nedladdningsbart innehåll"
   ],
@@ -27940,6 +28236,27 @@
   ],
   "8ihs9i": [
     "Det gick inte att samla in prestandaspår"
+  ],
+  "8imbq5": [
+    "Boostar ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA avslutas ",
@@ -29779,6 +30096,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " tillgängliga"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -29803,6 +30127,9 @@
   ],
   "9Oq93m": [
     "Medlemmar"
+  ],
+  "9OxfNK": [
+    "Utforska butiken"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31172,6 +31499,9 @@
     ],
     " har gått."
   ],
+  "9yHcmL": [
+    "Prenumerationsrabatt tillämpad"
+  ],
   "9yLOND": [
     "Borttagen den ",
     [
@@ -31280,6 +31610,87 @@
   ],
   "A+pogv": [
     "Visa resultat"
+  ],
+  "A+qfZ+": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” registrerar du dig för en löpande prenumeration. Du kommer att debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag och ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " i ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". När din provperiod tar slut ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " debiteras du ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus eventuella skatter varje ",
+    [
+      1,
+      "interval"
+    ],
+    " tills du avbryter prenumerationen. Priser kan ändras. Vi skickar en påminnelse innan din provperiod tar slut. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Skapad"
@@ -32009,6 +32420,9 @@
   "AM3mzX": [
     "Fil"
   ],
+  "AM9XGb": [
+    "Gåvoprenumeration"
+  ],
   "AMHrre": [
     "Ge oss feedback"
   ],
@@ -32583,6 +32997,13 @@
   "AcJ4ke": [
     "Ställ in de timmar då din tonåring inte kan använda Discord. Tonåringen får inga aviseringar och har inte åtkomst till Discord under den tiden."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " månader"
+  ],
   "AcaNYw": [
     "Vill du att den här servern ska kännas unik? Lås upp egna serverbanners med ",
     [
@@ -32808,6 +33229,13 @@
   ],
   "AfrvRD": [
     "Köp alla"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " har lagts till på ditt konto"
   ],
   "AgMngw": [
     "Orbs-saldo: ",
@@ -33624,6 +34052,9 @@
   ],
   "AzkvWe": [
     "Aktuell ruta"
+  ],
+  "B+/GvM": [
+    "Ange ZIP-/postnummer"
   ],
   "B+cbLS": [
     "Byta till online?"
@@ -34505,6 +34936,9 @@
   "BLqYQa": [
     "Redigera betalningsmetod"
   ],
+  "BLu9EI": [
+    "Lägg till en annan betalningsmetod"
+  ],
   "BLuvck": [
     "Minst ",
     [
@@ -34552,6 +34986,14 @@
   ],
   "BMTj28": [
     "Spelar"
+  ],
+  "BMVyQO": [
+    "Betala återstående ",
+    [
+      1,
+      "amount"
+    ],
+    " i ett steg. Vi sparar din betalningsmetod till nästa gång."
   ],
   "BMlbE7": [
     "Denna ansökan har dragits tillbaka."
@@ -34723,6 +35165,9 @@
   ],
   "BPoc9u": [
     "Kopplar automatiskt bort dem från en röst- eller podiekanal"
+  ],
+  "BPzQj4": [
+    "Köp"
   ],
   "BQFHXW": [
     "Du måste vara 18 år eller äldre för att vara en ansluten vårdnadshavare"
@@ -35568,6 +36013,42 @@
   "BkVb1X": [
     "Nya vänner som din tonåring lagt till eller accepterat"
   ],
+  "BkYev7": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Köper du ett föremål från butiken innebär det att du köper en begränsad licens för att använda detta föremål på Discord. Läs mer i avsnittet ”Virtuella varor” ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Detta köp är inte återbetalningsbart. Föremålet blir tillgängligt omedelbart i inställningarna för din användarprofil."
+  ],
   "BkZhUI": [
     "Endast tillgängligt på mobil"
   ],
@@ -35763,6 +36244,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Kod"
+  ],
   "Bn1J+a": [
     "Lös in din gåva"
   ],
@@ -35771,6 +36255,20 @@
   ],
   "BnSq1I": [
     "Ej ansluten"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Ändra"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -36920,6 +37418,37 @@
   "CCU/wn": [
     "Beroende på svaren från folk tilldelar du dem kanaler och/eller roller."
   ],
+  "CCVlIb": [
+    "Genom att klicka på ”Lös in” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för gåvokort"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " och ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för plånbok"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "CCiFY7": [
     "Du respawnade."
   ],
@@ -38050,6 +38579,14 @@
   "Chg2zd": [
     "Låter medlemmar skapa trådar bara för inbjudna i den här kanalen."
   ],
+  "Chj1Ke": [
+    "Rabatten gäller till ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Låter länkar som medlemmarna delar visa inbäddat innehåll i textkanaler."
   ],
@@ -39130,6 +39667,33 @@
   ],
   "DDpHZG": [
     "Titta. Tjäna Orbs. Få belöningar."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "När du slutför det här köpet kommer ditt land/din region att uppdateras till ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Detta innebär:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "– Du kommer att förlora ditt nuvarande gåvokortssaldo\n– Du kommer inte att kunna använda en betalningsmetod från ett annat land/region\n– Du kommer inte att kunna ändra ditt land/din region igen på 90 dagar"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Inga behörigheter hittades"
@@ -40898,6 +41462,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Du låser upp Tidig tillgång för att köpa ramar i Butiken"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -41591,6 +42158,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Du kan köpa en begränsad licens för att använda det här föremålet endast på skaparens server. ",
+    [
+      8,
+      "$b",
+      [
+        "Det här köpet är inte återbetalningsbart."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Lägg till en bild för din inbjudningslänk med boost"
   ],
@@ -41954,6 +42550,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Något gick fel. Kontrollera dina uppgifter och försök igen."
   ],
   "EUNgko": [
     "Ett icke-standard iOS-mikrofonläge är aktivt. Om du hellre vill använda ett av Discords alternativ för brusreducering, väljer du standardmikrofonläget i dina ",
@@ -44008,6 +44607,9 @@
   "FNVJ4+": [
     "Gratis avatardekoration för din profil!"
   ],
+  "FNijW7": [
+    "Ny årsavgift"
+  ],
   "FNqmmX": [
     "Tillåt Discord att använda och behandla min information för att förstå och förbättra Discords tjänster. ",
     [
@@ -44314,6 +44916,9 @@
       []
     ],
     " för att komma igång."
+  ],
+  "FVzt1W": [
+    "Månadsplan"
   ],
   "FW3Qp/": [
     "Hänger bara"
@@ -44707,6 +45312,9 @@
     ],
     " användaren"
   ],
+  "Fjpyfj": [
+    "Kampanj"
+  ],
   "FjrXCi": [
     "Dela en provperiod på två veckor med upp till ",
     [
@@ -44908,6 +45516,72 @@
       "intervalCount"
     ],
     " månaders mellanrum tills du avbryter prenumerationen. Priser kan ändras, men du får då ett meddelande i förväg. Du kan avbryta när som helst på din inställningssida!"
+  ],
+  "FqlTCu": [
+    "Genom att klicka på ett köpalternativ nedan registrerar du dig för en löpande prenumeration. Du kommer att debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag, och sedan ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus tillämpliga skatter var ",
+    [
+      1,
+      "interval"
+    ],
+    " från och med ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tills du avbryter prenumerationen. Priser kan ändras. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "Fqqbhg": [
     "Den här länken leder till en användare du inte har tillgång till."
@@ -45321,6 +45995,35 @@
   ],
   "G0neg7": [
     "Tillgänglighet"
+  ],
+  "G0nk6B": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Att köpa det här föremålet betyder att du köper en begränsad licens för att använda det här föremålet på Discord. Det här köpet erbjuds av utvecklaren av appen och kan bara användas med appen. ",
+    [
+      8,
+      "$b",
+      [
+        "Det här köpet är inte återbetalningsbart."
+      ]
+    ]
   ],
   "G16Wji": [
     "Synkanslutningen avbröts! ",
@@ -46138,6 +46841,9 @@
   ],
   "GGlM3e": [
     "Byt endast till utgång"
+  ],
+  "GGn3pp": [
+    "Prenumerationsdetaljer"
   ],
   "GGxBdA": [
     "Trollspöemoji"
@@ -50381,6 +51087,9 @@
     ],
     " startade ett rösthäng."
   ],
+  "HzDn6w": [
+    "Profilram"
+  ],
   "Hza+Bu": [
     "Få exklusiva profileffekter och speciella medlemspriser i butiken med Nitro."
   ],
@@ -50876,6 +51585,37 @@
   ],
   "IAcEEn": [
     "Skriv en anteckning"
+  ],
+  "IAsfR5": [
+    "Njut av ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro i ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dag"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dagar"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " innan du blir debiterad!"
   ],
   "IAybsG": [
     "spara ",
@@ -51506,6 +52246,42 @@
   "IOy+I5": [
     "Kunde inte starta aktiviteten"
   ],
+  "IP93kX": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". När du hämtar en artikel från butiken betyder det att du hämtar en begränsad licens för att använda den här artikeln på Discord. Läs mer ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Inlösningar av Orbs är ej återbetalningsbara."
+  ],
   "IPO2be": [
     "Anmäl server – ",
     [
@@ -51633,6 +52409,42 @@
   ],
   "ITUQgh": [
     "Rekommenderas för servrar som använder roller för betrodda medlemskap."
+  ],
+  "ITY3j6": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". När du köper en artikel från butiken betyder det att du köper en begränsad licens för att använda den här artikeln på Discord. Läs mer ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Detta köp är inte återbetalningsbart. Artikeln blir tillgänglig omedelbart i inställningarna för din användarprofil."
   ],
   "ITlV6p": [
     "Anslut till en vårdnadshavare för att behålla åtkomsten till ditt konto"
@@ -54235,6 +55047,9 @@
   "JPI1pf": [
     "Gå med i Nitro"
   ],
+  "JPRQ9L": [
+    "Betala med Pix"
+  ],
   "JPU0EF": [
     "Välj nivåer"
   ],
@@ -55103,6 +55918,42 @@
   "JsBPb8": [
     "Exempel på befintliga Discord-communities"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " efter ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "en månad"
+            ],
+            "=2": [
+              "två månader"
+            ],
+            "=3": [
+              "tre månader"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " månader"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Styr hur mycket ljud Discord sänder från din mikrofon. Tala för att testa din mikrofon, om mätaren är fylld sänder Discord din vackra röst."
   ],
@@ -55266,6 +56117,14 @@
   ],
   "Jz1lXO": [
     "Välj ett alternativ för att verifiera att det verkligen är du."
+  ],
+  "Jz6+Oj": [
+    "Gåvokortssaldo (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Få tag på vissa nya funktioner innan de släpps till alla andra."
@@ -57326,6 +58185,14 @@
     ],
     " har dragits tillbaka."
   ],
+  "KpnRtO": [
+    "Rabatten gäller i ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " år"
+  ],
   "Kq7FAS": [
     "Välj vilka standardkanaler som alla medlemmar ser i sin kanallista när de ansluter sig. Medlemmarna kan lägga till fler kanaler via anpassningsfrågorna."
   ],
@@ -57514,6 +58381,9 @@
   ],
   "KuzWUU": [
     "Listvy"
+  ],
+  "Kv+vV7": [
+    "Denna betalningsmetod kan inte användas i ditt nuvarande land/din nuvarande region"
   ],
   "Kv6Z4I": [
     "Säker"
@@ -58393,6 +59263,29 @@
   ],
   "LHUP9D": [
     "Ta bort bokmärke"
+  ],
+  "LHWoqL": [
+    "Rabatten gäller i ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " vecka"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " veckor"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "LHy5uU": [
     "Skaffa nedladdningsbart innehåll"
@@ -59796,6 +60689,9 @@
   "LvXy/H": [
     "Välkommen 👋 till en ganska tråkig upplaga av Serverbutiken, ett nytt sätt att erbjuda coola grejer till dina medlemmar som du kan tjäna pengar på. Dina servermedlemmar kan inte se den här fliken – först måste du skapa och publicera din första produkt!"
   ],
+  "LvcUx4": [
+    "Återställ prenumeration"
+  ],
   "Lw6KXV": [
     "Du startade ",
     [
@@ -60195,6 +61091,9 @@
   ],
   "M2iEy3": [
     "Låter medlemmarna visa den här kanalen som standard."
+  ],
+  "M2mY1J": [
+    "Varje år"
   ],
   "M35zFB": [
     "Gå till servern"
@@ -61204,6 +62103,14 @@
   "MQoVeb": [
     "Personliga dekaler överallt"
   ],
+  "MR4VnX": [
+    "Förnyas ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "hbtq"
   ],
@@ -61243,6 +62150,13 @@
   ],
   "MS/4U1": [
     "Arkivera nivå"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " rabatt"
   ],
   "MSWjRh": [
     "Få personliga profiler som den här ",
@@ -61882,6 +62796,13 @@
   ],
   "Mi3iPI": [
     "Kolla in dem"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    " % RABATT"
   ],
   "Mi60fm": [
     "Be din vårdnadshavare skanna den här koden"
@@ -62786,6 +63707,9 @@
   "N46WOv": [
     "Din kampanjsidas URL"
   ],
+  "N4EAHm": [
+    "eller"
+  ],
   "N4ICPb": [
     "Det här nedladdningsbara innehållet kräver att du har ditt eget ",
     [
@@ -63133,6 +64057,9 @@
   ],
   "NEFeB0": [
     "Döden"
+  ],
+  "NEHhLR": [
+    "Årlig plan"
   ],
   "NENZhS": [
     "Justera inställningar"
@@ -63896,6 +64823,9 @@
       ]
     ],
     " uppdaterade inställningar för medlemsansökan"
+  ],
+  "NUNycr": [
+    "ett köpalternativ nedan"
   ],
   "NUkcpF": [
     "Du har personliga emojier, större uppladdningar och mer för ",
@@ -65624,6 +66554,13 @@
   "OBCR+p": [
     "Visa fler"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    "-månadersplan"
+  ],
   "OBp3V3": [
     "GIF, knapp"
   ],
@@ -65713,6 +66650,14 @@
   "ODCYj8": [
     "Låter medlemmar skapa trådar som alla i en kanal kan se."
   ],
+  "ODKoJd": [
+    "Spara ",
+    [
+      2,
+      "percent"
+    ],
+    " % med årlig plan"
+  ],
   "ODXApH": [
     "Version ej tillgänglig"
   ],
@@ -65791,6 +66736,77 @@
   ],
   "OGpGqO": [
     "Översikt"
+  ],
+  "OH1Evm": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” registrerar du dig för en löpande prenumeration. Du kommer att debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag, och sedan ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus tillämpliga skatter var ",
+    [
+      1,
+      "interval"
+    ],
+    " från och med ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tills du avbryter prenumerationen. Priser kan ändras. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Delning"
@@ -66337,6 +67353,33 @@
   ],
   "OVN9la": [
     "Vill du använda en annan avatar, banner och biografi?"
+  ],
+  "OVhTE7": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Köper du ett föremål från spelbutiken i ",
+    [
+      1,
+      "applicationName"
+    ],
+    " innebär det att du köper en begränsad licens för att använda föremålet i det listade spelet. Köpet är inte återbetalningsbart. Föremålet kommer att levereras av utvecklaren direkt i spelet."
   ],
   "OVlNGT": [
     "din rollfärg\n",
@@ -68078,6 +69121,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Detta blir en engångsavgift för den valda tidsperioden. Du kommer inte att debiteras varje månad. Nitro-gåvor är inte återbetalningsbara när mottagaren har löst in dem."
+  ],
   "P5dSl0": [
     "Skuggfärg"
   ],
@@ -69332,6 +70397,9 @@
     ],
     "-detektering?"
   ],
+  "PZDPvQ": [
+    "Gåvokortskod krävs"
+  ],
   "PZLnuD": [
     "Aktiviteten är slut.\nStarta en ny?"
   ],
@@ -70196,6 +71264,29 @@
       ]
     ],
     " visade ett meddelande på Start"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " månad"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månader"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " med Nitro"
   ],
   "PygWIS": [
     "Återansluter"
@@ -71489,6 +72580,39 @@
   "QXMYAb": [
     "Symboler"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " efter ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " månad"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " månader"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Hur gick det med ",
     [
@@ -72656,6 +73780,9 @@
   "R0VpSW": [
     "Få en avisering när en server du är med i har ett kommande event."
   ],
+  "R0cZsM": [
+    "Dagens totalsumma"
+  ],
   "R0h4pE": [
     [
       6,
@@ -72959,6 +74086,82 @@
   ],
   "R852HS": [
     "Ny Discord-årsdag!"
+  ],
+  "R85gcN": [
+    "Genom att klicka på ett köpalternativ nedan registrerar du dig för en löpande prenumeration. Du kommer att debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag och ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " i ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". När din provperiod tar slut ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " debiteras du ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus eventuella skatter var ",
+    [
+      1,
+      "interval"
+    ],
+    " tills du avbryter prenumerationen. Priser kan ändras. Vi skickar en påminnelse innan din provperiod tar slut. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "R87Y2K": [
     "Detta kommer att schemaläggas som ",
@@ -77418,6 +78621,9 @@
   "Sx8Ezi": [
     "Testa att använda en podiekanal!"
   ],
+  "SxKq52": [
+    "Nästa årsavgift"
+  ],
   "SxLn1y": [
     "Nu tänker jag bli allra bäst"
   ],
@@ -79908,6 +81114,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Nästa förlängning"
+  ],
   "TtA5rK": [
     "Använd externa appar"
   ],
@@ -80326,6 +81535,13 @@
   ],
   "U26WX+": [
     "Du kan inte acceptera den här gåvan eftersom prenumerationen har en obetald faktura."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " nu"
   ],
   "U2JFHZ": [
     "emoji_namn"
@@ -81759,6 +82975,9 @@
   "UdNuqi": [
     "Neonrymd"
   ],
+  "UdSuwf": [
+    "Det här köpet kräver din betalningsmetod för prenumerationen."
+  ],
   "UdXO8P": [
     "Hoppsan! Du kan inte hämta ",
     [
@@ -82889,6 +84108,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Du måste använda skrivbords- eller webbappen för att göra ett köp med ditt gåvokortssaldo."
+  ],
   "V3Gri+": [
     "Franska"
   ],
@@ -83595,6 +84817,9 @@
   ],
   "VJRr3Y": [
     "Hoppa in i solopussel, partyspel, tävlingsmatcher och annat."
+  ],
+  "VJXTzd": [
+    "Skäm bort dig själv med något i butiken eller använd det till något annat på Discord."
   ],
   "VJcK41": [
     "Undersökningen ",
@@ -86135,6 +87360,9 @@
   "WJisip": [
     "Tryck för att ange som miniatyrbild"
   ],
+  "WJmme7": [
+    "Den här betalningsmetoden kan inte användas för den här transaktionen."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -87555,6 +88783,9 @@
   "WmfZHZ": [
     "Kopiera uppdragslänk"
   ],
+  "WmjxYl": [
+    "Dag"
+  ],
   "WmsPis": [
     "Vilken aktivitet jag delar"
   ],
@@ -87748,6 +88979,9 @@
   ],
   "Wr4RIX": [
     "Inbäddningar har inaktiverats i den här kanalen."
+  ],
+  "WrFWOV": [
+    "Nästa månadsavgift"
   ],
   "WrQD/Y": [
     "Ignorera ",
@@ -87979,6 +89213,29 @@
   ],
   "WzC9s6": [
     "Jag vill att hela min server ska vara exklusiv"
+  ],
+  "WzJTZI": [
+    "Rabatten gäller i ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dagar"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "WzM5YA": [
     "nba"
@@ -88507,6 +89764,9 @@
   ],
   "XBrJT6": [
     "Inkommande samtal"
+  ],
+  "XBtSMa": [
+    "Jag godkänner omedelbar leverans"
   ],
   "XBwns+": [
     "Okänd server"
@@ -89393,6 +90653,22 @@
   "XWkJoi": [
     "Automatisk klippning"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gratis belöning vald"
+        ],
+        "other": [
+          "Gratis belöningar valda"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Ingen gräns"
   ],
@@ -90213,6 +91489,9 @@
   "Xrcmjk": [
     "Neutral"
   ],
+  "Xrg8aC": [
+    "År"
+  ],
   "XrpYIG": [
     "Endast dessa roller kan använda whiteboarden. Lämna tomt så att alla kan använda den. Ändringarna gäller direkt."
   ],
@@ -90982,6 +92261,9 @@
         "Du kan förnya din prenumeration när som helst."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Vi har valt en betalningsmetod som matchar ditt land/din region."
   ],
   "Y6qWLc": [
     "Skicka ett meddelande i ",
@@ -91777,6 +93059,9 @@
   "YTvOUx": [
     "Lägg till vän på Discord och alla spel länkade till det här kontot"
   ],
+  "YUNJJa": [
+    "Besparing med Nitro"
+  ],
   "YUSOKl": [
     "Blockera detta konto?"
   ],
@@ -92060,6 +93345,9 @@
   ],
   "YZd5rw": [
     "Nu har du fått läckra förmåner för hela året. Hoppas du gillar dem!"
+  ],
+  "YZePWx": [
+    "Jag förstår"
   ],
   "YZiJbh": [
     "Försöker hitta ett Discord-konto från din standardwebbläsare. Ett ögonblick ..."
@@ -93695,6 +94983,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " med Nitro Basic"
+  ],
   "ZAbzbA": [
     "Du fick precis in en ",
     [
@@ -94524,6 +95820,29 @@
   ],
   "ZQ37tH": [
     "Medlemmar tilldelas automatiskt denna roll. Den kan inte tilldelas eller tas ifrån medlemmar manuellt."
+  ],
+  "ZQLDzk": [
+    "Rabatten gäller i ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " månad"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månader"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "ZQakPR": [
     "Din Discord"
@@ -95443,6 +96762,9 @@
   "ZnkeXs": [
     "Nyckel borttagen!"
   ],
+  "ZnoRKt": [
+    "Månad"
+  ],
   "ZnqyZ2": [
     "Visa alla Nitro-förmåner"
   ],
@@ -95972,6 +97294,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Totalt att betala"
   ],
   "Zxk1OF": [
     "Mallkanaler"
@@ -97821,6 +99146,9 @@
   ],
   "ajkYcF": [
     "Nästa"
+  ],
+  "ajn5LL": [
+    "Ny månadsavgift"
   ],
   "ajzh8S": [
     "Din profilsynlighet är inställd på ",
@@ -100548,6 +101876,77 @@
   "bbUIWp": [
     "Bjud in kontakter för att chatta"
   ],
+  "bbgJdE": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” registrerar du dig för en löpande prenumeration. Du debiteras ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag och sedan ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus tillämpliga skatter en gång per ",
+    [
+      1,
+      "interval"
+    ],
+    " från och med ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tills du avbryter. Det här köpet erbjuds av utvecklaren av appen och kan endast användas med appen. Priser kan ändras. Avbryt när som helst i dina inställningar. ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gäller. Har du frågor? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakta oss"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se våra ",
+    [
+      8,
+      "$link",
+      [
+        "Vanliga frågor om prenumerationer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Verifierar installation – ",
     [
@@ -100605,6 +102004,9 @@
   ],
   "bdBmqy": [
     "Aktivitet"
+  ],
+  "bdF0KJ": [
+    "Justering av gåvokort"
   ],
   "bdMG43": [
     "Bombplantering"
@@ -103741,6 +105143,9 @@
   "cbtPXy": [
     "Temat har uppdaterats."
   ],
+  "ccWIdu": [
+    "Ditt saldo måste täcka det totala beloppet som ska betalas"
+  ],
   "cd": [
     "bluray-skiva",
     "cd-skiva",
@@ -105365,11 +106770,55 @@
     ],
     " igen"
   ],
+  "cwuBkH": [
+    "Genom att klicka på ”",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". När du hämtar ett föremål från ",
+    [
+      1,
+      "applicationName"
+    ],
+    " betyder det att du hämtar en begränsad licens för att använda detta föremål på Discord. Läs mer ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Inlösen av Orbs återbetalas inte. Detta föremål kommer att levereras av utvecklaren direkt i spelet."
+  ],
   "cxFiDC": [
     "Stötande språk"
   ],
   "cxSpOM": [
     "Streamförhandsgranskning"
+  ],
+  "cxwOJN": [
+    "Din totalsumma har uppdaterats"
   ],
   "cxy+zn": [
     "Lägg till vänner och chatta med dem direkt"
@@ -106665,6 +108114,9 @@
   ],
   "dRycVz": [
     "Avbryt annullering nu"
+  ],
+  "dSPkHo": [
+    "Skriv in kod"
   ],
   "dSRTMB": [
     "Skicka misstänkta DM till en separat spaminkorg. Medlemmarna kan skicka anmäla bedrägeri eller flytta tillbaka meddelandet till inkorgen."
@@ -109683,6 +111135,9 @@
   "eTVbtx": [
     "Ny kategori"
   ],
+  "eTYAvF": [
+    "Profileffekt"
+  ],
   "eTmN5a": [
     "Kan inte tas bort på grund av administratörsåtkomst."
   ],
@@ -110556,6 +112011,9 @@
   ],
   "eoXe0r": [
     "Sortera efter: senaste"
+  ],
+  "eoXh7B": [
+    "Beställningsöversikt"
   ],
   "eontIh": [
     "Lås upp alla dekaler med ",
@@ -112053,6 +113511,16 @@
     ],
     "-superreaktion kunde inte läggas till."
   ],
+  "fJnl1h": [
+    "Hittar du inte betalningsfönstret? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Öppna igen"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Om du slänger den kan du påbörja en ny ansökan från en inbjudningslänk."
   ],
@@ -113121,6 +114589,9 @@
     "fjäder",
     "fjäderdräkt",
     "lätt"
+  ],
+  "febr+T": [
+    "Gåvokortssaldo"
   ],
   "feet": [
     "djur",
@@ -115432,6 +116903,9 @@
   "gVDdRn": [
     "Gå med i Grupp-DM"
   ],
+  "gVM8va": [
+    "Betala i ett steg. Vi sparar det till nästa gång."
+  ],
   "gVWG+6": [
     "Min familj"
   ],
@@ -116610,6 +118084,13 @@
   ],
   "gvXH+a": [
     "Du kan inte hantera prenumerationen"
+  ],
+  "gvaGGA": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " år"
   ],
   "gvgh9L": [
     "Uppdaterad i går"
@@ -118954,6 +120435,9 @@
     "blad",
     "ört"
   ],
+  "hewwdA": [
+    "Köp i appen"
+  ],
   "hf6YOY": [
     "Du får rabatt som en del av din prenumeration på ",
     [
@@ -119167,6 +120651,9 @@
   "hjlZZf": [
     "Det kan ta upp till 24 timmar innan det börjar gälla."
   ],
+  "hjsn+s": [
+    "Nuvarande betalningsmetod"
+  ],
   "hjvcLO": [
     "Serverboostar"
   ],
@@ -119268,6 +120755,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Lös in"
   ],
   "hnbagF": [
     "Få en boost efter din första månad med Nitro."
@@ -120053,6 +121543,13 @@
   "i338qh": [
     "Filt"
   ],
+  "i3Q/6S": [
+    "Totala justeringar ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Logga in för att skicka länken igen."
   ],
@@ -120300,6 +121797,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Lös in gåvokort"
   ],
   "iBUzS5": [
     "Ta bort plats"
@@ -120841,6 +122341,25 @@
   "iPdFOt": [
     "Uppdatera kommandobehörigheter"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dagar"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Uppgradera din Discord-upplevelse"
   ],
@@ -121314,6 +122833,9 @@
   ],
   "iZRkC/": [
     "Okänd"
+  ],
+  "iZe9Wy": [
+    "Produkt"
   ],
   "iZf+eD": [
     "Servern var för svår att förstå sig på"
@@ -123269,6 +124791,9 @@
       "maxUploadPremium"
     ]
   ],
+  "jM8/71": [
+    "Paket"
+  ],
   "jMFSQV": [
     "Vem som helst i servern kan skicka meddelande till dig"
   ],
@@ -124874,6 +126399,9 @@
   ],
   "jxIxJL": [
     "Håll shift intryckt när du tar bort medlemmar för att hoppa över den här dialogrutan."
+  ],
+  "jxUJkZ": [
+    "Nytt återkommande belopp"
   ],
   "jxXMEz": [
     "Skicka databegäran"
@@ -127265,6 +128793,17 @@
   ],
   "ky6syM": [
     "Champion-kill"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Skärmtidsgränser"
@@ -131360,6 +132899,9 @@
   "mWAbK4": [
     "Låter medlemmarna använda emojier från andra servrar i de här kanalerna om de är en Discord Nitro-medlem."
   ],
+  "mWL08+": [
+    "Gratis provperiod"
+  ],
   "mWO+ys": [
     "Vidta åtgärd"
   ],
@@ -131419,6 +132961,24 @@
   ],
   "mXkYyW": [
     "Ignorera gör inte det jag vill"
+  ],
+  "mXvZt2": [
+    "Startar prenumeration på ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Du kan inte göra dig själv till vän"
@@ -135897,6 +137457,13 @@
   "nrpA5E": [
     "framåt"
   ],
+  "nsG1jw": [
+    "Spara ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Om du avbryter ",
     [
@@ -137819,6 +139386,9 @@
   "of440F": [
     "Vänförfrågan har avbrutits."
   ],
+  "of9bom": [
+    "Namnskylt"
+  ],
   "ofQnNQ": [
     "Innehåll som visar dig (eller någon du har behörighet att representera) naken eller delaktig i sexuellt explicit beteende"
   ],
@@ -139523,6 +141093,13 @@
   "pDE7Gb": [
     "Hämta den här dekalen från"
   ],
+  "pDVleg": [
+    "Totala besparingar ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Telefonnumret är ogiltigt."
   ],
@@ -139991,6 +141568,9 @@
   ],
   "pWLGnF": [
     "Om Senaste aktivitet"
+  ],
+  "pWSgIu": [
+    "Om du väljer den här betalningsmetoden kommer land/region att uppdateras för ditt konto"
   ],
   "pWZvZk": [
     "Den anmälan är ",
@@ -144290,6 +145870,9 @@
   "qwJHjo": [
     "app|en"
   ],
+  "qwSlCO": [
+    "Spelföremål"
+  ],
   "qwfovo": [
     "Kräver ",
     [
@@ -144657,6 +146240,9 @@
   ],
   "r23NoB": [
     "Ta bort från podium"
+  ],
+  "r29Oel": [
+    "Avatardekoration"
   ],
   "r2AEw1": [
     "Du måste uppfylla åldersgränsen i ditt land för att använda Discord."
@@ -145435,6 +147021,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Lägg till ny betalningsmetod"
   ],
   "rNGQfD": [
     "Dela uppdragslänk"
@@ -151359,6 +152948,9 @@
   "t+gj5V": [
     "Lägg till minst en åtgärd för den här regeln."
   ],
+  "t+xzd8": [
+    "Din prenumeration har återställts!"
+  ],
   "t/IjXY": [
     "Alla foton"
   ],
@@ -152042,6 +153634,9 @@
   "tJzB6F": [
     "Fel spel visas"
   ],
+  "tK8A/8": [
+    "Du måste minska antalet boostar för att kunna använda ditt gåvokortssaldo."
+  ],
   "tKCltd": [
     "Nitro delades framgångsrikt"
   ],
@@ -152517,6 +154112,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Du ",
+    [
+      8,
+      "$b",
+      [
+        "sparar ",
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " ditt första år!"
   ],
   "tVHevX": [
     "Skickades för ",
@@ -154942,6 +156553,35 @@
   "uCD7qK": [
     "Aktivera eller inaktivera kortkommando"
   ],
+  "uCXulJ": [
+    "När du ger bort ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " månad"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månader"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " sparar du ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Snyggt drag!"
+  ],
   "uCebZa": [
     "Tillåt flera svar"
   ],
@@ -156470,6 +158110,9 @@
     "lås",
     "olåst",
     "öppet lås"
+  ],
+  "uo9YsP": [
+    "Det här gåvokortet har redan lösts in."
   ],
   "uoQFIp": [
     "Lägg till information"
@@ -158359,6 +160002,33 @@
   "vcqwCj": [
     "Ditt problem"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "När du slutför det här köpet kommer ditt land/din region att uppdateras till ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Detta innebär:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Du kommer inte att kunna använda en betalningsmetod från ett annat land/region\n- Du kommer inte att kunna ändra ditt land/din region igen på 90 dagar"
+      ]
+    ]
+  ],
   "vct4l8": [
     "boost går ut ",
     [
@@ -160119,6 +161789,42 @@
   ],
   "wCbINr": [
     "Tre månader Nitro"
+  ],
+  "wCkwJf": [
+    "Du sparar ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " första ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " månaden"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " månaderna"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Börja titta på flera streamar"
@@ -167837,6 +169543,9 @@
   "yr9TTf": [
     "Ta bort från önskelista"
   ],
+  "yrk+N6": [
+    "Din prenumeration har förfallit. Försök att betala igen eller lägg till en ny betalningsmetod för att återställa den."
+  ],
   "ysbNDc": [
     "Vaporiserar"
   ],
@@ -167931,6 +169640,9 @@
   ],
   "yvMu3S": [
     "Utrotar"
+  ],
+  "yvUaHi": [
+    "Plus tillämpliga skatter"
   ],
   "yvV5Ye": [
     [
@@ -170243,6 +171955,37 @@
   ],
   "zstmkn": [
     "Rendera markdown"
+  ],
+  "ztU/1y": [
+    "Genom att klicka på ett köpalternativ nedan godkänner du våra ",
+    [
+      8,
+      "$link",
+      [
+        "Villkor för betaltjänster"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Köper du ett föremål från Butiken innebär det att du köper en begränsad licens för att använda detta föremål på Discord. Läs mer ",
+    [
+      8,
+      "$link",
+      [
+        "här"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Detta köp är inte återbetalningsbart. Föremålet blir tillgängligt omedelbart i inställningarna för din användarprofil."
   ],
   "ztXW8V": [
     "Använd ",

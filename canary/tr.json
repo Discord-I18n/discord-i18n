@@ -1599,6 +1599,9 @@
   "+f0bXQ": [
     "Biri bu sunucuya katıldığında rastgele bir hoş geldin mesajı gönder."
   ],
+  "+fIPjg": [
+    "Nitro ile kendini şımartabilir ya da sevdiğin bir şey bulmak için Mağaza'yı keşfedebilirsin."
+  ],
   "+fPCTZ": [
     "Şifreni veya diğer hassas bilgilerini girmediğinden emin ol."
   ],
@@ -3038,6 +3041,9 @@
   "/F7Z2y": [
     "Toplam"
   ],
+  "/FQWfA": [
+    "Hediye Kartı Bakiyesi"
+  ],
   "/FWKKC": [
     "İstediğin zaman onları gizlemekten vazgeçebilirsin"
   ],
@@ -3726,6 +3732,9 @@
   ],
   "/YEoH2": [
     "Bu sunucu, bulunduğun bölgede yaş sınırlı. Yaş sınırlı bir grupta olduğunu belirledik. Hata yaptıysak yeniden doğrulayabilirsin."
+  ],
+  "/YovOw": [
+    "Toplanabilir Öge"
   ],
   "/YuDAs": [
     "Katıldın"
@@ -6221,6 +6230,37 @@
   "0ZkNDU": [
     "Etiket kaldırılamadı"
   ],
+  "0Zl+Xt": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş sayılırsın. ",
+    [
+      1,
+      "applicationName"
+    ],
+    " Oyun Mağazası'ndan bir öge satın almak, listelenen oyunda bu ögeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. Bu satın alma iade edilemez. Bu öge doğrudan geliştirici tarafından oyun içinde teslim edilir.",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Lütfen bize yeni uygulama düzeniyle ilgili deneyiminden bahset."
   ],
@@ -7417,6 +7457,9 @@
   ],
   "11e3sB": [
     "Ders ver, ödevlere yardım et ve öğrencilerinle birlikte çalış."
+  ],
+  "11g67A": [
+    "Bir Sonraki Yenileme"
   ],
   "11oKq+": [
     "Kıbrıs"
@@ -9656,6 +9699,9 @@
   "26oeP8": [
     "Bir neden gir."
   ],
+  "26tjwd": [
+    "Hediye Kartını Kullan"
+  ],
   "26uMPL": [
     "Coştu!!"
   ],
@@ -10413,6 +10459,29 @@
   ],
   "2PKrQO": [
     "Bu Görünümü Dene"
+  ],
+  "2PiTTi": [
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ],
+    " için hediye et"
   ],
   "2PuL9F": [
     "Daha önceden Xbox hesabını bağlamıştın ancak yeni özelliklerden faydalanabilmek için tekrar bağlaman gerekiyor."
@@ -11363,6 +11432,77 @@
   "2pG5Ga": [
     "Abone Ol"
   ],
+  "2pNIbI": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında ödeme alınacak. Deneme süren ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tarihinde bittikten sonra sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Fiyatlar değişebilir. Deneme süren bitmeden önce sana bir hatırlatma göndereceğiz. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
+  ],
   "2pds6p": [
     "Sunucu Keşfi arka planı ayarlandı"
   ],
@@ -11733,6 +11873,9 @@
   "2zGdAW": [
     "Nitro'yu Dene!"
   ],
+  "2zUa6I": [
+    "Abonelik"
+  ],
   "2zdDw5": [
     "\"",
     [
@@ -11839,6 +11982,9 @@
   ],
   "30+sih": [
     "Paylaştığın raporlar"
+  ],
+  "302Ck/": [
+    "Ödeme yöntemin kaydedildi"
   ],
   "302tKP": [
     "Öğe Al"
@@ -13867,6 +14013,9 @@
     ],
     " üzerinden abonelik satın al"
   ],
+  "3jjweL": [
+    "ZIP/Posta Kodu"
+  ],
   "3jprCb": [
     "Ödeme henüz beklemede olduğundan değişiklik yapılamadı."
   ],
@@ -13878,6 +14027,9 @@
   ],
   "3k4hTU": [
     "Etkinlik Paylaşımı Devre Dışı Bırakılsın Mı?"
+  ],
+  "3kMstB": [
+    "Kayıtlı ödeme yöntemlerin mevcut Ülke/Bölgenle eşleşmiyor. Yeni bir tane eklemek Ülke/Bölgeni güncelleyecek."
   ],
   "3kVEg0": [
     "Ayrılırsan ",
@@ -14319,6 +14471,9 @@
       "count"
     ],
     " yeni mesaj"
+  ],
+  "3wsYeI": [
+    "Bir Kerelik Hediye"
   ],
   "3x/M9Z": [
     "Bu mağaza ",
@@ -14934,6 +15089,37 @@
   ],
   "4EGMWL": [
     "Yayını Kapat"
+  ],
+  "4EZ0L7": [
+    "Aşağıdaki satın alma seçeneklerinden birine tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş sayılırsın. Mağazadan bir öğe satın almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans satın aldığın anlamına gelir. Daha fazla bilgi için \"Sanal Varlıklar\" bölümüne ",
+    [
+      8,
+      "$link",
+      [
+        "buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " göz atabilirsin. Bu satın alma işlemi iade edilemez. Bu ürün satın alındıktan sonra anında Kullanıcı Profili ayarlarına gelir."
   ],
   "4Egr5O": [
     "Tüm emojilerin kilidini aç ve Nitro ile onları her yerde kullan."
@@ -16990,6 +17176,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Bir sonraki yenileme ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -18079,6 +18273,9 @@
   "5dX4UM": [
     "Aramanla eşleşen GIF yok."
   ],
+  "5dmUS+": [
+    "Dijital satın alımımın anında teslimini kabul ediyorum ve bu satın alım tamamlandığında İade Politikası'nda belirtilen durumlar dışında iade hakkımı feshettiğimi kabul ediyorum."
+  ],
   "5dxvxs": [
     "Görevi nasıl tamamlayacağımı bilmiyorum"
   ],
@@ -18179,6 +18376,51 @@
   ],
   "5fZHp3": [
     "Davet Gönder"
+  ],
+  "5fbNBX": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş olursun. ",
+    [
+      1,
+      "applicationName"
+    ],
+    " üzerinden bir öğe almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. ",
+    [
+      8,
+      "$link",
+      [
+        "Buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " daha fazla bilgi edin. Orbs alımlarında iade yapılmaz. Bu öğe, doğrudan geliştirici tarafından oyun içinde teslim edilecek. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Tam açıklamayı göster"
@@ -19451,6 +19693,13 @@
       []
     ],
     " tarafından oluşturuldu"
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " hesabına eklendi"
   ],
   "66YyBJ": [
     "Discord profilini süsleyecek bir avatar dekorasyonu. Nitro ile ona sahip ol!"
@@ -21626,6 +21875,9 @@
   "6yrpFR": [
     "Simge Değiştir"
   ],
+  "6zCzw1": [
+    "Bu ödeme yöntemi eklenirken bir sorun oluştu. Tekrar dene veya farklı bir ödeme yöntemi kullan."
+  ],
   "6zFA/T": [
     "Çok ama çok erken"
   ],
@@ -22274,6 +22526,9 @@
   ],
   "7LL+Fw": [
     "Amerika Birleşik Devletleri"
+  ],
+  "7LeLN4": [
+    "Nitro Denemesi uygulandı"
   ],
   "7LgVmt": [
     "Güvenlik ipuçlarına göz at"
@@ -23596,6 +23851,9 @@
   "7qbp3B": [
     "...daha fazlası"
   ],
+  "7r4HPu": [
+    "Onayla ve Öde"
+  ],
   "7r4OKg": [
     "Senkronize edilmiş Twitch abonelerine, Discord'da özelleştirilmiş Twitch ifadelerini kullanma izni ver."
   ],
@@ -23642,6 +23900,14 @@
   ],
   "7sW4h1": [
     "Bu isme sahip kimse bulunamadı."
+  ],
+  "7sYIBL": [
+    "Bir yıllık hediye etme seçeneği sana %",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " tasarruf sağlar. Güzel hamle!"
   ],
   "7spYft": [
     "Ödeme Yöntemini Güncelle"
@@ -24402,6 +24668,25 @@
   "8CVUrV": [
     "Ücretsiz Nitro denemesi"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "ay"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ay"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Bu, seçilen süre için sadece tek seferlik bir ücretlendirme olacak. Yıllık olarak fatura kesilmeyecek."
   ],
@@ -24669,6 +24954,14 @@
   ],
   "8Joh+p": [
     "Sahnede Konuş"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro"
   ],
   "8JzOBn": [
     "Varsayılan Kanalların ",
@@ -25578,6 +25871,9 @@
     ],
     " kullanıcısından davet"
   ],
+  "8gVLB3": [
+    "Aylık"
+  ],
   "8gpzp6": [
     "İndirilebilir İçerik"
   ],
@@ -25620,6 +25916,27 @@
   ],
   "8ihs9i": [
     "Performans izi yakalanamadı"
+  ],
+  "8imbq5": [
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " takviye ediliyor"
   ],
   "8imxAq": [
     "BETA ",
@@ -27301,6 +27618,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " adet var"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -27325,6 +27649,9 @@
   ],
   "9Oq93m": [
     "Üyeler"
+  ],
+  "9OxfNK": [
+    "Mağaza'yı Keşfet"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -28607,6 +28934,9 @@
     ],
     " saniyede bir gönderi paylaşabilir."
   ],
+  "9yHcmL": [
+    "Abonelik İndirimi uygulandı"
+  ],
   "9yLOND": [
     [
       1,
@@ -28714,6 +29044,87 @@
   ],
   "A+pogv": [
     "Sonuçları Görüntüle"
+  ],
+  "A+qfZ+": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında, ardından ",
+    [
+      1,
+      "trialDuration"
+    ],
+    " boyunca ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " ödeme alınacak. Deneme süren ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " tarihinde bittikten sonra sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Fiyatlar değişebilir. Deneme süren bitmeden önce sana bir hatırlatma göndereceğiz. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
   ],
   "A//N4k": [
     "Tarihinde Oluşturuldu"
@@ -29409,6 +29820,9 @@
   "AM3mzX": [
     "Dosya"
   ],
+  "AM9XGb": [
+    "Hediye Abonelik"
+  ],
   "AMHrre": [
     "Bize Geri Bildirim Gönder"
   ],
@@ -29940,6 +30354,13 @@
   "AcJ4ke": [
     "Çocuğunun Discord'u kullanamayacağı saatleri ayarla. Bu süre boyunca bildirim almayacak ve Discord'a erişemeyecek."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Ay"
+  ],
   "AcaNYw": [
     "Bu sunucunun eşsiz olmasını mı istiyorsun? ",
     [
@@ -30086,6 +30507,14 @@
   ],
   "AfrvRD": [
     "Tümüne göz at"
+  ],
+  "Afx5yS": [
+    "Hesabına ",
+    [
+      1,
+      "price"
+    ],
+    " eklendi"
   ],
   "AgXXyy": [
     "Sunucu Durumu"
@@ -30802,6 +31231,9 @@
   ],
   "AzTwiu": [
     "Forum Etiket Eylemleri"
+  ],
+  "B+/GvM": [
+    "ZIP/posta kodunu gir"
   ],
   "B+cbLS": [
     "Çevrim İçine geç?"
@@ -31675,6 +32107,9 @@
   "BLqYQa": [
     "Ödeme Yöntemini Düzenle"
   ],
+  "BLu9EI": [
+    "Farklı bir ödeme yöntemi ekle"
+  ],
   "BLuvck": [
     "Popüler müziğin etkin olması için Spotify dinleme etkinliğini paylaşan en az ",
     [
@@ -31721,6 +32156,14 @@
   ],
   "BMTj28": [
     "Oynuyor"
+  ],
+  "BMVyQO": [
+    "Kalan ",
+    [
+      1,
+      "amount"
+    ],
+    " tutarını tek seferde öde. Ödeme yöntemini bir dahaki sefer için kaydedeceğiz."
   ],
   "BMlbE7": [
     "Bu başvuru geri çekildi."
@@ -31860,6 +32303,9 @@
   ],
   "BPoc9u": [
     "Sahne veya ses kanallarından otomatik olarak çıkarır"
+  ],
+  "BPzQj4": [
+    "Satın Al"
   ],
   "BQFHXW": [
     "Bağlı bir vasi olmak için en az 18 yaşında olmalısın"
@@ -32655,6 +33101,42 @@
   "BkVb1X": [
     "Çocuğunun eklediği veya kabul ettiği yeni arkadaşlar"
   ],
+  "BkYev7": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" Butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş sayılırsın. Mağazadan bir öğe satın almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans satın aldığın anlamına gelir. Daha fazla bilgi için \"Sanal Varlıklar\" bölümüne ",
+    [
+      8,
+      "$link",
+      [
+        "buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " göz atabilirsin. Bu satın alma işlemi iade edilemez. Bu ürün satın alındıktan sonra anında Kullanıcı Profili ayarlarına gelir."
+  ],
   "BkZhUI": [
     "Sadece Mobilde Mevcut"
   ],
@@ -32825,6 +33307,9 @@
     ],
     " iptal işlemi bekleniyor)"
   ],
+  "Bn/CZQ": [
+    "Kod"
+  ],
   "Bn1J+a": [
     "Hediyeni al"
   ],
@@ -32833,6 +33318,20 @@
   ],
   "BnSq1I": [
     "Bağlı Değil"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Düzenle"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -33843,6 +34342,37 @@
   ],
   "CCU/wn": [
     "İnsanların cevaplarına göre onları kanallara ve/veya rollere atayacaksın."
+  ],
+  "CCVlIb": [
+    "\"Kullan\" düğmesine tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Hediye Kartı Koşulları"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " ve ",
+    [
+      8,
+      "$link",
+      [
+        "Cüzdan Koşulları"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "'nı kabul etmiş olursun."
   ],
   "CCiFY7": [
     "Yeniden canlandın."
@@ -34887,6 +35417,15 @@
   "Chg2zd": [
     "Üyelerin bu kanalda sadece davet ile girilebilen alt başlıklar oluşturmasına izin ver."
   ],
+  "Chj1Ke": [
+    "İndirim ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ],
+    " tarihine kadar geçerli"
+  ],
   "ChoIiy": [
     "Üyelerin metin kanallarındaki gömülü içerikleri gösteren bağlantılar paylaşabilmesini sağlar."
   ],
@@ -35894,6 +36433,33 @@
   ],
   "DDpHZG": [
     "İzle. Orbs kazan. Ödülleri al."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Bu satın alma işlemini tamamladığında Ülke/Bölgen ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        " olarak güncellenecek. Bu şu anlama gelir:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Mevcut hediye kartı bakiyeni kaybedeceksin\n- Farklı bir Ülke/Bölgeden bir ödeme yöntemi kullanamayacaksın\n- Ülke/Bölgeni 90 gün boyunca tekrar değiştiremeyeceksin"
+      ]
+    ]
   ],
   "DEBGqA": [
     "İzin bulunmadı"
@@ -37608,6 +38174,9 @@
     ],
     " adlı kullanıcı çıkarılsın mı?"
   ],
+  "E6ghtw": [
+    "Mağazada Çerçeve satın almak için Erken Erişimi açıyorsun"
+  ],
   "E6yaM+": [
     "Kosova"
   ],
@@ -38176,6 +38745,35 @@
     ],
     " kişi oynattı"
   ],
+  "EOOWpo": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    "'nı kabul etmiş olursun. Bu öğeyi yalnızca içerik üreticisinin sunucusundakullanmak üzere sınırlı bir lisans satın alıyor olabilirsin. ",
+    [
+      8,
+      "$b",
+      [
+        "Bu satın alma işlemi ade edilemez."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Takviyeyle davet bağlantına bir görsel ekle"
   ],
@@ -38510,6 +39108,9 @@
       "username"
     ],
     " kullanıcısının etkinliğine tepki verildi"
+  ],
+  "EUKPip": [
+    "Bir hata oluştu. Ayrıntılarını kontrol et ve tekrar dene."
   ],
   "EUNgko": [
     "Standart olmayan bir iOS mikrofon modu etkin. Discord'un gürültü azaltma seçeneklerinden birini kullanmayı tercih edersen ",
@@ -40411,6 +41012,9 @@
   "FNVJ4+": [
     "Profilin için ücretsiz avatar dekorasyonu!"
   ],
+  "FNijW7": [
+    "Yeni Yıllık Tekrarlayan"
+  ],
   "FNqmmX": [
     "Discord'un Discord hizmetlerini anlamak ve iyileştirmek için bilgilerimi kullanmasına ve işlemesine izin ver. ",
     [
@@ -40701,6 +41305,9 @@
       []
     ],
     " ile başla."
+  ],
+  "FVzt1W": [
+    "Aylık plan"
   ],
   "FW3Qp/": [
     "Sadece Takılıyoruz"
@@ -41071,6 +41678,9 @@
       ]
     ]
   ],
+  "Fjpyfj": [
+    "Promosyon"
+  ],
   "FjrXCi": [
     "En fazla ",
     [
@@ -41271,6 +41881,72 @@
       "intervalCount"
     ],
     " ayda bir ücret almaya devam edeceğimiz anlamına geliyor. Fiyatlar sana bildirilerek değiştirilebilir. Ayarlar sayfasından istediğin zaman iptal edebileceğini unutma!"
+  ],
+  "FqlTCu": [
+    "Aşağıdaki satın alma seçeneklerinden birine tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında ödeme alınacak, ardından ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tarihinden itibaren sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Fiyatlar değişebilir. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
   ],
   "Fqqbhg": [
     "Bu erişimin olmayan bir kullanıcının bağlantısı."
@@ -41653,6 +42329,35 @@
   ],
   "G0neg7": [
     "Erişilebilirlik"
+  ],
+  "G0nk6B": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    "'nı kabul etmiş olursun. Bu öğeyi satın almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. Bu satın alım, uygulamanın geliştiricisi tarafından sunulur ve yalnızca bu uygulamada kullanılabilir. ",
+    [
+      8,
+      "$b",
+      [
+        "Bu satın alma işlemi iade edilemez."
+      ]
+    ]
   ],
   "G16Wji": [
     "Senkronizasyon bağlantısı iptal edildi! ",
@@ -42382,6 +43087,9 @@
   ],
   "GGlM3e": [
     "Sadece çıkışı değiştir"
+  ],
+  "GGn3pp": [
+    "Abonelik ayrıntıları"
   ],
   "GGxBdA": [
     "Büyülü Asa Emojisi"
@@ -46324,6 +47032,9 @@
     ],
     " bir sesli sohbet başlattı."
   ],
+  "HzDn6w": [
+    "Profil Çerçeveleri"
+  ],
   "Hza+Bu": [
     "Nitro ile Mağazada özel profil efektleri ve özel üye fiyatlarından yararlan."
   ],
@@ -46800,6 +47511,22 @@
   ],
   "IAcEEn": [
     "Bir Not Bırak"
+  ],
+  "IAsfR5": [
+    "Ücret alınmadan önce ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro'yu ",
+        [
+          2,
+          "daysCount"
+        ],
+        " gün"
+      ]
+    ],
+    " boyunca keyifle kullan!"
   ],
   "IAybsG": [
     [
@@ -47349,6 +48076,42 @@
   "IOy+I5": [
     "Etkinlik başlatılamıyor"
   ],
+  "IP93kX": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş olursun. Mağazadan bir öğe almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. ",
+    [
+      8,
+      "$link",
+      [
+        "Buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " daha fazla bilgi edin. Orbs alımlarında iade yapılmaz."
+  ],
   "IPO2be": [
     "Sunucuyu Bildir — ",
     [
@@ -47460,6 +48223,42 @@
   ],
   "ITUQgh": [
     "Rolleri güvenilir üyelik için kullanan sunucular için önerilen seçenek."
+  ],
+  "ITY3j6": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş olursun. Mağazadan bir öğe satın almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans satın aldığın anlamına gelir. ",
+    [
+      8,
+      "$link",
+      [
+        "Buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " daha fazla bilgi edin. Bu satın alma işlemi iade edilemez. Bu ürün satın alındıktan sonra anında Kullanıcı Profili ayarlarına gelir."
   ],
   "ITlV6p": [
     "Hesabına erişimi sürdürmek için bir vasiye bağlan"
@@ -49819,6 +50618,9 @@
   "JPI1pf": [
     "Nitro'ya Katıl"
   ],
+  "JPRQ9L": [
+    "Pix ile öde"
+  ],
   "JPU0EF": [
     "Kademe Seç"
   ],
@@ -50661,6 +51463,36 @@
   "JsBPb8": [
     "Mevcut Discord topluluklarına örnekler"
   ],
+  "JsSin7": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "bir ay"
+        ],
+        "=2": [
+          "iki ay"
+        ],
+        "=3": [
+          "üç ay"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ay"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "** sonra **",
+    [
+      1,
+      "priceRate"
+    ]
+  ],
   "JsbzjA": [
     "Discord'un mikrofonundan ne kadar ses ilettiğini kontrol eder. Mikrofonunu test etmek için konuş, eğer gösterge doluyorsa Discord senin güzel sesini iletiyor."
   ],
@@ -50824,6 +51656,14 @@
   ],
   "Jz1lXO": [
     "Kullanıcının gerçekten sen olduğunu doğrulamak için bir seçenek seç."
+  ],
+  "Jz6+Oj": [
+    "Hediye Kartı Bakiyesi (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Herkese sunulmadan önce bazı yeni özellikleri deneyimle."
@@ -52709,6 +53549,13 @@
     ],
     " loncasına başvurusu geri çekildi."
   ],
+  "KpnRtO": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " yıl indirim uygulandı"
+  ],
   "Kq7FAS": [
     "Kanala katıldıklarında her üyenin kanal listesinde göreceği varsayılan kanallar ayarla. Üyeler özelleştirme sorularını kullanarak daha fazla kanal ekleyebilir."
   ],
@@ -52849,6 +53696,9 @@
   ],
   "KuzWUU": [
     "Liste Görünümü"
+  ],
+  "Kv+vV7": [
+    "Bu ödeme yöntemi güncel Ülke/Bölgen içinde kullanılamaz"
   ],
   "Kv6Z4I": [
     "Güvenli"
@@ -53677,6 +54527,13 @@
   ],
   "LHUP9D": [
     "İşareti Kaldır"
+  ],
+  "LHWoqL": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " hafta indirim uygulandı"
   ],
   "LHy5uU": [
     "DLC al"
@@ -54943,6 +55800,9 @@
   "LvXy/H": [
     "Hoş geldin 👋 Karşında üyelerine havalı şeyler sunmanın ve kazanç sağlamanın yeni yolu olan Sunucu Mağazası'nın pek sıkıcı bir versiyonu. Sen ilk ürününü oluşturup yayınlayana kadar sunucu üyelerin bu sekmeyi göremez!!"
   ],
+  "LvcUx4": [
+    "Aboneliği Geri Yükle"
+  ],
   "Lw6KXV": [
     [
       1,
@@ -55325,6 +56185,9 @@
   ],
   "M2iEy3": [
     "Varsayılan olarak üyelerin bu kanalı görüntüleyebilmesini sağlar."
+  ],
+  "M2mY1J": [
+    "Yıllık"
   ],
   "M35zFB": [
     "Sunucuya git"
@@ -56275,6 +57138,14 @@
   "MQoVeb": [
     "Her yerde özel çıkartmalar"
   ],
+  "MR4VnX": [
+    [
+      3,
+      "renewalDate",
+      "short"
+    ],
+    " tarihinde yenilenir"
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -56301,6 +57172,13 @@
   ],
   "MS/4U1": [
     "Kademeyi Arşivle"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " İndirim"
   ],
   "MSWjRh": [
     [
@@ -56925,6 +57803,14 @@
   ],
   "Mi3iPI": [
     "Göz at"
+  ],
+  "Mi5BH/": [
+    "%",
+    [
+      2,
+      "percentOff"
+    ],
+    " İNDİRİM"
   ],
   "Mi60fm": [
     "Vasine bu kodu tarat"
@@ -57799,6 +58685,9 @@
   "N46WOv": [
     "Tanıtım Sayfası URL'si"
   ],
+  "N4EAHm": [
+    "ya da"
+  ],
   "N4ICPb": [
     "Bu DLC paketini oynayabilmen içlin Discord'da ",
     [
@@ -58129,6 +59018,9 @@
   ],
   "NEFeB0": [
     "Ölüm"
+  ],
+  "NEHhLR": [
+    "Yıllık plan"
   ],
   "NENZhS": [
     "Ayarları Düzenle"
@@ -58812,6 +59704,9 @@
       ]
     ],
     " üye başvuru ayarlarını güncelledi"
+  ],
+  "NUNycr": [
+    "aşağıdaki satın alma seçeneği"
   ],
   "NUkcpF": [
     "Özel emojiler, daha büyük boyutlu yükleme ve daha fazlası sadece ",
@@ -60414,6 +61309,13 @@
   "OBCR+p": [
     "Daha Fazla Göster"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Aylık plan"
+  ],
   "OBp3V3": [
     "GIF, düğme"
   ],
@@ -60485,6 +61387,14 @@
   ],
   "ODCYj8": [
     "Üyelerin bir kanalın içinde olan herkesin görebileceği alt başlıklar oluşturmasına izin ver."
+  ],
+  "ODKoJd": [
+    "Yıllık planla %",
+    [
+      2,
+      "percent"
+    ],
+    " tasarruf et"
   ],
   "ODXApH": [
     "Yapı mevcut değil"
@@ -60564,6 +61474,77 @@
   ],
   "OGpGqO": [
     "Listeleme"
+  ],
+  "OH1Evm": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında ödeme alınacak, ardından ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tarihinden itibaren sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Fiyatlar değişebilir. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
   ],
   "OH6ADf": [
     "Paylaşım"
@@ -61085,6 +62066,33 @@
   ],
   "OVN9la": [
     "Farklı bir avatara, afişe ve biyografiye ne dersin?"
+  ],
+  "OVhTE7": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş sayılırsın. ",
+    [
+      1,
+      "applicationName"
+    ],
+    " Oyun Mağazası'ndan bir öge satın almak, listelenen oyunda bu ögeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. Bu satın alma iade edilemez. Bu öge doğrudan geliştirici tarafından oyun içinde teslim edilir."
   ],
   "OVlNGT": [
     "rol rengin\n",
@@ -62717,6 +63725,28 @@
     ],
     " kişi oynattı"
   ],
+  "P5KfYx": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş sayılırsın. Seçilen süre için tek seferlik bir ücretlendirme olur. Aylık faturalandırılmayacaksın. Nitro hediyeleri alındıktan sonra iade edilemez."
+  ],
   "P5dSl0": [
     "Gölge rengi"
   ],
@@ -63905,6 +64935,9 @@
     ],
     " tespitleri kapatılsın mı?"
   ],
+  "PZDPvQ": [
+    "Hediye kartı kodu gereklidir"
+  ],
   "PZLnuD": [
     "Etkinlik bitti.\nYeni bir taneye başlamak ister misin?"
   ],
@@ -64696,6 +65729,13 @@
       ]
     ],
     ", Ana Sayfa'da bir mesajı öne çıkardı"
+  ],
+  "PyJC0V": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " Ay Nitro"
   ],
   "PygWIS": [
     "Yeniden Bağlanıyor"
@@ -65865,6 +66905,39 @@
   "QXMYAb": [
     "Semboller"
   ],
+  "QXQ/Sm": [
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " ay"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " aydan"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " sonra ",
+    [
+      1,
+      "priceRate"
+    ]
+  ],
   "QXYwoD": [
     [
       1,
@@ -66963,6 +68036,9 @@
   "R0VpSW": [
     "İçinde bulunduğun bir sunucuda yaklaşan bir etkinlik olduğunda bildirim al."
   ],
+  "R0cZsM": [
+    "Bugünün Toplamı"
+  ],
   "R0h4pE": [
     "Sesli sohbette ",
     [
@@ -67252,6 +68328,82 @@
   ],
   "R852HS": [
     "Yeni Discord Yıl Dönümü!"
+  ],
+  "R85gcN": [
+    "Aşağıdaki satın alma seçeneklerinden birine tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında, ardından ",
+    [
+      1,
+      "trialDuration"
+    ],
+    " boyunca ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " ödeme alınacak. Deneme süren ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " tarihinde bittikten sonra sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Fiyatlar değişebilir. Deneme süren bitmeden önce sana bir hatırlatma göndereceğiz. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
   ],
   "R87Y2K": [
     "Bu, ertesi gün ",
@@ -71244,6 +72396,9 @@
   "Sx8Ezi": [
     "Bir Sahne kanalı kullanmayı dene!"
   ],
+  "SxKq52": [
+    "Bir Sonraki Yıllık Tekrarlayan"
+  ],
   "SxLn1y": [
     "En iyisi olacağım"
   ],
@@ -73472,6 +74627,9 @@
     ],
     " üye seçildi"
   ],
+  "Tt3O81": [
+    "Bir sonraki yenileme"
+  ],
   "TtA5rK": [
     "Harici Uygulamaları Kullan"
   ],
@@ -73888,6 +75046,13 @@
   ],
   "U26WX+": [
     "Aboneliğinde açık bir fatura bulunduğu için maalesef bu hediyeyi kabul edemezsin."
+  ],
+  "U2CmMW": [
+    "Hemen şimdi ",
+    [
+      1,
+      "priceAmount"
+    ]
   ],
   "U2JFHZ": [
     "emoji_adı"
@@ -75226,6 +76391,9 @@
   "UdNuqi": [
     "Neon Uzay"
   ],
+  "UdSuwf": [
+    "Bu satın alma işlemi, abonelik ödeme yöntemini gerektirir."
+  ],
   "UdXO8P": [
     "Tüh! ",
     [
@@ -76312,6 +77480,9 @@
     ],
     " iptal edilsin"
   ],
+  "V3DI1E": [
+    "Hediye kartı bakiyeni kullanarak bir satın alma işlemi yapmak için masaüstü ya da web uygulamasını kullanman gerekiyor."
+  ],
   "V3Gri+": [
     "Fransızca"
   ],
@@ -76992,6 +78163,9 @@
   ],
   "VJRr3Y": [
     "Tek kişilik bulmacaların, parti oyunlarının, rekabetçi kapışmaların ve daha fazlasının arasına dal."
+  ],
+  "VJXTzd": [
+    "Mağaza'dan kendine bir şeyler al ya da Discord'da başka bir şey için kullan."
   ],
   "VJcK41": [
     [
@@ -79315,6 +80489,9 @@
   "WJisip": [
     "Küçük resmi ayarlamak için dokun"
   ],
+  "WJmme7": [
+    "Bu ödeme yöntemi bu işlemde kullanılamaz."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -80561,6 +81738,9 @@
   "WmfZHZ": [
     "Görev bağlantısını kopyala"
   ],
+  "WmjxYl": [
+    "Gün"
+  ],
   "WmsPis": [
     "Paylaştığım Etkinlikler"
   ],
@@ -80753,6 +81933,9 @@
   ],
   "Wr4RIX": [
     "Eklemeler, bu kanalda devre dışı."
+  ],
+  "WrFWOV": [
+    "Bir Sonraki Aylık Tekrarlayan"
   ],
   "WrQD/Y": [
     [
@@ -80965,6 +82148,13 @@
   ],
   "WzC9s6": [
     "Tüm sunucumu ayrıcalıklı olarak ayarlamak istiyorum"
+  ],
+  "WzJTZI": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " günlük indirim uygulandı"
   ],
   "WzM5YA": [
     "nba"
@@ -81478,6 +82668,9 @@
   ],
   "XBrJT6": [
     "Gelen Çaldırma"
+  ],
+  "XBtSMa": [
+    "Anında teslimi kabul ediyorum"
   ],
   "XBwns+": [
     "Bilinmeyen sunucu"
@@ -82282,6 +83475,13 @@
   "XWkJoi": [
     "Otomatik Klip Alma"
   ],
+  "XWo+Bp": [
+    [
+      2,
+      "count"
+    ],
+    " Ücretsiz ödül seçildi"
+  ],
   "XX5ciX": [
     "Limit yok"
   ],
@@ -83014,6 +84214,9 @@
   "Xrcmjk": [
     "Nötr"
   ],
+  "Xrg8aC": [
+    "Yıl"
+  ],
   "XrpYIG": [
     "Yalnızca bu roller ’ıubeyaz tahtayı kullanabilir. Herkesin kullanabilmesi için bunu boş bırak. Değişiklikler hemen uygulanır."
   ],
@@ -83703,6 +84906,9 @@
         "Aboneliğini istediğin zaman tekrar başlatabilirsin."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Ülkene/Bölgene uygun bir ödeme yöntemi seçtik."
   ],
   "Y6qWLc": [
     [
@@ -84442,6 +85648,9 @@
   "YTvOUx": [
     "Discord ve bu hesaba bağlı tüm oyunlara ekle"
   ],
+  "YUNJJa": [
+    "Nitro ile tasarruf et"
+  ],
   "YUSOKl": [
     "Bu hesap engellensin mi?"
   ],
@@ -84730,6 +85939,9 @@
   ],
   "YZd5rw": [
     "Artık tüm yıl boyunca güzel avantajlara sahipsin. Keyfini çıkar dostum!"
+  ],
+  "YZePWx": [
+    "Anlıyorum"
   ],
   "YZiJbh": [
     "Varsayılan tarayıcından Discord hesabı bulmaya çalışıyorum. Bitti bitecek..."
@@ -86255,6 +87467,14 @@
     ],
     " politikamız hakkında bilgi al."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Basic"
+  ],
   "ZAbzbA": [
     "O hataya bir ",
     [
@@ -86971,6 +88191,13 @@
   ],
   "ZQ37tH": [
     "Üyeler otomatik olarak bu role atanır. Manuel olarak atanamaz ya da üyelerin üzerinden kaldırılamaz."
+  ],
+  "ZQLDzk": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " ay indirim uygulandı"
   ],
   "ZQakPR": [
     "Senin Discord'un"
@@ -87868,6 +89095,9 @@
   "ZnkeXs": [
     "Tuş kaldırıldı!"
   ],
+  "ZnoRKt": [
+    "Ay"
+  ],
   "ZnqyZ2": [
     "Tüm Nitro Avantajlarını Göster"
   ],
@@ -88394,6 +89624,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Ödenecek Toplam Tutar"
   ],
   "Zxk1OF": [
     "Şablon Kanalları"
@@ -90185,6 +91418,9 @@
   ],
   "ajkYcF": [
     "İleri"
+  ],
+  "ajn5LL": [
+    "Yeni Aylık Tekrarlayan"
   ],
   "ajzh8S": [
     "Profil görünürlüğün ",
@@ -92800,6 +94036,77 @@
   "bbUIWp": [
     "Kişileri Mesajlaşmaya Davet Et"
   ],
+  "bbgJdE": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak otomatik yenilenen bir aboneliğe kaydolursun. Bugün hesabından ",
+    [
+      1,
+      "totalDue"
+    ],
+    " tutarında ödeme alınacak, ardından ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tarihinden itibaren sen iptal edene kadar her ",
+    [
+      1,
+      "interval"
+    ],
+    " hesabından ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " artı ilgili vergilerin toplamı tutarında ödeme alınmaya devam edecek. Bu satın alım, uygulamanın geliştiricisi tarafından sunulur ve yalnızca bu uygulamada kullanılabilir. Fiyatlar değişebilir. Ayarlar bölümünden istediğin zaman iptal edebilirsin. ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşulları"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " geçerlidir. Soruların mı var? ",
+    [
+      8,
+      "$link",
+      [
+        "Bize ulaş"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " veya ",
+    [
+      8,
+      "$link",
+      [
+        "Abonelikler SSS"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " bölümüne göz at."
+  ],
   "bbilvq": [
     "Kurulum doğrulanıyor — ",
     [
@@ -92857,6 +94164,9 @@
   ],
   "bdBmqy": [
     "Etkinlik"
+  ],
+  "bdF0KJ": [
+    "Hediye Kartı Düzenlemesi"
   ],
   "bdMG43": [
     "Bombayı Yerleştirme"
@@ -95959,6 +97269,9 @@
   "cbtPXy": [
     "Tema güncellendi."
   ],
+  "ccWIdu": [
+    "Bakiyenin toplam tutarı karşılaması gerekiyor"
+  ],
   "cd": [
     "CD",
     "disk",
@@ -97658,11 +98971,55 @@
     ],
     " önerme"
   ],
+  "cwuBkH": [
+    "\"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" butonuna tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş olursun. ",
+    [
+      1,
+      "applicationName"
+    ],
+    " üzerinden bir öğe almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans aldığın anlamına gelir. ",
+    [
+      8,
+      "$link",
+      [
+        "Buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " daha fazla bilgi edin. Orbs alımlarında iade yapılmaz. Bu öğe, doğrudan geliştirici tarafından oyun içinde teslim edilecek."
+  ],
   "cxFiDC": [
     "Küfürlü Konuşma"
   ],
   "cxSpOM": [
     "Yayın Ön İzlemeleri"
+  ],
+  "cxwOJN": [
+    "Toplamın güncellendi"
   ],
   "cxy+zn": [
     "Arkadaşlarını ekle ve onlarla doğrudan sohbet et"
@@ -98852,6 +100209,9 @@
   ],
   "dRycVz": [
     "İptali Şimdi Kaldır"
+  ],
+  "dSPkHo": [
+    "Kodu gir"
   ],
   "dSRTMB": [
     "Şüpheli DM'leri ayrı bir Spam Gelen Kutusu'na gönder. Üyeler sahtecilik bildirisi gönderebilir veya Gelen Kutusu'na taşıyabilir."
@@ -101741,6 +103101,9 @@
   "eTVbtx": [
     "Yeni Kategori"
   ],
+  "eTYAvF": [
+    "Profil Efekti"
+  ],
   "eTmN5a": [
     "Yönetici erişiminden ötürü çıkarılamaz."
   ],
@@ -102609,6 +103972,9 @@
   ],
   "eoXe0r": [
     "Sıralama ölçütü: En Yeni"
+  ],
+  "eoXh7B": [
+    "Sipariş özeti"
   ],
   "eontIh": [
     [
@@ -104001,6 +105367,16 @@
     ],
     " süper tepkisi eklenemedi."
   ],
+  "fJnl1h": [
+    "Ödeme penceresini göremiyor musun? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Yeniden Aç"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Yok sayarsan bir davet bağlantısından yeni bir başvuru başlatabilirsin."
   ],
@@ -105030,6 +106406,9 @@
     "tüy",
     "tüylü",
     "uçma"
+  ],
+  "febr+T": [
+    "Hediye kartı bakiyesi"
   ],
   "feet": [
     "hayvan",
@@ -107365,6 +108744,9 @@
   "gVDdRn": [
     "Grup DM'sine Katıl"
   ],
+  "gVM8va": [
+    "Bir adımda öde. Bir dahaki sefere kullanman için kaydedeceğiz."
+  ],
   "gVWG+6": [
     "Ailem"
   ],
@@ -108565,6 +109947,25 @@
   ],
   "gvXH+a": [
     "Aboneliği yönetemezsin"
+  ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "yıl"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " yıl"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gvgh9L": [
     "Dün güncellendi"
@@ -110769,6 +112170,9 @@
     "ot",
     "yaprak"
   ],
+  "hewwdA": [
+    "Uygulama İçi Satın Alım"
+  ],
   "hf6YOY": [
     [
       8,
@@ -110997,6 +112401,9 @@
   "hjlZZf": [
     "Değişikliğin gerçekleşmesi 24 saate kadar sürebilir."
   ],
+  "hjsn+s": [
+    "Güncel ödeme yöntemi"
+  ],
   "hjvcLO": [
     "Sunucu Takviyeleri"
   ],
@@ -111095,6 +112502,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Al"
   ],
   "hnbagF": [
     "Nitro aboneliğinin ilk ayında bir Takviye kazan."
@@ -111882,6 +113292,13 @@
   "i338qh": [
     "Battaniye"
   ],
+  "i3Q/6S": [
+    "Toplam düzenlemeler ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Bağlantıyı tekrar göndermek için lütfen giriş yap."
   ],
@@ -112095,6 +113512,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Hediye kartını kullan"
   ],
   "iBUzS5": [
     "Konumu kaldır"
@@ -112559,6 +113979,25 @@
   "iPdFOt": [
     "Komut İzinlerini Güncelle"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "gün"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " gün"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Discord Deneyimini Geliştir"
   ],
@@ -112940,6 +114379,9 @@
   ],
   "iZRkC/": [
     "Bilinmeyen"
+  ],
+  "iZe9Wy": [
+    "Ürün"
   ],
   "iZf+eD": [
     "Sunucuyu çözmek çok zordu"
@@ -114867,6 +116309,9 @@
     ],
     " dosya sınırı için Discord Nitro'ya yükselt"
   ],
+  "jM8/71": [
+    "Paket"
+  ],
   "jMFSQV": [
     "Sunucudaki herkes sana mesaj gönderebilir"
   ],
@@ -116347,6 +117792,9 @@
   ],
   "jxIxJL": [
     "Üyeleri kaldırırken bu modalı atlamak için Shift tuşunu basılı tut."
+  ],
+  "jxUJkZ": [
+    "Yeni Tekrarlayan Miktar"
   ],
   "jxXMEz": [
     "Veri İsteği Gönder"
@@ -118559,6 +120007,17 @@
   ],
   "ky6syM": [
     "Şampiyon Öldürme"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Ekran Süresi Sınırları"
@@ -122554,6 +124013,9 @@
   "mWAbK4": [
     "Discord Nitro abonesi olan üyelerin bu kanallarda başka sunuculardan emoji kullanabilmesini sağlar."
   ],
+  "mWL08+": [
+    "Ücretsiz Deneme"
+  ],
   "mWO+ys": [
     "Aksiyon al"
   ],
@@ -122601,6 +124063,24 @@
   ],
   "mXkYyW": [
     "Görmezden gelmek işime yaramıyor"
+  ],
+  "mXvZt2": [
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " sunucusuna abone olunuyor"
   ],
   "mY2R+F": [
     "Kendini arkadaş olarak ekleyemezsin"
@@ -127181,6 +128661,13 @@
   "nrpA5E": [
     "İleri"
   ],
+  "nsG1jw": [
+    [
+      1,
+      "savingsText"
+    ],
+    " cebinde kalsın"
+  ],
   "nsGVzg": [
     "İptal edersen ",
     [
@@ -129038,6 +130525,9 @@
   "of440F": [
     "Arkadaşlık isteği iptal edildi."
   ],
+  "of9bom": [
+    "İsim Plakası"
+  ],
   "ofQnNQ": [
     "Seni (ya da temsil etme yetkin olan birini) çıplak ya da açık cinsel davranışlarda bulunurken gösteren içerik."
   ],
@@ -130650,6 +132140,13 @@
   "pDE7Gb": [
     "Bu çıkartmayı şuradan al:"
   ],
+  "pDVleg": [
+    "Toplam Tasarruf: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Telefon numarası geçerli değil."
   ],
@@ -131104,6 +132601,9 @@
   ],
   "pWLGnF": [
     "Son Etkinlik Hakkında"
+  ],
+  "pWSgIu": [
+    "Bu ödeme yöntemini seçmek hesap Ülke/Bölgeni günceller"
   ],
   "pWZvZk": [
     "Bu rapor ",
@@ -135480,6 +136980,9 @@
   "qwJHjo": [
     "Uygulama"
   ],
+  "qwSlCO": [
+    "Oyun içi eşya"
+  ],
   "qwfovo": [
     [
       2,
@@ -135791,6 +137294,9 @@
   ],
   "r23NoB": [
     "Sahneden kaldır"
+  ],
+  "r29Oel": [
+    "Avatar Dekorasyonu"
   ],
   "r2AEw1": [
     "Discord'u kullanmak için ülkendeki asgari yaş gereksinimini karşılamalısın."
@@ -136478,6 +137984,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Yeni bir ödeme yöntemi ekle"
   ],
   "rNGQfD": [
     "Görev bağlantısını paylaş"
@@ -142354,6 +143863,9 @@
   "t+gj5V": [
     "Bu kurala en az bir eylem ekle."
   ],
+  "t+xzd8": [
+    "Aboneliğin yenilendi!"
+  ],
   "t/IjXY": [
     "Tüm Fotoğraflar"
   ],
@@ -143021,6 +144533,9 @@
   "tJzB6F": [
     "Yanlış Oyun Gösteriliyor"
   ],
+  "tK8A/8": [
+    "Hediye kartı bakiyeni kullanmak için takviye sayısını düşürmen gerekiyor."
+  ],
   "tKCltd": [
     "Nitro başarıyla paylaşıldı"
   ],
@@ -143446,6 +144961,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "İlk yılından ",
+    [
+      8,
+      "$b",
+      [
+        "%",
+        [
+          1,
+          "percentOff"
+        ],
+        " indirim kazanıyorsun"
+      ]
+    ],
+    "!"
   ],
   "tVHevX": [
     [
@@ -145930,6 +147461,19 @@
   "uCD7qK": [
     "Tuş atamasını etkinleştir ya da devre dışı bırak"
   ],
+  "uCXulJ": [
+    "Birine ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " ay hediye ederek %",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " tasarruf sağla. Güzel hamle!"
+  ],
   "uCebZa": [
     "Birden fazla yanıta izin ver"
   ],
@@ -147392,6 +148936,9 @@
     "açık",
     "kilidini açma",
     "kilit"
+  ],
+  "uo9YsP": [
+    "Bu hediye kartı zaten kullanılmış."
   ],
   "uoQFIp": [
     "Bilgi ekle"
@@ -149138,6 +150685,33 @@
   "vcqwCj": [
     "Sorunun"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Bu satın alımı tamamladığında Ülke/Bölgen ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        " olarak güncellenecek. Bu şu anlama gelir:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Farklı bir Ülke/Bölgede geçerli olan bir ödeme yöntemi kullanamayacaksın\n- Ülke/Bölgeni 90 gün boyunca tekrar değiştiremeyeceksin"
+      ]
+    ]
+  ],
   "vct4l8": [
     [
       3,
@@ -150827,6 +152401,26 @@
   ],
   "wCbINr": [
     "3 Aylık Nitro"
+  ],
+  "wCkwJf": [
+    "İlk ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " ayında ",
+    [
+      8,
+      "$b",
+      [
+        "%",
+        [
+          1,
+          "percentOff"
+        ]
+      ]
+    ],
+    " indirim kazanıyorsun!"
   ],
   "wCrzut": [
     "Birden fazla yayın izlemeye başla"
@@ -158155,6 +159749,9 @@
   "yr9TTf": [
     "İstek Listesinden çıkar"
   ],
+  "yrk+N6": [
+    "Aboneliğinin süresi doldu. Aboneliğini geri yüklemek için yeniden ödeme yapmayı dene ya da yeni bir ödeme yöntemi ekle."
+  ],
   "ysbNDc": [
     "Buharlaştırılıyor"
   ],
@@ -158245,6 +159842,9 @@
   ],
   "yvMu3S": [
     "İmha ediliyor"
+  ],
+  "yvUaHi": [
+    "Geçerli vergiler hariç"
   ],
   "yvV5Ye": [
     [
@@ -160429,6 +162029,37 @@
   ],
   "zstmkn": [
     "Markdown'u İşle"
+  ],
+  "ztU/1y": [
+    "Aşağıdaki satın alma seçeneklerinden birine tıklayarak ",
+    [
+      8,
+      "$link",
+      [
+        "Ücretli Hizmet Koşullarını"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " kabul etmiş olursun. Mağazadan bir öğe satın almak, Discord'da bu öğeyi kullanmak için sınırlı bir lisans satın aldığın anlamına gelir. ",
+    [
+      8,
+      "$link",
+      [
+        "Buradan"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " daha fazla bilgi edin. Bu satın alma işlemi iade edilemez. Bu ürün satın alındıktan sonra anında Kullanıcı Profili ayarlarına gelir."
   ],
   "ztXW8V": [
     "Discord istemcisi açıkken ",

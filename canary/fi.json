@@ -1748,6 +1748,9 @@
   "+f0bXQ": [
     "Lähetä satunnainen tervetuloviesti, kun joku liittyy tälle palvelimelle."
   ],
+  "+fIPjg": [
+    "Hemmottele itseäsi Nitrolla tai etsi kaupasta jotain mieluisaa."
+  ],
   "+fPCTZ": [
     "Varmista, ettet ole antanut salasanaasi tai muita arkaluonteisia tietoja."
   ],
@@ -3296,6 +3299,9 @@
   "/F7Z2y": [
     "Yhteensä"
   ],
+  "/FQWfA": [
+    "Lahjakortin saldo"
+  ],
   "/FWKKC": [
     "Voit poistaa piilotuksen milloin tahansa"
   ],
@@ -4012,6 +4018,9 @@
   ],
   "/YEoH2": [
     "Tämä palvelin on ikärajoitettu alueellasi. Ikäryhmäksesi on määritetty teini. Mikäli tämä on virheellinen määritys, voit tehdä ikävahvistuksen uudelleen."
+  ],
+  "/YovOw": [
+    "Keräilytuote"
   ],
   "/YuDAs": [
     "Liitytty"
@@ -6776,6 +6785,37 @@
   "0ZkNDU": [
     "Tunnisteen poisto epäonnistui"
   ],
+  "0Zl+Xt": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ostamalla tuotteen sovelluksen ",
+    [
+      1,
+      "applicationName"
+    ],
+    " pelikaupasta ostat rajoitetun käyttöoikeuden tuotteen käyttöön ilmoitetussa pelissä. Tästä ostoksesta ei myönnetä hyvityksiä. Pelinkehittäjä toimittaa tämän tuotteen suoraan pelinsisäisesti. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Kerro meille käyttökokemuksestasi sovelluksen uuden asettelun kanssa."
   ],
@@ -8083,6 +8123,9 @@
   ],
   "11e3sB": [
     "Voit luennoida, auttaa kotitöissä ja opiskella yhteisvoimin."
+  ],
+  "11g67A": [
+    "Seuraava uusiminen"
   ],
   "11oKq+": [
     "Kypros"
@@ -10426,6 +10469,9 @@
   "26oeP8": [
     "Lisää syy."
   ],
+  "26tjwd": [
+    "Lunasta lahjakortti"
+  ],
   "26uMPL": [
     "Sairaan siistiä!!"
   ],
@@ -11224,6 +11270,29 @@
   ],
   "2PKrQO": [
     "Kokeile tätä ulkoasua"
+  ],
+  "2PiTTi": [
+    "Lahja käyttäjälle ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Olet yhdistänyt Xbox-tilisi aiemmin, mutta yhdistämällä sen uudelleen saat uusia ominaisuuksia käyttöösi."
@@ -12217,6 +12286,77 @@
   "2pG5Ga": [
     "Tilaa"
   ],
+  "2pNIbI": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " teet uusiutuvan tilauksen. Sinulta veloitetaan tänään ",
+    [
+      1,
+      "totalDue"
+    ],
+    ". Kun kokeilusi päättyy ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", sinulta veloitetaan ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " + veloitettava verot ",
+    [
+      1,
+      "interval"
+    ],
+    " välein, kunnes peruutat tilauksen. Hinnat voivat muuttua. Lähetämme muistutuksen ennen kokeilusi päättymistä. Peruutuksen voi tehdä milloin tahansa asetuksista. ",
+    [
+      8,
+      "$link",
+      [
+        "Maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " ovat voimassa. Kysyttävää? ",
+    [
+      8,
+      "$link",
+      [
+        "Ota yhteyttä meihin"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " tai katso ",
+    [
+      8,
+      "$link",
+      [
+        "usein kysytyt kysymykset tilauksista"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Asetti palvelinhaun taustakuvan"
   ],
@@ -12651,6 +12791,9 @@
   "2zGdAW": [
     "Kokeile Nitroa!"
   ],
+  "2zUa6I": [
+    "Tilaus"
+  ],
   "2zdDw5": [
     "Valitsemalla ”",
     [
@@ -12754,6 +12897,9 @@
   ],
   "30+sih": [
     "Jakamasi ilmiannot"
+  ],
+  "302Ck/": [
+    "Maksutapasi on tallennettu"
   ],
   "302tKP": [
     "Hanki tuote"
@@ -14963,6 +15109,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Postinumero"
+  ],
   "3jprCb": [
     "Muutosta ei voida käsitellä, koska maksu on kesken."
   ],
@@ -14974,6 +15123,9 @@
   ],
   "3k4hTU": [
     "Poistetaanko toiminnan jakaminen käytöstä?"
+  ],
+  "3kMstB": [
+    "Tallennetut maksutapasi eivät vastaa nykyistä maatasi/aluettasi. Jos lisäät uuden maksutavan, maasi/alueesi päivitetään."
   ],
   "3kVEg0": [
     "Jos poistut, voit liittyä uuteen ryhmätilaukseen vasta ",
@@ -15494,6 +15646,9 @@
       "short"
     ],
     " lähtien"
+  ],
+  "3wsYeI": [
+    "Kertalahja"
   ],
   "3x/M9Z": [
     "Tämä kauppanäkymä julkaistiin ",
@@ -18355,6 +18510,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Seuraava uusiminen ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -19546,6 +19709,9 @@
   "5dX4UM": [
     "Mikään GIF ei vastaa hakuasi."
   ],
+  "5dmUS+": [
+    "Hyväksyn, että digitaalinen ostokseni toimitetaan minulle välittömästi, ja vahvistan, että kun ostos on toimitettu, menetän oikeuteni vaatia siitä hyvitystä ellei hyvityskäytännössä toisin määrätä."
+  ],
   "5dxvxs": [
     "En tiedä, kuinka tehtävä suoritetaan"
   ],
@@ -19646,6 +19812,51 @@
   ],
   "5fZHp3": [
     "Lähetä kutsu"
+  ],
+  "5fbNBX": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen lunastaminen sovelluksesta ",
+    [
+      1,
+      "applicationName"
+    ],
+    " tarkoittaa, että hankit rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Lue lisää ",
+    [
+      8,
+      "$link",
+      [
+        "täältä"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbien lunastuksista ei myönnetä hyvityksiä. Pelinkehittäjä toimittaa tämän tuotteen suoraan pelinsisäisesti. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Näytä täysi kuvaus"
@@ -21003,6 +21214,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " lisätty tilillesi"
   ],
   "66YyBJ": [
     "Avatar-koriste Discord-profiilisi piristämiseen. Nitrolla saat pitää sen!"
@@ -23364,6 +23582,9 @@
   "6yrpFR": [
     "Vaihda\nkuvake"
   ],
+  "6zCzw1": [
+    "Tätä maksutapaa ei voitu lisätä. Yritä uudelleen tai käytä eri maksutapaa."
+  ],
   "6zFA/T": [
     "Tosi, tosi originaali"
   ],
@@ -24016,6 +24237,9 @@
   ],
   "7LL+Fw": [
     "Yhdysvallat"
+  ],
+  "7LeLN4": [
+    "Nitro-kokeilu huomioitu"
   ],
   "7LgVmt": [
     "Katso turvallisuusvinkit"
@@ -25422,6 +25646,9 @@
   "7qbp3B": [
     "...enemmän"
   ],
+  "7r4HPu": [
+    "Vahvista ja maksa"
+  ],
   "7r4OKg": [
     "Salli synkronoitujen tilaajien käyttää mukautettuja Twitch-emojejasi Discordissa."
   ],
@@ -25483,6 +25710,14 @@
   ],
   "7sW4h1": [
     "Annetulla nimellä ei löytynyt ketään."
+  ],
+  "7sYIBL": [
+    "Vuositilauksen lahjoittamalla säästät ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Fiksu siirto!"
   ],
   "7spYft": [
     "Päivitä maksutapa"
@@ -26290,6 +26525,13 @@
   "8CVUrV": [
     "Ilmainen Nitro-kokeilu"
   ],
+  "8CYJ8Y": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " kk"
+  ],
   "8CjY/q": [
     "Tämä on valitsemasi suuruinen kertaveloitus. Sinua ei laskuteta vuosittain."
   ],
@@ -26590,6 +26832,14 @@
   ],
   "8Joh+p": [
     "Puhu esityksessä"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitroa"
   ],
   "8JzOBn": [
     "Oletuskanavilla ",
@@ -27575,6 +27825,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Kuukausittain"
+  ],
   "8gpzp6": [
     "Ladattava sisältö"
   ],
@@ -27617,6 +27870,27 @@
   ],
   "8ihs9i": [
     "Suorituskyvyn jäljitystietojen keräys epäonnistui"
+  ],
+  "8imbq5": [
+    "Nostatetaan palvelinta ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "Beeta päättyy ",
@@ -29457,6 +29731,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " käytettävissä"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -29481,6 +29762,9 @@
   ],
   "9Oq93m": [
     "Jäsenet"
+  ],
+  "9OxfNK": [
+    "Selaa kauppaa"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -30839,6 +31123,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Tilausalennus huomioitu"
+  ],
   "9yLOND": [
     "Poistettu ",
     [
@@ -30947,6 +31234,87 @@
   ],
   "A+pogv": [
     "Näytä tulokset"
+  ],
+  "A+qfZ+": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " teet automaattisesti uusiutuvan tilauksen. Sinulta veloitetaan tänään ",
+    [
+      1,
+      "totalDue"
+    ],
+    ", ja seuraavat ",
+    [
+      1,
+      "trialDuration"
+    ],
+    " hinta on ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    ". Kun kokeilusi päättyy ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", sinulta veloitetaan ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " + veloitettava verot ",
+    [
+      1,
+      "interval"
+    ],
+    " välein, kunnes peruutat tilauksen. Hinnat voivat muuttua. Lähetämme muistutuksen ennen kokeilusi päättymistä. Peruutuksen voi tehdä milloin tahansa asetuksista. ",
+    [
+      8,
+      "$link",
+      [
+        "Maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " ovat voimassa. Kysyttävää? ",
+    [
+      8,
+      "$link",
+      [
+        "Ota yhteyttä meihin"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " tai katso ",
+    [
+      8,
+      "$link",
+      [
+        "usein kysytyt kysymykset tilauksista"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Luontiaika"
@@ -31654,6 +32022,9 @@
   "AM3mzX": [
     "Tiedosto"
   ],
+  "AM9XGb": [
+    "Tilauslahja"
+  ],
   "AMHrre": [
     "Anna palautetta"
   ],
@@ -32236,6 +32607,13 @@
   "AcJ4ke": [
     "Aseta tunnit, joiden aikana teinisi ei voi käyttää Discordia. Hän ei saa tänä aikana ilmoituksia eikä voi käyttää Discordia."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " kuukautta"
+  ],
   "AcaNYw": [
     "Haluatko tehdä tästä palvelimesta entistä yksilöllisemmän? Saat avattua mukautetut palvelinbannerit ",
     [
@@ -32446,6 +32824,13 @@
   ],
   "AfrvRD": [
     "Katso koko kauppa"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " lisättiin tilillesi"
   ],
   "AgMngw": [
     "Orb-saldo: ",
@@ -33282,6 +33667,9 @@
   ],
   "AzkvWe": [
     "Esittelyruutu"
+  ],
+  "B+/GvM": [
+    "Anna postinumero"
   ],
   "B+cbLS": [
     "Vaihdetaanko online-tilaan?"
@@ -34201,6 +34589,9 @@
   "BLqYQa": [
     "Muokkaa maksutapaa"
   ],
+  "BLu9EI": [
+    "Lisää eri maksutapa"
+  ],
   "BLuvck": [
     "Suositun musiikin käyttöönotto edellyttää, että vähintään ",
     [
@@ -34405,6 +34796,9 @@
   ],
   "BPoc9u": [
     "Katkaisee automaattisesti yhteydet puhe- tai esityskanaviin"
+  ],
+  "BPzQj4": [
+    "Osta"
   ],
   "BQFHXW": [
     "Yhdistettävän huoltajan on oltava vähintään 18-vuotias"
@@ -35273,6 +35667,42 @@
   "BkVb1X": [
     "Teinisi lisäämät tai hyväksymät uudet kaverit"
   ],
+  "BkYev7": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen ostaminen kaupasta tarkoittaa, että ostat rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Lisätietoja on Virtuaalituotteet-osiossa ",
+    [
+      8,
+      "$link",
+      [
+        "täällä"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Tästä ostoksesta ei myönnetä hyvityksiä. Tuote on heti saatavana käyttäjäprofiilin asetuksissa."
+  ],
   "BkZhUI": [
     "Käytettävissä vain mobiililaitteilla"
   ],
@@ -35467,6 +35897,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Koodi"
+  ],
   "Bn1J+a": [
     "Lunasta lahjasi"
   ],
@@ -35475,6 +35908,20 @@
   ],
   "BnSq1I": [
     "Ei yhteyttä"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Muokkaa"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -36595,6 +37042,37 @@
   ],
   "CCU/wn": [
     "Määritä ihmisille heidän vastaustensa perusteella sopivat kanavat ja roolit."
+  ],
+  "CCVlIb": [
+    "Napsauttamalla ”Lunasta” hyväksyt ",
+    [
+      8,
+      "$link",
+      [
+        "lahjakorttien palveluehdot"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " ja ",
+    [
+      8,
+      "$link",
+      [
+        "lompakon palveluehdot"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Spawnasit uudelleen."
@@ -37732,6 +38210,15 @@
   "Chg2zd": [
     "Jäsenet voivat luoda tälle kanavalle ketjuja, joihin voi liittyä vain kutsusta."
   ],
+  "Chj1Ke": [
+    "Alennus voimassa ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ],
+    " asti"
+  ],
   "ChoIiy": [
     "Jäsenten tekstikanavilla jakamissa linkeissä voidaan näyttää upotettua sisältöä."
   ],
@@ -38787,6 +39274,33 @@
   ],
   "DDpHZG": [
     "Katso. Tienaa orbseja. Lunasta palkinnot."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Jos teet tämän ostoksen, maaksesi/alueeksesi päivitetään ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Sen seuraukset ovat seuraavat:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "– Menetät nykyisen lahjakorttisaldosi\n– Et voi käyttää muiden maiden/alueiden maksutapoja\n– Et voi muuttaa maa-/alueasetustasi uudelleen 90 päivään"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Käyttöoikeuksia ei löytynyt"
@@ -40553,6 +41067,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Olet avaamassa ennakkojulkaisun käyttöön, jotta voit ostaa kehyksiä kaupasta"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -41200,6 +41717,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " hyväksyt ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Olet ehkä ostamassa rajoitetun käyttöoikeuden, joka antaa oikeuden käyttää tätä tuotetta vain sen luojan palvelimella. ",
+    [
+      8,
+      "$b",
+      [
+        "Tästä ostoksesta ei myönnetä hyvityksiä."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Lisää kutsulinkkiisi kuva nostattamalla palvelinta"
   ],
@@ -41567,6 +42113,9 @@
       "username"
     ],
     " toimintaan"
+  ],
+  "EUKPip": [
+    "Jokin meni pieleen. Tarkista tietosi ja yritä uudelleen."
   ],
   "EUNgko": [
     "Käytössä oleva iOS-mikrofonitila ei ole standardinmukainen. Jos haluat käyttää jotakin Discordin kohinanvaimennustoiminnoista, valitse standardinmukainen mikrofonitila ",
@@ -43654,6 +44203,9 @@
   "FNVJ4+": [
     "Ilmainen avatar-koriste profiiliasi varten!"
   ],
+  "FNijW7": [
+    "Uusi vuosittain toistuva"
+  ],
   "FNqmmX": [
     "Antaa Discordille luvan käyttää ja käsitellä tietojasi Discordin palvelujen tutkimis- ja parantamistarkoituksissa. ",
     [
@@ -43946,6 +44498,9 @@
       []
     ],
     "."
+  ],
+  "FVzt1W": [
+    "Kuukausitilaus"
   ],
   "FW3Qp/": [
     "Seitissä vartoen"
@@ -44337,6 +44892,9 @@
       ]
     ],
     " häneltä"
+  ],
+  "Fjpyfj": [
+    "Kampanja"
   ],
   "FjrXCi": [
     "Anna jopa ",
@@ -44948,6 +45506,35 @@
   ],
   "G0neg7": [
     "Helppokäyttöisyys"
+  ],
+  "G0nk6B": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " hyväksyt ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen ostaminen tarkoittaa, että ostat rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Tämän ostoksen toimittaa tämän sovelluksen kehittäjä eikä sitä voida käyttää kuin tässä sovelluksessa. ",
+    [
+      8,
+      "$b",
+      [
+        "Tästä ostoksesta ei myönnetä hyvityksiä."
+      ]
+    ]
   ],
   "G16Wji": [
     "Synkronointiyhteys katkaistu! Käyttäjän ",
@@ -45766,6 +46353,9 @@
   ],
   "GGlM3e": [
     "Vaihda vain ulostulo"
+  ],
+  "GGn3pp": [
+    "Tilauksen tiedot"
   ],
   "GGxBdA": [
     "Taikasauva-emoji"
@@ -50016,6 +50606,9 @@
     ],
     " aloitti äänihengailun."
   ],
+  "HzDn6w": [
+    "Profiilikehys"
+  ],
   "Hza+Bu": [
     "Nitrolla saat eksklusiivisia profiilitehosteita ja jäsenille tarkoitetun erikoishinnan kaupasta."
   ],
@@ -50510,6 +51103,37 @@
   ],
   "IAcEEn": [
     "Jätä muistiinpano"
+  ],
+  "IAsfR5": [
+    "Nauti ",
+    [
+      8,
+      "$b",
+      [
+        "Nitrosta ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " päivä"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " päivää"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ennen kuin sinua veloitetaan!"
   ],
   "IAybsG": [
     "säästä ",
@@ -51123,6 +51747,42 @@
   "IOy+I5": [
     "Toimintaa ei voida käynnistää"
   ],
+  "IP93kX": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen lunastaminen kaupasta tarkoittaa, että hankit rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Lue lisää ",
+    [
+      8,
+      "$link",
+      [
+        "täältä"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbs-lunastuksista ei myönnetä hyvityksiä."
+  ],
   "IPO2be": [
     "Ilmianna palvelin – ",
     [
@@ -51250,6 +51910,42 @@
   ],
   "ITUQgh": [
     "Suositellaan palvelimille, jotka käyttävät rooleja jäsenten luotettavuuden merkkinä."
+  ],
+  "ITY3j6": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen ostaminen kaupasta tarkoittaa, että ostat rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Lue lisää ",
+    [
+      8,
+      "$link",
+      [
+        "täältä"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Tästä ostoksesta ei myönnetä hyvityksiä. Tuote on heti saatavana käyttäjäprofiilin asetuksissa."
   ],
   "ITlV6p": [
     "Yhdistä huoltaja tiliisi, jos haluat pitää tilisi käytössä"
@@ -53821,6 +54517,9 @@
   "JPI1pf": [
     "Liity Nitro-tilaajaksi"
   ],
+  "JPRQ9L": [
+    "Maksa Pixillä"
+  ],
   "JPU0EF": [
     "Valitse tasot"
   ],
@@ -54701,6 +55400,43 @@
   "JsBPb8": [
     "Esimerkkejä olemassa olevista Discord-yhteisöistä"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "yhden kuukauden"
+            ],
+            "=2": [
+              "kahden kuukauden"
+            ],
+            "=3": [
+              "kolmen kuukauden"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " kuukauden"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " jälkeen"
+  ],
   "JsbzjA": [
     "Ohjaa Discordin mikrofonisi kautta välittämän äänen määrää. Testaa mikrofonisi herkkyys puhumalla. Jos mittari täyttyy, Discord välittää kauniin äänesi."
   ],
@@ -54863,6 +55599,14 @@
   ],
   "Jz1lXO": [
     "Valitse vaihtoehto, jolla haluat vahvistaa henkilöllisyytesi."
+  ],
+  "Jz6+Oj": [
+    "Lahjakortin saldo (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Kokeile tiettyjä uusia ominaisuuksia ennen niiden yleistä julkaisua."
@@ -56911,6 +57655,13 @@
     ],
     " liittymisestä on peruttu."
   ],
+  "KpnRtO": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " vuoden alennus käytetty"
+  ],
   "Kq7FAS": [
     "Määritä oletuskanavat, jotka kaikki jäsenet näkevät kanavaluettelossaan, kun he liittyvät palvelimelle. Jäsenet voivat lisätä muita kanavia mukautuskysymysten avulla."
   ],
@@ -57068,6 +57819,9 @@
   ],
   "KuzWUU": [
     "Luettelonäkymä"
+  ],
+  "Kv+vV7": [
+    "Tätä maksutapaa ei voi käyttää nykyisen maa-/alueasetuksesi perusteella"
   ],
   "Kv6Z4I": [
     "Turvallinen"
@@ -57962,6 +58716,13 @@
   ],
   "LHUP9D": [
     "Poista kirjanmerkki"
+  ],
+  "LHWoqL": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " viikon alennus käytetty"
   ],
   "LHy5uU": [
     "Hanki DLC"
@@ -59346,6 +60107,9 @@
   "LvXy/H": [
     "Tervetuloa 👋 palvelimen kaupan vielä melko tylsään versioon. Kauppa on uusi tapa tarjota palvelimen jäsenille hienoa sisältöä ja ansaita samalla rahaa. Palvelimesi jäsenet eivät näe tätä välilehteä ennen kuin olet luonut ja julkaissut ensimmäisen tuotteen!"
   ],
+  "LvcUx4": [
+    "Palauta tilaus"
+  ],
   "Lw6KXV": [
     [
       1,
@@ -59740,6 +60504,9 @@
   ],
   "M2iEy3": [
     "Jäsenet voivat oletusarvoisesti tarkastella tätä kanavaa."
+  ],
+  "M2mY1J": [
+    "Vuosittain"
   ],
   "M35zFB": [
     "Siirry palvelimelle"
@@ -60756,6 +61523,14 @@
   "MQoVeb": [
     "Mukautetut tarrat kaikkialla"
   ],
+  "MR4VnX": [
+    "Uusiutuu ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "hlbt"
   ],
@@ -60795,6 +61570,13 @@
   ],
   "MS/4U1": [
     "Arkistoi taso"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    ":n ale"
   ],
   "MSWjRh": [
     "Hanki tämänkaltainen mukautettu profiili ",
@@ -61447,6 +62229,13 @@
   ],
   "Mi3iPI": [
     "Tutustu niihin"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    " % ALENNUSTA"
   ],
   "Mi60fm": [
     "Pyydä huoltajaasi skannaamaan tämä koodi"
@@ -62337,6 +63126,9 @@
   "N46WOv": [
     "Promosivusi URL-osoite"
   ],
+  "N4EAHm": [
+    "tai"
+  ],
   "N4ICPb": [
     "Tämän DLC:n pelaaminen edellyttää, että omistat sen peruspelin ",
     [
@@ -62684,6 +63476,9 @@
   ],
   "NEFeB0": [
     "Kuolema"
+  ],
+  "NEHhLR": [
+    "Vuositilaus"
   ],
   "NENZhS": [
     "Säädä asetuksia"
@@ -65102,6 +65897,13 @@
   "OBCR+p": [
     "Näytä lisää"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " kk:n tilaus"
+  ],
   "OBp3V3": [
     "GIF, painike"
   ],
@@ -65190,6 +65992,14 @@
   ],
   "ODCYj8": [
     "Jäsenet voivat luoda ketjuja, jotka ovat kaikkien kanavan käyttäjien tarkasteltavissa."
+  ],
+  "ODKoJd": [
+    "Säästä ",
+    [
+      2,
+      "percent"
+    ],
+    "  % vuositilauksella"
   ],
   "ODXApH": [
     "Koontiversio ei ole käytettävissä"
@@ -65291,6 +66101,77 @@
   ],
   "OGpGqO": [
     "Listaus"
+  ],
+  "OH1Evm": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " teet uusiutuvan tilauksen. Sinulta veloitetaan tänään ",
+    [
+      1,
+      "totalDue"
+    ],
+    " ja sen jälkeen ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " + veloitettavat verot ",
+    [
+      1,
+      "interval"
+    ],
+    " välein ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " alkaen, kunnes peruutat tilauksen. Hinnat voivat muuttua. Peruutuksen voi tehdä milloin tahansa asetuksista. ",
+    [
+      8,
+      "$link",
+      [
+        "Maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " ovat voimassa. Kysyttävää? ",
+    [
+      8,
+      "$link",
+      [
+        "Ota yhteyttä meihin"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " tai katso ",
+    [
+      8,
+      "$link",
+      [
+        "usein kysytyt kysymykset tilauksista"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Jakaminen"
@@ -65838,6 +66719,33 @@
   ],
   "OVN9la": [
     "Haluatko käyttää eri avataria, banneria ja biografiaa?"
+  ],
+  "OVhTE7": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ostamalla tuotteen sovelluksen ",
+    [
+      1,
+      "applicationName"
+    ],
+    " pelikaupasta ostat rajoitetun käyttöoikeuden tuotteen käyttöön ilmoitetussa pelissä. Tästä ostoksesta ei myönnetä hyvityksiä. Pelinkehittäjä toimittaa tämän tuotteen suoraan pelinsisäisesti."
   ],
   "OVlNGT": [
     "roolisi väri\n",
@@ -67550,6 +68458,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tämä on valitsemasi keston mukainen kertaveloitus. Sinua ei laskuteta kuukausittain. Nitro-lahjasta ei myönnetä hyvityksiä, kun vastaanottaja on lunastanut sen."
+  ],
   "P5dSl0": [
     "Varjoväri"
   ],
@@ -68775,6 +69705,9 @@
     ],
     " tunnistukset käytöstä?"
   ],
+  "PZDPvQ": [
+    "Lahjakortin koodi on pakollinen"
+  ],
   "PZLnuD": [
     "Toiminta on päättynyt.\nAloitetaanko uusi?"
   ],
@@ -69610,6 +70543,29 @@
       ]
     ],
     " on esitellyt viestin aloitussivulla"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " kuukausi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " kuukautta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitroa"
   ],
   "PygWIS": [
     "Yhdistetään uudelleen"
@@ -70896,6 +71852,25 @@
   "QXMYAb": [
     "Symbolit"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "intervalCount"
+        ],
+        " kuukauden"
+      ]
+    ],
+    " jälkeen"
+  ],
   "QXYwoD": [
     "Miten ",
     [
@@ -72049,6 +73024,9 @@
   ],
   "R0VpSW": [
     "Saat ilmoituksen, kun jollakin palvelimistasi on tapahtuma tulossa."
+  ],
+  "R0cZsM": [
+    "Päivän loppusumma"
   ],
   "R0h4pE": [
     [
@@ -76749,6 +77727,9 @@
   "Sx8Ezi": [
     "Kokeile esityskanavaa!"
   ],
+  "SxKq52": [
+    "Seuraava vuosittain toistuva"
+  ],
   "SxLn1y": [
     "Pakko olla kaikkein paras"
   ],
@@ -79192,6 +80173,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Seuraava uusiminen"
+  ],
   "TtA5rK": [
     "Käytä ulkoisia sovelluksia"
   ],
@@ -79608,6 +80592,13 @@
   ],
   "U26WX+": [
     "Et valitettavasti voi hyväksyä tätä lahjaa, koska tilaukseesi liittyvä lasku on maksamatta."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " nyt"
   ],
   "U2JFHZ": [
     "emojin_nimi"
@@ -81046,6 +82037,9 @@
   "UdNuqi": [
     "Neonavaruus"
   ],
+  "UdSuwf": [
+    "Tämä ostos edellyttää tilausten maksutapasi käyttämistä."
+  ],
   "UdXO8P": [
     "Hups! ",
     [
@@ -82182,6 +83176,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Lahjakortin saldon käyttäminen maksamiseen edellyttää, että käytät työpöytä- tai verkkosovellusta."
+  ],
   "V3Gri+": [
     "ranska"
   ],
@@ -82889,6 +83886,9 @@
   ],
   "VJRr3Y": [
     "Hyppää mukaan soolopulmien, bilepelien, kilpailupelien ja monen muunlaisen hauskanpidon maailmaan."
+  ],
+  "VJXTzd": [
+    "Hemmottele itseäsi kaupassa tai käytä saldo mihin tahansa muuhun Discordissa."
   ],
   "VJcK41": [
     "Käyttäjän ",
@@ -85452,6 +86452,9 @@
   "WJisip": [
     "Aseta pikkukuva napauttamalla"
   ],
+  "WJmme7": [
+    "Tätä maksutapaa ei voi käyttää tähän tapahtumaan."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -86831,6 +87834,9 @@
   "WmfZHZ": [
     "Kopioi tehtävälinkki"
   ],
+  "WmjxYl": [
+    "Päivä"
+  ],
   "WmsPis": [
     "Jakamani toiminta"
   ],
@@ -87026,6 +88032,9 @@
   ],
   "Wr4RIX": [
     "Upotukset on poistettu käytöstä tällä kanavalla."
+  ],
+  "WrFWOV": [
+    "Seuraava kuukausittain toistuva"
   ],
   "WrQD/Y": [
     "Ohitetaanko ",
@@ -87259,6 +88268,13 @@
   ],
   "WzC9s6": [
     "Haluan määrittää koko palvelimeni eksklusiiviseksi"
+  ],
+  "WzJTZI": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " päivän alennus käytetty"
   ],
   "WzM5YA": [
     "nba"
@@ -87799,6 +88815,9 @@
   ],
   "XBrJT6": [
     "Saapuva puhelu"
+  ],
+  "XBtSMa": [
+    "Hyväksyn välittömän toimituksen"
   ],
   "XBwns+": [
     "Tuntematon palvelin"
@@ -88663,6 +89682,22 @@
   "XWkJoi": [
     "Automaattinen leiketallennus"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ilmainen palkinto valittu"
+        ],
+        "other": [
+          "Ilmaiset palkinnot valittu"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Ei rajoitusta"
   ],
@@ -89461,6 +90496,9 @@
   "Xrcmjk": [
     "Neutraali"
   ],
+  "Xrg8aC": [
+    "Vuosi"
+  ],
   "XrpYIG": [
     "Piirtotaulua voi käyttää vain näillä rooleilla. Jätä tämä tyhjäksi, jotta kaikki voivat käyttää sitä. Muutokset tulevat voimaan heti."
   ],
@@ -90198,6 +91236,9 @@
         "Voit käynnistää tilauksen uudelleen milloin tahansa."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Olemme valinneet maasi/alueesi mukaisen maksutavan."
   ],
   "Y6qWLc": [
     "Lähetä viesti kanavalla ",
@@ -90981,6 +92022,9 @@
   "YTvOUx": [
     "Lisää kaikkialle Discordiin ja kaikkiin tähän tiliin yhdistettyihin peleihin"
   ],
+  "YUNJJa": [
+    "Säästö Nitrolla"
+  ],
   "YUSOKl": [
     "Estetäänkö tämä tili?"
   ],
@@ -91279,6 +92323,9 @@
   ],
   "YZd5rw": [
     "Makoisat edut ovat nyt käytettävissäsi ympäri vuoden. Ota niistä ilo irti, ystävä hyvä!"
+  ],
+  "YZePWx": [
+    "Ymmärrän"
   ],
   "YZiJbh": [
     "Yritetään tunnistaa Discord-tiliä oletusselaimestasi. Odota pieni hetki..."
@@ -92879,6 +93926,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Basicia"
+  ],
   "ZAbzbA": [
     "Teit juuri ",
     [
@@ -93699,6 +94754,13 @@
   ],
   "ZQ37tH": [
     "Tämä rooli määritetään jäsenille automaattisesti. Sitä ei voi manuaalisesti määrittää jäsenille tai poistaa heiltä."
+  ],
+  "ZQLDzk": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " kk:n alennus käytetty"
   ],
   "ZQakPR": [
     "Discordisi"
@@ -94622,6 +95684,9 @@
   "ZnkeXs": [
     "Avainkoodi poistettu!"
   ],
+  "ZnoRKt": [
+    "Kuukausi"
+  ],
   "ZnqyZ2": [
     "Näytä kaikki Nitro-edut"
   ],
@@ -95172,6 +96237,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Maksettava yhteensä"
   ],
   "Zxk1OF": [
     "Mallin kanavat"
@@ -97005,6 +98073,9 @@
   ],
   "ajkYcF": [
     "Seuraava"
+  ],
+  "ajn5LL": [
+    "Uusi kuukausittain toistuva"
   ],
   "ajzh8S": [
     "Profiilisi näkyvyysasetukseksi on asetettu ",
@@ -99736,6 +100807,77 @@
   "bbUIWp": [
     "Kutsu kontaktejasi viestimään"
   ],
+  "bbgJdE": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " teet uusiutuvan tilauksen. Sinulta veloitetaan tänään ",
+    [
+      1,
+      "totalDue"
+    ],
+    " ja sen jälkeen ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " + veloitettavat verot ",
+    [
+      1,
+      "interval"
+    ],
+    " välein ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " alkaen, kunnes peruutat tilauksen. Tämän ostoksen toimittaa tämän sovelluksen kehittäjä eikä sitä voida käyttää kuin tässä sovelluksessa. Hinnat voivat muuttua. Peruutuksen voi tehdä milloin tahansa asetuksista. ",
+    [
+      8,
+      "$link",
+      [
+        "Maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " ovat voimassa. Kysyttävää? ",
+    [
+      8,
+      "$link",
+      [
+        "Ota yhteyttä meihin"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " tai katso ",
+    [
+      8,
+      "$link",
+      [
+        "usein kysytyt kysymykset tilauksista"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Vahvistetaan asennusta – ",
     [
@@ -99793,6 +100935,9 @@
   ],
   "bdBmqy": [
     "Toiminta"
+  ],
+  "bdF0KJ": [
+    "Lahjakortin muokkaus"
   ],
   "bdMG43": [
     "Pommin sijoitus"
@@ -102968,6 +104113,9 @@
   "cbtPXy": [
     "Teema on päivitetty."
   ],
+  "ccWIdu": [
+    "Saldon on katettava koko erääntyvä summa"
+  ],
   "cd": [
     "blu-ray",
     "CD",
@@ -104727,6 +105875,47 @@
       "device"
     ]
   ],
+  "cwuBkH": [
+    "Valitsemalla ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " vahvistat hyväksyväsi ",
+    [
+      8,
+      "$link",
+      [
+        "maksullisten palvelujen ehdot"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Tuotteen lunastaminen sovelluksesta ",
+    [
+      1,
+      "applicationName"
+    ],
+    " tarkoittaa, että hankit rajoitetun käyttöoikeuden kyseisen tuotteen käyttämiseen Discordissa. Lue lisää ",
+    [
+      8,
+      "$link",
+      [
+        "täältä"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbien lunastuksista ei myönnetä hyvityksiä. Pelinkehittäjä toimittaa tämän tuotteen suoraan pelinsisäisesti."
+  ],
   "cxFiDC": [
     "Voimakasta kielenkäyttöä"
   ],
@@ -106060,6 +107249,9 @@
   ],
   "dRycVz": [
     "Kumoa peruutus nyt"
+  ],
+  "dSPkHo": [
+    "Anna koodi"
   ],
   "dSRTMB": [
     "Lähetä epäilyttävät yksityisviestit erilliseen roskaviestikansioon. Jäsenet voivat lähettää näistä viesteistä roskapostiraportin tai palauttaa ne saapuneisiin viesteihinsä."
@@ -109128,6 +110320,9 @@
   "eTVbtx": [
     "Uusi luokka"
   ],
+  "eTYAvF": [
+    "Profiilitehoste"
+  ],
   "eTmN5a": [
     "Poistaminen ei onnistu järjestelmänvalvojan käyttöoikeuksien vuoksi."
   ],
@@ -110015,6 +111210,9 @@
   ],
   "eoXe0r": [
     "Lajittelu: Uusimmat"
+  ],
+  "eoXh7B": [
+    "Tilauksen yhteenveto"
   ],
   "eontIh": [
     [
@@ -111487,6 +112685,16 @@
     ],
     " lisäys ei onnistunut."
   ],
+  "fJnl1h": [
+    "Eikö maksuikkunaa näy? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Avaa uudelleen"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Jos hylkäät, voit aloittaa hakemuksen täyttämisen uudelleen kutsulinkin kautta."
   ],
@@ -112590,6 +113798,9 @@
     "lento",
     "lintu",
     "sulka"
+  ],
+  "febr+T": [
+    "Lahjakortin saldo"
   ],
   "feet": [
     "jalka",
@@ -116137,6 +117348,13 @@
   "gvXH+a": [
     "Et voi hallita tilausta"
   ],
+  "gvaGGA": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " v"
+  ],
   "gvgh9L": [
     "Päivitetty eilen"
   ],
@@ -118467,6 +119685,9 @@
     "lehti",
     "yrtti"
   ],
+  "hewwdA": [
+    "Osto sovelluksessa"
+  ],
   "hf6YOY": [
     "Alennus kuuluu tilaukseesi (",
     [
@@ -118684,6 +119905,9 @@
   "hjlZZf": [
     "Muutoksen voimaantulo voi kestää jopa 24 tuntia."
   ],
+  "hjsn+s": [
+    "Nykyinen maksutapa"
+  ],
   "hjvcLO": [
     "Palvelimen nostatukset"
   ],
@@ -118785,6 +120009,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Lunasta"
   ],
   "hnbagF": [
     "Saat nostatuksen, kun sinulla on ollut Nitro kuukauden."
@@ -119565,6 +120792,13 @@
   "i338qh": [
     "Viltti"
   ],
+  "i3Q/6S": [
+    "Muutosten kokonaisarvo ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Kirjaudu sisään, jotta linkki voidaan lähettää uudelleen."
   ],
@@ -119812,6 +121046,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Lunasta lahjakortti"
   ],
   "iBUzS5": [
     "Poista sijainti"
@@ -120342,6 +121579,13 @@
   "iPdFOt": [
     "Komentojen oikeuksien päivitys"
   ],
+  "iPorlt": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " pv"
+  ],
   "iPvfUq": [
     "Päivitä Discord-käyttökokemustasi"
   ],
@@ -120821,6 +122065,9 @@
   ],
   "iZRkC/": [
     "Tuntematon"
+  ],
+  "iZe9Wy": [
+    "Tuote"
   ],
   "iZf+eD": [
     "Palvelin oli liian vaikeatajuinen"
@@ -122782,6 +124029,9 @@
     ],
     " tiedostokokorajan"
   ],
+  "jM8/71": [
+    "Paketti"
+  ],
   "jMFSQV": [
     "Kaikki palvelimen jäsenet voivat lähettää sinulle viestejä"
   ],
@@ -124408,6 +125658,9 @@
   ],
   "jxIxJL": [
     "Ohita tämä opastus pitämällä vaihtonäppäintä painettuna jäsenten poiston aikana."
+  ],
+  "jxUJkZ": [
+    "Uusi toistuva summa"
   ],
   "jxXMEz": [
     "Lähetä tietopyyntö"
@@ -126762,6 +128015,17 @@
   ],
   "ky6syM": [
     "Championin tappo"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Ruutuaikarajoitukset"
@@ -130831,6 +132095,9 @@
   "mWAbK4": [
     "Jäsenet voivat käyttää muilta palvelimilta peräisin olevia emojeja näillä kanavilla, jos he ovat Discord Nitro ‑jäseniä."
   ],
+  "mWL08+": [
+    "Ilmaiskokeilu"
+  ],
   "mWO+ys": [
     "Ryhdy toimiin"
   ],
@@ -130894,6 +132161,24 @@
   ],
   "mXkYyW": [
     "Ohittaminen ei toimi niin kuin haluaisin"
+  ],
+  "mXvZt2": [
+    "Tilataan ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Itseään ei voi lisätä kaveriksi"
@@ -135515,6 +136800,13 @@
   "nrpA5E": [
     "välitä"
   ],
+  "nsG1jw": [
+    "Säästä ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Jos peruutat tilauksen, ",
     [
@@ -137431,6 +138723,9 @@
   "of440F": [
     "Kaveripyyntö on peruttu."
   ],
+  "of9bom": [
+    "Nimikyltti"
+  ],
   "ofQnNQ": [
     "Sisältö, joka esittää sinua (tai henkilöä, jonka edustajana olet valtuutettu toimimaan) alastomana tai seksuaalisesti paljastavaan tekoon osallistuvana"
   ],
@@ -139107,6 +140402,13 @@
   "pDE7Gb": [
     "Tämän tarran saa täältä:"
   ],
+  "pDVleg": [
+    "Kokonaissäästö ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Puhelinnumero on virheellinen."
   ],
@@ -139594,6 +140896,9 @@
   ],
   "pWLGnF": [
     "Tietoja äskettäisestä toiminnasta"
+  ],
+  "pWSgIu": [
+    "Tämän maksutavan valitseminen päivittää tilisi maan/alueen"
   ],
   "pWZvZk": [
     "Tämä ilmoitus muuttaa ",
@@ -143965,6 +145270,9 @@
   "qwJHjo": [
     "Sovellus"
   ],
+  "qwSlCO": [
+    "Pelinsisäinen tuote"
+  ],
   "qwfovo": [
     "Edellytyksenä ",
     [
@@ -144347,6 +145655,9 @@
   ],
   "r23NoB": [
     "Poista esityksestä"
+  ],
+  "r29Oel": [
+    "Avatarin koristeet"
   ],
   "r2AEw1": [
     "Sinun on täytettävä maasi vähimmäisikävaatimus, jotta voit käyttää Discordia."
@@ -145131,6 +146442,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Lisää uusi maksutapa"
   ],
   "rNGQfD": [
     "Jaa tehtävälinkki"
@@ -151112,6 +152426,9 @@
   "t+gj5V": [
     "Lisää tähän sääntöön vähintään yksi toiminto."
   ],
+  "t+xzd8": [
+    "Tilauksesi on palautettu!"
+  ],
   "t/IjXY": [
     "Kaikki valokuvat"
   ],
@@ -151800,6 +153117,9 @@
   "tJzB6F": [
     "Näkyvissä on väärä peli"
   ],
+  "tK8A/8": [
+    "Tehostusten määrää on pienennettävä, jotta voit käyttää lahjakorttisi saldoa."
+  ],
   "tKCltd": [
     "Nitro jaettu onnistuneesti"
   ],
@@ -152264,6 +153584,21 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    [
+      8,
+      "$b",
+      [
+        "Säästät ",
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " ensimmäisestä vuodesta!"
   ],
   "tVHevX": [
     "Lähetetty ",
@@ -154717,6 +156052,35 @@
   "uCD7qK": [
     "Ota näppäinkomento käyttöön tai poista se käytöstä"
   ],
+  "uCXulJ": [
+    "Antamalla lahjaksi ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " kuukauden"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " kuukautta"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " säästät ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Hyvä veto!"
+  ],
   "uCebZa": [
     "Salli useampi vastaus"
   ],
@@ -156239,6 +157603,9 @@
     "auki",
     "avata",
     "lukko"
+  ],
+  "uo9YsP": [
+    "Tämä lahjakortti on jo lunastettu."
   ],
   "uoQFIp": [
     "Lisää tiedot"
@@ -158147,6 +159514,33 @@
   "vcqwCj": [
     "Ongelmasi"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Jos teet tämän ostoksen, maaksesi/alueeksesi päivitetään ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Sen seuraukset ovat seuraavat:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "– Et voi käyttää muiden maiden/alueiden maksutapoja\n– Et voi muuttaa maa-/alueasetustasi uudelleen 90 päivään"
+      ]
+    ]
+  ],
   "vct4l8": [
     "nostatus vanhenee ",
     [
@@ -159947,6 +161341,40 @@
   ],
   "wCbINr": [
     "Nitro 3 kk"
+  ],
+  "wCkwJf": [
+    "Säästät ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "ensimmäisestä kuukaudestasi"
+        ],
+        "other": [
+          "ensimmäisistä ",
+          [
+            7
+          ],
+          " kuukaudestasi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Aloita usean striimin katselu"
@@ -167626,6 +169054,9 @@
   "yr9TTf": [
     "Poista toivelistalta"
   ],
+  "yrk+N6": [
+    "Tilauksesi maksu on myöhässä. Palauta tilaus käyttöön yrittämällä maksua uudelleen tai lisäämällä uusi maksutapa."
+  ],
   "ysbNDc": [
     "Höyrystetään"
   ],
@@ -167716,6 +169147,9 @@
   ],
   "yvMu3S": [
     "Jyrätään"
+  ],
+  "yvUaHi": [
+    "+ veloitettavat verot"
   ],
   "yvV5Ye": [
     [

@@ -1766,6 +1766,9 @@
   "+f0bXQ": [
     "Send en vilkårlig velkomstbesked når nogen tilslutter sig til serveren."
   ],
+  "+fIPjg": [
+    "Forkæl dig selv med Nitro, eller udforsk shoppen, og find noget du elsker."
+  ],
   "+fPCTZ": [
     "Sørg for at sikre dig, at du ikke har angivet din adgangskode eller andre følsomme oplysninger."
   ],
@@ -3323,6 +3326,9 @@
   "/F7Z2y": [
     "Total"
   ],
+  "/FQWfA": [
+    "Gavekortsaldo"
+  ],
   "/FWKKC": [
     "Du kan vise dem når som helst"
   ],
@@ -4121,6 +4127,9 @@
   ],
   "/YEoH2": [
     "Denne server er aldersbegrænset i dit land. Vi har fastslået, at du befinder dig i en begrænset aldersgruppe. Hvis vi har begået en fejl, kan du forsøge at bekræfte din aldersgruppe igen."
+  ],
+  "/YovOw": [
+    "Samleobjekt"
   ],
   "/YuDAs": [
     "Tilsluttede"
@@ -6925,6 +6934,37 @@
   "0ZkNDU": [
     "Kunne ikke fjerne tag"
   ],
+  "0Zl+Xt": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber en genstand fra ",
+    [
+      1,
+      "applicationName"
+    ],
+    "-spilshoppen, betyder det, at du køber en begrænset licens til at bruge denne genstand i det angivne spil. Dette køb kan ikke refunderes. Genstanden leveres af udvikleren direkte i spillet. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Fortæl os om din oplevelse med det nye applayout."
   ],
@@ -8241,6 +8281,9 @@
   ],
   "11e3sB": [
     "Tilbyd undervisning, lektiehjælp og at studere sammen."
+  ],
+  "11g67A": [
+    "Næste fornyelse"
   ],
   "11oKq+": [
     "Cypern"
@@ -10594,6 +10637,9 @@
   "26oeP8": [
     "Indtast en årsag."
   ],
+  "26tjwd": [
+    "Indløs gavekort"
+  ],
   "26uMPL": [
     "Sindssygt!!"
   ],
@@ -11425,6 +11471,29 @@
   ],
   "2PKrQO": [
     "Prøv dette look"
+  ],
+  "2PiTTi": [
+    "Gave til ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Selv om du tidligere har tilsluttet din Xbox-konto, skal du oprette forbindelse igen for at aktivere nye funktioner."
@@ -12453,6 +12522,77 @@
   "2pG5Ga": [
     "Tilmeld dig"
   ],
+  "2pNIbI": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag. Når din prøveperiode slutter den ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", vil du blive opkrævet ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    ", indtil du annullerer. Priserne kan ændre sig. Vi sender dig en påmindelse, før din prøveperiode slutter. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gælder. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Indstil baggrund for Serveropdagelse"
   ],
@@ -12890,6 +13030,9 @@
   "2zGdAW": [
     "Prøv Nitro!"
   ],
+  "2zUa6I": [
+    "Abonnement"
+  ],
   "2zdDw5": [
     "Ved at klikke på \"",
     [
@@ -13011,6 +13154,9 @@
   ],
   "30+sih": [
     "Anmeldelser delt af dig"
+  ],
+  "302Ck/": [
+    "Din betalingsmetode er blevet gemt"
   ],
   "302tKP": [
     "Få vare"
@@ -15248,6 +15394,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Postnummer"
+  ],
   "3jprCb": [
     "Ændringen kunne ikke behandles på grund af afventende betaling."
   ],
@@ -15259,6 +15408,9 @@
   ],
   "3k4hTU": [
     "Deaktiver aktivitetsdeling?"
+  ],
+  "3kMstB": [
+    "Dine gemte betalingsmetoder passer ikke til dit nuværende dit land/din region. Du kan tilføje en ny betalingsmetode til at opdatere dit land/din region."
   ],
   "3kVEg0": [
     "Hvis du forlader gruppen, kan du deltage i et andet gruppeabonnement, når nedkølingsperioden på ",
@@ -15776,6 +15928,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Engangsgave"
   ],
   "3x/M9Z": [
     "Denne butiksfront blev udgivet ",
@@ -16447,6 +16602,37 @@
   ],
   "4EGMWL": [
     "Luk stream"
+  ],
+  "4EZ0L7": [
+    "Ved at klikke på en købsmulighed nedenfor accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber en vare fra Shoppen, betyder det, at du køber en begrænset licens til at bruge varen på Discord. Få mere at vide herom i afsnittet “Virtuelle varer” ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Dette køb kan ikke refunderes. Varen vil være tilgængelig med det samme i Indstillinger i din brugerprofil."
   ],
   "4Egr5O": [
     "Lås op for hver en emoji, og brug dem hvor som helst med Nitro."
@@ -18710,6 +18896,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Næste fornyelse ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -19908,6 +20102,9 @@
   "5dX4UM": [
     "Ingen GIF passer til din søgning."
   ],
+  "5dmUS+": [
+    "Jeg accepterer øjeblikkelig levering af mit digitale køb og anerkender, at jeg mister min ret til at få pengene refunderet, undtagen som angivet i refunderingspolitikken, når dette køb er gennemført."
+  ],
   "5dxvxs": [
     "Jeg ved ikke, hvordan jeg skal fuldføre den"
   ],
@@ -20040,6 +20237,51 @@
   ],
   "5fZHp3": [
     "Send invitation"
+  ],
+  "5fbNBX": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber eller henter en genstand fra ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", betyder det, at du henter en begrænset licens til at bruge denne genstand på Discord. Få mere at vide ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Indløsninger af Orbs kan ikke refunderes. Genstanden leveres af udvikleren direkte i spillet. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Se fuld beskrivelse"
@@ -21411,6 +21653,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " føjet til din konto"
   ],
   "66YyBJ": [
     "En avatardekoration til at pifte din Discord-profil op. Behold den med Nitro!"
@@ -23801,6 +24050,9 @@
   "6yrpFR": [
     "Skift\nikon"
   ],
+  "6zCzw1": [
+    "Der opstod et problem med at tilføje denne betalingsmetode. Prøv igen, eller brug en anden betalingsmetode."
+  ],
   "6zFA/T": [
     "Meget, meget tidlig"
   ],
@@ -24485,6 +24737,9 @@
   ],
   "7LL+Fw": [
     "USA"
+  ],
+  "7LeLN4": [
+    "Nitro-prøveperiode aktiveret"
   ],
   "7LgVmt": [
     "Gennemgå sikkerhedstips"
@@ -25942,6 +26197,9 @@
   "7qbp3B": [
     "...mere"
   ],
+  "7r4HPu": [
+    "Bekræft og betal"
+  ],
   "7r4OKg": [
     "Tillad synkroniserede abonnenter at bruge dine brugerdefinerede Twitch-humørikoner i Discord."
   ],
@@ -26003,6 +26261,14 @@
   ],
   "7sW4h1": [
     "Ingen med det navn kunne findes."
+  ],
+  "7sYIBL": [
+    "Hvis du giver et helt åt i gave, sparer du ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Godt gået!"
   ],
   "7spYft": [
     "Opdatér betalingsmetode"
@@ -26810,6 +27076,28 @@
   "8CVUrV": [
     "Gratis Nitro-prøveperiode"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Dette bliver en enkelt betaling for beløbet for den valgte tidsperiode. Du vil ikke blive opkrævet årligt."
   ],
@@ -27097,6 +27385,14 @@
   ],
   "8Joh+p": [
     "Tal på podiet"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " abonnement på Nitro"
   ],
   "8JzOBn": [
     "Standardkanaler skal have aktiveret ",
@@ -28120,6 +28416,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Månedligt"
+  ],
   "8gpzp6": [
     "Indhold, der kan downloades"
   ],
@@ -28161,6 +28460,27 @@
   ],
   "8ihs9i": [
     "Kunne ikke optage data om ydeevne"
+  ],
+  "8imbq5": [
+    "Booster ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA slutter den ",
@@ -29983,6 +30303,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " til rådighed"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30007,6 +30334,9 @@
   ],
   "9Oq93m": [
     "Medlemmer"
+  ],
+  "9OxfNK": [
+    "Udforsk shoppen"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31383,6 +31713,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Abonnementsrabat pålagt"
+  ],
   "9yLOND": [
     "Fjernet den ",
     [
@@ -31491,6 +31824,87 @@
   ],
   "A+pogv": [
     "Se resultater"
+  ],
+  "A+qfZ+": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag og ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " i ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Når din prøveperiode slutter den ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", vil du blive opkrævet ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    ", indtil du annullerer. Priserne kan ændre sig. Vi sender dig en påmindelse, før din prøveperiode slutter. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gælder. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Oprettet den"
@@ -32240,6 +32654,9 @@
   "AM3mzX": [
     "Fil"
   ],
+  "AM9XGb": [
+    "Gaveabonnement"
+  ],
   "AMHrre": [
     "Send os feedback"
   ],
@@ -32814,6 +33231,13 @@
   "AcJ4ke": [
     "Angiv tidsrum, hvor din teenager ikke kan bruge Discord. De vil ikke modtage meddelelser og kan ikke få adgang til Discord i disse tidsrum."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " måneder"
+  ],
   "AcaNYw": [
     "Skal denne server føles unik? Lås op for personlige serverbannere med ",
     [
@@ -33042,6 +33466,13 @@
   ],
   "AfrvRD": [
     "Shop dem alle"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " blev føjet til din konto"
   ],
   "AgMngw": [
     "Orbs-saldo: ",
@@ -33858,6 +34289,9 @@
   ],
   "AzkvWe": [
     "Fremhævet flise"
+  ],
+  "B+/GvM": [
+    "Indtast postnummer"
   ],
   "B+cbLS": [
     "Skift til online?"
@@ -34737,6 +35171,9 @@
   "BLqYQa": [
     "Rediger betalingsmetode"
   ],
+  "BLu9EI": [
+    "Tilføj en anden betalingsmetode"
+  ],
   "BLuvck": [
     "Der skal være mindst ",
     [
@@ -34784,6 +35221,14 @@
   ],
   "BMTj28": [
     "Spiller"
+  ],
+  "BMVyQO": [
+    "Betal det resterende ",
+    [
+      1,
+      "amount"
+    ],
+    " i ét trin. Vi gemmer din betalingsmetode til næste gang."
   ],
   "BMlbE7": [
     "Denne applikation er blevet trukket tilbage."
@@ -34939,6 +35384,9 @@
   ],
   "BPoc9u": [
     "Afbryder automatisk forbindelsen for dem fra en tale- eller podiekanal"
+  ],
+  "BPzQj4": [
+    "Køb"
   ],
   "BQFHXW": [
     "Du skal være 18 år eller ældre for at være en forbundet værge"
@@ -35784,6 +36232,42 @@
   "BkVb1X": [
     "Nye venner, som din teenager har tilføjet eller accepteret"
   ],
+  "BkYev7": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber en vare fra Shoppen, betyder det, at du køber en begrænset licens til at bruge varen på Discord. Få mere at vide herom i afsnittet “Virtuelle varer” ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Dette køb kan ikke refunderes. Varen vil være tilgængelig med det samme i Indstillinger i din brugerprofil."
+  ],
   "BkZhUI": [
     "Kun til mobil"
   ],
@@ -35979,6 +36463,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Kode"
+  ],
   "Bn1J+a": [
     "Indløs din gave"
   ],
@@ -35987,6 +36474,20 @@
   ],
   "BnSq1I": [
     "Ikke forbundet"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Rediger"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37116,6 +37617,37 @@
   ],
   "CCU/wn": [
     "Du tildeler medlemmer kanaler og/eller roller baseret på deres svar."
+  ],
+  "CCVlIb": [
+    "Ved at klikke på \"Indløs\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for gavekort"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " og ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for tegnebog"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Du er startet igen."
@@ -38265,6 +38797,14 @@
   "Chg2zd": [
     "Tillad medlemmer i denne kanal at oprette tråde, hvor der kun er adgang med invitation."
   ],
+  "Chj1Ke": [
+    "Rabat anvendt indtil ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Tillader links, som medlemmer deler, at vise integreret indhold i tekstkanaler."
   ],
@@ -39344,6 +39884,33 @@
   ],
   "DDpHZG": [
     "Se. Optjen Orbs. Få belønninger."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Hvis du gennemfører dette køb, opdateres dit land/din region til ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Dette betyder følgende:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Du mister din eksisterende gavekortsaldo\n- Du vil ikke kunne bruge en betalingsmetode fra et andet land/anden region\n- Du vil ikke kunne ændre dit land/din region igen i 90 dage"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Der blev ikke fundet nogle tilladelser"
@@ -41117,6 +41684,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Du låser op for tidlig adgang til at købe rammer i shoppen"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -41810,6 +42380,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Du køber muligvis en begrænset licens til kun at bruge denne genstand på skaberens server. ",
+    [
+      8,
+      "$b",
+      [
+        "Købet kan ikke refunderes."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Tilføj et billede til dit invitationslink med Boosting"
   ],
@@ -42175,6 +42774,9 @@
       "username"
     ],
     "s aktivitet"
+  ],
+  "EUKPip": [
+    "Noget gik galt. Kontrollér dine oplysninger, og prøv igen."
   ],
   "EUNgko": [
     "En ikke-standard iOS-mikrofontilstand er aktiv. Hvis du foretrækker at bruge en af Discords støjdæmpningsmuligheder, skal du vælge tilstanden standardmikrofon i dine ",
@@ -44255,6 +44857,9 @@
   "FNVJ4+": [
     "Gratis avatardekoration til din profil!"
   ],
+  "FNijW7": [
+    "Nyt årligt tilbagevendende"
+  ],
   "FNqmmX": [
     "Tillad Discord at bruge og behandle mine oplysninger for at forstå og forbedre Discords tjenester. ",
     [
@@ -44561,6 +45166,9 @@
       []
     ],
     " for at komme i gang."
+  ],
+  "FVzt1W": [
+    "Månedsabonnement"
   ],
   "FW3Qp/": [
     "Hænger bare ud"
@@ -44954,6 +45562,9 @@
     ],
     " stumhed"
   ],
+  "Fjpyfj": [
+    "Promo"
+  ],
   "FjrXCi": [
     "Del en 2-ugers prøveperiode med op til ",
     [
@@ -45155,6 +45766,72 @@
       "intervalCount"
     ],
     ". måned, indtil du opsiger abonnementet. Eventuelle prisændringer vil blive varslet. Du kan opsige abonnementet når som helst under siden Indstillinger."
+  ],
+  "FqlTCu": [
+    "Ved at klikke på en købsmulighed nedenfor tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag, derefter ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    " fra ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", indtil du annullerer. Priserne kan ændre sig. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gælder. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "Fqqbhg": [
     "Linket er til en bruger, som du ikke har adgang til."
@@ -45567,6 +46244,35 @@
   ],
   "G0neg7": [
     "Tilgængelighed"
+  ],
+  "G0nk6B": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Køb af denne genstand betyder, at du køber en begrænset licens til at bruge den på Discord. Købet tilbydes af udvikleren af denne app og kan kun bruges sammen med denne app. ",
+    [
+      8,
+      "$b",
+      [
+        "Købet kan ikke refunderes."
+      ]
+    ]
   ],
   "G16Wji": [
     "Synkroniseringsforbindelsen tilbagekaldt! ",
@@ -46375,6 +47081,9 @@
   ],
   "GGlM3e": [
     "Skift kun til outputenhed"
+  ],
+  "GGn3pp": [
+    "Abonnementsoplysninger"
   ],
   "GGxBdA": [
     "Tryllestav-emoji"
@@ -50638,6 +51347,9 @@
     ],
     " begyndte at hænge ud i stemmechatten."
   ],
+  "HzDn6w": [
+    "Profilramme"
+  ],
   "Hza+Bu": [
     "Få eksklusive profileffekter og særlige medlemspriser i shoppen med Nitro."
   ],
@@ -51134,6 +51846,37 @@
   ],
   "IAcEEn": [
     "Efterlad en note"
+  ],
+  "IAsfR5": [
+    "Få glæde af ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro i ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dag"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dage"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    ", før du bliver opkrævet!"
   ],
   "IAybsG": [
     "spar ",
@@ -51779,6 +52522,42 @@
   "IOy+I5": [
     "Kunne ikke starte aktivitet"
   ],
+  "IP93kX": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". At gøre krav på en vare fra Shoppen betyder, at du henter en begrænset licens til at bruge denne vare på Discord, få mere at vide ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Indløsninger af Orbs kan ikke refunderes."
+  ],
   "IPO2be": [
     "Anmeld server – ",
     [
@@ -51906,6 +52685,42 @@
   ],
   "ITUQgh": [
     "Anbefalet valgmulighed for servere, der bruger roller til betroet medlemskab."
+  ],
+  "ITY3j6": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". At købe en vare fra Shoppen betyder, at du køber en begrænset licens til at bruge denne vare på Discord. Få mere at vide ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Dette køb kan ikke refunderes. Varen vil være tilgængelig med det samme i Brugerprofil-indstillinger."
   ],
   "ITlV6p": [
     "Forbind til en værge for at beholde adgangen til din konto"
@@ -54501,6 +55316,9 @@
   "JPI1pf": [
     "Tilmeld dig Nitro"
   ],
+  "JPRQ9L": [
+    "Betal med Pix"
+  ],
   "JPU0EF": [
     "Vælg niveauer"
   ],
@@ -55374,6 +56192,42 @@
   "JsBPb8": [
     "Eksempler på eksisterende Discord-communities"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " efter ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "én måned"
+            ],
+            "=2": [
+              "to måneder"
+            ],
+            "=3": [
+              "tre måneder"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " måneder"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Styrer, hvor meget lyd Discord transmitterer fra din mikrofon. Tal for at teste din mikrofon – hvis måleren fyldes, transmitterer Discord din smukke stemme."
   ],
@@ -55537,6 +56391,14 @@
   ],
   "Jz1lXO": [
     "Vælg, hvordan du vil bekræfte, at det virkelig er dig."
+  ],
+  "Jz6+Oj": [
+    "Gavekortsaldo (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Få adgang til visse nye funktioner, før de udgives til alle andre."
@@ -57595,6 +58457,13 @@
     ],
     " er trukket tilbage."
   ],
+  "KpnRtO": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " års rabat anvendt"
+  ],
   "Kq7FAS": [
     "Vælg standardkanaler, som alle medlemmer vil se på kanallisten, når de tilslutter sig. Medlemmer kan tilføje flere kanaler ved at bruge Tilpasningsspørgsmål."
   ],
@@ -57782,6 +58651,9 @@
   ],
   "KuzWUU": [
     "Listevisning"
+  ],
+  "Kv+vV7": [
+    "Denne betalingsmetode kan ikke bruges i dit nuværende land/region"
   ],
   "Kv6Z4I": [
     "Sikker"
@@ -58676,6 +59548,13 @@
   ],
   "LHUP9D": [
     "Fjern bogmærke"
+  ],
+  "LHWoqL": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " uges/ugers rabat anvendt"
   ],
   "LHy5uU": [
     "Hent DLC"
@@ -60078,6 +60957,9 @@
   "LvXy/H": [
     "Velkommen 👋 til en ret kedelig version af Servershoppen, en ny måde hvorpå du kan tilbyde cool ting til dine medlemmer og tjene penge. Dine servermedlemmer kan først se denne fane, når du opretter og publicerer dit første produkt!"
   ],
+  "LvcUx4": [
+    "Gendan abonnement"
+  ],
   "Lw6KXV": [
     "Du startede ",
     [
@@ -60477,6 +61359,9 @@
   ],
   "M2iEy3": [
     "Giver medlemmerne mulighed for at se denne kanal som standard."
+  ],
+  "M2mY1J": [
+    "Årligt"
   ],
   "M35zFB": [
     "Gå til serveren"
@@ -61475,6 +62360,14 @@
   "MQoVeb": [
     "Brugerdefinerede stickere overalt"
   ],
+  "MR4VnX": [
+    "Fornyes den ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -61514,6 +62407,13 @@
   ],
   "MS/4U1": [
     "Arkivér niveau"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " Rabat"
   ],
   "MSWjRh": [
     "Få brugerdefinerede profiler som denne ",
@@ -62153,6 +63053,13 @@
   ],
   "Mi3iPI": [
     "Tjek dem ud"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    " % RABAT"
   ],
   "Mi60fm": [
     "Få din værge til at scanne denne kode"
@@ -63076,6 +63983,9 @@
   "N46WOv": [
     "Link til din promo-side"
   ],
+  "N4EAHm": [
+    "eller"
+  ],
   "N4ICPb": [
     "Dette indhold, der kan downloades, fordrer, at du ejer ",
     [
@@ -63423,6 +64333,9 @@
   ],
   "NEFeB0": [
     "Døden"
+  ],
+  "NEHhLR": [
+    "Årligt abonnement"
   ],
   "NENZhS": [
     "Juster indstillinger"
@@ -64154,6 +65067,9 @@
       ]
     ],
     " opdaterede indstillinger for medlemsansøgning"
+  ],
+  "NUNycr": [
+    "en købsmulighed nedenfor"
   ],
   "NUkcpF": [
     "Du har brugertilpassede emojis, større uploads og meget mere for ",
@@ -65890,6 +66806,13 @@
   "OBCR+p": [
     "Se flere"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Månedsabonnement"
+  ],
   "OBp3V3": [
     "GIF, knap"
   ],
@@ -65978,6 +66901,14 @@
   ],
   "ODCYj8": [
     "Tillad medlemmer at oprette tråde, som alle i en kanal kan se."
+  ],
+  "ODKoJd": [
+    "Spar ",
+    [
+      2,
+      "percent"
+    ],
+    " % med et årsabonnement"
   ],
   "ODXApH": [
     "Opbygning er ikke til rådighed"
@@ -66078,6 +67009,77 @@
   ],
   "OGpGqO": [
     "Produktliste"
+  ],
+  "OH1Evm": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag, derefter ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    " fra ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", indtil du annullerer. Priserne kan ændre sig. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gælder. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Deling"
@@ -66630,6 +67632,33 @@
   ],
   "OVN9la": [
     "Ønsker du at bruge en anden avatar, et andet banner og en anden bio?"
+  ],
+  "OVhTE7": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber en genstand fra ",
+    [
+      1,
+      "applicationName"
+    ],
+    "-spilshoppen, betyder det, at du køber en begrænset licens til at bruge denne genstand i det angivne spil. Dette køb kan ikke refunderes. Genstanden leveres af udvikleren direkte i spillet."
   ],
   "OVlNGT": [
     "din rollefarve\n",
@@ -68371,6 +69400,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Dette vil være en engangsbetaling for den valgte tidsperiode. Du vil ikke blive faktureret månedligt. Nitro-gaver kan ikke refunderes, efter de er indløst af modtageren."
+  ],
   "P5dSl0": [
     "Skyggefarve"
   ],
@@ -69628,6 +70679,9 @@
     ],
     "-registrering fra?"
   ],
+  "PZDPvQ": [
+    "Gavekortkoden er påkrævet"
+  ],
   "PZLnuD": [
     "Aktiviteten er afsluttet.\nStart en ny aktivitet?"
   ],
@@ -70488,6 +71542,29 @@
       ]
     ],
     " fremhævede en besked på Start"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " med Nitro"
   ],
   "PygWIS": [
     "Tilslutter igen"
@@ -71781,6 +72858,39 @@
   "QXMYAb": [
     "Symboler"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " efter ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " måned"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " måneder"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Hvordan gik det med ",
     [
@@ -72949,6 +74059,9 @@
   "R0VpSW": [
     "Modtag en meddelelse, når der er en begivenhed på en server, du er på."
   ],
+  "R0cZsM": [
+    "Dagens total"
+  ],
   "R0h4pE": [
     [
       6,
@@ -73252,6 +74365,82 @@
   ],
   "R852HS": [
     "Nyt Discord-jubilæum!"
+  ],
+  "R85gcN": [
+    "Ved at klikke på en købsmulighed nedenfor tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag og ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " i ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Når din prøveperiode slutter den ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", vil du blive opkrævet ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    ", indtil du annullerer. Priserne kan ændre sig. Vi sender dig en påmindelse, før din prøveperiode slutter. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkår for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " gælder. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "R87Y2K": [
     "Dette vil blive planlagt som ",
@@ -77718,6 +78907,9 @@
   "Sx8Ezi": [
     "Prøv at bruge en podiekanal!"
   ],
+  "SxKq52": [
+    "Næste årligt løbende"
+  ],
   "SxLn1y": [
     "Skal være det absolut bedste"
   ],
@@ -80222,6 +81414,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Næste fornyelse"
+  ],
   "TtA5rK": [
     "Brug eksterne apps"
   ],
@@ -80640,6 +81835,13 @@
   ],
   "U26WX+": [
     "Desværre, du kan ikke acceptere den gave, fordi dit abonnement har en ubetalt faktura."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " nu"
   ],
   "U2JFHZ": [
     "emoji_navn"
@@ -82062,6 +83264,9 @@
   "UdNuqi": [
     "Neonrum"
   ],
+  "UdSuwf": [
+    "Dette køb kræver dit abonnements betalingsmetode."
+  ],
   "UdXO8P": [
     "Ups! Du kan ikke tage denne ",
     [
@@ -83217,6 +84422,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Du skal bruge skrivebords- eller webappen til at foretage et køb med din gavekortsaldo."
+  ],
   "V3Gri+": [
     "Fransk"
   ],
@@ -83923,6 +85131,9 @@
   ],
   "VJRr3Y": [
     "Kast dig ud i solopuslespil, selskabsspil, konkurrencer og meget mere."
+  ],
+  "VJXTzd": [
+    "Forkæl dig selv med noget fra shoppen, eller brug det på noget andet på Discord."
   ],
   "VJcK41": [
     [
@@ -86464,6 +87675,9 @@
   "WJisip": [
     "Tryk for at se miniaturebillede"
   ],
+  "WJmme7": [
+    "Denne betalingsmetode kan ikke bruges til denne transaktion."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -87886,6 +89100,9 @@
   "WmfZHZ": [
     "Kopier missionslink"
   ],
+  "WmjxYl": [
+    "Dag"
+  ],
   "WmsPis": [
     "Hvilken aktivitet jeg deler"
   ],
@@ -88080,6 +89297,9 @@
   ],
   "Wr4RIX": [
     "Indlejringer er deaktiveret i denne kanal."
+  ],
+  "WrFWOV": [
+    "Næste månedligt løbende"
   ],
   "WrQD/Y": [
     "Ignorér ",
@@ -88311,6 +89531,13 @@
   ],
   "WzC9s6": [
     "Jeg ønsker at gøre hele min server eksklusiv"
+  ],
+  "WzJTZI": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " dags rabat anvendt"
   ],
   "WzM5YA": [
     "nba"
@@ -88839,6 +90066,9 @@
   ],
   "XBrJT6": [
     "Indkommende ring"
+  ],
+  "XBtSMa": [
+    "Jeg accepterer øjeblikkelig levering"
   ],
   "XBwns+": [
     "Ukendt server"
@@ -89726,6 +90956,22 @@
   "XWkJoi": [
     "Automatisk klipoptagelse"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gratis belønning valgt"
+        ],
+        "other": [
+          "Gratis belønninger valgt"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Ingen grænse"
   ],
@@ -90547,6 +91793,9 @@
   "Xrcmjk": [
     "Neutral"
   ],
+  "Xrg8aC": [
+    "År"
+  ],
   "XrpYIG": [
     "Kun disse roller kan bruge whiteboardet. Hvis dette felt lades stå tomt, kan alle bruge whiteboardet. Ændringerne træder i kraft med det samme."
   ],
@@ -91317,6 +92566,9 @@
         "Du kan genstarte dit abonnement når som helst."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Vi har valgt en betalingsmetode, der passer til dit land/din region."
   ],
   "Y6qWLc": [
     "Send en besked i ",
@@ -92139,6 +93391,9 @@
   "YTvOUx": [
     "Tilføj på tværs af Discord og alle spil knyttet til denne konto"
   ],
+  "YUNJJa": [
+    "Besparelser med Nitro"
+  ],
   "YUSOKl": [
     "Vil du blokere denne konto?"
   ],
@@ -92422,6 +93677,9 @@
   ],
   "YZd5rw": [
     "Du har nu skønne frynsegoder året rundt. Nyd dem, min ven!"
+  ],
+  "YZePWx": [
+    "Jeg forstår"
   ],
   "YZiJbh": [
     "Prøver at finde en Discord-konto fra din standardbrowser. Giv mig lige et sekund…"
@@ -94060,6 +95318,14 @@
     ],
     " politik."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " med Nitro Basic"
+  ],
   "ZAbzbA": [
     "Du har lige landet et ",
     [
@@ -94890,6 +96156,13 @@
   ],
   "ZQ37tH": [
     "Medlemmer bliver automatisk tildelt denne rolle. Den kan ikke tildeles eller fjernes fra medlemmer manuelt."
+  ],
+  "ZQLDzk": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " måneds rabat anvendt"
   ],
   "ZQakPR": [
     "Din Discord"
@@ -95848,6 +97121,9 @@
   "ZnkeXs": [
     "Nøgle fjernet!"
   ],
+  "ZnoRKt": [
+    "Måned"
+  ],
   "ZnqyZ2": [
     "Se alle fordelene med Nitro"
   ],
@@ -96397,6 +97673,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Samlet beløb"
   ],
   "Zxk1OF": [
     "Skabelonkanaler"
@@ -98259,6 +99538,9 @@
   ],
   "ajkYcF": [
     "Næste"
+  ],
+  "ajn5LL": [
+    "Nyt månedligt tilbagevendende"
   ],
   "ajzh8S": [
     "Din profilsynlighed er sat til ",
@@ -101019,6 +102301,77 @@
   "bbUIWp": [
     "Invitér kontakter for at sende beskeder"
   ],
+  "bbgJdE": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" tilmelder du dig et løbende abonnement. Du vil blive opkrævet ",
+    [
+      1,
+      "totalDue"
+    ],
+    " i dag og derefter ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus gældende afgifter hver ",
+    [
+      1,
+      "interval"
+    ],
+    " fra den ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", indtil du opsiger abonnementet. Købet tilbydes af udvikleren af denne app og kan kun bruges sammen med denne app. Priserne kan ændre sig. DU kan opsige abonnementet når som helst. Annuller når som helst i dine Indstillinger. ",
+    [
+      8,
+      "$link",
+      [
+        "Vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " er gældende. Har du spørgsmål? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontakt os"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " eller se vores ",
+    [
+      8,
+      "$link",
+      [
+        "Ofte stillede spørgsmål om abonnementer"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Bekræfter installation – ",
     [
@@ -101076,6 +102429,9 @@
   ],
   "bdBmqy": [
     "Aktivitet"
+  ],
+  "bdF0KJ": [
+    "Justering af gavekort"
   ],
   "bdMG43": [
     "Bombe plantet"
@@ -104287,6 +105643,9 @@
   "cbtPXy": [
     "Temaet er blevet opdateret."
   ],
+  "ccWIdu": [
+    "Din saldo skal dække det samlede forfaldne beløb"
+  ],
   "cd": [
     "blu-ray",
     "cd",
@@ -105994,11 +107353,55 @@
     ],
     " igen"
   ],
+  "cwuBkH": [
+    "Ved at klikke på \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\" accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber eller henter en genstand fra ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", betyder det, at du henter en begrænset licens til at bruge denne genstand på Discord. Få mere at vide ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Indløsninger af Orbs kan ikke refunderes. Genstanden leveres af udvikleren direkte i spillet."
+  ],
   "cxFiDC": [
     "Stærkt sprog"
   ],
   "cxSpOM": [
     "Streamforhåndsvisning"
+  ],
+  "cxwOJN": [
+    "Din total er blevet opdateret"
   ],
   "cxy+zn": [
     "Tilføj venner og chat direkte med dem"
@@ -107299,6 +108702,9 @@
   ],
   "dRycVz": [
     "Ophæv annullering nu"
+  ],
+  "dSPkHo": [
+    "Indtast kode"
   ],
   "dSRTMB": [
     "Send mistænkelige direkte beskeder til en separat spamindbakke. Medlemmer kan sende en svindelanmeldelse eller flytte den tilbage til indbakken."
@@ -110392,6 +111798,9 @@
   "eTVbtx": [
     "Ny kategori"
   ],
+  "eTYAvF": [
+    "Profileffekt"
+  ],
   "eTmN5a": [
     "Kan ikke fjernes på grund af administratoradgang."
   ],
@@ -111273,6 +112682,9 @@
   ],
   "eoXe0r": [
     "Sorter efter: Nyeste"
+  ],
+  "eoXh7B": [
+    "Ordreoversigt"
   ],
   "eontIh": [
     "Lås alle stickere op med ",
@@ -112789,6 +114201,16 @@
     ],
     "-superreaktion kunne ikke tilføjes."
   ],
+  "fJnl1h": [
+    "Kan du ikke se betalingsvinduet? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Genåbn"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Hvis du kasserer den, kan du starte en ny ansøgning fra et invitationslink."
   ],
@@ -113920,6 +115342,9 @@
     "let",
     "pen",
     "skrive"
+  ],
+  "febr+T": [
+    "Gavekortsaldo"
   ],
   "feet": [
     "dyr",
@@ -116240,6 +117665,9 @@
   "gVDdRn": [
     "Tilslut dig gruppe-DM"
   ],
+  "gVM8va": [
+    "Betal i ét trin. Vi gemmer det til næste gang."
+  ],
   "gVWG+6": [
     "Min familie"
   ],
@@ -117474,6 +118902,25 @@
   ],
   "gvXH+a": [
     "Du kan ikke administrere abonnementet"
+  ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "år"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " år"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gvgh9L": [
     "Opdateret i går"
@@ -119837,6 +121284,9 @@
     "plante",
     "urt"
   ],
+  "hewwdA": [
+    "App-køb"
+  ],
   "hf6YOY": [
     "Du får en rabat som en del af dit ",
     [
@@ -120052,6 +121502,9 @@
   "hjlZZf": [
     "Det kan tage op til 24 timer, før det træder i kraft."
   ],
+  "hjsn+s": [
+    "Nuværende betalingsmetode"
+  ],
   "hjvcLO": [
     "Serverboosts"
   ],
@@ -120153,6 +121606,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Indløs"
   ],
   "hnbagF": [
     "Få et boost, når du når din første måned med Nitro."
@@ -120961,6 +122417,13 @@
   "i338qh": [
     "Tæppe"
   ],
+  "i3Q/6S": [
+    "Samlede justeringer ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Log ind for at sende linket igen."
   ],
@@ -121208,6 +122671,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Indløs gavekort"
   ],
   "iBUzS5": [
     "Fjern sted"
@@ -121751,6 +123217,25 @@
   "iPdFOt": [
     "Opdater tilladelser for kommandoer"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dage"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Opgradere din Discord-oplevelse"
   ],
@@ -122244,6 +123729,9 @@
   ],
   "iZRkC/": [
     "Ukendt"
+  ],
+  "iZe9Wy": [
+    "Produkt"
   ],
   "iZf+eD": [
     "Det var for svært at finde ud af det med serveren"
@@ -124208,6 +125696,9 @@
     ],
     " filgrænse"
   ],
+  "jM8/71": [
+    "Bundt"
+  ],
   "jMFSQV": [
     "Enhver på serveren kan sende dig beskeder"
   ],
@@ -125840,6 +127331,9 @@
   ],
   "jxIxJL": [
     "Hold shift-tasten nede, når du fjerner medlemmer for at springe over denne tilstand."
+  ],
+  "jxUJkZ": [
+    "Nyt tilbagevendende beløb"
   ],
   "jxXMEz": [
     "Send dataanmodning"
@@ -128225,6 +129719,17 @@
   ],
   "ky6syM": [
     "Champion-drab"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Skærmtidsgrænser"
@@ -132396,6 +133901,9 @@
   "mWAbK4": [
     "Giver medlemmer mulighed for at bruge emojis fra andre servere i disse kanaler, hvis de er Discord Nitro-medlem."
   ],
+  "mWL08+": [
+    "Gratis prøveperiode"
+  ],
   "mWO+ys": [
     "Tag handling"
   ],
@@ -132458,6 +133966,24 @@
   ],
   "mXkYyW": [
     "At ignorere gør ikke, hvad jeg vil have det til"
+  ],
+  "mXvZt2": [
+    "Abonnerer ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Du kan ikke tilføje dig selv som ven"
@@ -137179,6 +138705,13 @@
   "nrpA5E": [
     "videresend"
   ],
+  "nsG1jw": [
+    "Spar ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Hvis du afmelder ",
     [
@@ -139116,6 +140649,9 @@
   "of440F": [
     "Venneanmodning er blevet annulleret."
   ],
+  "of9bom": [
+    "Navneskilt"
+  ],
   "ofQnNQ": [
     "Indhold, der viser dig (eller en, du er autoriseret til at repræsentere) nøgen eller involveret i seksuel adfærd"
   ],
@@ -140818,6 +142354,13 @@
   "pDE7Gb": [
     "Få denne sticker fra"
   ],
+  "pDVleg": [
+    "Samlet besparelse ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Telefonnummeret er ugyldigt."
   ],
@@ -141302,6 +142845,9 @@
   ],
   "pWLGnF": [
     "Om nylig aktivitet"
+  ],
+  "pWSgIu": [
+    "Hvis du vælger denne betalingsmetode, opdateres din kontos land/region"
   ],
   "pWZvZk": [
     "Den anmeldelse er forandrende for ",
@@ -145918,6 +147464,9 @@
   "qwJHjo": [
     "App"
   ],
+  "qwSlCO": [
+    "Genstand i spillet"
+  ],
   "qwfovo": [
     "Kræver ",
     [
@@ -146285,6 +147834,9 @@
   ],
   "r23NoB": [
     "Fjern fra scene"
+  ],
+  "r29Oel": [
+    "Avatar-dekoration"
   ],
   "r2AEw1": [
     "Du skal opfylde kravet om minimumsalder i dit land for at bruge Discord."
@@ -147062,6 +148614,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Tilføj en ny betalingsmetode"
   ],
   "rNGQfD": [
     "Del missionslink"
@@ -153071,6 +154626,9 @@
   "t+gj5V": [
     "Tilføj mindst en handling til denne regel."
   ],
+  "t+xzd8": [
+    "Dit abonnement er blevet genåbnet!"
+  ],
   "t/IjXY": [
     "Alle billeder"
   ],
@@ -153739,6 +155297,9 @@
   "tJzB6F": [
     "Forkert spil vises"
   ],
+  "tK8A/8": [
+    "Du skal sænke antallet af boosts for at bruge din gavekortsaldo."
+  ],
   "tKCltd": [
     "Nitro er delt"
   ],
@@ -154214,6 +155775,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Du ",
+    [
+      8,
+      "$b",
+      [
+        "sparer ",
+        [
+          1,
+          "percentOff"
+        ],
+        " % rabat"
+      ]
+    ],
+    " på dit første år!"
   ],
   "tVHevX": [
     "Sendt for ",
@@ -156681,6 +158258,35 @@
   "uCD7qK": [
     "Aktivér eller deaktivér genvejstast"
   ],
+  "uCXulJ": [
+    "Når du giver ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " i gave, sparer du ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Godt gået."
+  ],
   "uCebZa": [
     "Tillad flere svar"
   ],
@@ -158192,6 +159798,9 @@
     "åben hængelås",
     "åben lås",
     "låst op"
+  ],
+  "uo9YsP": [
+    "Dette gavekort er allerede blevet indløst."
   ],
   "uoQFIp": [
     "Tilføj oplysninger"
@@ -160072,6 +161681,33 @@
   "vcqwCj": [
     "Dit problem"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Hvis du gennemfører dette køb, opdateres dit land/din region til ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Dette betyder følgende:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Du vil ikke kunne bruge en betalingsmetode fra et andet land/anden region\n- Du vil ikke kunne ændre dit land/din region igen i 90 dage"
+      ]
+    ]
+  ],
   "vct4l8": [
     "boost udløber om ",
     [
@@ -161843,6 +163479,42 @@
   ],
   "wCbINr": [
     "Nitro 3 måneder"
+  ],
+  "wCkwJf": [
+    "Du får ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        " % rabat"
+      ]
+    ],
+    " på din første ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " måned"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " måneder"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Start med at se flere streams"
@@ -169730,6 +171402,9 @@
   "yr9TTf": [
     "Fjern fra ønskeliste"
   ],
+  "yrk+N6": [
+    "Dit abonnement er forfaldent til betaling. Prøv betalingen igen, eller tilføj en ny betalingsmetode for at gendanne det."
+  ],
   "ysbNDc": [
     "Fordamper"
   ],
@@ -169820,6 +171495,9 @@
   ],
   "yvMu3S": [
     "Tilintetgør"
+  ],
+  "yvUaHi": [
+    "Plus gældende skatter og afgifter"
   ],
   "yvV5Ye": [
     [
@@ -172142,6 +173820,37 @@
   ],
   "zstmkn": [
     "Gengiv optegnelse"
+  ],
+  "ztU/1y": [
+    "Ved at klikke på en købsmulighed nedenfor accepterer du ",
+    [
+      8,
+      "$link",
+      [
+        "vilkårene for betalte tjenester"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Når du køber en vare fra Shoppen, betyder det, at du køber en begrænset licens til at bruge varen på Discord. Få mere at vide ",
+    [
+      8,
+      "$link",
+      [
+        "her"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Dette køb kan ikke refunderes. Varen vil være tilgængelig med det samme i Indstillinger i din brugerprofil."
   ],
   "ztXW8V": [
     "Spil ",

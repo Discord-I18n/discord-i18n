@@ -1611,6 +1611,9 @@
   "+f0bXQ": [
     "Véletlen üdvözlő üzenet küldése, amikor valaki csatlakozik ehhez a szerverhez."
   ],
+  "+fIPjg": [
+    "Vásárolj magadnak Nitrót, vagy fedezd fel az Áruházat, hátha megtetszik valami."
+  ],
   "+fPCTZ": [
     "Bizonyosodj meg róla, hogy nem adtad meg a jelszavadat vagy más érzékeny információt."
   ],
@@ -3048,6 +3051,9 @@
   "/F7Z2y": [
     "Összes"
   ],
+  "/FQWfA": [
+    "Ajándékkártya-egyenleg"
+  ],
   "/FWKKC": [
     "Bármikor visszavonhatod az elrejtésüket"
   ],
@@ -3740,6 +3746,9 @@
   ],
   "/YEoH2": [
     "Ez a szerver korhatáros a régiódban. Megállapítottuk, hogy korlátozott korcsoportba tartozol. Ha tévedtünk, ismételten elvégezheted a megerősítést."
+  ],
+  "/YovOw": [
+    "Gyűjthető elem"
   ],
   "/YuDAs": [
     "Csatlakozva"
@@ -6255,6 +6264,37 @@
   "0ZkNDU": [
     "A címke eltávolítása sikertelen"
   ],
+  "0Zl+Xt": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha terméket vásárolsz a(z) ",
+    [
+      1,
+      "applicationName"
+    ],
+    " játékáruházból, azzal limitált engedélyt vásárolsz a termék felhasználására a megnevezett játékban. Ez a vásárlás nem téríthető vissza. A terméket közvetlenül a játékban biztosítja a fejlesztő. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Oszd meg velünk a tapasztalataidat az új alkalmazáselrendezéssel."
   ],
@@ -7461,6 +7501,9 @@
   ],
   "11e3sB": [
     "Adj órákat, segíts a házi feladattal és tanulj együtt másokkal."
+  ],
+  "11g67A": [
+    "Következő megújulás"
   ],
   "11oKq+": [
     "Ciprus"
@@ -9696,6 +9739,9 @@
   "26oeP8": [
     "Adj meg egy okot!"
   ],
+  "26tjwd": [
+    "Ajándékkártya beváltása"
+  ],
   "26uMPL": [
     "Őrületes!!"
   ],
@@ -10447,6 +10493,29 @@
   ],
   "2PKrQO": [
     "Megjelenés kipróbálása"
+  ],
+  "2PiTTi": [
+    "Ajándék neki: ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Bár korábban már csatlakoztattad az Xbox-fiókodat, csatlakoztasd újra, hogy engedélyezd az új funkciókat."
@@ -11414,6 +11483,77 @@
   "2pG5Ga": [
     "Iratkozz fel"
   ],
+  "2pNIbI": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva automatikusan megújuló előfizetésre regisztrálsz. A mai napon ",
+    [
+      1,
+      "totalDue"
+    ],
+    " összeget számítunk fel neked. Amikor a próbaidőszakod véget ér ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " napján, ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " összeget számítunk fel neked (a vonatkozó adókkal) ",
+    [
+      1,
+      "interval"
+    ],
+    " időközönként a lemondás időpontjáig. Az árak változhatnak. A beállításoknál bármikor lemondhatod. A ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételei"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " vannak érvényben. Kérdésed van? ",
+    [
+      8,
+      "$link",
+      [
+        "Fordulj hozzánk"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    ", vagy tekintsd meg az ",
+    [
+      8,
+      "$link",
+      [
+        "Előfizetések GYIK-oldalát"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "A Szerverfelfedezés háttere beállítva"
   ],
@@ -11784,6 +11924,9 @@
   "2zGdAW": [
     "Próbáld ki a Nitrót!"
   ],
+  "2zUa6I": [
+    "Előfizetés"
+  ],
   "2zdDw5": [
     "A(z) „",
     [
@@ -11887,6 +12030,9 @@
   ],
   "30+sih": [
     "Általad megosztott bejelentések"
+  ],
+  "302Ck/": [
+    "Sikeresen mentetted a fizetési módodat"
   ],
   "302tKP": [
     "Elem megszerzése"
@@ -13913,6 +14059,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Irányítószám"
+  ],
   "3jprCb": [
     "Egy függőben lévő fizetés miatt nem tudjuk feldolgozni a módosítást."
   ],
@@ -13924,6 +14073,9 @@
   ],
   "3k4hTU": [
     "Letiltod a tevékenységmegosztást?"
+  ],
+  "3kMstB": [
+    "A mentett fizetési módjaid nem egyeznek a jelenlegi országoddal/régióddal. Új fizetési mód megadásakor módosul az országod/régiód."
   ],
   "3kVEg0": [
     "Ha távozol, ",
@@ -14362,6 +14514,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Egyszeri ajándék"
   ],
   "3x/M9Z": [
     "Ezt a kirakatot ekkor tették közzé: ",
@@ -17029,6 +17184,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Következő megújulás: ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -18122,6 +18285,9 @@
   "5dX4UM": [
     "Nincs a keresésnek megfelelő GIF."
   ],
+  "5dmUS+": [
+    "Elfogadom a digitális vásárlásom azonnali kézbesítését, és tudomásul veszem, hogy hacsak a visszatérítési szabályzatban másként nem rendelkeznek, elveszítem a visszatérítéshez való jogomat, miután a vásárlás lezárul."
+  ],
   "5dxvxs": [
     "Nem tudom, hogyan kell teljesíteni"
   ],
@@ -18222,6 +18388,51 @@
   ],
   "5fZHp3": [
     "Meghívó küldése"
+  ],
+  "5fbNBX": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha beváltasz egy terméket innen: ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", azzal korlátozott engedélyt igényelsz arra, hogy felhasználd az elemet a Discordon. Erről ",
+    [
+      8,
+      "$link",
+      [
+        "itt"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " tájékozódhatsz részletesebben. Az orbbeváltások nem téríthetők vissza. Ezt az elemet közvetlenül a játékon belül biztosítja a fejlesztő. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Teljes leírás megtekintése"
@@ -19494,6 +19705,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " hozzáadva a fiókodhoz"
   ],
   "66YyBJ": [
     "Profilkép-dekoráció a Discord-profilod feldobásához. A Nitróval a tiéd maradhat!"
@@ -21632,6 +21850,9 @@
   "6yrpFR": [
     "Ikoncsere"
   ],
+  "6zCzw1": [
+    "Probléma adódott a fizetési mód hozzáadásakor. Próbáld újra, vagy használj másik fizetési módot."
+  ],
   "6zFA/T": [
     "Nagyon, nagyon korai"
   ],
@@ -22298,6 +22519,9 @@
   ],
   "7LL+Fw": [
     "Amerikai Egyesült Államok"
+  ],
+  "7LeLN4": [
+    "Nitro-próbaidőszak alkalmazva"
   ],
   "7LgVmt": [
     "Biztonsági tippek áttekintése"
@@ -23599,6 +23823,9 @@
   "7qbp3B": [
     "…továbbiak"
   ],
+  "7r4HPu": [
+    "Megerősítés és fizetés"
+  ],
   "7r4OKg": [
     "Egyedi Twitch-emotikonok engedélyezése a Discordon a szinkronizált előfizetőknek."
   ],
@@ -23645,6 +23872,14 @@
   ],
   "7sW4h1": [
     "Nem található ilyen nevű felhasználó."
+  ],
+  "7sYIBL": [
+    "Egy év ajándékozásával ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%-os kedvezményre tehetsz szert. Szuper!"
   ],
   "7spYft": [
     "Fizetési mód megváltoztatása"
@@ -24405,6 +24640,25 @@
   "8CVUrV": [
     "Ingyenes Nitro-próbaverzió"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "hónap"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " hónap"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Ez egyszeri díj lesz a kiválasztott időtartamért. Nem kerül évente számlázásra."
   ],
@@ -24659,6 +24913,14 @@
   ],
   "8Joh+p": [
     "Beszéd a pódiumon"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro"
   ],
   "8JzOBn": [
     "Alapértelmezett csatornák esetében a ",
@@ -25579,6 +25841,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Havonta"
+  ],
   "8gpzp6": [
     "Letölthető tartalom"
   ],
@@ -25620,6 +25885,27 @@
   ],
   "8ihs9i": [
     "A teljesítménynyom rögzítése sikertelen"
+  ],
+  "8imbq5": [
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " gyorsítása folyamatban"
   ],
   "8imxAq": [
     "A béta-verzió vége: ",
@@ -27289,6 +27575,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " érhető el"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -27313,6 +27606,9 @@
   ],
   "9Oq93m": [
     "Tagok"
+  ],
+  "9OxfNK": [
+    "Áruház felfedezése"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -28578,6 +28874,9 @@
     ],
     " másodpercenként."
   ],
+  "9yHcmL": [
+    "Előfizetési kedvezmény alkalmazva"
+  ],
   "9yLOND": [
     "Eltávolítás dátuma: ",
     [
@@ -28686,6 +28985,87 @@
   ],
   "A+pogv": [
     "Találatok megtekintése"
+  ],
+  "A+qfZ+": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva automatikusan megújuló előfizetésre regisztrálsz. A mai napon ",
+    [
+      1,
+      "totalDue"
+    ],
+    " összeget számítunk fel neked, a próbaidőszak alatt (",
+    [
+      1,
+      "trialDuration"
+    ],
+    ") pedig ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " összeget. Amikor a próbaidőszakod véget ér ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " napján, ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " összeget számítunk fel (a vonatkozó adókkal) ",
+    [
+      1,
+      "interval"
+    ],
+    " időközönként a lemondás időpontjáig. Az árak változhatnak. A próbaidőszakod vége előtt emlékeztetőt küldünk. A beállításoknál bármikor lemondhatod. A ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételei"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " vannak érvényben. Kérdésed van? ",
+    [
+      8,
+      "$link",
+      [
+        "Fordulj hozzánk"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    ", vagy tekintsd meg az ",
+    [
+      8,
+      "$link",
+      [
+        "Előfizetések GYIK-oldalát"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Létrehozás időpontja:"
@@ -29376,6 +29756,9 @@
   "AM3mzX": [
     "Fájl"
   ],
+  "AM9XGb": [
+    "Előfizetési ajándék"
+  ],
   "AMHrre": [
     "Adj nekünk visszajelzést"
   ],
@@ -29907,6 +30290,13 @@
   "AcJ4ke": [
     "Beállíthatsz olyan órákat, amikor a tizenéves gyermeked nem használhatja a Discordot. Ebben az időszakban nem fog értesítéseket kapni, és nem férhet hozzá a Discordhoz."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " hónap"
+  ],
   "AcaNYw": [
     "Szeretnéd, ha egyedinek tűnne ez a szerver? Oldj fel egyedi szerverbannereket ",
     [
@@ -30057,6 +30447,13 @@
   ],
   "AfrvRD": [
     "Vásárlás az összesből"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " hozzá lett adva a fiókodhoz"
   ],
   "AgMngw": [
     "Orbegyenleg: ",
@@ -30787,6 +31184,9 @@
   ],
   "AzkvWe": [
     "Kiemelt csempe"
+  ],
+  "B+/GvM": [
+    "Irányítószám megadása"
   ],
   "B+cbLS": [
     "Online módra váltasz?"
@@ -31657,6 +32057,9 @@
   "BLqYQa": [
     "Fizetési mód szerkesztése"
   ],
+  "BLu9EI": [
+    "Másik fizetési mód hozzáadása"
+  ],
   "BLuvck": [
     "Legalább ",
     [
@@ -31858,6 +32261,9 @@
   ],
   "BPoc9u": [
     "Automatikusan lekapcsolódnak a hang- vagy pódiumcsatornáról"
+  ],
+  "BPzQj4": [
+    "Vásárlás"
   ],
   "BQFHXW": [
     "Legalább 18 évesnek kell lenned ahhoz, hogy hozzákapcsolt gondviselő lehess"
@@ -32641,6 +33047,42 @@
   "BkVb1X": [
     "Új barátok, akiket a tizenéves gyermeked adott hozzá, illetve akiknek elfogadta a barátkérelmét"
   ],
+  "BkYev7": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha terméket vásárolsz az Áruházból, azzal limitált engedélyt vásárolsz a termék Discordon történő felhasználásához. A „Virtuális áruk” területen tájékozódhatsz részletesebben ",
+    [
+      8,
+      "$link",
+      [
+        "itt"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Ez a vásárlás nem téríthető vissza. A termék azonnal elérhető lesz a Felhasználói profil beállításainál."
+  ],
   "BkZhUI": [
     "Csak mobileszközön érhető el"
   ],
@@ -32805,6 +33247,9 @@
     ],
     " visszavonása van függőben)"
   ],
+  "Bn/CZQ": [
+    "Kód"
+  ],
   "Bn1J+a": [
     "Az ajándékod beváltása"
   ],
@@ -32813,6 +33258,20 @@
   ],
   "BnSq1I": [
     "Nincs kapcsolat"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Szerkesztés"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -33835,6 +34294,37 @@
   ],
   "CCU/wn": [
     "A tagok válaszai alapján rendelhetsz hozzájuk csatornákat és/vagy rangokat."
+  ],
+  "CCVlIb": [
+    "A „Beváltás” gombra kattintva elfogadod az ",
+    [
+      8,
+      "$link",
+      [
+        "Ajándékkártyákra vonatkozó feltételeket"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " és a ",
+    [
+      8,
+      "$link",
+      [
+        "Tárcákra vonatkozó feltételeket"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Újjáéledtél."
@@ -34889,6 +35379,14 @@
   "Chg2zd": [
     "Lehetővé teszi a tagok számára, hogy meghívásos gondolatmeneteket hozzanak létre ezen a csatornán."
   ],
+  "Chj1Ke": [
+    "Kedvezmény alkalmazva eddig: ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Lehetővé teszi a tagok által megosztott hivatkozások számára a beágyazott tartalmak megjelenítését a szöveges csatornákon."
   ],
@@ -35878,6 +36376,33 @@
   ],
   "DDpHZG": [
     "Nézz tartalmakat, szerezz orbokat, és részesülj jutalomban."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "A vásárlás végrehajtásakor az országod/régiód a következőre módosul: ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Ez a következőt jelenti:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "– Elveszíted a meglévő ajándékkártya-egyenlegedet.\n– Nem fogsz tudni másik országhoz/régióhoz tartozó fizetési módot használni.\n– 90 napig nem módosíthatod újra az országodat/régiódat."
+      ]
+    ]
   ],
   "DEBGqA": [
     "Nem található jogosultság"
@@ -37583,6 +38108,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Feloldod a korai hozzáférést, hogy kereteket vásárolhass az Áruházban"
+  ],
   "E6yaM+": [
     "Koszovó"
   ],
@@ -38155,6 +38683,35 @@
     ],
     " további felhasználó játszotta le"
   ],
+  "EOOWpo": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Előfordulhat, hogy limitált licencet vásárolsz abból a célból, hogy kizárólag az alkotó szerverén használd fel ezt a terméket. ",
+    [
+      8,
+      "$b",
+      [
+        "A vásárlás értéke nem téríthető vissza."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Adj hozzá egy képet a meghívó linkedhez a gyorsítás segítségével"
   ],
@@ -38493,6 +39050,9 @@
       "username"
     ],
     " tevékenységére"
+  ],
+  "EUKPip": [
+    "Hiba történt. Ellenőrizd az adatokat, majd próbáld újra."
   ],
   "EUNgko": [
     "Aktív egy nem standard iOS-es mikrofon mód. Ha inkább a Discord egyik zajcsökkentési beállítását szeretnéd használni, válaszd a standard mikrofon módot a ",
@@ -40374,6 +40934,9 @@
   "FNVJ4+": [
     "Ingyenes profilkép-dekoráció a profilodhoz!"
   ],
+  "FNijW7": [
+    "Új, évente ismétlődő"
+  ],
   "FNqmmX": [
     "Lehetővé teszem a Discord számára, hogy felhasználja és kezelje az adataimat a Discord-szolgáltatások megértése és tökéletesítése céljából. ",
     [
@@ -40666,6 +41229,9 @@
       []
     ],
     " a kezdéshez."
+  ],
+  "FVzt1W": [
+    "Havi csomag"
   ],
   "FW3Qp/": [
     "Egy kis lógás"
@@ -41039,6 +41605,9 @@
         "Visszavonta a némításukat"
       ]
     ]
+  ],
+  "Fjpyfj": [
+    "Promóció"
   ],
   "FjrXCi": [
     "Akár ",
@@ -41618,6 +42187,35 @@
   ],
   "G0neg7": [
     "Kisegítő lehetőségek"
+  ],
+  "G0nk6B": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". A termék megvásárlásával limitált licencet vásárolsz a felhasználásához a Discordon. A vásárlást az alkalmazás fejlesztője biztosítja, és a megvásárolt tartalom csak ebben az alkalmazásban használható. ",
+    [
+      8,
+      "$b",
+      [
+        "A vásárlás értéke nem téríthető vissza."
+      ]
+    ]
   ],
   "G16Wji": [
     "Fiók szinkronizáció megszüntetve! ",
@@ -42354,6 +42952,9 @@
   ],
   "GGlM3e": [
     "Csak a kimenet átváltása"
+  ],
+  "GGn3pp": [
+    "Előfizetés részletei"
   ],
   "GGxBdA": [
     "Varázspálca emotikon"
@@ -46231,6 +46832,9 @@
     ],
     " hangalapú lazulást indított"
   ],
+  "HzDn6w": [
+    "Profilkeret"
+  ],
   "Hza+Bu": [
     "A Nitróval exkluzív profileffektusokhoz és különleges, tagoknak fenntartott árakhoz férhetsz hozzá az Áruházban."
   ],
@@ -46706,6 +47310,20 @@
   ],
   "IAcEEn": [
     "Megjegyzés írása"
+  ],
+  "IAsfR5": [
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "daysCount"
+        ],
+        " napig"
+      ]
+    ],
+    " élvezheted ki a Nitrót, mielőtt felszámítanánk az árát!"
   ],
   "IAybsG": [
     [
@@ -47259,6 +47877,42 @@
   "IOy+I5": [
     "Nem lehet elindítani a tevékenységet"
   ],
+  "IP93kX": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha beváltasz egy terméket az Áruházból, azzal korlátozott engedélyt igényelsz arra, hogy felhasználd az elemet a Discordon. Erről ",
+    [
+      8,
+      "$link",
+      [
+        "itt"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " tájékozódhatsz részletesebben. Az orbokkal zajló beváltások nem téríthetők vissza."
+  ],
   "IPO2be": [
     "Szerver jelentése – ",
     [
@@ -47369,6 +48023,42 @@
   ],
   "ITUQgh": [
     "Ajánlott opció azon szervereken, ahol rangokat használnak a megbízható tagság megállapítására."
+  ],
+  "ITY3j6": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha terméket vásárolsz az Áruházból, azzal limitált licencet vásárolsz a termék Discordon történő felhasználásához. Erről ",
+    [
+      8,
+      "$link",
+      [
+        "itt"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " tájékozódhatsz részletesebben. Ez a vásárlás nem téríthető vissza. A termék azonnal elérhető lesz a Felhasználói profil beállításainál."
   ],
   "ITlV6p": [
     "Létesíts kapcsolatot egy gondviselővel, hogy megőrizd a hozzáférésedet a fiókodhoz"
@@ -49720,6 +50410,9 @@
   "JPI1pf": [
     "Csatlakozás a Nitróhoz"
   ],
+  "JPRQ9L": [
+    "Fizetés a Pix használatával"
+  ],
   "JPU0EF": [
     "Szintek kiválasztása"
   ],
@@ -50548,6 +51241,43 @@
   "JsBPb8": [
     "Példák meglévő Discord-közösségekre"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "egy hónap"
+            ],
+            "=2": [
+              "két hónap"
+            ],
+            "=3": [
+              "három hónap"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " hónap"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " elteltével"
+  ],
   "JsbzjA": [
     "Azt szabályozza, hogy a Discord mennyi hangot közvetítsen a mikrofonodból. Beszélj a mikrofon teszteléséhez – ha a mérő megtelik, a Discord sikeresen továbbítja a szépséges hangodat."
   ],
@@ -50711,6 +51441,14 @@
   ],
   "Jz1lXO": [
     "Válassz egy lehetőséget a személyazonosságod hitelesítésére."
+  ],
+  "Jz6+Oj": [
+    "Ajándékkártya-egyenleg (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Kipróbálhatsz bizonyos új funkciókat, mielőtt bárki más számára elérhetők lennének."
@@ -52575,6 +53313,13 @@
     ],
     " szerverhez kapcsolódó jelentkezése vissza lett vonva."
   ],
+  "KpnRtO": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " évi kedvezmény alkalmazva"
+  ],
   "Kq7FAS": [
     "Olyan, alapértelmezett csatornákat állíthatsz be, amelyek minden tag csatornalistáján megjelennek a csatlakozáskor. A tagok a személyre szabási kérdéseknél adhatnak hozzá további csatornákat."
   ],
@@ -52715,6 +53460,9 @@
   ],
   "KuzWUU": [
     "Listanézet"
+  ],
+  "Kv+vV7": [
+    "Ez a fizetési mód nem használható a jelenlegi országodban/régiódban"
   ],
   "Kv6Z4I": [
     "Biztonságos"
@@ -53540,6 +54288,13 @@
   ],
   "LHUP9D": [
     "Könyvjelző eltávolítása"
+  ],
+  "LHWoqL": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " heti kedvezmény alkalmazva"
   ],
   "LHy5uU": [
     "DLC megszerzése"
@@ -54810,6 +55565,9 @@
   "LvXy/H": [
     "Üdv! 👋 Ez a szerverbolt elég uncsi verziója. A funkcióval menő dolgokat kínálhatsz a tagoknak, és bevételhez juthatsz. A szervertagok nem látják ezt a lapot – egészen addig, amíg létre nem hozod és közzé nem teszed az első termékedet!!"
   ],
+  "LvcUx4": [
+    "Előfizetés visszaállítása"
+  ],
   "Lw6KXV": [
     "Rendszergazdaként indítottad el ezt: ",
     [
@@ -55185,6 +55943,9 @@
   ],
   "M2iEy3": [
     "Lehetővé teszi a tagok számára, hogy alapértelmezés szerint megtekintsék a csatornát."
+  ],
+  "M2mY1J": [
+    "Évente"
   ],
   "M35zFB": [
     "Ugrás a szerverre"
@@ -56146,6 +56907,14 @@
   "MQoVeb": [
     "Egyedi matricák mindenhol"
   ],
+  "MR4VnX": [
+    [
+      3,
+      "renewalDate",
+      "short"
+    ],
+    " napján újul meg"
+  ],
   "MR5I+r": [
     "lmbtq"
   ],
@@ -56172,6 +56941,13 @@
   ],
   "MS/4U1": [
     "Szint archiválása"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " kedvezmény"
   ],
   "MSWjRh": [
     "Legyenek egyedi profiljaid, mint például ez ",
@@ -56793,6 +57569,13 @@
   ],
   "Mi3iPI": [
     "Vedd szemügyre őket"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    "% KEDVEZMÉNY"
   ],
   "Mi60fm": [
     "Kérd meg a gondviselődet, hogy olvassa be a kódot"
@@ -57665,6 +58448,9 @@
   "N46WOv": [
     "Népszerűsítő oldal URL-címe"
   ],
+  "N4EAHm": [
+    "vagy"
+  ],
   "N4ICPb": [
     "Ez a DLC megköveteli, hogy legyen saját ",
     [
@@ -57995,6 +58781,9 @@
   ],
   "NEFeB0": [
     "Halál"
+  ],
+  "NEHhLR": [
+    "Éves csomag"
   ],
   "NENZhS": [
     "Beállítások módosítása"
@@ -60272,6 +61061,13 @@
   "OBCR+p": [
     "Továbbiak megtekintése"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " havi csomag"
+  ],
   "OBp3V3": [
     "GIF, gomb"
   ],
@@ -60343,6 +61139,13 @@
   ],
   "ODCYj8": [
     "Lehetővé teszi a tagok számára, hogy olyan gondolatmeneteket hozzanak létre, amelyeket adott csatornán mindenki láthat."
+  ],
+  "ODKoJd": [
+    [
+      2,
+      "percent"
+    ],
+    "%-os megtakarítás vár az éves csomaggal"
   ],
   "ODXApH": [
     "Készítés nem elérhető"
@@ -60422,6 +61225,77 @@
   ],
   "OGpGqO": [
     "Termékadatlap"
+  ],
+  "OH1Evm": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva automatikusan megújuló előfizetésre regisztrálsz. A mai napon ",
+    [
+      1,
+      "totalDue"
+    ],
+    " összeget, majd ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " összeget számítunk fel neked (a vonatkozó adókkal) ",
+    [
+      1,
+      "interval"
+    ],
+    " időközönként ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " napjától a lemondás időpontjáig. Az árak változhatnak. A beállításoknál bármikor lemondhatod. A ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételei"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " vannak érvényben. Kérdésed van? ",
+    [
+      8,
+      "$link",
+      [
+        "Fordulj hozzánk"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    ", vagy tekintsd meg az ",
+    [
+      8,
+      "$link",
+      [
+        "Előfizetések GYIK-oldalát"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Megosztás"
@@ -60952,6 +61826,33 @@
   ],
   "OVN9la": [
     "Szeretnél másik profilképet, bannert és bemutatkozást használni?"
+  ],
+  "OVhTE7": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha terméket vásárolsz a(z) ",
+    [
+      1,
+      "applicationName"
+    ],
+    " játékáruházból, azzal limitált engedélyt vásárolsz a termék felhasználására a megnevezett játékban. Ez a vásárlás nem téríthető vissza. A terméket közvetlenül a játékban biztosítja a fejlesztő."
   ],
   "OVlNGT": [
     "a rangod színe\n",
@@ -62597,6 +63498,28 @@
     ],
     " személy játszotta le"
   ],
+  "P5KfYx": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” gombra kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ez egyszer terhelés lesz a megadott időért. Nem fogunk havonta számlázni neked. A Nitro-ajándékok nem téríthetők vissza, miután a címzett beváltotta őket."
+  ],
   "P5dSl0": [
     "Árnyékszín"
   ],
@@ -63765,6 +64688,9 @@
     ],
     "-észlelést kikapcsolod?"
   ],
+  "PZDPvQ": [
+    "Az ajándékkártya kódját kötelező megadni"
+  ],
   "PZLnuD": [
     "A tevékenység véget ért.\nSzeretnél újat indítani?"
   ],
@@ -64554,6 +65480,13 @@
       ]
     ],
     " kiemelt egy üzenetet a Kezdőlapon"
+  ],
+  "PyJC0V": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " hónapnyi Nitro"
   ],
   "PygWIS": [
     "Újracsatlakozás folyamatban"
@@ -65739,6 +66672,25 @@
   "QXMYAb": [
     "Szimbólumok"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "intervalCount"
+        ],
+        " hónap"
+      ]
+    ],
+    " után"
+  ],
   "QXYwoD": [
     "Hogy ment: ",
     [
@@ -66843,6 +67795,9 @@
   ],
   "R0VpSW": [
     "Értesítést kaphatsz, ha esemény közeleg egy szerveren, amelynek a tagja vagy."
+  ],
+  "R0cZsM": [
+    "Ma összesen"
   ],
   "R0h4pE": [
     [
@@ -71127,6 +72082,9 @@
   "Sx8Ezi": [
     "Próbáld ki a pódiumcsatornát!"
   ],
+  "SxKq52": [
+    "Következő, évente megújuló"
+  ],
   "SxLn1y": [
     "A célom az, hogy jó legyek"
   ],
@@ -73337,6 +74295,9 @@
     ],
     " tag kiválasztva"
   ],
+  "Tt3O81": [
+    "Következő megújulás"
+  ],
   "TtA5rK": [
     "Külső alkalmazások használata"
   ],
@@ -73757,6 +74718,13 @@
   ],
   "U26WX+": [
     "Sajnos nem tudod elfogadni ezt az ajándékot, mert egy nyitott számlád van."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " most"
   ],
   "U2JFHZ": [
     "emoji_name"
@@ -75099,6 +76067,9 @@
   "UdNuqi": [
     "Neonszínű űr"
   ],
+  "UdSuwf": [
+    "Ehhez a vásárláshoz szükség lesz az előfizetésed fizetési módjára."
+  ],
   "UdXO8P": [
     "Hoppá! Nem igényelheted ezt ",
     [
@@ -76202,6 +77173,9 @@
     ],
     " megszakítása"
   ],
+  "V3DI1E": [
+    "Az asztali vagy webes alkalmazást kell használnod, ha az ajándékkártyád egyenlegével szeretnél vásárolni."
+  ],
   "V3Gri+": [
     "Francia"
   ],
@@ -76888,6 +77862,9 @@
   ],
   "VJRr3Y": [
     "Többek között egyedül megoldható feladványokban, partijátékokban és kompetitív összecsapásokban vehetsz részt."
+  ],
+  "VJXTzd": [
+    "Válassz valami szépet az Áruházban, vagy fordítsd bármi másra a Discordon."
   ],
   "VJcK41": [
     [
@@ -79227,6 +80204,9 @@
   "WJisip": [
     "Koppints, ha be szeretnéd állítani miniatűrként"
   ],
+  "WJmme7": [
+    "Ez a fizetési mód nem használható ehhez a tranzakcióhoz."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -80482,6 +81462,9 @@
   "WmfZHZ": [
     "Küldetéshivatkozás másolása"
   ],
+  "WmjxYl": [
+    "Nap"
+  ],
   "WmsPis": [
     "Milyen tevékenységeket osztok meg"
   ],
@@ -80676,6 +81659,9 @@
   ],
   "Wr4RIX": [
     "Ezen a csatornán le vannak tiltva a beágyazások."
+  ],
+  "WrFWOV": [
+    "Következő, havonta megújuló"
   ],
   "WrQD/Y": [
     "Mellőzöd a következőt: ",
@@ -80892,6 +81878,13 @@
   ],
   "WzC9s6": [
     "Az egész szervert exkluzívvá akarom tenni"
+  ],
+  "WzJTZI": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " napi kedvezmény alkalmazva"
   ],
   "WzM5YA": [
     "nba"
@@ -81402,6 +82395,9 @@
   ],
   "XBrJT6": [
     "Bejövő csengetés"
+  ],
+  "XBtSMa": [
+    "Elfogadom az azonnali kézbesítést"
   ],
   "XBwns+": [
     "Ismeretlen szerver"
@@ -82204,6 +83200,13 @@
   "XWkJoi": [
     "Automatikus klipkészítés"
   ],
+  "XWo+Bp": [
+    [
+      2,
+      "count"
+    ],
+    " ingyenes jutalom kiválasztva"
+  ],
   "XX5ciX": [
     "Korlátlan"
   ],
@@ -82923,6 +83926,9 @@
   "Xrcmjk": [
     "Semleges"
   ],
+  "Xrg8aC": [
+    "Év"
+  ],
   "XrpYIG": [
     "Csak ezek a rangok használhatják az interaktív táblát. Hagyd üresen, ha azt szeretnéd, hogy mindenki használhassa. A változtatások azonnal érvénybe lépnek."
   ],
@@ -83616,6 +84622,9 @@
         "Az előfizetést bármikor újraindíthatod."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Kiválasztottunk egy olyan fizetési módot, amely egyezik az országoddal/régióddal."
   ],
   "Y6qWLc": [
     "Küldj egy üzenetet itt: ",
@@ -84348,6 +85357,9 @@
   "YTvOUx": [
     "Hozzáadás a Discordon és minden, fiókhoz hozzákapcsolt játékban"
   ],
+  "YUNJJa": [
+    "Megtakarítás a Nitróval"
+  ],
   "YUSOKl": [
     "Le szeretnéd tiltani ezt a fiókot?"
   ],
@@ -84631,6 +85643,9 @@
   ],
   "YZd5rw": [
     "Az édes jutalmak már egész évben a tieid. Élvezd ki őket, barátom!"
+  ],
+  "YZePWx": [
+    "Értem"
   ],
   "YZiJbh": [
     "Keressük a Discord-fiókodat az alapértelmezett böngésződben. Várj egy pillanatot..."
@@ -86159,6 +87174,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Basic-előfizetés"
+  ],
   "ZAbzbA": [
     [
       8,
@@ -86877,6 +87900,13 @@
   ],
   "ZQ37tH": [
     "A tagokhoz automatikusan hozzárendelik ezt a rangot. A rangot nem lehet manuálisan hozzárendelni a tagokhoz, vagy eltávolítani."
+  ],
+  "ZQLDzk": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " havi kedvezmény alkalmazva"
   ],
   "ZQakPR": [
     "A saját Discordod"
@@ -87775,6 +88805,9 @@
   "ZnkeXs": [
     "Kulcs eltávolítva!"
   ],
+  "ZnoRKt": [
+    "Hónap"
+  ],
   "ZnqyZ2": [
     "Az összes Nitro-jutalom megtekintése"
   ],
@@ -88304,6 +89337,9 @@
       ]
     ],
     "!"
+  ],
+  "Zxav97": [
+    "Teljes fizetendő"
   ],
   "Zxk1OF": [
     "Sabloncsatornák"
@@ -90088,6 +91124,9 @@
   ],
   "ajkYcF": [
     "Következő"
+  ],
+  "ajn5LL": [
+    "Új, havonta ismétlődő"
   ],
   "ajzh8S": [
     "A profilod láthatósági beállítása: ",
@@ -92716,6 +93755,77 @@
   "bbUIWp": [
     "Kapcsolatok felkérése üzenetküldésre"
   ],
+  "bbgJdE": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva automatikusan megújuló előfizetésre regisztrálsz. A mai napon ",
+    [
+      1,
+      "totalDue"
+    ],
+    " összeget, majd ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " összeget számítunk fel neked (a vonatkozó adókkal) ",
+    [
+      1,
+      "interval"
+    ],
+    " időközönként ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " napjától a lemondás időpontjáig. A vásárlást az alkalmazás fejlesztője biztosítja, és a megvásárolt tartalom csak ebben az alkalmazásban használható. Az árak változhatnak. A beállításoknál bármikor lemondhatod. A ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételei"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " vannak érvényben. Kérdésed van? ",
+    [
+      8,
+      "$link",
+      [
+        "Fordulj hozzánk"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    ", vagy tekintsd meg az ",
+    [
+      8,
+      "$link",
+      [
+        "Előfizetések GYIK-oldalát"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Telepítés ellenőrzése — ",
     [
@@ -92774,6 +93884,9 @@
   ],
   "bdBmqy": [
     "Tevékenység"
+  ],
+  "bdF0KJ": [
+    "Ajándékkártya-módosítás"
   ],
   "bdMG43": [
     "Bomba elhelyezése"
@@ -95864,6 +96977,9 @@
   "cbtPXy": [
     "A téma frissítve lett."
   ],
+  "ccWIdu": [
+    "Az egyenlegednek fedeznie kell a teljes esedékes összeget"
+  ],
   "cd": [
     "blu-ray",
     "CD",
@@ -97730,6 +98846,47 @@
       "device"
     ]
   ],
+  "cwuBkH": [
+    "A(z) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” elemre kattintva elfogadod a ",
+    [
+      8,
+      "$link",
+      [
+        "Fizetős szolgáltatások szerződési feltételeit"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ha beváltasz egy terméket innen: ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", azzal korlátozott engedélyt igényelsz arra, hogy felhasználd az elemet a Discordon. Erről ",
+    [
+      8,
+      "$link",
+      [
+        "itt"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " tájékozódhatsz részletesebben. Az orbbeváltások nem téríthetők vissza. Ezt az elemet közvetlenül a játékon belül biztosítja a fejlesztő."
+  ],
   "cxFiDC": [
     "Kemény fogalmazás"
   ],
@@ -98933,6 +100090,9 @@
   ],
   "dRycVz": [
     "Lemondás visszavonása most"
+  ],
+  "dSPkHo": [
+    "Add meg a kódot"
   ],
   "dSRTMB": [
     "Különálló, kéretlen üzeneteknek fenntartott postaládába helyezheted a gyanús közvetlen üzeneteket. A tagok csalásról szóló jelentést küldhetnek be, vagy visszahelyezhetik az üzeneteket a Bejövő üzenetek mappába."
@@ -101839,6 +102999,9 @@
   "eTVbtx": [
     "Új kategória"
   ],
+  "eTYAvF": [
+    "Profileffektus"
+  ],
   "eTmN5a": [
     "Nem távolítható el rendszergazdai hozzáférés miatt."
   ],
@@ -102687,6 +103850,9 @@
   ],
   "eoXe0r": [
     "Rendezés: Legújabb"
+  ],
+  "eoXh7B": [
+    "Megrendelés összegzése"
   ],
   "eontIh": [
     "A(z) ",
@@ -104059,6 +105225,16 @@
     ],
     " szuper reakciót nem lehet hozzáadni."
   ],
+  "fJnl1h": [
+    "Nem látod a fizetési időkeretet? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Ismételt megnyitás"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Ha elveted, meghívó linkből tudsz új jelentkezést indítani."
   ],
@@ -105104,6 +106280,9 @@
     "repülés",
     "toll",
     "tollazat"
+  ],
+  "febr+T": [
+    "Ajándékkártya-egyenleg"
   ],
   "feet": [
     "lábak",
@@ -108658,6 +109837,25 @@
   "gvXH+a": [
     "Nem kezelheted az előfizetést"
   ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "év"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " év"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "gvgh9L": [
     "Tegnap frissítve"
   ],
@@ -110859,6 +112057,9 @@
     "levél",
     "növény"
   ],
+  "hewwdA": [
+    "Alkalmazásvásárlás"
+  ],
   "hf6YOY": [
     [
       8,
@@ -111085,6 +112286,9 @@
   "hjlZZf": [
     "Akár 24 órába is telhet, mire érvénybe lép."
   ],
+  "hjsn+s": [
+    "Jelenlegi fizetési mód"
+  ],
   "hjvcLO": [
     "Szervergyorsítások"
   ],
@@ -111186,6 +112390,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Beváltás"
   ],
   "hnbagF": [
     "Gyorsítást kaphatsz, amikor letelik az egy hónap Nitro-tagként."
@@ -111988,6 +113195,13 @@
   "i338qh": [
     "Pléd"
   ],
+  "i3Q/6S": [
+    "Összes módosítás: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Kérjük, jelentkezz be a hivatkozás újraküldéséhez."
   ],
@@ -112189,6 +113403,9 @@
   ],
   "iB5Gqe": [
     "új lehetőség"
+  ],
+  "iBFPMf": [
+    "Ajándékkártya beváltása"
   ],
   "iBUzS5": [
     "Hely eltávolítása"
@@ -112653,6 +113870,25 @@
   "iPdFOt": [
     "Parancsjogosultságok frissítése"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "nap"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " nap"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Fejleszd tovább a Discord-élményedet!"
   ],
@@ -113039,6 +114275,9 @@
   ],
   "iZRkC/": [
     "Ismeretlen"
+  ],
+  "iZe9Wy": [
+    "Termék"
   ],
   "iZf+eD": [
     "A szerver nehezen érthető volt"
@@ -114929,6 +116168,9 @@
     ],
     " fájllimit eléréséhez"
   ],
+  "jM8/71": [
+    "Csomag"
+  ],
   "jMFSQV": [
     "A szerveren bárki tud üzenni neked"
   ],
@@ -116415,6 +117657,9 @@
   ],
   "jxIxJL": [
     "A modális kihagyásához tartsd nyomva a Shift billentyűt a tagok eltávolításakor."
+  ],
+  "jxUJkZ": [
+    "Új, ismétlődő összeg"
   ],
   "jxXMEz": [
     "Adatkérés küldése"
@@ -118626,6 +119871,17 @@
   ],
   "ky6syM": [
     "Bajnokölés"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Képernyőidő-korlátok"
@@ -122601,6 +123857,9 @@
   "mWAbK4": [
     "Lehetővé teszi a tagok számára, hogy más szerverekről származó emotikonokat használjanak a csatornákon, ha Discord Nitro-tagok."
   ],
+  "mWL08+": [
+    "Ingyenes próbaidőszak"
+  ],
   "mWO+ys": [
     "Közbelépés"
   ],
@@ -122648,6 +123907,24 @@
   ],
   "mXkYyW": [
     "A figyelmen kívül hagyás nem működik úgy, ahogy szeretném"
+  ],
+  "mXvZt2": [
+    "Előfizetés a következőre: ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Magaddal nem barátkozhatsz"
@@ -127221,6 +128498,13 @@
   "nrpA5E": [
     "továbbítás"
   ],
+  "nsG1jw": [
+    [
+      1,
+      "savingsText"
+    ],
+    " megtakarítás"
+  ],
   "nsGVzg": [
     "Ha lemondod, ",
     [
@@ -129082,6 +130366,9 @@
   "of440F": [
     "Barátkérelem visszavonva."
   ],
+  "of9bom": [
+    "Névjelzés"
+  ],
   "ofQnNQ": [
     "Olyan tartalom, amely meztelenül vagy szexuálisan explicit aktus közben ábrázol téged (vagy egy általad jogosan képviselt személyt)"
   ],
@@ -130709,6 +131996,13 @@
   "pDE7Gb": [
     "Matrica beszerzése innen:"
   ],
+  "pDVleg": [
+    "Teljes megtakarítás: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "A telefonszám érvénytelen."
   ],
@@ -131160,6 +132454,9 @@
   ],
   "pWLGnF": [
     "Tudnivalók a Legutóbbi tevékenységekről"
+  ],
+  "pWSgIu": [
+    "A fizetési mód kiválasztásakor módosul a fiókodhoz tartozó ország/régió"
   ],
   "pWZvZk": [
     "Ez a bejelentés sorsfordító lesz a _",
@@ -135420,6 +136717,9 @@
   "qwJHjo": [
     "Alkalmazás"
   ],
+  "qwSlCO": [
+    "Játékon belüli termék"
+  ],
   "qwfovo": [
     [
       2,
@@ -135734,6 +137034,9 @@
   ],
   "r23NoB": [
     "Eltávolítás a pódiumról"
+  ],
+  "r29Oel": [
+    "Profilkép-dekoráció"
   ],
   "r2AEw1": [
     "A Discord használatához meg kell felelned az alsó korhatárra vonatkozó követelménynek a saját országodban."
@@ -136402,6 +137705,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Új fizetési mód hozzáadása"
   ],
   "rNGQfD": [
     "Küldetés hivatkozásának megosztása"
@@ -142298,6 +143604,9 @@
   "t+gj5V": [
     "Kérjük, adj meg legalább egy műveletet ehhez a szabályhoz."
   ],
+  "t+xzd8": [
+    "Visszaállt az előfizetésed!"
+  ],
   "t/IjXY": [
     "Összes fotó"
   ],
@@ -142945,6 +144254,9 @@
   "tJzB6F": [
     "Rossz játékot mutat"
   ],
+  "tK8A/8": [
+    "Az ajándékkártya-egyenleged felhasználásával csökkentened kell a gyorsítások számát."
+  ],
   "tKCltd": [
     "Nitro sikeresen megosztva"
   ],
@@ -143374,6 +144686,20 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "% megtakarításra"
+      ]
+    ],
+    " teszel szert az első évben!"
   ],
   "tVHevX": [
     [
@@ -145866,6 +147192,18 @@
   "uCD7qK": [
     "Gyorsgomb engedélyezése vagy letiltása"
   ],
+  "uCXulJ": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " hónapnyi használat odaajándékozásával ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%-ot takaríthatsz meg. Ügyes húzás!"
+  ],
   "uCebZa": [
     "Több válasz engedélyezése"
   ],
@@ -147317,6 +148655,9 @@
     "lakat",
     "nyitott lakat",
     "nyitva"
+  ],
+  "uo9YsP": [
+    "Ezt az ajándékkártyát már beváltották."
   ],
   "uoQFIp": [
     "Adatok hozzáadása"
@@ -149051,6 +150392,33 @@
   "vcqwCj": [
     "A problémád"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "A vásárlás végrehajtásakor az országod/régiód a következőre módosul: ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Ez a következőt jelenti:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "– Nem fogsz tudni másik országhoz/régióhoz tartozó fizetési módot használni.\n– 90 napig nem módosíthatod újra az országodat/régiódat."
+      ]
+    ]
+  ],
   "vct4l8": [
     "gyorsítás lejárata: ",
     [
@@ -150754,6 +152122,25 @@
   ],
   "wCbINr": [
     "3 hónapos Nitro-előfizetés"
+  ],
+  "wCkwJf": [
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "% kedvezményt"
+      ]
+    ],
+    " kapsz az első ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " hónapra!"
   ],
   "wCrzut": [
     "Több közvetítés megtekintésének indítása"
@@ -158071,6 +159458,9 @@
   "yr9TTf": [
     "Eltávolítás a kívánságlistáról"
   ],
+  "yrk+N6": [
+    "Az előfizetésed esedékessége lejárt. Próbálkozz újra a fizetéssel, vagy adj meg új fizetési módot a visszaállításához."
+  ],
   "ysbNDc": [
     "Párolgás"
   ],
@@ -158164,6 +159554,9 @@
   ],
   "yvMu3S": [
     "Megsemmisítés"
+  ],
+  "yvUaHi": [
+    "Plusz a vonatkozó adók"
   ],
   "yvV5Ye": [
     [

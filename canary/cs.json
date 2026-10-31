@@ -1848,6 +1848,9 @@
   "+f0bXQ": [
     "Pošli náhodnou uvítací zprávu vždy, když se někdo připojí k tomuto serveru."
   ],
+  "+fIPjg": [
+    "Dopřej si Discord Nitro, nebo probádej Obchod a najdi nějakou ze svých oblíbených věcí."
+  ],
   "+fPCTZ": [
     "Ujisti se, že jsi nezadal/a své heslo nebo jiný citlivý údaj."
   ],
@@ -3392,6 +3395,9 @@
   "/F7Z2y": [
     "Celkem"
   ],
+  "/FQWfA": [
+    "Zůstatek dárkové karty"
+  ],
   "/FWKKC": [
     "Jejich skrytí můžeš kdykoli zrušit."
   ],
@@ -4195,6 +4201,9 @@
   ],
   "/YEoH2": [
     "Tento server je ve tvém regionu věkově omezený. Zjistili jsme, že patříš do skupiny s věkovým omezením. Pokud jsme se zmýlili, můžeš svůj věk znovu potvrdit."
+  ],
+  "/YovOw": [
+    "Sběratelský předmět"
   ],
   "/YuDAs": [
     "Připojeno"
@@ -7106,6 +7115,37 @@
   "0ZkNDU": [
     "Tag se nepodařilo odebrat"
   ],
+  "0Zl+Xt": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Koupí položky z herního obchodu ",
+    [
+      1,
+      "applicationName"
+    ],
+    " si kupuješ omezenou licenci k používání této položky v uvedené hře. Tento nákup nelze refundovat. Tuto položku doručí vývojář přímo ve hře. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Napiš nám, jak se ti líbí nové rozvržení aplikace."
   ],
@@ -8427,6 +8467,9 @@
   ],
   "11e3sB": [
     "Pořádejte přednášky, pomáhejte si s úkoly a učte se společně."
+  ],
+  "11g67A": [
+    "Příští obnovení"
   ],
   "11oKq+": [
     "Kypr"
@@ -10781,6 +10824,9 @@
   "26oeP8": [
     "Napiš důvod."
   ],
+  "26tjwd": [
+    "Uplatnit dárkovou kartu"
+  ],
   "26uMPL": [
     "Krutopřísné!!"
   ],
@@ -11647,6 +11693,29 @@
   ],
   "2PKrQO": [
     "Vyzkoušej tento vzhled"
+  ],
+  "2PiTTi": [
+    "Dárek pro uživatele ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Přestože máš Xbox připojený již z dřívějška, připoj ho znovu, ať můžeš využívat nové funkce."
@@ -12690,6 +12759,77 @@
   "2pG5Ga": [
     "Přihlásit se k odběru"
   ],
+  "2pNIbI": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ si zaregistruješ předplatné s automatickým opakováním. Dnes ti budeme účtovat ",
+    [
+      1,
+      "totalDue"
+    ],
+    ". Jakmile tvé zkušební období ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " skončí, budeme ti účtovat ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus příslušné daně co ",
+    [
+      1,
+      "interval"
+    ],
+    ", dokud své předplatné nezrušíš. Ceny se mohou změnit. Před koncem tvého zkušebního období ti pošleme připomenutí. Předplatné můžeš kdykoli zrušit v sekci Nastavení. Platí ",
+    [
+      8,
+      "$link",
+      [
+        "podmínky placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Máš otázky? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontaktuj nás"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " nebo si přečti naše ",
+    [
+      8,
+      "$link",
+      [
+        "časté dotazy k předplatnému"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Nastaveno pozadí pro Vyhledávání serverů"
   ],
@@ -13159,6 +13299,9 @@
   "2zGdAW": [
     "Vyzkoušej Nitro!"
   ],
+  "2zUa6I": [
+    "Předplatné"
+  ],
   "2zdDw5": [
     "Kliknutím na „",
     [
@@ -13262,6 +13405,9 @@
   ],
   "30+sih": [
     "Nahlášení sdílená tebou"
+  ],
+  "302Ck/": [
+    "Tvoje platební metoda byla uložena"
   ],
   "302tKP": [
     "Získat položku"
@@ -15504,6 +15650,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "PSČ"
+  ],
   "3jprCb": [
     "Změnu se nepodařilo zpracovat. Čeká se na platbu."
   ],
@@ -15515,6 +15664,9 @@
   ],
   "3k4hTU": [
     "Zakázat sdílení aktivity?"
+  ],
+  "3kMstB": [
+    "Tvoje uložené platební metody se neshodují s tvojí aktuální zemí/oblastí. Přidáním nové platební metody se aktualizuje tvoje země/oblast."
   ],
   "3kVEg0": [
     "Pokud odejdeš, můžeš se přidat k dalšímu skupinovému plánu po uplynutí období pro vychladnutí v délce ",
@@ -16058,6 +16210,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Jednorázové darování"
   ],
   "3x/M9Z": [
     "Tato výloha byla zveřejněna v ",
@@ -19037,6 +19192,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Příští obnovení ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -20231,6 +20394,9 @@
   "5dX4UM": [
     "Hledání neodpovídají žádné GIFy."
   ],
+  "5dmUS+": [
+    "Souhlasím s okamžitým dodáním mého digitálního nákupu a potvrzuji, že po dokončení tohoto nákupu ztratím své právo na vrácení peněz, s výjimkou případů uvedených v zásadách vrácení peněz."
+  ],
   "5dxvxs": [
     "Nevím, jak úkol dokončit"
   ],
@@ -20375,6 +20541,51 @@
   ],
   "5fZHp3": [
     "Poslat pozvánku"
+  ],
+  "5fbNBX": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Vyzvednutí položky v aplikaci ",
+    [
+      1,
+      "applicationName"
+    ],
+    " znamená, že si vyzvedáváš omezenou licenci k používání této položky na Discordu. Další informace najdeš ",
+    [
+      8,
+      "$link",
+      [
+        "zde"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Položky pořízené za Orbs nelze refundovat. Tuto položku doručí vývojář přímo ve hře. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Zobrazit úplný popis"
@@ -21769,6 +21980,14 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    "Částka ",
+    [
+      1,
+      "price"
+    ],
+    " byla připsána na tvůj účet!"
   ],
   "66YyBJ": [
     "Vzhled avataru, který oživí tvůj profil na Discordu. S Nitrem zůstane v tvé moci ještě déle!"
@@ -24246,6 +24465,9 @@
   "6yrpFR": [
     "Změnit ikonu"
   ],
+  "6zCzw1": [
+    "Při přidávání této platební metody došlo k problému. Zkus to znovu nebo použij jinou platební metodu."
+  ],
   "6zFA/T": [
     "Velmi, velmi brzy"
   ],
@@ -24936,6 +25158,9 @@
   ],
   "7LL+Fw": [
     "Spojené státy"
+  ],
+  "7LeLN4": [
+    "Zkušební období Nitra bylo uplatněno"
   ],
   "7LgVmt": [
     "Projdi si bezpečnostní tipy"
@@ -26386,6 +26611,9 @@
   "7qbp3B": [
     "… více"
   ],
+  "7r4HPu": [
+    "Potvrdit a zaplatit"
+  ],
   "7r4OKg": [
     "Povolit synchronizovaným odběratelům používat tvé Twitch emotikony v aplikaci Discord."
   ],
@@ -26453,6 +26681,14 @@
   ],
   "7sW4h1": [
     "Nikoho se zadaným jménem se nám nepodařilo najít."
+  ],
+  "7sYIBL": [
+    "Darování roku ti ušetří ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Dost dobrý tah!"
   ],
   "7spYft": [
     "Aktualizovat platební metodu"
@@ -27258,6 +27494,31 @@
   "8CVUrV": [
     "Bezplatné zkušební období Nitra"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "měsíc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " měsíce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Strhneme ti jednorázový poplatek za zvolené období. Ročně ti nebudeme nic účtovat."
   ],
@@ -27574,6 +27835,13 @@
   ],
   "8Joh+p": [
     "Mluvit na pódiu"
+  ],
+  "8Jt4Dw": [
+    "Nitro na 1 ",
+    [
+      1,
+      "timeInterval"
+    ]
   ],
   "8JzOBn": [
     "Výchozí kanály vyžadují, aby ",
@@ -28656,6 +28924,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Každý měsíc"
+  ],
   "8gpzp6": [
     "Obsah ke stažení"
   ],
@@ -28697,6 +28968,27 @@
   ],
   "8ihs9i": [
     "Data o výkonu se nepodařilo zaznamenat"
+  ],
+  "8imbq5": [
+    "Vylepšení serveru ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "Beta verze končí ",
@@ -30561,6 +30853,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    "K dispozici ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30585,6 +30884,9 @@
   ],
   "9Oq93m": [
     "Uživatelé"
+  ],
+  "9OxfNK": [
+    "Prozkoumat Obchod"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31959,6 +32261,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Sleva na předplatné byla uplatněna"
+  ],
   "9yLOND": [
     "Odebráno ",
     [
@@ -32067,6 +32372,87 @@
   ],
   "A+pogv": [
     "Zobrazit výsledky"
+  ],
+  "A+qfZ+": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ si zaregistruješ předplatné s automatickým opakováním. Dnes ti budeme účtovat ",
+    [
+      1,
+      "totalDue"
+    ],
+    " a ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " po dobu ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Jakmile tvé zkušební období ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " skončí, budeme ti účtovat ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus příslušné daně co ",
+    [
+      1,
+      "interval"
+    ],
+    ", dokud své předplatné nezrušíš. Ceny se mohou změnit. Před koncem tvého zkušebního období ti pošleme připomenutí. Předplatné můžeš kdykoli zrušit v nastaveních. Platí ",
+    [
+      8,
+      "$link",
+      [
+        "podmínky placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Máš otázky? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontaktuj nás"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " nebo si přečti naše ",
+    [
+      8,
+      "$link",
+      [
+        "časté dotazy k předplatnému"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Vytvořeno"
@@ -32819,6 +33205,9 @@
   "AM3mzX": [
     "Soubor"
   ],
+  "AM9XGb": [
+    "Darované předplatné"
+  ],
   "AMHrre": [
     "Pošli nám zpětnou vazbu"
   ],
@@ -33414,6 +33803,13 @@
   "AcJ4ke": [
     "Nastav hodiny, kdy tvůj teenager nemůže používat Discord. Během této doby nebude dostávat oznámení a nebude mít přístup k Discordu."
   ],
+  "AcRCMp": [
+    "Počet měsíců: ",
+    [
+      1,
+      "intervalCount"
+    ]
+  ],
   "AcaNYw": [
     "Chceš, aby tento server byl jedinečný? Získej ještě ",
     [
@@ -33617,6 +34013,14 @@
   ],
   "AfrvRD": [
     "Zobrazit vše"
+  ],
+  "Afx5yS": [
+    "Částka ",
+    [
+      1,
+      "price"
+    ],
+    " byla připsána na tvůj účet!"
   ],
   "AgMngw": [
     "Zůstatek Orbs: ",
@@ -34468,6 +34872,9 @@
   ],
   "AzkvWe": [
     "Doporučená dlaždice"
+  ],
+  "B+/GvM": [
+    "Zadej PSČ"
   ],
   "B+cbLS": [
     "Přejít online?"
@@ -35397,6 +35804,9 @@
   "BLqYQa": [
     "Upravit platební metodu"
   ],
+  "BLu9EI": [
+    "Přidat jinou platební metodu"
+  ],
   "BLuvck": [
     "Aby byla povolena populární hudba, musí členové serveru (alespoň ",
     [
@@ -35584,6 +35994,9 @@
   ],
   "BPoc9u": [
     "Automaticky uživatele odpojí z hlasového či řečnického kanálu"
+  ],
+  "BPzQj4": [
+    "Koupit"
   ],
   "BQFHXW": [
     "Propojení zákonní zástupci musí být starší 18 let"
@@ -36475,6 +36888,42 @@
   "BkVb1X": [
     "Noví přátelé, které si tvůj teenager přidal nebo jejichž žádost přijal"
   ],
+  "BkYev7": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ souhlasíš s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Nákup položky z Obchodu znamená, že si kupuješ omezenou licenci k používání této položky na Discordu. Další informace zjistíš v sekci „Virtuální zboží“ ",
+    [
+      8,
+      "$link",
+      [
+        "zde"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Tento nákup nelze refundovat. Položka bude dostupná okamžitě v nastavení uživatelského profilu."
+  ],
   "BkZhUI": [
     "Dostupné jen na mobilu"
   ],
@@ -36661,6 +37110,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Kód"
+  ],
   "Bn1J+a": [
     "Získej svůj dárek"
   ],
@@ -36669,6 +37121,20 @@
   ],
   "BnSq1I": [
     "Nepřipojeno"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Upravit"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37833,6 +38299,37 @@
   ],
   "CCU/wn": [
     "Podle odpovědí budeš lidi přiřazovat ke kanálům a rolím."
+  ],
+  "CCVlIb": [
+    "Kliknutím na „Uplatnit“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami dárkové karty"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " a ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami peněženky"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Za obživnutí."
@@ -39013,6 +39510,14 @@
   "Chg2zd": [
     "Umožní členům vytvářet v tomto kanálu vlákna pouze pro zvané."
   ],
+  "Chj1Ke": [
+    "Byla použita sleva do ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Odkazy sdílené členy do textových kanálů mohou zobrazovat vložený obsah."
   ],
@@ -40066,6 +40571,33 @@
   ],
   "DDpHZG": [
     "Sleduj. Vydělej si Orbs. Získej odměny."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Dokončením tohoto nákupu se tvoje země/oblast aktualizuje na ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". To znamená následující:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Ztratíš svůj stávající zůstatek na dárkové kartě\n- Nebudeš moct používat platební metody z jiné země/oblasti\n- Po dobu 90 dnů nebudeš moct znovu změnit svou zemi/oblast"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Nebyla nalezena žádná oprávnění"
@@ -41844,6 +42376,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Odemykáš předběžný přístup k nákupu rámečků v Obchodě"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -42574,6 +43109,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Omezenou licenci k používání této položky si můžeš koupit pouze na serveru tvůrce. ",
+    [
+      8,
+      "$b",
+      [
+        "Za tento nákup nelze vrátit peníze."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Přidej do svého zvacího odkazu obrázek pomocí vylepšení"
   ],
@@ -42947,6 +43511,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Něco se pokazilo. Zkontroluj své údaje a zkus to znovu."
   ],
   "EUNgko": [
     "Je aktivní nestandardní režim mikrofonu iOS. Pokud chceš používat jednu z možností potlačení šumu Discordu, vyber standardní režim mikrofonu ve svém ",
@@ -45076,6 +45643,9 @@
   "FNVJ4+": [
     "Vzhledy avataru pro tvůj profil zdarma!"
   ],
+  "FNijW7": [
+    "Nové opakování každý rok"
+  ],
   "FNqmmX": [
     "Dovolit Discordu používat a zpracovávat moje údaje, aby lépe porozuměl tomu, jak Discord používám, a mohl vylepšovat služby Discordu. ",
     [
@@ -45391,6 +45961,9 @@
       []
     ],
     " a pusť se do toho."
+  ],
+  "FVzt1W": [
+    "Měsíční plán"
   ],
   "FW3Qp/": [
     "Jen se poflakuju"
@@ -45787,6 +46360,9 @@
         "zákaz mluvení"
       ]
     ]
+  ],
+  "Fjpyfj": [
+    "Akce"
   ],
   "FjrXCi": [
     "Sdílej zkušební období Nitra v délce 2 týdny až s ",
@@ -46389,6 +46965,35 @@
   ],
   "G0neg7": [
     "Dostupnost"
+  ],
+  "G0nk6B": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Koupí této položky si kupuješ omezenou licenci k používání této položky na Discordu. Tento nákup ti nabízí vývojář této aplikace a můžeš ho využít pouze na tuto aplikaci. ",
+    [
+      8,
+      "$b",
+      [
+        "Za tento nákup nelze vrátit peníze."
+      ]
+    ]
   ],
   "G16Wji": [
     "Připojení pro synchronizaci bylo zrušeno! ",
@@ -47244,6 +47849,9 @@
   ],
   "GGlM3e": [
     "Přepnout pouze výstup"
+  ],
+  "GGn3pp": [
+    "Detaily předplatného"
   ],
   "GGxBdA": [
     "Smajlík kouzelné hůlky"
@@ -51670,6 +52278,9 @@
     ],
     " zahájil(a) hlasový pokec."
   ],
+  "HzDn6w": [
+    "Rámeček profilu"
+  ],
   "Hza+Bu": [
     "Získej exkluzivní efekty profilu a speciální členské ceny v Obchodě s předplatným Nitro."
   ],
@@ -52154,6 +52765,37 @@
   ],
   "IAcEEn": [
     "Zanechat poznámku"
+  ],
+  "IAsfR5": [
+    "Užívej si ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro po dobu ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dne"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dní"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    ", než ti ho začneme účtovat!"
   ],
   "IAybsG": [
     "ušetři ",
@@ -52836,6 +53478,42 @@
   "IOy+I5": [
     "Aktivitu nelze spustit"
   ],
+  "IP93kX": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Vyzvednutí položky z Obchodu znamená, že si vyzvedáváš omezenou licenci k používání této položky na Discordu. Další informace najdeš ",
+    [
+      8,
+      "$link",
+      [
+        "zde"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Položky pořízené za Orbs nelze refundovat."
+  ],
   "IPO2be": [
     "Nahlásit server – ",
     [
@@ -52969,6 +53647,42 @@
   ],
   "ITUQgh": [
     "Doporučené nastavení pro servery, které důvěryhodným členům přidělují role."
+  ],
+  "ITY3j6": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Nákup položky z Obchodu znamená, že si kupuješ omezenou licenci k používání této položky na Discordu. Další informace najdeš ",
+    [
+      8,
+      "$link",
+      [
+        "zde"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Tento nákup nelze refundovat. Položka bude dostupná okamžitě v nastavení uživatelského profilu."
   ],
   "ITlV6p": [
     "Propoj se s zákonným zástupcem a zachovej si přístup ke svému účtu"
@@ -55588,6 +56302,9 @@
   "JPI1pf": [
     "Pořídit Nitro"
   ],
+  "JPRQ9L": [
+    "Zaplatit přes Pix"
+  ],
   "JPU0EF": [
     "Výběr úrovní"
   ],
@@ -56462,6 +57179,42 @@
   "JsBPb8": [
     "Příklady existujících komunit na Discordu"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " po ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "jednom měsíci"
+            ],
+            "=2": [
+              "dvou měsících"
+            ],
+            "=3": [
+              "třech měsících"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " měsících"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Kontroluje, kolik zvuku Discord přenáší z tvého mikrofonu. Mluv a otestuj svůj mikrofon – pokud je ukazatel zaplněný, Discord přenáší tvůj krásný hlas."
   ],
@@ -56626,6 +57379,14 @@
   ],
   "Jz1lXO": [
     "Vyber si, jak máme ověřit, že jsi to skutečně ty."
+  ],
+  "Jz6+Oj": [
+    "Zůstatek dárkové karty (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Osahej si některé nové funkce dříve, než budou uvolněny pro všechny ostatní."
@@ -58756,6 +59517,14 @@
     ],
     " byla stažena."
   ],
+  "KpnRtO": [
+    "Byla použita roční sleva na ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " r"
+  ],
   "Kq7FAS": [
     "Nastav výchozí kanály, které každý člen uvidí ve svém seznamu kanálů, jakmile se připojí k serveru. Členové si můžou přidat další kanály pomocí otázek ohledně přizpůsobení."
   ],
@@ -58949,6 +59718,9 @@
   ],
   "KuzWUU": [
     "Zobrazení seznamu"
+  ],
+  "Kv+vV7": [
+    "Tuto platební metodu nelze použít ve tvé aktuální zemi/oblasti"
   ],
   "Kv6Z4I": [
     "Bezpečný"
@@ -59910,6 +60682,14 @@
   ],
   "LHUP9D": [
     "Odebrat záložku"
+  ],
+  "LHWoqL": [
+    "Byla použita týdenní sleva na ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " t"
   ],
   "LHy5uU": [
     "Získat DLC"
@@ -61372,6 +62152,9 @@
   "LvXy/H": [
     "Vítáme tě 👋 v úžasně nudné verzi serverového obchodu. Jedná se o nový způsob, jak si členové tvého serveru můžou zakoupit skvělé věci a ty si vydělat nějakou korunu. Členové tvého serveru tuto kartu neuvidí – alespoň tedy do chvíle, kdy vytvoříš a publikuješ svůj první produkt!"
   ],
+  "LvcUx4": [
+    "Obnovit předplatné"
+  ],
   "Lw6KXV": [
     "Spustil jsi ",
     [
@@ -61749,6 +62532,9 @@
   ],
   "M2iEy3": [
     "Umožní členům automaticky zobrazit tento kanál."
+  ],
+  "M2mY1J": [
+    "Ročně"
   ],
   "M35zFB": [
     "Přejít na server"
@@ -62780,6 +63566,14 @@
   "MQoVeb": [
     "Vlastní samolepky kdekoli"
   ],
+  "MR4VnX": [
+    "Obnoví se ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -62819,6 +63613,13 @@
   ],
   "MS/4U1": [
     "Archivace úrovně"
+  ],
+  "MSB4E4": [
+    "Sleva ",
+    [
+      1,
+      "amountOrPercentOffText"
+    ]
   ],
   "MSWjRh": [
     "Pořiď si vlastní profily, jako je tento ",
@@ -63474,6 +64275,14 @@
   ],
   "Mi3iPI": [
     "Koukni na ně"
+  ],
+  "Mi5BH/": [
+    "SLEVA ",
+    [
+      2,
+      "percentOff"
+    ],
+    " %"
   ],
   "Mi60fm": [
     "Ať tvůj zákonný zástupce naskenuje tento kód"
@@ -64384,6 +65193,9 @@
   "N46WOv": [
     "URL tvojí propagační stránky"
   ],
+  "N4EAHm": [
+    "nebo"
+  ],
   "N4ICPb": [
     "Abys mohl/a hrát toto DLC, musíš mít na Discordu ",
     [
@@ -64764,6 +65576,9 @@
   ],
   "NEFeB0": [
     "Smrtka"
+  ],
+  "NEHhLR": [
+    "Roční plán"
   ],
   "NENZhS": [
     "Upravit nastavení"
@@ -67260,6 +68075,13 @@
   "OBCR+p": [
     "Zobrazit více"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    "měsíční plán"
+  ],
   "OBp3V3": [
     "GIF, tlačítko"
   ],
@@ -67353,6 +68175,14 @@
   ],
   "ODCYj8": [
     "Umožní členům vytvářet vlákna viditelná pro všechny v kanálu."
+  ],
+  "ODKoJd": [
+    "Ušetři ",
+    [
+      2,
+      "percent"
+    ],
+    " % s ročním plánem"
   ],
   "ODXApH": [
     "Vytváření není k dispozici"
@@ -67465,6 +68295,77 @@
   ],
   "OGpGqO": [
     "Nabídka"
+  ],
+  "OH1Evm": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ si zaregistruješ předplatné s automatickým opakováním. Dnes ti budeme účtovat ",
+    [
+      1,
+      "totalDue"
+    ],
+    " a následně ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus příslušné daně co ",
+    [
+      1,
+      "interval"
+    ],
+    " počínaje ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", dokud své předplatné nezrušíš. Ceny se mohou změnit. Předplatné můžeš kdykoli zrušit v sekci Nastavení. Platí ",
+    [
+      8,
+      "$link",
+      [
+        "podmínky placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Máš otázky? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontaktuj nás"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " nebo si přečti naše ",
+    [
+      8,
+      "$link",
+      [
+        "časté dotazy k předplatnému"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Sdílení"
@@ -68011,6 +68912,33 @@
   ],
   "OVN9la": [
     "Chceš používat jiný avatar, banner a informace o sobě?"
+  ],
+  "OVhTE7": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Koupí položky z herního obchodu ",
+    [
+      1,
+      "applicationName"
+    ],
+    " si kupuješ omezenou licenci k používání této položky v uvedené hře. Tento nákup nelze refundovat. Tuto položku doručí vývojář přímo ve hře."
   ],
   "OVlNGT": [
     "tvoji barvu role\nprémiové smajlíky (",
@@ -69788,6 +70716,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Strhneme ti jednorázový poplatek za zvolené období. Měsíčně ti nebudeme nic účtovat. Dárky Nitro nelze po uplatnění příjemcem refundovat."
+  ],
   "P5dSl0": [
     "Barva stínu"
   ],
@@ -71093,6 +72043,9 @@
     ],
     "?"
   ],
+  "PZDPvQ": [
+    "Kód dárkové karty je povinný"
+  ],
   "PZLnuD": [
     "Aktivita skončila.\nChceš spustit novou?"
   ],
@@ -71945,6 +72898,35 @@
       ]
     ],
     " doporučil/a zprávu na úvodní stránce"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " měsíc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " měsíce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitra"
   ],
   "PygWIS": [
     "Připojuji se znovu"
@@ -73271,6 +74253,39 @@
   "QXMYAb": [
     "Symboly"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " po ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " měsíci"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " měsících"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Jak to šlo v ",
     [
@@ -74470,6 +75485,9 @@
   ],
   "R0VpSW": [
     "Dostávej oznámení, když se bude schylovat k události na některém ze serverů, mezi jejichž členy patříš."
+  ],
+  "R0cZsM": [
+    "Dnes celkem"
   ],
   "R0h4pE": [
     [
@@ -79307,6 +80325,9 @@
   "Sx8Ezi": [
     "Zkus použít řečnický kanál!"
   ],
+  "SxKq52": [
+    "Příští roční opakování"
+  ],
   "SxLn1y": [
     "Buď nejlepší"
   ],
@@ -81947,6 +82968,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Příští obnovení"
+  ],
   "TtA5rK": [
     "Používat externí aplikace"
   ],
@@ -82366,6 +83390,13 @@
   ],
   "U26WX+": [
     "Je nám líto, nemůžeš přijmout tento dárek, protože u tvého předplatného evidujeme otevřenou fakturu."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " teď hned"
   ],
   "U2JFHZ": [
     "název_smajlíka"
@@ -83825,6 +84856,9 @@
   "UdNuqi": [
     "Neonový vesmír"
   ],
+  "UdSuwf": [
+    "Tento nákup vyžaduje tvou platební metodu pro předplatné."
+  ],
   "UdXO8P": [
     "Jejda! Nemůžeš si vyzvednout ",
     [
@@ -84986,6 +86020,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Pokud chceš nákup uhradit pomocí zůstatku na dárkové kartě, budeš muset použít aplikaci pro počítač nebo web."
+  ],
   "V3Gri+": [
     "Francouzština"
   ],
@@ -85696,6 +86733,9 @@
   ],
   "VJRr3Y": [
     "Vrhni se na hádanky pro jednoho hráče, párty hry, soutěžní klání a další."
+  ],
+  "VJXTzd": [
+    "Dopřej si něco v Obchodě, nebo svůj zůstatek využij na cokoli jiného na Discordu."
   ],
   "VJcK41": [
     "Průzkum ",
@@ -88365,6 +89405,9 @@
   "WJisip": [
     "Klepnutím nastavíš jako miniaturu"
   ],
+  "WJmme7": [
+    "Tuto platební metodu nelze použít pro tuto transakci."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -89813,6 +90856,9 @@
   "WmfZHZ": [
     "Kopírovat odkaz na úkol"
   ],
+  "WmjxYl": [
+    "Den"
+  ],
   "WmsPis": [
     "Jakou aktivitu sdílím"
   ],
@@ -90005,6 +91051,9 @@
   ],
   "Wr4RIX": [
     "Vložený obsah je v tomto kanálu zakázaný."
+  ],
+  "WrFWOV": [
+    "Příští měsíční opakování"
   ],
   "WrQD/Y": [
     "Ignorovat uživatele ",
@@ -90239,6 +91288,14 @@
   ],
   "WzC9s6": [
     "Chci mít exkluzivní celý server"
+  ],
+  "WzJTZI": [
+    "Byla použita sleva na ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " den"
   ],
   "WzM5YA": [
     "nba"
@@ -90795,6 +91852,9 @@
   ],
   "XBrJT6": [
     "Příchozí zvonění"
+  ],
+  "XBtSMa": [
+    "Souhlasím s okamžitým dodáním"
   ],
   "XBwns+": [
     "Neznámý server"
@@ -91700,6 +92760,22 @@
   "XWkJoi": [
     "Automatické vytváření klipů"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Odměna zdarma vybrána"
+        ],
+        "other": [
+          "Odměny zdarma vybrány"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Bez omezení"
   ],
@@ -92538,6 +93614,9 @@
   "Xrcmjk": [
     "Neutrální"
   ],
+  "Xrg8aC": [
+    "Rok"
+  ],
   "XrpYIG": [
     "Pouze tyto role mohou používat tabuli. Nech toto pole prázdné, aby ji mohl používat každý. Změny se projeví okamžitě."
   ],
@@ -93295,6 +94374,9 @@
         "Své předplatné můžeš kdykoli obnovit."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Vybrali jsme platební metodu, která odpovídá tvé zemi/oblasti."
   ],
   "Y6qWLc": [
     "Poslat zprávu v kanálu ",
@@ -94099,6 +95181,9 @@
   "YTvOUx": [
     "Přidat napříč Discordem a všemi hrami propojenými s tímto účtem"
   ],
+  "YUNJJa": [
+    "Úspora s Nitrem"
+  ],
   "YUSOKl": [
     "Blokovat tento účet?"
   ],
@@ -94397,6 +95482,9 @@
   ],
   "YZd5rw": [
     "Teď máš parádní výhody na celý rok. Užij si je, kamaráde!"
+  ],
+  "YZePWx": [
+    "Rozumím"
   ],
   "YZiJbh": [
     "Snažíme se z tvého výchozího prohlížeče zjistit účet u Discordu. Dej mi vteřinku…"
@@ -96099,6 +97187,13 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "Nitro Basic na 1 ",
+    [
+      1,
+      "timeInterval"
+    ]
+  ],
   "ZAbzbA": [
     "Tenhle bug právě obdržel ",
     [
@@ -96976,6 +98071,14 @@
   ],
   "ZQ37tH": [
     "Členové tuto roli získají automaticky. Tuto roli nelze členům přiřadit ručně ani jim ji odebrat."
+  ],
+  "ZQLDzk": [
+    "Byla použita sleva na ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " měsíc"
   ],
   "ZQakPR": [
     "Tvůj Discord"
@@ -97948,6 +99051,9 @@
   "ZnkeXs": [
     "Klíč byl odebrán!"
   ],
+  "ZnoRKt": [
+    "Měsíc"
+  ],
   "ZnqyZ2": [
     "Zobrazit všechny výhody Nitra"
   ],
@@ -98514,6 +99620,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Celkem k úhradě"
   ],
   "Zxk1OF": [
     "Vzorové kanály"
@@ -100420,6 +101529,9 @@
   ],
   "ajkYcF": [
     "Další"
+  ],
+  "ajn5LL": [
+    "Nové opakování každý měsíc"
   ],
   "ajzh8S": [
     "Viditelnost tvého profilu je nastavena na ",
@@ -103616,6 +104728,77 @@
   "bbUIWp": [
     "Pozvi kontakty na Discord"
   ],
+  "bbgJdE": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ si zaregistruješ předplatné s automatickým opakováním. Dnes ti budeme účtovat ",
+    [
+      1,
+      "totalDue"
+    ],
+    " a následně ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus příslušné daně co ",
+    [
+      1,
+      "interval"
+    ],
+    " počínaje ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", dokud své předplatné nezrušíš. Tento nákup ti nabízí vývojář této aplikace a můžeš ho využít pouze na tuto aplikaci. Ceny se mohou změnit. Předplatné můžeš kdykoli zrušit v sekci Nastavení. Platí ",
+    [
+      8,
+      "$link",
+      [
+        "podmínky placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Máš otázky? ",
+    [
+      8,
+      "$link",
+      [
+        "Kontaktuj nás"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " nebo si přečti naše ",
+    [
+      8,
+      "$link",
+      [
+        "časté dotazy k předplatnému"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Ověřování instalace – ",
     [
@@ -103673,6 +104856,9 @@
   ],
   "bdBmqy": [
     "Aktivita"
+  ],
+  "bdF0KJ": [
+    "Úprava dárkové karty"
   ],
   "bdMG43": [
     "Nastražení bomby"
@@ -107448,6 +108634,9 @@
   "cbtPXy": [
     "Motiv byl aktualizován."
   ],
+  "ccWIdu": [
+    "Tvůj zůstatek musí pokrývat celkovou částku k úhradě"
+  ],
   "cd": [
     "bd",
     "blu-ray",
@@ -109886,6 +111075,47 @@
     ],
     " příště nenavrhovat"
   ],
+  "cwuBkH": [
+    "Kliknutím na tlačítko „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ vyjadřuješ svůj souhlas s ",
+    [
+      8,
+      "$link",
+      [
+        "podmínkami placených služeb"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Vyzvednutí položky v aplikaci ",
+    [
+      1,
+      "applicationName"
+    ],
+    " znamená, že si vyzvedáváš omezenou licenci k používání této položky na Discordu. Další informace najdeš ",
+    [
+      8,
+      "$link",
+      [
+        "zde"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Položky pořízené za Orbs nelze refundovat. Tuto položku doručí vývojář přímo ve hře."
+  ],
   "cxFiDC": [
     "Vulgární jazyk"
   ],
@@ -111249,6 +112479,9 @@
   ],
   "dRycVz": [
     "Odvolat hned teď"
+  ],
+  "dSPkHo": [
+    "Zadej kód"
   ],
   "dSRTMB": [
     "Přesouvat podezřelé PZ do oddělené složky se spamem. Členové můžou odeslat hlášení o spamu nebo zprávu přesunout zpátky do doručených."
@@ -114634,6 +115867,9 @@
   "eTVbtx": [
     "Nová kategorie"
   ],
+  "eTYAvF": [
+    "Efekt profilu"
+  ],
   "eTmN5a": [
     "Nelze odebrat z důvodu administrátorského přístupu."
   ],
@@ -115590,6 +116826,9 @@
   ],
   "eoXe0r": [
     "Seřadit od nejnovějších"
+  ],
+  "eoXh7B": [
+    "Shrnutí objednávky"
   ],
   "eontIh": [
     "Odemkni všechny samolepky s předplatným ",
@@ -117196,6 +118435,16 @@
     ],
     " se nepodařilo přidat."
   ],
+  "fJnl1h": [
+    "Nevidíš okno pro platbu? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Znovu otevřít"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Pokud ji zrušíš, můžeš ze zvacího odkazu začít novu žádost."
   ],
@@ -118472,6 +119721,9 @@
     "pírko",
     "ptačí",
     "pták"
+  ],
+  "febr+T": [
+    "Zůstatek dárkových karet"
   ],
   "feet": [
     "nohy",
@@ -122555,6 +123807,31 @@
   "gvXH+a": [
     "Toto předplatné nemůžeš spravovat"
   ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "rok"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " roky"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " let"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "gvgh9L": [
     "Aktualizováno včera"
   ],
@@ -125188,6 +126465,9 @@
     "rostlina",
     "snítka"
   ],
+  "hewwdA": [
+    "Nákup v aplikaci"
+  ],
   "hf6YOY": [
     "V rámci svého předplatného ",
     [
@@ -125436,6 +126716,9 @@
   "hjlZZf": [
     "Může se projevit až za 24 hodin."
   ],
+  "hjsn+s": [
+    "Aktuální platební metoda"
+  ],
   "hjvcLO": [
     "Vylepšení serveru"
   ],
@@ -125538,6 +126821,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Uplatnit"
   ],
   "hnbagF": [
     "Získej vylepšení při dokončení svého prvního měsíce předplatného Nitro."
@@ -126459,6 +127745,13 @@
   "i338qh": [
     "Deka"
   ],
+  "i3Q/6S": [
+    "Celkem úprav ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Jestli chceš odkaz poslat znovu, nejprve se přihlas."
   ],
@@ -126722,6 +128015,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Uplatnit dárkovou kartu"
   ],
   "iBUzS5": [
     "Odstranit umístění"
@@ -127284,6 +128580,31 @@
   "iPdFOt": [
     "Aktualizace oprávnění pro příkazy"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "den"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " dny"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dnů"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Dopřej si lepší zážitek z Discordu"
   ],
@@ -127746,6 +129067,9 @@
   ],
   "iZRkC/": [
     "Neznámý"
+  ],
+  "iZe9Wy": [
+    "Produkt"
   ],
   "iZf+eD": [
     "Server byl příliš komplikovaný"
@@ -129875,6 +131199,9 @@
       "maxUploadPremium"
     ]
   ],
+  "jM8/71": [
+    "Balíček"
+  ],
   "jMFSQV": [
     "Kdokoliv na serveru ti může poslat zprávu"
   ],
@@ -131623,6 +132950,9 @@
   ],
   "jxIxJL": [
     "Pokud chceš přeskočit toto okno, při odebírání členů stiskni klávesu Shift."
+  ],
+  "jxUJkZ": [
+    "Nová opakující se částka"
   ],
   "jxXMEz": [
     "Odeslat žádost o údaje"
@@ -134129,6 +135459,17 @@
   ],
   "ky6syM": [
     "Zabiják šampionů"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Časové limity obrazovky"
@@ -138618,6 +139959,9 @@
   "mWAbK4": [
     "Umožní členům s Discordem Nitro používat v těchto kanálech smajlíky z jiných serverů."
   ],
+  "mWL08+": [
+    "Bezplatné zkušební období"
+  ],
   "mWO+ys": [
     "Přijmout opatření"
   ],
@@ -138686,6 +140030,24 @@
   ],
   "mXkYyW": [
     "Ignorování nedělá to, co chci"
+  ],
+  "mXvZt2": [
+    "Předplatné serveru ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Sebe si jako přítele přidat nemůžeš"
@@ -144209,6 +145571,13 @@
   "nrpA5E": [
     "přeposlat"
   ],
+  "nsG1jw": [
+    "Ušetři ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Pokud ho teď zrušíš, ",
     [
@@ -146164,6 +147533,9 @@
   "of440F": [
     "Žádost o přátelství byla zrušena."
   ],
+  "of9bom": [
+    "Jmenovka"
+  ],
   "ofQnNQ": [
     "Obsah, který tebe (nebo někoho, koho máš právo zastupovat) zobrazuje nahého nebo zapojeného do sexuálně explicitního chování"
   ],
@@ -148114,6 +149486,13 @@
   "pDE7Gb": [
     "Získat tuto samolepku z"
   ],
+  "pDVleg": [
+    "Celková úspora ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Telefonní číslo je neplatné."
   ],
@@ -148616,6 +149995,9 @@
   ],
   "pWLGnF": [
     "O nedávné aktivitě"
+  ],
+  "pWSgIu": [
+    "Výběrem této platební metody se aktualizuje země/oblast tvého účtu"
   ],
   "pWZvZk": [
     "Toto nahlášení změní ",
@@ -153826,6 +155208,9 @@
   "qwJHjo": [
     "Aplikace"
   ],
+  "qwSlCO": [
+    "Položka ve hře"
+  ],
   "qwfovo": [
     "Vyžaduje ",
     [
@@ -154206,6 +155591,9 @@
   ],
   "r23NoB": [
     "Odebrat z pódia"
+  ],
+  "r29Oel": [
+    "Vzhled avataru"
   ],
   "r2AEw1": [
     "Jestli chceš používat Discord, musíš splňovat minimální požadovaný věk ve své zemi."
@@ -154983,6 +156371,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Přidat novou platební metodu"
   ],
   "rNGQfD": [
     "Sdílet odkaz na úkol"
@@ -162419,6 +163810,9 @@
   "t+gj5V": [
     "Přidej k tomuto pravidlu alespoň jednu akci."
   ],
+  "t+xzd8": [
+    "Tvé předplatné bylo obnoveno!"
+  ],
   "t/IjXY": [
     "Všechny fotky"
   ],
@@ -163090,6 +164484,9 @@
   "tJzB6F": [
     "Zobrazuje se nesprávná hra"
   ],
+  "tK8A/8": [
+    "Pokud chceš použít zůstatek dárkové karty, musíš snížit počet vylepšení."
+  ],
   "tKCltd": [
     "Nitro bylo úspěšně sdíleno"
   ],
@@ -163589,6 +164986,21 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    [
+      8,
+      "$b",
+      [
+        "Šetříš ",
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " z ceny za svůj první rok!"
   ],
   "tVHevX": [
     "Odesláno před ",
@@ -166549,6 +167961,41 @@
   "uCD7qK": [
     "Povolit nebo zakázat klávesové zkratky"
   ],
+  "uCXulJ": [
+    "Darováním na ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " měsíc"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " měsíce"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " ušetříš ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Pěkný tah!"
+  ],
   "uCebZa": [
     "Povolit více odpovědí"
   ],
@@ -168119,6 +169566,9 @@
     "otevřít",
     "visací",
     "zámek"
+  ],
+  "uo9YsP": [
+    "Tato dárková karta už byla uplatněna."
   ],
   "uoQFIp": [
     "Přidat detaily"
@@ -170105,6 +171555,33 @@
   "vcqwCj": [
     "Tvůj problém"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Dokončením tohoto nákupu se tvoje země/oblast aktualizuje na ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". To znamená následující:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Nebudeš moct používat platební metody z jiné země/oblasti\n- Po dobu 90 dnů nebudeš moct znovu změnit svou zemi/oblast"
+      ]
+    ]
+  ],
   "vct4l8": [
     "vylepšení vyprší ",
     [
@@ -171982,6 +173459,44 @@
   ],
   "wCbINr": [
     "Nitro na 3 měsíce"
+  ],
+  "wCkwJf": [
+    "Šetříš ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        " % z ceny"
+      ]
+    ],
+    " ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "svého ",
+          [
+            7
+          ],
+          ". měsíce"
+        ],
+        "other": [
+          "svých prvních ",
+          [
+            7
+          ],
+          " měsíců"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Začít sledovat více streamů"
@@ -180633,6 +182148,9 @@
   "yr9TTf": [
     "Odebrat ze seznamu přání"
   ],
+  "yrk+N6": [
+    "Tvé předplatné je po splatnosti. Zkus zaplatit znovu nebo přidej novou platební metodu, aby se předplatné obnovilo."
+  ],
   "ysbNDc": [
     "Vyhlazování"
   ],
@@ -180736,6 +182254,9 @@
   ],
   "yvMu3S": [
     "Mazání z povrchu zemského"
+  ],
+  "yvUaHi": [
+    "Plus příslušné daně"
   ],
   "yvV5Ye": [
     [

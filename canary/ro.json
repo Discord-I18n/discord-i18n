@@ -1815,6 +1815,9 @@
   "+f0bXQ": [
     "Trimite un mesaj de bun venit aleatoriu atunci când cineva se alătură acestui server."
   ],
+  "+fIPjg": [
+    "Răsfață-te cu Discord Nitro sau explorează Magazinul ca să găsești ceva care să-ți placă la nebunie."
+  ],
   "+fPCTZ": [
     "Asigură-te că nu ai introdus parola sau alte informații sensibile."
   ],
@@ -3372,6 +3375,9 @@
   "/F7Z2y": [
     "Total"
   ],
+  "/FQWfA": [
+    "Sold card cadou"
+  ],
   "/FWKKC": [
     "Îi poți dezvălui oricând"
   ],
@@ -4170,6 +4176,9 @@
   ],
   "/YEoH2": [
     "Acest server este restricționat în funcție de vârstă în regiunea ta. Te-am încadrat într-o grupă de vârstă restricționată. Dacă am greșit, poți reconfirma."
+  ],
+  "/YovOw": [
+    "Obiect colecționabil"
   ],
   "/YuDAs": [
     "Te-ai alăturat"
@@ -6965,6 +6974,37 @@
   "0ZkNDU": [
     "Nu s-a putut elimina tagul"
   ],
+  "0Zl+Xt": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Când cumperi un articol din magazinul de jocuri ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", obții o licență limitată pentru utilizarea acestui articol în jocul indicat. Achiziția nu este rambursabilă. Articolul va fi livrat de dezvoltator direct în joc. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Spune-ne despre experiența ta cu noul aspect al aplicației."
   ],
@@ -8268,6 +8308,9 @@
   ],
   "11e3sB": [
     "Predă lecții, ajută cu temele și învățați împreună."
+  ],
+  "11g67A": [
+    "Următoarea reînnoire"
   ],
   "11oKq+": [
     "Cipru"
@@ -10635,6 +10678,9 @@
   "26oeP8": [
     "Introdu un motiv."
   ],
+  "26tjwd": [
+    "Revendică cardul cadou"
+  ],
   "26uMPL": [
     "Bestial!!"
   ],
@@ -11456,6 +11502,29 @@
   ],
   "2PKrQO": [
     "Încearcă acest stil"
+  ],
+  "2PiTTi": [
+    "Cadou pentru ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Deși ți-ai conectat deja contul Xbox, te rugăm să-l reconectezi pentru a activa noi funcții."
@@ -12475,6 +12544,77 @@
   "2pG5Ga": [
     "Abonează-te"
   ],
+  "2pNIbI": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, achiziționezi un abonament cu reînnoire automată. Ți se va percepe suma de ",
+    [
+      1,
+      "totalDue"
+    ],
+    " astăzi. Când ți se încheie perioada de probă pe ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", ți se va percepe suma de ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    ", plus taxele aplicabile la fiecare ",
+    [
+      1,
+      "interval"
+    ],
+    ", până la anularea abonamentului. Îți vom trimite o notificare înainte să ți se încheie perioada de probă. Poți anula oricând din Setări. Se aplică ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ai întrebări? ",
+    [
+      8,
+      "$link",
+      [
+        "Contactează-ne"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " sau consultă ",
+    [
+      8,
+      "$link",
+      [
+        "Întrebările frecvente despre abonamente"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "S-a setat fundalul funcției Descoperire server"
   ],
@@ -12925,6 +13065,9 @@
   "2zGdAW": [
     "Încearcă Nitro!"
   ],
+  "2zUa6I": [
+    "Abonament"
+  ],
   "2zdDw5": [
     "Dând clic pe „",
     [
@@ -13043,6 +13186,9 @@
   ],
   "30+sih": [
     "Raportări partajate de tine"
+  ],
+  "302Ck/": [
+    "Metoda ta de plată s-a salvat"
   ],
   "302tKP": [
     "Obține articolul"
@@ -15278,6 +15424,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Cod poștal/ZIP"
+  ],
   "3jprCb": [
     "Modificarea nu poate fi procesată pentru că există o plată în așteptare."
   ],
@@ -15289,6 +15438,9 @@
   ],
   "3k4hTU": [
     "Dezactivezi partajarea activităților?"
+  ],
+  "3kMstB": [
+    "Metodele de plată salvate nu corespund țării/regiunii actuale. Adăugarea unei noi metode de plată îți va actualiza țara/regiunea."
   ],
   "3kVEg0": [
     "Dacă pleci, te poți alătura altui abonament de grup după încheierea perioadei de așteptare de ",
@@ -15809,6 +15961,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Cadou de unică folosință"
   ],
   "3x/M9Z": [
     "Această vitrină a fost publicată la ",
@@ -18748,6 +18903,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Următoarea reînnoire ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -19957,6 +20120,9 @@
   "5dX4UM": [
     "Niciun GIF nu corespunde căutării tale."
   ],
+  "5dmUS+": [
+    "Sunt de acord cu livrarea imediată a articolelor digitale cumpărate și înțeleg că îmi pierd dreptul la rambursare, cu excepția cazurilor prevăzute în Politica privind rambursările, după finalizarea acestei achiziții."
+  ],
   "5dxvxs": [
     "Nu știu cum să o realizez"
   ],
@@ -20089,6 +20255,51 @@
   ],
   "5fZHp3": [
     "Trimite invitația"
+  ],
+  "5fbNBX": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Revendicând un articol din ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", obții o licență limitată pentru a folosi acest articol pe Discord. Află mai multe de ",
+    [
+      8,
+      "$link",
+      [
+        "aici"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Articolele revendicate cu Orbs sunt nerambursabile. Articolul va fi livrat de dezvoltator direct în joc. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Vezi descrierea completă"
@@ -21455,6 +21666,14 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    "S-au adăugat ",
+    [
+      1,
+      "price"
+    ],
+    " în contul tău"
   ],
   "66YyBJ": [
     "O decorațiune pentru avatar cu care să-ți faci profilul Discord mai mișto. Păstreaz-o cu Nitro!"
@@ -23844,6 +24063,9 @@
   "6yrpFR": [
     "Schimbă\npictograma"
   ],
+  "6zCzw1": [
+    "A apărut o problemă la adăugarea acestei metode de plată. Încearcă din nou sau folosește o metodă de plată diferită."
+  ],
   "6zFA/T": [
     "Foarte, foarte timpuriu"
   ],
@@ -24528,6 +24750,9 @@
   ],
   "7LL+Fw": [
     "Statele Unite"
+  ],
+  "7LeLN4": [
+    "Perioadă de probă Nitro aplicată"
   ],
   "7LgVmt": [
     "Vezi sfaturi de siguranță"
@@ -25980,6 +26205,9 @@
   "7qbp3B": [
     "...mai multe"
   ],
+  "7r4HPu": [
+    "Confirmă și plătește"
+  ],
   "7r4OKg": [
     "Permite abonaților sincronizați să îți folosească emoticoanele personalizate de pe Twitch în Discord."
   ],
@@ -26041,6 +26269,14 @@
   ],
   "7sW4h1": [
     "Nu s-a găsit niciun utilizator cu acel nume."
+  ],
+  "7sYIBL": [
+    "Dăruind un abonament anual, economisești ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Alegere inspirată!"
   ],
   "7spYft": [
     "Actualizează metoda de plată"
@@ -26848,6 +27084,25 @@
   "8CVUrV": [
     "Probă Nitro gratuită"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Aceasta este o plată unică, valabilă pentru perioada de timp aleasă. Nu te vom factura anual."
   ],
@@ -27163,6 +27418,14 @@
   ],
   "8Joh+p": [
     "Vorbește pe podium"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " de Nitro"
   ],
   "8JzOBn": [
     "Canalele implicite trebuie să aibă setată ",
@@ -28188,6 +28451,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Lunar"
+  ],
   "8gpzp6": [
     "Conţinut ce poate fi descărcat"
   ],
@@ -28229,6 +28495,27 @@
   ],
   "8ihs9i": [
     "Nu s-a putut înregistra urmărirea performanței"
+  ],
+  "8imbq5": [
+    "Stimulare ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA se încheie pe ",
@@ -30067,6 +30354,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " disponibile"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30091,6 +30385,9 @@
   ],
   "9Oq93m": [
     "Membri"
+  ],
+  "9OxfNK": [
+    "Explorează Magazinul"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31463,6 +31760,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Reducere abonament aplicată"
+  ],
   "9yLOND": [
     "Eliminată pe ",
     [
@@ -31572,6 +31872,87 @@
   ],
   "A+pogv": [
     "Vezi rezultatele"
+  ],
+  "A+qfZ+": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, achiziționezi un abonament cu reînnoire automată. Ți se vor percepe ",
+    [
+      1,
+      "totalDue"
+    ],
+    " astăzi și ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " timp de ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Când ți se încheie perioada de probă pe ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", ți se va percepe suma de ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    ", plus taxele aplicabile la fiecare ",
+    [
+      1,
+      "interval"
+    ],
+    ", până la anularea abonamentului. Prețurile se pot modifica. Îți vom trimite o notificare înainte să ți se încheie perioada de probă. Poți anula oricând din Setări. Se aplică ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ai întrebări? ",
+    [
+      8,
+      "$link",
+      [
+        "Contactează-ne"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " sau consultă ",
+    [
+      8,
+      "$link",
+      [
+        "Întrebările frecvente despre abonamente"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Creat pe"
@@ -32314,6 +32695,9 @@
   "AM3mzX": [
     "Fișier"
   ],
+  "AM9XGb": [
+    "Abonament cadou"
+  ],
   "AMHrre": [
     "Trimite-ne feedback"
   ],
@@ -32892,6 +33276,13 @@
   "AcJ4ke": [
     "Setează orele între care adolescentul tău nu poate folosi Discord. Acesta nu va primi notificări și nu va putea accesa Discord în acea perioadă."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " luni"
+  ],
   "AcaNYw": [
     "Vrei ca acest server să fie unic? Deblochează bannerele personalizate pentru server cu ",
     [
@@ -33119,6 +33510,14 @@
   ],
   "AfrvRD": [
     "Descoperă produse din toate categoriile"
+  ],
+  "Afx5yS": [
+    "S-au adăugat ",
+    [
+      1,
+      "price"
+    ],
+    " în contul tău"
   ],
   "AgMngw": [
     "Număr de Orbs: ",
@@ -33965,6 +34364,9 @@
   ],
   "AzkvWe": [
     "Casetă promovată"
+  ],
+  "B+/GvM": [
+    "Introdu codul poștal/ZIP"
   ],
   "B+cbLS": [
     "Treci la modul online?"
@@ -34883,6 +35285,9 @@
   "BLqYQa": [
     "Editează metoda de plată"
   ],
+  "BLu9EI": [
+    "Adaugă o metodă de plată diferită"
+  ],
   "BLuvck": [
     "Trebuie să existe cel puțin ",
     [
@@ -35084,6 +35489,9 @@
   ],
   "BPoc9u": [
     "Deconectează automat utilizatorul de la canalele de voce sau podium"
+  ],
+  "BPzQj4": [
+    "Cumpără"
   ],
   "BQFHXW": [
     "Trebuie să ai cel puțin 18 ani pentru a-ți conecta contul în calitate de tutore"
@@ -35935,6 +36343,42 @@
   "BkVb1X": [
     "Prieteni noi adăugați sau acceptați de copilul tău adolescent"
   ],
+  "BkYev7": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Achiziționând un articol din Magazin, obții o licență limitată pentru a folosi acest articol pe Discord. Află mai multe din secțiunea „Bunuri virtuale” de ",
+    [
+      8,
+      "$link",
+      [
+        "aici"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Această achiziție este nerambursabilă. Articolul va fi disponibil imediat în setările Profilului de utilizator."
+  ],
   "BkZhUI": [
     "Opțiune disponibilă doar pe mobil"
   ],
@@ -36130,6 +36574,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Cod"
+  ],
   "Bn1J+a": [
     "Revendică-ți cadoul"
   ],
@@ -36138,6 +36585,20 @@
   ],
   "BnSq1I": [
     "Deconectat"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Modifică"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37290,6 +37751,37 @@
   "CCU/wn": [
     "În funcție de răspunsurile utilizatorilor, le vei atribui canale și/sau roluri."
   ],
+  "CCVlIb": [
+    "Dând clic pe „Valorifică”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile cardurilor cadou"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " și cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile portofelului"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "CCiFY7": [
     "Ai reînviat."
   ],
@@ -38440,6 +38932,14 @@
   "Chg2zd": [
     "Le permite membrilor să creeze fire accesibile doar pe bază de invitație pe acest canal."
   ],
+  "Chj1Ke": [
+    "Reducerea a fost aplicată până pe ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Le permite link-urilor partajate de membri să arate conținutul încorporat pe canalele de text."
   ],
@@ -39500,6 +40000,33 @@
   ],
   "DDpHZG": [
     "Urmărește. Obține Orbs. Primește recompense."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Finalizarea acestei achiziții îți va actualiza țara/regiunea la ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Asta înseamnă că:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Îți vei pierde soldul existent al cardului cadou\n- Nu vei putea folosi o metodă de plată dintr-o altă țară/regiune\n- Nu vei putea să-ți schimbi din nou țara/regiunea timp de 90 de zile"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Nu s-a găsit nicio permisiune"
@@ -41267,6 +41794,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Deblochezi accesul timpuriu pentru a cumpăra rame din Magazin"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -41977,6 +42507,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Este posibil să achiziționezi o licență limitată pentru a folosi acest articol doar pe serverul creatorului. ",
+    [
+      8,
+      "$b",
+      [
+        "Această achiziție este nerambursabilă."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Adaugă o imagine la linkul de invitație prin stimulare"
   ],
@@ -42341,6 +42900,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Ceva nu a mers bine. Verifică-ți informațiile și încearcă din nou."
   ],
   "EUNgko": [
     "Este activ un mod de microfon iOS non-standard. Dacă preferi să folosești una dintre opțiunile de suprimare a zgomotului oferite de Discord, selectează modul de microfon standard în ",
@@ -44440,6 +45002,9 @@
   "FNVJ4+": [
     "Împodobește-ți profilul cu o decorațiune gratuită pentru avatar!"
   ],
+  "FNijW7": [
+    "Nou abonament anual recurent"
+  ],
   "FNqmmX": [
     "Permite Discord să utilizeze și să proceseze informațiile mele în scopul înțelegerii și îmbunătățirii serviciilor Discord. ",
     [
@@ -44746,6 +45311,9 @@
       []
     ],
     " pentru a începe."
+  ],
+  "FVzt1W": [
+    "Abonament lunar"
   ],
   "FW3Qp/": [
     "Regina pânzelor"
@@ -45139,6 +45707,9 @@
         "pornit microfonul"
       ]
     ]
+  ],
+  "Fjpyfj": [
+    "Promo"
   ],
   "FjrXCi": [
     "Partajează o perioadă de probă de 2 săptămâni cu ",
@@ -45750,6 +46321,35 @@
   ],
   "G0neg7": [
     "Accesibilitate"
+  ],
+  "G0nk6B": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Cumpărând acest articol, obții o licență limitată pentru a utiliza acest articol pe Discord. Această achiziție este oferită de dezvoltatorul acestei aplicații și poate fi utilizată numai cu această aplicație. ",
+    [
+      8,
+      "$b",
+      [
+        "Această achiziție este nerambursabilă."
+      ]
+    ]
   ],
   "G16Wji": [
     "Sincronizarea conexiunii a fost revocată! ",
@@ -46570,6 +47170,9 @@
   ],
   "GGlM3e": [
     "Schimbă doar ieșirea"
+  ],
+  "GGn3pp": [
+    "Detalii abonament"
   ],
   "GGxBdA": [
     "Emoji cu baghetă magică"
@@ -50874,6 +51477,9 @@
     ],
     " a început o discuție vocală de grup."
   ],
+  "HzDn6w": [
+    "Ramă pentru profil"
+  ],
   "Hza+Bu": [
     "Cu Nitro, obții efecte exclusive pentru profil și prețuri speciale în Magazin."
   ],
@@ -51371,6 +51977,37 @@
   ],
   "IAcEEn": [
     "Lasă un bilețel"
+  ],
+  "IAsfR5": [
+    "Bucură-te de ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro timp de ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " zi"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " zile"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " înainte să ți se perceapă vreo plată!"
   ],
   "IAybsG": [
     "economisește ",
@@ -52016,6 +52653,42 @@
   "IOy+I5": [
     "Nu a reușit lansarea activității"
   ],
+  "IP93kX": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Revendicând unui articol din Magazin, obții o licență limitată pentru a folosi acest articol pe Discord. Află mai multe de ",
+    [
+      8,
+      "$link",
+      [
+        "aici"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Articolele obținute cu Orbs sunt nerambursabile."
+  ],
   "IPO2be": [
     "Raportează server-ul — ",
     [
@@ -52143,6 +52816,42 @@
   ],
   "ITUQgh": [
     "Opțiune recomandată pentru serverele care utilizează roluri pentru a verifica credibilitatea membrilor."
+  ],
+  "ITY3j6": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Achiziționând un articol din Magazin, obții o licență limitată pentru a folosi acest articol pe Discord. Află mai multe de ",
+    [
+      8,
+      "$link",
+      [
+        "aici"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Această achiziție este nerambursabilă. Articolul va fi disponibil imediat în setările din Profil utilizator."
   ],
   "ITlV6p": [
     "Conectează-te cu un tutore pentru a-ți păstra accesul la cont"
@@ -54791,6 +55500,9 @@
   "JPI1pf": [
     "Treci la Nitro"
   ],
+  "JPRQ9L": [
+    "Plătește cu Pix"
+  ],
   "JPU0EF": [
     "Selectează nivelurile"
   ],
@@ -55673,6 +56385,42 @@
   "JsBPb8": [
     "Exemple de comunități Discord existente"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " după ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "o lună"
+            ],
+            "=2": [
+              "două luni"
+            ],
+            "=3": [
+              "trei luni"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " luni"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Configurează cât de mult sunet transmite Discord de la microfonul tău. Vorbește pentru a-ți testa microfonul. Dacă bara este plină, Discord îți transmite minunata voce."
   ],
@@ -55840,6 +56588,14 @@
   ],
   "Jz1lXO": [
     "Selectează o opțiune prin care să putem verifica dacă ești chiar tu."
+  ],
+  "Jz6+Oj": [
+    "Sold card cadou (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Obține acces la anumite funcții noi înainte ca ele să fie lansate pentru toată lumea."
@@ -57920,6 +58676,29 @@
     ],
     " a fost retrasă."
   ],
+  "KpnRtO": [
+    "S-a aplicat reducerea pentru ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "Kq7FAS": [
     "Setează canalele implicite pe care le va vedea fiecare membru în lista de canale atunci când se alătură. Membrii pot adăuga și alte canale cu ajutorul întrebărilor de personalizare."
   ],
@@ -58108,6 +58887,9 @@
   ],
   "KuzWUU": [
     "Aspect listă"
+  ],
+  "Kv+vV7": [
+    "Această metodă de plată nu poate fi utilizată în țara/regiunea actuală"
   ],
   "Kv6Z4I": [
     "Sigur"
@@ -59032,6 +59814,29 @@
   ],
   "LHUP9D": [
     "Elimină mesajul din favorite"
+  ],
+  "LHWoqL": [
+    "S-a aplicat reducerea pentru ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " săptămână"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " săptămâni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "LHy5uU": [
     "Obține DLC"
@@ -60434,6 +61239,9 @@
   "LvXy/H": [
     "Bun venit 👋 la o versiune destul de plicticoasă a Magazinului serverului, un nou mod de a le oferi lucruri grozave membrilor tăi și de a câștiga bani. Membrii serverului tău nu pot vedea această filă – o vor putea descoperi doar când îți creezi și publici primul produs!!"
   ],
+  "LvcUx4": [
+    "Reia abonamentul"
+  ],
   "Lw6KXV": [
     "Ai lansat jocul ",
     [
@@ -60827,6 +61635,9 @@
   ],
   "M2iEy3": [
     "Le permite membrilor să vizualizeze acest canal în mod implicit."
+  ],
+  "M2mY1J": [
+    "Anual"
   ],
   "M35zFB": [
     "Mergi la server"
@@ -61817,6 +62628,14 @@
   "MQoVeb": [
     "Stickere personalizate oriunde"
   ],
+  "MR4VnX": [
+    "Se reînnoiește pe ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -61856,6 +62675,13 @@
   ],
   "MS/4U1": [
     "Arhivează nivelul"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " reducere"
   ],
   "MSWjRh": [
     "Obține profiluri personalizate ca acesta ",
@@ -62507,6 +63333,13 @@
   ],
   "Mi3iPI": [
     "Încearcă-le"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    "% REDUCERE"
   ],
   "Mi60fm": [
     "Roagă-ți tutorele să scaneze acest cod"
@@ -63395,6 +64228,9 @@
   "N46WOv": [
     "URL-ul paginii de promovare"
   ],
+  "N4EAHm": [
+    "sau"
+  ],
   "N4ICPb": [
     "Acest DLC necesită ca tu să deții ",
     [
@@ -63759,6 +64595,9 @@
   ],
   "NEFeB0": [
     "Moarte"
+  ],
+  "NEHhLR": [
+    "Abonament anual"
   ],
   "NENZhS": [
     "Ajustează setările"
@@ -66245,6 +67084,30 @@
   "OBCR+p": [
     "Vezi mai multe"
   ],
+  "OBVcgO": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "Abonament pe ",
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          "Abonament pe ",
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "OBp3V3": [
     "GIF, buton"
   ],
@@ -66333,6 +67196,14 @@
   ],
   "ODCYj8": [
     "Le permite membrilor să creeze fire pe care le poate vedea toată lumea de pe un canal."
+  ],
+  "ODKoJd": [
+    "Economisește ",
+    [
+      2,
+      "percent"
+    ],
+    "% cu abonamentul anual"
   ],
   "ODXApH": [
     "Build indisponibil"
@@ -66433,6 +67304,77 @@
   ],
   "OGpGqO": [
     "Listare"
+  ],
+  "OH1Evm": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, achiziționezi un abonament cu reînnoire automată. Ți se va percepe suma de ",
+    [
+      1,
+      "totalDue"
+    ],
+    " astăzi, apoi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus taxele aplicabile la fiecare ",
+    [
+      1,
+      "interval"
+    ],
+    " începând cu ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", până la anularea abonamentului. Prețurile se pot modifica. Poți anula abonamentul oricând din Setări. Se aplică ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ai întrebări? ",
+    [
+      8,
+      "$link",
+      [
+        "Contactează-ne"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " sau consultă ",
+    [
+      8,
+      "$link",
+      [
+        "Întrebările frecvente despre abonamente"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Partajare"
@@ -66980,6 +67922,33 @@
   ],
   "OVN9la": [
     "Vrei să folosești un avatar, banner și profil diferit?"
+  ],
+  "OVhTE7": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Când cumperi un articol din magazinul de jocuri ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", obții o licență limitată pentru utilizarea acestui articol în jocul indicat. Achiziția nu este rambursabilă. Articolul va fi livrat de dezvoltator direct în joc."
   ],
   "OVlNGT": [
     "culoarea de rol\n",
@@ -68721,6 +69690,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Aceasta este o plată unică, valabilă pentru perioada de timp aleasă. Nu te vom factura lunar. Cadourile Nitro nu sunt rambursabile după ce au fost valorificate de destinatar."
+  ],
   "P5dSl0": [
     "Culoarea umbrei"
   ],
@@ -70014,6 +71005,9 @@
     ],
     "?"
   ],
+  "PZDPvQ": [
+    "Codul cardului cadou este obligatoriu"
+  ],
   "PZLnuD": [
     "Activitatea s-a terminat.\nVrei să pornești o nouă activitate?"
   ],
@@ -70869,6 +71863,29 @@
       ]
     ],
     " a promovat un mesaj în Acasă"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " de Nitro"
   ],
   "PygWIS": [
     "Se reconectează"
@@ -72151,6 +73168,39 @@
   "QXMYAb": [
     "Simboluri"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " după ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " lună"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " luni"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Cum a mers ",
     [
@@ -73317,6 +74367,9 @@
   ],
   "R0VpSW": [
     "Primește o notificare atunci când un server din care faci parte urmează să aibă un eveniment."
+  ],
+  "R0cZsM": [
+    "Totalul de astăzi"
   ],
   "R0h4pE": [
     [
@@ -78056,6 +79109,9 @@
   "Sx8Ezi": [
     "Folosește un canal podium!"
   ],
+  "SxKq52": [
+    "Următoarea plată anuală recurentă"
+  ],
   "SxLn1y": [
     "Acesta e destinul meu"
   ],
@@ -80508,6 +81564,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Următoarea reînnoire"
+  ],
   "TtA5rK": [
     "Folosirea aplicațiilor externe"
   ],
@@ -80926,6 +81985,13 @@
   ],
   "U26WX+": [
     "Ups! Nu poți accepta acest cadou deoarece abonamentul tău are o factură deschisă."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " acum"
   ],
   "U2JFHZ": [
     "nume_emoji"
@@ -82341,6 +83407,9 @@
   "UdNuqi": [
     "Lumea neoanelor"
   ],
+  "UdSuwf": [
+    "Pentru această achiziție este necesară metoda de plată asociată abonamentului."
+  ],
   "UdXO8P": [
     "Ups! Nu poți revendica ",
     [
@@ -83478,6 +84547,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Va trebui să folosești aplicația pentru desktop sau web pentru a face o achiziție folosind soldul cardului cadou."
+  ],
   "V3Gri+": [
     "Franceză"
   ],
@@ -84178,6 +85250,9 @@
   ],
   "VJRr3Y": [
     "Intră în puzzle-uri solo, jocuri de petrecere, competiții și nu numai."
+  ],
+  "VJXTzd": [
+    "Răsfață-te cu ceva din Magazin sau folosește-l pentru orice altceva pe Discord."
   ],
   "VJcK41": [
     "Sondajul lui ",
@@ -86764,6 +87839,9 @@
   "WJisip": [
     "Atinge pentru a seta o imagine în miniatură"
   ],
+  "WJmme7": [
+    "Această metodă de plată nu poate fi folosită pentru această tranzacție."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -88184,6 +89262,9 @@
   "WmfZHZ": [
     "Copiază linkul misiunii"
   ],
+  "WmjxYl": [
+    "Zi"
+  ],
   "WmsPis": [
     "Ce activitate partajez"
   ],
@@ -88376,6 +89457,9 @@
   ],
   "Wr4RIX": [
     "Încorporările sunt dezactivate în acest canal."
+  ],
+  "WrFWOV": [
+    "Următoarea plată lunară recurentă"
   ],
   "WrQD/Y": [
     "Ignori pe ",
@@ -88610,6 +89694,29 @@
   ],
   "WzC9s6": [
     "Vreau ca întregul server să fie exclusiv"
+  ],
+  "WzJTZI": [
+    "S-a aplicat reducerea pentru ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " zi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "WzM5YA": [
     "nba"
@@ -89151,6 +90258,9 @@
   ],
   "XBrJT6": [
     "Sunet pentru apel primit"
+  ],
+  "XBtSMa": [
+    "Sunt de acord cu livrarea imediată"
   ],
   "XBwns+": [
     "Server necunoscut"
@@ -90027,6 +91137,22 @@
   "XWkJoi": [
     "Creare automată clipuri"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Recompensă gratuită selectată"
+        ],
+        "other": [
+          "Recompense gratuite selectate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Nicio limită"
   ],
@@ -90841,6 +91967,9 @@
   "Xrcmjk": [
     "Neutru"
   ],
+  "Xrg8aC": [
+    "An"
+  ],
   "XrpYIG": [
     "Numai aceste roluri pot folosi Whiteboardul. Lasă câmpul gol ca să-l poată folosi toată lumea. Modificările se aplică imediat."
   ],
@@ -91603,6 +92732,9 @@
         "Poți să-ți reactivezi abonamentul oricând."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Am selectat o metodă de plată care corespunde țării/regiunii tale."
   ],
   "Y6qWLc": [
     "Trimite un mesaj pe ",
@@ -92415,6 +93547,9 @@
   "YTvOUx": [
     "Adaugă pe Discord și în toate jocurile asociate acestui cont"
   ],
+  "YUNJJa": [
+    "Economisești cu Discord Nitro"
+  ],
   "YUSOKl": [
     "Vrei să blochezi acest cont?"
   ],
@@ -92713,6 +93848,9 @@
   ],
   "YZd5rw": [
     "Acum ai avantaje geniale pe durata întregului an. Să te bucuri de ele!"
+  ],
+  "YZePWx": [
+    "Înțeleg"
   ],
   "YZiJbh": [
     "Încercăm să detectăm un cont Discord din browser-ul tău implicit. Dă-ne doar o secundă..."
@@ -94360,6 +95498,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " de Nitro Basic"
+  ],
   "ZAbzbA": [
     "Tocmai i-ai dat ",
     [
@@ -95204,6 +96350,29 @@
   ],
   "ZQ37tH": [
     "Membrilor le este atribuit automat acest rol. Nu poate fi atribuit sau eliminat manual."
+  ],
+  "ZQLDzk": [
+    "S-a aplicat reducerea pentru ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "ZQakPR": [
     "Discordul tău"
@@ -96157,6 +97326,9 @@
   "ZnkeXs": [
     "Cheie eliminată!"
   ],
+  "ZnoRKt": [
+    "Lună"
+  ],
   "ZnqyZ2": [
     "Vezi toate avantajele Nitro"
   ],
@@ -96706,6 +97878,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Total datorat"
   ],
   "Zxk1OF": [
     "Canale de șabloane"
@@ -98599,6 +99774,9 @@
   ],
   "ajkYcF": [
     "Următorul"
+  ],
+  "ajn5LL": [
+    "Plată nouă lunară recurentă"
   ],
   "ajzh8S": [
     "Vizibilitatea profilului tău este setată la ",
@@ -101638,6 +102816,77 @@
   "bbUIWp": [
     "Invită-ți contactele să discute prin mesaje"
   ],
+  "bbgJdE": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, achiziționezi un abonament cu reînnoire automată. Ți se va percepe suma de ",
+    [
+      1,
+      "totalDue"
+    ],
+    " astăzi, apoi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus taxele aplicabile la fiecare ",
+    [
+      1,
+      "interval"
+    ],
+    " începând cu ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", până la anularea abonamentului. Această achiziție este oferită de dezvoltatorul acestei aplicații și poate fi utilizată numai cu această aplicație. Prețurile se pot modifica. Poți anula abonamentul oricând din Setări. Se aplică ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Ai întrebări? ",
+    [
+      8,
+      "$link",
+      [
+        "Contactează-ne"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " sau consultă ",
+    [
+      8,
+      "$link",
+      [
+        "Întrebările frecvente despre abonamente"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Verificare instalare — ",
     [
@@ -101695,6 +102944,9 @@
   ],
   "bdBmqy": [
     "Activitate"
+  ],
+  "bdF0KJ": [
+    "Ajustare card cadou"
   ],
   "bdMG43": [
     "Bombă plasată"
@@ -105163,6 +106415,9 @@
   "cbtPXy": [
     "Tema a fost actualizată."
   ],
+  "ccWIdu": [
+    "Soldul tău trebuie să acopere totalul de plată"
+  ],
   "cd": [
     "blu-ray",
     "calculator",
@@ -107279,6 +108534,47 @@
       "device"
     ]
   ],
+  "cwuBkH": [
+    "Dând clic pe „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, ești de acord cu ",
+    [
+      8,
+      "$link",
+      [
+        "Condițiile de prestare a serviciilor plătite"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Revendicând un articol din ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", obții o licență limitată pentru a folosi acest articol pe Discord. Află mai multe de ",
+    [
+      8,
+      "$link",
+      [
+        "aici"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Articolele revendicate cu Orbs sunt nerambursabile. Articolul va fi livrat de dezvoltator direct în joc."
+  ],
   "cxFiDC": [
     "Limbaj trivial"
   ],
@@ -108630,6 +109926,9 @@
   ],
   "dRycVz": [
     "Renunță la anulare acum"
+  ],
+  "dSPkHo": [
+    "Introdu codul"
   ],
   "dSRTMB": [
     "Trimite mesajele directe suspecte într-un inbox separat pentru spam. Membrii le pot raporta pentru înșelătorie sau le pot muta înapoi în inbox."
@@ -111853,6 +113152,9 @@
   "eTVbtx": [
     "Categorie nouă"
   ],
+  "eTYAvF": [
+    "Efect pentru profil"
+  ],
   "eTmN5a": [
     "Nu se poate elimina din cauza accesului administratorului."
   ],
@@ -112775,6 +114077,9 @@
   ],
   "eoXe0r": [
     "Sortează după: cele mai noi"
+  ],
+  "eoXh7B": [
+    "Rezumatul comenzii"
   ],
   "eontIh": [
     "Deblochează toate stickerele cu ",
@@ -114326,6 +115631,16 @@
     ],
     " nu a putut fi adăugată."
   ],
+  "fJnl1h": [
+    "Nu vezi fereastra de plată? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Redeschide-o"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Dacă renunți, poți crea o nouă cerere pornind de la un link de invitație."
   ],
@@ -115467,6 +116782,9 @@
     "penaj",
     "ușor",
     "zbor"
+  ],
+  "febr+T": [
+    "Sold card cadou"
   ],
   "feet": [
     "labe",
@@ -119257,6 +120575,25 @@
   "gvXH+a": [
     "Nu poți gestiona abonamentul"
   ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "an"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " ani"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "gvgh9L": [
     "S-a actualizat ieri"
   ],
@@ -121734,6 +123071,9 @@
     "plantă",
     "plantă aromatică"
   ],
+  "hewwdA": [
+    "Achiziție în aplicație"
+  ],
   "hf6YOY": [
     "Primești o reducere cu abonamentul ",
     [
@@ -121970,6 +123310,9 @@
   "hjlZZf": [
     "Poate dura până la 24 de ore până când modificarea intră în vigoare."
   ],
+  "hjsn+s": [
+    "Metodă de plată actuală"
+  ],
   "hjvcLO": [
     "Boosturi pentru server"
   ],
@@ -122071,6 +123414,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Valorifică"
   ],
   "hnbagF": [
     "Primește un boost la împlinirea primei luni de Nitro."
@@ -122935,6 +124281,13 @@
   "i338qh": [
     "Pătură"
   ],
+  "i3Q/6S": [
+    "Total ajustări ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Te rugăm să te autentifici pentru a retrimite link-ul."
   ],
@@ -123182,6 +124535,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Revendică cardul cadou"
   ],
   "iBUzS5": [
     "Elimină locație"
@@ -123725,6 +125081,25 @@
   "iPdFOt": [
     "Actualizează permisiuni comenzi"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "zi"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " zile"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Îmbunătățește-ți experiența Discord"
   ],
@@ -124218,6 +125593,9 @@
   ],
   "iZRkC/": [
     "Necunoscut"
+  ],
+  "iZe9Wy": [
+    "Produs"
   ],
   "iZf+eD": [
     "Serverul a fost prea greu de înțeles"
@@ -126231,6 +127609,9 @@
       "maxUploadPremium"
     ]
   ],
+  "jM8/71": [
+    "Pachet"
+  ],
   "jMFSQV": [
     "Oricine de pe server îți poate trimite mesaje"
   ],
@@ -127928,6 +129309,9 @@
   ],
   "jxIxJL": [
     "Pentru a ignora acest modal, ține apăsată tasta Shift în timp ce elimini membrii."
+  ],
+  "jxUJkZ": [
+    "Nouă sumă recurentă"
   ],
   "jxXMEz": [
     "Trimite o solicitare a datelor"
@@ -130394,6 +131778,17 @@
   ],
   "ky6syM": [
     "Campion asasinat"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Limite de timp de utilizare"
@@ -134664,6 +136059,9 @@
   "mWAbK4": [
     "Le permite membrilor să folosească emoji-uri de pe alte servere pe aceste canale, dacă aceștia sunt membri Discord Nitro."
   ],
+  "mWL08+": [
+    "Perioadă de probă gratuită"
+  ],
   "mWO+ys": [
     "Ia măsuri"
   ],
@@ -134710,6 +136108,24 @@
   ],
   "mXkYyW": [
     "Ignorarea nu face ce aș vrea eu să facă"
+  ],
+  "mXvZt2": [
+    "Abonare la ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Nu te poți împrieteni cu tine"
@@ -139726,6 +141142,13 @@
   "nrpA5E": [
     "redirecționare"
   ],
+  "nsG1jw": [
+    "Economisești ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Dacă anulezi, ",
     [
@@ -141665,6 +143088,9 @@
   "of440F": [
     "Cererea de prietenie a fost anulată."
   ],
+  "of9bom": [
+    "Etichetă pentru nume"
+  ],
   "ofQnNQ": [
     "Conținut care te înfățișează pe tine sau pe cineva pe care ești autorizat(ă) să îl reprezinți, nud(ă) sau implicat(ă) în comportament sexual explicit"
   ],
@@ -143533,6 +144959,13 @@
   "pDE7Gb": [
     "Primește acest sticker de pe"
   ],
+  "pDVleg": [
+    "Economii totale ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Numărul de telefon nu este valid."
   ],
@@ -144018,6 +145451,9 @@
   ],
   "pWLGnF": [
     "Despre activitatea recentă"
+  ],
+  "pWSgIu": [
+    "Selectarea acestei metode de plată va actualiza țara/regiunea contului"
   ],
   "pWZvZk": [
     "Raportul ăsta schimbă complet ",
@@ -148822,6 +150258,9 @@
   "qwJHjo": [
     "Aplicație"
   ],
+  "qwSlCO": [
+    "Articol în joc"
+  ],
   "qwfovo": [
     "Necesită ",
     [
@@ -149204,6 +150643,9 @@
   ],
   "r23NoB": [
     "Elimină de pe podium"
+  ],
+  "r29Oel": [
+    "Decorațiune pentru avatar"
   ],
   "r2AEw1": [
     "Trebuie să ai vârsta minimă necesară în țara ta pentru a folosi Discord."
@@ -150000,6 +151442,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Adaugă o nouă metodă de plată"
   ],
   "rNGQfD": [
     "Partajează linkul misiunii"
@@ -156778,6 +158223,9 @@
   "t+gj5V": [
     "Adaugă cel puțin o acțiune la această regulă."
   ],
+  "t+xzd8": [
+    "Abonamentul tău a fost restabilit!"
+  ],
   "t/IjXY": [
     "Toate pozele"
   ],
@@ -157462,6 +158910,9 @@
   "tJzB6F": [
     "Este afișat jocul greșit"
   ],
+  "tK8A/8": [
+    "Va trebui să reduci numărul de boost-uri pentru a putea folosi soldul cardului cadou."
+  ],
   "tKCltd": [
     "Nitro partajat cu succes"
   ],
@@ -157935,6 +159386,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Ai ",
+    [
+      8,
+      "$b",
+      [
+        "o reducere de ",
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " pentru primul an!"
   ],
   "tVHevX": [
     "Trimisă acum ",
@@ -160637,6 +162104,35 @@
   "uCD7qK": [
     "Activează sau dezactivează o scurtătură"
   ],
+  "uCXulJ": [
+    "Dacă dăruiești ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", economisești ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Excelent!"
+  ],
   "uCebZa": [
     "Permite răspunsuri multiple"
   ],
@@ -162202,6 +163698,9 @@
     "descuiat",
     "lacăt",
     "spart"
+  ],
+  "uo9YsP": [
+    "Acest card cadou a fost deja utilizat."
   ],
   "uoQFIp": [
     "Adaugă detalii"
@@ -164116,6 +165615,33 @@
   "vcqwCj": [
     "Problema ta"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Finalizarea acestei achiziții îți va actualiza țara/regiunea la ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Asta înseamnă că:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Nu vei putea folosi o metodă de plată dintr-o altă țară/regiune\n- Nu vei putea să-ți schimbi din nou țara/regiunea timp de 90 de zile"
+      ]
+    ]
+  ],
   "vct4l8": [
     "boost(uri) expiră pe ",
     [
@@ -165928,6 +167454,35 @@
   ],
   "wCbINr": [
     "Nitro 3 luni"
+  ],
+  "wCkwJf": [
+    "Economisești **",
+    [
+      1,
+      "percentOff"
+    ],
+    "% ** timp de ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " lună"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " luni"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Începe să urmărești stream-uri multiple"
@@ -174063,6 +175618,9 @@
   "yr9TTf": [
     "Elimină din lista de dorințe"
   ],
+  "yrk+N6": [
+    "Abonamentul tău nu a fost achitat la timp. Reîncearcă plata sau adaugă o nouă metodă de plată pentru a-l relua."
+  ],
   "ysbNDc": [
     "Se vaporizează"
   ],
@@ -174162,6 +175720,9 @@
   ],
   "yvMu3S": [
     "Se anihilează"
+  ],
+  "yvUaHi": [
+    "Plus taxele aplicabile"
   ],
   "yvV5Ye": [
     [

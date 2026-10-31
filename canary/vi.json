@@ -1616,6 +1616,9 @@
   "+f0bXQ": [
     "Gửi một tin nhắn chào mừng đến những người mới tham gia vào máy chủ này."
   ],
+  "+fIPjg": [
+    "Tự thưởng cho bản thân Nitro hoặc khám phá Cửa Hàng để tìm thứ gì đó bạn yêu thích."
+  ],
   "+fPCTZ": [
     "Hãy đảm bảo là bạn không nhập mật khẩu hay bất kỳ thông tin nhạy cảm nào."
   ],
@@ -3059,6 +3062,9 @@
   "/F7Z2y": [
     "Tổng"
   ],
+  "/FQWfA": [
+    "Số Dư Thẻ Quà Tặng"
+  ],
   "/FWKKC": [
     "Bạn có thể hủy việc ẩn họ bất cứ lúc nào"
   ],
@@ -3750,6 +3756,9 @@
   ],
   "/YEoH2": [
     "Máy chủ này bị giới hạn độ tuổi ở khu vực của bạn. Chúng tôi xác định bạn thuộc nhóm tuổi bị hạn chế. Nếu chúng tôi nhầm, bạn có thể xác nhận lại."
+  ],
+  "/YovOw": [
+    "Đồ Sưu Tầm"
   ],
   "/YuDAs": [
     "Đã tham gia"
@@ -6227,6 +6236,37 @@
   "0ZkNDU": [
     "Gỡ bỏ thẻ thất bại"
   ],
+  "0Zl+Xt": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Mua một vật phẩm từ Cửa hàng trò chơi ",
+    [
+      1,
+      "applicationName"
+    ],
+    " nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trong trò chơi được liệt kê. Giao dịch này không được hoàn tiền. Vật phẩm này sẽ được nhà phát triển giao trực tiếp trong trò chơi. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Vui lòng cho chúng tôi biết trải nghiệm của bạn với bố cục ứng dụng mới."
   ],
@@ -7417,6 +7457,9 @@
   ],
   "11e3sB": [
     "Giảng dạy, hỗ trợ làm bài tập về nhà và cùng nhau học."
+  ],
+  "11g67A": [
+    "Lần Gia Hạn Tiếp Theo"
   ],
   "11oKq+": [
     "Cyprus"
@@ -9671,6 +9714,9 @@
   "26oeP8": [
     "Nhập lý do."
   ],
+  "26tjwd": [
+    "Đổi Thẻ Quà Tặng"
+  ],
   "26uMPL": [
     "Chất Lừ Luôn!!"
   ],
@@ -10433,6 +10479,29 @@
   ],
   "2PKrQO": [
     "Thử diện mạo này"
+  ],
+  "2PiTTi": [
+    "Quà tặng cho ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Mặc dù trước đó bạn đã kết nối tài khoản Xbox của mình, vui lòng kết nối lại để mở các tính năng mới."
@@ -11399,6 +11468,77 @@
   "2pG5Ga": [
     "Đăng ký"
   ],
+  "2pNIbI": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay. Khi gói dùng thử kết thúc vào ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", bạn sẽ bị tính phí ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần cho đến khi bạn hủy gói đăng ký. Mức giá có thể thay đổi. Chúng tôi sẽ gửi thông báo nhắc nhở cho bạn trước khi thời gian dùng thử kết thúc. Hủy bất kỳ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
+  ],
   "2pds6p": [
     "Cài đặt hình nền Khám Phá Máy Chủ"
   ],
@@ -11774,6 +11914,9 @@
   "2zGdAW": [
     "Dùng thử Nitro ngay!"
   ],
+  "2zUa6I": [
+    "Gói Đăng Ký"
+  ],
   "2zdDw5": [
     "Bằng cách nhấp vào \"",
     [
@@ -11880,6 +12023,9 @@
   ],
   "30+sih": [
     "Báo cáo được bạn chia sẻ"
+  ],
+  "302Ck/": [
+    "Phương thức thanh toán của bạn đã được lưu"
   ],
   "302tKP": [
     "Nhận vật phẩm"
@@ -13899,6 +14045,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "ZIP/Mã Thư Tín"
+  ],
   "3jprCb": [
     "Không thể xử lý thay đổi vì có khoản thanh toán đang chờ."
   ],
@@ -13910,6 +14059,9 @@
   ],
   "3k4hTU": [
     "Tắt Chia Sẻ Hoạt Động?"
+  ],
+  "3kMstB": [
+    "Các phương thức thanh toán đã lưu của bạn không khớp với Quốc Gia/Khu Vực hiện tại. Việc thêm một phương thức mới sẽ cập nhật Quốc Gia/Khu Vực của bạn."
   ],
   "3kVEg0": [
     "Nếu rời đi, bạn có thể tham gia một gói nhóm khác sau khi thời gian chờ ",
@@ -14350,6 +14502,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Quà Tặng Một Lần"
   ],
   "3x/M9Z": [
     "Giao diện cửa hàng này được phát hành ",
@@ -14954,6 +15109,37 @@
   ],
   "4EGMWL": [
     "Đóng Stream"
+  ],
+  "4EZ0L7": [
+    "Khi nhấn vào một tùy chọn mua hàng bên dưới, bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Mua một vật phẩm từ Cửa Hàng nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trên Discord. Tìm hiểu thêm trong mục 'Hàng Hóa Ảo' ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Đây là giao dịch mua không thể hoàn tiền. Vật phẩm sẽ xuất hiện ngay lập tức trong cài đặt Hồ Sơ Người Dùng."
   ],
   "4Egr5O": [
     "Mở khóa mọi emoji và sử dụng ở mọi nơi với Nitro."
@@ -17029,6 +17215,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Lần gia hạn tiếp theo ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -18098,6 +18292,9 @@
   "5dX4UM": [
     "Không có ảnh GIF nào phù hợp với tìm kiếm của bạn."
   ],
+  "5dmUS+": [
+    "Tôi đồng ý với việc giao hàng ngay lập tức cho giao dịch mua hàng số của mình và xác nhận rằng tôi mất quyền hoàn tiền, trừ khi được quy định trong Chính Sách Hoàn Tiền, sau khi giao dịch mua này đã hoàn tất."
+  ],
   "5dxvxs": [
     "Tôi không biết cách hoàn thành nhiệm vụ"
   ],
@@ -18199,6 +18396,51 @@
   ],
   "5fZHp3": [
     "Gửi Lời Mời"
+  ],
+  "5fbNBX": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc nhận một vật phẩm từ ",
+    [
+      1,
+      "applicationName"
+    ],
+    " nghĩa là bạn đang nhận một giấy phép giới hạn để sử dụng vật phẩm này trên Discord, tìm hiểu thêm ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Thao tác đổi thưởng Orb sẽ không được hoàn tiền. Vật phẩm này sẽ được nhà phát triển gửi trực tiếp trong trò chơi. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Xem mô tả đầy đủ"
@@ -19448,6 +19690,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " đã được thêm vào tài khoản của bạn"
   ],
   "66YyBJ": [
     "Một trang trí ảnh đại diện để chải chuốt lại hồ sơ Discord của bạn. Giữ lại với Nitro nhé!"
@@ -21602,6 +21851,9 @@
   "6yrpFR": [
     "Thay đổi\nBiểu tượng"
   ],
+  "6zCzw1": [
+    "Đã xảy ra sự cố khi thêm phương thức thanh toán này. Hãy thử lại hoặc dùng một phương thức thanh toán khác."
+  ],
   "6zFA/T": [
     "Rất, rất sớm"
   ],
@@ -22254,6 +22506,9 @@
   ],
   "7LL+Fw": [
     "Hoa Kỳ"
+  ],
+  "7LeLN4": [
+    "Đã áp dụng Gói Dùng Thử Nitro"
   ],
   "7LgVmt": [
     "Xem lại các gợi ý an toàn"
@@ -23578,6 +23833,9 @@
   "7qbp3B": [
     "...xem thêm"
   ],
+  "7r4HPu": [
+    "Xác Nhận & Thanh Toán"
+  ],
   "7r4OKg": [
     "Cho phép người theo dõi đã đồng bộ sử dụng Biểu Tượng Cảm Xúc Twitch Tùy Chỉnh của bạn trên Discord."
   ],
@@ -23624,6 +23882,14 @@
   ],
   "7sW4h1": [
     "Không thể tìm thấy người có tên đó."
+  ],
+  "7sYIBL": [
+    "Tặng 1 năm giúp bạn tiết kiệm ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Quyết định sáng suốt!"
   ],
   "7spYft": [
     "Cập nhật phương thức thanh toán"
@@ -24386,6 +24652,13 @@
   "8CVUrV": [
     "Dùng thử Nitro miễn phí"
   ],
+  "8CYJ8Y": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng"
+  ],
   "8CjY/q": [
     "Đây sẽ là dạng thanh toán một lần tùy theo thời gian tùy chọn. Bạn sẽ không phải thanh toán mỗi năm."
   ],
@@ -24641,6 +24914,14 @@
   ],
   "8Joh+p": [
     "Nói chuyện trên Sân khấu"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro"
   ],
   "8JzOBn": [
     "Kênh Mặc Định cần ",
@@ -25571,6 +25852,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Hằng tháng"
+  ],
   "8gpzp6": [
     "Nội dung có thể tải về được"
   ],
@@ -25612,6 +25896,27 @@
   ],
   "8ihs9i": [
     "Thất bại khi thu vết tích về hiệu năng"
+  ],
+  "8imbq5": [
+    "Đang Nâng Cấp ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "Giai đoạn BETA kết thúc vào ",
@@ -27279,6 +27584,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    "Còn lại ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "9NqwWZ": [
     [
       1,
@@ -27303,6 +27615,9 @@
   ],
   "9Oq93m": [
     "Thành viên"
+  ],
+  "9OxfNK": [
+    "Khám phá Cửa Hàng"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -28585,6 +28900,9 @@
     ],
     " giây/lần."
   ],
+  "9yHcmL": [
+    "Đã áp dụng Ưu Đãi Đăng Ký"
+  ],
   "9yLOND": [
     "Đã xóa vào ",
     [
@@ -28694,6 +29012,87 @@
   ],
   "A+pogv": [
     "Xem Kết Quả"
+  ],
+  "A+qfZ+": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay và ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " trong ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Khi gói dùng thử kết thúc vào ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", bạn sẽ bị tính phí ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần cho đến khi bạn hủy gói đăng ký. Mức giá có thể thay đổi. Chúng tôi sẽ gửi thông báo nhắc nhở cho bạn trước khi thời gian dùng thử kết thúc. Hủy bất kỳ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
   ],
   "A//N4k": [
     "Được tạo vào"
@@ -29394,6 +29793,9 @@
   "AM3mzX": [
     "Tệp"
   ],
+  "AM9XGb": [
+    "Quà Tặng Đăng Ký"
+  ],
   "AMHrre": [
     "Gửi Phản Hồi cho chúng tôi"
   ],
@@ -29928,6 +30330,13 @@
   "AcJ4ke": [
     "Thiết lập khung giờ khi thanh thiếu niên của bạn không thể sử dụng Discord. Họ sẽ không nhận được thông báo và không thể truy cập Discord trong suốt thời gian này."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Tháng"
+  ],
   "AcaNYw": [
     "Bạn có muốn máy chủ này trở nên độc nhất vô nhị? Hãy mở khóa biểu ngữ máy chủ tùy chỉnh với ",
     [
@@ -30078,6 +30487,13 @@
   ],
   "AfrvRD": [
     "Mua tất cả"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " đã được thêm vào tài khoản của bạn"
   ],
   "AgMngw": [
     "Số dư Orb: ",
@@ -30811,6 +31227,9 @@
   ],
   "AzkvWe": [
     "Ô nổi bật"
+  ],
+  "B+/GvM": [
+    "Nhập mã ZIP/Mã Thư Tín"
   ],
   "B+cbLS": [
     "Chuyển sang Trực tuyến?"
@@ -31683,6 +32102,9 @@
   "BLqYQa": [
     "Thay đổi Phương thức Thanh toán"
   ],
+  "BLu9EI": [
+    "Thêm một phương thức thanh toán khác"
+  ],
   "BLuvck": [
     "Cần có ít nhất ",
     [
@@ -31730,6 +32152,14 @@
   ],
   "BMTj28": [
     "Đang chơi"
+  ],
+  "BMVyQO": [
+    "Thanh toán ",
+    [
+      1,
+      "amount"
+    ],
+    " còn lại trong một bước. Chúng tôi sẽ lưu phương thức thanh toán của bạn cho lần sau."
   ],
   "BMlbE7": [
     "Đơn đăng ký này đã bị thu hồi."
@@ -31854,6 +32284,9 @@
   ],
   "BPoc9u": [
     "Tự động ngắt kết nối với kênh thoại hoặc kênh sân khấu"
+  ],
+  "BPzQj4": [
+    "Mua"
   ],
   "BQFHXW": [
     "Bạn phải từ 18 tuổi trở lên để trở thành người giám hộ được kết nối"
@@ -32654,6 +33087,42 @@
   "BkVb1X": [
     "Bạn bè mới mà con/em của bạn đã thêm hoặc chấp nhận"
   ],
+  "BkYev7": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Mua một vật phẩm từ Cửa Hàng nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trên Discord. Tìm hiểu thêm trong mục 'Hàng Hóa Ảo' ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Đây là giao dịch mua không thể hoàn tiền. Vật phẩm sẽ xuất hiện ngay lập tức trong cài đặt Hồ Sơ Người Dùng."
+  ],
   "BkZhUI": [
     "Chỉ Có Trên Di Động"
   ],
@@ -32815,6 +33284,9 @@
     ],
     " lệnh hủy đang chờ xử lý)"
   ],
+  "Bn/CZQ": [
+    "Mã"
+  ],
   "Bn1J+a": [
     "Quy đổi quà tặng của bạn"
   ],
@@ -32823,6 +33295,20 @@
   ],
   "BnSq1I": [
     "Chưa Kết Nối"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Chỉnh sửa"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -33833,6 +34319,37 @@
   ],
   "CCU/wn": [
     "Dựa trên phản hồi của mọi người, bạn sẽ chỉ định họ vào các kênh và/hoặc vai trò."
+  ],
+  "CCVlIb": [
+    "Bằng cách nhấp vào 'Quy Đổi', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Thẻ Quà Tặng"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " và ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Ví"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Bạn đã hồi sinh."
@@ -34891,6 +35408,14 @@
   "Chg2zd": [
     "Cho phép thành viên được tạo chủ đề theo chỉ được mời trong kênh này."
   ],
+  "Chj1Ke": [
+    "Ưu đãi được áp dụng đến ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Cho phép hiển thị nội dung nhúng của liên kết do thành viên chia sẻ trong các kênh chat."
   ],
@@ -35900,6 +36425,33 @@
   ],
   "DDpHZG": [
     "Xem. Kiếm Orbs. Nhận Thưởng."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Hoàn tất giao dịch mua này sẽ cập nhật Quốc Gia/Khu Vực của bạn thành ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Điều này có nghĩa là:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Bạn sẽ mất số dư thẻ quà tặng hiện có của bạn\n- Bạn sẽ không thể sử dụng một phương thức thanh toán từ một Quốc Gia/Khu Vực khác\n- Bạn sẽ không thể thay đổi Quốc Gia/Khu Vực của mình một lần nữa trong 90 ngày"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Không tìm thấy quyền nào"
@@ -37597,6 +38149,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Bạn đang mở khóa Quyền Truy Cập Sớm để mua Khung trong Cửa Hàng"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -38183,6 +38738,35 @@
     ],
     " người khác"
   ],
+  "EOOWpo": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Bạn có thể mua giấy phép giới hạn để chỉ sử dụng vật phẩm này trong máy chủ của người sáng tạo. ",
+    [
+      8,
+      "$b",
+      [
+        "Đây là giao dịch mua không được hoàn tiền."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Thêm hình ảnh vào liên kết mời với Nâng Cấp"
   ],
@@ -38505,6 +39089,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Đã xảy ra lỗi. Kiểm tra thông tin của bạn và thử lại."
   ],
   "EUNgko": [
     "Chế độ microphone iOS không tiêu chuẩn đang hoạt động. Nếu bạn muốn dùng một trong các tùy chọn lọc tạp âm của Discord, hãy chọn chế độ microphone tiêu chuẩn trong ",
@@ -40408,6 +40995,9 @@
   "FNVJ4+": [
     "Trang trí ảnh đại diện miễn phí cho hồ sơ của bạn!"
   ],
+  "FNijW7": [
+    "Gói Định Kỳ Hằng Năm Mới"
+  ],
   "FNqmmX": [
     "Cho phép Discord sử dụng và xử lý thông tin của tôi để hiểu và cải thiện các dịch vụ của Discord. ",
     [
@@ -40700,6 +41290,9 @@
       []
     ],
     " để bắt đầu."
+  ],
+  "FVzt1W": [
+    "Gói tháng"
   ],
   "FW3Qp/": [
     "Đu Đưa Thôi"
@@ -41078,6 +41671,9 @@
     ],
     " cho họ"
   ],
+  "Fjpyfj": [
+    "Khuyến Mãi"
+  ],
   "FjrXCi": [
     "Chia sẻ gói dùng thử 2 tuần với tối đa ",
     [
@@ -41279,6 +41875,72 @@
       "intervalCount"
     ],
     " tháng/lần cho đến khi bạn hủy đăng ký. Mức giá dự tính thay đổi sẽ được thông báo cho bạn. Tuy nhiên, bạn có thể hủy bất kỳ lúc nào tại trang Cài Đặt của mình!"
+  ],
+  "FqlTCu": [
+    "Khi nhấn vào một tùy chọn mua hàng bên dưới, bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay, sau đó là ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần bắt đầu từ ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " cho đến khi bạn hủy gói đăng ký. Mức giá có thể thay đổi. Hủy bất cứ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
   ],
   "Fqqbhg": [
     "Liên kết này dẫn đến một người dùng mà bạn không có quyền truy cập."
@@ -41661,6 +42323,35 @@
   ],
   "G0neg7": [
     "Trợ Năng"
+  ],
+  "G0nk6B": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc mua vật phẩm này đồng nghĩa bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trên Discord. Giao dịch mua này do nhà phát triển ứng dụng này cung cấp và chỉ có thể sử dụng trong ứng dụng này. ",
+    [
+      8,
+      "$b",
+      [
+        "Giao dịch mua này là giao dịch không được hoàn tiền."
+      ]
+    ]
   ],
   "G16Wji": [
     "Kết nối đồng bộ đã bị thu hồi! ",
@@ -42406,6 +43097,9 @@
   ],
   "GGlM3e": [
     "Chỉ đổi đầu ra"
+  ],
+  "GGn3pp": [
+    "Thông tin đăng ký"
   ],
   "GGxBdA": [
     "Emoji Đũa Phép"
@@ -46301,6 +46995,9 @@
     ],
     " đã bắt đầu một buổi trò chuyện thoại."
   ],
+  "HzDn6w": [
+    "Khung Hồ Sơ"
+  ],
   "Hza+Bu": [
     "Nhận Hiệu ứng hồ sơ độc quyền và ưu đãi giá dành cho thành viên đặc biệt tại Cửa hàng với Nitro."
   ],
@@ -46776,6 +47473,14 @@
   ],
   "IAcEEn": [
     "Để lại Ghi chú"
+  ],
+  "IAsfR5": [
+    "Tận hưởng **Nitro trong ",
+    [
+      2,
+      "daysCount"
+    ],
+    " ngày trước khi bị tính phí!"
   ],
   "IAybsG": [
     "tiết kiệm ",
@@ -47328,6 +48033,42 @@
   "IOy+I5": [
     "Không thể khởi chạy hoạt động"
   ],
+  "IP93kX": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc nhận một vật phẩm từ Cửa Hàng nghĩa là bạn đang nhận một giấy phép giới hạn để sử dụng vật phẩm này trên Discord, tìm hiểu thêm ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Thao tác đổi thưởng Orb sẽ không được hoàn tiền."
+  ],
   "IPO2be": [
     "Máy Chủ Báo Cáo – ",
     [
@@ -47439,6 +48180,42 @@
   ],
   "ITUQgh": [
     "Tùy chọn khuyên dùng cho các máy chủ phân quyền cho các thành viên ủy quyền."
+  ],
+  "ITY3j6": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc mua một vật phẩm từ Cửa Hàng nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trên Discord, tìm hiểu thêm ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Đây là giao dịch mua không được hoàn tiền. Vật phẩm sẽ xuất hiện ngay lập tức trong cài đặt hồ sơ người dùng."
   ],
   "ITlV6p": [
     "Kết nối với người giám hộ để giữ quyền truy cập vào tài khoản của bạn"
@@ -49778,6 +50555,9 @@
   "JPI1pf": [
     "Tham gia Nitro"
   ],
+  "JPRQ9L": [
+    "Thanh toán bằng Pix"
+  ],
   "JPU0EF": [
     "Chọn Bậc"
   ],
@@ -50616,6 +51396,39 @@
   "JsBPb8": [
     "Ví dụ về các cộng đồng Discord hiện có"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " sau ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "=2": [
+              "hai tháng"
+            ],
+            "=3": [
+              "ba tháng"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " tháng"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Kiểm soát lượng âm thanh Discord truyền tải từ micrô của bạn. Hãy nói để kiểm tra micrô của bạn — nếu thanh đo đầy, Discord đang truyền tải giọng nói tuyệt vời của bạn."
   ],
@@ -50781,6 +51594,14 @@
   ],
   "Jz1lXO": [
     "Chọn một phương thức để xác minh bạn có phải chính chủ hay không."
+  ],
+  "Jz6+Oj": [
+    "Số Dư Thẻ Quà Tặng (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Trải nghiệm các tính năng mới nhất định trước thời điểm phát hành."
@@ -52630,6 +53451,14 @@
     ],
     " đã được thu hồi."
   ],
+  "KpnRtO": [
+    "Đã áp dụng ưu đãi ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " năm"
+  ],
   "Kq7FAS": [
     "Thiết lập các kênh mặc định mà mọi thành viên sẽ thấy trong danh sách kênh của mình khi tham gia. Các thành viên có thể thêm vào nhiều kênh khác bằng cách sử dụng Câu Hỏi Tùy Chỉnh."
   ],
@@ -52771,6 +53600,9 @@
   ],
   "KuzWUU": [
     "Hiển Thị Danh Sách"
+  ],
+  "Kv+vV7": [
+    "Phương thức thanh toán này không thể được sử dụng trong Quốc Gia/Khu Vực hiện tại của bạn"
   ],
   "Kv6Z4I": [
     "An toàn"
@@ -53596,6 +54428,14 @@
   ],
   "LHUP9D": [
     "Xóa Đánh Dấu"
+  ],
+  "LHWoqL": [
+    "Đã áp dụng ưu đãi ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " tuần"
   ],
   "LHy5uU": [
     "Nhận DLC"
@@ -54869,6 +55709,9 @@
   "LvXy/H": [
     "Chào mừng 👋 đã đến với một phiên bản khá buồn tẻ của Cửa Hàng Máy Chủ, một phương thức mới để đem tới những quyền lợi hấp dẫn cho các thành viên và kiếm tiền từ chúng. Các thành viên của bạn sẽ không thể thấy thẻ này — cho đến khi bạn tạo và phát hành sản phẩm đầu tiên!!"
   ],
+  "LvcUx4": [
+    "Khôi phục đăng ký"
+  ],
   "Lw6KXV": [
     "Bạn đã khởi động ",
     [
@@ -55253,6 +56096,9 @@
   ],
   "M2iEy3": [
     "Cho phép thành viên xem được kênh này theo mặc định."
+  ],
+  "M2mY1J": [
+    "Hằng năm"
   ],
   "M35zFB": [
     "Đi tới máy chủ"
@@ -56207,6 +57053,14 @@
   "MQoVeb": [
     "Sticker tùy chỉnh ở mọi nơi"
   ],
+  "MR4VnX": [
+    "Gia hạn vào ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -56233,6 +57087,13 @@
   ],
   "MS/4U1": [
     "Lưu trữ Bậc"
+  ],
+  "MSB4E4": [
+    "Giảm giá ",
+    [
+      1,
+      "amountOrPercentOffText"
+    ]
   ],
   "MSWjRh": [
     "Nhận các cấu hình tùy chỉnh như thế này ",
@@ -56877,6 +57738,14 @@
   ],
   "Mi3iPI": [
     "Tới thử ngay"
+  ],
+  "Mi5BH/": [
+    "GIẢM GIÁ ",
+    [
+      2,
+      "percentOff"
+    ],
+    "%"
   ],
   "Mi60fm": [
     "Hãy để người giám hộ của bạn quét mã QR này"
@@ -57753,6 +58622,9 @@
   "N46WOv": [
     "URL Trang Quảng Bá của bạn"
   ],
+  "N4EAHm": [
+    "hoặc"
+  ],
   "N4ICPb": [
     "DLC này yêu cầu bạn sở hữu ",
     [
@@ -58085,6 +58957,9 @@
   ],
   "NEFeB0": [
     "Chết"
+  ],
+  "NEHhLR": [
+    "Gói năm"
   ],
   "NENZhS": [
     "Điều chỉnh cài đặt"
@@ -58725,6 +59600,9 @@
       ]
     ],
     " đã cập nhật cài đặt đơn đăng ký thành viên"
+  ],
+  "NUNycr": [
+    "một tùy chọn mua hàng bên dưới"
   ],
   "NUkcpF": [
     "Bạn có emoji tùy chỉnh, tải lên tệp tin có dung lượng lớn hơn, và nhiều tính năng khác với giá ",
@@ -60332,6 +61210,14 @@
   "OBCR+p": [
     "Xem thêm"
   ],
+  "OBVcgO": [
+    "Gói ",
+    [
+      1,
+      "intervalCount"
+    ],
+    " Tháng"
+  ],
   "OBp3V3": [
     "GIF, nút"
   ],
@@ -60404,6 +61290,14 @@
   ],
   "ODCYj8": [
     "Cho phép thành viên được tạo chủ đề mà mọi người trong kênh đều có thể xem."
+  ],
+  "ODKoJd": [
+    "Tiết kiệm ",
+    [
+      2,
+      "percent"
+    ],
+    "% với gói năm"
   ],
   "ODXApH": [
     "Không có phiên bản nào"
@@ -60483,6 +61377,77 @@
   ],
   "OGpGqO": [
     "Danh sách"
+  ],
+  "OH1Evm": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay, sau đó là ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần bắt đầu từ ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " cho đến khi bạn hủy gói đăng ký. Mức giá có thể thay đổi. Hủy bất cứ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
   ],
   "OH6ADf": [
     "Chia sẻ"
@@ -61007,6 +61972,33 @@
   ],
   "OVN9la": [
     "Muốn sử dụng ảnh đại diện, biểu ngữ và tiểu sử khác sao?"
+  ],
+  "OVhTE7": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Mua một vật phẩm từ Cửa hàng trò chơi ",
+    [
+      1,
+      "applicationName"
+    ],
+    " nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trong trò chơi được liệt kê. Giao dịch này không được hoàn tiền. Vật phẩm này sẽ được nhà phát triển giao trực tiếp trong trò chơi."
   ],
   "OVlNGT": [
     "màu sắc vai trò\n",
@@ -62638,6 +63630,28 @@
     ],
     " người"
   ],
+  "P5KfYx": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Đây sẽ là khoản phí một lần cho khoảng thời gian đã chọn. Bạn sẽ không bị lập hóa đơn hàng tháng. Không thể hoàn tiền cho quà tặng Nitro sau khi người nhận đã quy đổi."
+  ],
   "P5dSl0": [
     "Màu bóng đổ"
   ],
@@ -63819,6 +64833,9 @@
     ],
     "?"
   ],
+  "PZDPvQ": [
+    "Cần có mã thẻ quà tặng"
+  ],
   "PZLnuD": [
     "Hoạt động đã kết thúc.\nBắt đầu một hoạt động mới?"
   ],
@@ -64619,6 +65636,13 @@
       ]
     ],
     " đã làm nổi một tin nhắn trên Trang chủ"
+  ],
+  "PyJC0V": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng Nitro"
   ],
   "PygWIS": [
     "Đang kết nối lại"
@@ -65791,6 +66815,24 @@
   "QXMYAb": [
     "Biểu tượng"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " sau ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "intervalCount"
+        ],
+        " tháng"
+      ]
+    ]
+  ],
   "QXYwoD": [
     [
       1,
@@ -66893,6 +67935,9 @@
   "R0VpSW": [
     "Nhận thông báo khi máy chủ bạn tham gia sắp có sự kiện."
   ],
+  "R0cZsM": [
+    "Tổng Hôm Nay"
+  ],
   "R0h4pE": [
     [
       2,
@@ -67181,6 +68226,82 @@
   ],
   "R852HS": [
     "Kỷ niệm Discord mới!"
+  ],
+  "R85gcN": [
+    "Khi nhấn vào một tùy chọn mua hàng bên dưới, bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay và ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " trong ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Khi gói dùng thử kết thúc vào ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", bạn sẽ bị tính phí ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần cho đến khi bạn hủy gói đăng ký. Mức giá có thể thay đổi. Chúng tôi sẽ gửi thông báo nhắc nhở cho bạn trước khi thời gian dùng thử kết thúc. Hủy bất kỳ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
   ],
   "R87Y2K": [
     "Tác vụ này sẽ được lên lịch là từ ",
@@ -71118,6 +72239,9 @@
   "Sx8Ezi": [
     "Hãy thử sử dụng kênh Sân khấu!"
   ],
+  "SxKq52": [
+    "Gói Định Kỳ Hằng Năm Tiếp Theo"
+  ],
   "SxLn1y": [
     "Sẽ trở thành người giỏi nhất"
   ],
@@ -73324,6 +74448,9 @@
     ],
     " thành viên đã chọn"
   ],
+  "Tt3O81": [
+    "Lần làm mới tiếp theo"
+  ],
   "TtA5rK": [
     "Dùng ứng dụng mở rộng"
   ],
@@ -73742,6 +74869,13 @@
   ],
   "U26WX+": [
     "Thật đáng tiếc, bạn không thể nhận món quà này vì gói đăng ký của bạn vẫn chưa được thanh toán."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " lúc này"
   ],
   "U2JFHZ": [
     "tên_emoji"
@@ -75084,6 +76218,9 @@
   "UdNuqi": [
     "Vũ Trụ Neon"
   ],
+  "UdSuwf": [
+    "Giao dịch mua này yêu cầu phương thức thanh toán đăng ký của bạn."
+  ],
   "UdXO8P": [
     "Ối! Bạn không thể nhận ",
     [
@@ -76185,6 +77322,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Bạn sẽ cần dùng ứng dụng trên máy tính hoặc trang web để mua hàng bằng số dư thẻ quà tặng của bạn."
+  ],
   "V3Gri+": [
     "Tiếng Pháp"
   ],
@@ -76871,6 +78011,9 @@
   ],
   "VJRr3Y": [
     "Tham gia giải các câu đố một mình, trò chơi tổ đội, đối đầu cạnh tranh, v.v."
+  ],
+  "VJXTzd": [
+    "Tự thưởng cho bản thân một thứ gì đó trong Cửa Hàng, hoặc dùng nó cho bất cứ thứ gì khác trên Discord."
   ],
   "VJcK41": [
     "Khảo sát ",
@@ -79207,6 +80350,9 @@
   "WJisip": [
     "Nhấn để đặt hình thu nhỏ"
   ],
+  "WJmme7": [
+    "Phương thức thanh toán này không thể dùng cho giao dịch này."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -80446,6 +81592,9 @@
   "WmfZHZ": [
     "Sao Chép Liên Kết Nhiệm Vụ"
   ],
+  "WmjxYl": [
+    "Ngày"
+  ],
   "WmsPis": [
     "Hoạt Động Nào Tôi Chia Sẻ"
   ],
@@ -80638,6 +81787,9 @@
   ],
   "Wr4RIX": [
     "Nội dung nhúng bị vô hiệu trong kênh này."
+  ],
+  "WrFWOV": [
+    "Gói Định Kỳ Hằng Tháng Tiếp Theo"
   ],
   "WrQD/Y": [
     "Bỏ qua ",
@@ -80853,6 +82005,14 @@
   ],
   "WzC9s6": [
     "Tôi muốn biến toàn bộ máy chủ của mình thành độc quyền"
+  ],
+  "WzJTZI": [
+    "Đã áp dụng ưu đãi ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " ngày"
   ],
   "WzM5YA": [
     "nba"
@@ -81366,6 +82526,9 @@
   ],
   "XBrJT6": [
     "Chuông Đến"
+  ],
+  "XBtSMa": [
+    "Tôi đồng ý với việc giao hàng ngay lập tức"
   ],
   "XBwns+": [
     "Máy chủ chưa xác định"
@@ -82176,6 +83339,9 @@
   "XWkJoi": [
     "Autoclip"
   ],
+  "XWo+Bp": [
+    "Đã chọn phần thưởng miễn phí"
+  ],
   "XX5ciX": [
     "Không giới hạn"
   ],
@@ -82903,6 +84069,9 @@
   "Xrcmjk": [
     "Trung lập"
   ],
+  "Xrg8aC": [
+    "Năm"
+  ],
   "XrpYIG": [
     "Chỉ những vai trò này mới có thể dùng whiteboard. Để trống để mọi người đều có thể dùng. Thay đổi áp dụng ngay lập tức."
   ],
@@ -83601,6 +84770,9 @@
         "Bạn có thể tiếp tục đăng ký bất cứ lúc nào."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Chúng tôi đã chọn một phương thức thanh toán khớp với Quốc Gia/Khu Vực của bạn."
   ],
   "Y6qWLc": [
     "Gửi tin nhắn trên ",
@@ -84341,6 +85513,9 @@
   "YTvOUx": [
     "Thêm bạn bè vào Discord và vào tất cả các trò chơi được liên kết với tài khoản này"
   ],
+  "YUNJJa": [
+    "Tiết kiệm với Nitro"
+  ],
   "YUSOKl": [
     "Bạn muốn chặntài khoản này?"
   ],
@@ -84624,6 +85799,9 @@
   ],
   "YZd5rw": [
     "Giờ bạn đã có những đặc quyền ngọt ngào trong suốt cả năm. Tận hưởng đi người ơi!"
+  ],
+  "YZePWx": [
+    "Tôi đã hiểu"
   ],
   "YZiJbh": [
     "Đang cố tìm tài khoản Discord từ trình duyệt mặc định của bạn. Chờ chúng tôi một xíu..."
@@ -86152,6 +87330,14 @@
     ],
     " của chúng tôi."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Cơ Bản"
+  ],
   "ZAbzbA": [
     "Bạn vừa đánh một đòn ",
     [
@@ -86876,6 +88062,14 @@
   ],
   "ZQ37tH": [
     "Các thành viên được tự động chỉ định vai trò này. Không thể chỉ định hoặc gỡ bỏ vai trò khỏi các thành viên bằng phương thức thủ công."
+  ],
+  "ZQLDzk": [
+    "Đã áp dụng ưu đãi ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng"
   ],
   "ZQakPR": [
     "Discord của Bạn"
@@ -87771,6 +88965,9 @@
   "ZnkeXs": [
     "Đã xóa mã!"
   ],
+  "ZnoRKt": [
+    "Tháng"
+  ],
   "ZnqyZ2": [
     "Xem tất cả đặc quyền Nitro"
   ],
@@ -88256,6 +89453,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Tổng Tiền Phải Trả"
   ],
   "Zxk1OF": [
     "Kênh Mẫu"
@@ -90028,6 +91228,9 @@
   ],
   "ajkYcF": [
     "Tiếp theo"
+  ],
+  "ajn5LL": [
+    "Gói Định Kỳ Hằng Tháng Mới"
   ],
   "ajzh8S": [
     "Khả năng hiển thị hồ sơ của bạn được đặt là ",
@@ -92596,6 +93799,77 @@
   "bbUIWp": [
     "Mời các liên hệ trong danh bạ nhắn tin"
   ],
+  "bbgJdE": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn sẽ tham gia một gói đăng ký định kỳ. Bạn sẽ bị tính phí ",
+    [
+      1,
+      "totalDue"
+    ],
+    " hôm nay, sau đó là ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " cộng thêm thuế áp dụng mỗi ",
+    [
+      1,
+      "interval"
+    ],
+    "/lần bắt đầu từ ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " cho đến khi bạn hủy gói đăng ký. Giao dịch mua này do nhà phát triển ứng dụng này cung cấp và chỉ có thể sử dụng trong ứng dụng này. Mức giá có thể thay đổi. Hủy bất cứ lúc nào trong mục Cài Đặt của bạn. Có áp dụng ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Có thắc mắc? ",
+    [
+      8,
+      "$link",
+      [
+        "Liên hệ với chúng tôi"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " hoặc xem ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ về Gói Đăng Ký"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    " của chúng tôi."
+  ],
   "bbilvq": [
     "Xác nhận cài đặt – ",
     [
@@ -92653,6 +93927,9 @@
   ],
   "bdBmqy": [
     "Hoạt động"
+  ],
+  "bdF0KJ": [
+    "Điều chỉnh Thẻ quà tặng"
   ],
   "bdMG43": [
     "Bom đã đặt"
@@ -95626,6 +96903,9 @@
   "cbtPXy": [
     "Nền đã được cập nhật."
   ],
+  "ccWIdu": [
+    "Số dư của bạn phải đủ để thanh toán tổng số tiền cần trả"
+  ],
   "cd": [
     "cd",
     "đĩa",
@@ -97234,11 +98514,55 @@
     ],
     " lại nữa"
   ],
+  "cwuBkH": [
+    "Khi nhấn vào '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc nhận một vật phẩm từ ",
+    [
+      1,
+      "applicationName"
+    ],
+    " nghĩa là bạn đang nhận một giấy phép giới hạn để sử dụng vật phẩm này trên Discord, tìm hiểu thêm ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Thao tác đổi thưởng Orb sẽ không được hoàn tiền. Vật phẩm này sẽ được nhà phát triển gửi trực tiếp trong trò chơi."
+  ],
   "cxFiDC": [
     "Ngôn ngữ nhạy cảm"
   ],
   "cxSpOM": [
     "Xem trước Stream"
+  ],
+  "cxwOJN": [
+    "Tổng của bạn đã được cập nhật"
   ],
   "cxy+zn": [
     "Hãy thêm bạn bè và trò chuyện trực tiếp với họ"
@@ -98423,6 +99747,9 @@
   ],
   "dRycVz": [
     "Ngừng Hủy Ngay"
+  ],
+  "dSPkHo": [
+    "Nhập mã"
   ],
   "dSRTMB": [
     "Chuyển các DM khả nghi vào một Hộp thư Spam riêng biệt. Thành viên có thể gửi báo cáo lừa đảo hoặc chuyển tin về lại Hộp thư đến."
@@ -101262,6 +102589,9 @@
   "eTVbtx": [
     "Danh Mục Mới"
   ],
+  "eTYAvF": [
+    "Hiệu Ứng Hồ Sơ"
+  ],
   "eTmN5a": [
     "Không thể xóa do quyền truy cập của Quản Trị Viên."
   ],
@@ -102098,6 +103428,9 @@
   ],
   "eoXe0r": [
     "Sắp xếp theo: Mới nhất"
+  ],
+  "eoXh7B": [
+    "Tóm tắt đơn hàng"
   ],
   "eontIh": [
     "Mở khóa mọi sticker với ",
@@ -103436,6 +104769,16 @@
     ],
     "."
   ],
+  "fJnl1h": [
+    "Không thấy cửa sổ thanh toán? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Mở lại"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Nếu từ bỏ, bạn có thể bắt đầu một đơn đăng ký mới từ liên kết mời."
   ],
@@ -104416,6 +105759,9 @@
     "chuyến bay",
     "lông chim",
     "nhẹ"
+  ],
+  "febr+T": [
+    "Số dư thẻ quà tặng"
   ],
   "feet": [
     "bàn chân",
@@ -106632,6 +107978,9 @@
   "gVDdRn": [
     "Tham gia DM Nhóm"
   ],
+  "gVM8va": [
+    "Thanh toán trong một bước. Chúng tôi sẽ lưu lại cho lần sau."
+  ],
   "gVWG+6": [
     "Gia Đình Tôi"
   ],
@@ -107786,6 +109135,13 @@
   ],
   "gvXH+a": [
     "Bạn không thể quản lý gói đăng ký"
+  ],
+  "gvaGGA": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " năm"
   ],
   "gvgh9L": [
     "Đã cập nhật hôm qua"
@@ -109951,6 +111307,9 @@
     "lá cây",
     "thảo mộc"
   ],
+  "hewwdA": [
+    "Mua Trong Ứng Dụng"
+  ],
   "hf6YOY": [
     "Bạn nhận được một lần giảm giá từ gói đăng ký ",
     [
@@ -110161,6 +111520,9 @@
   "hjlZZf": [
     "Nó có thể mất đến 24 giờ để có hiệu lực."
   ],
+  "hjsn+s": [
+    "Phương thức thanh toán hiện tại"
+  ],
   "hjvcLO": [
     "Nâng Cấp Máy Chủ"
   ],
@@ -110262,6 +111624,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Lấy lại"
   ],
   "hnbagF": [
     "Nhận một Nâng Cấp khi bạn mua xong Nitro tháng đầu tiên."
@@ -111008,6 +112373,13 @@
   "i338qh": [
     "Chăn"
   ],
+  "i3Q/6S": [
+    "Tổng điều chỉnh ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Vui lòng đăng nhập để gửi lại link."
   ],
@@ -111209,6 +112581,9 @@
   ],
   "iB5Gqe": [
     "Tùy Chọn Mới"
+  ],
+  "iBFPMf": [
+    "Đổi thẻ quà tặng"
   ],
   "iBUzS5": [
     "Xóa Thư Mục"
@@ -111675,6 +113050,13 @@
   "iPdFOt": [
     "Cập nhật quyền sử dụng lệnh"
   ],
+  "iPorlt": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " ngày"
+  ],
   "iPvfUq": [
     "Nâng cấp trải nghiệm Discord của bạn"
   ],
@@ -112064,6 +113446,9 @@
   ],
   "iZRkC/": [
     "Không xác định"
+  ],
+  "iZe9Wy": [
+    "Sản Phẩm"
   ],
   "iZf+eD": [
     "Máy chủ quá khó để tìm"
@@ -113927,6 +115312,9 @@
     ],
     " giới hạn tệp"
   ],
+  "jM8/71": [
+    "Gói"
+  ],
   "jMFSQV": [
     "Bất kỳ ai trong máy chủ cũng có thể gửi tin nhắn cho bạn"
   ],
@@ -115392,6 +116780,9 @@
   ],
   "jxIxJL": [
     "Giữ phím shift khi xóa thành viên để bỏ qua cửa sổ này."
+  ],
+  "jxUJkZ": [
+    "Số Tiền Gói Định Kỳ Mới"
   ],
   "jxXMEz": [
     "Gửi Yêu Cầu Dữ Liệu"
@@ -117577,6 +118968,17 @@
   ],
   "ky6syM": [
     "Hạ Gục Tướng"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Giới hạn thời gian màn hình"
@@ -121501,6 +122903,9 @@
   "mWAbK4": [
     "Cho phép thành viên sử dụng emoji của máy chủ khác trong các kênh này, nếu thành viên đó có đăng ký Nitro."
   ],
+  "mWL08+": [
+    "Dùng thử miễn phí"
+  ],
   "mWO+ys": [
     "Xử lý"
   ],
@@ -121548,6 +122953,24 @@
   ],
   "mXkYyW": [
     "Thao tác bỏ qua không đáp ứng được mong muốn của tôi"
+  ],
+  "mXvZt2": [
+    "Đang đăng ký ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Bạn không thể kết bạn với chính mình"
@@ -125866,6 +127289,13 @@
   "nrpA5E": [
     "chuyển tiếp"
   ],
+  "nsG1jw": [
+    "Tiết Kiệm ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Nếu hủy, ",
     [
@@ -127713,6 +129143,9 @@
   "of440F": [
     "Yêu cầu kết bạn đã bị hủy."
   ],
+  "of9bom": [
+    "Bảng Tên"
+  ],
   "ofQnNQ": [
     "Nội dung hiển thị bạn (hoặc người mà bạn được ủy quyền đại diện) khỏa thân hoặc tham gia vào hành vi khiêu dâm rõ ràng"
   ],
@@ -129300,6 +130733,13 @@
   "pDE7Gb": [
     "Nhận sticker này từ"
   ],
+  "pDVleg": [
+    "Tổng tiền tiết kiệm ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Số điện thoại không hợp lệ."
   ],
@@ -129754,6 +131194,9 @@
   ],
   "pWLGnF": [
     "Các Hoạt Động Gần Đây"
+  ],
+  "pWSgIu": [
+    "Việc chọn phương thức thanh toán này sẽ cập nhật Quốc Gia/Khu Vực tài khoản của bạn"
   ],
   "pWZvZk": [
     "Báo cáo đó đúng là đã ",
@@ -133941,6 +135384,9 @@
   "qwJHjo": [
     "Ứng dụng"
   ],
+  "qwSlCO": [
+    "Vật phẩm trong trò chơi"
+  ],
   "qwfovo": [
     "Yêu cầu ",
     [
@@ -134256,6 +135702,9 @@
   ],
   "r23NoB": [
     "Gỡ bỏ khỏi Sân Khấu"
+  ],
+  "r29Oel": [
+    "Trang Trí Ảnh Đại Diện"
   ],
   "r2AEw1": [
     "Bạn phải đáp ứng yêu cầu về độ tuổi tối thiểu ở quốc gia của mình để sử dụng Discord."
@@ -134922,6 +136371,9 @@
   ],
   "rN7cuX": [
     "Hoa Anh Đào"
+  ],
+  "rNF29q": [
+    "Thêm phương thức thanh toán mới"
   ],
   "rNGQfD": [
     "Chia sẻ liên kết nhiệm vụ"
@@ -140475,6 +141927,9 @@
   "t+gj5V": [
     "Vui lòng thêm ít nhất một hành động vào quy tắc này."
   ],
+  "t+xzd8": [
+    "Gói đăng ký của bạn đã được khôi phục!"
+  ],
   "t/IjXY": [
     "Tất Cả Ảnh"
   ],
@@ -141141,6 +142596,9 @@
   "tJzB6F": [
     "Hiển Thị Sai Trò Chơi"
   ],
+  "tK8A/8": [
+    "Bạn sẽ cần giảm số lượng Nâng Cấp để sử dụng số dư thẻ quà tặng của mình."
+  ],
   "tKCltd": [
     "Chia sẻ Nitro thành công"
   ],
@@ -141573,6 +143031,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Bạn đang ",
+    [
+      8,
+      "$b",
+      [
+        "tiết kiệm ",
+        [
+          1,
+          "percentOff"
+        ],
+        "% cho"
+      ]
+    ],
+    " năm đầu tiên của bạn!"
   ],
   "tVHevX": [
     "Đã gửi ",
@@ -143911,6 +145385,19 @@
   "uCD7qK": [
     "Bật hoặc tắt phím nóng"
   ],
+  "uCXulJ": [
+    "Tặng ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng giúp bạn tiết kiệm ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Thật thông thái!"
+  ],
   "uCebZa": [
     "Cho phép nhiều đáp án"
   ],
@@ -145338,6 +146825,9 @@
   "unlock": [
     "khóa",
     "mở"
+  ],
+  "uo9YsP": [
+    "Thẻ quà tặng này đã được đổi thưởng rồi."
   ],
   "uoQFIp": [
     "Thêm chi tiết"
@@ -147050,6 +148540,33 @@
   "vcqwCj": [
     "Vấn Đề Của Bạn"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Hoàn tất giao dịch mua này sẽ cập nhật Quốc Gia/Khu Vực của bạn thành ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Điều này có nghĩa là:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Bạn sẽ không thể sử dụng một phương thức thanh toán từ một Quốc Gia/Khu Vực khác\n- Bạn sẽ không thể thay đổi Quốc Gia/Khu Vực của mình một lần nữa trong 90 ngày"
+      ]
+    ]
+  ],
   "vct4l8": [
     "nâng cấp sẽ hết hạn ",
     [
@@ -148724,6 +150241,26 @@
   ],
   "wCbINr": [
     "Gói Nitro 3 Tháng"
+  ],
+  "wCkwJf": [
+    "Bạn sẽ tiết kiệm được ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " cho ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " tháng đầu tiên!"
   ],
   "wCrzut": [
     "Bắt đầu xem nhiều stream khác nhau"
@@ -155913,6 +157450,9 @@
   "yr9TTf": [
     "Xóa khỏi Danh Sách Mong Muốn"
   ],
+  "yrk+N6": [
+    "Gói đăng ký của bạn đã quá hạn. Hãy thử thanh toán lại hoặc thêm phương thức thanh toán mới để khôi phục nó."
+  ],
   "ysbNDc": [
     "Bốc hơi"
   ],
@@ -156002,6 +157542,9 @@
   ],
   "yvMu3S": [
     "Phá hủy"
+  ],
+  "yvUaHi": [
+    "Cộng với thuế áp dụng"
   ],
   "yvV5Ye": [
     [
@@ -158211,6 +159754,37 @@
   ],
   "zstmkn": [
     "Kết xuất Markdown"
+  ],
+  "ztU/1y": [
+    "Khi nhấn vào một tùy chọn mua hàng bên dưới, bạn đồng ý với ",
+    [
+      8,
+      "$link",
+      [
+        "Điều Khoản Dịch Vụ Trả Phí"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Việc mua một vật phẩm từ Cửa Hàng nghĩa là bạn đang mua một giấy phép giới hạn để sử dụng vật phẩm này trên Discord, tìm hiểu thêm ",
+    [
+      8,
+      "$link",
+      [
+        "tại đây"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Đây là giao dịch mua không được hoàn tiền. Vật phẩm sẽ xuất hiện ngay lập tức trong cài đặt hồ sơ người dùng."
   ],
   "ztXW8V": [
     "Sử dụng ",

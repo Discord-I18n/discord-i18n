@@ -1804,6 +1804,9 @@
   "+f0bXQ": [
     "Stuur een willekeurig welkomstbericht als iemand lid wordt van deze server."
   ],
+  "+fIPjg": [
+    "Trakteer jezelf op Nitro of tik iets op de kop in de winkel."
+  ],
   "+fPCTZ": [
     "Controleer of je geen wachtwoord of andere gevoelige informatie hebt ingevoerd."
   ],
@@ -3345,6 +3348,9 @@
   "/F7Z2y": [
     "Totaal"
   ],
+  "/FQWfA": [
+    "Saldo cadeaukaart"
+  ],
   "/FWKKC": [
     "Je kunt ze op elk moment weer zichtbaar maken"
   ],
@@ -4145,6 +4151,9 @@
   ],
   "/YEoH2": [
     "Deze server heeft een leeftijdsbeperking in jouw regio. We hebben vastgesteld dat je tot een leeftijdsgroep behoort waarvoor restricties gelden. Als we een fout hebben gemaakt, kun je je leeftijd opnieuw bevestigen."
+  ],
+  "/YovOw": [
+    "Verzamelvoorwerp"
   ],
   "/YuDAs": [
     "Lid geworden"
@@ -6960,6 +6969,37 @@
   "0ZkNDU": [
     "Verwijderen tag mislukt"
   ],
+  "0Zl+Xt": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item koopt in de gamewinkel van ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", koop je in feite een beperkte licentie om dit item in de genoemde game te gebruiken. Deze aankoop komt niet in aanmerking voor restitutie. Dit item wordt door de ontwikkelaar rechtstreeks in de game geleverd. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Vertel over je ervaring met de nieuwe lay-out van de app."
   ],
@@ -8262,6 +8302,9 @@
   ],
   "11e3sB": [
     "Geef lezingen, help met huiswerk en studeer samen."
+  ],
+  "11g67A": [
+    "Volgende verlenging"
   ],
   "11oKq+": [
     "Cyprus"
@@ -10606,6 +10649,9 @@
   "26oeP8": [
     "Voer een reden in."
   ],
+  "26tjwd": [
+    "Cadeaukaart verzilveren"
+  ],
   "26uMPL": [
     "Wreed!"
   ],
@@ -11437,6 +11483,29 @@
   ],
   "2PKrQO": [
     "Probeer deze look"
+  ],
+  "2PiTTi": [
+    "Cadeau voor ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Je hebt je Xbox-account al eens gekoppeld. Maak opnieuw verbinding om te profiteren van nieuwe functies."
@@ -12476,6 +12545,77 @@
   "2pG5Ga": [
     "Inschrijven"
   ],
+  "2pNIbI": [
+    "Als je op ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " klikt, sluit je een terugkerend abonnement af. Vandaag betaal je ",
+    [
+      1,
+      "totalDue"
+    ],
+    ". Je proefperiode loopt af op ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ". Vanaf die datum betaal je ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus eventuele belasting per ",
+    [
+      1,
+      "interval"
+    ],
+    ", tot je opzegt. De prijzen kunnen veranderen. We sturen je een reminder voor je proefperiode afloopt. Je kunt altijd opzeggen via het instellingenmenu. De ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je een vraag? ",
+    [
+      8,
+      "$link",
+      [
+        "Neem contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of check onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Achtergrond serverontdekking ingesteld"
   ],
@@ -12914,6 +13054,9 @@
   "2zGdAW": [
     "Probeer Nitro uit!"
   ],
+  "2zUa6I": [
+    "Abonnement"
+  ],
   "2zdDw5": [
     "Als je op '",
     [
@@ -13035,6 +13178,9 @@
   ],
   "30+sih": [
     "Rapporten die zijn gedeeld door jou"
+  ],
+  "302Ck/": [
+    "Je betalingsmethode is opgeslagen"
   ],
   "302tKP": [
     "Item kopen"
@@ -15260,6 +15406,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Postcode"
+  ],
   "3jprCb": [
     "Wijziging kan niet worden verwerkt omdat de betaling nog niet rond is."
   ],
@@ -15271,6 +15420,9 @@
   ],
   "3k4hTU": [
     "Activiteit delen uitschakelen?"
+  ],
+  "3kMstB": [
+    "De betalingsmethoden die je hebt opgeslagen, zijn niet beschikbaar in je huidige land/regio. Als je een nieuwe toevoegt, wordt je land/regio bijgewerkt."
   ],
   "3kVEg0": [
     "Als je vertrekt, kun je je na de afkoelperiode van ",
@@ -15788,6 +15940,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Eenmalig cadeau"
   ],
   "3x/M9Z": [
     "Deze storefront is op ",
@@ -16487,6 +16642,37 @@
   ],
   "4EGMWL": [
     "Stream sluiten"
+  ],
+  "4EZ0L7": [
+    "Door op een van onderstaande aanschafopties te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je iets uit de winkel koopt, koop je in feite een tijdelijke licentie om dit item te gebruiken op Discord. Ga voor meer informatie naar het ",
+    [
+      8,
+      "$link",
+      [
+        "artikel Virtuele goederen"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Deze aankoop komt niet in aanmerking voor restitutie. Item is onmiddellijk beschikbaar in de instellingen van je gebruikersprofiel."
   ],
   "4Egr5O": [
     "Ontgrendel elke emoji en gebruik ze overal met Nitro."
@@ -18718,6 +18904,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Volgende verlenging ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -19917,6 +20111,9 @@
   "5dX4UM": [
     "Er komen geen GIF's overeen met je zoekopdracht."
   ],
+  "5dmUS+": [
+    "Ik ga ermee akkoord dat mijn digitale aankoop direct wordt geleverd en erken dat ik, zodra de aankoop is afgerond, het recht op restitutie verlies, tenzij hierin is voorzien in het terugbetalingsbeleid."
+  ],
   "5dxvxs": [
     "Ik weet niet hoe ik de missie moet voltooien"
   ],
@@ -20049,6 +20246,51 @@
   ],
   "5fZHp3": [
     "Uitnodiging sturen"
+  ],
+  "5fbNBX": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item claimt van ",
+    [
+      1,
+      "applicationName"
+    ],
+    " krijg je een beperkte licentie om dit item op Discord te gebruiken. Meer informatie vind je ",
+    [
+      8,
+      "$link",
+      [
+        "hier"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Het verzilveren van Orbs is niet restitueerbaar. Dit item wordt door de ontwikkelaar rechtstreeks in de game geleverd. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Volledige beschrijving weergeven"
@@ -21438,6 +21680,13 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    [
+      1,
+      "price"
+    ],
+    " toegevoegd aan je account"
   ],
   "66YyBJ": [
     "Een avatarversiering om je Discord-profiel op te fleuren. Raak 'm nooit meer kwijt met Nitro!"
@@ -23849,6 +24098,9 @@
   "6yrpFR": [
     "Icoon\naanpassen"
   ],
+  "6zCzw1": [
+    "Er is een probleem opgetreden bij het toevoegen van deze betalingsmethode. Probeer het opnieuw of gebruik een andere betalingsmethode."
+  ],
   "6zFA/T": [
     "Zeer vroege vogel"
   ],
@@ -24534,6 +24786,9 @@
   ],
   "7LL+Fw": [
     "Verenigde Staten"
+  ],
+  "7LeLN4": [
+    "Nitro-proefperiode toegepast"
   ],
   "7LgVmt": [
     "Veiligheidstips beoordelen"
@@ -25948,6 +26203,9 @@
   "7qbp3B": [
     "...meer"
   ],
+  "7r4HPu": [
+    "Bevestigen en betalen"
+  ],
   "7r4OKg": [
     "Sta gesynchroniseerde abonnees toe om jouw persoonlijke Twitch-emoticons in Discord te gebruiken."
   ],
@@ -26009,6 +26267,14 @@
   ],
   "7sW4h1": [
     "Er is niemand met die naam gevonden."
+  ],
+  "7sYIBL": [
+    "Als je een jaar cadeau geeft, bespaar je ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Slim bezig!"
   ],
   "7spYft": [
     "Update de betalingsmethode"
@@ -26816,6 +27082,28 @@
   "8CVUrV": [
     "Gratis Nitro-proefperiode"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Dit is een eenmalige betaling voor de gekozen periode. Je betaalt niet jaarlijks."
   ],
@@ -27116,6 +27404,14 @@
   ],
   "8Joh+p": [
     "Spreken op podium"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro"
   ],
   "8JzOBn": [
     "Standaardkanalen moeten de ",
@@ -28131,6 +28427,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Maandelijks"
+  ],
   "8gpzp6": [
     "Downloadbare content"
   ],
@@ -28173,6 +28472,27 @@
   ],
   "8ihs9i": [
     "Vastleggen prestatie-info mislukt"
+  ],
+  "8imbq5": [
+    "Boosten van ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "Bèta eindigt op ",
@@ -29980,6 +30300,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    [
+      1,
+      "amount"
+    ],
+    " beschikbaar"
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30004,6 +30331,9 @@
   ],
   "9Oq93m": [
     "Leden"
+  ],
+  "9OxfNK": [
+    "Verken de winkel"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31360,6 +31690,9 @@
     ],
     " een post maken."
   ],
+  "9yHcmL": [
+    "Abonnementskorting toegepast"
+  ],
   "9yLOND": [
     "Verwijderd op ",
     [
@@ -31469,6 +31802,87 @@
   ],
   "A+pogv": [
     "Resultaten bekijken"
+  ],
+  "A+qfZ+": [
+    "Als je op ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " klikt, sluit je een terugkerend abonnement af. Vandaag betaal je ",
+    [
+      1,
+      "totalDue"
+    ],
+    ", waarna je gedurende ",
+    [
+      1,
+      "trialDuration"
+    ],
+    " ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " betaalt. Je proefperiode loopt af op ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ". Vanaf die datum betaal je ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus eventuele belasting per ",
+    [
+      1,
+      "interval"
+    ],
+    ", tot je opzegt. De prijzen kunnen veranderen. We sturen je een reminder voor je proefperiode afloopt. Je kunt altijd opzeggen via het instellingenmenu. De ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je een vraag? Neem dan ",
+    [
+      8,
+      "$link",
+      [
+        "contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of check onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Gecreëerd op"
@@ -32216,6 +32630,9 @@
   "AM3mzX": [
     "Bestand"
   ],
+  "AM9XGb": [
+    "Cadeau-abonnement"
+  ],
   "AMHrre": [
     "Feedback geven"
   ],
@@ -32795,6 +33212,13 @@
   "AcJ4ke": [
     "Stel uren in waarin je tiener Discord niet kan gebruiken. Die ontvangt geen meldingen en heeft in deze periode geen toegang tot Discord."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " maanden"
+  ],
   "AcaNYw": [
     "Wil je deze server uniek maken? Ontgrendel aangepaste serverbanners met ",
     [
@@ -33007,6 +33431,13 @@
   ],
   "AfrvRD": [
     "Bekijk het hele winkelaanbod"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " is toegevoegd aan je account"
   ],
   "AgMngw": [
     "Orbs-saldo: ",
@@ -33838,6 +34269,9 @@
   ],
   "AzkvWe": [
     "Uitgelichte tegel"
+  ],
+  "B+/GvM": [
+    "Voer je postcode in"
   ],
   "B+cbLS": [
     "Overschakelen op online?"
@@ -34743,6 +35177,9 @@
   "BLqYQa": [
     "Betalingsmethode bewerken"
   ],
+  "BLu9EI": [
+    "Een andere betalingsmethode toevoegen"
+  ],
   "BLuvck": [
     "Minstens ",
     [
@@ -34790,6 +35227,14 @@
   ],
   "BMTj28": [
     "Speelt"
+  ],
+  "BMVyQO": [
+    "Betaal de resterende ",
+    [
+      1,
+      "amount"
+    ],
+    " in één stap. We slaan je betalingsmethode op voor de volgende keer."
   ],
   "BMlbE7": [
     "Dit verzoek is ingetrokken."
@@ -34961,6 +35406,9 @@
   ],
   "BPoc9u": [
     "Je verbinding met een spraak- of podiumkanaal wordt automatisch verbroken"
+  ],
+  "BPzQj4": [
+    "Kopen"
   ],
   "BQFHXW": [
     "Je moet 18 jaar of ouder zijn om een gekoppelde ouder/verzorger/voogd te zijn"
@@ -35832,6 +36280,42 @@
   "BkVb1X": [
     "Nieuwe vrienden die je tiener heeft toegevoegd of geaccepteerd"
   ],
+  "BkYev7": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je iets uit de winkel koopt, koop je in feite een tijdelijke licentie om dit item te gebruiken op Discord. Ga voor meer informatie naar het ",
+    [
+      8,
+      "$link",
+      [
+        "artikel Virtuele goederen"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Deze aankoop komt niet in aanmerking voor restitutie. Item is onmiddellijk beschikbaar in de instellingen van je gebruikersprofiel."
+  ],
   "BkZhUI": [
     "Alleen beschikbaar op mobiel"
   ],
@@ -36011,6 +36495,9 @@
     ],
     " in afwachting van annulering)"
   ],
+  "Bn/CZQ": [
+    "Code"
+  ],
   "Bn1J+a": [
     "Je cadeau ophalen"
   ],
@@ -36019,6 +36506,20 @@
   ],
   "BnSq1I": [
     "Niet gekoppeld"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Bewerken"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37157,6 +37658,37 @@
   ],
   "CCU/wn": [
     "Op basis van de reacties van leden wijs je ze toe aan kanalen en/of rollen."
+  ],
+  "CCVlIb": [
+    "Door op 'Verzilveren' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Cadeaukaartvoorwaarden"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " en ",
+    [
+      8,
+      "$link",
+      [
+        "Portemonneevoorwaarden"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Je bent teruggekeerd."
@@ -38306,6 +38838,14 @@
   "Chg2zd": [
     "Leden toestaan om op dit kanaal threads te creëren alleen voor genodigden."
   ],
+  "Chj1Ke": [
+    "Korting toegepast tot ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Staat links toe waarmee leden ingesloten content kunnen delen in tekstkanalen."
   ],
@@ -39385,6 +39925,33 @@
   ],
   "DDpHZG": [
     "Kijk. Verdien Orbs. Koop beloningen."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Als je deze aankoop voltooit, wordt je land/regio bijgewerkt naar ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Gevolgen:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Je verliest je bestaande cadeaukaarttegoed\n- Je kunt geen betalingsmethode uit een ander land/regio gebruiken\n- Je kunt 90 dagen niet van land/regio wisselen"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Geen machtigingen gevonden"
@@ -41157,6 +41724,9 @@
     ],
     " verwijderen?"
   ],
+  "E6ghtw": [
+    "Je ontgrendelt vroegtijdige toegang om lijsten te kopen in de winkel"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -41866,6 +42436,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Je koopt mogelijk een beperkte licentie om dit item alleen te gebruiken binnen de server van de maker. ",
+    [
+      8,
+      "$b",
+      [
+        "Deze aankoop komt niet in aanmerking voor restitutie."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Voeg een afbeelding toe aan je uitnodigingslink door te boosten"
   ],
@@ -42229,6 +42828,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Er is iets fout gegaan. Check je gegevens en probeer het nog eens."
   ],
   "EUNgko": [
     "Er is een microfoonmodus actief die niet standaard is voor iOS. Gebruik je liever een van de ruisonderdrukkingsopties van Discord? Selecteer dan de standaardmicrofoonmodus in je ",
@@ -44311,6 +44913,9 @@
   "FNVJ4+": [
     "Gratis avatarversiering voor jouw profiel!"
   ],
+  "FNijW7": [
+    "Nieuw jaarlijks terugkerend bedrag"
+  ],
   "FNqmmX": [
     "Sta Discord toe om mijn informatie te gebruiken en te verwerken om de diensten van Discord te begrijpen en te verbeteren. ",
     [
@@ -44617,6 +45222,9 @@
       []
     ],
     " om aan de slag te gaan."
+  ],
+  "FVzt1W": [
+    "Maandelijks abonnement"
   ],
   "FW3Qp/": [
     "Ik hang een beetje rond"
@@ -45010,6 +45618,9 @@
       ]
     ]
   ],
+  "Fjpyfj": [
+    "Promo"
+  ],
   "FjrXCi": [
     "Deel een proefperiode van 2 weken met maximaal ",
     [
@@ -45211,6 +45822,72 @@
       "intervalCount"
     ],
     " maanden blijven doen, totdat je opzegt. Prijzen kunnen worden gewijzigd, maar daarover krijg je dan bericht. Je kunt altijd opzeggen via de pagina Instellingen!"
+  ],
+  "FqlTCu": [
+    "Door op een van onderstaande aanschafopties te klikken, sluit je een automatisch terugkerend abonnement af. Vandaag betaal je ",
+    [
+      1,
+      "totalDue"
+    ],
+    " en daarna per ",
+    [
+      1,
+      "interval"
+    ],
+    " ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus eventuele belasting, met ingang van ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", tot je opzegt. De prijzen kunnen veranderen. Je kunt altijd opzeggen via je instellingen. De ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je een vraag? ",
+    [
+      8,
+      "$link",
+      [
+        "Neem contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of check onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "Fqqbhg": [
     "Dit is een link naar een gebruiker waar je geen toegang toe hebt."
@@ -45626,6 +46303,35 @@
   ],
   "G0neg7": [
     "Toegankelijkheid"
+  ],
+  "G0nk6B": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je dit item koopt, koop je een beperkte licentie om dit item op Discord te gebruiken. Deze aankoop wordt aangeboden door de ontwikkelaar van deze app en kan alleen met deze app worden gebruikt. ",
+    [
+      8,
+      "$b",
+      [
+        "Deze aankoop is niet-restitueerbaar."
+      ]
+    ]
   ],
   "G16Wji": [
     "Synchronisatieverbinding ingetrokken! ",
@@ -46433,6 +47139,9 @@
   ],
   "GGlM3e": [
     "Alleen uitvoer overschakelen"
+  ],
+  "GGn3pp": [
+    "Abonnementinfo"
   ],
   "GGxBdA": [
     "Toverstaf-emoji"
@@ -50725,6 +51434,9 @@
     ],
     " is een spraakhangout begonnen."
   ],
+  "HzDn6w": [
+    "Profiellijst"
+  ],
   "Hza+Bu": [
     "Krijg exclusieve profieleffecten en speciale ledenprijzen in de winkel met Nitro."
   ],
@@ -51222,6 +51934,37 @@
   ],
   "IAcEEn": [
     "Laat een notitie achter"
+  ],
+  "IAsfR5": [
+    "Geniet ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dag"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dagen"
+            ]
+          },
+          0,
+          "cardinal"
+        ],
+        " van Nitro"
+      ]
+    ],
+    " voordat je moet betalen!"
   ],
   "IAybsG": [
     "bespaar ",
@@ -51867,6 +52610,42 @@
   "IOy+I5": [
     "Kan activiteit niet starten"
   ],
+  "IP93kX": [
+    "Door op ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item verzilvert in de winkel, verzilver je in feite een tijdelijke licentie om dit item te gebruiken op Discord. ",
+    [
+      8,
+      "$link",
+      [
+        "Hier"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " vind je meer informatie. Verzilverde Orbs komen niet in aanmerking voor restitutie."
+  ],
   "IPO2be": [
     "Rapporteer server — ",
     [
@@ -51994,6 +52773,42 @@
   ],
   "ITUQgh": [
     "Aanbevolen optie voor servers die rollen gebruiken voor een vertrouwd lidmaatschap."
+  ],
+  "ITY3j6": [
+    "Door op ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item koopt in de winkel, koop je in feite een tijdelijke licentie om dit item te gebruiken op Discord. ",
+    [
+      8,
+      "$link",
+      [
+        "Hier"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " vind je meer informatie. Deze aankoop komt niet in aanmerking voor restitutie. Het item is onmiddellijk beschikbaar in de instellingen van je gebruikersprofiel."
   ],
   "ITlV6p": [
     "Maak verbinding met een ouder/verzorger/voogd om toegang tot je account te behouden"
@@ -54574,6 +55389,9 @@
   "JPI1pf": [
     "Neem Nitro"
   ],
+  "JPRQ9L": [
+    "Betalen met Pix"
+  ],
   "JPU0EF": [
     "Niveaus selecteren"
   ],
@@ -55440,6 +56258,42 @@
   "JsBPb8": [
     "Voorbeelden van bestaande Discord-community's"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " na ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "één maand"
+            ],
+            "=2": [
+              "twee maanden"
+            ],
+            "=3": [
+              "drie maanden"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " maanden"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Bepaalt hoeveel door je microfoon opgevangen geluid Discord doorstuurt. Spreek om je microfoon te testen. Als de meter wordt gevuld, verzendt Discord je prachtige stemgeluid."
   ],
@@ -55605,6 +56459,14 @@
   ],
   "Jz1lXO": [
     "Selecteer een optie om te verifiëren dat jij het bent."
+  ],
+  "Jz6+Oj": [
+    "Saldo cadeaukaart (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Krijg toegang tot nieuwe functies voordat ze worden uitgebracht voor het grote publiek."
@@ -57665,6 +58527,14 @@
     ],
     " is ingetrokken."
   ],
+  "KpnRtO": [
+    "Korting van ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " jaar toegepast"
+  ],
   "Kq7FAS": [
     "Stel standaardkanalen in die alle leden op hun kanaallijst zien als ze lid worden. Leden kunnen meer kanalen toevoegen met behulp van de aanpassingsvragen."
   ],
@@ -57853,6 +58723,9 @@
   ],
   "KuzWUU": [
     "Lijstweergave"
+  ],
+  "Kv+vV7": [
+    "Deze betalingsmethode kan niet worden gebruikt in je huidige land/regio"
   ],
   "Kv6Z4I": [
     "Veilig"
@@ -58761,6 +59634,14 @@
   ],
   "LHUP9D": [
     "Bookmark verwijderen"
+  ],
+  "LHWoqL": [
+    "Korting van ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " week/weken toegepast"
   ],
   "LHy5uU": [
     "DLC halen"
@@ -60163,6 +61044,9 @@
   "LvXy/H": [
     "Welkom 👋 bij een best wel saaie versie van servershop, een nieuwe manier om coole dingen aan te bieden aan je leden en geld te verdienen. Je serverleden kunnen dit tabblad pas zien als je je eerste product creëert en publiceert!"
   ],
+  "LvcUx4": [
+    "Abonnement herstellen"
+  ],
   "Lw6KXV": [
     "Je hebt ",
     [
@@ -60562,6 +61446,9 @@
   ],
   "M2iEy3": [
     "Leden kunnen standaard dit kanaal bekijken."
+  ],
+  "M2mY1J": [
+    "Jaarlijks"
   ],
   "M35zFB": [
     "Naar server gaan"
@@ -61575,6 +62462,14 @@
   "MQoVeb": [
     "Overal persoonlijke stickers"
   ],
+  "MR4VnX": [
+    "Wordt verlengd op ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -61614,6 +62509,13 @@
   ],
   "MS/4U1": [
     "Niveau archiveren"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " korting"
   ],
   "MSWjRh": [
     "Krijg dit soort persoonlijke profielen ",
@@ -62270,6 +63172,13 @@
   ],
   "Mi3iPI": [
     "Bekijk ze"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    "% KORTING"
   ],
   "Mi60fm": [
     "Laat je ouder/verzorger/voogd deze code scannen"
@@ -63171,6 +64080,9 @@
   "N46WOv": [
     "URL van je promopagina"
   ],
+  "N4EAHm": [
+    "of"
+  ],
   "N4ICPb": [
     "Deze DLC vereist dat je ",
     [
@@ -63519,6 +64431,9 @@
   ],
   "NEFeB0": [
     "Dood"
+  ],
+  "NEHhLR": [
+    "Jaarlijks abonnement"
   ],
   "NENZhS": [
     "Instellingen aanpassen"
@@ -64267,6 +65182,9 @@
       ]
     ],
     " heeft de instellingen voor ledenverzoeken bijgewerkt"
+  ],
+  "NUNycr": [
+    "een onderstaande aanschafoptie"
   ],
   "NUkcpF": [
     "Geniet van gepersonaliseerde emoji, grotere uploads en meer voor ",
@@ -66002,6 +66920,14 @@
   "OBCR+p": [
     "Meer bekijken"
   ],
+  "OBVcgO": [
+    "Abonnement van ",
+    [
+      1,
+      "intervalCount"
+    ],
+    " maand(en)"
+  ],
   "OBp3V3": [
     "GIF, knop"
   ],
@@ -66074,6 +67000,14 @@
   ],
   "ODCYj8": [
     "Leden toestaan om threads te creëren die iedereen op een kanaal kan zien."
+  ],
+  "ODKoJd": [
+    "Bespaar ",
+    [
+      2,
+      "percent"
+    ],
+    "% met een jaarlijks abonnement"
   ],
   "ODXApH": [
     "Build is niet beschikbaar"
@@ -66175,6 +67109,77 @@
   ],
   "OGpGqO": [
     "Aanbod"
+  ],
+  "OH1Evm": [
+    "Als je op ",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    " klikt, sluit je een terugkerend abonnement af. Vandaag betaal je ",
+    [
+      1,
+      "totalDue"
+    ],
+    " en daarna ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus eventuele belasting per ",
+    [
+      1,
+      "interval"
+    ],
+    ", met ingang van ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", tot je opzegt. De prijzen kunnen veranderen. Je kunt altijd opzeggen via het instellingenmenu. De ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je een vraag? ",
+    [
+      8,
+      "$link",
+      [
+        "Neem contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of check onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Delen"
@@ -66729,6 +67734,33 @@
   ],
   "OVN9la": [
     "Wil je verschillende avatars, banners en bio's gebruiken?"
+  ],
+  "OVhTE7": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item koopt in de gamewinkel van ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", koop je in feite een beperkte licentie om dit item in de genoemde game te gebruiken. Deze aankoop komt niet in aanmerking voor restitutie. Dit item wordt door de ontwikkelaar rechtstreeks in de game geleverd."
   ],
   "OVlNGT": [
     "je rolkleur\n",
@@ -68473,6 +69505,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Dit is een eenmalige betaling voor de gekozen periode. Er wordt geen maandelijks bedrag in rekening gebracht. Nitro-cadeaus komen niet meer in aanmerking voor restitutie wanneer ze door de ontvanger zijn ingewisseld."
+  ],
   "P5dSl0": [
     "Schaduwkleur"
   ],
@@ -69725,6 +70779,9 @@
     ],
     "-detectie uitschakelen?"
   ],
+  "PZDPvQ": [
+    "Je moet een cadeauboncode invoeren"
+  ],
   "PZLnuD": [
     "Activiteit is afgelopen.\nEen nieuwe starten?"
   ],
@@ -70588,6 +71645,29 @@
       ]
     ],
     " heeft een bericht in de kijker gezet op de startpagina"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro"
   ],
   "PygWIS": [
     "Opnieuw verbinden"
@@ -71881,6 +72961,39 @@
   "QXMYAb": [
     "Symbolen"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " na ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " maand"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " maanden"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Hoe ging ",
     [
@@ -73050,6 +74163,9 @@
   "R0VpSW": [
     "Je ontvangt een melding wanneer er in de server waarin een evenement op touw staat."
   ],
+  "R0cZsM": [
+    "Totaal vandaag"
+  ],
   "R0h4pE": [
     [
       6,
@@ -73353,6 +74469,82 @@
   ],
   "R852HS": [
     "Nieuw Discord-jubileum!"
+  ],
+  "R85gcN": [
+    "Door op een van onderstaande aanschafopties te klikken, sluit je een automatisch terugkerend abonnement af. Vandaag betaal je ",
+    [
+      1,
+      "totalDue"
+    ],
+    ", waarna je gedurende ",
+    [
+      1,
+      "trialDuration"
+    ],
+    " ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " betaalt. Je proefperiode loopt af op ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ". Vanaf die datum betaal je per ",
+    [
+      1,
+      "interval"
+    ],
+    " ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus eventuele belasting, tot je opzegt. De prijzen kunnen veranderen. We sturen je een reminder voor je proefperiode afloopt. Je kunt altijd opzeggen via je instellingen. De ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je een vraag? Neem dan ",
+    [
+      8,
+      "$link",
+      [
+        "contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of check onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "R87Y2K": [
     "Dit wordt ingepland als ",
@@ -77734,6 +78926,9 @@
   "Sx8Ezi": [
     "Probeer een podiumkanaal!"
   ],
+  "SxKq52": [
+    "Volgende jaarlijkse afschrijving"
+  ],
   "SxLn1y": [
     "Ik word de allerbeste"
   ],
@@ -80230,6 +81425,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Volgende verlenging"
+  ],
   "TtA5rK": [
     "Gebruik externe apps"
   ],
@@ -80649,6 +81847,13 @@
   ],
   "U26WX+": [
     "Helaas kun je dit cadeau niet accepteren omdat er voor je abonnement een factuur open staat."
+  ],
+  "U2CmMW": [
+    "Nu ",
+    [
+      1,
+      "priceAmount"
+    ]
   ],
   "U2JFHZ": [
     "emojinaam"
@@ -82070,6 +83275,9 @@
   "UdNuqi": [
     "Neonruimte"
   ],
+  "UdSuwf": [
+    "Voor deze aankoop is de betalingsmethode voor je abonnement vereist."
+  ],
   "UdXO8P": [
     "Oeps! Je kunt ",
     [
@@ -83226,6 +84434,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Je moet de desktop- of web-app gebruiken om een aankoop te doen met je cadeaukaartsaldo."
+  ],
   "V3Gri+": [
     "Frans"
   ],
@@ -83934,6 +85145,9 @@
   ],
   "VJRr3Y": [
     "Duik in solopuzzels, partygames, competitieve confrontaties en meer."
+  ],
+  "VJXTzd": [
+    "Koop iets voor jezelf in de winkel of gebruik het ergens anders voor op Discord."
   ],
   "VJcK41": [
     "De peiling van ",
@@ -86463,6 +87677,9 @@
   "WJisip": [
     "Tik om als miniatuurafbeelding in te stellen"
   ],
+  "WJmme7": [
+    "Deze betalingsmethode kan niet worden gebruikt voor deze transactie."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -87868,6 +89085,9 @@
   "WmfZHZ": [
     "Missielink kopiëren"
   ],
+  "WmjxYl": [
+    "Dag"
+  ],
   "WmsPis": [
     "Welke activiteit ik deel"
   ],
@@ -88061,6 +89281,9 @@
   ],
   "Wr4RIX": [
     "Insluitingen zijn uitgeschakeld in dit kanaal."
+  ],
+  "WrFWOV": [
+    "Volgende maandelijkse afschrijving"
   ],
   "WrQD/Y": [
     [
@@ -88290,6 +89513,30 @@
   ],
   "WzC9s6": [
     "Ik wil mijn hele server exclusief maken"
+  ],
+  "WzJTZI": [
+    "Korting van ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " toegepast"
   ],
   "WzM5YA": [
     "nba"
@@ -88820,6 +90067,9 @@
   ],
   "XBrJT6": [
     "Inkomend belsignaal"
+  ],
+  "XBtSMa": [
+    "Ik ga akkoord met de directe levering"
   ],
   "XBwns+": [
     "Onbekende server"
@@ -89705,6 +90955,22 @@
   "XWkJoi": [
     "Automatisch clips maken"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Gratis beloning geselecteerd"
+        ],
+        "other": [
+          "Gratis beloningen geselecteerd"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Geen beperking"
   ],
@@ -90518,6 +91784,9 @@
   "Xrcmjk": [
     "Neutraal"
   ],
+  "Xrg8aC": [
+    "Jaar"
+  ],
   "XrpYIG": [
     "Alleen deze rollen kunnen het whiteboard gebruiken. Voer hier niets in als je wilt dat iedereen het kan gebruiken. Wijzigingen zijn meteen van toepassing."
   ],
@@ -91256,6 +92525,9 @@
         "Je kunt op elk moment een nieuw abonnement starten."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "We hebben een betalingsmethode geselecteerd die beschikbaar is in jouw land/regio."
   ],
   "Y6qWLc": [
     "Stuur een bericht in ",
@@ -92078,6 +93350,9 @@
   "YTvOUx": [
     "Toevoegen aan Discord en alle games die aan dit account zijn gekoppeld"
   ],
+  "YUNJJa": [
+    "Korting met Nitro"
+  ],
   "YUSOKl": [
     "Dit account blokkeren?"
   ],
@@ -92376,6 +93651,9 @@
   ],
   "YZd5rw": [
     "Je hebt nu het hele jaar door fijne voordelen. Heel veel plezier ermee!"
+  ],
+  "YZePWx": [
+    "Ik begrijp het"
   ],
   "YZiJbh": [
     "Ik probeer een Discord-account te detecteren vanuit je standaardbrowser. Eén seconde..."
@@ -94001,6 +95279,14 @@
     ],
     " beleid."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Basic"
+  ],
   "ZAbzbA": [
     "Je hebt een ",
     [
@@ -94835,6 +96121,30 @@
   ],
   "ZQ37tH": [
     "Leden krijgen automatisch deze rol toegewezen. De rol kan niet handmatig worden toegewezen of verwijderd."
+  ],
+  "ZQLDzk": [
+    "Korting van ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " toegepast"
   ],
   "ZQakPR": [
     "Je Discord"
@@ -95794,6 +97104,9 @@
   "ZnkeXs": [
     "Code verwijderd!"
   ],
+  "ZnoRKt": [
+    "Maand"
+  ],
   "ZnqyZ2": [
     "Bekijk alle Nitro-voordelen"
   ],
@@ -96329,6 +97642,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Totaal verschuldigd"
   ],
   "Zxk1OF": [
     "Templatekanalen"
@@ -98224,6 +99540,9 @@
   ],
   "ajkYcF": [
     "Volgende"
+  ],
+  "ajn5LL": [
+    "Nieuw maandelijks terugkerend bedrag"
   ],
   "ajzh8S": [
     "Je profielzichtbaarheid is ingesteld op ",
@@ -101071,6 +102390,77 @@
   "bbUIWp": [
     "Nodig contactpersonen uit om berichten uit te wisselen"
   ],
+  "bbgJdE": [
+    "Als je op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' klikt, meld je je aan voor een terugkerend abonnement. Je betaalt vandaag ",
+    [
+      1,
+      "totalDue"
+    ],
+    " en vervolgens ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus toepasselijke belastingen elke ",
+    [
+      1,
+      "interval"
+    ],
+    " vanaf ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " totdat je opzegt. Deze aankoop wordt aangeboden door de ontwikkelaar van deze app en kan alleen met deze app worden gebruikt. Prijzen kunnen wijzigen. Je kunt op elk moment opzeggen in je Instellingen. ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " zijn van toepassing. Heb je vragen? ",
+    [
+      8,
+      "$link",
+      [
+        "Neem contact met ons op"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " of bekijk onze ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ over abonnementen"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Installering verifiëren — ",
     [
@@ -101128,6 +102518,9 @@
   ],
   "bdBmqy": [
     "Activiteit"
+  ],
+  "bdF0KJ": [
+    "Cadeaukaart-aanpassing"
   ],
   "bdMG43": [
     "Bom geplaatst"
@@ -104464,6 +105857,9 @@
   "cbtPXy": [
     "Thema is bijgewerkt."
   ],
+  "ccWIdu": [
+    "Het saldo moet toereikend zijn voor het totale bedrag"
+  ],
   "cd": [
     "blu-ray",
     "cd",
@@ -106449,11 +107845,55 @@
     ],
     " niet meer als suggestie"
   ],
+  "cwuBkH": [
+    "Door op '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "' te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je een item claimt van ",
+    [
+      1,
+      "applicationName"
+    ],
+    " krijg je een beperkte licentie om dit item op Discord te gebruiken. Meer informatie vind je ",
+    [
+      8,
+      "$link",
+      [
+        "hier"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Het verzilveren van Orbs is niet restitueerbaar. Dit item wordt door de ontwikkelaar rechtstreeks in de game geleverd."
+  ],
   "cxFiDC": [
     "Grof taalgebruik"
   ],
   "cxSpOM": [
     "Streamvoorbeeld"
+  ],
+  "cxwOJN": [
+    "Je totaal is bijgewerkt"
   ],
   "cxy+zn": [
     "Voeg vrienden toe en chat direct met ze"
@@ -107765,6 +109205,9 @@
   ],
   "dRycVz": [
     "Annuleren nu ongedaan maken"
+  ],
+  "dSPkHo": [
+    "Voer code in"
   ],
   "dSRTMB": [
     "Stuur verdachte pb's door naar een aparte spambox. Leden kunnen een scamrapport sturen of het pb weer in de inbox zetten."
@@ -110947,6 +112390,9 @@
   "eTVbtx": [
     "Nieuwe categorie"
   ],
+  "eTYAvF": [
+    "Profieleffect"
+  ],
   "eTmN5a": [
     "Kan niet worden verwijderd vanwege beheerderstoegang."
   ],
@@ -111843,6 +113289,9 @@
   ],
   "eoXe0r": [
     "Sorteren op: Nieuwste"
+  ],
+  "eoXh7B": [
+    "Besteloverzicht"
   ],
   "eontIh": [
     "Elke sticker ontgrendelen met ",
@@ -113384,6 +114833,16 @@
     ],
     "-superreactie toevoegen mislukt."
   ],
+  "fJnl1h": [
+    "Zie je het betalingsvenster niet? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Heropenen"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Als je stopt met je aanvraag, kun je altijd een nieuwe starten via een uitnodigingslink."
   ],
@@ -114497,6 +115956,9 @@
     "verenkleed",
     "vlucht",
     "vogel"
+  ],
+  "febr+T": [
+    "Saldo cadeaukaart"
   ],
   "feet": [
     "afdruk",
@@ -116943,6 +118405,9 @@
   "gVDdRn": [
     "Deelnemen aan groeps-pb"
   ],
+  "gVM8va": [
+    "Betaal in één stap. We bewaren de gegevens voor de volgende keer."
+  ],
   "gVWG+6": [
     "Mijn familie"
   ],
@@ -118208,6 +119673,25 @@
   ],
   "gvXH+a": [
     "Je kunt het abonnement niet beheren"
+  ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "jaar"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " jaar"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gvgh9L": [
     "Gisteren geüpdatet"
@@ -120645,6 +122129,9 @@
     "kruid",
     "plant"
   ],
+  "hewwdA": [
+    "Aankoop in app"
+  ],
   "hf6YOY": [
     "Je krijgt korting bij je ",
     [
@@ -120873,6 +122360,9 @@
   "hjlZZf": [
     "Het kan 24 uur duren voor deze wijziging ingaat."
   ],
+  "hjsn+s": [
+    "Huidige betalingsmethode"
+  ],
   "hjvcLO": [
     "Serverboosts"
   ],
@@ -120974,6 +122464,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Verzilveren"
   ],
   "hnbagF": [
     "Je verdient een boost als je een maand lid bent van Nitro."
@@ -121798,6 +123291,13 @@
   "i338qh": [
     "Deken"
   ],
+  "i3Q/6S": [
+    "Totaalwaarde aanpassing: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Log in om de link opnieuw te verzenden."
   ],
@@ -122044,6 +123544,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Cadeaukaart verzilveren"
   ],
   "iBUzS5": [
     "Locatie verwijderen"
@@ -122570,6 +124073,25 @@
   "iPdFOt": [
     "Opdrachtmachtigingen updaten"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "dag"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dagen"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Upgrade je Discord-ervaring"
   ],
@@ -123049,6 +124571,9 @@
   ],
   "iZRkC/": [
     "Onbekend"
+  ],
+  "iZe9Wy": [
+    "Eenmalige aankoop"
   ],
   "iZf+eD": [
     "De server was te ingewikkeld"
@@ -125059,6 +126584,9 @@
     ],
     " bestandslimiet"
   ],
+  "jM8/71": [
+    "Bundel"
+  ],
   "jMFSQV": [
     "Iedereen op de server kan je een bericht sturen"
   ],
@@ -126722,6 +128250,9 @@
   ],
   "jxIxJL": [
     "Hou Shift ingedrukt tijdens het verwijderen van leden om deze pop-up over te slaan."
+  ],
+  "jxUJkZ": [
+    "Nieuw terugkerend bedrag"
   ],
   "jxXMEz": [
     "Gegevensverzoek indienen"
@@ -129140,6 +130671,17 @@
   ],
   "ky6syM": [
     "Kampioenskill"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Schermtijdlimieten"
@@ -133347,6 +134889,9 @@
   "mWAbK4": [
     "Leden kunnen emoji van andere servers in deze kanalen gebruiken als ze een Discord Nitro-abonnement hebben."
   ],
+  "mWL08+": [
+    "Gratis proefperiode"
+  ],
   "mWO+ys": [
     "Grijp in"
   ],
@@ -133409,6 +134954,24 @@
   ],
   "mXkYyW": [
     "Negeren werkt niet zoals ik wil"
+  ],
+  "mXvZt2": [
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ],
+    " abonneren"
   ],
   "mY2R+F": [
     "Je kunt geen vriendschap sluiten met jezelf"
@@ -138261,6 +139824,13 @@
   "nrpA5E": [
     "forwarden"
   ],
+  "nsG1jw": [
+    "Bespaar ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Als je opzegt, ",
     [
@@ -140202,6 +141772,9 @@
   "of440F": [
     "Het vriendschapsverzoek is geannuleerd."
   ],
+  "of9bom": [
+    "Naambordje"
+  ],
   "ofQnNQ": [
     "Content waarin jij (of iemand die je gemachtigd bent te vertegenwoordigen) naakt bent of expliciete seksuele handelingen uitvoert"
   ],
@@ -141987,6 +143560,13 @@
   "pDE7Gb": [
     "Deze sticker krijg je via"
   ],
+  "pDVleg": [
+    "Totaal bespaard ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Het telefoonnummer is ongeldig."
   ],
@@ -142472,6 +144052,9 @@
   ],
   "pWLGnF": [
     "Over recente activiteit"
+  ],
+  "pWSgIu": [
+    "Als je deze betalingsmethode selecteert, wordt je account land/regio geüpdatet"
   ],
   "pWZvZk": [
     "Die melding is een ",
@@ -147168,6 +148751,9 @@
   "qwJHjo": [
     "App"
   ],
+  "qwSlCO": [
+    "Item voor in de game"
+  ],
   "qwfovo": [
     "Hiervoor heb je ",
     [
@@ -147536,6 +149122,9 @@
   ],
   "r23NoB": [
     "Verwijderen van podium"
+  ],
+  "r29Oel": [
+    "Avatarversiering"
   ],
   "r2AEw1": [
     "Je moet voldoen aan de minimale leeftijdsvereiste in jouw land om Discord te gebruiken."
@@ -148330,6 +149919,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Nieuwe betalingsmethode toevoegen"
   ],
   "rNGQfD": [
     "Missielink delen"
@@ -154731,6 +156323,9 @@
   "t+gj5V": [
     "Voeg minstens één actie toe aan deze regel."
   ],
+  "t+xzd8": [
+    "Je abonnement is hersteld!"
+  ],
   "t/IjXY": [
     "Alle foto's"
   ],
@@ -155415,6 +157010,9 @@
   "tJzB6F": [
     "Verkeerde game wordt weergegeven"
   ],
+  "tK8A/8": [
+    "Je moet het aantal boosts verlagen om je cadeaukaartsaldo te gebruiken."
+  ],
   "tKCltd": [
     "Nitro succesvol gedeeld"
   ],
@@ -155891,6 +157489,14 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Je bespaart **",
+    [
+      1,
+      "percentOff"
+    ],
+    "% ** op je eerste jaar!"
   ],
   "tVHevX": [
     [
@@ -158494,6 +160100,35 @@
   "uCD7qK": [
     "Sneltoets in- of uitschakelen"
   ],
+  "uCXulJ": [
+    "Als je iemand ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " cadeau doet, bespaar je ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Dat scheelt!"
+  ],
   "uCebZa": [
     "Meerdere antwoorden toestaan"
   ],
@@ -160027,6 +161662,9 @@
     "open",
     "open slot",
     "openen"
+  ],
+  "uo9YsP": [
+    "Deze cadeaukaart is al verzilverd."
   ],
   "uoQFIp": [
     "Details toevoegen"
@@ -161913,6 +163551,33 @@
   "vcqwCj": [
     "Je probleem"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Als je deze aankoop voltooit, wordt je land/regio bijgewerkt naar ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Gevolgen:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Je kunt geen betalingsmethode uit een ander land/regio gebruiken\n- Je kunt 90 dagen niet van land/regio wisselen"
+      ]
+    ]
+  ],
   "vct4l8": [
     "boost verloopt op ",
     [
@@ -163732,6 +165397,42 @@
   ],
   "wCbINr": [
     "3 maanden Nitro"
+  ],
+  "wCkwJf": [
+    "Je bespaart ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " op je eerste ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " maand"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " maanden"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Kijk meerdere streams"
@@ -171688,6 +173389,9 @@
   "yr9TTf": [
     "Verwijderen van verlanglijst"
   ],
+  "yrk+N6": [
+    "Je abonnement is verlopen. Probeer opnieuw te betalen of voeg een nieuwe betalingsmethode toe om het te herstellen."
+  ],
   "ysbNDc": [
     "Bezig met verdampen"
   ],
@@ -171781,6 +173485,9 @@
   ],
   "yvMu3S": [
     "Bezig met vernietigen"
+  ],
+  "yvUaHi": [
+    "Plus eventuele belastingen"
   ],
   "yvV5Ye": [
     [
@@ -174126,6 +175833,37 @@
   ],
   "zstmkn": [
     "Markdown weergeven"
+  ],
+  "ztU/1y": [
+    "Door op een van onderstaande aanschafopties te klikken, ga je akkoord met de ",
+    [
+      8,
+      "$link",
+      [
+        "Voorwaarden betaaldiensten"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Als je iets uit de winkel koopt, koop je in feite een tijdelijke licentie om dit item te gebruiken op Discord. Meer informatie vind je ",
+    [
+      8,
+      "$link",
+      [
+        "hier"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Deze aankoop komt niet in aanmerking voor restitutie. Item is onmiddellijk beschikbaar in de instellingen van je gebruikersprofiel."
   ],
   "ztXW8V": [
     "Gebruik ",

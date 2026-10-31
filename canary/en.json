@@ -4351,6 +4351,9 @@
   "/YOSiU": [
     "This app couldn’t be found."
   ],
+  "/YovOw": [
+    "Collectible"
+  ],
   "/YuDAs": [
     "Joined"
   ],
@@ -7438,6 +7441,37 @@
   "0ZkNDU": [
     "Failed to remove tag"
   ],
+  "0Zl+Xt": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the ",
+    [
+      1,
+      "applicationName"
+    ],
+    " Game Shop means you’re buying a limited license to use this item in the listed game. This purchase is non-refundable. This item will be delivered by the developer directly in-game. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Please tell us about your experience with the new app layout."
   ],
@@ -8808,6 +8842,9 @@
   "11e3sB": [
     "Give lectures, help with homework, and study together."
   ],
+  "11g67A": [
+    "Next Renewal"
+  ],
   "11oKq+": [
     "Cyprus"
   ],
@@ -9073,6 +9110,22 @@
   ],
   "18TOiQ": [
     "Choose a response"
+  ],
+  "18ToNc": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Claim Reward to Play"
+        ],
+        "other": [
+          "Claim Rewards to Play"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "18Ya7L": [
     "Allows members to create polls in these channels."
@@ -12173,6 +12226,29 @@
   "2PKrQO": [
     "Try This Look"
   ],
+  "2PiTTi": [
+    "Gift for ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
+  ],
   "2PuL9F": [
     "Although you’ve previously connected your Xbox account, please reconnect to enable new features."
   ],
@@ -13190,6 +13266,14 @@
       "expirationDate"
     ]
   ],
+  "2op/Su": [
+    "Discord Nitro lets you share files up to ",
+    [
+      1,
+      "maxSize"
+    ],
+    ". Upgrade to share videos like this one."
+  ],
   "2ouZDU": [
     "Contacting Venmo..."
   ],
@@ -13244,6 +13328,77 @@
   ],
   "2pG5Ga": [
     "Subscribe"
+  ],
+  "2pNIbI": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today. When your trial ends on ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", you'll be charged ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " until you cancel. Prices subject to change. We'll send you a reminder before your trial ends. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "2pds6p": [
     "Set the Server Discovery background"
@@ -13712,6 +13867,9 @@
   "2zGdAW": [
     "Try out Nitro!"
   ],
+  "2zUa6I": [
+    "Subscription"
+  ],
   "2zdDw5": [
     "By clicking \"",
     [
@@ -13839,6 +13997,9 @@
   ],
   "30+sih": [
     "Reports shared by you"
+  ],
+  "302Ck/": [
+    "Your payment method has been saved"
   ],
   "302tKP": [
     "Get Item"
@@ -15879,9 +16040,6 @@
   "3dV4Df": [
     "No pending friends"
   ],
-  "3deXbx": [
-    "Welcome Wagon"
-  ],
   "3dgwPD": [
     "Oops, something went wrong…"
   ],
@@ -16244,6 +16402,9 @@
   ],
   "3k4hTU": [
     "Disable Activity Sharing?"
+  ],
+  "3kMstB": [
+    "Your saved payment methods don't match your current Country/Region. Adding a new one will update your Country/Region."
   ],
   "3kVEg0": [
     "If you leave, you can join another group plan after the ",
@@ -16791,6 +16952,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "One-time Gift"
   ],
   "3x/M9Z": [
     "This storefront was published ",
@@ -17547,6 +17711,37 @@
   ],
   "4EGMWL": [
     "Close Stream"
+  ],
+  "4EZ0L7": [
+    "By clicking a purchase option below, you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the Shop means you're buying a limited license to use this item on Discord. Learn more in the 'Virtual Goods' section ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". This purchase is non-refundable. Item will be available immediately in User Profile settings."
   ],
   "4Egr5O": [
     "Unlock every emoji and use them anywhere with Nitro."
@@ -19049,6 +19244,9 @@
       ]
     ]
   ],
+  "4pASEG": [
+    "Make a voice channel app where we are in a library sitting in different places. If we talk too loud, a librarian glares at us. It should use proximity chat too, with a button to disable it."
+  ],
   "4pBzYW": [
     "Turn in flight"
   ],
@@ -19949,6 +20147,14 @@
           "onClickDetails"
         ]
       ]
+    ]
+  ],
+  "57B1ks": [
+    "Next renewal ",
+    [
+      3,
+      "renewalDate",
+      "short"
     ]
   ],
   "57St/7": [
@@ -21018,6 +21224,9 @@
       "cardinal"
     ]
   ],
+  "5XJ55E": [
+    "No Yelling"
+  ],
   "5XZKy/": [
     "Custom Invite Link"
   ],
@@ -21200,6 +21409,9 @@
   "5dX4UM": [
     "No GIFs match your search."
   ],
+  "5dmUS+": [
+    "I agree to the immediate delivery of my digital purchase and acknowledge that I lose my right to a refund, except as provided in the Refund Policy, once this purchase is completed."
+  ],
   "5dxvxs": [
     "I don't know how to complete it"
   ],
@@ -21332,6 +21544,51 @@
   ],
   "5fZHp3": [
     "Send Invite"
+  ],
+  "5fbNBX": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Claiming an item from ",
+    [
+      1,
+      "applicationName"
+    ],
+    " means you're claiming a limited license to use this item on Discord, learn more ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbs redemptions are non-refundable. This item will be delivered by the developer directly in-game. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "See full description"
@@ -22243,6 +22500,9 @@
       ]
     ]
   ],
+  "5x18pr": [
+    "This video was shared with Nitro"
+  ],
   "5x3taM": [
     "New friends that you added or accepted"
   ],
@@ -23025,9 +23285,6 @@
   ],
   "6DAqcl": [
     "Format"
-  ],
-  "6DCVy3": [
-    "Build a profile widget that shows my ARAM stats…"
   ],
   "6DZISR": [
     "Overtime Goal"
@@ -25378,6 +25635,9 @@
   "6ys5dn": [
     "You need Manage Server in a server before you can start this recipe."
   ],
+  "6zCzw1": [
+    "There was a problem adding this payment method. Try again or use a different payment method."
+  ],
   "6zFA/T": [
     "Very, very early"
   ],
@@ -26100,11 +26360,17 @@
       "time"
     ]
   ],
+  "7KvZ91": [
+    "What Should We Play?"
+  ],
   "7KyPor": [
     "Boost a server"
   ],
   "7LL+Fw": [
     "United States"
+  ],
+  "7LeLN4": [
+    "Nitro Trial applied"
   ],
   "7LgVmt": [
     "Review safety tips"
@@ -27645,6 +27911,9 @@
   "7qbp3B": [
     "...more"
   ],
+  "7r4HPu": [
+    "Confirm & Pay"
+  ],
   "7r4OKg": [
     "Allow synced subscribers to use your Twitch Custom Emoticons in Discord."
   ],
@@ -27706,6 +27975,14 @@
   ],
   "7sW4h1": [
     "No one with that name could be found."
+  ],
+  "7sYIBL": [
+    "Gifting a year saves you ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Nice move!"
   ],
   "7solMC": [
     "e.g., Speak like a pirate"
@@ -28535,6 +28812,25 @@
   "8CVUrV": [
     "Free Nitro trial"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "This will be a one time charge for the amount of time chosen. You will not be billed yearly."
   ],
@@ -28835,6 +29131,14 @@
   ],
   "8Joh+p": [
     "Speak on Stage"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " of Nitro"
   ],
   "8JzOBn": [
     "Default Channels need ",
@@ -29925,6 +30229,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Monthly"
+  ],
   "8gX1lw": [
     "Add a label"
   ],
@@ -29969,6 +30276,27 @@
   ],
   "8ihs9i": [
     "Failed to capture performance trace"
+  ],
+  "8imbq5": [
+    "Boosting ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA ends ",
@@ -30361,6 +30689,9 @@
   ],
   "8qKd+J": [
     "Add a webhook to:"
+  ],
+  "8qYr4l": [
+    ">30 days ago"
   ],
   "8qlkqW": [
     [
@@ -33391,6 +33722,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Subscription Discount applied"
+  ],
   "9yLOND": [
     "Removed on ",
     [
@@ -33502,6 +33836,87 @@
   ],
   "A+pogv": [
     "View Results"
+  ],
+  "A+qfZ+": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today, and ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " for ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". When your trial ends on ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", you'll be charged ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " until you cancel. Prices subject to change. We'll send you a reminder before your trial ends. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Created On"
@@ -34292,6 +34707,9 @@
   "AM3mzX": [
     "File"
   ],
+  "AM9XGb": [
+    "Subscription Gift"
+  ],
   "AMHrre": [
     "Give us Feedback"
   ],
@@ -34916,6 +35334,13 @@
   ],
   "AcJ4ke": [
     "Set hours when your teen can't use Discord. They won't receive notifications and cannot access Discord during this time."
+  ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Months"
   ],
   "AcaNYw": [
     "Want this server to feel unique? Unlock custom server banners with ",
@@ -35598,7 +36023,7 @@
     ]
   ],
   "ArcJqa": [
-    "Polls, calendars, and planners that open right inside your server."
+    "Polls, calendars, forms, planners, and tools that open right inside your server."
   ],
   "Arwnev": [
     "Update"
@@ -36774,7 +37199,7 @@
     "Customization Questions"
   ],
   "BH58fD": [
-    "Create your own apps, games, profile widgets, and more. Share what you made with your friends so you can use them together."
+    "Extend Discord for whatever you and your friends want. Create your own apps, chatbots, games, AutoMod rules, profile and overlay widgets, and more."
   ],
   "BHAXfa": [
     "Sends an alert containing the flagged message to a chosen channel."
@@ -36966,6 +37391,9 @@
   "BLqYQa": [
     "Edit Payment Method"
   ],
+  "BLu9EI": [
+    "Add a different payment method"
+  ],
   "BLuvck": [
     "There need to be at least ",
     [
@@ -37016,6 +37444,14 @@
   ],
   "BMTj28": [
     "Playing"
+  ],
+  "BMVyQO": [
+    "Pay the remaining ",
+    [
+      1,
+      "amount"
+    ],
+    " in one step. We'll save your payment method for next time."
   ],
   "BMlbE7": [
     "This application has been withdrawn."
@@ -37190,6 +37626,9 @@
   ],
   "BPoc9u": [
     "Automatically disconnects them from a voice or stage channel"
+  ],
+  "BPzQj4": [
+    "Purchase"
   ],
   "BQFHXW": [
     "You must be 18 or older to be a connected guardian"
@@ -38111,6 +38550,42 @@
   "BkVb1X": [
     "New friends that your teen added or accepted"
   ],
+  "BkYev7": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the Shop means you're buying a limited license to use this item on Discord. Learn more in the 'Virtual Goods' section ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". This purchase is non-refundable. Item will be available immediately in User Profile settings."
+  ],
   "BkZhUI": [
     "Only Available on Mobile"
   ],
@@ -38318,6 +38793,20 @@
   "BnUXZi": [
     "Only the freshest content"
   ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Edit"
+      ]
+    ]
+  ],
   "Bnbzyd": [
     [
       8,
@@ -38401,6 +38890,9 @@
   ],
   "BoiiWz": [
     "This server has failed Discovery activity requirements for 1 week. If this server fails for 4 weeks in a row, it will be automatically removed from Discovery."
+  ],
+  "BokMhV": [
+    "Nitro"
   ],
   "Bou7lT": [
     "Remove from Favorites"
@@ -40675,6 +41167,14 @@
   "Chg2zd": [
     "Allow members to create invite-only threads in this channel."
   ],
+  "Chj1Ke": [
+    "Discount applied until ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Allows links that members share to show embedded content in text channels."
   ],
@@ -41802,6 +42302,33 @@
   "DDpHZG": [
     "Watch. Earn Orbs. Get Rewards."
   ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Completing this purchase will update your Country/Region to ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". This means:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- You'll lose your existing gift card balance\n- You won't be able to use a payment method from a different Country/Region\n- You won't be able to change your Country/Region again for 90 days"
+      ]
+    ]
+  ],
   "DE7U+m": [
     "Pin to server list"
   ],
@@ -42155,9 +42682,6 @@
       ]
     ],
     " has not been applied to your in-game account yet. Please contact support if you are unable to receive the item after launching the game and waiting for a day."
-  ],
-  "DQQdZL": [
-    "Movie Night"
   ],
   "DQjes4": [
     "Bookmark added."
@@ -43664,6 +44188,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "You're unlocking Early Access to buy Frames in the Shop"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -44391,6 +44918,35 @@
       },
       0,
       "cardinal"
+    ]
+  ],
+  "EOOWpo": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". You may be buying a limited license to use this item only within the creator’s server. ",
+    [
+      8,
+      "$b",
+      [
+        "This purchase is non-refundable."
+      ]
     ]
   ],
   "EOUqzM": [
@@ -47078,6 +47634,9 @@
   "FNVJ4+": [
     "Free avatar decoration for your profile!"
   ],
+  "FNijW7": [
+    "New Yearly Recurring"
+  ],
   "FNqmmX": [
     "Allow Discord to use and process my information to understand and improve Discord’s services. ",
     [
@@ -47430,6 +47989,9 @@
     ],
     " to get started."
   ],
+  "FVzt1W": [
+    "Monthly plan"
+  ],
   "FW3Qp/": [
     "Just Hangin’"
   ],
@@ -47485,7 +48047,7 @@
     "Mark as Interested"
   ],
   "FXwLsv": [
-    "Arcade games and party trivia your friends can play together in a voice call."
+    "Interactive games your friends can play together, with built-in voice and video."
   ],
   "FY/yLY": [
     "server created successfully"
@@ -47855,6 +48417,9 @@
     ],
     " them"
   ],
+  "Fjpyfj": [
+    "Promo"
+  ],
   "FjrXCi": [
     "Share a 2-week trial with up to ",
     [
@@ -48066,6 +48631,72 @@
       "intervalCount"
     ],
     " months until you cancel the subscription. Prices subject to change with notice to you. You can cancel anytime from your Settings page, though!"
+  ],
+  "FqlTCu": [
+    "By clicking a purchase option below, you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today, then ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " starting ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " until you cancel. Prices subject to change. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "Fqqbhg": [
     "This link is to a user you don't have access to."
@@ -48507,6 +49138,35 @@
   ],
   "G0neg7": [
     "Accessibility"
+  ],
+  "G0nk6B": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying this item means you're buying a limited license to use this item on Discord. This purchase is offered by the developer of this app and can be used only with this app. ",
+    [
+      8,
+      "$b",
+      [
+        "This purchase is non-refundable."
+      ]
+    ]
   ],
   "G16Wji": [
     "Sync connection revoked! ",
@@ -49348,6 +50008,9 @@
   "GGlM3e": [
     "Switch output only"
   ],
+  "GGn3pp": [
+    "Subscription details"
+  ],
   "GGxBdA": [
     "Magic Wand Emoji"
   ],
@@ -49627,9 +50290,6 @@
   ],
   "GNDqtf": [
     "Off"
-  ],
-  "GNGB59": [
-    "Make a raid calendar for my World of Warcraft guild"
   ],
   "GNHAfw": [
     "Quest Reserve"
@@ -50004,7 +50664,7 @@
     "To find someone and add them as a friend, you’ll need their username and tag. Keep in mind that username is case sensitive."
   ],
   "GUb2zA": [
-    "Profile widgets"
+    "Profile Widgets"
   ],
   "GV9L8u": [
     "\"",
@@ -51199,9 +51859,6 @@
   "Gw11zg": [
     "Unread DMs only"
   ],
-  "Gw756q": [
-    "Make automod that hides spoilers for the newest episode"
-  ],
   "GwAW3k": [
     "Tap to change country code"
   ],
@@ -51865,6 +52522,9 @@
   ],
   "H8ZQbo": [
     "Unpin Channel"
+  ],
+  "H8fuGK": [
+    "Add an AutoMod rule that blocks people from yelling."
   ],
   "H8zoFG": [
     "Clears in ",
@@ -53200,6 +53860,9 @@
   "HdcGGl": [
     "Set a monthly budget for your teen's Discord purchases, including shop items, gifting, and more. Does not include subscriptions."
   ],
+  "Hddwvt": [
+    "Make a cowboy chatbot that can create events, polls, and answer questions from the internet for my server."
+  ],
   "Hdh7sT": [
     "This setting allows friends to join your game without sending a request."
   ],
@@ -53999,6 +54662,9 @@
     ],
     " started a voice hangout."
   ],
+  "HzDn6w": [
+    "Profile Frame"
+  ],
   "Hza+Bu": [
     "Get exclusive Profile Effects and special member pricing at the Shop with Nitro."
   ],
@@ -54522,6 +55188,37 @@
   ],
   "IAcEEn": [
     "Leave a Note"
+  ],
+  "IAsfR5": [
+    "Enjoy ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro for ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " Day"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " Days"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " before getting charged!"
   ],
   "IAybsG": [
     "save ",
@@ -55198,6 +55895,42 @@
   "IOy+I5": [
     "Unable to launch activity"
   ],
+  "IP93kX": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Claiming an item from the Shop means you're claiming a limited license to use this item on Discord, learn more ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbs redemptions are non-refundable."
+  ],
   "IPO2be": [
     "Report Server — ",
     [
@@ -55325,6 +56058,42 @@
   ],
   "ITUQgh": [
     "Recommended option for servers that use roles for trusted membership."
+  ],
+  "ITY3j6": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the Shop means you're buying a limited license to use this item on Discord, learn more ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". This purchase is non-refundable. Item will be available immediately in User Profile settings."
   ],
   "ITlV6p": [
     "Connect to a guardian to keep access to your account"
@@ -56149,7 +56918,7 @@
     "Discord Soundboard"
   ],
   "IiQEVd": [
-    "What you can conjure"
+    "A taste of what you can make"
   ],
   "IiWKwg": [
     [
@@ -57311,9 +58080,6 @@
   "J2TBi3": [
     "Leave Server"
   ],
-  "J2o8Ae": [
-    "Create a raid calendar for my World of Warcraft guild…"
-  ],
   "J2wg+X": [
     "A restart is required for this change to take effect. Would you like to restart Discord now?"
   ],
@@ -58099,6 +58865,9 @@
   ],
   "JPI1pf": [
     "Join Nitro"
+  ],
+  "JPRQ9L": [
+    "Pay with Pix"
   ],
   "JPU0EF": [
     "Select Tiers"
@@ -59063,6 +59832,42 @@
   "JsBPb8": [
     "Examples of existing Discord communities"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " after ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "one month"
+            ],
+            "=2": [
+              "two months"
+            ],
+            "=3": [
+              "three months"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " months"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Controls how much sound Discord transmits from your mic. Speak to test your mic — if the meter is filled, Discord is transmitting your beautiful voice."
   ],
@@ -59623,7 +60428,7 @@
     "Changed the avatar"
   ],
   "KBHZfO": [
-    "Bots"
+    "Chat Bots"
   ],
   "KBgArX": [
     "This includes direct messages and group chats"
@@ -61401,6 +62206,13 @@
     ],
     " has been withdrawn."
   ],
+  "KpnRtO": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " year discount applied"
+  ],
   "Kq7FAS": [
     "Set default channels every member will see in their channel list when they join. Members can add more channels using Customization Questions."
   ],
@@ -61596,6 +62408,9 @@
   ],
   "KuzWUU": [
     "List View"
+  ],
+  "Kv+vV7": [
+    "This payment method can't be used in your current Country/Region"
   ],
   "Kv6Z4I": [
     "Secure"
@@ -61898,6 +62713,29 @@
             7
           ],
           " Speakers"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
+  "L1yi/U": [
+    "Play for ",
+    [
+      6,
+      "count",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Orb"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Orbs"
         ]
       },
       0,
@@ -62577,6 +63415,13 @@
   ],
   "LHUP9D": [
     "Remove Bookmark"
+  ],
+  "LHWoqL": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " week discount applied"
   ],
   "LHy5uU": [
     "Get DLC"
@@ -64071,6 +64916,9 @@
   "LvXy/H": [
     "Welcome 👋 to a pretty boring version of Server Shop, a new way to offer cool stuff to your members and earn. Your server members can’t see this tab — not until you create and publish your first product!!"
   ],
+  "LvcUx4": [
+    "Restore Subscription"
+  ],
   "Lw6KXV": [
     "You launched ",
     [
@@ -64508,6 +65356,9 @@
   ],
   "M2iEy3": [
     "Allows members to view this channel by default."
+  ],
+  "M2mY1J": [
+    "Yearly"
   ],
   "M35zFB": [
     "Go to Server"
@@ -65590,6 +66441,14 @@
   "MQoVeb": [
     "Custom stickers anywhere"
   ],
+  "MR4VnX": [
+    "Renews ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -65629,6 +66488,13 @@
   ],
   "MS/4U1": [
     "Archive Tier"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " Off"
   ],
   "MSWjRh": [
     "Get custom profiles like this ",
@@ -66325,6 +67191,13 @@
   ],
   "Mi3iPI": [
     "Check them out"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    "% OFF"
   ],
   "Mi60fm": [
     "Have your guardian scan this code"
@@ -67315,6 +68188,9 @@
   "N46WOv": [
     "Your Promo Page URL"
   ],
+  "N4EAHm": [
+    "or"
+  ],
   "N4ICPb": [
     "This DLC requires you to own ",
     [
@@ -67735,6 +68611,9 @@
       1,
       "channelName"
     ]
+  ],
+  "NEHhLR": [
+    "Yearly plan"
   ],
   "NENZhS": [
     "Adjust Settings"
@@ -68524,6 +69403,9 @@
   ],
   "NUMAsF": [
     "Contact Crisis Text Line"
+  ],
+  "NUNycr": [
+    "a purchase option below"
   ],
   "NUkcpF": [
     "You have custom emoji, bigger uploads, and more for ",
@@ -70336,6 +71218,13 @@
   "OBCR+p": [
     "View More"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Month plan"
+  ],
   "OBp3V3": [
     "GIF, button"
   ],
@@ -70424,6 +71313,14 @@
   ],
   "ODCYj8": [
     "Allow members to create threads that everyone in a channel can view."
+  ],
+  "ODKoJd": [
+    "Save ",
+    [
+      2,
+      "percent"
+    ],
+    "% with yearly plan"
   ],
   "ODXApH": [
     "Build isn't available"
@@ -70521,6 +71418,77 @@
   ],
   "OGpGqO": [
     "Listing"
+  ],
+  "OH1Evm": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today, then ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " starting ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " until you cancel. Prices subject to change. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Sharing"
@@ -71089,6 +72057,33 @@
   ],
   "OVN9la": [
     "Wanna use a different avatar, banner, and bio?"
+  ],
+  "OVhTE7": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the ",
+    [
+      1,
+      "applicationName"
+    ],
+    " Game Shop means you’re buying a limited license to use this item in the listed game. This purchase is non-refundable. This item will be delivered by the developer directly in-game."
   ],
   "OVlNGT": [
     "your role color\n",
@@ -72894,6 +73889,28 @@
       0,
       "cardinal"
     ]
+  ],
+  "P5KfYx": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". This will be a one time charge for the amount of time chosen. You will not be billed monthly. Nitro gifts are non-refundable once redeemed by the recipient."
   ],
   "P5dSl0": [
     "Shadow color"
@@ -75068,6 +76085,29 @@
     ],
     " featured a message on Home"
   ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " Month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " Months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " of Nitro"
+  ],
   "PygWIS": [
     "Reconnecting"
   ],
@@ -76447,6 +77487,39 @@
   "QXMYAb": [
     "Symbols"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " after ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " month"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " months"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "How'd ",
     [
@@ -77655,6 +78728,9 @@
   "R0VpSW": [
     "Receive a notification when a server you are in has an upcoming event."
   ],
+  "R0cZsM": [
+    "Today's Total"
+  ],
   "R0h4pE": [
     [
       6,
@@ -77957,6 +79033,82 @@
         [
           1,
           "pinsActionOnClick"
+        ]
+      ]
+    ],
+    "."
+  ],
+  "R85gcN": [
+    "By clicking a purchase option below, you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today, and ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " for ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". When your trial ends on ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", you'll be charged ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " until you cancel. Prices subject to change. We'll send you a reminder before your trial ends. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
         ]
       ]
     ],
@@ -79064,9 +80216,6 @@
   "RY8rIc": [
     "Allows members to share their video, screen share, or stream a game in this voice channel."
   ],
-  "RYGHMF": [
-    "ARAM Stats"
-  ],
   "RYIeOX": [
     "Next bundle item"
   ],
@@ -80139,9 +81288,6 @@
         "Discord"
       ]
     ]
-  ],
-  "RzNoHJ": [
-    "Make a profile widget that shows my ARAM stats in the last 30 days"
   ],
   "RzWDqY": [
     "Check it out"
@@ -82197,7 +83343,7 @@
     "Add a phone number"
   ],
   "Sfa50+": [
-    "Make a Flappy Bird style game where you tap to flap a little dragon through gaps between floating clouds. Keep a score counter, show a high score board for everyone in the server, and end on a cute game over screen with a retry button."
+    "Make a Flappy Bird game except it’s our avatar flapping in our server. When people fail, their body is left behind at their highest score point, so as you flap, you’ll see where everyone else’s high score is. Also make a bot that posts personal bests and new high scores."
   ],
   "Sfr0Jw": [
     "Your Custom Invite Link will stop working immediately, but the URL will be reserved for you for 30 more days before it's released."
@@ -82791,6 +83937,9 @@
   "Sx8Ezi": [
     "Try using a Stage channel!"
   ],
+  "SxKq52": [
+    "Next Yearly Recurring"
+  ],
   "SxLn1y": [
     "Gonna be the very best"
   ],
@@ -83051,6 +84200,9 @@
   "T1aUAX": [
     "Take Me to My Nitro"
   ],
+  "T1eNyO": [
+    "Earn Orbs to Play"
+  ],
   "T1lMSl": [
     "Allow requests to speak in these Stage channels. Stage moderators manually approve or deny each request."
   ],
@@ -83088,9 +84240,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "T3+H3J": [
-    "Make a chat bot that welcomes new members with a joke"
   ],
   "T32rkC": [
     "Send Messages"
@@ -83651,9 +84800,6 @@
   ],
   "TGBWxJ": [
     "e.g., Rewrite this text as if spoken by a pirate"
-  ],
-  "TGN39X": [
-    "Make a trivia game my friends can play together in voice"
   ],
   "TGNg6T": [
     "Enable Streamer Mode"
@@ -84548,6 +85694,19 @@
   "TaGi1r": [
     "Edit Server Rules"
   ],
+  "TaT999": [
+    "Your plan lets you share files up to ",
+    [
+      1,
+      "currentMaxSize"
+    ],
+    ". Nitro raises that to ",
+    [
+      1,
+      "maxSize"
+    ],
+    ", enough for videos like this one."
+  ],
   "TaUGgY": [
     "Tax is included with the price."
   ],
@@ -84594,7 +85753,7 @@
     "GB"
   ],
   "Tbag5k": [
-    "Flappy Dragon"
+    "Flappy Discord"
   ],
   "TbbzW5": [
     "You don’t have another app to ask yet."
@@ -85471,6 +86630,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Next renewal"
+  ],
   "TtA5rK": [
     "Use External Apps"
   ],
@@ -85917,6 +87079,13 @@
   ],
   "U26WX+": [
     "Unfortunately, you're unable to accept this gift because your subscription has an open invoice."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " now"
   ],
   "U2JFHZ": [
     "emoji_name"
@@ -87429,6 +88598,9 @@
   "UdNuqi": [
     "Neon Space"
   ],
+  "UdSuwf": [
+    "This purchase requires your subscription payment method."
+  ],
   "UdXO8P": [
     "Oops! You can't claim ",
     [
@@ -87728,6 +88900,13 @@
   ],
   "Ujlm+F": [
     "Medium"
+  ],
+  "Uk+BE3": [
+    "Next Round in ",
+    [
+      1,
+      "duration"
+    ]
   ],
   "UkH122": [
     [
@@ -90419,9 +91598,6 @@
   "Vf2ZcR": [
     "If this perk is disabled, your Server Tag will be reset to a default badge."
   ],
-  "VfUFEt": [
-    "Make a profile widget that shows my League of Legends ARAM stats from the last 30 days: games played, win rate, my three most played champions, and my best game, with a small chart of wins and losses by week."
-  ],
   "VfYqDq": [
     "Color"
   ],
@@ -92139,6 +93315,9 @@
   "WJisip": [
     "Tap to set thumbnail"
   ],
+  "WJmme7": [
+    "This payment method can't be used for this transaction."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -93589,6 +94768,9 @@
   "WmfZHZ": [
     "Copy Quest Link"
   ],
+  "WmjxYl": [
+    "Day"
+  ],
   "WmsPis": [
     "What Activity I Share"
   ],
@@ -93786,6 +94968,9 @@
   ],
   "Wr4RIX": [
     "Embeds are disabled in this channel."
+  ],
+  "WrFWOV": [
+    "Next Monthly Recurring"
   ],
   "WrQD/Y": [
     "Ignore ",
@@ -94069,6 +95254,13 @@
   ],
   "WzC9s6": [
     "I want to make my entire server exclusive"
+  ],
+  "WzJTZI": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " day discount applied"
   ],
   "WzM5YA": [
     "nba"
@@ -94616,6 +95808,9 @@
   ],
   "XBrJT6": [
     "Incoming Ring"
+  ],
+  "XBtSMa": [
+    "I agree to the immediate delivery"
   ],
   "XBwns+": [
     "Unknown server"
@@ -95536,6 +96731,22 @@
   "XWkJoi": [
     "Autoclipping"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Free reward selected"
+        ],
+        "other": [
+          "Free rewards selected"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "No Limit"
   ],
@@ -96413,6 +97624,9 @@
   "Xrcmjk": [
     "Neutral"
   ],
+  "Xrg8aC": [
+    "Year"
+  ],
   "XrpYIG": [
     "Only these roles can use the whiteboard. Leave this empty to let everyone use it. Changes apply right away."
   ],
@@ -96596,6 +97810,9 @@
   "XueBVY": [
     "There was an error with the Boost transfer. Please try again."
   ],
+  "XuiHpi": [
+    "Add an AutoMod rule that blocks people from yelling (all caps)."
+  ],
   "Xuqn4X": [
     "An activity card showing @",
     [
@@ -96669,6 +97886,9 @@
       "count"
     ],
     " other friends"
+  ],
+  "XwYNi1": [
+    "Claws Out"
   ],
   "Xwv41+": [
     "Application audio was absent"
@@ -97237,6 +98457,9 @@
         "You can restart your subscription anytime."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "We've selected a payment method that matches your Country/Region."
   ],
   "Y6qWLc": [
     "Send a message in ",
@@ -98116,6 +99339,9 @@
   ],
   "YTvOUx": [
     "Add across Discord and all games linked to this account"
+  ],
+  "YUNJJa": [
+    "Saving with Nitro"
   ],
   "YUSOKl": [
     "Block this account?"
@@ -100165,6 +101391,14 @@
     ],
     " policy."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " of Nitro Basic"
+  ],
   "ZAbzbA": [
     "You just landed a ",
     [
@@ -101023,6 +102257,13 @@
   ],
   "ZQ37tH": [
     "Members are automatically assigned to this role. It cannot be manually assigned to or removed from members."
+  ],
+  "ZQLDzk": [
+    [
+      2,
+      "intervalCount"
+    ],
+    " month discount applied"
   ],
   "ZQakPR": [
     "Your Discord"
@@ -102039,6 +103280,9 @@
       "targetLanguage"
     ]
   ],
+  "ZnoRKt": [
+    "Month"
+  ],
   "ZnqyZ2": [
     "View All Nitro Perks"
   ],
@@ -102594,6 +103838,9 @@
   "Zx4jzN": [
     "Set your status"
   ],
+  "Zx7B6B": [
+    "Server Calendar"
+  ],
   "ZxBpLf": [
     "Invite your friends to Discord"
   ],
@@ -102629,6 +103876,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Total Due"
   ],
   "Zxk1OF": [
     "Template Channels"
@@ -104563,6 +105813,9 @@
   ],
   "ajkYcF": [
     "Next"
+  ],
+  "ajn5LL": [
+    "New Monthly Recurring"
   ],
   "ajzh8S": [
     "Your profile visibility is set to ",
@@ -107539,6 +108792,77 @@
   "bbUIWp": [
     "Invite Contacts to Message"
   ],
+  "bbgJdE": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you are signing up for a recurring subscription. You'll be charged ",
+    [
+      1,
+      "totalDue"
+    ],
+    " today, then ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " plus applicable taxes every ",
+    [
+      1,
+      "interval"
+    ],
+    " starting ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " until you cancel. This purchase is offered by the developer of this app and can be used only with this app. Prices subject to change. Cancel anytime in your Settings. ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    " apply. Have questions? ",
+    [
+      8,
+      "$link",
+      [
+        "Contact us"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " or see our ",
+    [
+      8,
+      "$link",
+      [
+        "Subscriptions FAQ"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Verifying Install — ",
     [
@@ -107602,6 +108926,9 @@
   ],
   "bdBmqy": [
     "Activity"
+  ],
+  "bdF0KJ": [
+    "Gift Card Adjustment"
   ],
   "bdMG43": [
     "Bomb Plant"
@@ -113055,6 +114382,47 @@
   "cwrS1O": [
     "Describe what you want to conjure"
   ],
+  "cwuBkH": [
+    "By clicking '",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "', you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Claiming an item from ",
+    [
+      1,
+      "applicationName"
+    ],
+    " means you're claiming a limited license to use this item on Discord, learn more ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Orbs redemptions are non-refundable. This item will be delivered by the developer directly in-game."
+  ],
   "cxFiDC": [
     "Strong Language"
   ],
@@ -113063,6 +114431,9 @@
   ],
   "cxSpOM": [
     "Stream Preview"
+  ],
+  "cxwOJN": [
+    "Your total has been updated"
   ],
   "cxy+zn": [
     "Add friends and chat with them directly"
@@ -113205,9 +114576,6 @@
   ],
   "d/9Rk4": [
     "Input a valid integer."
-  ],
-  "d/WMHR": [
-    "Make an automod rule for my server that catches messages mentioning plot details from the newest episode of our show during its first week, hides them behind a spoiler tag, and lets the author know why."
   ],
   "d/Wf8N": [
     "Loading publish history…"
@@ -114283,6 +115651,9 @@
       "cardinal"
     ],
     " ago"
+  ],
+  "dLyihE": [
+    "Cowboy Chat Bot"
   ],
   "dMJ3Y6": [
     "Add members or roles"
@@ -116782,6 +118153,9 @@
     ],
     " - no level required"
   ],
+  "e8Jbz3": [
+    "Library Voice Channel"
+  ],
   "e8XOnl": [
     "For this app to function, you need to approve some permissions first."
   ],
@@ -117812,6 +119186,9 @@
   "eTVbtx": [
     "New Category"
   ],
+  "eTYAvF": [
+    "Profile Effect"
+  ],
   "eTmN5a": [
     "Cannot be removed due to Administrator access."
   ],
@@ -118736,6 +120113,9 @@
   ],
   "eoXe0r": [
     "Sort by: Newest"
+  ],
+  "eoXh7B": [
+    "Order summary"
   ],
   "eontIh": [
     "Unlock every sticker with ",
@@ -120317,6 +121697,16 @@
       "name"
     ],
     " super reaction could not be added."
+  ],
+  "fJnl1h": [
+    "Don't see the payment window? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Reopen"
+      ]
+    ]
   ],
   "fJwWVt": [
     "If you discard, you can start a new application from an invite link."
@@ -124152,6 +125542,9 @@
   "gVDdRn": [
     "Join Group DM"
   ],
+  "gVM8va": [
+    "Pay in one step. We'll save it for next time."
+  ],
   "gVWG+6": [
     "My Family"
   ],
@@ -124837,9 +126230,6 @@
     "valentine",
     "xoxo"
   ],
-  "gilNLG": [
-    "Make a trivia game we can play together during a voice call. Ask ten rapid-fire questions about video games, give everyone fifteen seconds to answer, award more points for faster answers, and show a live leaderboard between rounds."
-  ],
   "ginger_root": [
     "beer",
     "ginger",
@@ -125424,7 +126814,7 @@
     " seeing your game, so it can’t update."
   ],
   "gtX7tS": [
-    "Make a Flappy Bird game but with a dragon instead of a bird"
+    "Make a Flappy Bird game except it’s our avatar flapping bro."
   ],
   "gtZK09": [
     "To view available Quests, go to the mobile app User Settings > Quests. For Quests not available on mobile, please use the Desktop app and go to Discovery > Quests."
@@ -125496,6 +126886,25 @@
   ],
   "gvXH+a": [
     "You can't manage the subscription"
+  ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "year"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " years"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gvgh9L": [
     "Updated yesterday"
@@ -128034,6 +129443,9 @@
     "leaf",
     "plant"
   ],
+  "hewwdA": [
+    "App Purchase"
+  ],
   "hf6YOY": [
     "You get a discount as part of your ",
     [
@@ -128264,6 +129676,9 @@
   ],
   "hjlZZf": [
     "It might take up to 24 hours to take effect."
+  ],
+  "hjsn+s": [
+    "Current payment method"
   ],
   "hjvcLO": [
     "Server Boosts"
@@ -129084,6 +130499,9 @@
   "i0nsoY": [
     "Disables in-app notifications & message sounds."
   ],
+  "i0y7Ld": [
+    "Make a cowboy chatbot that wrangles my server."
+  ],
   "i17qFc": [
     "Subscriber Information"
   ],
@@ -129215,6 +130633,13 @@
   ],
   "i338qh": [
     "Blanket"
+  ],
+  "i3Q/6S": [
+    "Total adjustments ",
+    [
+      1,
+      "amount"
+    ]
   ],
   "i3ehMr": [
     "Please log in to resend the link."
@@ -129756,6 +131181,9 @@
   "iJA/TE": [
     "Favorited"
   ],
+  "iJjbMd": [
+    "Game Ending Soon"
+  ],
   "iK0n30": [
     "This channel is limited to adults (18+) by ",
     [
@@ -130045,6 +131473,25 @@
   "iPdFOt": [
     "Update Command Permissions"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "day"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " days"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Upgrade Your Discord Experience"
   ],
@@ -130088,9 +131535,6 @@
   ],
   "iREYFC": [
     "Edit Resource"
-  ],
-  "iRbnRD": [
-    "Set up automod that hides spoilers for the new episode…"
   ],
   "iRntUl": [
     "Couldn't send invites, please try again."
@@ -130544,6 +131988,9 @@
   ],
   "iZRkC/": [
     "Unknown"
+  ],
+  "iZe9Wy": [
+    "Product"
   ],
   "iZf+eD": [
     "The server was too hard to figure out"
@@ -132642,6 +134089,9 @@
   "jM7sUh": [
     "No"
   ],
+  "jM8/71": [
+    "Bundle"
+  ],
   "jMFSQV": [
     "Anyone in the server can message you"
   ],
@@ -134413,6 +135863,9 @@
   ],
   "jxIxJL": [
     "Hold shift when removing members to skip this modal."
+  ],
+  "jxUJkZ": [
+    "New Recurring Amount"
   ],
   "jxXMEz": [
     "Submit Data Request"
@@ -136998,6 +138451,17 @@
   "ky6syM": [
     "Champion Kill"
   ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
+  ],
   "kyT6pZ": [
     "Screen Time Limits"
   ],
@@ -137787,6 +139251,9 @@
   ],
   "lCjd1A": [
     "Most underrated authors in the last decade?"
+  ],
+  "lCx19K": [
+    "Shared with Nitro"
   ],
   "lD5tup": [
     [
@@ -140029,9 +141496,6 @@
   "lxuMKW": [
     "Italy"
   ],
-  "lxwxNm": [
-    "Make a raid calendar for my World of Warcraft guild. Show a month view where members sign up for each raid as a tank, healer, or DPS, list who is coming each night, and send a reminder an hour before the raid starts."
-  ],
   "lyCW4E": [
     "Listen in on the conversation."
   ],
@@ -141561,6 +143025,9 @@
   "mWAbK4": [
     "Allows members to use emoji from other servers in these channels, if they’re a Discord Nitro member."
   ],
+  "mWL08+": [
+    "Free Trial"
+  ],
   "mWO+ys": [
     "Take action"
   ],
@@ -141623,6 +143090,24 @@
   ],
   "mXkYyW": [
     "Ignoring doesn't do what I want"
+  ],
+  "mXvZt2": [
+    "Subscribing ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "You cannot friend yourself"
@@ -146818,6 +148303,13 @@
   "nrpA5E": [
     "forward"
   ],
+  "nsG1jw": [
+    "Save ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "If you cancel, ",
     [
@@ -148361,7 +149853,15 @@
   "oSWYca": [
     "Play for ",
     [
-      1,
+      8,
+      "orbIconHook",
+      [
+        "orbIcon"
+      ]
+    ],
+    " ",
+    [
+      2,
       "count"
     ]
   ],
@@ -148846,8 +150346,8 @@
   "of440F": [
     "Friend request has been canceled."
   ],
-  "ofBNNy": [
-    "Make a movie night planner for my server. Let everyone suggest up to three movies, run a vote that closes an hour before showtime, announce the winner in chat, and keep a history of every movie we have watched together."
+  "of9bom": [
+    "Nameplate"
   ],
   "ofQnNQ": [
     "Content that shows you (or someone you're authorized to represent) nude or engaged in sexually explicit conduct"
@@ -150135,9 +151635,6 @@
   "p/zTYn": [
     "Ask for a new invite"
   ],
-  "p/zqml": [
-    "Make a chat bot that welcomes new members with a joke…"
-  ],
   "p0I2Bk": [
     "Switch up your theme color"
   ],
@@ -150761,6 +152258,13 @@
   "pDE7Gb": [
     "Get this sticker from"
   ],
+  "pDVleg": [
+    "Total savings ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Phone number is not valid."
   ],
@@ -151270,6 +152774,9 @@
   ],
   "pWLGnF": [
     "About Recent Activity"
+  ],
+  "pWSgIu": [
+    "Selecting this payment method will update your account Country/Region"
   ],
   "pWZvZk": [
     "That report is ",
@@ -154847,7 +156354,7 @@
     "Emerald"
   ],
   "qNmKhG": [
-    "Bots that greet new members, answer questions, and run your commands."
+    "Chatbots with personalities that can talk, greet new members, and help manage the server."
   ],
   "qNorwt": [
     "Pick a time to continue."
@@ -155560,6 +157067,9 @@
   "qbSCqj": [
     "Go to link"
   ],
+  "qbaf5O": [
+    "Make a raid calendar for my World of Warcraft server."
+  ],
   "qbir+4": [
     "Poll answers"
   ],
@@ -155617,6 +157127,9 @@
   ],
   "qcikJW": [
     "Try Again"
+  ],
+  "qd87yI": [
+    "Make an app that helps my server decide what new games to play. It should show upcoming releases and let us search through Steam to recommend and vote on games."
   ],
   "qdXiQ1": [
     "Found +",
@@ -156265,6 +157778,9 @@
   "qwJHjo": [
     "App"
   ],
+  "qwSlCO": [
+    "In-game item"
+  ],
   "qwfovo": [
     "Requires ",
     [
@@ -156654,6 +158170,9 @@
   ],
   "r23NoB": [
     "Remove from Stage"
+  ],
+  "r29Oel": [
+    "Avatar Decoration"
   ],
   "r2AEw1": [
     "You must meet the minimum age requirement in your country to use Discord."
@@ -157486,6 +159005,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Add new payment method"
   ],
   "rNGQfD": [
     "Share quest link"
@@ -159922,9 +161444,6 @@
   "ryPKb7": [
     "Other"
   ],
-  "ryeSuC": [
-    "Make a chat bot that welcomes every new member in our welcome channel by name, tells them a short gaming pun, points them to the rules channel, and answers simple questions about the server when someone mentions it."
-  ],
   "ryj6N5": [
     "Allows members to use @everyone (everyone in the server) or @here (only online members in that channel). They can also @mention all roles, even if the role’s “Allow anyone to mention this role” permission is disabled."
   ],
@@ -159933,9 +161452,6 @@
   ],
   "ryqCyJ": [
     "Help unlock Game Servers"
-  ],
-  "rzB/bE": [
-    "Raid Calendar"
   ],
   "rzCcjK": [
     "Nitro Packs"
@@ -164119,6 +165635,9 @@
   "t+tG59": [
     "The analytics query failed."
   ],
+  "t+xzd8": [
+    "Your subscription has been restored!"
+  ],
   "t/IjXY": [
     "All Photos"
   ],
@@ -164853,6 +166372,9 @@
   "tJzB6F": [
     "Wrong Game Is Shown"
   ],
+  "tK8A/8": [
+    "You'll need to lower the number of Boosts to use your gift card balance."
+  ],
   "tKCltd": [
     "Nitro shared successfully"
   ],
@@ -165344,6 +166866,22 @@
   "tUu8V+": [
     "Background"
   ],
+  "tUzT/U": [
+    "You are ",
+    [
+      8,
+      "$b",
+      [
+        "saving ",
+        [
+          1,
+          "percentOff"
+        ],
+        "% off"
+      ]
+    ],
+    " your first year!"
+  ],
   "tVHevX": [
     "Sent ",
     [
@@ -165498,6 +167036,9 @@
   ],
   "tZXJIS": [
     "Sort by"
+  ],
+  "tZv5cM": [
+    "Make an app that helps my server decide what new games to play."
   ],
   "tZw1EW": [
     "(Added) ",
@@ -166547,6 +168088,9 @@
   "tqD+Iq": [
     "Watch Stuff"
   ],
+  "tqEROk": [
+    "Make an overlay that tracks my K/D in Valorant."
+  ],
   "tqPJXy": [
     "New styles added!"
   ],
@@ -167497,9 +169041,6 @@
       "name"
     ]
   ],
-  "u4UWGH": [
-    "Make a movie night planner where everyone votes on what to watch"
-  ],
   "u4YJ8g": [
     "Show Less"
   ],
@@ -168004,6 +169545,35 @@
   ],
   "uCD7qK": [
     "Enable or disable keybind"
+  ],
+  "uCXulJ": [
+    "Gifting ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " saves you ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Nice move!"
   ],
   "uCebZa": [
     "Allow multiple answers"
@@ -168768,7 +170338,7 @@
     ]
   ],
   "uVOH1p": [
-    "Overlay widgets"
+    "Overlay Widgets"
   ],
   "uVUtPw": [
     "Animate and theme your profile your way."
@@ -170124,7 +171694,7 @@
     ". Claim your gift below. Item eligible for PC and Xbox only."
   ],
   "v+F6qW": [
-    "Show off your stats, mains, and best games right on your profile."
+    "Show off your stats, mains, and favorite games right on your profile."
   ],
   "v+Jm6X": [
     "Earn money from your Discord community!"
@@ -170497,9 +172067,6 @@
         "info"
       ]
     ]
-  ],
-  "v9+fAY": [
-    "Spoiler Guard"
   ],
   "v92GNV": [
     "Gives the option to choose a GIF as your banner."
@@ -171173,6 +172740,9 @@
   "vRVs07": [
     "Turning this off means no content from this server will be shown."
   ],
+  "vRpB6m": [
+    "K/D Tracker"
+  ],
   "vRw5lm": [
     "You can't join this server because of your age group."
   ],
@@ -171382,6 +172952,9 @@
     ],
     " users are playing"
   ],
+  "vYjIS6": [
+    "Make my voice channel into a library environment."
+  ],
   "vYocDz": [
     "What're you looking for?"
   ],
@@ -171452,6 +173025,14 @@
         ]
       ]
     ]
+  ],
+  "vZv6MO": [
+    "You've collected the ",
+    [
+      1,
+      "itemName"
+    ],
+    " Avatar Decoration!"
   ],
   "va4ap4": [
     "Continue playing after your trial ends"
@@ -171576,6 +173157,33 @@
   ],
   "vcqwCj": [
     "Your Issue"
+  ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Completing this purchase will update your Country/Region to ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". This means:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- You won't be able to use a payment method from a different Country/Region\n- You won't be able to change your Country/Region again for 90 days"
+      ]
+    ]
   ],
   "vct4l8": [
     "boost expiring ",
@@ -172237,6 +173845,9 @@
   "vnyGvc": [
     "Manage Game Servers"
   ],
+  "vo1ZBs": [
+    "Make a raid calendar for my World of Warcraft server. Show a month view where members sign up for each raid as a tank, healer, or DPS, list who is coming each night, and send a reminder an hour before the raid starts."
+  ],
   "vo2LdY": [
     "Create Emoji"
   ],
@@ -172577,9 +174188,6 @@
       0,
       "cardinal"
     ]
-  ],
-  "vvwBlz": [
-    "Trivia Blitz"
   ],
   "vw2RsD": [
     "Select default avatar"
@@ -173476,6 +175084,42 @@
   ],
   "wCbINr": [
     "Nitro 3 Month"
+  ],
+  "wCkwJf": [
+    "You are saving ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "% off"
+      ]
+    ],
+    " your first ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " month"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " months"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Start watching multiple streams"
@@ -175055,9 +176699,6 @@
   ],
   "wmcDyu": [
     "Claim with Orbs"
-  ],
-  "wn+Bzd": [
-    "Make a trivia game my friends can play in voice…"
   ],
   "wn7Dy8": [
     "Get Discord Nitro, rewards for your community, and access to the Partners-only server."
@@ -178621,6 +180262,9 @@
   "xdRf69": [
     "Heart an emoji? Right click to add it to your favorites!"
   ],
+  "xdWlbE": [
+    "Won in a previous cycle."
+  ],
   "xdY0pC": [
     "We highly recommend setting this to only @mentions for a Community Server."
   ],
@@ -178794,6 +180438,9 @@
   ],
   "xh/P/8": [
     "Cannot remove currently selected background"
+  ],
+  "xh0OD6": [
+    "Deadpool and Wolverine are here to slice up your profile. Shop now."
   ],
   "xhDMzR": [
     "By setting your server as a Community Server, you agree that your server complies with our ",
@@ -180022,6 +181669,9 @@
   ],
   "y6PSA3": [
     "View All"
+  ],
+  "y6T1Nu": [
+    "Closed Alpha"
   ],
   "y6WngK": [
     "A geometric fox pilots a futuristic vehicle under neon pink lighting"
@@ -182123,6 +183773,9 @@
   "yreXyD": [
     "A service we depend on is down. Your work so far is saved."
   ],
+  "yrk+N6": [
+    "Your subscription is past due. Retry payment or add a new payment method to restore it."
+  ],
   "ysbNDc": [
     "Vaporizing"
   ],
@@ -182219,6 +183872,9 @@
   ],
   "yvMu3S": [
     "Annihilating"
+  ],
+  "yvUaHi": [
+    "Plus applicable taxes"
   ],
   "yvV5Ye": [
     [
@@ -182342,6 +183998,9 @@
   ],
   "yySzqH": [
     "Sort Group DMs"
+  ],
+  "yym7Yj": [
+    "Make an in-game overlay that reads my Valorant match and shows my kills, deaths, and K/D live. When the match ends, post a recap to my server with my best game of the night."
   ],
   "yz2CIA": [
     "Verified"
@@ -184361,7 +186020,7 @@
     "Automatic (follows system settings)"
   ],
   "zm7y9u": [
-    "Timers, counters, and live stats on top of the game you are playing."
+    "In-game overlays that read your game to track live stats, or pin useful tools on top of your screen while you play."
   ],
   "zmc0mq": [
     [
@@ -184654,6 +186313,37 @@
   ],
   "zstmkn": [
     "Render Markdown"
+  ],
+  "ztU/1y": [
+    "By clicking a purchase option below, you agree to the ",
+    [
+      8,
+      "$link",
+      [
+        "Paid Services Terms"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Buying an item from the Shop means you're buying a limited license to use this item on Discord, learn more ",
+    [
+      8,
+      "$link",
+      [
+        "here"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". This purchase is non-refundable. Item will be available immediately in User Profile settings."
   ],
   "ztXW8V": [
     "Use ",

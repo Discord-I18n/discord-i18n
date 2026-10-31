@@ -1807,6 +1807,9 @@
   "+f0bXQ": [
     "Nusiųsk atsitiktinį pasveikinimo pranešimą, kai kas nors prisijungia prie serverio."
   ],
+  "+fIPjg": [
+    "Pasidovanok sau Nitro arba pasižvalgyk Parduotuvėje – gal kas patiks."
+  ],
   "+fPCTZ": [
     "Įsitikink, kad neįrašei slaptažodžio arba kitos slaptos informacijos."
   ],
@@ -3384,6 +3387,9 @@
   "/F7Z2y": [
     "Iš viso"
   ],
+  "/FQWfA": [
+    "Dovanų kortelės likutis"
+  ],
   "/FWKKC": [
     "Gali bet kada panaikinti jų nerodymą"
   ],
@@ -4159,6 +4165,9 @@
   ],
   "/YEoH2": [
     "Šis serveris tavo regione ribojamas pagal amžių. Nustatėme, kad priklausai netinkamo amžiaus grupei. Jei suklydome, gali iš naujo patvirtinti amžių."
+  ],
+  "/YovOw": [
+    "Renkami elementai"
   ],
   "/YuDAs": [
     "Prisijungė"
@@ -7016,6 +7025,37 @@
   "0ZkNDU": [
     "Žymės nepavyko pašalinti"
   ],
+  "0Zl+Xt": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Pirkdamas (-a) elementą ",
+    [
+      1,
+      "applicationName"
+    ],
+    " žaidimo parduotuvėje įsigyji ribotąją licenciją naudoti šį elementą nurodytame žaidime. Šis pirkimas negrąžinamas. Elementą pateiks kūrėjas pačiame žaidime. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Pasidalyk atsiliepimais apie naująjį programėlės išdėstymą."
   ],
@@ -8387,6 +8427,9 @@
   ],
   "11e3sB": [
     "Dėstyk paskaitas, padėk ruošti namų darbus ir studijuok kartu."
+  ],
+  "11g67A": [
+    "Kitas atnaujinimas"
   ],
   "11oKq+": [
     "Kipras"
@@ -10755,6 +10798,9 @@
   "26oeP8": [
     "Įvesk priežastį."
   ],
+  "26tjwd": [
+    "Dovanų kortelės panaudojimas"
+  ],
   "26uMPL": [
     "Tiesiog nesveikai!"
   ],
@@ -11551,6 +11597,29 @@
   ],
   "2PKrQO": [
     "Išbandyti šią išvaizdą"
+  ],
+  "2PiTTi": [
+    "Dovanoti ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Nors anksčiau buvai prijungęs (-usi) Xbox paskyrą, prijunk ją iš naujo, kad pasiektum naujas funkcijas."
@@ -12606,6 +12675,77 @@
   "2pG5Ga": [
     "Prenumeruoti"
   ],
+  "2pNIbI": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ užsisakai automatinį pakartotinį prenumeravimą. Šiandien sumokėsi ",
+    [
+      1,
+      "totalDue"
+    ],
+    ". Kai ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " pasibaigs bandomasis laikotarpis mokėsi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " ir taikytinus mokesčius kas ",
+    [
+      1,
+      "interval"
+    ],
+    " tol, kol atšauksi prenumeratą. Kainos gali keistis. Prieš pasibaigiant bandomajam laikotarpiui atsiųsime tau priminimą. Atšaukti gali bet kada nustatymuose. Taikomos ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygos"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Turi klausimų? ",
+    [
+      8,
+      "$link",
+      [
+        "Susisiek su mumis"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " arba peržiūrėk mūsų ",
+    [
+      8,
+      "$link",
+      [
+        "prenumeratų DUK"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Nustatytas fonas serverių atradimo funkcijai"
   ],
@@ -13023,6 +13163,9 @@
   "2zGdAW": [
     "Išbandyk Nitro!"
   ],
+  "2zUa6I": [
+    "Prenumerata"
+  ],
   "2zdDw5": [
     "Spustelėdamas (-a) „",
     [
@@ -13144,6 +13287,9 @@
   ],
   "30+sih": [
     "Tavo pateikti pranešimai"
+  ],
+  "302Ck/": [
+    "Tavo mokėjimo būdas išsaugotas"
   ],
   "302tKP": [
     "Gauti elementą"
@@ -15376,6 +15522,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Pašto kodas"
+  ],
   "3jprCb": [
     "Pokyčio nepavyko atlikti dėl kol kas nesulaukto mokėjimo."
   ],
@@ -15387,6 +15536,9 @@
   ],
   "3k4hTU": [
     "Išjungti veiklos bendrinimą?"
+  ],
+  "3kMstB": [
+    "Tavo išsaugoti mokėjimo būdai neatitinka tavo dabartinės šalies / regiono. Pridėjus naują bus atnaujinta tavo šalis / regionas."
   ],
   "3kVEg0": [
     "Jei išeisi, prie kito grupės plano galėsi prisijungti tik praėjus atvėsimo laikotarpiui, trunkančiam ",
@@ -15914,6 +16066,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Vienkartinė dovana"
   ],
   "3x/M9Z": [
     "Ši parduotuvės sąsaja buvo publikuota ",
@@ -18841,6 +18996,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Kitas atnaujinimas ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -20093,6 +20256,9 @@
   "5dX4UM": [
     "Nerasta GIF pagal tavo paiešką."
   ],
+  "5dmUS+": [
+    "Sutinku, kad mano skaitmeninis pirkimas būtų pristatytas nedelsiant, ir suprantu, kad, išskyrus atvejus, numatytus lėšų grąžinimo politikoje, įvykdžius šį pirkimą prarandu teisę prašyti lėšų grąžinimo."
+  ],
   "5dxvxs": [
     "Nežinau, kaip ją atlikti"
   ],
@@ -20215,6 +20381,51 @@
   ],
   "5fZHp3": [
     "Siųsti kvietimą"
+  ],
+  "5fbNBX": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ parodai, kad sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kai gauni prekę iš ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", tai reiškia, kad gauni ribotą licenciją naudoti šią prekę Discord platformoje. Sužinok daugiau ",
+    [
+      8,
+      "$link",
+      [
+        "čia"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Panaudoti Orbs negrąžinami. Šią prekę pateiks kūrėjas tiesiogiai žaidime. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Žiūrėti visą aprašą"
@@ -21623,6 +21834,13 @@
       8,
       "usernameHook",
       []
+    ]
+  ],
+  "66Wi6B": [
+    "Į tavo sąskaitą įkrito ",
+    [
+      1,
+      "price"
     ]
   ],
   "66YyBJ": [
@@ -24060,6 +24278,9 @@
   "6yrpFR": [
     "Keisti\nPiktogramą"
   ],
+  "6zCzw1": [
+    "Pridedant šį mokėjimo būdą iškilo problema. Pabandyk dar kartą arba naudok kitą mokėjimo būdą."
+  ],
   "6zFA/T": [
     "Seniai, labai seniai"
   ],
@@ -24758,6 +24979,9 @@
   ],
   "7LL+Fw": [
     "Jungtinės Valstijos"
+  ],
+  "7LeLN4": [
+    "Pritaikytas Nitro bandomasis laikotarpis"
   ],
   "7LgVmt": [
     "Peržiūrėk saugos patarimus"
@@ -26233,6 +26457,9 @@
   "7qbp3B": [
     "...daugiau"
   ],
+  "7r4HPu": [
+    "Patvirtinti ir sumokėti"
+  ],
   "7r4OKg": [
     "Leisti sinchronizavimą atlikusiems prenumeratoriams naudoti tavo Twitch jaustukus Discord platformoje."
   ],
@@ -26300,6 +26527,14 @@
   ],
   "7sW4h1": [
     "Nepavyko rasti nieko, kas turėtų tokį vardą."
+  ],
+  "7sYIBL": [
+    "Dovanojant kasmet, sutaupoma ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Šaunu!"
   ],
   "7spYft": [
     "Atnaujink mokėjimo būdą"
@@ -27168,6 +27403,31 @@
   "8CVUrV": [
     "Nemokamas Nitro bandomasis laikotarpis"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "mėnesį"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mėnesius"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mėnesių"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Bus taikomas vienkartinis mokestis už pasirinktą laiką. Nereikės mokėti kas metus."
   ],
@@ -27481,6 +27741,14 @@
   ],
   "8Joh+p": [
     "Kalbėti scenos kanale"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro"
   ],
   "8JzOBn": [
     "Numatytiesiems kanalams reikalingas ",
@@ -28559,6 +28827,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Kas mėnesį"
+  ],
   "8gpzp6": [
     "Reikiamas Atsisiųsti Turinys"
   ],
@@ -28601,6 +28872,27 @@
   ],
   "8ihs9i": [
     "Nepavyko užfiksuoti našumo duomenų"
+  ],
+  "8imbq5": [
+    "Stiprinimas skirtas: ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA VERSIJA baigiasi ",
@@ -30376,6 +30668,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    "Liko ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30400,6 +30699,9 @@
   ],
   "9Oq93m": [
     "Nariai"
+  ],
+  "9OxfNK": [
+    "Pasižvalgyk Parduotuvėje"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31776,6 +32078,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Pritaikyta prenumeratos nuolaida"
+  ],
   "9yLOND": [
     "Pašalinta ",
     [
@@ -31884,6 +32189,87 @@
   ],
   "A+pogv": [
     "Peržiūrėti rezultatus"
+  ],
+  "A+qfZ+": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ užsisakai automatinį pakartotinį prenumeravimą. Šiandien sumokėsi ",
+    [
+      1,
+      "totalDue"
+    ],
+    " ir ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " už ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Kai ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    " pasibaigs bandomasis laikotarpis, mokėsi ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " ir taikytinus mokesčius kas ",
+    [
+      1,
+      "interval"
+    ],
+    " tol, kol atšauksi prenumeratą. Kainos gali keistis. Prieš pasibaigiant bandomajam laikotarpiui atsiųsime tau priminimą. Atšaukti gali bet kada nustatymuose. Taikomos ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygos"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Turi klausimų? ",
+    [
+      8,
+      "$link",
+      [
+        "Susisiek su mumis"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " arba peržiūrėk mūsų ",
+    [
+      8,
+      "$link",
+      [
+        "prenumeratų DUK"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Sukurta"
@@ -32620,6 +33006,9 @@
   "AM3mzX": [
     "Failas"
   ],
+  "AM9XGb": [
+    "Prenumeratos dovana"
+  ],
   "AMHrre": [
     "Pateik atsiliepimą"
   ],
@@ -33203,6 +33592,13 @@
   "AcJ4ke": [
     "Nustatyk laiką, kada paaugliui negalima naudoti Discord. Tuo laiku jie negaus pranešimų ir neturės prieigos prie Discord."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " mėn."
+  ],
   "AcaNYw": [
     "Nori, kad šis serveris būtų išskirtinis? Panaudok ",
     [
@@ -33437,6 +33833,13 @@
   ],
   "AfrvRD": [
     "Pasižvalgyk po viską"
+  ],
+  "Afx5yS": [
+    "Į tavo sąskaitą įkrito ",
+    [
+      1,
+      "price"
+    ]
   ],
   "AgMngw": [
     "Orbs likutis: ",
@@ -34306,6 +34709,9 @@
   ],
   "AzkvWe": [
     "Pristatoma plytelė"
+  ],
+  "B+/GvM": [
+    "Įvesk pašto kodą"
   ],
   "B+cbLS": [
     "Keisti į Prisijungęs?"
@@ -35252,6 +35658,9 @@
   "BLqYQa": [
     "Redaguoti mokėjimo būdą"
   ],
+  "BLu9EI": [
+    "Pridėti kitą mokėjimo būdą"
+  ],
   "BLuvck": [
     "Turi būti bent ",
     [
@@ -35482,6 +35891,9 @@
   ],
   "BPoc9u": [
     "Automatiškai atjungia nuo balso ar scenos kanalų"
+  ],
+  "BPzQj4": [
+    "Pirkti"
   ],
   "BQFHXW": [
     "Tam, kad galėtum būti globėjas (-a), tau turi būti bent 18 metų"
@@ -36360,6 +36772,42 @@
   "BkVb1X": [
     "Nauji draugai, kuriuos tavo paauglys (-ė) pridėjo ar priėmė"
   ],
+  "BkYev7": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Pirkdamas (-a) elementą Parduotuvėje įsigyji ribotąją licenciją naudoti šį elementą Discord platformoje. Sužinok daugiau „Virtualiųjų prekių“ skyriuje ",
+    [
+      8,
+      "$link",
+      [
+        "čia"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Šis pirkimas negrąžinamas. Elementas bus iškart pasiekiamas naudotojo profilio nustatymuose."
+  ],
   "BkZhUI": [
     "Pasiekiama tik mobiliojoje versijoje"
   ],
@@ -36564,6 +37012,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Kodas"
+  ],
   "Bn1J+a": [
     "Panaudok savo dovaną"
   ],
@@ -36572,6 +37023,20 @@
   ],
   "BnSq1I": [
     "Neprisijungta"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Redaguoti"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37703,6 +38168,37 @@
   ],
   "CCU/wn": [
     "Atsižvelgiant į žmonių atsakymus, jiems priskirsi kanalus ir (arba) vaidmenis."
+  ],
+  "CCVlIb": [
+    "Spustelėdamas (-a) „Panaudoti“ parodai, kad sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "dovanų kortelių naudojimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " ir ",
+    [
+      8,
+      "$link",
+      [
+        "Wallet naudojimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Tu atgijai."
@@ -38865,6 +39361,14 @@
   "Chg2zd": [
     "Liesti nariams kurti tik su pakvietimu pasiekiamas gijas šiame kanale."
   ],
+  "Chj1Ke": [
+    "Nuolaida taikoma iki ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Leidžiama naudoti nuorodas, kuriomis dalijasi nariai, kad įterptasis turinys būtų rodomas teksto kanaluose."
   ],
@@ -39961,6 +40465,33 @@
   ],
   "DDpHZG": [
     "Žiūrėk. Pelnyk Orbs. Gauk apdovanojimų."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Atlikus šį pirkimą tavo šalis / regionas bus ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Todėl:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Prarasi dabartinį dovanų kortelių likutį\n- Negalėsi naudoti mokėjimo būdo iš kitos šalies / regiono\n- Negalėsi pakeisti savo naujos šalies / regiono 90 dienų"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Leidimų nerasta"
@@ -41725,6 +42256,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Atrakini išankstinę prieigą, kad Parduotuvėje galėtum įsigyti rėmelių"
+  ],
   "E6yaM+": [
     "Kosovas"
   ],
@@ -42418,6 +42952,35 @@
       "n"
     ]
   ],
+  "EOOWpo": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Gali būti, kad perki ribotą licenciją naudoti šią prekę tik kūrėjo serveryje. ",
+    [
+      8,
+      "$b",
+      [
+        "Už šį įsigijimą lėšos negali būti grąžinamos."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Pridėk vaizdą savo pakvietimo nuorodoje su stiprinimais"
   ],
@@ -42764,6 +43327,9 @@
       "username"
     ],
     " veiklą"
+  ],
+  "EUKPip": [
+    "Kažkas negerai. Patikrink informaciją ir pabandyk dar kartą."
   ],
   "EUNgko": [
     "Aktyvus nestandartinis iOS mikrofono režimas. Jei pageidauji naudoti vieną iš Discord triukšmo slopinimo parinkčių, ",
@@ -44851,6 +45417,9 @@
   "FNVJ4+": [
     "Nemokamas pseudoportreto papuošimas tavo profiliui!"
   ],
+  "FNijW7": [
+    "Kasmetinis mokėjimas"
+  ],
   "FNqmmX": [
     "Leidžia Discord naudoti ir tvarkyti tavo informaciją, kad būtų galima geriau suprasti ir pagerinti Discord paslaugas. ",
     [
@@ -45156,6 +45725,9 @@
       []
     ],
     " ir pradėk."
+  ],
+  "FVzt1W": [
+    "Mėnesinis planas"
   ],
   "FW3Qp/": [
     "Ant siūlo galo"
@@ -45572,6 +46144,9 @@
   ],
   "FjecQM": [
     "** Įjungė** jiems garsą"
+  ],
+  "Fjpyfj": [
+    "Akcija"
   ],
   "FjrXCi": [
     "Dalykis 2 savaičių bandomuoju laikotarpiu su draugais (ne daugiau kaip su ",
@@ -46205,6 +46780,35 @@
   ],
   "G0neg7": [
     "Pritaikymas neįgaliesiems"
+  ],
+  "G0nk6B": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“, sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Įsigydamas (-a) šią prekę iš esmės įsigyji ribotą licenciją naudoti šią prekę Discord platformoje. Šią prekę siūlo šios programėlės kūrėjas ir ji gali būti naudojama tik su šia programėle. ",
+    [
+      8,
+      "$b",
+      [
+        "Už šią prekę lėšos negali būti grąžinamos."
+      ]
+    ]
   ],
   "G16Wji": [
     "Sinchronizavimo ryšys nutrauktas! ",
@@ -47051,6 +47655,9 @@
   ],
   "GGlM3e": [
     "Perjungti tik išvestį"
+  ],
+  "GGn3pp": [
+    "Prenumeratos informacija"
   ],
   "GGxBdA": [
     "Burtų lazdelės jaustukas"
@@ -51448,6 +52055,9 @@
     ],
     " pradėjo bendrauti balsu."
   ],
+  "HzDn6w": [
+    "Profilio rėmelis"
+  ],
   "Hza+Bu": [
     "Gauk išskirtinių profilio efektų ir specialias nariams skirtas kainas Parduotuvėje su Nitro."
   ],
@@ -51936,6 +52546,43 @@
   ],
   "IAcEEn": [
     "Palik raštelį"
+  ],
+  "IAsfR5": [
+    "Gauk ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dieną"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " dienas"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dienų"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " ir tik paskui pradėk mokėti!"
   ],
   "IAybsG": [
     "sutaupyk ",
@@ -52605,6 +53252,42 @@
   "IOy+I5": [
     "Neišeina paleisti veiklos"
   ],
+  "IP93kX": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ parodai, kad sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kai gauni prekę Parduotuvėje, tai reiškia, kad gauni ribotą licenciją naudoti šią prekę Discord platformoje. Sužinok daugiau ",
+    [
+      8,
+      "$link",
+      [
+        "čia"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Panaudoti Orbs negrąžinami."
+  ],
   "IPO2be": [
     "Pranešti apie Serverį — ",
     [
@@ -52738,6 +53421,42 @@
   ],
   "ITUQgh": [
     "Rekomenduojamas pasirinkimas serveriams, kurie naudoja roles dėl patikimumo."
+  ],
+  "ITY3j6": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Pirkdamas (-a) elementą Parduotuvėje įsigyji ribotąją licenciją naudoti šį elementą Discord platformoje. Sužinok daugiau ",
+    [
+      8,
+      "$link",
+      [
+        "čia"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Šis pirkimas negrąžinamas. Elementas bus iškart pasiekiamas naudotojo profilio nustatymuose."
   ],
   "ITlV6p": [
     "Susiek globėją, kad išlaikytum prieigą prie savo paskyros"
@@ -55368,6 +56087,9 @@
   "JPI1pf": [
     "Jungtis prie Nitro"
   ],
+  "JPRQ9L": [
+    "Mokėti su Pix"
+  ],
   "JPU0EF": [
     "Pasirink lygius"
   ],
@@ -56286,6 +57008,24 @@
   "JsBPb8": [
     "Esamų Discord bendruomenių pavyzdžiai"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " po ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "intervalCount"
+        ],
+        " mėn."
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Valdo, kiek garso Discord perduoda iš mikrofono. Kalbėk, kad išbandytum mikrofoną, – jei matuoklis prisipildo, Discord perduoda tavo gražųjį balsą."
   ],
@@ -56450,6 +57190,14 @@
   ],
   "Jz1lXO": [
     "Pasirink vieną iš variantų, kaip patvirtinti, kad tai tikrai esi tu."
+  ],
+  "Jz6+Oj": [
+    "Dovanų kortelės likutis (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Gauk tam tikras naujas funkcijas anksčiau už visus kitus."
@@ -58571,6 +59319,14 @@
     ],
     " buvo atsiimtas."
   ],
+  "KpnRtO": [
+    "Pritaikyta ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " metų nuolaida"
+  ],
   "Kq7FAS": [
     "Nustatyk numatytuosius kanalus, kuriuos kiekvienas prisijungęs narys matys savo kanalų sąraše. Papildomus kanalus nariai galės pridėti atsakydami į tinkinimo klausimus."
   ],
@@ -58764,6 +59520,9 @@
   ],
   "KuzWUU": [
     "Sąrašo rodinys"
+  ],
+  "Kv+vV7": [
+    "Šio mokėjimo būdo negalima naudoti tavo dabartinėje šalyje / regione"
   ],
   "Kv6Z4I": [
     "Užtikrinta apsauga"
@@ -59704,6 +60463,14 @@
   ],
   "LHUP9D": [
     "Pašalinti žymę"
+  ],
+  "LHWoqL": [
+    "Pritaikyta ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " sav. nuolaida"
   ],
   "LHy5uU": [
     "Gauti DLC"
@@ -61142,6 +61909,9 @@
   "LvXy/H": [
     "Sveikiname prisijungus 👋 prie šios nuobodžios serverio parduotuvės versijos. Tai naujas būdas pasiūlyti nariams įdomių dalykų ir šiek tiek užsidirbti. Serverio nariai šio skirtuko nematys, kol nesukursi ir nepublikuosi pirmojo produkto."
   ],
+  "LvcUx4": [
+    "Atnaujinti prenumeratą"
+  ],
   "Lw6KXV": [
     "Paleidai ",
     [
@@ -61540,6 +62310,9 @@
   ],
   "M2iEy3": [
     "Pagal numatytuosius nustatymus nariams leidžiama peržiūrėti šį kanalą."
+  ],
+  "M2mY1J": [
+    "Kasmet"
   ],
   "M35zFB": [
     "Eiti į serverį"
@@ -62576,6 +63349,14 @@
   "MQoVeb": [
     "Tinkinti lipdukai visur"
   ],
+  "MR4VnX": [
+    "Atsinaujins ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -62615,6 +63396,13 @@
   ],
   "MS/4U1": [
     "Archyvuoti lygį"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " nuolaida"
   ],
   "MSWjRh": [
     "Gauk tokių tinkintų profilių ",
@@ -63278,6 +64066,14 @@
   ],
   "Mi3iPI": [
     "Peržiūrėti"
+  ],
+  "Mi5BH/": [
+    "–",
+    [
+      2,
+      "percentOff"
+    ],
+    " %"
   ],
   "Mi60fm": [
     "Paprašyk, kad globėjas (-a) nuskaitytų šį kodą"
@@ -64194,6 +64990,9 @@
   "N46WOv": [
     "Tavo reklamos puslapio URL"
   ],
+  "N4EAHm": [
+    "arba"
+  ],
   "N4ICPb": [
     "Kad galėtum žaisti šį DLC, Discord reikia turėti ",
     [
@@ -64575,6 +65374,9 @@
   ],
   "NEFeB0": [
     "Mirtis"
+  ],
+  "NEHhLR": [
+    "Metinis planas"
   ],
   "NENZhS": [
     "Reguliuoti nustatymus"
@@ -67040,6 +67842,13 @@
   "OBCR+p": [
     "Rodyti daugiau"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " mėn. planas"
+  ],
   "OBp3V3": [
     "GIF, mygtukas"
   ],
@@ -67134,6 +67943,14 @@
   ],
   "ODCYj8": [
     "Leisti nariams kurti gijas, kurias matys kiekvienas kanalo dalyvis."
+  ],
+  "ODKoJd": [
+    "Įsigyk metų planą ir sutaupyk ",
+    [
+      2,
+      "percent"
+    ],
+    " %"
   ],
   "ODXApH": [
     "Versija neprieinama"
@@ -67246,6 +68063,77 @@
   ],
   "OGpGqO": [
     "Sąrašas"
+  ],
+  "OH1Evm": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ užsisakai automatinį pakartotinį prenumeravimą. Šiandien sumokėsi ",
+    [
+      1,
+      "totalDue"
+    ],
+    ", o paskui ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " ir taikytinus mokesčius kas ",
+    [
+      1,
+      "interval"
+    ],
+    ", pradedant nuo ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tol, kol atšauksi prenumeratą. Kainos gali keistis. Atšaukti gali bet kada nustatymuose. Taikomos ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygos"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Turi klausimų? ",
+    [
+      8,
+      "$link",
+      [
+        "Susisiek su mumis"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " arba peržiūrėk mūsų ",
+    [
+      8,
+      "$link",
+      [
+        "prenumeratų DUK"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Bendrinimas"
@@ -67762,6 +68650,33 @@
   ],
   "OVN9la": [
     "Nori naudoti kitą pseudoportretą, reklamjuostę ir biografiją?"
+  ],
+  "OVhTE7": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Pirkdamas (-a) elementą ",
+    [
+      1,
+      "applicationName"
+    ],
+    " žaidimo parduotuvėje įsigyji ribotąją licenciją naudoti šį elementą nurodytame žaidime. Šis pirkimas negrąžinamas. Elementą pateiks kūrėjas pačiame žaidime."
   ],
   "OVlNGT": [
     "savo vaidmens spalvos\n",
@@ -69509,6 +70424,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Už pasirinktą laiką sumokėsi vienkartinį mokestį. Nereikės mokėti kas mėnesį. Gavėjo atsiimtos Nitro dovanos yra negrąžinamos."
+  ],
   "P5dSl0": [
     "Šešėlio spalva"
   ],
@@ -70725,6 +71662,9 @@
     ],
     " aptikimą?"
   ],
+  "PZDPvQ": [
+    "Reikalingas dovanų kortelės kodas"
+  ],
   "PZLnuD": [
     "Veikla baigėsi.\nPradėti naują?"
   ],
@@ -71602,6 +72542,29 @@
       ]
     ],
     " pridėjo žinutę į pradžios puslapį"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mėnesio"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mėnesių"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitro prenumerata"
   ],
   "PygWIS": [
     "Prisijungiama"
@@ -72939,6 +73902,24 @@
   "QXMYAb": [
     "Simboliai"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " po ",
+    [
+      8,
+      "$b",
+      [
+        [
+          2,
+          "intervalCount"
+        ],
+        " mėn."
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Kaip sekėsi su ",
     [
@@ -74122,6 +75103,9 @@
   ],
   "R0VpSW": [
     "Gauti pranešimą, kai serveryje, kuriame esi, artėja renginys."
+  ],
+  "R0cZsM": [
+    "Bendra šiandienos suma"
   ],
   "R0h4pE": [
     "Dar ",
@@ -78991,6 +79975,9 @@
   "Sx8Ezi": [
     "Pabandyk naudoti scenos kanalą!"
   ],
+  "SxKq52": [
+    "Kasmetinis mokėjimas"
+  ],
   "SxLn1y": [
     "Būsi geriausias"
   ],
@@ -81538,6 +82525,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Kitas atnaujinimas"
+  ],
   "TtA5rK": [
     "Naudoti išorines programėles"
   ],
@@ -81955,6 +82945,13 @@
   ],
   "U26WX+": [
     "Deja, negali priimti šios dovanos, kadangi prenumeratoje yra neapmokėta sąskaita faktūra."
+  ],
+  "U2CmMW": [
+    "Dabar moki ",
+    [
+      1,
+      "priceAmount"
+    ]
   ],
   "U2JFHZ": [
     "jaustuko_pavadinimas"
@@ -83436,6 +84433,9 @@
   "UdNuqi": [
     "Neoninis kosmosas"
   ],
+  "UdSuwf": [
+    "Šiam pirkimui reikalingas prenumeratos mokėjimo būdas."
+  ],
   "UdXO8P": [
     "Oi! Negali atsiimti ",
     [
@@ -84597,6 +85597,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Norėdamas (-a) ką nors įsigyti dovanų kortele, turėsi naudoti kompiuterio arba internetinę programėlę."
+  ],
   "V3Gri+": [
     "Prancūzų k."
   ],
@@ -85299,6 +86302,9 @@
   ],
   "VJRr3Y": [
     "Peršok į dėliones vienam, vakarėlių žaidimus, konkurencingus susirėmimums ir ne tik."
+  ],
+  "VJXTzd": [
+    "Pasidovanok sau ką nors iš Parduotuvės arba pradžiugink kurį nors kitą Discord naudotoją."
   ],
   "VJcK41": [
     [
@@ -87877,6 +88883,9 @@
   "WJisip": [
     "Paliesk, kad nustatytum kaip miniatiūrą"
   ],
+  "WJmme7": [
+    "Šiai operacijai negalima naudoti šio mokėjimo būdo."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -89226,6 +90235,9 @@
   "WmfZHZ": [
     "Kopijuoti misijos nuorodą"
   ],
+  "WmjxYl": [
+    "Diena"
+  ],
   "WmsPis": [
     "Kokią veiklą bendrinu"
   ],
@@ -89419,6 +90431,9 @@
   ],
   "Wr4RIX": [
     "Šiame kanale intarpai išjungti."
+  ],
+  "WrFWOV": [
+    "Mokėjimas kas mėnesį"
   ],
   "WrQD/Y": [
     "Ignoruoti ",
@@ -89682,6 +90697,14 @@
   ],
   "WzC9s6": [
     "Noriu taikyti išskirtinę prieigą visam savo serveriui"
+  ],
+  "WzJTZI": [
+    "Pritaikyta ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " d. nuolaida"
   ],
   "WzM5YA": [
     "nba"
@@ -90229,6 +91252,9 @@
   ],
   "XBrJT6": [
     "Gaunamas Skambutis"
+  ],
+  "XBtSMa": [
+    "Sutinku su pristatymu nedelsiant"
   ],
   "XBwns+": [
     "Nežinomas serveris"
@@ -91136,6 +92162,22 @@
   "XWkJoi": [
     "Automatiniai klipai"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Nemokamas apdovanojimas pasirinktas"
+        ],
+        "other": [
+          "Nemokami apdovanojimai pasirinkti"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Neapribota"
   ],
@@ -92021,6 +93063,9 @@
   "Xrcmjk": [
     "Neutralus"
   ],
+  "Xrg8aC": [
+    "Metai"
+  ],
   "XrpYIG": [
     "Whiteboard gali naudoti tik šiuos vaidmenis turintys naudotojai. Palik tuščią, jei nori leisti naudoti visiems. Pakeitimai įsigalioja iškart."
   ],
@@ -92777,6 +93822,9 @@
         "Bet kuriuo metu gali iš naujo pratęsti savo prenumeratą."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Parinkome mokėjimo būdą, kuris atitinka tavo šalį / regioną."
   ],
   "Y6qWLc": [
     "Siųsti žinutę kanale ",
@@ -93623,6 +94671,9 @@
   "YTvOUx": [
     "Pridėk visame Discord ir visuose su šia paskyra susietuose žaidimuose"
   ],
+  "YUNJJa": [
+    "Sutaupai su Nitro"
+  ],
   "YUSOKl": [
     "Blokuoti šią paskyrą?"
   ],
@@ -93905,6 +94956,9 @@
   ],
   "YZd5rw": [
     "Dabar turi puikių pranašumų visiems metams. Išnaudok juos, bičiuli!"
+  ],
+  "YZePWx": [
+    "Suprantu"
   ],
   "YZiJbh": [
     "Bandome aptikti Discord paskyrą iš tavo numatytosios naršyklės. Sekundėlę..."
@@ -95594,6 +96648,14 @@
     ],
     " politiką."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitro Basic"
+  ],
   "ZAbzbA": [
     "Trikčiai sudavei ",
     [
@@ -96440,6 +97502,14 @@
   ],
   "ZQ37tH": [
     "Šis vaidmuo nariams priskiriamas automatiškai. Jei neįmanoma priskirti arba pašalinti rankiniu būdu."
+  ],
+  "ZQLDzk": [
+    "Pritaikyta ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " mėn. nuolaida"
   ],
   "ZQakPR": [
     "Tavo Discord"
@@ -97421,6 +98491,9 @@
   "ZnkeXs": [
     "Raktas pašalintas!"
   ],
+  "ZnoRKt": [
+    "Mėnuo"
+  ],
   "ZnqyZ2": [
     "Peržiūrėk visus Nitro pranašumus"
   ],
@@ -97997,6 +99070,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Iš viso"
   ],
   "Zxk1OF": [
     "Šabloniniai kanalai"
@@ -99840,6 +100916,9 @@
   ],
   "ajkYcF": [
     "Toliau"
+  ],
+  "ajn5LL": [
+    "Mokėjimas kas mėnesį"
   ],
   "ajzh8S": [
     "Tavo profilio matomumo nustatymas yra ",
@@ -102566,6 +103645,77 @@
   "bbUIWp": [
     "Pakviesk kontaktus susirašinėti"
   ],
+  "bbgJdE": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ užsisakai automatinį pakartotinį prenumeravimą. Šiandien sumokėsi ",
+    [
+      1,
+      "totalDue"
+    ],
+    ", o paskui ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " ir taikytinus mokesčius kas ",
+    [
+      1,
+      "interval"
+    ],
+    ", pradedant nuo ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " tol, kol atšauksi prenumeratą. Šią prekę siūlo šios programėlės kūrėjas ir ji gali būti naudojama tik su šia programėle. Kainos gali keistis. Atšaukti gali bet kada nustatymuose. Taikomos ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygos"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Turi klausimų? ",
+    [
+      8,
+      "$link",
+      [
+        "Susisiek su mumis"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " arba peržiūrėk mūsų ",
+    [
+      8,
+      "$link",
+      [
+        "prenumeratų DUK"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Tikrinamas Diegimas – ",
     [
@@ -102623,6 +103773,9 @@
   ],
   "bdBmqy": [
     "Aktyvumas"
+  ],
+  "bdF0KJ": [
+    "Dovanų kortelės koregavimas"
   ],
   "bdMG43": [
     "Bombos padėjimas"
@@ -105882,6 +107035,9 @@
   "cbtPXy": [
     "Dizainas buvo atnaujintas."
   ],
+  "ccWIdu": [
+    "Sąskaitos likutis turi padengti visą mokėtiną sumą"
+  ],
   "cd": [
     "CD",
     "diskas",
@@ -107706,6 +108862,47 @@
       "device"
     ]
   ],
+  "cwuBkH": [
+    "Spustelėdamas (-a) „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "“ parodai, kad sutinki su ",
+    [
+      8,
+      "$link",
+      [
+        "mokamų paslaugų teikimo sąlygomis"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kai gauni prekę iš ",
+    [
+      1,
+      "applicationName"
+    ],
+    ", tai reiškia, kad gauni ribotą licenciją naudoti šią prekę Discord platformoje. Sužinok daugiau ",
+    [
+      8,
+      "$link",
+      [
+        "čia"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Panaudoti Orbs negrąžinami. Šią prekę pateiks kūrėjas tiesiogiai žaidime."
+  ],
   "cxFiDC": [
     "Grubi Kalba"
   ],
@@ -109078,6 +110275,9 @@
   ],
   "dRycVz": [
     "Panaikinti atšaukimą dabar"
+  ],
+  "dSPkHo": [
+    "Įvesk kodą"
   ],
   "dSRTMB": [
     "Siųsti įtartinas AŽ į atskirą brukalo aplanką. Nariai gali siųsti pranešimą apie brukalą arba jį perkelti atgal į gautųjų aplanką."
@@ -112174,6 +113374,9 @@
   "eTVbtx": [
     "Nauja kategorija"
   ],
+  "eTYAvF": [
+    "Profilio efektas"
+  ],
   "eTmN5a": [
     "Negalima pašalinti dėl administratoriaus prieigos."
   ],
@@ -113066,6 +114269,9 @@
   ],
   "eoXe0r": [
     "Rūšiuoti pagal: naujausi"
+  ],
+  "eoXh7B": [
+    "Užsakymo santrauka"
   ],
   "eontIh": [
     "Gauk visus lipdukus su ",
@@ -114571,6 +115777,16 @@
     ],
     " nepavyko pridėti."
   ],
+  "fJnl1h": [
+    "Nematai mokėjimo lango? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Atidaryti iš naujo"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Jei išmeti, naują paraišką gali pradėti su pakvietimo nuoroda."
   ],
@@ -115673,6 +116889,9 @@
     "lengvumas",
     "plunksna",
     "skrydis"
+  ],
+  "febr+T": [
+    "Dovanų kortelės likutis"
   ],
   "feet": [
     "letenos",
@@ -119260,6 +120479,31 @@
   "gvXH+a": [
     "Negali tvarkyti prenumeratos"
   ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "metus"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " metus"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " metų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "gvgh9L": [
     "Atnaujinta vakar"
   ],
@@ -121660,6 +122904,9 @@
     "vaistažolė",
     "žolelė"
   ],
+  "hewwdA": [
+    "Pirkimas programėlėje"
+  ],
   "hf6YOY": [
     "Nuolaidą gausi su ",
     [
@@ -121878,6 +123125,9 @@
   "hjlZZf": [
     "Pakeitimas įsigalios per 24 valandas."
   ],
+  "hjsn+s": [
+    "Dabartinis mokėjimo būdas"
+  ],
   "hjvcLO": [
     "Serverio stiprinimai"
   ],
@@ -121980,6 +123230,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Panaudoti"
   ],
   "hnbagF": [
     "Gauk stiprinimą po pirmo Nitro naudojimo mėnesio."
@@ -122801,6 +124054,13 @@
   "i338qh": [
     "Pledas"
   ],
+  "i3Q/6S": [
+    "Kaina iš viso pakeista ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Prisijunk, kad nuoroda būtų išsiųsta dar kartą."
   ],
@@ -123055,6 +124315,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Panaudoti dovanų kortelę"
   ],
   "iBUzS5": [
     "Pašalinti Diegimo Vietą"
@@ -123616,6 +124879,31 @@
   "iPdFOt": [
     "Atnaujinti kanalo leidimus"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "dieną"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " dienas"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dienų"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Pagerink Discord naudojimo patirtį"
   ],
@@ -124078,6 +125366,9 @@
   ],
   "iZRkC/": [
     "Nežinomas"
+  ],
+  "iZe9Wy": [
+    "Produktas"
   ],
   "iZf+eD": [
     "Buvo pernelyg sudėtinga išsiaiškinti, kaip serveris veikia"
@@ -126113,6 +127404,9 @@
     ],
     " failų dydžio limitą"
   ],
+  "jM8/71": [
+    "Paketas"
+  ],
   "jMFSQV": [
     "Tau gali parašyti bet kuris serverio narys"
   ],
@@ -127738,6 +129032,9 @@
   ],
   "jxIxJL": [
     "Valydamas narius laikyk SHIFT, kad praleistum šį iškylantįjį langą."
+  ],
+  "jxUJkZ": [
+    "Nauja pasikartojanti suma"
   ],
   "jxXMEz": [
     "Pateikti duomenų prašymą"
@@ -130139,6 +131436,17 @@
   ],
   "ky6syM": [
     "Čempiono nužudymas"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Ekrano naudojimo laiko apribojimai"
@@ -134334,6 +135642,9 @@
   "mWAbK4": [
     "Discord Nitro nariams leidžiama naudoti jaustukus iš kitų serverių šiuose kanaluose."
   ],
+  "mWL08+": [
+    "Nemokamas bandomasis laikotarpis"
+  ],
   "mWO+ys": [
     "Imtis veiksmų"
   ],
@@ -134402,6 +135713,24 @@
   ],
   "mXkYyW": [
     "Ignoravimas neduoda mano norimo rezultato"
+  ],
+  "mXvZt2": [
+    "Prenumeruojama ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Savęs negali priimti į draugus"
@@ -139055,6 +140384,13 @@
   "nrpA5E": [
     "persiųsti"
   ],
+  "nsG1jw": [
+    "Sutaupyk ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Jei atšauksi dabar, ",
     [
@@ -140988,6 +142324,9 @@
   "of440F": [
     "Prašymas draugauti buvo atšauktas."
   ],
+  "of9bom": [
+    "Vardo lentelė"
+  ],
   "ofQnNQ": [
     "Turinys, kuriame tu (ar asmuo, kuriam esi įgaliotas (-a) atstovauti) esi nuogas (-a) ar užsiimi seksualinio pobūdžio veikla"
   ],
@@ -142751,6 +144090,13 @@
   "pDE7Gb": [
     "Gauk šį lipduką iš"
   ],
+  "pDVleg": [
+    "Iš viso sutaupai ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Telefono numeris neteisingas."
   ],
@@ -143226,6 +144572,9 @@
   ],
   "pWLGnF": [
     "Apie naujausią veiklą"
+  ],
+  "pWSgIu": [
+    "Pasirinkus šį mokėjimo būdą bus atnaujinta tavo paskyros šalis / regionas"
   ],
   "pWZvZk": [
     "Ačiū už labai ",
@@ -147852,6 +149201,9 @@
   "qwJHjo": [
     "Programėlė"
   ],
+  "qwSlCO": [
+    "Žaidimo elementas"
+  ],
   "qwfovo": [
     "Reikia ",
     [
@@ -148253,6 +149605,9 @@
   ],
   "r23NoB": [
     "Pašalink iš scenos kanalo"
+  ],
+  "r29Oel": [
+    "Pseudoportreto papuošimas"
   ],
   "r2AEw1": [
     "Tam, kad galėtum naudotis Discord, turi atitikti minimalaus amžiaus reikalavimą savo šalyje."
@@ -149064,6 +150419,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Pridėti naują mokėjimo būdą"
   ],
   "rNGQfD": [
     "Bendrinti misijos nuorodą"
@@ -155229,6 +156587,9 @@
   "t+gj5V": [
     "Šiai taisyklei turi pridėti bent vieną veiksmą."
   ],
+  "t+xzd8": [
+    "Tavo prenumerata atkurta!"
+  ],
   "t/IjXY": [
     "Visos nuotraukos"
   ],
@@ -155928,6 +157289,9 @@
   "tJzB6F": [
     "Rodomas ne tas žaidimas"
   ],
+  "tK8A/8": [
+    "Norint panaudoti dovanų kortelės likutį, reikės sumažinti stiprinimų skaičių."
+  ],
   "tKCltd": [
     "Sėkmingai pasidalijai Nitro"
   ],
@@ -156396,6 +157760,21 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    [
+      8,
+      "$b",
+      [
+        "Sutaupai ",
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " pirmųjų metų kainos!"
   ],
   "tVHevX": [
     "Išsiųsta prieš ",
@@ -158899,6 +160278,19 @@
   "uCD7qK": [
     "Įgalinti arba išjungti greituosius klavišus"
   ],
+  "uCXulJ": [
+    "Dovanojant ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " mėn. prenumeratą sutaupoma ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Šaunu!"
+  ],
   "uCebZa": [
     "Leisti daugiau nei vieną atsakymą"
   ],
@@ -160436,6 +161828,9 @@
     "atidaryta",
     "atrakinta",
     "spyna"
+  ],
+  "uo9YsP": [
+    "Ši dovanų kortelė jau panaudota."
   ],
   "uoQFIp": [
     "Pridėti duomenis"
@@ -162342,6 +163737,33 @@
   "vcqwCj": [
     "Tavo problema"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Atlikus šį pirkimą tavo šalis / regionas bus ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Todėl:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- Negalėsi naudoti mokėjimo būdo iš kitos šalies / regiono\n- Negalėsi pakeisti savo naujos šalies / regiono 90 dienų"
+      ]
+    ]
+  ],
   "vct4l8": [
     "stiprinimas baigs galioti ",
     [
@@ -164153,6 +165575,40 @@
   ],
   "wCbINr": [
     "Nitro 3 mėn."
+  ],
+  "wCkwJf": [
+    "Sutaupai ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " nuo ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "pirmojo mėnesio"
+        ],
+        "other": [
+          "pirmųjų ",
+          [
+            7
+          ],
+          " mėnesių"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " kainos!"
   ],
   "wCrzut": [
     "Pradėk žiūrėti kelis srautus"
@@ -172111,6 +173567,9 @@
   "yr9TTf": [
     "Pašalinti iš pageidavimų sąrašo"
   ],
+  "yrk+N6": [
+    "Tavo prenumerata yra pasibaigusi. Norėdamas (-a) ją atnaujinti, pabandyk atlikti mokėjimą dar kartą arba pridėk naują mokėjimo būdą."
+  ],
   "ysbNDc": [
     "Paleidžiama dūmais"
   ],
@@ -172200,6 +173659,9 @@
   ],
   "yvMu3S": [
     "Sutriuškinama"
+  ],
+  "yvUaHi": [
+    "Pridedami taikytini mokesčiai"
   ],
   "yvV5Ye": [
     [

@@ -1870,6 +1870,9 @@
   "+f0bXQ": [
     "Pošalji neku nasumičnu poruku dobrodošlice kad se netko pridruži ovom serveru."
   ],
+  "+fIPjg": [
+    "Počasti se Nitrom ili istraži Trgovinu i pronađi nešto što voliš."
+  ],
   "+fPCTZ": [
     "Osiguraj da nije unesena lozinka i ni jedna druga osjetljiva informacija."
   ],
@@ -3476,6 +3479,9 @@
   "/F7Z2y": [
     "Ukupno"
   ],
+  "/FQWfA": [
+    "Saldo darovne kartice"
+  ],
   "/FWKKC": [
     "U svakom trenutku možeš poništiti njihovo sakrivanje"
   ],
@@ -4305,6 +4311,9 @@
   ],
   "/YEoH2": [
     "Ovaj server ima dobno ograničenje u tvojoj regiji. Utvrdili smo da si u dobno ograničenoj grupi. Ako smo pogriješili, možeš ponovno potvrditi."
+  ],
+  "/YovOw": [
+    "Kolekcionarski predmet"
   ],
   "/YuDAs": [
     "Pridružen/a"
@@ -7205,6 +7214,37 @@
   "0ZkNDU": [
     "Uklanjanje taga nije uspjelo"
   ],
+  "0Zl+Xt": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kupnja predmeta iz ",
+    [
+      1,
+      "applicationName"
+    ],
+    " trgovine igara znači da kupuješ ograničenu licencu za korištenje ovog predmeta u navedenoj igri. Ova je kupnja nepovratna. Ovaj će predmet isporučiti developer izravno u igri. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Podijeli s nama svoje dojmove o novom izgledu aplikacije."
   ],
@@ -8552,6 +8592,9 @@
   ],
   "11e3sB": [
     "Održi predavanje, pomozi napisati zadaću, uči zajedno."
+  ],
+  "11g67A": [
+    "Sljedeća obnova"
   ],
   "11oKq+": [
     "Cipar"
@@ -10958,6 +11001,9 @@
   "26oeP8": [
     "Unesi razlog."
   ],
+  "26tjwd": [
+    "Iskoristi darovnu karticu"
+  ],
   "26uMPL": [
     "Opako!!"
   ],
@@ -11798,6 +11844,29 @@
   ],
   "2PKrQO": [
     "Isprobaj ovaj izgled"
+  ],
+  "2PiTTi": [
+    "Dar za ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Unatoč tome što si u prošlosti povezao/la svoj Xbox račun, molimo te da to ponoviš kako bi se omogućili noviteti."
@@ -12839,6 +12908,77 @@
   "2pG5Ga": [
     "Pretplati se"
   ],
+  "2pNIbI": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da uzimaš ponavljajuću pretplatu. Naplatit ćemo ti ",
+    [
+      1,
+      "totalDue"
+    ],
+    " danas. Kada tvoje probno razdoblje završi ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", naplatit ćemo ti ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " uz primjenjive poreze svakih ",
+    [
+      1,
+      "interval"
+    ],
+    " sve do otkazivanja. Cijene se mogu promijeniti. Poslat ćemo ti podsjetnik prije završetka probnog razdoblja. Otkaži kad poželiš u postavkama. Primjenjuju se ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjeti komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Imaš li pitanja? ",
+    [
+      8,
+      "$link",
+      [
+        "Obrati nam se"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " ili pogledaj naša ",
+    [
+      8,
+      "$link",
+      [
+        "Česta pitanja o pretplatama"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Podesi pozadinu za Otkrivanje servera"
   ],
@@ -13303,6 +13443,9 @@
   "2zGdAW": [
     "Isprobaj Nitro!"
   ],
+  "2zUa6I": [
+    "Pretplata"
+  ],
   "2zdDw5": [
     "Klikneš li „",
     [
@@ -13423,6 +13566,9 @@
   ],
   "30+sih": [
     "Prijave koje si podijelio/la"
+  ],
+  "302Ck/": [
+    "Tvoj je način plaćanja spremljen"
   ],
   "302tKP": [
     "Uzmi predmet"
@@ -15758,6 +15904,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "Poštanski broj"
+  ],
   "3jprCb": [
     "Nije moguće obraditi promjenu zbog plaćanja na čekanju."
   ],
@@ -15769,6 +15918,9 @@
   ],
   "3k4hTU": [
     "Želiš onemogućiti Dijeljenje aktivnosti?"
+  ],
+  "3kMstB": [
+    "Tvoji spremljeni načini plaćanja ne odgovaraju tvojoj trenutačnoj državi/regiji. Dodavanjem nove ažurirat će se tvoja država/regija. Doznaj više."
   ],
   "3kVEg0": [
     "Ako odeš, drugom se grupnom modelu možeš pridružiti tek po završetku ",
@@ -16285,6 +16437,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Jednokratni dar"
   ],
   "3x/M9Z": [
     "Ovaj je izlog objavljen ",
@@ -19301,6 +19456,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Sljedeća obnova ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -20517,6 +20680,9 @@
   "5dX4UM": [
     "Niti jedan GIF ne odgovara tvojoj pretrazi."
   ],
+  "5dmUS+": [
+    "Slažem se s trenutnom dostavom moje digitalne kupnje i potvrđujem da nakon dovršetka ove kupnje gubim pravo na povrat novca, osim u iznimnim slučajevima navedenima u Pravilima o povratu sredstava."
+  ],
   "5dxvxs": [
     "Ne znam kako dovršiti"
   ],
@@ -20655,6 +20821,51 @@
   ],
   "5fZHp3": [
     "Pošalji pozivnicu"
+  ],
+  "5fbNBX": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Preuzimanjem predmeta iz ",
+    [
+      1,
+      "applicationName"
+    ],
+    " znači da prihvaćaš ograničenu licencu za korištenje tog predmeta na Discordu. Više o tome možeš doznati ",
+    [
+      8,
+      "$link",
+      [
+        "ovdje"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Za iskorištene orbove ne možeš dobiti povrat. Ovaj će predmet developer isporučiti izravno u igri. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Pogledaj puni opis"
@@ -22067,6 +22278,13 @@
       8,
       "usernameHook",
       []
+    ]
+  ],
+  "66Wi6B": [
+    "Dodano na tvoj račun: ",
+    [
+      1,
+      "price"
     ]
   ],
   "66YyBJ": [
@@ -24490,6 +24708,9 @@
   "6yrpFR": [
     "Promijeni ikonu"
   ],
+  "6zCzw1": [
+    "Došlo je do problema pri dodavanju ovog načina plaćanja. Pokušaj ponovno ili upotrijebi drugi način plaćanja."
+  ],
   "6zFA/T": [
     "Vrlo, vrlo rano"
   ],
@@ -25180,6 +25401,9 @@
   ],
   "7LL+Fw": [
     "Sjedinjene Američke Države"
+  ],
+  "7LeLN4": [
+    "Primijenjeno je probno razdoblje Nitra"
   ],
   "7LgVmt": [
     "Pregledaj savjete u vezi sigurnosti"
@@ -26703,6 +26927,9 @@
   "7qbp3B": [
     "...još"
   ],
+  "7r4HPu": [
+    "Potvrdi i plati"
+  ],
   "7r4OKg": [
     "Omogući sinkroniziranim pretplatnicima da koriste tvoje prilagođene Twitch emotikone unutar Discorda."
   ],
@@ -26770,6 +26997,14 @@
   ],
   "7sW4h1": [
     "Nismo pronašli nijednu osobu s tim imenom."
+  ],
+  "7sYIBL": [
+    "Darovanje godišnje pretplate donosi ti uštedu od ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. To je dobar potez!"
   ],
   "7spYft": [
     "Ažuriranje načina plaćanja"
@@ -27584,6 +27819,31 @@
   "8CVUrV": [
     "Besplatno probno razdoblje za Nitro"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "mjesec"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Ovo će biti jednokratna naplata za razdoblje koje je odabrano. Neće ti biti obračunato godišnje."
   ],
@@ -27884,6 +28144,14 @@
   ],
   "8Joh+p": [
     "Govori na pozornici"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " Nitra"
   ],
   "8JzOBn": [
     "Zadani kanali trebaju imati ",
@@ -28937,6 +29205,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Mjesečno"
+  ],
   "8gpzp6": [
     "Sadržaj koji se može preuzeti"
   ],
@@ -28978,6 +29249,27 @@
   ],
   "8ihs9i": [
     "Bilježenje zapisa o izvedbi nije uspjelo"
+  ],
+  "8imbq5": [
+    "Boostaj ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "BETA verzija završava ",
@@ -30870,6 +31162,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    "Dostupno: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30894,6 +31193,9 @@
   ],
   "9Oq93m": [
     "Članovi"
+  ],
+  "9OxfNK": [
+    "Istraži trgovinu"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -32287,6 +32589,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Primijenjen je popust na pretplatu"
+  ],
   "9yLOND": [
     "Datum uklanjanja: ",
     [
@@ -32395,6 +32700,87 @@
   ],
   "A+pogv": [
     "Prikaži rezultate"
+  ],
+  "A+qfZ+": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da uzimaš ponavljajuću pretplatu. Naplatit ćemo ti ",
+    [
+      1,
+      "totalDue"
+    ],
+    " danas i ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " tijekom ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Kada tvoje probno razdoblje završi ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", naplatit ćemo ti ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " uz plative poreze svakih ",
+    [
+      1,
+      "interval"
+    ],
+    " sve do otkazivanja. Cijene se mogu promijeniti. Poslat ćemo ti podsjetnik prije završetka probnog razdoblja. Otkaži kad poželiš u postavkama. Primjenjuju se ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjeti komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Imaš li pitanja? ",
+    [
+      8,
+      "$link",
+      [
+        "Obrati nam se"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " ili pogledaj naša ",
+    [
+      8,
+      "$link",
+      [
+        "Česta pitanja o pretplatama"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Datum stvaranja"
@@ -33154,6 +33540,9 @@
   "AM3mzX": [
     "Datoteka"
   ],
+  "AM9XGb": [
+    "Pretplata kao dar"
+  ],
   "AMHrre": [
     "Pošaljite nam povratne informacije"
   ],
@@ -33748,6 +34137,13 @@
   "AcJ4ke": [
     "Postavi sate u kojima tvoj tinejdžer ne smije koristiti Discord. Tijekom tog razdoblja neće primati obavijesti i neće moći pristupiti Discordu."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " mjeseca/mjeseci"
+  ],
   "AcaNYw": [
     "Želiš da tvoj server izgleda kao nijedan drugi? Oslobodi pristup svojeručno prilagođenim bannerima servera uz još ",
     [
@@ -34002,6 +34398,13 @@
   ],
   "AfrvRD": [
     "Kupi sve"
+  ],
+  "Afx5yS": [
+    [
+      1,
+      "price"
+    ],
+    " je dodano na tvoj račun"
   ],
   "AgMngw": [
     "Stanje orbova: ",
@@ -34879,6 +35282,9 @@
   ],
   "AzkvWe": [
     "Pločica Istaknuto"
+  ],
+  "B+/GvM": [
+    "Unesi poštanski broj"
   ],
   "B+cbLS": [
     "Želiš li prijeći online?"
@@ -35789,6 +36195,9 @@
   "BLqYQa": [
     "Uredi način plaćanja"
   ],
+  "BLu9EI": [
+    "Dodaj drugi način plaćanja"
+  ],
   "BLuvck": [
     "Najmanje ",
     [
@@ -35997,6 +36406,9 @@
   ],
   "BPoc9u": [
     "Automatski odvaja korisnika od glasovnog ili kanala s pozornicom"
+  ],
+  "BPzQj4": [
+    "Kupnja"
   ],
   "BQFHXW": [
     "Moraš imati 18 ili više godina da bi bio povezani skrbnik"
@@ -36885,6 +37297,42 @@
   "BkVb1X": [
     "Novi prijatelji koje je tvoj tinejdžer dodao ili prihvatio"
   ],
+  "BkYev7": [
+    "Klikneš li na „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kupnja predmeta iz Trgovine znači da kupuješ ograničenu licencu za korištenje ovog predmeta na Discordu. Doznaj više u odjeljku „Virtualna roba” koji je dostupan ",
+    [
+      8,
+      "$link",
+      [
+        "ovdje"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Ova je kupnja nepovratna. Predmet će odmah biti dostupan u postavkama korisničkog profila."
+  ],
   "BkZhUI": [
     "Dostupno samo na mobilnim uređajima"
   ],
@@ -37089,6 +37537,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Kôd"
+  ],
   "Bn1J+a": [
     "Iskoristi svoj dar"
   ],
@@ -37097,6 +37548,20 @@
   ],
   "BnSq1I": [
     "Nepovezano"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Uredi"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -38269,6 +38734,37 @@
   "CCU/wn": [
     "Druge ćeš osobe dodjeljivati kanalima i/ili ulogama na temelju njihovih odgovora."
   ],
+  "CCVlIb": [
+    "Klikom na „Iskoristi” pristaješ na ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete darovnih kartica"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " i ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete novčanika"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "CCiFY7": [
     "Ponovno si se pojavio/la."
   ],
@@ -39440,6 +39936,14 @@
   "Chg2zd": [
     "Dopusti članovima da stvaraju niti sa sudjelovanjem samo na poziv u ovom kanalu."
   ],
+  "Chj1Ke": [
+    "Popust vrijedi do ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Omogućuje linkove koje članovi dijele za prikazivanje ugrađenog sadržaja u tekstualnim kanalima."
   ],
@@ -40532,6 +41036,33 @@
   ],
   "DDpHZG": [
     "Gledaj. Osvajaj orbove. Osvajaj nagrade."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Dovršavanjem ove kupnje ažurirat će se tvoja država/regija na ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". To znači:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- izgubit ćeš trenutačni saldo na darovnoj kartici\n- nećeš moći koristiti način plaćanja iz druge države/regije\n- nećeš moći ponovno promijeniti svoju državu/regiju tijekom 90 dana"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Nijedno dopuštenje nije pronađeno"
@@ -42331,6 +42862,9 @@
     ],
     "?"
   ],
+  "E6ghtw": [
+    "Otključavaš rani pristup za kupnju okvira u trgovini"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -43075,6 +43609,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Klikom na „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” pristaješ na ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Možda kupuješ ograničenu licencu za korištenje ovog artikla samo unutar servera stvaratelja. ",
+    [
+      8,
+      "$b",
+      [
+        "Za ovu kupnju povrat novca nije moguć."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Uzmi Boost pa dodaj sliku u tvoje pozivnice za server"
   ],
@@ -43453,6 +44016,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Nešto je pošlo krivo. Provjeri svoje podatke i pokušaj ponovno."
   ],
   "EUNgko": [
     "Aktivan je nestandardni način rada iOS mikrofona. Želiš li koristiti jednu od Discordovih opcija za potiskivanje šuma, odaberi standardni način rada mikrofona u ",
@@ -45577,6 +46143,9 @@
   "FNVJ4+": [
     "Besplatni ukras avatara za tvoj profil!"
   ],
+  "FNijW7": [
+    "Novi godišnje ponavljajući"
+  ],
   "FNqmmX": [
     "Dopusti Discordu da koristi i obrađuje moje podatke u svrhu razumijevanja i poboljšanja Discordovih usluga. ",
     [
@@ -45884,6 +46453,9 @@
       []
     ],
     " je pomoć za početak."
+  ],
+  "FVzt1W": [
+    "Mjesečni model"
   ],
   "FW3Qp/": [
     "Malo visim"
@@ -46289,6 +46861,9 @@
       ]
     ],
     " korisnika"
+  ],
+  "Fjpyfj": [
+    "Promocija"
   ],
   "FjrXCi": [
     "Podijeli dvotjedno probno razdoblje s do ",
@@ -46906,6 +47481,35 @@
   ],
   "G0neg7": [
     "Pristupačnost"
+  ],
+  "G0nk6B": [
+    "Klikom na „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kupnjom ovog artikla stječeš ograničenu licencu za korištenje tog artikla na Discordu. Tu kupnju nudi developer ove aplikacije i možeš je koristiti samo s ovom aplikacijom. ",
+    [
+      8,
+      "$b",
+      [
+        "Za ovu kupnju povrat novca nije moguć."
+      ]
+    ]
   ],
   "G16Wji": [
     "Veza za sinkornizaciju opozvana! ",
@@ -47764,6 +48368,9 @@
   ],
   "GGlM3e": [
     "Prebaci samo izlaz"
+  ],
+  "GGn3pp": [
+    "Podaci o pretplati"
   ],
   "GGxBdA": [
     "Emoji čarobnog štapića"
@@ -52137,6 +52744,9 @@
     ],
     " započeo/la je glasovno druženje."
   ],
+  "HzDn6w": [
+    "Okviri profila"
+  ],
   "Hza+Bu": [
     "Nitro ti pruža ekskluzivne efekte profila i posebne članske cijene u Trgovini."
   ],
@@ -52644,6 +53254,37 @@
   ],
   "IAcEEn": [
     "Ostavi bilješku"
+  ],
+  "IAsfR5": [
+    "Uživaj u ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " dan"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " dana"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " prije nego što ti nešto naplatimo!"
   ],
   "IAybsG": [
     "uštedi ",
@@ -53279,6 +53920,42 @@
   "IOy+I5": [
     "Nije moguće pokrenuti aktivnost"
   ],
+  "IP93kX": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Preuzimanje predmeta iz Trgovine znači da preuzimaš ograničenu licencu za korištenje tog predmeta na Discordu. ",
+    [
+      8,
+      "$link",
+      [
+        "Ovdje"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " možeš doznati više. Za iskorištene orbove ne možeš dobiti povrat."
+  ],
   "IPO2be": [
     "Prijavi server — ",
     [
@@ -53412,6 +54089,42 @@
   ],
   "ITUQgh": [
     "Preporučena opcija za servere koji koriste uloge za pouzdano članstvo."
+  ],
+  "ITY3j6": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kupnja predmeta iz Trgovine znači da kupuješ ograničenu licencu za korištenje ovog predmeta na Discordu. ",
+    [
+      8,
+      "$link",
+      [
+        "Ovdje"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    " možeš doznati više. Ova je kupnja nepovratna. Predmet će odmah biti dostupan u postavkama korisničkog profila."
   ],
   "ITlV6p": [
     "Poveži se sa skrbnikom da zadržiš pristup svom računu"
@@ -56132,6 +56845,9 @@
   "JPI1pf": [
     "Dođi u Nitro"
   ],
+  "JPRQ9L": [
+    "Plati pomoću Pixa"
+  ],
   "JPU0EF": [
     "Odabir modela"
   ],
@@ -57015,6 +57731,48 @@
   "JsBPb8": [
     "Primjeri postojećih zajednica Discorda"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " nakon ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "jednog mjeseca"
+            ],
+            "=2": [
+              "dva mjeseca"
+            ],
+            "=3": [
+              "tri mjeseca"
+            ],
+            "few": [
+              [
+                7
+              ],
+              " mjeseca"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " mjeseci"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Regulira količinu zvuka koju Discord prenosi putem tvojeg mikrofona. Govori da testiraš mikrofon – ako je pokazivač ispunjen, Discord prenosi tvoj prekrasan glas."
   ],
@@ -57181,6 +57939,14 @@
   ],
   "Jz1lXO": [
     "Odaberi neku opciju kojom ćeš verificirati da si to stvarno ti."
+  ],
+  "Jz6+Oj": [
+    "Saldo darovne kartice (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Isprobaj određene nove značajke prije nego postanu dostupne ostalima."
@@ -59295,6 +60061,14 @@
     ],
     " je povučena."
   ],
+  "KpnRtO": [
+    "Primijenjen je ",
+    [
+      2,
+      "intervalCount"
+    ],
+    "-godišnji popust"
+  ],
   "Kq7FAS": [
     "Postavi zadane kanale koje će svaki član vidjeti na svom popisu kanala nakon pridruživanja. Članovi mogu dodati još kanala koristeći pitanja u vezi prilagodbe."
   ],
@@ -59488,6 +60262,9 @@
   ],
   "KuzWUU": [
     "Prikaz u obliku popisa"
+  ],
+  "Kv+vV7": [
+    "Ovaj način plaćanja ne možeš koristiti u svojoj sadašnjoj državi/regiji"
   ],
   "Kv6Z4I": [
     "Siguran"
@@ -60400,6 +61177,14 @@
   ],
   "LHUP9D": [
     "Ukloni knjižnu oznaku"
+  ],
+  "LHWoqL": [
+    "Primijenjen je ",
+    [
+      2,
+      "intervalCount"
+    ],
+    "-tjedni popust"
   ],
   "LHy5uU": [
     "Nabavi DLC"
@@ -61816,6 +62601,9 @@
   "LvXy/H": [
     "Dobro došao/la 👋 u prilično dosadnu verziju trgovine na serveru, novog načina da ponudiš zabavne stvari svojim članovima i pritom još zaradiš. Ova kartica za sada nije vidljiva članovima tvojeg servera, a to će tako i ostati sve dok ne definiraš i ponudiš svoj prvi proizvod!"
   ],
+  "LvcUx4": [
+    "Obnovi pretplatu"
+  ],
   "Lw6KXV": [
     "Pokrenuo/la si ",
     [
@@ -62215,6 +63003,9 @@
   ],
   "M2iEy3": [
     "Kao zadana postavka omogućuje članovima prikazivanje ovog kanala."
+  ],
+  "M2mY1J": [
+    "Godišnje"
   ],
   "M35zFB": [
     "Idi na server"
@@ -63256,6 +64047,14 @@
   "MQoVeb": [
     "Prilagođene naljepnice posvuda"
   ],
+  "MR4VnX": [
+    "Obnavlja se ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -63295,6 +64094,13 @@
   ],
   "MS/4U1": [
     "Arhiviranje modela"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " popusta"
   ],
   "MSWjRh": [
     "Dođi do prilagođenih profila kao što je ovaj ",
@@ -63947,6 +64753,13 @@
   ],
   "Mi3iPI": [
     "Pogledaj kakve sve imamo"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    " % POPUSTA"
   ],
   "Mi60fm": [
     "Tvoj skrbnik treba skenirati ovaj kôd"
@@ -64878,6 +65691,9 @@
   "N46WOv": [
     "URL tvoje promotivne stranice"
   ],
+  "N4EAHm": [
+    "ili"
+  ],
   "N4ICPb": [
     "Ovaj DLC zahtijeva da imaš ",
     [
@@ -65247,6 +66063,9 @@
   ],
   "NEFeB0": [
     "Smrt"
+  ],
+  "NEHhLR": [
+    "Godišnji model"
   ],
   "NENZhS": [
     "Prilagodi postavke"
@@ -67799,6 +68618,13 @@
   "OBCR+p": [
     "Prikaži više"
   ],
+  "OBVcgO": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " Mjesečni model"
+  ],
   "OBp3V3": [
     "GIF, gumb"
   ],
@@ -67893,6 +68719,14 @@
   ],
   "ODCYj8": [
     "Dopusti članovima da stvaraju niti koje mogu vidjeti svi na kanalu."
+  ],
+  "ODKoJd": [
+    "Uštedi ",
+    [
+      2,
+      "percent"
+    ],
+    " % uz godišnji model"
   ],
   "ODXApH": [
     "Build nije dostupan"
@@ -67994,6 +68828,77 @@
   ],
   "OGpGqO": [
     "Predstavljanje proizvoda"
+  ],
+  "OH1Evm": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da uzimaš ponavljajuću pretplatu. Naplatit ćemo ti ",
+    [
+      1,
+      "totalDue"
+    ],
+    " danas, a zatim ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " uz odgovarajuće poreze svakih ",
+    [
+      1,
+      "interval"
+    ],
+    " počevši od ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " sve do otkazivanja. Cijene se mogu promijeniti. Otkaži kad poželiš u postavkama. Primjenjuju se ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjeti komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Imaš li pitanja? ",
+    [
+      8,
+      "$link",
+      [
+        "Obrati nam se"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " ili pogledaj naša ",
+    [
+      8,
+      "$link",
+      [
+        "Česta pitanja o pretplatama"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Dijeljenje"
@@ -68548,6 +69453,33 @@
   ],
   "OVN9la": [
     "Želiš li koristiti drugi avatar, banner i bio?"
+  ],
+  "OVhTE7": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Kupnja predmeta iz ",
+    [
+      1,
+      "applicationName"
+    ],
+    " trgovine igara znači da kupuješ ograničenu licencu za korištenje ovog predmeta u navedenoj igri. Ova je kupnja nepovratna. Ovaj će predmet isporučiti developer izravno u igri."
   ],
   "OVlNGT": [
     "boju svoje uloge\npremium emojija: ",
@@ -70287,6 +71219,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "”, to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". To će biti jednokratna naplata za odabrano razdoblje. Neće ti se naplaćivati mjesečno. Darovi za Nitro su nepovratni nakon što ih primatelj iskoristi."
+  ],
   "P5dSl0": [
     "Boja sjene"
   ],
@@ -71580,6 +72534,9 @@
     ],
     "?"
   ],
+  "PZDPvQ": [
+    "Kod darovne kartice je obavezan"
+  ],
   "PZLnuD": [
     "Aktivnost je završila.\nŽeliš li pokrenuti neku drugu?"
   ],
@@ -72424,6 +73381,35 @@
       ]
     ],
     " istaknuo/la je poruku na Početnoj"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mjesec"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " Nitra"
   ],
   "PygWIS": [
     "Ponovno povezivanje"
@@ -73726,6 +74712,39 @@
   "QXMYAb": [
     "Simboli"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " nakon ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " mjeseca"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " mjeseci"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Kako je bilo s aplikacijom ",
     [
@@ -74910,6 +75929,9 @@
   ],
   "R0VpSW": [
     "Dobivaš obavijest kada server na kojem se nalaziš ima nadolazeći događaj."
+  ],
+  "R0cZsM": [
+    "Danas ukupno"
   ],
   "R0h4pE": [
     [
@@ -79794,6 +80816,9 @@
   "Sx8Ezi": [
     "Pokušaj upotrijebiti kanal s pozornicom!"
   ],
+  "SxKq52": [
+    "Sljedeći godišnje ponavljajući"
+  ],
   "SxLn1y": [
     "Moram biti najbolji kao nitko do sad"
   ],
@@ -82401,6 +83426,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Sljedeća obnova"
+  ],
   "TtA5rK": [
     "Koristi vanjske aplikacije"
   ],
@@ -82818,6 +83846,13 @@
   ],
   "U26WX+": [
     "Žao nam je, ali ne možeš prihvatiti ovaj dar jer uz tvoju pretplatu stoji nepodmireni račun."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " sada"
   ],
   "U2JFHZ": [
     "naziv_emojija"
@@ -84275,6 +85310,9 @@
   "UdNuqi": [
     "Neonski svemir"
   ],
+  "UdSuwf": [
+    "Za ovu je kupnju potreban tvoj način plaćanja pretplate."
+  ],
   "UdXO8P": [
     "Uh! Ne možeš polagati prava i uzeti ",
     [
@@ -85430,6 +86468,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Moraš koristiti aplikaciju za desktop ili web aplikaciju da možeš napraviti kupnju sa stanjem na darovnoj kartici."
+  ],
   "V3Gri+": [
     "Francuski"
   ],
@@ -86156,6 +87197,9 @@
   ],
   "VJRr3Y": [
     "Ubaci se u solo zagonetke, društvene igre, natjecateljske obračune i još toga."
+  ],
+  "VJXTzd": [
+    "Počasti se nečim u trgovini ili ta sredstva uloži na bilo što drugo na Discordu."
   ],
   "VJcK41": [
     "Anketa korisnika ",
@@ -88831,6 +89875,9 @@
   "WJisip": [
     "Dodirni da bi zadao minijaturu"
   ],
+  "WJmme7": [
+    "Ovaj način plaćanja ne možeš koristiti za ovu transakciju."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -90248,6 +91295,9 @@
   "WmfZHZ": [
     "Kopiraj link misije"
   ],
+  "WmjxYl": [
+    "Dan"
+  ],
   "WmsPis": [
     "Koju aktivnost dijelim"
   ],
@@ -90440,6 +91490,9 @@
   ],
   "Wr4RIX": [
     "Ugrađeni sadržaji onemogućeni su na ovom kanalu."
+  ],
+  "WrFWOV": [
+    "Sljedeći mjesečno ponavljajući"
   ],
   "WrQD/Y": [
     "Želiš li ignorirati korisnika ",
@@ -90679,6 +91732,14 @@
   ],
   "WzC9s6": [
     "Želim da cijeli moj server bude ekskluzivan"
+  ],
+  "WzJTZI": [
+    "Primijenjen je ",
+    [
+      2,
+      "intervalCount"
+    ],
+    "-dnevni popust"
   ],
   "WzM5YA": [
     "nba"
@@ -91234,6 +92295,9 @@
   ],
   "XBrJT6": [
     "Dolazni poziv"
+  ],
+  "XBtSMa": [
+    "Slažem se s trenutnom dostavom"
   ],
   "XBwns+": [
     "Nepoznat server"
@@ -92122,6 +93186,22 @@
   "XWkJoi": [
     "Automatsko stvaranje isječaka"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Odabrana besplatna nagrada"
+        ],
+        "other": [
+          "Odabranih besplatnih nagrada"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Neograničeno"
   ],
@@ -92951,6 +94031,9 @@
   "Xrcmjk": [
     "Neutralno"
   ],
+  "Xrg8aC": [
+    "Godina"
+  ],
   "XrpYIG": [
     "Samo te uloge mogu koristiti zaslonsku ploču. Ostavi ovo prazno ako želiš da je svi mogu koristiti. Promjene se primjenjuju odmah."
   ],
@@ -93723,6 +94806,9 @@
         "Pretplatu možeš ponovo pokrenuti kad god to poželiš."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Odabrali smo način plaćanja koji odgovara tvojoj državi/regiji."
   ],
   "Y6qWLc": [
     "Pošalji poruku u kanalu ",
@@ -94550,6 +95636,9 @@
   "YTvOUx": [
     "Dodaj na cijelom Discordu i u svim igrama povezanim s ovim računom"
   ],
+  "YUNJJa": [
+    "Spremanje uz Nitro"
+  ],
   "YUSOKl": [
     "Želiš li blokirati ovaj račun?"
   ],
@@ -94846,6 +95935,9 @@
   ],
   "YZd5rw": [
     "Sad imaš ponešto slatkih pogodnosti tijekom cijele godine. Uživaj u njima!"
+  ],
+  "YZePWx": [
+    "Razumijem"
   ],
   "YZiJbh": [
     "Pokušavam otkriti Discord račun s tvog zadanog preglednika. Daj mi sekundu..."
@@ -96533,6 +97625,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " imaš Nitro Basic"
+  ],
   "ZAbzbA": [
     "Upravi si zadao/la ",
     [
@@ -97377,6 +98477,14 @@
   ],
   "ZQ37tH": [
     "Ta se uloga automatski dodjeljuje članovima. Nije je moguće ručno dodijeliti ili ukloniti članovima."
+  ],
+  "ZQLDzk": [
+    "Primijenjen je ",
+    [
+      2,
+      "intervalCount"
+    ],
+    "-mjesečni popust"
   ],
   "ZQakPR": [
     "Tvoj Discord"
@@ -98349,6 +99457,9 @@
   "ZnkeXs": [
     "Ključ je uklonjen!"
   ],
+  "ZnoRKt": [
+    "Mjesec"
+  ],
   "ZnqyZ2": [
     "Pogledaj sve posebne pogodnosti koje donosi Nitro"
   ],
@@ -98872,6 +99983,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Ukupno dospjelo"
   ],
   "Zxk1OF": [
     "Kanali predložaka"
@@ -100759,6 +101873,9 @@
   ],
   "ajkYcF": [
     "Dalje"
+  ],
+  "ajn5LL": [
+    "Novi mjesečno ponavljajući"
   ],
   "ajzh8S": [
     "Tvoja vidljivost profila postavljena je na ",
@@ -103622,6 +104739,77 @@
   "bbUIWp": [
     "Poruka za pozivanje kontakta"
   ],
+  "bbgJdE": [
+    "Klikom na „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” prijavljuješ se na ponavljajuću pretplatu. Naplatit će ti se ",
+    [
+      1,
+      "totalDue"
+    ],
+    " danas, a zatim ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " s primjenjivim porezima svakih ",
+    [
+      1,
+      "interval"
+    ],
+    " počevši od ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " dok ne otkažeš. Tu kupnju nudi developer ove aplikacije i može se koristiti samo s ovom aplikacijom. Cijene se mogu promijeniti. Otkaži kad poželiš u postavkama. Primjenjuju se ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjeti komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Imaš li pitanja? ",
+    [
+      8,
+      "$link",
+      [
+        "Obrati nam se"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " ili pogledaj naša ",
+    [
+      8,
+      "$link",
+      [
+        "Česta pitanja o pretplatama"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Provjera instalacije — ",
     [
@@ -103679,6 +104867,9 @@
   ],
   "bdBmqy": [
     "Aktivnost"
+  ],
+  "bdF0KJ": [
+    "Prilagodba darovne kartice"
   ],
   "bdMG43": [
     "Postavljanje bombe"
@@ -106998,6 +108189,9 @@
   "cbtPXy": [
     "Tema je ažurirana."
   ],
+  "ccWIdu": [
+    "Tvoj saldo mora pokriti ukupni iznos dugovanja"
+  ],
   "cd": [
     "blu-ray",
     "cd",
@@ -108807,6 +110001,47 @@
     ],
     " ponovno"
   ],
+  "cwuBkH": [
+    "Klikneš li „",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "” to znači da prihvaćaš ",
+    [
+      8,
+      "$link",
+      [
+        "Uvjete komercijalno pruženih usluga"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Preuzimanjem predmeta iz ",
+    [
+      1,
+      "applicationName"
+    ],
+    " znači da preuzimaš ograničenu licencu za korištenje tog predmeta na Discordu. Više o tome možeš doznati ",
+    [
+      8,
+      "$link",
+      [
+        "ovdje"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Za iskorištene orbove ne možeš dobiti povrat. Ovaj će predmet developer isporučiti izravno u igri."
+  ],
   "cxFiDC": [
     "Grub govor"
   ],
@@ -110187,6 +111422,9 @@
   ],
   "dRycVz": [
     "Otkaži otkaz sada"
+  ],
+  "dSPkHo": [
+    "Unesi kôd"
   ],
   "dSRTMB": [
     "Pošalji sumnjive direktne poruke u odvojenu ulaznu poštu za spam. Članovi mogu poslati izvješće o prijevari ili poruke premjestiti u ulaznu poštu."
@@ -113381,6 +114619,9 @@
   "eTVbtx": [
     "Nova kategorija"
   ],
+  "eTYAvF": [
+    "Efekt profila"
+  ],
   "eTmN5a": [
     "Uklanjanje nije moguće jer ima administratorski pristup."
   ],
@@ -114264,6 +115505,9 @@
   ],
   "eoXe0r": [
     "Razvrstaj po: najnovije"
+  ],
+  "eoXh7B": [
+    "Sažetak narudžbe"
   ],
   "eontIh": [
     "Otključaj svaku naljepnicu uz ",
@@ -115817,6 +117061,16 @@
     ],
     " nije bilo moguće dodati."
   ],
+  "fJnl1h": [
+    "Ne vidiš prozor za plaćanje? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Ponovno otvori"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Ako odbaciš, možeš pokrenuti novu prijavu s linka s pozivnicom."
   ],
@@ -116964,6 +118218,9 @@
     "perje",
     "pero",
     "ptica"
+  ],
+  "febr+T": [
+    "Saldo darovne kartice"
   ],
   "feet": [
     "otisak",
@@ -120621,6 +121878,31 @@
   "gvXH+a": [
     "Ne možeš upravljati pretplatom"
   ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "godina"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " godine"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " godina"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "gvgh9L": [
     "Ažurirano jučer"
   ],
@@ -123030,6 +124312,9 @@
     "biljka",
     "list"
   ],
+  "hewwdA": [
+    "Kupnja aplikacije"
+  ],
   "hf6YOY": [
     "Popust dobiješ kao dio tvoje pretplate ",
     [
@@ -123248,6 +124533,9 @@
   "hjlZZf": [
     "Stupanje na snagu može potrajati do 24 sata."
   ],
+  "hjsn+s": [
+    "Sadašnji način plaćanja"
+  ],
   "hjvcLO": [
     "Server Boostovi"
   ],
@@ -123350,6 +124638,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Iskoristi"
   ],
   "hnbagF": [
     "Dobit ćeš Boost kada prođe jedan mjesec otkako imaš Nitro."
@@ -124178,6 +125469,13 @@
   "i338qh": [
     "Deka"
   ],
+  "i3Q/6S": [
+    "Ukupno podešavanja: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Molimo prijavi se da ti ponovno pošaljemo link."
   ],
@@ -124431,6 +125729,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Iskoristi darovnu karticu"
   ],
   "iBUzS5": [
     "Ukloni mjesto"
@@ -124995,6 +126296,25 @@
   "iPdFOt": [
     "Ažuriraj dozvole naredbi"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "dan"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " dana"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Neka ti Discord služi još bolje"
   ],
@@ -125512,6 +126832,9 @@
   ],
   "iZRkC/": [
     "Nepoznato"
+  ],
+  "iZe9Wy": [
+    "Proizvod"
   ],
   "iZf+eD": [
     "Server mi je bilo preteško shvatiti"
@@ -127519,6 +128842,9 @@
     ],
     " limit datoteke"
   ],
+  "jM8/71": [
+    "Komplet"
+  ],
   "jMFSQV": [
     "Svatko na serveru ti može poslati poruku"
   ],
@@ -129224,6 +130550,9 @@
   ],
   "jxIxJL": [
     "Da bi preskočio ovaj modal, drži shift kada uklanjaš članove."
+  ],
+  "jxUJkZ": [
+    "Novi ponavljajući iznos"
   ],
   "jxXMEz": [
     "Podnesi zahtjev za podacima"
@@ -131706,6 +133035,17 @@
   ],
   "ky6syM": [
     "Šampionsko ubojstvo"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Ograničenja vremena pred zaslonom"
@@ -135902,6 +137242,9 @@
   "mWAbK4": [
     "Članovima omogućuje da u ovim kanalima upotrebljavaju emojije s drugih servera, ako su članovi Discord Nitro."
   ],
+  "mWL08+": [
+    "Besplatno probno razdoblje"
+  ],
   "mWO+ys": [
     "Poduzmi odgovarajuće radnje"
   ],
@@ -135971,6 +137314,24 @@
   ],
   "mXkYyW": [
     "Zanemarivanje ne ostvaruje željeni učinak"
+  ],
+  "mXvZt2": [
+    "Pretplaćivanje na ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Ne možeš se sprijateljiti sa sobom"
@@ -140735,6 +142096,13 @@
   "nrpA5E": [
     "proslijedi"
   ],
+  "nsG1jw": [
+    "Uštedi ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Ako otkažeš, onda ",
     [
@@ -142696,6 +144064,9 @@
   "of440F": [
     "Zahtjev za prijateljstvom je otkazan."
   ],
+  "of9bom": [
+    "Pločica s imenom"
+  ],
   "ofQnNQ": [
     "Sadržaj koji prikazuje tebe (ili osobu koju si ovlašten/a zastupati) golu ili uključenu u seksualno eksplicitno ponašanje"
   ],
@@ -144532,6 +145903,13 @@
   "pDE7Gb": [
     "Uzmi ovu naljepnicu od"
   ],
+  "pDVleg": [
+    "Ukupna ušteda ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Broj telefona nije valjan."
   ],
@@ -145029,6 +146407,9 @@
   ],
   "pWLGnF": [
     "Više o nedavnoj aktivnosti"
+  ],
+  "pWSgIu": [
+    "Odabirom ovog načina plaćanja ažurirat će se tvoja država/regija za račun"
   ],
   "pWZvZk": [
     "Ta prijava ",
@@ -149605,6 +150986,9 @@
   "qwJHjo": [
     "Aplikacija"
   ],
+  "qwSlCO": [
+    "Predmet u igri"
+  ],
   "qwfovo": [
     [
       6,
@@ -149991,6 +151375,9 @@
   ],
   "r23NoB": [
     "Ukloni s pozornice"
+  ],
+  "r29Oel": [
+    "Ukras avatara"
   ],
   "r2AEw1": [
     "Moraš ispunjavati minimalne dobne preduvjete u svojoj državi da bi koristio/la Discord."
@@ -150822,6 +152209,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Dodaj novi način plaćanja"
   ],
   "rNGQfD": [
     "Podijeli link misije"
@@ -157168,6 +158558,9 @@
   "t+gj5V": [
     "Dodaj barem jednu radnju ovom pravilu."
   ],
+  "t+xzd8": [
+    "Tvoja je pretplata vraćena!"
+  ],
   "t/IjXY": [
     "Sve slike"
   ],
@@ -157869,6 +159262,9 @@
   "tJzB6F": [
     "Prikazana je pogrešna igra"
   ],
+  "tK8A/8": [
+    "Moraš smanjiti broj boostova da možeš koristiti saldo sa svoje darovne kartice."
+  ],
   "tKCltd": [
     "Nitro je uspješno podijeljen"
   ],
@@ -158353,6 +159749,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Ostvaruješ ",
+    [
+      8,
+      "$b",
+      [
+        "uštedu od ",
+        [
+          1,
+          "percentOff"
+        ],
+        " %"
+      ]
+    ],
+    " tijekom prve godine!"
   ],
   "tVHevX": [
     "Poslano prije ",
@@ -160911,6 +162323,41 @@
   "uCD7qK": [
     "Omogući ili onemogući prečac"
   ],
+  "uCXulJ": [
+    "Daruješ li ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mjesec"
+        ],
+        "few": [
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    ", uštedjet ćeš ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    " %. Tako se to radi!"
+  ],
   "uCebZa": [
     "Dopusti više odgovora"
   ],
@@ -162449,6 +163896,9 @@
     "otključano",
     "otvoreno",
     "slomljeno"
+  ],
+  "uo9YsP": [
+    "Ova darovna kartica već je iskorištena."
   ],
   "uoQFIp": [
     "Dodaj podatke"
@@ -164421,6 +165871,33 @@
   "vcqwCj": [
     "Tvoj problem"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Dovršavanjem ove kupnje ažurirat će se tvoja država/regija na ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". To znači:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- nećeš moći koristiti način plaćanja iz druge države/regije\n- nećeš moći ponovno promijeniti svoju državu/regiju tijekom 90 dana"
+      ]
+    ]
+  ],
   "vct4l8": [
     "boost istječe ",
     [
@@ -166223,6 +167700,51 @@
   ],
   "wCbINr": [
     "Nitro 3 mjeseca"
+  ],
+  "wCkwJf": [
+    "Ostvaruješ uštedu od ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " za ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "svoj ",
+          [
+            7
+          ],
+          " mjesec"
+        ],
+        "few": [
+          "svoja ",
+          [
+            7
+          ],
+          " mjeseca"
+        ],
+        "other": [
+          "svojih ",
+          [
+            7
+          ],
+          " mjeseci"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Počni gledati više streamova"
@@ -174201,6 +175723,9 @@
   "yr9TTf": [
     "Ukloni s popisa želja"
   ],
+  "yrk+N6": [
+    "Tvoja pretplata kasni s plaćanjem. Pokušaj ponovno izvršiti plaćanje ili dodaj novi način plaćanja da je obnoviš."
+  ],
   "ysbNDc": [
     "Nestajanje u vidu magle"
   ],
@@ -174294,6 +175819,9 @@
   ],
   "yvMu3S": [
     "Anihilacija"
+  ],
+  "yvUaHi": [
+    "Zajedno s primjenjivim porezima"
   ],
   "yvV5Ye": [
     [

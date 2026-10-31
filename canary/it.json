@@ -1802,6 +1802,9 @@
   "+f0bXQ": [
     "Invia un messaggio casuale di benvenuto quando qualcuno si unisce a questo server."
   ],
+  "+fIPjg": [
+    "Regalati Nitro o esplora il negozio per trovare qualcosa che ti piace."
+  ],
   "+fPCTZ": [
     "Assicurati di non aver inserito la tua password o altre informazioni sensibili."
   ],
@@ -3345,6 +3348,9 @@
   "/F7Z2y": [
     "Totale"
   ],
+  "/FQWfA": [
+    "Saldo dei buoni regalo"
+  ],
   "/FWKKC": [
     "Puoi ripristinare la visibilità in qualsiasi momento"
   ],
@@ -4144,6 +4150,9 @@
   ],
   "/YEoH2": [
     "Questo server è soggetto a limiti di età nella tua regione. Abbiamo stabilito che fai parte di una fascia d'età soggetta a restrizioni. Se abbiamo commesso un errore, puoi riconfermare."
+  ],
+  "/YovOw": [
+    "oggetto da collezione"
   ],
   "/YuDAs": [
     "Unito"
@@ -6999,6 +7008,37 @@
   "0ZkNDU": [
     "Impossibile rimuovere tag"
   ],
+  "0Zl+Xt": [
+    "Cliccando \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Acquistare un prodotto dal negozio di gioco di ",
+    [
+      1,
+      "applicationName"
+    ],
+    " significa che stai acquistando una licenza limitata per usare questo prodotto nel gioco elencato. Questo acquisto non è rimborsabile. Questo prodotto verrà consegnato direttamente nel gioco dallo sviluppatore. ",
+    [
+      1,
+      "platformInfo"
+    ]
+  ],
   "0Zr77P": [
     "Parlaci della tua esperienza con il nuovo layout dell'app."
   ],
@@ -8300,6 +8340,9 @@
   ],
   "11e3sB": [
     "Potrai tenere lezioni, aiutare con i compiti e studiare insieme."
+  ],
+  "11g67A": [
+    "Prossimo rinnovo"
   ],
   "11oKq+": [
     "Cipro"
@@ -10675,6 +10718,9 @@
   "26oeP8": [
     "Inserisci un motivo."
   ],
+  "26tjwd": [
+    "Riscatta buono regalo"
+  ],
   "26uMPL": [
     "Troppo incredibile!"
   ],
@@ -11507,6 +11553,29 @@
   ],
   "2PKrQO": [
     "Prova questo look"
+  ],
+  "2PiTTi": [
+    "Regalo per ",
+    [
+      1,
+      "avatar"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "nickname"
+        ]
+      ]
+    ],
+    " @",
+    [
+      1,
+      "username"
+    ]
   ],
   "2PuL9F": [
     "Anche se avevi già collegato il tuo account Xbox, ricollegalo per abilitare le nuove funzionalità."
@@ -12530,6 +12599,77 @@
   "2pG5Ga": [
     "Abbonati"
   ],
+  "2pNIbI": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", ti iscrivi a un abbonamento ricorrente. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso. Quando il tuo periodo di prova termina in data ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    ", ti verranno addebitati ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", fino a quando non annullerai. I prezzi sono soggetti a modifiche. Ti invieremo un promemoria prima del termine del periodo di prova. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "2pds6p": [
     "Sfondo di Esplora server impostato"
   ],
@@ -12982,6 +13122,9 @@
   "2zGdAW": [
     "Prova Nitro!"
   ],
+  "2zUa6I": [
+    "Abbonamento"
+  ],
   "2zdDw5": [
     "Cliccando su \"",
     [
@@ -13103,6 +13246,9 @@
   ],
   "30+sih": [
     "Segnalazioni condivise da te"
+  ],
+  "302Ck/": [
+    "Il tuo metodo di pagamento è stato salvato"
   ],
   "302tKP": [
     "Ottieni oggetto"
@@ -15359,6 +15505,9 @@
       "appName"
     ]
   ],
+  "3jjweL": [
+    "CAP/Codice postale"
+  ],
   "3jprCb": [
     "Impossibile elaborare la modifica a causa di un pagamento in attesa."
   ],
@@ -15370,6 +15519,9 @@
   ],
   "3k4hTU": [
     "Disattivare condivisione attività?"
+  ],
+  "3kMstB": [
+    "I tuoi metodi di pagamento salvati non corrispondono al tuo Paese/regione attuale. Aggiungendone uno nuovo, verrà aggiornato il Paese/regione."
   ],
   "3kVEg0": [
     "Se te ne vai, puoi unirti a un altro piano di gruppo dopo la fine del periodo di attesa di ",
@@ -15888,6 +16040,9 @@
       "timestamp",
       "long"
     ]
+  ],
+  "3wsYeI": [
+    "Regalo una tantum"
   ],
   "3x/M9Z": [
     "Questo negozio è stato pubblicato ",
@@ -16572,6 +16727,37 @@
   ],
   "4EGMWL": [
     "Chiudi stream"
+  ],
+  "4EZ0L7": [
+    "Cliccando su una delle opzioni di acquisto qui sotto, accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Comprare un oggetto dal negozio equivale ad acquistare una licenza limitata per usare tale oggetto su Discord. Scopri di più nella sezione \"Beni virtuali\" ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Questo acquisto non è rimborsabile. L'oggetto sarà immediatamente disponibile nelle impostazioni del profilo utente."
   ],
   "4Egr5O": [
     "Sblocca tutte le emoji e usale ovunque tu voglia con Nitro."
@@ -18842,6 +19028,14 @@
       ]
     ]
   ],
+  "57B1ks": [
+    "Prossimo rinnovo in data ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "57St/7": [
     [
       8,
@@ -20038,6 +20232,9 @@
   "5dX4UM": [
     "Non c'è nessuna GIF con quel nome."
   ],
+  "5dmUS+": [
+    "Accetto la consegna immediata del mio acquisto digitale e riconosco di perdere il diritto a un rimborso, tranne nei casi previsti dalla Politica di rimborso, una volta che questo acquisto sarà completato."
+  ],
   "5dxvxs": [
     "Non so come completarla"
   ],
@@ -20170,6 +20367,51 @@
   ],
   "5fZHp3": [
     "Manda invito"
+  ],
+  "5fbNBX": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Riscattare un prodotto da ",
+    [
+      1,
+      "applicationName"
+    ],
+    " equivale a riscattare una licenza limitata per usare tale prodotto su Discord. Scopri di più ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". I riscatti di Orbs non sono rimborsabili. Questo prodotto sarà consegnato direttamente in gioco dallo sviluppatore. ",
+    [
+      1,
+      "platformInfo"
+    ]
   ],
   "5fmYjW": [
     "Vedi la descrizione completa"
@@ -21581,6 +21823,14 @@
       "usernameHook",
       []
     ]
+  ],
+  "66Wi6B": [
+    "Hai aggiunto ",
+    [
+      1,
+      "price"
+    ],
+    " al tuo account"
   ],
   "66YyBJ": [
     "Una decorazione avatar per abbellire il tuo profilo Discord. Mantienila con Nitro!"
@@ -23974,6 +24224,9 @@
   "6yrpFR": [
     "Cambia\nicona"
   ],
+  "6zCzw1": [
+    "Si è verificato un problema durante l'aggiunta del metodo di pagamento. Riprova o tenta con un altro metodo di pagamento."
+  ],
   "6zFA/T": [
     "Molto, molto addietro"
   ],
@@ -24642,6 +24895,9 @@
   ],
   "7LL+Fw": [
     "Stati Uniti"
+  ],
+  "7LeLN4": [
+    "Periodo di prova Nitro applicato"
   ],
   "7LgVmt": [
     "Controlla i consigli per la sicurezza"
@@ -26118,6 +26374,9 @@
   "7qbp3B": [
     "...altro"
   ],
+  "7r4HPu": [
+    "Conferma e paga"
+  ],
   "7r4OKg": [
     "Permetti agli utenti abbonati sincronizzati di usare le tue emoticon personalizzate di Twitch su Discord."
   ],
@@ -26179,6 +26438,14 @@
   ],
   "7sW4h1": [
     "Non è stato trovato nessuno con quel nome."
+  ],
+  "7sYIBL": [
+    "Se regali un anno risparmi il ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Ottima mossa!"
   ],
   "7spYft": [
     "Aggiorna metodo di pagamento"
@@ -26972,6 +27239,25 @@
   "8CVUrV": [
     "Periodo di prova gratuito di Nitro"
   ],
+  "8CYJ8Y": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "mese"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "8CjY/q": [
     "Il costo ti verrà addebitato una sola volta per il periodo di tempo da te scelto. Non riceverai addebiti annuali."
   ],
@@ -27273,6 +27559,14 @@
   ],
   "8Joh+p": [
     "Parla in conferenza"
+  ],
+  "8Jt4Dw": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " di Nitro"
   ],
   "8JzOBn": [
     "I canali predefiniti necessitano del ",
@@ -28303,6 +28597,9 @@
       "username"
     ]
   ],
+  "8gVLB3": [
+    "Ogni mese"
+  ],
   "8gpzp6": [
     "Contenuto scaricabile"
   ],
@@ -28345,6 +28642,27 @@
   ],
   "8ihs9i": [
     "Acquisizione dei dati sulle prestazioni non riuscita"
+  ],
+  "8imbq5": [
+    "Potenziamento di ",
+    [
+      8,
+      "guildIcon",
+      [
+        "guildIcon"
+      ]
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "8imxAq": [
     "Beta termina in data ",
@@ -30183,6 +30501,13 @@
       ]
     ]
   ],
+  "9Nb9Bz": [
+    "Disponibili: ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "9NqwWZ": [
     [
       1,
@@ -30207,6 +30532,9 @@
   ],
   "9Oq93m": [
     "Membri"
+  ],
+  "9OxfNK": [
+    "Esplora il negozio"
   ],
   "9P3PfN": [
     "9P3PfN"
@@ -31567,6 +31895,9 @@
     ],
     "."
   ],
+  "9yHcmL": [
+    "Sconto abbonamento applicato"
+  ],
   "9yLOND": [
     "Data rimozione: ",
     [
@@ -31676,6 +32007,87 @@
   ],
   "A+pogv": [
     "Visualizza risultati"
+  ],
+  "A+qfZ+": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", ti iscrivi a un abbonamento a rinnovo automatico. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso, e ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " per ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Quando il tuo periodo di prova termina in data ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", ti verranno addebitati ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", fino a quando non annullerai. I prezzi sono soggetti a modifiche. Ti invieremo un promemoria prima del termine del periodo di prova. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "A//N4k": [
     "Creato il"
@@ -32412,6 +32824,9 @@
   "AM3mzX": [
     "File"
   ],
+  "AM9XGb": [
+    "Regalo abbonamento"
+  ],
   "AMHrre": [
     "Inviaci feedback"
   ],
@@ -32991,6 +33406,13 @@
   "AcJ4ke": [
     "Imposta delle fasce orarie in cui il tuo adolescente non potrà usare Discord. Durante tali periodi, non riceverà notifiche e non potrà accedere a Discord."
   ],
+  "AcRCMp": [
+    [
+      1,
+      "intervalCount"
+    ],
+    " mesi"
+  ],
   "AcaNYw": [
     "Vuoi che questo server sia unico? Sblocca i banner del server personalizzati con ",
     [
@@ -33218,6 +33640,14 @@
   ],
   "AfrvRD": [
     "Mostra tutto"
+  ],
+  "Afx5yS": [
+    "Hai aggiunto ",
+    [
+      1,
+      "price"
+    ],
+    " al tuo account"
   ],
   "AgMngw": [
     "Saldo degli Orbs: ",
@@ -34065,6 +34495,9 @@
   ],
   "AzkvWe": [
     "Riquadro in evidenza"
+  ],
+  "B+/GvM": [
+    "Inserisci CAP/codice postale"
   ],
   "B+cbLS": [
     "Passare a online?"
@@ -34984,6 +35417,9 @@
   "BLqYQa": [
     "Modifica metodo di pagamento"
   ],
+  "BLu9EI": [
+    "Aggiungi un altro metodo di pagamento"
+  ],
   "BLuvck": [
     "Almeno ",
     [
@@ -35031,6 +35467,14 @@
   ],
   "BMTj28": [
     "Gioca a"
+  ],
+  "BMVyQO": [
+    "Paga l'ammontare di ",
+    [
+      1,
+      "amount"
+    ],
+    " restante in un solo passaggio. Salveremo il tuo metodo di pagamento per la prossima volta."
   ],
   "BMlbE7": [
     "Questa candidatura è stata ritirata."
@@ -35201,6 +35645,9 @@
   ],
   "BPoc9u": [
     "Disconnette automaticamente dai canali vocali e dalle sale conferenze"
+  ],
+  "BPzQj4": [
+    "Acquisto"
   ],
   "BQFHXW": [
     "Devi avere almeno 18 anni per essere un tutore collegato"
@@ -36074,6 +36521,42 @@
   "BkVb1X": [
     "Nuovi amici che il tuo adolescente ha aggiunto o accettato"
   ],
+  "BkYev7": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Comprare un oggetto dal negozio equivale ad acquistare una licenza limitata per usare tale oggetto su Discord. Scopri di più nella sezione \"Beni virtuali\" ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Questo acquisto non è rimborsabile. L'oggetto sarà immediatamente disponibile nelle impostazioni del profilo utente."
+  ],
   "BkZhUI": [
     "Disponibile solo su dispositivi mobile"
   ],
@@ -36268,6 +36751,9 @@
     ],
     ")"
   ],
+  "Bn/CZQ": [
+    "Codice"
+  ],
   "Bn1J+a": [
     "Riscatta il tuo regalo"
   ],
@@ -36276,6 +36762,20 @@
   ],
   "BnSq1I": [
     "Non connesso"
+  ],
+  "BnZSW0": [
+    [
+      1,
+      "label"
+    ],
+    " ",
+    [
+      8,
+      "editHook",
+      [
+        "Modifica"
+      ]
+    ]
   ],
   "Bnbzyd": [
     [
@@ -37412,6 +37912,37 @@
   ],
   "CCU/wn": [
     "In base alle risposte date dai membri, li assegnerai ai canali e/o ruoli."
+  ],
+  "CCVlIb": [
+    "Cliccando su \"Riscatta\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei buoni regalo"
+      ],
+      [
+        [
+          1,
+          "giftCardTermsUrl"
+        ]
+      ]
+    ],
+    " e i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini del Wallet"
+      ],
+      [
+        [
+          1,
+          "walletTermsUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "CCiFY7": [
     "Hai riacquistato le forze."
@@ -38564,6 +39095,14 @@
   "Chg2zd": [
     "Consenti ai membri di creare thread con accesso su invito in questo canale."
   ],
+  "Chj1Ke": [
+    "Sconto applicato fino a: ",
+    [
+      3,
+      "discountEndDate",
+      "short"
+    ]
+  ],
   "ChoIiy": [
     "Consente ai link condivisi dai membri di mostrare le risorse contenute, nei canali testuali."
   ],
@@ -39639,6 +40178,33 @@
   ],
   "DDpHZG": [
     "Guarda. Guadagna Orbs. Ottieni ricompense."
+  ],
+  "DE+C4G": [
+    [
+      8,
+      "$p",
+      [
+        "Completando questo acquisto aggiornerai il tuo Paese/regione a ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Questo significa:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- perderai il saldo del buono regalo attuale\n- non potrai usare un metodo di pagamento di un altro Paese/regione\n- non potrai cambiare di nuovo Paese/regione per 90 giorni"
+      ]
+    ]
   ],
   "DEBGqA": [
     "Nessun permesso trovato"
@@ -41396,6 +41962,9 @@
     ],
     "\"?"
   ],
+  "E6ghtw": [
+    "Stai sbloccando l'accesso anticipato per acquistare le cornici nel negozio"
+  ],
   "E6yaM+": [
     "Kosovo"
   ],
@@ -42106,6 +42675,35 @@
       "cardinal"
     ]
   ],
+  "EOOWpo": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". È possibile che tu stia acquistando una licenza limitata per utilizzare questo oggetto solo nel server del creatore. ",
+    [
+      8,
+      "$b",
+      [
+        "Questo acquisto non è rimborsabile."
+      ]
+    ]
+  ],
   "EOUqzM": [
     "Aggiungi un'immagine al tuo link d'invito con un potenziamento"
   ],
@@ -42469,6 +43067,9 @@
       1,
       "username"
     ]
+  ],
+  "EUKPip": [
+    "Qualcosa è andato storto. Verifica i dettagli e riprova."
   ],
   "EUNgko": [
     "È attiva una modalità microfono iOS non standard. Se preferisci utilizzare una delle opzioni di riduzione del rumore di Discord, seleziona la modalità microfono standard nelle tue ",
@@ -44548,6 +45149,9 @@
   "FNVJ4+": [
     "Decorazione avatar gratis per il tuo profilo!"
   ],
+  "FNijW7": [
+    "Nuova ricorrenza annuale"
+  ],
   "FNqmmX": [
     "Permetto a Discord di usare e trattare le mie informazioni per migliorare i propri servizi e comprendere come farlo. ",
     [
@@ -44855,6 +45459,9 @@
       []
     ],
     " per iniziare."
+  ],
+  "FVzt1W": [
+    "Abbonamento mensile"
   ],
   "FW3Qp/": [
     "Appeso a un filo"
@@ -45249,6 +45856,9 @@
     ],
     " al suo microfono"
   ],
+  "Fjpyfj": [
+    "Promozione"
+  ],
   "FjrXCi": [
     "Condividi un periodo di prova di 2 settimane con fino a ",
     [
@@ -45450,6 +46060,72 @@
       "intervalCount"
     ],
     " mesi fino alla cancellazione dell'abbonamento. I prezzi sono soggetti a modifiche, con previa comunicazione. Comunque, puoi sempre cancellare l'abbonamento dalla tua pagina Impostazioni!"
+  ],
+  "FqlTCu": [
+    "Cliccando su una delle opzioni di acquisto qui sotto, ti iscriverai a un abbonamento a rinnovo automatico. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso, quindi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", a partire dalla data ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " fino a quando non annullerai. I prezzi sono soggetti a modifiche. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "Fqqbhg": [
     "Questo link porta a un utente a cui non hai accesso."
@@ -45862,6 +46538,35 @@
   ],
   "G0neg7": [
     "Accessibilità"
+  ],
+  "G0nk6B": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Acquistare questo prodotto significa ottenere una licenza limitata per usarlo su Discord. Questo acquisto è offerto dallo sviluppatore di questa app e può essere utilizzato solo con questa app. ",
+    [
+      8,
+      "$b",
+      [
+        "Questo acquisto non è rimborsabile."
+      ]
+    ]
   ],
   "G16Wji": [
     "Connessione di sincronizzazione revocata! ",
@@ -46686,6 +47391,9 @@
   ],
   "GGlM3e": [
     "Utilizza solo dispositivo di uscita"
+  ],
+  "GGn3pp": [
+    "Dettagli abbonamento"
   ],
   "GGxBdA": [
     "Emoji bacchetta magica"
@@ -50983,6 +51691,9 @@
     ],
     " ha avviato un ritrovo vocale."
   ],
+  "HzDn6w": [
+    "Cornice del profilo"
+  ],
   "Hza+Bu": [
     "Ottieni effetti del profilo esclusivi e prezzi speciali nel negozio con Nitro."
   ],
@@ -51477,6 +52188,37 @@
   ],
   "IAcEEn": [
     "Lascia una nota"
+  ],
+  "IAsfR5": [
+    "Goditi ",
+    [
+      8,
+      "$b",
+      [
+        "Nitro per ",
+        [
+          6,
+          "daysCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " giorno"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " giorni"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ],
+    " prima dell'addebito!"
   ],
   "IAybsG": [
     "risparmia il ",
@@ -52135,6 +52877,42 @@
   "IOy+I5": [
     "Impossibile avviare l'attività"
   ],
+  "IP93kX": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Riscattare un oggetto dal Negozio equivale a riscattare una licenza limitata per usare tale oggetto su Discord. Scopri di più ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". I riscatti di Orbs non sono rimborsabili."
+  ],
   "IPO2be": [
     "Segnala il server — ",
     [
@@ -52262,6 +53040,42 @@
   ],
   "ITUQgh": [
     "Opzione consigliata per i server che danno un ruolo ai membri fidati."
+  ],
+  "ITY3j6": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Comprare un oggetto dal Negozio equivale ad acquistare una licenza limitata per usare tale oggetto su Discord. Scopri di più ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Questo acquisto non è rimborsabile. L'oggetto sarà immediatamente disponibile nelle impostazioni del profilo utente."
   ],
   "ITlV6p": [
     "Collegati a un genitore/tutore per mantenere l'accesso al tuo account"
@@ -54925,6 +55739,9 @@
   "JPI1pf": [
     "Abbonati a Nitro"
   ],
+  "JPRQ9L": [
+    "Paga con Pix"
+  ],
   "JPU0EF": [
     "Seleziona livelli"
   ],
@@ -55806,6 +56623,42 @@
   "JsBPb8": [
     "Esempi di community Discord esistenti"
   ],
+  "JsSin7": [
+    [
+      1,
+      "priceRate"
+    ],
+    " dopo ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              "un mese"
+            ],
+            "=2": [
+              "due mesi"
+            ],
+            "=3": [
+              "tre mesi"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " mesi"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "JsbzjA": [
     "Controlla la quantità di suono che Discord trasmette attraverso il tuo microfono. Parla per testare: se la barra si riempie, Discord sta trasmettendo la tua bellissima voce."
   ],
@@ -55976,6 +56829,14 @@
   ],
   "Jz1lXO": [
     "Seleziona un'opzione per verificare la tua identità."
+  ],
+  "Jz6+Oj": [
+    "Saldo dei buoni regalo (",
+    [
+      1,
+      "amount"
+    ],
+    ")"
   ],
   "JzAmJc": [
     "Prova in anteprima alcune funzionalità nuove prima che vengano rese disponibili a tutti."
@@ -58072,6 +58933,14 @@
     ],
     " è stata ritirata."
   ],
+  "KpnRtO": [
+    "Sconto di ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " anno/i applicato"
+  ],
   "Kq7FAS": [
     "Imposta i canali predefiniti che i membri visualizzeranno nella lista canali nel momento in cui si iscrivono. I membri potranno aggiungere altri canali utilizzando le domande di personalizzazione."
   ],
@@ -58261,6 +59130,9 @@
   ],
   "KuzWUU": [
     "Visualizzazione come elenco"
+  ],
+  "Kv+vV7": [
+    "Questo metodo di pagamento non può essere utilizzato nel tuo Paese/regione attuale"
   ],
   "Kv6Z4I": [
     "Sicuro"
@@ -59186,6 +60058,14 @@
   ],
   "LHUP9D": [
     "Rimuovi dai preferiti"
+  ],
+  "LHWoqL": [
+    "Sconto di ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " settimana/e applicato"
   ],
   "LHy5uU": [
     "Ottieni DLC"
@@ -60552,6 +61432,9 @@
   "LvXy/H": [
     "Ti diamo il benvenuto 👋 a una versione piuttosto noiosa del negozio del server, un nuovo modo per offrire roba fantastica ai e per guadagnare. I membri del tuo server non possono vedere questa scheda... non fino a quando non crei e pubblichi il primo prodotto!"
   ],
+  "LvcUx4": [
+    "Ripristina abbonamento"
+  ],
   "Lw6KXV": [
     "Hai avviato ",
     [
@@ -60968,6 +61851,9 @@
   ],
   "M2iEy3": [
     "Consente ai membri di visualizzare questo canale automaticamente."
+  ],
+  "M2mY1J": [
+    "Ogni anno"
   ],
   "M35zFB": [
     "Vai al server"
@@ -61967,6 +62853,14 @@
   "MQoVeb": [
     "Adesivi personalizzati ovunque"
   ],
+  "MR4VnX": [
+    "Si rinnova in data ",
+    [
+      3,
+      "renewalDate",
+      "short"
+    ]
+  ],
   "MR5I+r": [
     "lgbtq"
   ],
@@ -62006,6 +62900,13 @@
   ],
   "MS/4U1": [
     "Archivia livello"
+  ],
+  "MSB4E4": [
+    [
+      1,
+      "amountOrPercentOffText"
+    ],
+    " di sconto"
   ],
   "MSWjRh": [
     "Ottieni profili personalizzati come questo ",
@@ -62660,6 +63561,13 @@
   ],
   "Mi3iPI": [
     "Dai un'occhiata"
+  ],
+  "Mi5BH/": [
+    [
+      2,
+      "percentOff"
+    ],
+    "% DI SCONTO"
   ],
   "Mi60fm": [
     "Fai scansionare questo codice al tuo genitore o tutore"
@@ -63582,6 +64490,9 @@
   "N46WOv": [
     "URL della tua pagina promozionale"
   ],
+  "N4EAHm": [
+    "oppure"
+  ],
   "N4ICPb": [
     "Per giocare a questo DLC devi possedere ",
     [
@@ -63945,6 +64856,9 @@
   ],
   "NEFeB0": [
     "Morte"
+  ],
+  "NEHhLR": [
+    "Piano annuale"
   ],
   "NENZhS": [
     "Regola le impostazioni"
@@ -64677,6 +65591,9 @@
       ]
     ],
     " ha aggiornato le impostazioni per la candidatura dei membri"
+  ],
+  "NUNycr": [
+    "un'opzione di acquisto qui sotto"
   ],
   "NUkcpF": [
     "Emoji personalizzate, caricamenti più grandi e altro ancora a soli ",
@@ -66397,6 +67314,14 @@
   "OBCR+p": [
     "Mostra di più"
   ],
+  "OBVcgO": [
+    "Abbonamento da ",
+    [
+      1,
+      "intervalCount"
+    ],
+    " mese/i"
+  ],
   "OBp3V3": [
     "GIF, pulsante"
   ],
@@ -66485,6 +67410,13 @@
   ],
   "ODCYj8": [
     "Consenti ai membri di creare thread visibili a tutti i membri di un canale."
+  ],
+  "ODKoJd": [
+    [
+      2,
+      "percent"
+    ],
+    "% di risparmio con il piano annuale"
   ],
   "ODXApH": [
     "Creazione non disponibile"
@@ -66585,6 +67517,77 @@
   ],
   "OGpGqO": [
     "Voce"
+  ],
+  "OH1Evm": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", ti iscrivi a un abbonamento ricorrente. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso, quindi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", a partire dalla data ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " fino a quando non annullerai. I prezzi sono soggetti a modifiche. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "OH6ADf": [
     "Condivisione"
@@ -67139,6 +68142,33 @@
   ],
   "OVN9la": [
     "Vuoi utilizzare avatar, banner e informazioni diverse?"
+  ],
+  "OVhTE7": [
+    "Cliccando \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Acquistare un prodotto dal negozio di gioco di ",
+    [
+      1,
+      "applicationName"
+    ],
+    " significa che stai acquistando una licenza limitata per usare questo prodotto nel gioco elencato. Questo acquisto non è rimborsabile. Questo prodotto verrà consegnato direttamente nel gioco dallo sviluppatore."
   ],
   "OVlNGT": [
     "il tuo colore del ruolo\n",
@@ -68884,6 +69914,28 @@
       "cardinal"
     ]
   ],
+  "P5KfYx": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Questo sarà un addebito una tantum per il tempo scelto. Non riceverai addebiti ogni mese. I regali Nitro non sono rimborsabili una volta riscattati dal destinatario."
+  ],
   "P5dSl0": [
     "Colore dell'ombra"
   ],
@@ -70159,6 +71211,9 @@
     ],
     "?"
   ],
+  "PZDPvQ": [
+    "È necessario un codice del buono regalo"
+  ],
   "PZLnuD": [
     "L'attività è terminata.\nVuoi avviarne un'altra?"
   ],
@@ -71026,6 +72081,29 @@
       ]
     ],
     " ha messo in evidenza un messaggio su Home"
+  ],
+  "PyJC0V": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mese"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " di Nitro"
   ],
   "PygWIS": [
     "Riconnessione in corso"
@@ -72316,6 +73394,39 @@
   "QXMYAb": [
     "Simboli"
   ],
+  "QXQ/Sm": [
+    [
+      1,
+      "priceRate"
+    ],
+    " dopo ",
+    [
+      8,
+      "$b",
+      [
+        [
+          6,
+          "intervalCount",
+          {
+            "one": [
+              [
+                7
+              ],
+              " mese"
+            ],
+            "other": [
+              [
+                7
+              ],
+              " mesi"
+            ]
+          },
+          0,
+          "cardinal"
+        ]
+      ]
+    ]
+  ],
   "QXYwoD": [
     "Com'è andata con ",
     [
@@ -73483,6 +74594,9 @@
   "R0VpSW": [
     "Ricevi una notifica quando in un server di cui fai parte è in arrivo un evento."
   ],
+  "R0cZsM": [
+    "Totale di oggi"
+  ],
   "R0h4pE": [
     [
       6,
@@ -73787,6 +74901,82 @@
   ],
   "R852HS": [
     "Nuovo anniversario di Discord!"
+  ],
+  "R85gcN": [
+    "Cliccando su una delle opzioni di acquisto qui sotto, ti iscriverai a un abbonamento a rinnovo automatico. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso, e ",
+    [
+      1,
+      "trialOrDiscountPrice"
+    ],
+    " per ",
+    [
+      1,
+      "trialDuration"
+    ],
+    ". Quando il tuo periodo di prova termina in data ",
+    [
+      3,
+      "trialOrDiscountEndDate",
+      "long"
+    ],
+    ", ti verranno addebitati ",
+    [
+      1,
+      "fullRenewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", fino a quando non annullerai. I prezzi sono soggetti a modifiche. Ti invieremo un promemoria prima del termine del periodo di prova. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
   ],
   "R87Y2K": [
     "Verrà programmato dalle ",
@@ -78196,6 +79386,9 @@
   "Sx8Ezi": [
     "Prova a usare una sala conferenze!"
   ],
+  "SxKq52": [
+    "Prossima ricorrenza annuale"
+  ],
   "SxLn1y": [
     "Voglio essere il migliore"
   ],
@@ -80703,6 +81896,9 @@
       "cardinal"
     ]
   ],
+  "Tt3O81": [
+    "Prossimo rinnovo"
+  ],
   "TtA5rK": [
     "Usa app esterne"
   ],
@@ -81119,6 +82315,13 @@
   ],
   "U26WX+": [
     "Non puoi accettare questo regalo perché il tuo abbonamento ha una fattura aperta."
+  ],
+  "U2CmMW": [
+    [
+      1,
+      "priceAmount"
+    ],
+    " ora"
   ],
   "U2JFHZ": [
     "nome_emoji"
@@ -82526,6 +83729,9 @@
   "UdNuqi": [
     "Spazio neon"
   ],
+  "UdSuwf": [
+    "Questo acquisto richiede il metodo di pagamento del tuo abbonamento."
+  ],
   "UdXO8P": [
     "Ooops! Non puoi riscattare ",
     [
@@ -83681,6 +84887,9 @@
       "planPremiumType"
     ]
   ],
+  "V3DI1E": [
+    "Dovrai usare l'app per web o desktop per fare un acquisto con il saldo del buono regalo."
+  ],
   "V3Gri+": [
     "Francese"
   ],
@@ -84390,6 +85599,9 @@
   ],
   "VJRr3Y": [
     "Rompicapo in solitaria, giochi di gruppo, sfide competitive e molto altro."
+  ],
+  "VJXTzd": [
+    "Regalati un articolo nel negozio o qualsiasi altra cosa su Discord."
   ],
   "VJcK41": [
     "Il sondaggio di ",
@@ -86981,6 +88193,9 @@
   "WJisip": [
     "Tocca per impostare la miniatura"
   ],
+  "WJmme7": [
+    "Questo metodo di pagamento non può essere usato per questa transazione."
+  ],
   "WK19hs": [
     "WK19hs"
   ],
@@ -88393,6 +89608,9 @@
   "WmfZHZ": [
     "Copia il link della missione"
   ],
+  "WmjxYl": [
+    "Giorno"
+  ],
   "WmsPis": [
     "Quali attività condivido"
   ],
@@ -88585,6 +89803,9 @@
   ],
   "Wr4RIX": [
     "Gli embed sono disabilitati in questo canale."
+  ],
+  "WrFWOV": [
+    "Prossima ricorrenza mensile"
   ],
   "WrQD/Y": [
     "Ignorare ",
@@ -88818,6 +90039,14 @@
   ],
   "WzC9s6": [
     "Voglio rendere esclusivo tutto il mio server"
+  ],
+  "WzJTZI": [
+    "Sconto di ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " giorno/i applicato"
   ],
   "WzM5YA": [
     "nba"
@@ -89363,6 +90592,9 @@
   ],
   "XBrJT6": [
     "Squillo in arrivo"
+  ],
+  "XBtSMa": [
+    "Accetto la consegna immediata"
   ],
   "XBwns+": [
     "Server sconosciuto"
@@ -90249,6 +91481,22 @@
   "XWkJoi": [
     "Creazione di Autoclip"
   ],
+  "XWo+Bp": [
+    [
+      6,
+      "count",
+      {
+        "one": [
+          "Ricompensa gratis selezionata"
+        ],
+        "other": [
+          "Ricompense gratis selezionate"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "XX5ciX": [
     "Nessun limite"
   ],
@@ -91071,6 +92319,9 @@
   "Xrcmjk": [
     "Neutra"
   ],
+  "Xrg8aC": [
+    "Anno"
+  ],
   "XrpYIG": [
     "Solo questi ruoli possono usare la Whiteboard. Lascia il campo vuoto per consentire a chiunque di usarla. Le modifiche hanno effetto istantaneo."
   ],
@@ -91841,6 +93092,9 @@
         "Potrai rinnovare l'abbonamento in qualunque momento."
       ]
     ]
+  ],
+  "Y6lY0I": [
+    "Abbiamo selezionato un metodo di pagamento che corrisponde al tuo Paese/regione."
   ],
   "Y6qWLc": [
     "Invia un messaggio in ",
@@ -92647,6 +93901,9 @@
   "YTvOUx": [
     "Aggiungilo in Discord e in tutti i giochi collegati a questo account"
   ],
+  "YUNJJa": [
+    "Risparmio con Nitro"
+  ],
   "YUSOKl": [
     "Bloccare questo account?"
   ],
@@ -92944,6 +94201,9 @@
   ],
   "YZd5rw": [
     "Ora hai mirabili benefici tutto l'anno. Divertiti, amico!"
+  ],
+  "YZePWx": [
+    "Capisco"
   ],
   "YZiJbh": [
     "È in corso un tentativo di rilevare l'account di Discord dal tuo browser predefinito. Dammi solo un secondo..."
@@ -94597,6 +95857,14 @@
     ],
     "."
   ],
+  "Z9mu9q": [
+    "1 ",
+    [
+      1,
+      "timeInterval"
+    ],
+    " di Nitro Basic"
+  ],
   "ZAbzbA": [
     "Hai appena messo a segno un colpo ",
     [
@@ -95431,6 +96699,14 @@
   ],
   "ZQ37tH": [
     "I membri sono automaticamente assegnati a questo ruolo. Non può essere assegnato manualmente da altri membri."
+  ],
+  "ZQLDzk": [
+    "Sconto di ",
+    [
+      2,
+      "intervalCount"
+    ],
+    " mese/i applicato"
   ],
   "ZQakPR": [
     "Il tuo Discord"
@@ -96386,6 +97662,9 @@
   "ZnkeXs": [
     "Chiave rimossa!"
   ],
+  "ZnoRKt": [
+    "Mese"
+  ],
   "ZnqyZ2": [
     "Visualizza tutti i benefici Nitro"
   ],
@@ -96915,6 +98194,9 @@
       ]
     ],
     "."
+  ],
+  "Zxav97": [
+    "Totale dovuto"
   ],
   "Zxk1OF": [
     "Canali modello"
@@ -98813,6 +100095,9 @@
   ],
   "ajkYcF": [
     "Avanti"
+  ],
+  "ajn5LL": [
+    "Nuova ricorrenza mensile"
   ],
   "ajzh8S": [
     "La visibilità del tuo profilo è impostata su ",
@@ -101802,6 +103087,77 @@
   "bbUIWp": [
     "Invita i contatti a chattare"
   ],
+  "bbgJdE": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", ti iscrivi a un abbonamento ricorrente. Ti verranno addebitati ",
+    [
+      1,
+      "totalDue"
+    ],
+    " oggi stesso, quindi ",
+    [
+      1,
+      "renewalPrice"
+    ],
+    " più tasse applicabili ogni ",
+    [
+      1,
+      "interval"
+    ],
+    ", a partire dalla data ",
+    [
+      3,
+      "startDate",
+      "long"
+    ],
+    " fino a quando non annullerai. Questo acquisto è offerto dallo sviluppatore di questa app e può essere utilizzato solo con questa app. I prezzi sono soggetti a modifiche. Puoi annullare in qualsiasi momento nelle Impostazioni. Si applicano i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Hai domande? ",
+    [
+      8,
+      "$link",
+      [
+        "Contattaci"
+      ],
+      [
+        [
+          1,
+          "contactUsUrl"
+        ]
+      ]
+    ],
+    " o consulta le nostre ",
+    [
+      8,
+      "$link",
+      [
+        "FAQ sugli abbonamenti"
+      ],
+      [
+        [
+          1,
+          "subscriptionsFaqUrl"
+        ]
+      ]
+    ],
+    "."
+  ],
   "bbilvq": [
     "Verifica installazione — ",
     [
@@ -101860,6 +103216,9 @@
   ],
   "bdBmqy": [
     "Attività"
+  ],
+  "bdF0KJ": [
+    "Adeguamento del buono regalo"
   ],
   "bdMG43": [
     "Bomba piazzata"
@@ -105411,6 +106770,9 @@
   "cbtPXy": [
     "Il tema è stato cambiato."
   ],
+  "ccWIdu": [
+    "Il tuo saldo deve coprire il totale dovuto"
+  ],
   "cd": [
     "blu-ray",
     "CD",
@@ -107528,11 +108890,55 @@
     ],
     " di nuovo"
   ],
+  "cwuBkH": [
+    "Cliccando su \"",
+    [
+      1,
+      "purchaseButtonText"
+    ],
+    "\", accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Riscattare un prodotto da ",
+    [
+      1,
+      "applicationName"
+    ],
+    " equivale a riscattare una licenza limitata per usare tale prodotto su Discord. Scopri di più ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". I riscatti di Orbs non sono rimborsabili. Questo prodotto sarà consegnato direttamente in gioco dallo sviluppatore."
+  ],
   "cxFiDC": [
     "Linguaggio forte"
   ],
   "cxSpOM": [
     "Anteprime dello streaming"
+  ],
+  "cxwOJN": [
+    "Il totale è stato aggiornato"
   ],
   "cxy+zn": [
     "Aggiungi amici e chatta direttamente con loro"
@@ -108873,6 +110279,9 @@
   ],
   "dRycVz": [
     "Disdici ora"
+  ],
+  "dSPkHo": [
+    "Inserisci codice"
   ],
   "dSRTMB": [
     "Invia i MD sospetti a una casella di spam separata. I membri possono inviare una segnalazione di scam o spostare il messaggio nei Messaggi ricevuti."
@@ -112098,6 +113507,9 @@
   "eTVbtx": [
     "Nuova categoria"
   ],
+  "eTYAvF": [
+    "Effetto del profilo"
+  ],
   "eTmN5a": [
     "Impossibile rimuovere a causa dell'accesso amministratore."
   ],
@@ -113017,6 +114429,9 @@
   ],
   "eoXe0r": [
     "Ordina per: più recente"
+  ],
+  "eoXh7B": [
+    "Riepilogo dell'ordine"
   ],
   "eontIh": [
     "Sblocca ogni adesivo con ",
@@ -114551,6 +115966,16 @@
     ],
     "."
   ],
+  "fJnl1h": [
+    "Non ti appare la finestra di pagamento? ",
+    [
+      8,
+      "reopenHook",
+      [
+        "Riapri"
+      ]
+    ]
+  ],
   "fJwWVt": [
     "Se scarti, puoi avviare una nuova candidatura da un link d'invito."
   ],
@@ -115735,6 +117160,9 @@
     "piumaggio",
     "uccello",
     "volo"
+  ],
+  "febr+T": [
+    "Saldo dei buoni regalo"
   ],
   "feet": [
     "animale",
@@ -118254,6 +119682,9 @@
   "gVDdRn": [
     "Unisciti alla chat di gruppo"
   ],
+  "gVM8va": [
+    "Paga in un solo passaggio. Salveremo il tuo metodo di pagamento per la prossima volta."
+  ],
   "gVWG+6": [
     "La mia famiglia"
   ],
@@ -119578,6 +121009,25 @@
   ],
   "gvXH+a": [
     "Impossibile gestire l'abbonamento"
+  ],
+  "gvaGGA": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "anno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " anni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
   ],
   "gvgh9L": [
     "Aggiornata ieri"
@@ -122076,6 +123526,9 @@
     "ramo",
     "verde"
   ],
+  "hewwdA": [
+    "Acquisto in app"
+  ],
   "hf6YOY": [
     "Ottieni uno sconto incluso nel tuo abbonamento ",
     [
@@ -122303,6 +123756,9 @@
   "hjlZZf": [
     "Potrebbero volerci fino a 24 ore prima che abbia effetto."
   ],
+  "hjsn+s": [
+    "Metodo di pagamento attuale"
+  ],
   "hjvcLO": [
     "Potenziamenti server"
   ],
@@ -122404,6 +123860,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "hnRau6": [
+    "Riscatta"
   ],
   "hnbagF": [
     "Ottieni un Potenziamento quando raggiungi il primo mese di Nitro."
@@ -123275,6 +124734,13 @@
   "i338qh": [
     "Coperta"
   ],
+  "i3Q/6S": [
+    "Adeguamenti totali ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "i3ehMr": [
     "Accedi per inviare di nuovo il link."
   ],
@@ -123523,6 +124989,9 @@
       0,
       "cardinal"
     ]
+  ],
+  "iBFPMf": [
+    "Riscatta buono regalo"
   ],
   "iBUzS5": [
     "Rimuovi posizione"
@@ -124066,6 +125535,25 @@
   "iPdFOt": [
     "Aggiorna permessi comando"
   ],
+  "iPorlt": [
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "giorno"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " giorni"
+        ]
+      },
+      0,
+      "cardinal"
+    ]
+  ],
   "iPvfUq": [
     "Migliora la tua esperienza Discord"
   ],
@@ -124545,6 +126033,9 @@
   ],
   "iZRkC/": [
     "Sconosciuto"
+  ],
+  "iZe9Wy": [
+    "Prodotto"
   ],
   "iZf+eD": [
     "Il server era troppo complesso da comprendere"
@@ -126560,6 +128051,9 @@
       "maxUploadPremium"
     ]
   ],
+  "jM8/71": [
+    "Bundle"
+  ],
   "jMFSQV": [
     "Chiunque in questo server può inviarti messaggi"
   ],
@@ -128233,6 +129727,9 @@
   ],
   "jxIxJL": [
     "Tieni premuto shift mentre rimuovi i membri per saltare questo passaggio."
+  ],
+  "jxUJkZ": [
+    "Nuovo importo ricorrente"
   ],
   "jxXMEz": [
     "Invia una domanda per richiedere i miei dati"
@@ -130659,6 +132156,17 @@
   ],
   "ky6syM": [
     "Campione ucciso"
+  ],
+  "kyGViz": [
+    [
+      1,
+      "quantity"
+    ],
+    " × ",
+    [
+      1,
+      "label"
+    ]
   ],
   "kyT6pZ": [
     "Limiti di tempo davanti allo schermo"
@@ -134963,6 +136471,9 @@
   "mWAbK4": [
     "Consente ai membri di usare emoji da altri server in questi canali, nel caso in cui siano membri di Discord Nitro."
   ],
+  "mWL08+": [
+    "Periodo di prova gratuito"
+  ],
   "mWO+ys": [
     "Prendi provvedimenti"
   ],
@@ -135026,6 +136537,24 @@
   ],
   "mXkYyW": [
     "Ignorare non funziona come vorrei"
+  ],
+  "mXvZt2": [
+    "Abbonamento a ",
+    [
+      1,
+      "icon"
+    ],
+    " ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "guildName"
+        ]
+      ]
+    ]
   ],
   "mY2R+F": [
     "Non puoi aggiungere te stesso agli amici"
@@ -140165,6 +141694,13 @@
   "nrpA5E": [
     "avanti"
   ],
+  "nsG1jw": [
+    "Risparmi: ",
+    [
+      1,
+      "savingsText"
+    ]
+  ],
   "nsGVzg": [
     "Se lo annulli, ",
     [
@@ -142114,6 +143650,9 @@
   "of440F": [
     "La richiesta di amicizia è stata annullata."
   ],
+  "of9bom": [
+    "Targhetta nome"
+  ],
   "ofQnNQ": [
     "Contenuto che mostra te (o qualcuno che sei autorizzato a rappresentare) nudo o impegnato in una condotta sessualmente esplicita"
   ],
@@ -143978,6 +145517,13 @@
   "pDE7Gb": [
     "Ottieni questo adesivo da"
   ],
+  "pDVleg": [
+    "Risparmio totale ",
+    [
+      1,
+      "amount"
+    ]
+  ],
   "pDXJct": [
     "Il numero di telefono non è valido."
   ],
@@ -144464,6 +146010,9 @@
   ],
   "pWLGnF": [
     "Informazioni sull'attività recente"
+  ],
+  "pWSgIu": [
+    "Selezionando questo metodo di pagamento aggiornerai il Paese/regione del tuo account"
   ],
   "pWZvZk": [
     "Questa segnalazione cambia le carte in ",
@@ -149282,6 +150831,9 @@
   "qwJHjo": [
     "App"
   ],
+  "qwSlCO": [
+    "Oggetto del gioco"
+  ],
   "qwfovo": [
     "Richiede ",
     [
@@ -149663,6 +151215,9 @@
   ],
   "r23NoB": [
     "Rimuovi dalla conferenza"
+  ],
+  "r29Oel": [
+    "Decorazione avatar"
   ],
   "r2AEw1": [
     "Devi avere l'età minima richiesta nella tua regione per usare Discord."
@@ -150442,6 +151997,9 @@
   ],
   "rN7cuX": [
     "Sakura"
+  ],
+  "rNF29q": [
+    "Aggiungi un nuovo metodo di pagamento"
   ],
   "rNGQfD": [
     "Condividi il link della missione"
@@ -157233,6 +158791,9 @@
   "t+gj5V": [
     "Aggiungi almeno un'azione a questa regola."
   ],
+  "t+xzd8": [
+    "Il tuo abbonamento è stato ripristinato!"
+  ],
   "t/IjXY": [
     "Tutte le foto"
   ],
@@ -157902,6 +159463,9 @@
   "tJzB6F": [
     "Viene mostrato il gioco sbagliato"
   ],
+  "tK8A/8": [
+    "Devi ridurre il numero di potenziamenti per usare il tuo saldo dei buoni regalo."
+  ],
   "tKCltd": [
     "Nitro condiviso con successo"
   ],
@@ -158379,6 +159943,22 @@
       1,
       "time"
     ]
+  ],
+  "tUzT/U": [
+    "Stai ",
+    [
+      8,
+      "$b",
+      [
+        "risparmiando un ",
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " sul primo anno!"
   ],
   "tVHevX": [
     "Inviato ",
@@ -161150,6 +162730,35 @@
   "uCD7qK": [
     "Attiva o disattiva l'associazione tasti"
   ],
+  "uCXulJ": [
+    "Regalare ",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          [
+            7
+          ],
+          " mese"
+        ],
+        "other": [
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    " ti fa risparmiare il ",
+    [
+      2,
+      "savingsPercent"
+    ],
+    "%. Ottima mossa!"
+  ],
   "uCebZa": [
     "Consenti risposte multiple"
   ],
@@ -162699,6 +164308,9 @@
     "lucchetto",
     "segreto",
     "sicurezza"
+  ],
+  "uo9YsP": [
+    "Questo buono regalo è già stato riscattato."
   ],
   "uoQFIp": [
     "Aggiungi dettagli"
@@ -164601,6 +166213,33 @@
   "vcqwCj": [
     "Il tuo problema"
   ],
+  "vcs3zU": [
+    [
+      8,
+      "$p",
+      [
+        "Completando questo acquisto aggiornerai il tuo Paese/regione a ",
+        [
+          8,
+          "$b",
+          [
+            [
+              1,
+              "country"
+            ]
+          ]
+        ],
+        ". Questo significa:"
+      ]
+    ],
+    [
+      8,
+      "$p",
+      [
+        "- non potrai usare un metodo di pagamento di un altro Paese/regione\n- non potrai cambiare di nuovo Paese/regione per 90 giorni"
+      ]
+    ]
+  ],
   "vct4l8": [
     "potenziamento in scadenza il ",
     [
@@ -166435,6 +168074,40 @@
   ],
   "wCbINr": [
     "Nitro 3 mesi"
+  ],
+  "wCkwJf": [
+    "Stai risparmiando un ",
+    [
+      8,
+      "$b",
+      [
+        [
+          1,
+          "percentOff"
+        ],
+        "%"
+      ]
+    ],
+    " su",
+    [
+      6,
+      "intervalCount",
+      {
+        "one": [
+          "l primo mese"
+        ],
+        "other": [
+          "i primi ",
+          [
+            7
+          ],
+          " mesi"
+        ]
+      },
+      0,
+      "cardinal"
+    ],
+    "!"
   ],
   "wCrzut": [
     "Inizia a guardare stream multipli"
@@ -174553,6 +176226,9 @@
   "yr9TTf": [
     "Rimuovi dalla lista dei desideri"
   ],
+  "yrk+N6": [
+    "Il tuo abbonamento è scaduto. Riprova il pagamento o aggiungi un nuovo metodo di pagamento per ripristinarlo."
+  ],
   "ysbNDc": [
     "Vaporizzando"
   ],
@@ -174646,6 +176322,9 @@
   ],
   "yvMu3S": [
     "Annichilendo"
+  ],
+  "yvUaHi": [
+    "Più le tasse applicabili"
   ],
   "yvV5Ye": [
     [
@@ -177001,6 +178680,37 @@
   ],
   "zstmkn": [
     "Renderizza markdown"
+  ],
+  "ztU/1y": [
+    "Cliccando su una delle opzioni di acquisto qui sotto, accetti i ",
+    [
+      8,
+      "$link",
+      [
+        "Termini dei servizi a pagamento"
+      ],
+      [
+        [
+          1,
+          "paidServicesTermsUrl"
+        ]
+      ]
+    ],
+    ". Comprare un oggetto dal negozio equivale ad acquistare una licenza limitata per usare tale oggetto su Discord. Scopri di più ",
+    [
+      8,
+      "$link",
+      [
+        "qui"
+      ],
+      [
+        [
+          1,
+          "virtualGoodsTermsUrl"
+        ]
+      ]
+    ],
+    ". Questo acquisto non è rimborsabile. L'oggetto sarà immediatamente disponibile nelle impostazioni del profilo utente."
   ],
   "ztXW8V": [
     "Usa ",
